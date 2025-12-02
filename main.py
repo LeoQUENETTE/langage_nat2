@@ -2,17 +2,17 @@ from calcul_vectoriel import *
 
 DATA_DIR = "./data/json/"
 RELATIONS_FILES_NAME = {"Agent":"24",
-                        "AuteurCréateur":"",
+                        "AuteurCréateur":"54",
                         "Caractérisation":"23",
                         "Conséquence":"41",
-                        "Despiction":"",
+                        "Despiction":"172",
                         "Holonymie":"10",
-                        "LienSocial":"",
+                        "LienSocial":"113",
                         "Lieu":"28",
                         "Matière":"50",
-                        "Origine":"",
-                        "Quantification":"",
-                        "Topic":"",
+                        "Origine":"171",
+                        "Quantification":"58",
+                        "Topic":"142",
                         "Instrument":"25",
                         "Patient":"14",
                         "Possession" : "121"}
