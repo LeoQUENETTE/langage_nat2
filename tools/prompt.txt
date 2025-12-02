@@ -1,0 +1,17 @@
+| Code | Nom de la relation             | Exemple                     | Définition                                                                                | Relation JDM          |
+| ---- | ------------------------------ | --------------------------- | ----------------------------------------------------------------------------------------- | --------------------- |
+| CO   | **Conséquence**                | *retards de la circulation* | A est directement responsable de B (A cause B).                                           | `r_has_causatif`      |
+| Ca   | **Caractérisation**            | *sagesse du vieillard*      | A est une propriété qui décrit ou qualifie B. A est un adjectif ou attribut de B.         | `r_has_property-1`    |
+| M    | **Matière / Composition**      | *cuillère de bois*          | B est la matière ou la substance qui compose A.                                           | `r_objet>matiere`     |
+| O    | **Origine**                    | *vin de France*             | B décrit l’origine de A (géographique ou autre).                                          | `r_lieu>origine`      |
+| T    | **Topic / Thème**              | *restaurant de sushi*       | B est le thème principal ou le sujet de A.                                                | `r_topic`             |
+| D    | **Dépiction / Représentation** | *peinture d’un paysage*     | A représente ou décrit B, souvent sous forme d’image, description ou métaphore.           | `r_depic`             |
+| H    | **Holonymie / Partie-Tout**    | *coque du bateau*           | A est un composant ou une partie de B.                                                    | `r_holo`              |
+| L    | **Lieu / Localisation**        | *tour de Pise*              | B donne une origine géographique ou une localisation claire de A.                         | `r_lieu`              |
+| A    | **Agent**                      | *travail de l’ouvrier*      | A est réalisé par B, et B est un être vivant qui agit (l’auteur de l’action).             | `r_processus_agent`   |
+| Pa   | **Patient**                    | *travail du bois*           | A est réalisé sur B, et B n’est pas un être vivant (objet de l’action).                   | `r_processus_patient` |
+| I    | **Instrument**                 | *clé d’ouverture*           | A est nécessaire à la réalisation de B ; B peut être une action ou un effet impliquant A. | `r_processus>instr-1` |
+| Po   | **Possession**                 | *fusil du soldat*           | A est un objet possédé par B, et B est un être vivant.                                    | `r_own-1`             |
+| Q    | **Quantification**             | *brin d’herbe*              | A représente une quantité ou une unité de B.                                              | `r_quantificateur`    |
+| LS   | **Lien social**                | *avocat d’une femme*        | A et B sont des êtres vivants liés par une relation sociale.                              | `r_social_tie`        |
+| AC   | **Auteur / Créateur**          | *portrait de Van Gogh*      | A est une création (objet ou œuvre) produite par B, un être vivant.                       | `r_product_of`        |

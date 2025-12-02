@@ -1,4 +1,4 @@
-import requests, json, os
+import requests, json, os, ast
 
 JDM_URL = "https://jdm-api.demo.lirmm.fr/v0/"
 
@@ -12,12 +12,12 @@ def search_result(url):
         f_data = {"requests": []}
     
     if len(f_data["requests"]) == 0:
-        return ''
+        return None
     
     for request in f_data["requests"]:
         if url in request:
             return request[url]
-    return ''
+    return None
 
 def create_storage():
     if not os.path.exists("storage.json"):
@@ -26,13 +26,28 @@ def create_storage():
 def make_get_request(url):
     create_storage()
     result = search_result(url)
-    if result != '':
-        print(result)
+    if result != None:
+        print("")
+        print("Requête dans la base")
+        print("")
+        result = json.dumps(result)
+        parsed = json.loads(result)
+        print(json.dumps(parsed, indent=4))
+        return
+    print("")
+    print("Requête pas dans la base")
+    print("")
+    
     r = requests.get(url)
     if r.status_code != 200:
         raise Exception("Erreur lors de la requête")
     
-    new_data = json.loads(r.text)
+    parsed = json.loads(r.text)
+    print(json.dumps(parsed, indent=4))
+    add_new_request(url, r)
+    
+def add_new_request(url : str, request : dict):
+    new_data = json.loads(request.text)
     try:
         with open("storage.json", "r") as f:
             f_data = json.load(f)
