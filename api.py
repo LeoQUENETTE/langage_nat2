@@ -40,7 +40,9 @@ def make_get_request(url):
     
     r = requests.get(url)
     if r.status_code != 200:
-        raise Exception("Erreur lors de la requête")
+        print("ERREUR LORS DE LA REQUÊTE")
+        print(r.text)
+        return ""
     
     parsed = json.loads(r.text)
     add_new_request(url, r)
@@ -63,7 +65,8 @@ def add_new_request(url : str, request : dict):
     
     with open("storage.json", "w") as f:
         json.dump(f_data, f, indent=4)
-        
+
+
 
 def getRelationsByTypeId(relation_type : str) -> str:
     url = JDM_URL + "relations/by_type_id/" + relation_type
@@ -79,6 +82,10 @@ def getRelationsFromTo(node1_name : str, node2_name : str) -> str:
     
 def getRelationsFromToId(node1_id :str, node2_id : str) -> str:
     url = JDM_URL + "relations/from_by_id/" + node1_id+"/to_by_id/"+node2_id
+    return make_get_request(url)
+
+def getRelationsFromNodeWithRelationID(node_name : str, r_id : str) -> str:
+    url = JDM_URL + "relations/from/" + node_name + "?types_ids=" + r_id
     return make_get_request(url)
     
 def getRelationsTo(node_name : str) -> str:
