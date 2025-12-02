@@ -2,6 +2,7 @@ import requests, json, os, ast
 
 JDM_URL = "https://jdm-api.demo.lirmm.fr/v0/"
 
+
 def search_result(url):
     try:
         with open("storage.json", "r") as f:
@@ -32,8 +33,7 @@ def make_get_request(url):
         print("")
         result = json.dumps(result)
         parsed = json.loads(result)
-        print(json.dumps(parsed, indent=4))
-        return
+        return parsed
     print("")
     print("Requête pas dans la base")
     print("")
@@ -43,8 +43,8 @@ def make_get_request(url):
         raise Exception("Erreur lors de la requête")
     
     parsed = json.loads(r.text)
-    print(json.dumps(parsed, indent=4))
     add_new_request(url, r)
+    return parsed
     
 def add_new_request(url : str, request : dict):
     new_data = json.loads(request.text)
@@ -65,51 +65,51 @@ def add_new_request(url : str, request : dict):
         json.dump(f_data, f, indent=4)
         
 
-def getRelationsByTypeId(relation_type : str):
+def getRelationsByTypeId(relation_type : str) -> str:
     url = JDM_URL + "relations/by_type_id/" + relation_type
-    make_get_request(url)
+    return make_get_request(url)
     
-def getRelationsFromById(node_id : str):
+def getRelationsFromById(node_id : str) -> str:
     url = JDM_URL + "relations/from_by_id/" + node_id
-    make_get_request(url)
+    return make_get_request(url)
     
-def getRelationsFromTo(node1_name : str, node2_name : str):
+def getRelationsFromTo(node1_name : str, node2_name : str) -> str:
     url = JDM_URL + "relations/from/" + node1_name + "/to/" + node2_name
-    make_get_request(url)
+    return make_get_request(url)
     
-def getRelationsFromToId(node1_id :str, node2_id : str):
+def getRelationsFromToId(node1_id :str, node2_id : str) -> str:
     url = JDM_URL + "relations/from_by_id/" + node1_id+"/to_by_id/"+node2_id
-    make_get_request(url)
+    return make_get_request(url)
     
-def getRelationsTo(node_name : str):
+def getRelationsTo(node_name : str) -> str:
     url = JDM_URL + "relations/to/" + node_name
-    make_get_request(url)
+    return make_get_request(url)
     
-def getRelationsToById(node_id : str):
+def getRelationsToById(node_id : str) -> str:
     url = JDM_URL + "relations/to_by_id/" + node_id
-    make_get_request(url)
+    return make_get_request(url)
     
-def getRelationsTypes():
+def getRelationsTypes() -> str:
     url = JDM_URL + "relations_types"
-    make_get_request(url)
+    return make_get_request(url)
     
-def getRelationsFrom(node_name : str):
+def getRelationsFrom(node_name : str) -> str:
     url = JDM_URL + "relations/from/" + node_name
-    make_get_request(url)
+    return make_get_request(url)
     
 
-def getNodeById(node_id):
+def getNodeById(node_id) -> str:
     url = JDM_URL + "node_by_id/" + node_id
-    make_get_request(url)
+    return make_get_request(url)
     
-def getNodeByName(node_name):
+def getNodeByName(node_name) -> str:
     url = JDM_URL + "node_by_name/" + node_name
-    make_get_request(url)
+    return make_get_request(url)
     
-def getNodeRefinements(node_name):
+def getNodeRefinements(node_name) -> str:
     url = JDM_URL + "refinements/" + node_name
-    make_get_request(url)
+    return make_get_request(url)
 
-def getNodeTypes():
+def getNodeTypes() -> str:
     url = JDM_URL + "nodes_types"
-    make_get_request(url)
+    return make_get_request(url)
