@@ -85,7 +85,7 @@ def getRelationsFromToId(node1_id :str, node2_id : str) -> str:
     return make_get_request(url)
 
 def getRelationsFromNodeWithRelationID(node_name : str, r_id : str) -> str:
-    url = JDM_URL + "relations/from/" + node_name + "?types_ids=" + r_id
+    url = JDM_URL + "relations/from/" + node_name + "?types_ids=" + r_id + "&min_weight="+str(1)
     return make_get_request(url)
     
 def getRelationsTo(node_name : str) -> str:
