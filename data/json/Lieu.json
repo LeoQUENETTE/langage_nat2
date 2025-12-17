@@ -1,0 +1,1397 @@
+[
+    {
+        "n1": "tour",
+        "det": "de",
+        "n2": "pise"
+    },
+    {
+        "n1": "sahara",
+        "det": "d'",
+        "n2": "algérie"
+    },
+    {
+        "n1": "mont-blanc",
+        "det": "de",
+        "n2": "savoie"
+    },
+    {
+        "n1": "nil",
+        "det": "d'",
+        "n2": "égypte"
+    },
+    {
+        "n1": "grande muraille",
+        "det": "de",
+        "n2": "chine"
+    },
+    {
+        "n1": "taj mahal",
+        "det": "d'",
+        "n2": "inde"
+    },
+    {
+        "n1": "kilimandjaro",
+        "det": "de",
+        "n2": "tanzanie"
+    },
+    {
+        "n1": "machu picchu",
+        "det": "du",
+        "n2": "pérou"
+    },
+    {
+        "n1": "mont fuji",
+        "det": "du",
+        "n2": "japon"
+    },
+    {
+        "n1": "statue",
+        "det": "de la",
+        "n2": "liberté des états-unis"
+    },
+    {
+        "n1": "colisée",
+        "det": "de",
+        "n2": "rome"
+    },
+    {
+        "n1": "sagrada família",
+        "det": "d'",
+        "n2": "espagne"
+    },
+    {
+        "n1": "tour eiffel",
+        "det": "de",
+        "n2": "paris"
+    },
+    {
+        "n1": "mont everest",
+        "det": "du",
+        "n2": "népal"
+    },
+    {
+        "n1": "grand canyon",
+        "det": "des",
+        "n2": "états-unis"
+    },
+    {
+        "n1": "kremlin",
+        "det": "de",
+        "n2": "moscou"
+    },
+    {
+        "n1": "cité interdite",
+        "det": "de",
+        "n2": "pékin"
+    },
+    {
+        "n1": "christ rédempteur",
+        "det": "du",
+        "n2": "brésil"
+    },
+    {
+        "n1": "cathédrale notre-dame",
+        "det": "de",
+        "n2": "paris"
+    },
+    {
+        "n1": "grande barrière de corail",
+        "det": "d'",
+        "n2": "australie"
+    },
+    {
+        "n1": "désert",
+        "det": "de",
+        "n2": "gobi de chine"
+    },
+    {
+        "n1": "fjord",
+        "det": "de",
+        "n2": "norvège"
+    },
+    {
+        "n1": "lac baïkal",
+        "det": "de",
+        "n2": "russie"
+    },
+    {
+        "n1": "mont kilimandjaro",
+        "det": "de",
+        "n2": "tanzanie"
+    },
+    {
+        "n1": "place rouge",
+        "det": "de",
+        "n2": "moscou"
+    },
+    {
+        "n1": "parthénon",
+        "det": "de",
+        "n2": "grèce"
+    },
+    {
+        "n1": "mont saint-michel",
+        "det": "de",
+        "n2": "normandie"
+    },
+    {
+        "n1": "volcan fuji",
+        "det": "du",
+        "n2": "japon"
+    },
+    {
+        "n1": "canal",
+        "det": "de",
+        "n2": "panama"
+    },
+    {
+        "n1": "pont",
+        "det": "du",
+        "n2": "gard"
+    },
+    {
+        "n1": "vallée",
+        "det": "de la",
+        "n2": "loire"
+    },
+    {
+        "n1": "forêt",
+        "det": "de",
+        "n2": "fontainebleau"
+    },
+    {
+        "n1": "château",
+        "det": "de",
+        "n2": "versailles"
+    },
+    {
+        "n1": "château",
+        "det": "de",
+        "n2": "chambord"
+    },
+    {
+        "n1": "désert",
+        "det": "du",
+        "n2": "sahara"
+    },
+    {
+        "n1": "delta",
+        "det": "du",
+        "n2": "nil"
+    },
+    {
+        "n1": "lac titicaca",
+        "det": "du",
+        "n2": "pérou"
+    },
+    {
+        "n1": "rivière amazone",
+        "det": "du",
+        "n2": "brésil"
+    },
+    {
+        "n1": "golfe",
+        "det": "du",
+        "n2": "bengale"
+    },
+    {
+        "n1": "mont-saint-michel",
+        "det": "de",
+        "n2": "normandie"
+    },
+    {
+        "n1": "basilique saint-pierre",
+        "det": "de",
+        "n2": "rome"
+    },
+    {
+        "n1": "château",
+        "det": "de",
+        "n2": "chambord de loire"
+    },
+    {
+        "n1": "cathédrale",
+        "det": "de",
+        "n2": "chartres"
+    },
+    {
+        "n1": "pont charles",
+        "det": "de",
+        "n2": "prague"
+    },
+    {
+        "n1": "tour",
+        "det": "de",
+        "n2": "londres"
+    },
+    {
+        "n1": "palais",
+        "det": "des",
+        "n2": "doges de venise"
+    },
+    {
+        "n1": "mosquée hassan ii",
+        "det": "de",
+        "n2": "casablanca"
+    },
+    {
+        "n1": "taj mahal",
+        "det": "d'",
+        "n2": "agra"
+    },
+    {
+        "n1": "muraille",
+        "det": "de",
+        "n2": "chine"
+    },
+    {
+        "n1": "temple",
+        "det": "d'",
+        "n2": "angkor au cambodge"
+    },
+    {
+        "n1": "golden gate",
+        "det": "de",
+        "n2": "san francisco"
+    },
+    {
+        "n1": "château",
+        "det": "de",
+        "n2": "neuschwanstein en bavière"
+    },
+    {
+        "n1": "statue",
+        "det": "de la",
+        "n2": "liberté de new york"
+    },
+    {
+        "n1": "pont",
+        "det": "du",
+        "n2": "gard de france"
+    },
+    {
+        "n1": "sagrada família",
+        "det": "de",
+        "n2": "barcelone"
+    },
+    {
+        "n1": "sahara",
+        "det": "du",
+        "n2": "maroc"
+    },
+    {
+        "n1": "forêt amazonienne",
+        "det": "du",
+        "n2": "brésil"
+    },
+    {
+        "n1": "fjord",
+        "det": "de",
+        "n2": "geiranger en norvège"
+    },
+    {
+        "n1": "baie",
+        "det": "d'",
+        "n2": "halong au vietnam"
+    },
+    {
+        "n1": "désert",
+        "det": "de",
+        "n2": "gobi en chine"
+    },
+    {
+        "n1": "parthénon",
+        "det": "d'",
+        "n2": "athènes"
+    },
+    {
+        "n1": "le volcan eyjafjallajökull",
+        "det": "en",
+        "n2": "islande"
+    },
+    {
+        "n1": "dune",
+        "det": "du",
+        "n2": "pilat en france"
+    },
+    {
+        "n1": "le lac léman",
+        "det": "en",
+        "n2": "suisse"
+    },
+    {
+        "n1": "canyon",
+        "det": "de",
+        "n2": "bryce aux états-unis"
+    },
+    {
+        "n1": "pont",
+        "det": "de",
+        "n2": "brooklyn de new york"
+    },
+    {
+        "n1": "château",
+        "det": "de",
+        "n2": "heidelberg en allemagne"
+    },
+    {
+        "n1": "palais",
+        "det": "de",
+        "n2": "buckingham à londres"
+    },
+    {
+        "n1": "le volcan kilimandjaro",
+        "det": "en",
+        "n2": "tanzanie"
+    },
+    {
+        "n1": "grotte",
+        "det": "de",
+        "n2": "lascaux en france"
+    },
+    {
+        "n1": "musée",
+        "det": "du",
+        "n2": "louvre à paris"
+    },
+    {
+        "n1": "port",
+        "det": "de",
+        "n2": "sydney en australie"
+    },
+    {
+        "n1": "temple",
+        "det": "de",
+        "n2": "karnak en égypte"
+    },
+    {
+        "n1": "muraille",
+        "det": "de",
+        "n2": "troie en turquie"
+    },
+    {
+        "n1": "pont",
+        "det": "de la",
+        "n2": "concorde à paris"
+    },
+    {
+        "n1": "mont blanc",
+        "det": "de",
+        "n2": "savoie"
+    },
+    {
+        "n1": "fjord",
+        "det": "de",
+        "n2": "sogne en norvège"
+    },
+    {
+        "n1": "port",
+        "det": "de",
+        "n2": "rotterdam aux pays-bas"
+    },
+    {
+        "n1": "plage",
+        "det": "de",
+        "n2": "copacabana au brésil"
+    },
+    {
+        "n1": "le lac titisee",
+        "det": "en",
+        "n2": "allemagne"
+    },
+    {
+        "n1": "canal",
+        "det": "du",
+        "n2": "midi en france"
+    },
+    {
+        "n1": "le phare d’alexandrie",
+        "det": "en",
+        "n2": "égypte"
+    },
+    {
+        "n1": "vallée",
+        "det": "de",
+        "n2": "yosemite aux états-unis"
+    },
+    {
+        "n1": "dune",
+        "det": "de",
+        "n2": "namibie"
+    },
+    {
+        "n1": "le mont ventoux",
+        "det": "en",
+        "n2": "provence"
+    },
+    {
+        "n1": "baie",
+        "det": "de",
+        "n2": "fundy au canada"
+    },
+    {
+        "n1": "le volcan vesuvius",
+        "det": "en",
+        "n2": "italie"
+    },
+    {
+        "n1": "château",
+        "det": "de",
+        "n2": "prague"
+    },
+    {
+        "n1": "parc national",
+        "det": "de",
+        "n2": "yellowstone aux états-unis"
+    },
+    {
+        "n1": "parc",
+        "det": "de la",
+        "n2": "ciutadella à barcelone"
+    },
+    {
+        "n1": "lac inle",
+        "det": "au",
+        "n2": "myanmar"
+    },
+    {
+        "n1": "cathédrale",
+        "det": "de",
+        "n2": "séville"
+    },
+    {
+        "n1": "fjord",
+        "det": "de",
+        "n2": "lyse en norvège"
+    },
+    {
+        "n1": "palais",
+        "det": "de",
+        "n2": "topkapi à istanbul"
+    },
+    {
+        "n1": "vallée",
+        "det": "des",
+        "n2": "rois en égypte"
+    },
+    {
+        "n1": "château",
+        "det": "de",
+        "n2": "hohenzollern en allemagne"
+    },
+    {
+        "n1": "parc national torres del paine",
+        "det": "au",
+        "n2": "chili"
+    },
+    {
+        "n1": "lac powell",
+        "det": "aux",
+        "n2": "états-unis"
+    },
+    {
+        "n1": "vallée",
+        "det": "de la",
+        "n2": "mort en californie"
+    },
+    {
+        "n1": "le volcan stromboli",
+        "det": "en",
+        "n2": "italie"
+    },
+    {
+        "n1": "baie",
+        "det": "de",
+        "n2": "monterey aux états-unis"
+    },
+    {
+        "n1": "port",
+        "det": "de",
+        "n2": "hambourg en allemagne"
+    },
+    {
+        "n1": "parc national",
+        "det": "de",
+        "n2": "banff au canada"
+    },
+    {
+        "n1": "tour cn",
+        "det": "de",
+        "n2": "toronto"
+    },
+    {
+        "n1": "château",
+        "det": "de",
+        "n2": "chenonceau en france"
+    },
+    {
+        "n1": "parc güell",
+        "det": "à",
+        "n2": "barcelone"
+    },
+    {
+        "n1": "basilique",
+        "det": "de",
+        "n2": "sacré-cœur à paris"
+    },
+    {
+        "n1": "temple",
+        "det": "du",
+        "n2": "ciel à pékin"
+    },
+    {
+        "n1": "le lac titicaca",
+        "det": "en",
+        "n2": "bolivie"
+    },
+    {
+        "n1": "cathédrale",
+        "det": "de",
+        "n2": "paris"
+    },
+    {
+        "n1": "marché",
+        "det": "de",
+        "n2": "marrakech"
+    },
+    {
+        "n1": "les",
+        "det": "pyramides",
+        "n2": "d’égypte"
+    },
+    {
+        "n1": "plages",
+        "det": "de",
+        "n2": "normandie"
+    },
+    {
+        "n1": "la",
+        "det": "forêt",
+        "n2": "d’amazonie"
+    },
+    {
+        "n1": "le",
+        "det": "volcan",
+        "n2": "d’auvergne"
+    },
+    {
+        "n1": "grotte",
+        "det": "de",
+        "n2": "lascaux"
+    },
+    {
+        "n1": "jardin",
+        "det": "du",
+        "n2": "luxembourg"
+    },
+    {
+        "n1": "montagnes",
+        "det": "du",
+        "n2": "maroc"
+    },
+    {
+        "n1": "cathédrale",
+        "det": "de",
+        "n2": "rome"
+    },
+    {
+        "n1": "plages",
+        "det": "d'",
+        "n2": "italie"
+    },
+    {
+        "n1": "les",
+        "det": "plages",
+        "n2": "d’angleterre"
+    },
+    {
+        "n1": "mosquées",
+        "det": "du",
+        "n2": "maroc"
+    },
+    {
+        "n1": "les",
+        "det": "volcan",
+        "n2": "d’auvergne"
+    },
+    {
+        "n1": "rues",
+        "det": "de",
+        "n2": "paris"
+    },
+    {
+        "n1": "fleuve",
+        "det": "du",
+        "n2": "congo"
+    },
+    {
+        "n1": "montagne",
+        "det": "des",
+        "n2": "alpes"
+    },
+    {
+        "n1": "lac",
+        "det": "de",
+        "n2": "genève"
+    },
+    {
+        "n1": "forêt",
+        "det": "de",
+        "n2": "brocéliande"
+    },
+    {
+        "n1": "parc",
+        "det": "de",
+        "n2": "yellowstone"
+    },
+    {
+        "n1": "rue",
+        "det": "de la",
+        "n2": "paix"
+    },
+    {
+        "n1": "avenue",
+        "det": "des",
+        "n2": "champs-élysées"
+    },
+    {
+        "n1": "place",
+        "det": "de la",
+        "n2": "concorde"
+    },
+    {
+        "n1": "gare",
+        "det": "du",
+        "n2": "nord"
+    },
+    {
+        "n1": "aéroport",
+        "det": "de",
+        "n2": "roissy"
+    },
+    {
+        "n1": "port",
+        "det": "de",
+        "n2": "marseille"
+    },
+    {
+        "n1": "marché",
+        "det": "de",
+        "n2": "noël"
+    },
+    {
+        "n1": "foire",
+        "det": "du",
+        "n2": "trône"
+    },
+    {
+        "n1": "stade",
+        "det": "de",
+        "n2": "france"
+    },
+    {
+        "n1": "palais",
+        "det": "de",
+        "n2": "l’élysée"
+    },
+    {
+        "n1": "musée",
+        "det": "du",
+        "n2": "louvre"
+    },
+    {
+        "n1": "église",
+        "det": "de la",
+        "n2": "madeleine"
+    },
+    {
+        "n1": "cathédrale",
+        "det": "de",
+        "n2": "notre-dame"
+    },
+    {
+        "n1": "mosquée",
+        "det": "de",
+        "n2": "cordoue"
+    },
+    {
+        "n1": "synagogue",
+        "det": "de",
+        "n2": "berlin"
+    },
+    {
+        "n1": "abbaye",
+        "det": "du",
+        "n2": "mont-saint-michel"
+    },
+    {
+        "n1": "monastère",
+        "det": "de",
+        "n2": "tibhirine"
+    },
+    {
+        "n1": "université",
+        "det": "de la",
+        "n2": "sorbonne"
+    },
+    {
+        "n1": "école",
+        "det": "de",
+        "n2": "médecine"
+    },
+    {
+        "n1": "hôpital",
+        "det": "de la",
+        "n2": "pitié"
+    },
+    {
+        "n1": "prison",
+        "det": "de la",
+        "n2": "santé"
+    },
+    {
+        "n1": "caserne",
+        "det": "de",
+        "n2": "pompiers"
+    },
+    {
+        "n1": "commissariat",
+        "det": "de",
+        "n2": "police"
+    },
+    {
+        "n1": "tribunal",
+        "det": "de",
+        "n2": "grande instance"
+    },
+    {
+        "n1": "mairie",
+        "det": "de",
+        "n2": "paris"
+    },
+    {
+        "n1": "ambassade",
+        "det": "de",
+        "n2": "france"
+    },
+    {
+        "n1": "bureau",
+        "det": "de",
+        "n2": "poste"
+    },
+    {
+        "n1": "agence",
+        "det": "de",
+        "n2": "voyage"
+    },
+    {
+        "n1": "salon",
+        "det": "de",
+        "n2": "coiffure"
+    },
+    {
+        "n1": "café",
+        "det": "de la",
+        "n2": "place"
+    },
+    {
+        "n1": "restaurant",
+        "det": "de la",
+        "n2": "tour"
+    },
+    {
+        "n1": "hôtel",
+        "det": "de",
+        "n2": "ville"
+    },
+    {
+        "n1": "immeuble",
+        "det": "de la",
+        "n2": "défense"
+    },
+    {
+        "n1": "phare",
+        "det": "d'",
+        "n2": "alexandrie"
+    },
+    {
+        "n1": "pyramide",
+        "det": "de",
+        "n2": "gizeh"
+    },
+    {
+        "n1": "temple",
+        "det": "de",
+        "n2": "louxor"
+    },
+    {
+        "n1": "palais",
+        "det": "de",
+        "n2": "knossos"
+    },
+    {
+        "n1": "acropole",
+        "det": "d'",
+        "n2": "athènes"
+    },
+    {
+        "n1": "parthénon",
+        "det": "de",
+        "n2": "l'acropole"
+    },
+    {
+        "n1": "agora",
+        "det": "d'",
+        "n2": "athènes"
+    },
+    {
+        "n1": "thermes",
+        "det": "de",
+        "n2": "caracalla"
+    },
+    {
+        "n1": "cirque",
+        "det": "de",
+        "n2": "maxence"
+    },
+    {
+        "n1": "catacombes",
+        "det": "de",
+        "n2": "rome"
+    },
+    {
+        "n1": "palais",
+        "det": "des",
+        "n2": "doges"
+    },
+    {
+        "n1": "abbaye",
+        "det": "de",
+        "n2": "westminster"
+    },
+    {
+        "n1": "palais",
+        "det": "de",
+        "n2": "buckingham"
+    },
+    {
+        "n1": "tour",
+        "det": "de",
+        "n2": "belém"
+    },
+    {
+        "n1": "monastère",
+        "det": "des",
+        "n2": "hiéronymites"
+    },
+    {
+        "n1": "alhambra",
+        "det": "de",
+        "n2": "grenade"
+    },
+    {
+        "n1": "giralda",
+        "det": "de",
+        "n2": "séville"
+    },
+    {
+        "n1": "arc",
+        "det": "de",
+        "n2": "triomphe"
+    },
+    {
+        "n1": "basilique",
+        "det": "du",
+        "n2": "sacré-cœur"
+    },
+    {
+        "n1": "parc",
+        "det": "de la",
+        "n2": "vanoise"
+    },
+    {
+        "n1": "réserve",
+        "det": "de",
+        "n2": "camargue"
+    },
+    {
+        "n1": "parc",
+        "det": "du",
+        "n2": "mercantour"
+    },
+    {
+        "n1": "baie",
+        "det": "du",
+        "n2": "mont-saint-michel"
+    },
+    {
+        "n1": "dunes",
+        "det": "du",
+        "n2": "pilat"
+    },
+    {
+        "n1": "gouffre",
+        "det": "de",
+        "n2": "padirac"
+    },
+    {
+        "n1": "aven",
+        "det": "d'",
+        "n2": "orgnac"
+    },
+    {
+        "n1": "cirque",
+        "det": "de",
+        "n2": "gavarnie"
+    },
+    {
+        "n1": "viaduc",
+        "det": "de",
+        "n2": "millau"
+    },
+    {
+        "n1": "tunnel",
+        "det": "du",
+        "n2": "mont-blanc"
+    },
+    {
+        "n1": "canal",
+        "det": "du",
+        "n2": "midi"
+    },
+    {
+        "n1": "lac",
+        "det": "d'",
+        "n2": "annecy"
+    },
+    {
+        "n1": "étang",
+        "det": "de",
+        "n2": "thau"
+    },
+    {
+        "n1": "colline",
+        "det": "de",
+        "n2": "fourvière"
+    },
+    {
+        "n1": "montagne",
+        "det": "du",
+        "n2": "jura"
+    },
+    {
+        "n1": "lac",
+        "det": "du",
+        "n2": "bourget"
+    },
+    {
+        "n1": "parc",
+        "det": "de",
+        "n2": "sceaux"
+    },
+    {
+        "n1": "fleuve",
+        "det": "du",
+        "n2": "nil"
+    },
+    {
+        "n1": "université",
+        "det": "de",
+        "n2": "toulouse"
+    },
+    {
+        "n1": "col",
+        "det": "du",
+        "n2": "tourmalet"
+    },
+    {
+        "n1": "marché",
+        "det": "de",
+        "n2": "provence"
+    },
+    {
+        "n1": "route",
+        "det": "de",
+        "n2": "campagne"
+    },
+    {
+        "n1": "église",
+        "det": "de",
+        "n2": "village"
+    },
+    {
+        "n1": "village",
+        "det": "de",
+        "n2": "montagne"
+    },
+    {
+        "n1": "gare",
+        "det": "de",
+        "n2": "lyon"
+    },
+    {
+        "n1": "plage",
+        "det": "de",
+        "n2": "sable"
+    },
+    {
+        "n1": "station",
+        "det": "de",
+        "n2": "ski"
+    },
+    {
+        "n1": "théâtre",
+        "det": "de la",
+        "n2": "ville"
+    },
+    {
+        "n1": "champ",
+        "det": "de",
+        "n2": "bataille"
+    },
+    {
+        "n1": "pont",
+        "det": "de",
+        "n2": "brooklyn"
+    },
+    {
+        "n1": "opéra",
+        "det": "de",
+        "n2": "sydney"
+    },
+    {
+        "n1": "pagode",
+        "det": "de",
+        "n2": "shwedagon"
+    },
+    {
+        "n1": "temple",
+        "det": "de",
+        "n2": "borobudur"
+    },
+    {
+        "n1": "sanctuaire",
+        "det": "d'",
+        "n2": "ise"
+    },
+    {
+        "n1": "palais",
+        "det": "de",
+        "n2": "topkapi"
+    },
+    {
+        "n1": "tour",
+        "det": "de",
+        "n2": "toronto"
+    },
+    {
+        "n1": "capitole",
+        "det": "de",
+        "n2": "washington"
+    },
+    {
+        "n1": "mur",
+        "det": "de",
+        "n2": "berlin"
+    },
+    {
+        "n1": "porte",
+        "det": "de",
+        "n2": "brandebourg"
+    },
+    {
+        "n1": "tour",
+        "det": "de",
+        "n2": "galata"
+    },
+    {
+        "n1": "palais",
+        "det": "du",
+        "n2": "potala"
+    },
+    {
+        "n1": "ville interdite",
+        "det": "de",
+        "n2": "pékin"
+    },
+    {
+        "n1": "tombeau",
+        "det": "de",
+        "n2": "humayun"
+    },
+    {
+        "n1": "fort",
+        "det": "d'",
+        "n2": "amber"
+    },
+    {
+        "n1": "minaret",
+        "det": "de",
+        "n2": "jam"
+    },
+    {
+        "n1": "citadelle",
+        "det": "d'",
+        "n2": "alep"
+    },
+    {
+        "n1": "palais",
+        "det": "de",
+        "n2": "l'alhambra"
+    },
+    {
+        "n1": "médina",
+        "det": "de",
+        "n2": "fès"
+    },
+    {
+        "n1": "souk",
+        "det": "d'",
+        "n2": "istanbul"
+    },
+    {
+        "n1": "bazar",
+        "det": "du",
+        "n2": "grand caire"
+    },
+    {
+        "n1": "riad",
+        "det": "de",
+        "n2": "marrakech"
+    },
+    {
+        "n1": "dar",
+        "det": "de",
+        "n2": "tunis"
+    },
+    {
+        "n1": "casbah",
+        "det": "d'",
+        "n2": "alger"
+    },
+    {
+        "n1": "mellah",
+        "det": "d'",
+        "n2": "essaouira"
+    },
+    {
+        "n1": "quartier",
+        "det": "des",
+        "n2": "ambassades de rabat"
+    },
+    {
+        "n1": "marina",
+        "det": "de",
+        "n2": "dubaï"
+    },
+    {
+        "n1": "palmier",
+        "det": "de",
+        "n2": "jumeirah"
+    },
+    {
+        "n1": "corniche",
+        "det": "de",
+        "n2": "beyrouth"
+    },
+    {
+        "n1": "rambla",
+        "det": "de",
+        "n2": "barcelone"
+    },
+    {
+        "n1": "piazza navona",
+        "det": "de",
+        "n2": "rome"
+    },
+    {
+        "n1": "campo",
+        "det": "de",
+        "n2": "sienne"
+    },
+    {
+        "n1": "grand-place",
+        "det": "de",
+        "n2": "bruxelles"
+    },
+    {
+        "n1": "quartier",
+        "det": "de",
+        "n2": "montmartre"
+    },
+    {
+        "n1": "île",
+        "det": "de la",
+        "n2": "cité"
+    },
+    {
+        "n1": "presqu'île",
+        "det": "de",
+        "n2": "crozon"
+    },
+    {
+        "n1": "pointe",
+        "det": "du",
+        "n2": "raz"
+    },
+    {
+        "n1": "cap",
+        "det": "de",
+        "n2": "bonne-espérance"
+    },
+    {
+        "n1": "fjord",
+        "det": "de",
+        "n2": "geiranger"
+    },
+    {
+        "n1": "geyser",
+        "det": "de",
+        "n2": "strokkur"
+    },
+    {
+        "n1": "chute",
+        "det": "d'",
+        "n2": "iguaçu"
+    },
+    {
+        "n1": "saut",
+        "det": "d'",
+        "n2": "angel"
+    },
+    {
+        "n1": "canyon",
+        "det": "du",
+        "n2": "colorado"
+    },
+    {
+        "n1": "vallée",
+        "det": "de la",
+        "n2": "mort"
+    },
+    {
+        "n1": "désert",
+        "det": "d'",
+        "n2": "atacama"
+    },
+    {
+        "n1": "steppe",
+        "det": "de",
+        "n2": "mongolie"
+    },
+    {
+        "n1": "toundra",
+        "det": "de",
+        "n2": "sibérie"
+    },
+    {
+        "n1": "taïga",
+        "det": "de",
+        "n2": "finlande"
+    },
+    {
+        "n1": "mangrove",
+        "det": "du",
+        "n2": "sundarbans"
+    },
+    {
+        "n1": "barrière de corail",
+        "det": "d'",
+        "n2": "andros"
+    },
+    {
+        "n1": "atoll",
+        "det": "de",
+        "n2": "bora-bora"
+    },
+    {
+        "n1": "archipel",
+        "det": "des",
+        "n2": "seychelles"
+    },
+    {
+        "n1": "îles",
+        "det": "des",
+        "n2": "galápagos"
+    },
+    {
+        "n1": "presqu'île",
+        "det": "du",
+        "n2": "yucatan"
+    },
+    {
+        "n1": "isthme",
+        "det": "de",
+        "n2": "panama"
+    },
+    {
+        "n1": "détroit",
+        "det": "de",
+        "n2": "gibraltar"
+    },
+    {
+        "n1": "golfe",
+        "det": "du",
+        "n2": "morbihan"
+    },
+    {
+        "n1": "baie",
+        "det": "des",
+        "n2": "anges"
+    },
+    {
+        "n1": "rade",
+        "det": "de",
+        "n2": "brest"
+    },
+    {
+        "n1": "rivière souterraine",
+        "det": "de",
+        "n2": "puerto princesa"
+    },
+    {
+        "n1": "marais",
+        "det": "du",
+        "n2": "vigueirat"
+    },
+    {
+        "n1": "tourbière",
+        "det": "des",
+        "n2": "fagnes"
+    },
+    {
+        "n1": "volcan",
+        "det": "de",
+        "n2": "krakatoa"
+    },
+    {
+        "n1": "caldeira",
+        "det": "de",
+        "n2": "santorin"
+    },
+    {
+        "n1": "geysers",
+        "det": "du",
+        "n2": "yellowstone"
+    },
+    {
+        "n1": "sources chaudes",
+        "det": "de",
+        "n2": "pamukkale"
+    },
+    {
+        "n1": "récif",
+        "det": "de",
+        "n2": "l'amazone"
+    },
+    {
+        "n1": "mont sous-marin",
+        "det": "de",
+        "n2": "l'empereur"
+    },
+    {
+        "n1": "plateau continental",
+        "det": "de la",
+        "n2": "nouvelle-écosse"
+    }
+]
