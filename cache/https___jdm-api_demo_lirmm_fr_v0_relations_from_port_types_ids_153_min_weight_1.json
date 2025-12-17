@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 14589820,
+            "name": "capacité d'accueil",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 113743,
+            "name": "port",
+            "type": 1,
+            "w": 5626
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139641,
+            "node1": 113743,
+            "node2": 14589820,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:22.085863",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "port",
+        "#relations": 1,
+        "max_relation_weight": 29.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003564"
+    }
+}

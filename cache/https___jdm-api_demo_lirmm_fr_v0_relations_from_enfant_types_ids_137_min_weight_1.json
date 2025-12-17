@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 126680,
+            "name": "écoulement",
+            "type": 1,
+            "w": 650
+        },
+        {
+            "id": 90459,
+            "name": "émerveillement",
+            "type": 1,
+            "w": 1010
+        },
+        {
+            "id": 130920,
+            "name": "socialisation",
+            "type": 1,
+            "w": 777
+        },
+        {
+            "id": 110912,
+            "name": "posologie",
+            "type": 1,
+            "w": 193
+        },
+        {
+            "id": 42540,
+            "name": "dosage",
+            "type": 1,
+            "w": 303
+        },
+        {
+            "id": 83989,
+            "name": "éducation",
+            "type": 1,
+            "w": 34460
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4879
+        },
+        {
+            "id": 43207,
+            "name": "développement",
+            "type": 1,
+            "w": 31574
+        },
+        {
+            "id": 53314,
+            "name": "jeu",
+            "type": 1,
+            "w": 11916
+        },
+        {
+            "id": 123732,
+            "name": "apprentissage",
+            "type": 1,
+            "w": 17173
+        },
+        {
+            "id": 124094,
+            "name": "enfant",
+            "type": 1,
+            "w": 57598
+        },
+        {
+            "id": 15447534,
+            "name": "en:liqueur d'expédition",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 257713,
+            "name": "dessin à main levée",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 9109521,
+            "name": "en:dosage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14956026,
+            "name": "en:posology",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 361736,
+            "name": "liqueur d'expédition",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 567193,
+            "name": "liqueur de dosage",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 15414802,
+            "name": "en:freehand drawing",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 384631352,
+            "node1": 124094,
+            "node2": 42540,
+            "type": 137,
+            "w": 41.0
+        },
+        {
+            "id": 1147900312,
+            "node1": 124094,
+            "node2": 43207,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1055591660,
+            "node1": 124094,
+            "node2": 53314,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 1155487032,
+            "node1": 124094,
+            "node2": 83989,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109905,
+            "node1": 124094,
+            "node2": 90459,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1068908937,
+            "node1": 124094,
+            "node2": 98596,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 479289421,
+            "node1": 124094,
+            "node2": 110912,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1072382045,
+            "node1": 124094,
+            "node2": 123732,
+            "type": 137,
+            "w": 92.0
+        },
+        {
+            "id": 384631150,
+            "node1": 124094,
+            "node2": 126680,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 1147900313,
+            "node1": 124094,
+            "node2": 130920,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 384631067,
+            "node1": 124094,
+            "node2": 257713,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 538843813,
+            "node1": 124094,
+            "node2": 361736,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 538843809,
+            "node1": 124094,
+            "node2": 567193,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 384631367,
+            "node1": 124094,
+            "node2": 9109521,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 594702547,
+            "node1": 124094,
+            "node2": 14956026,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 479289398,
+            "node1": 124094,
+            "node2": 15414802,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 538843833,
+            "node1": 124094,
+            "node2": 15447534,
+            "type": 137,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:48.619928",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "enfant",
+        "#relations": 17,
+        "max_relation_weight": 92.0,
+        "#nodes": 18,
+        "duration": "0:00:00.011701"
+    }
+}

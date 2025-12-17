@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 1595,
+            "name": "bouclier",
+            "type": 1,
+            "w": 1396
+        },
+        {
+            "id": 284969220,
+            "name": "bord métallique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123284,
+            "name": "écu",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 37865,
+            "name": "lien",
+            "type": 1,
+            "w": 8450
+        },
+        {
+            "id": 117787,
+            "name": "poignée",
+            "type": 1,
+            "w": 1242
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 39149,
+            "name": "cuir",
+            "type": 1,
+            "w": 1856
+        }
+    ],
+    "relations": [
+        {
+            "id": 2124947,
+            "node1": 1595,
+            "node2": 37865,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 2350920,
+            "node1": 1595,
+            "node2": 39149,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 170277,
+            "node1": 1595,
+            "node2": 96256,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 170278,
+            "node1": 1595,
+            "node2": 117787,
+            "type": 9,
+            "w": 140.0
+        },
+        {
+            "id": 2124587,
+            "node1": 1595,
+            "node2": 123284,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 170276,
+            "node1": 1595,
+            "node2": 134927,
+            "type": 9,
+            "w": 143.0
+        },
+        {
+            "id": 1152864879,
+            "node1": 1595,
+            "node2": 284969220,
+            "type": 9,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:47.415376",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bouclier",
+        "#relations": 7,
+        "max_relation_weight": 143.0,
+        "#nodes": 8,
+        "duration": "0:00:00.005057"
+    }
+}

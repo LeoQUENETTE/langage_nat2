@@ -1,0 +1,313 @@
+{
+    "nodes": [
+        {
+            "id": 15065787,
+            "name": "en:fictitious character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5518464,
+            "name": "personnage imaginaire",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 15065788,
+            "name": "en:fictional character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 684906,
+            "name": "roman>171870",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 188188,
+            "name": "personnage de fiction",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 14321783,
+            "name": "fresque>254150",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4233
+        },
+        {
+            "id": 45052,
+            "name": "auteur",
+            "type": 1,
+            "w": 10604
+        },
+        {
+            "id": 8513,
+            "name": "fresque",
+            "type": 1,
+            "w": 249
+        },
+        {
+            "id": 45618,
+            "name": "épître",
+            "type": 1,
+            "w": 216
+        },
+        {
+            "id": 134536,
+            "name": "économie",
+            "type": 1,
+            "w": 31554
+        },
+        {
+            "id": 146367,
+            "name": "histoire",
+            "type": 1,
+            "w": 35702
+        },
+        {
+            "id": 10756,
+            "name": "personnage",
+            "type": 1,
+            "w": 7511
+        },
+        {
+            "id": 237785,
+            "name": "économie>86627",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 100640,
+            "name": "roman",
+            "type": 1,
+            "w": 8828
+        },
+        {
+            "id": 223825,
+            "name": "histoire>124433",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 251401,
+            "name": "variétés françaises",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 101711,
+            "name": "bande dessinée",
+            "type": 1,
+            "w": 4663
+        },
+        {
+            "id": 276397,
+            "name": "personnage fictif",
+            "type": 777,
+            "w": 107
+        },
+        {
+            "id": 15424349,
+            "name": "en:imaginary character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 96170595,
+            "name": "Personnage fictif",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2934521,
+            "name": "Personnage de fiction",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 365487965,
+            "node1": 45052,
+            "node2": 8513,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 14658251,
+            "node1": 45052,
+            "node2": 10756,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 76409260,
+            "node1": 45052,
+            "node2": 45618,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14655246,
+            "node1": 45052,
+            "node2": 100640,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 14655528,
+            "node1": 45052,
+            "node2": 101711,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 497593796,
+            "node1": 45052,
+            "node2": 134536,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14658082,
+            "node1": 45052,
+            "node2": 144938,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 478800781,
+            "node1": 45052,
+            "node2": 146367,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14640884,
+            "node1": 45052,
+            "node2": 188188,
+            "type": 41,
+            "w": 43.0
+        },
+        {
+            "id": 374362607,
+            "node1": 45052,
+            "node2": 223825,
+            "type": 41,
+            "w": 39.0
+        },
+        {
+            "id": 489938587,
+            "node1": 45052,
+            "node2": 237785,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14651366,
+            "node1": 45052,
+            "node2": 251401,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 18825816,
+            "node1": 45052,
+            "node2": 276397,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 667250344,
+            "node1": 45052,
+            "node2": 684906,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 85126883,
+            "node1": 45052,
+            "node2": 2934521,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 413187759,
+            "node1": 45052,
+            "node2": 5518464,
+            "type": 41,
+            "w": 39.0
+        },
+        {
+            "id": 364490695,
+            "node1": 45052,
+            "node2": 14321783,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 399959604,
+            "node1": 45052,
+            "node2": 15065787,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 411507437,
+            "node1": 45052,
+            "node2": 15065788,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 510622714,
+            "node1": 45052,
+            "node2": 15424349,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 933469907,
+            "node1": 45052,
+            "node2": 96170595,
+            "type": 41,
+            "w": 17.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:51.026191",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "auteur",
+        "#relations": 21,
+        "max_relation_weight": 43.0,
+        "#nodes": 22,
+        "duration": "0:00:00.012703"
+    }
+}

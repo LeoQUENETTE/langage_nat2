@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 57258,
+            "name": "pollen",
+            "type": 1,
+            "w": 690
+        },
+        {
+            "id": 106523,
+            "name": "étamine",
+            "type": 1,
+            "w": 226
+        },
+        {
+            "id": 3898,
+            "name": "pistil",
+            "type": 1,
+            "w": 282
+        },
+        {
+            "id": 161691,
+            "name": "étamines",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 117533,
+            "name": "fleurs",
+            "type": 1,
+            "w": 4178
+        },
+        {
+            "id": 25437,
+            "name": "tige",
+            "type": 1,
+            "w": 2504
+        },
+        {
+            "id": 37993,
+            "name": "feuille",
+            "type": 1,
+            "w": 5457
+        },
+        {
+            "id": 110012,
+            "name": "couverte",
+            "type": 1,
+            "w": 791
+        },
+        {
+            "id": 29008,
+            "name": "cendrée",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 28882,
+            "name": "calice",
+            "type": 1,
+            "w": 161
+        },
+        {
+            "id": 49549,
+            "name": "racines",
+            "type": 1,
+            "w": 3557
+        },
+        {
+            "id": 151925,
+            "name": "pétales",
+            "type": 1,
+            "w": 945
+        },
+        {
+            "id": 79532,
+            "name": "pétale",
+            "type": 1,
+            "w": 506
+        }
+    ],
+    "relations": [
+        {
+            "id": 1760489,
+            "node1": 117533,
+            "node2": 3898,
+            "type": 9,
+            "w": 142.0
+        },
+        {
+            "id": 433639,
+            "node1": 117533,
+            "node2": 25437,
+            "type": 9,
+            "w": 230.0
+        },
+        {
+            "id": 1632813,
+            "node1": 117533,
+            "node2": 28882,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 12803239,
+            "node1": 117533,
+            "node2": 29008,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 1562455,
+            "node1": 117533,
+            "node2": 37993,
+            "type": 9,
+            "w": 130.0
+        },
+        {
+            "id": 1590201,
+            "node1": 117533,
+            "node2": 49549,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 433638,
+            "node1": 117533,
+            "node2": 57258,
+            "type": 9,
+            "w": 200.0
+        },
+        {
+            "id": 1378958,
+            "node1": 117533,
+            "node2": 79532,
+            "type": 9,
+            "w": 170.0
+        },
+        {
+            "id": 1632814,
+            "node1": 117533,
+            "node2": 106523,
+            "type": 9,
+            "w": 161.0
+        },
+        {
+            "id": 485259812,
+            "node1": 117533,
+            "node2": 110012,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 274742521,
+            "node1": 117533,
+            "node2": 139779,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1562456,
+            "node1": 117533,
+            "node2": 151925,
+            "type": 9,
+            "w": 113.0
+        },
+        {
+            "id": 1562457,
+            "node1": 117533,
+            "node2": 161691,
+            "type": 9,
+            "w": 80.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:45:07.236296",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleurs",
+        "#relations": 13,
+        "max_relation_weight": 230.0,
+        "#nodes": 14,
+        "duration": "0:00:00.005988"
+    }
+}

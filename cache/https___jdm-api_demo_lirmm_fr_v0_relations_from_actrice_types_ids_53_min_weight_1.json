@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 92149,
+            "name": "actrice",
+            "type": 1,
+            "w": 4333
+        },
+        {
+            "id": 98630,
+            "name": "divertissement",
+            "type": 1,
+            "w": 3787
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12639
+        },
+        {
+            "id": 60211,
+            "name": "performance",
+            "type": 1,
+            "w": 14777
+        },
+        {
+            "id": 271463,
+            "name": "émotions",
+            "type": 1,
+            "w": 5299
+        },
+        {
+            "id": 74432,
+            "name": "pièce de théâtre",
+            "type": 1,
+            "w": 774
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143292051,
+            "node1": 92149,
+            "node2": 29592,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 1148204146,
+            "node1": 92149,
+            "node2": 60211,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 1143292052,
+            "node1": 92149,
+            "node2": 74432,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1151548732,
+            "node1": 92149,
+            "node2": 98630,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1151548733,
+            "node1": 92149,
+            "node2": 271463,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:31.649987",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "actrice",
+        "#relations": 5,
+        "max_relation_weight": 33.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005543"
+    }
+}

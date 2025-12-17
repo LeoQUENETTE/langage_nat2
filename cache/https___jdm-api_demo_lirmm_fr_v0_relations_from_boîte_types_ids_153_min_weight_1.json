@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 7575,
+            "name": "boîte",
+            "type": 1,
+            "w": 2849
+        },
+        {
+            "id": 123836,
+            "name": "poids",
+            "type": 1,
+            "w": 7301
+        },
+        {
+            "id": 130885,
+            "name": "volume",
+            "type": 1,
+            "w": 5935
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137744,
+            "node1": 7575,
+            "node2": 123836,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179137743,
+            "node1": 7575,
+            "node2": 130885,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:49.020708",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "boîte",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004304"
+    }
+}

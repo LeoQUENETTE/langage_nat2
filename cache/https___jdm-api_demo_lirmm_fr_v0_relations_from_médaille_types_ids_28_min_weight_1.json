@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 14919957,
+            "name": "en:birthdate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15366337,
+            "name": "en:birth data",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7487023,
+            "name": "en:birth date",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 163044,
+            "name": "date de naissance",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 42388,
+            "name": "médaille",
+            "type": 1,
+            "w": 3627
+        },
+        {
+            "id": 142137,
+            "name": "trèfle",
+            "type": 1,
+            "w": 222
+        },
+        {
+            "id": 14931732,
+            "name": "en:date of birth",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 375978604,
+            "node1": 42388,
+            "node2": 142137,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11333471,
+            "node1": 42388,
+            "node2": 163044,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1054565916,
+            "node1": 42388,
+            "node2": 7487023,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 738352828,
+            "node1": 42388,
+            "node2": 14919957,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 515245985,
+            "node1": 42388,
+            "node2": 14931732,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1054577335,
+            "node1": 42388,
+            "node2": 15366337,
+            "type": 28,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:28.090597",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "médaille",
+        "#relations": 6,
+        "max_relation_weight": 38.0,
+        "#nodes": 7,
+        "duration": "0:00:00.006435"
+    }
+}

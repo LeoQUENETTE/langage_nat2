@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 7575,
+            "name": "boîte",
+            "type": 1,
+            "w": 2849
+        },
+        {
+            "id": 123430,
+            "name": "jeux",
+            "type": 1,
+            "w": 5763
+        }
+    ],
+    "relations": [
+        {
+            "id": 376050658,
+            "node1": 7575,
+            "node2": 123430,
+            "type": 51,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:49.970749",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "boîte",
+        "#relations": 1,
+        "max_relation_weight": 35.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003345"
+    }
+}

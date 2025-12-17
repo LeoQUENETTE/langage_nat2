@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 223727,
+            "name": "tortue de mer",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 144463,
+            "name": "corail",
+            "type": 1,
+            "w": 371
+        },
+        {
+            "id": 215276,
+            "name": "raie manta",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 52133,
+            "name": "poisson-clown",
+            "type": 1,
+            "w": 95
+        }
+    ],
+    "relations": [
+        {
+            "id": 765196726,
+            "node1": 144463,
+            "node2": 52133,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 765196728,
+            "node1": 144463,
+            "node2": 215276,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 765196727,
+            "node1": 144463,
+            "node2": 223727,
+            "type": 28,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:57.569915",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "corail",
+        "#relations": 3,
+        "max_relation_weight": 28.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003448"
+    }
+}

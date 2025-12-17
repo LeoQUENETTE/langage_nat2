@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 110160,
+            "name": "robe",
+            "type": 1,
+            "w": 3032
+        },
+        {
+            "id": 15206604,
+            "name": "en:factory unit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 140533,
+            "name": "usine",
+            "type": 1,
+            "w": 3242
+        },
+        {
+            "id": 218508,
+            "name": "couturière>61490",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 7997626,
+            "name": "en:industrial plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 385909,
+            "name": "usine de production",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 15117569,
+            "name": "en:clockwork",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15206605,
+            "name": "en:production plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 97220,
+            "name": "couturière",
+            "type": 1,
+            "w": 515
+        },
+        {
+            "id": 7992106,
+            "name": "en:factory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 93017,
+            "name": "couturier",
+            "type": 1,
+            "w": 391
+        }
+    ],
+    "relations": [
+        {
+            "id": 775214900,
+            "node1": 110160,
+            "node2": 93017,
+            "type": 54,
+            "w": 25.0
+        },
+        {
+            "id": 1841779,
+            "node1": 110160,
+            "node2": 97220,
+            "type": 54,
+            "w": 34.0
+        },
+        {
+            "id": 1843637,
+            "node1": 110160,
+            "node2": 140533,
+            "type": 54,
+            "w": 31.0
+        },
+        {
+            "id": 1841781,
+            "node1": 110160,
+            "node2": 218508,
+            "type": 54,
+            "w": 26.0
+        },
+        {
+            "id": 479424678,
+            "node1": 110160,
+            "node2": 385909,
+            "type": 54,
+            "w": 35.0
+        },
+        {
+            "id": 479423154,
+            "node1": 110160,
+            "node2": 7992106,
+            "type": 54,
+            "w": 27.0
+        },
+        {
+            "id": 479423098,
+            "node1": 110160,
+            "node2": 7997626,
+            "type": 54,
+            "w": 32.0
+        },
+        {
+            "id": 594832165,
+            "node1": 110160,
+            "node2": 15117569,
+            "type": 54,
+            "w": 35.0
+        },
+        {
+            "id": 479423139,
+            "node1": 110160,
+            "node2": 15206604,
+            "type": 54,
+            "w": 35.0
+        },
+        {
+            "id": 479423113,
+            "node1": 110160,
+            "node2": 15206605,
+            "type": 54,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            54
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:59.486397",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "robe",
+        "#relations": 10,
+        "max_relation_weight": 35.0,
+        "#nodes": 11,
+        "duration": "0:00:00.004443"
+    }
+}

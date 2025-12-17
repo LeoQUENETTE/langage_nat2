@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 143291851,
+            "name": "Poisson d'eau douce",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 282987,
+            "name": "zone pélagique",
+            "type": 777,
+            "w": 55
+        },
+        {
+            "id": 153477,
+            "name": "poisson d'eau douce",
+            "type": 1,
+            "w": 170
+        },
+        {
+            "id": 149592,
+            "name": "pédalo",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 141604,
+            "name": "rive",
+            "type": 1,
+            "w": 3117
+        },
+        {
+            "id": 65012,
+            "name": "eau",
+            "type": 1,
+            "w": 39833
+        },
+        {
+            "id": 60152,
+            "name": "bassin",
+            "type": 1,
+            "w": 3354
+        },
+        {
+            "id": 15083400,
+            "name": "en:freshwater fish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139947,
+            "name": "berge",
+            "type": 1,
+            "w": 156
+        },
+        {
+            "id": 156430,
+            "name": "poisson de rivière",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 119973,
+            "name": "carpe",
+            "type": 1,
+            "w": 277
+        },
+        {
+            "id": 15199018,
+            "name": "en:river fish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 66326,
+            "name": "grenouille",
+            "type": 1,
+            "w": 390
+        },
+        {
+            "id": 33976,
+            "name": "lac",
+            "type": 1,
+            "w": 3851
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157284521,
+            "node1": 33976,
+            "node2": 60152,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 10527494,
+            "node1": 33976,
+            "node2": 65012,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 10561465,
+            "node1": 33976,
+            "node2": 66326,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 10562881,
+            "node1": 33976,
+            "node2": 119973,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 961890460,
+            "node1": 33976,
+            "node2": 139947,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 12341810,
+            "node1": 33976,
+            "node2": 141604,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 10527801,
+            "node1": 33976,
+            "node2": 149592,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10535570,
+            "node1": 33976,
+            "node2": 153477,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 426439329,
+            "node1": 33976,
+            "node2": 156430,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1150629328,
+            "node1": 33976,
+            "node2": 282987,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 414250436,
+            "node1": 33976,
+            "node2": 15083400,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 635394736,
+            "node1": 33976,
+            "node2": 15199018,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 548190333,
+            "node1": 33976,
+            "node2": 143291851,
+            "type": 9,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:27.041191",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lac",
+        "#relations": 13,
+        "max_relation_weight": 57.0,
+        "#nodes": 14,
+        "duration": "0:00:00.006059"
+    }
+}

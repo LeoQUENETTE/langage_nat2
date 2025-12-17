@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 86627,
+            "name": "organisation",
+            "type": 1,
+            "w": 11289
+        },
+        {
+            "id": 92603,
+            "name": "collaboration",
+            "type": 1,
+            "w": 27764
+        },
+        {
+            "id": 70283,
+            "name": "travail",
+            "type": 1,
+            "w": 25894
+        },
+        {
+            "id": 120156,
+            "name": "planification",
+            "type": 1,
+            "w": 7598
+        },
+        {
+            "id": 34659,
+            "name": "gestion",
+            "type": 1,
+            "w": 10105
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156516218,
+            "node1": 70283,
+            "node2": 34659,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1156515844,
+            "node1": 70283,
+            "node2": 86627,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1156516217,
+            "node1": 70283,
+            "node2": 92603,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1156515845,
+            "node1": 70283,
+            "node2": 120156,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:23.320564",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "travail",
+        "#relations": 4,
+        "max_relation_weight": 27.0,
+        "#nodes": 5,
+        "duration": "0:00:00.007676"
+    }
+}

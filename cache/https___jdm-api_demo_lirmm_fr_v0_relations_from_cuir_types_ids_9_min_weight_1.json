@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 135591,
+            "name": "poil",
+            "type": 1,
+            "w": 2877
+        },
+        {
+            "id": 39149,
+            "name": "cuir",
+            "type": 1,
+            "w": 1856
+        },
+        {
+            "id": 7658,
+            "name": "tablier",
+            "type": 1,
+            "w": 240
+        }
+    ],
+    "relations": [
+        {
+            "id": 9971745,
+            "node1": 39149,
+            "node2": 7658,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10527900,
+            "node1": 39149,
+            "node2": 135591,
+            "type": 9,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:32.537190",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cuir",
+        "#relations": 2,
+        "max_relation_weight": 31.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003547"
+    }
+}

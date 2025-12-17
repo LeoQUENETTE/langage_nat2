@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 123805,
+            "name": "capture",
+            "type": 1,
+            "w": 2317
+        },
+        {
+            "id": 313688058,
+            "name": "capture d'images artistiques",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 263016789,
+            "name": "prise de photos",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1376,
+            "name": "photographie",
+            "type": 1,
+            "w": 5544
+        },
+        {
+            "id": 206376,
+            "name": "prise de vue",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 1745460,
+            "name": "photographie de mariage",
+            "type": 777,
+            "w": 55
+        },
+        {
+            "id": 118812,
+            "name": "photographe",
+            "type": 1,
+            "w": 2620
+        }
+    ],
+    "relations": [
+        {
+            "id": 765196483,
+            "node1": 118812,
+            "node2": 1376,
+            "type": 137,
+            "w": 109.0
+        },
+        {
+            "id": 720644620,
+            "node1": 118812,
+            "node2": 123805,
+            "type": 137,
+            "w": 75.0
+        },
+        {
+            "id": 952374956,
+            "node1": 118812,
+            "node2": 206376,
+            "type": 137,
+            "w": 61.0
+        },
+        {
+            "id": 1046577707,
+            "node1": 118812,
+            "node2": 1745460,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1011178378,
+            "node1": 118812,
+            "node2": 263016789,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 952387611,
+            "node1": 118812,
+            "node2": 313688058,
+            "type": 137,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:36.955121",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "photographe",
+        "#relations": 6,
+        "max_relation_weight": 109.0,
+        "#nodes": 7,
+        "duration": "0:00:00.003995"
+    }
+}

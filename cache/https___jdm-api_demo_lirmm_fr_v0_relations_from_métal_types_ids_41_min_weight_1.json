@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 54701,
+            "name": "altération",
+            "type": 1,
+            "w": 520
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 438286,
+            "name": "artefact métallique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 74339,
+            "name": "oxydation",
+            "type": 1,
+            "w": 364
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150414104,
+            "node1": 134927,
+            "node2": 54701,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1150414103,
+            "node1": 134927,
+            "node2": 74339,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 15762945,
+            "node1": 134927,
+            "node2": 438286,
+            "type": 41,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:07.275326",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métal",
+        "#relations": 3,
+        "max_relation_weight": 31.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005284"
+    }
+}

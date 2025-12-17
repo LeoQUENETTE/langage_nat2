@@ -1,0 +1,287 @@
+{
+    "nodes": [
+        {
+            "id": 16595901,
+            "name": "_INFO-SEM-DET",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317327,
+            "name": "_POLIT_6FN",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317326,
+            "name": "_POLIT_5UMP",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 36344,
+            "name": "Maroc",
+            "type": 1,
+            "w": 3713
+        },
+        {
+            "id": 2585997,
+            "name": "_INFO-CNRTL-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 251716,
+            "name": "_INFO-MONOSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317325,
+            "name": "_POLIT_4MD",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458629,
+            "name": "_INFO-SEM-PLACE-HUMAN",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 264749,
+            "name": "_INFO-SEM-NAMED-ENTITY",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458628,
+            "name": "_INFO-SEM-PLACE-GEO",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 16606207,
+            "name": "_INFO-SEM-NODET",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 667152,
+            "node1": 36344,
+            "node2": 162759,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 2236314,
+            "node1": 36344,
+            "node2": 223172,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 2006681,
+            "node1": 36344,
+            "node2": 223173,
+            "type": 36,
+            "w": 421.0
+        },
+        {
+            "id": 2148411,
+            "node1": 36344,
+            "node2": 241794,
+            "type": 36,
+            "w": 73.0
+        },
+        {
+            "id": 95971559,
+            "node1": 36344,
+            "node2": 251716,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 2356618,
+            "node1": 36344,
+            "node2": 254876,
+            "type": 36,
+            "w": 81.0
+        },
+        {
+            "id": 2356619,
+            "node1": 36344,
+            "node2": 254877,
+            "type": 36,
+            "w": 14.0
+        },
+        {
+            "id": 2356620,
+            "node1": 36344,
+            "node2": 254878,
+            "type": 36,
+            "w": 5.0
+        },
+        {
+            "id": 3036404,
+            "node1": 36344,
+            "node2": 264749,
+            "type": 36,
+            "w": 49.0
+        },
+        {
+            "id": 1180143802,
+            "node1": 36344,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 1151307059,
+            "node1": 36344,
+            "node2": 317325,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 1151154224,
+            "node1": 36344,
+            "node2": 317326,
+            "type": 36,
+            "w": 3.0
+        },
+        {
+            "id": 1157010444,
+            "node1": 36344,
+            "node2": 317327,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 8917485,
+            "node1": 36344,
+            "node2": 317329,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 16108437,
+            "node1": 36344,
+            "node2": 458628,
+            "type": 36,
+            "w": 53.0
+        },
+        {
+            "id": 16113511,
+            "node1": 36344,
+            "node2": 458629,
+            "type": 36,
+            "w": 44.0
+        },
+        {
+            "id": 93309245,
+            "node1": 36344,
+            "node2": 2585997,
+            "type": 36,
+            "w": 57.0
+        },
+        {
+            "id": 477268398,
+            "node1": 36344,
+            "node2": 16595901,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 536291037,
+            "node1": 36344,
+            "node2": 16606207,
+            "type": 36,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:08.961276",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Maroc",
+        "#relations": 19,
+        "max_relation_weight": 421.0,
+        "#nodes": 20,
+        "duration": "0:00:00.010861"
+    }
+}

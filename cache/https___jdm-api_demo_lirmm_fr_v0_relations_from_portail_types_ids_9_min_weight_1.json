@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 2127567,
+            "name": "archivoltes",
+            "type": 2,
+            "w": 1
+        },
+        {
+            "id": 111358,
+            "name": "rail",
+            "type": 1,
+            "w": 1149
+        },
+        {
+            "id": 10302,
+            "name": "barreau",
+            "type": 1,
+            "w": 513
+        },
+        {
+            "id": 16213,
+            "name": "serrure",
+            "type": 1,
+            "w": 1275
+        },
+        {
+            "id": 92605,
+            "name": "récepteur",
+            "type": 1,
+            "w": 1684
+        },
+        {
+            "id": 115622,
+            "name": "verrou",
+            "type": 1,
+            "w": 497
+        },
+        {
+            "id": 231017,
+            "name": "poignée>159660",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 57808,
+            "name": "portail",
+            "type": 1,
+            "w": 1403
+        },
+        {
+            "id": 117787,
+            "name": "poignée",
+            "type": 1,
+            "w": 1242
+        },
+        {
+            "id": 70651,
+            "name": "cadenas",
+            "type": 1,
+            "w": 386
+        }
+    ],
+    "relations": [
+        {
+            "id": 9971152,
+            "node1": 57808,
+            "node2": 10302,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1972976,
+            "node1": 57808,
+            "node2": 16213,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9971660,
+            "node1": 57808,
+            "node2": 70651,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 2121189,
+            "node1": 57808,
+            "node2": 92605,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 2042344,
+            "node1": 57808,
+            "node2": 111358,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 9972071,
+            "node1": 57808,
+            "node2": 115622,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1990213,
+            "node1": 57808,
+            "node2": 117787,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 1990212,
+            "node1": 57808,
+            "node2": 231017,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 893552043,
+            "node1": 57808,
+            "node2": 2127567,
+            "type": 9,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:59.864651",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "portail",
+        "#relations": 9,
+        "max_relation_weight": 41.0,
+        "#nodes": 10,
+        "duration": "0:00:00.005161"
+    }
+}

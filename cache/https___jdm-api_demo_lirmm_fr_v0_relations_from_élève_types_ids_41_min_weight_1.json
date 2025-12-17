@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 68887,
+            "name": "élève",
+            "type": 1,
+            "w": 7662
+        },
+        {
+            "id": 15240553,
+            "name": "candidat au baccalauréat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 127487,
+            "name": "échec",
+            "type": 1,
+            "w": 6590
+        },
+        {
+            "id": 15240555,
+            "name": "candidate au baccalauréat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 27292,
+            "name": "diplôme",
+            "type": 1,
+            "w": 4426
+        },
+        {
+            "id": 252435,
+            "name": "candidat au bac",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 15240554,
+            "name": "en:candidate for the baccalaureate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15351976,
+            "name": "candidate au bac",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155613224,
+            "node1": 68887,
+            "node2": 27292,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155613225,
+            "node1": 68887,
+            "node2": 127487,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14649033,
+            "node1": 68887,
+            "node2": 252435,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 667273654,
+            "node1": 68887,
+            "node2": 15240553,
+            "type": 41,
+            "w": 22.0
+        },
+        {
+            "id": 438163322,
+            "node1": 68887,
+            "node2": 15240554,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 667273676,
+            "node1": 68887,
+            "node2": 15240555,
+            "type": 41,
+            "w": 4.0
+        },
+        {
+            "id": 929735795,
+            "node1": 68887,
+            "node2": 15351976,
+            "type": 41,
+            "w": 19.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:54.340068",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "élève",
+        "#relations": 7,
+        "max_relation_weight": 34.0,
+        "#nodes": 8,
+        "duration": "0:00:00.006223"
+    }
+}

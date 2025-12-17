@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 135689,
+            "name": "diplômes",
+            "type": 1,
+            "w": 334
+        },
+        {
+            "id": 28447,
+            "name": "sage-femme",
+            "type": 1,
+            "w": 281
+        },
+        {
+            "id": 34025,
+            "name": "savoir",
+            "type": 1,
+            "w": 55066
+        },
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 127487,
+            "name": "échec",
+            "type": 1,
+            "w": 6608
+        },
+        {
+            "id": 2490578,
+            "name": "sagefemme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4216,
+            "name": "menuisier",
+            "type": 1,
+            "w": 395
+        }
+    ],
+    "relations": [
+        {
+            "id": 376992007,
+            "node1": 91240,
+            "node2": 4216,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 376990600,
+            "node1": 91240,
+            "node2": 28447,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 1147900207,
+            "node1": 91240,
+            "node2": 34025,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1010155524,
+            "node1": 91240,
+            "node2": 127487,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1154241071,
+            "node1": 91240,
+            "node2": 135689,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376991898,
+            "node1": 91240,
+            "node2": 2490578,
+            "type": 53,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:08.431836",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "école",
+        "#relations": 6,
+        "max_relation_weight": 35.0,
+        "#nodes": 7,
+        "duration": "0:00:00.006473"
+    }
+}

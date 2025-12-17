@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 3343091,
+            "name": "plaisir gustatif",
+            "type": 1,
+            "w": 157
+        },
+        {
+            "id": 61283,
+            "name": "pain",
+            "type": 1,
+            "w": 5782
+        },
+        {
+            "id": 14330,
+            "name": "satisfaction",
+            "type": 1,
+            "w": 7341
+        },
+        {
+            "id": 78679,
+            "name": "rassasiement",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 64355,
+            "name": "satiété",
+            "type": 1,
+            "w": 236
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156476129,
+            "node1": 61283,
+            "node2": 14330,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1145099382,
+            "node1": 61283,
+            "node2": 64355,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 788651581,
+            "node1": 61283,
+            "node2": 78679,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1177606245,
+            "node1": 61283,
+            "node2": 3343091,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:41.729930",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pain",
+        "#relations": 4,
+        "max_relation_weight": 29.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006585"
+    }
+}

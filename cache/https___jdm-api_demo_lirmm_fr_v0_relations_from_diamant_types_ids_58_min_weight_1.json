@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 85794,
+            "name": "diamant",
+            "type": 1,
+            "w": 686
+        },
+        {
+            "id": 106995,
+            "name": "carat",
+            "type": 1,
+            "w": 78
+        }
+    ],
+    "relations": [
+        {
+            "id": 96929147,
+            "node1": 85794,
+            "node2": 106995,
+            "type": 58,
+            "w": 15.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:38.449815",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "diamant",
+        "#relations": 1,
+        "max_relation_weight": 15.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003619"
+    }
+}

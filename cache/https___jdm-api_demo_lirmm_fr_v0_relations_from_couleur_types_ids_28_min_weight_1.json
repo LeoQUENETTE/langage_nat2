@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 181106,
+            "name": "blanc d'Espagne",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 8880883,
+            "name": "en:indigo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2019583,
+            "name": "blanchissante",
+            "type": 2,
+            "w": 0
+        },
+        {
+            "id": 181107,
+            "name": "blanc-d'Espagne",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1830653,
+            "name": "condensation des coins vertébraux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 70446,
+            "name": "indigo",
+            "type": 1,
+            "w": 225
+        },
+        {
+            "id": 14924216,
+            "name": "en:whitening",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 86711,
+            "name": "jaune",
+            "type": 1,
+            "w": 5450
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 225291,
+            "name": "couleur>17226",
+            "type": 1,
+            "w": 382
+        },
+        {
+            "id": 91958,
+            "name": "blanchissement",
+            "type": 1,
+            "w": 84
+        }
+    ],
+    "relations": [
+        {
+            "id": 11331504,
+            "node1": 40056,
+            "node2": 70446,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11348203,
+            "node1": 40056,
+            "node2": 86711,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 824739954,
+            "node1": 40056,
+            "node2": 91958,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 11330736,
+            "node1": 40056,
+            "node2": 181106,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 13673680,
+            "node1": 40056,
+            "node2": 181107,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 581318259,
+            "node1": 40056,
+            "node2": 225291,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 765151830,
+            "node1": 40056,
+            "node2": 1830653,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 738352590,
+            "node1": 40056,
+            "node2": 2019583,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 308218648,
+            "node1": 40056,
+            "node2": 8880883,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 553301470,
+            "node1": 40056,
+            "node2": 14924216,
+            "type": 28,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:53.062089",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couleur",
+        "#relations": 10,
+        "max_relation_weight": 39.0,
+        "#nodes": 11,
+        "duration": "0:00:00.007010"
+    }
+}

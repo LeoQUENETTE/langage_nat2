@@ -1,0 +1,5728 @@
+{
+    "nodes": [
+        {
+            "id": 2414691,
+            "name": "Sprinkange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2551466,
+            "name": "Niederfeulen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2589433,
+            "name": "Obercorn",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 2461965,
+            "name": "Clemency",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2531702,
+            "name": "Saeul",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2839752,
+            "name": "Neuhaeusgen",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 2847484,
+            "name": "Roodt-sur-Syr",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 5564807,
+            "name": "canton de Vianden",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10985211,
+            "name": "canton de Luxembourg",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10985457,
+            "name": "district de Diekirch",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10985459,
+            "name": "district de Grevenmacher",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10985452,
+            "name": "canton de Capellen",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10985449,
+            "name": "canton de Mersch",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10986596,
+            "name": "circonscription Sud",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11153512,
+            "name": "canton de Grevenmacher",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11155477,
+            "name": "Merl",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11179499,
+            "name": "canton d'Esch-sur-Alzette",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 12206618,
+            "name": "titelberg",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 243174498,
+            "name": "Pont Adolphe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 113994,
+            "name": "district",
+            "type": 1,
+            "w": 3517
+        },
+        {
+            "id": 15835131,
+            "name": "Le pont bleu",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15835130,
+            "name": "Photos de la construction du pont prises par Charles Bernhoeft",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2426472,
+            "name": "Roder",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 2470081,
+            "name": "Merscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10985209,
+            "name": "district de Luxembourg",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 57073,
+            "name": "européen",
+            "type": 1,
+            "w": 5718
+        },
+        {
+            "id": 2505786,
+            "name": "Wecker",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2445565,
+            "name": "Hautbellain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 76704,
+            "name": "Berg",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 2558825,
+            "name": "Manternach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2400215,
+            "name": "Hemstal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2492386,
+            "name": "Altwies",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 2510678,
+            "name": "Boxhorn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 428738,
+            "name": "Cents",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 2391368,
+            "name": "Hoscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156773529,
+            "name": "Canton de Luxembourg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16320531,
+            "name": "Canton de Capellen",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2419841,
+            "name": "Eppeldorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2442096,
+            "name": "Scheidgen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156773527,
+            "name": "Canton de Grevenmacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2461554,
+            "name": "Grevels",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2467640,
+            "name": "Noerdange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2471385,
+            "name": "Waldbredimus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2479052,
+            "name": "Hellange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2483253,
+            "name": "Doennange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2485402,
+            "name": "Savelborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2497038,
+            "name": "Berschbach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13884298,
+            "name": "pont Adolphe",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2504796,
+            "name": "Noertzange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2505108,
+            "name": "Sonlez",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2508279,
+            "name": "Dickweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2512211,
+            "name": "Schoenfels",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2514096,
+            "name": "Useldange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 132995,
+            "name": "immeuble",
+            "type": 1,
+            "w": 2744
+        },
+        {
+            "id": 2516555,
+            "name": "Grosbous",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2517648,
+            "name": "Boevange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2518187,
+            "name": "Arsdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2519125,
+            "name": "Alscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2526686,
+            "name": "Beidweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2543551,
+            "name": "Lipperscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2545465,
+            "name": "Reuler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2553737,
+            "name": "Hollenfels",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2554609,
+            "name": "Goedange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2570259,
+            "name": "Keispelt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156773532,
+            "name": "Canton de Vianden",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91358,
+            "name": "appartement",
+            "type": 1,
+            "w": 4978
+        },
+        {
+            "id": 2586675,
+            "name": "Redange-sur-Attert",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2487252,
+            "name": "Mertzig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2384871,
+            "name": "Stadtbredimus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2389534,
+            "name": "Goeblange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2409682,
+            "name": "Redange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2410323,
+            "name": "Tadler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2415973,
+            "name": "Angelsberg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2421455,
+            "name": "Pommerloch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2426191,
+            "name": "Kuborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2444825,
+            "name": "Beckerich",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2473461,
+            "name": "Levelange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2510544,
+            "name": "Heiderscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2513788,
+            "name": "Sanem",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2514219,
+            "name": "Hosingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2564614,
+            "name": "Folkendange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2565961,
+            "name": "Berdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2398056,
+            "name": "Schieren",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2390588,
+            "name": "Dippach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2473235,
+            "name": "Weydig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2459308,
+            "name": "Boudler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2474719,
+            "name": "Nagem",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2394264,
+            "name": "Ersange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2381442,
+            "name": "Marnach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2423216,
+            "name": "Niederanven",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2438875,
+            "name": "Senningerberg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2381411,
+            "name": "Wiltz",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2393110,
+            "name": "Gilsdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2403801,
+            "name": "Ospern",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2407028,
+            "name": "Wallendorf-Pont",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2439676,
+            "name": "Holzthum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2441828,
+            "name": "Greisch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2449583,
+            "name": "Bavigne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2456091,
+            "name": "Niederdonven",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2458592,
+            "name": "Baschleiden",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2472272,
+            "name": "Everlange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2476301,
+            "name": "Oberwampach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2484891,
+            "name": "Ringel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2499189,
+            "name": "Schlindermanderscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2505103,
+            "name": "Koerich",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2528788,
+            "name": "Burmerange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2531267,
+            "name": "Wincrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2420695,
+            "name": "Bilsdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2570104,
+            "name": "Rippig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2570541,
+            "name": "Hachiville",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2463380,
+            "name": "Livange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2484247,
+            "name": "Koetschette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2462589,
+            "name": "Helmdange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2570496,
+            "name": "Untereisenbach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2494294,
+            "name": "Colpach-Haut",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2499509,
+            "name": "Boulaide",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2390240,
+            "name": "Hinkel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2392690,
+            "name": "Beyren",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2393996,
+            "name": "Schoos",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2476176,
+            "name": "Eischen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2392681,
+            "name": "Grevenmacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2490666,
+            "name": "Larochette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2448652,
+            "name": "Rumelange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2468759,
+            "name": "Kleinbettingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2469157,
+            "name": "Leithum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2469600,
+            "name": "Hoesdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2470911,
+            "name": "Buschdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2471968,
+            "name": "Schwiedelbrouch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2479302,
+            "name": "Lasauvage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2484164,
+            "name": "Breidweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2488312,
+            "name": "Abweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2493971,
+            "name": "Nommern",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2497566,
+            "name": "Lellingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2499804,
+            "name": "Grummelscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2501440,
+            "name": "Basbellain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2511721,
+            "name": "Fingig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2518914,
+            "name": "Weiswampach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2519432,
+            "name": "Huldange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2519210,
+            "name": "Kayl",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2531678,
+            "name": "Berlé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2533745,
+            "name": "Bigelbach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2533741,
+            "name": "Wickrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2536999,
+            "name": "Hobscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2537344,
+            "name": "Mensdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2538539,
+            "name": "Osweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2539488,
+            "name": "Kockelscheuer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2541342,
+            "name": "Meispelt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2542779,
+            "name": "Reichlange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2543419,
+            "name": "Rameldange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2544129,
+            "name": "Bissen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2546199,
+            "name": "Contern",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2557808,
+            "name": "Brattert",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2559293,
+            "name": "Aspelt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2559349,
+            "name": "Longsdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2561183,
+            "name": "Frisange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2563012,
+            "name": "Weicherdange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 62732,
+            "name": "Haller",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 435284,
+            "name": "Platen",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 2380764,
+            "name": "Kautenbach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2382835,
+            "name": "Ernzen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2564056,
+            "name": "Cruchten",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2386834,
+            "name": "Junglinster",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2392361,
+            "name": "Itzig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2397645,
+            "name": "Niederkorn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2405533,
+            "name": "Hovelange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2410915,
+            "name": "Howald",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2415418,
+            "name": "Graulinster",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2421049,
+            "name": "Rodenbourg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2564944,
+            "name": "Bettel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2429254,
+            "name": "Olingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2430256,
+            "name": "Urspelt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2432119,
+            "name": "Tétange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2564979,
+            "name": "Heispelt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2433044,
+            "name": "Grand-Bevange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2434467,
+            "name": "Roodt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2435468,
+            "name": "Mondercange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2436432,
+            "name": "Allerborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2565459,
+            "name": "Bech-Kleinmacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2440256,
+            "name": "Heinerscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2441696,
+            "name": "Foetz",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2446741,
+            "name": "Roullingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2446640,
+            "name": "Grevenknapp",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2447265,
+            "name": "Mersch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2449184,
+            "name": "Wintrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2455122,
+            "name": "Lullange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2566625,
+            "name": "Fouhren",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2460380,
+            "name": "Pétange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2464075,
+            "name": "Breidfeld",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2418286,
+            "name": "Brandenbourg",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 2430149,
+            "name": "Troisvierges",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2440670,
+            "name": "Kehlen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2440673,
+            "name": "Schrassig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2382923,
+            "name": "Ehlerange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2389121,
+            "name": "Capellen",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 2482494,
+            "name": "Altlinster",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2509003,
+            "name": "Reckange-sur-Mess",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2517722,
+            "name": "Oberanven",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2518704,
+            "name": "Eschdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2521121,
+            "name": "Biwer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2525125,
+            "name": "Lieler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2532764,
+            "name": "Eschette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2537031,
+            "name": "Uebersyren",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17842,
+            "name": "Luxemburg",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 2553751,
+            "name": "Nachtmanderscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2555937,
+            "name": "Harlange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2560326,
+            "name": "Dorscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2416353,
+            "name": "Schwebach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2554987,
+            "name": "Weiler-la-Tour",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2406540,
+            "name": "Godbrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2410312,
+            "name": "Emerange",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 2419270,
+            "name": "Niederwampach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2507367,
+            "name": "Noertrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2436961,
+            "name": "Huttange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2518523,
+            "name": "Kapweiler",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 2570025,
+            "name": "Lamadelaine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2397918,
+            "name": "Oetrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2503905,
+            "name": "Nocher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2451996,
+            "name": "Buschrodt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 119622,
+            "name": "Differdange",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 2380472,
+            "name": "Boevange-sur-Attert",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2384643,
+            "name": "Goesdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2384634,
+            "name": "Remich",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2387487,
+            "name": "Hoffelt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2387521,
+            "name": "Wormeldange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2388298,
+            "name": "Bourglinster",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2390462,
+            "name": "Lannen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2396340,
+            "name": "Winseler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2399337,
+            "name": "Grindhausen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2402361,
+            "name": "Wilwerdange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2402535,
+            "name": "Munschecker",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2405644,
+            "name": "Bereldange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2408403,
+            "name": "Tandel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2412918,
+            "name": "Niederpallen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2415826,
+            "name": "Colmar-Berg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2423123,
+            "name": "Rippweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2424148,
+            "name": "Eisenborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2425185,
+            "name": "Doncols",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2425485,
+            "name": "Oberkorn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2428682,
+            "name": "Girst",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2428718,
+            "name": "Waldbillig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2429577,
+            "name": "Bettembourg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2429511,
+            "name": "Kopstal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2438815,
+            "name": "Machtum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2447120,
+            "name": "Neunhausen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2452144,
+            "name": "Koedange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2456012,
+            "name": "Crauthem",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2456507,
+            "name": "Olm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2456589,
+            "name": "Bollendorf-Pont",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2456849,
+            "name": "Insenborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2456986,
+            "name": "Greiveldange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2459454,
+            "name": "Neidhausen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2459654,
+            "name": "Haut-Martelange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2460191,
+            "name": "Mullendorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2460864,
+            "name": "Hagelsdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2477126,
+            "name": "Garnich",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2477852,
+            "name": "Heisdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2478693,
+            "name": "Kaundorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2486967,
+            "name": "Moesdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2489145,
+            "name": "Putscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2489220,
+            "name": "Breinert",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2498316,
+            "name": "Syren",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2499980,
+            "name": "Gostingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2500121,
+            "name": "Nospelt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2510231,
+            "name": "Alzingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2510926,
+            "name": "Neuhäusgen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2511685,
+            "name": "Roodt-sur-Syre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2517674,
+            "name": "Beiler",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 2519068,
+            "name": "Kobenbour",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2521985,
+            "name": "Lintgen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2522115,
+            "name": "Ingeldorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2528436,
+            "name": "Reimberg",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 2528658,
+            "name": "Moestroff",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2529849,
+            "name": "Bascharage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2532071,
+            "name": "Medernach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2534838,
+            "name": "Eselborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2537240,
+            "name": "Kalborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2546879,
+            "name": "Heiderscheidergrund",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2550594,
+            "name": "Lultzhausen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2551400,
+            "name": "Surré",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2551406,
+            "name": "Lorentzweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2556807,
+            "name": "Selscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2566019,
+            "name": "Tarchamps",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2412407,
+            "name": "Buderscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2435112,
+            "name": "Bivange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2451385,
+            "name": "Betzdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2452908,
+            "name": "Schifflange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2458021,
+            "name": "Oberfeulen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2477028,
+            "name": "Knaphoscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2481065,
+            "name": "Erpeldange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2508831,
+            "name": "Drauffelt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2510807,
+            "name": "Fennange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2511192,
+            "name": "Soleuvre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2531886,
+            "name": "Walferdange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2563930,
+            "name": "Fentange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2561020,
+            "name": "Bigonville",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2559964,
+            "name": "Zittig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2439954,
+            "name": "Imbringen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2472116,
+            "name": "Schwebsange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2473777,
+            "name": "Gonderange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2477627,
+            "name": "Wilwerwiltz",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2504848,
+            "name": "Gralingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2541957,
+            "name": "Liefrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2549055,
+            "name": "Schuttrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2571204,
+            "name": "Folschette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15835132,
+            "name": "la passerelle suspendue",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 16586423,
+            "name": "Canton d'Esch-sur-Alzette",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2570960,
+            "name": "Mompach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2513716,
+            "name": "Mondorf-les-Bains",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 2515886,
+            "name": "Wormeldange-Haut",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2522695,
+            "name": "Heffingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2523681,
+            "name": "Roodt-sur-Eisch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2525009,
+            "name": "Bivels",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2526538,
+            "name": "Pettingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2528460,
+            "name": "Schrondweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2380183,
+            "name": "Filsdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2381140,
+            "name": "Vichten",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2386225,
+            "name": "Troine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2529215,
+            "name": "Flaxweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2388438,
+            "name": "Bour",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 2401129,
+            "name": "Leudelange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2405114,
+            "name": "Rosport",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2410244,
+            "name": "Hunsdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2411111,
+            "name": "Ellange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2535831,
+            "name": "Mullerthal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2538021,
+            "name": "Welfrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2419846,
+            "name": "Bettange-sur-Mess",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2421789,
+            "name": "Ermsdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2428300,
+            "name": "Scheidel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2431463,
+            "name": "Drinklange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2543992,
+            "name": "Sandweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2548320,
+            "name": "Oberdonven",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2438015,
+            "name": "Perlé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2550714,
+            "name": "Rollingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2438930,
+            "name": "Wolwelange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2551708,
+            "name": "Trintange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2551659,
+            "name": "Prettingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2444422,
+            "name": "Lellig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2451526,
+            "name": "Watrange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2453444,
+            "name": "Siebenaler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2454160,
+            "name": "Dondelange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2454593,
+            "name": "Huncherange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2455475,
+            "name": "Berbourg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2462146,
+            "name": "Peppange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2463973,
+            "name": "Schandel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2465303,
+            "name": "Gosseldange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2467308,
+            "name": "Enscherange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2563130,
+            "name": "Stolzembourg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2474488,
+            "name": "Budersberg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2476378,
+            "name": "Hautcharage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2565177,
+            "name": "Senningen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2565513,
+            "name": "Ehner",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2485305,
+            "name": "Bastendorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2486648,
+            "name": "Schouweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2490710,
+            "name": "Hivange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2491689,
+            "name": "Nothum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2494337,
+            "name": "Calmus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2494833,
+            "name": "Roeser",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2496428,
+            "name": "Brachtenbach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2501176,
+            "name": "Christnach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2503230,
+            "name": "Landscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2507825,
+            "name": "Remerschen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2508862,
+            "name": "Consthum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2510382,
+            "name": "Schimpach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2510457,
+            "name": "Pissange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 173229,
+            "name": "Luxembourgeois",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 66143,
+            "name": "Schengen",
+            "type": 1,
+            "w": 170
+        },
+        {
+            "id": 4045084,
+            "name": "Käerjeng",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2500152,
+            "name": "Mamer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4518,
+            "name": "Esch-sur-Alzette",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 41751,
+            "name": "Clervaux",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 71554,
+            "name": "Vianden",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 86760,
+            "name": "Echternach",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 115242,
+            "name": "Dudelange",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 122639,
+            "name": "Mertert",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 189776,
+            "name": "Wellenstein",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 17734,
+            "name": "Luxembourg",
+            "type": 1,
+            "w": 3420
+        },
+        {
+            "id": 2320,
+            "name": "perlé",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 425179,
+            "name": "Dahl",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 1003996,
+            "name": "Holtz",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 1854673,
+            "name": "Wahl",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 2386609,
+            "name": "Helmsange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2387100,
+            "name": "Merkholtz",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2394526,
+            "name": "Roedgen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2394899,
+            "name": "Hupperdange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2396937,
+            "name": "Bergem",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2403419,
+            "name": "Windhof",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2412293,
+            "name": "Ettelbruck",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 2412842,
+            "name": "Medingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2418006,
+            "name": "Asselborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2418401,
+            "name": "Petit-Nobressart",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2419303,
+            "name": "Moutfort",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2424828,
+            "name": "Welscheid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2430801,
+            "name": "Munsbach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2430914,
+            "name": "Pintsch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2431019,
+            "name": "Munshausen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2432826,
+            "name": "Moersdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2437817,
+            "name": "Lentzweiler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2450873,
+            "name": "Altrier",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2466156,
+            "name": "Derenbach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2469996,
+            "name": "Kirchberg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2484706,
+            "name": "Grundhof",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2485864,
+            "name": "Canach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2485881,
+            "name": "Goetzingen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2498023,
+            "name": "Dirbach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2503414,
+            "name": "Blaschette",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 2506274,
+            "name": "Masseler",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2508060,
+            "name": "Hamiville",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2511831,
+            "name": "Reisdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2515248,
+            "name": "Hesperange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2517091,
+            "name": "Findel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2524068,
+            "name": "Michelbouch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2526875,
+            "name": "Rambrouch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2530049,
+            "name": "Consdorf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2534582,
+            "name": "Tuntange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2534623,
+            "name": "Kehmen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2537805,
+            "name": "Colpach-Bas",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2547334,
+            "name": "Rodange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2547576,
+            "name": "Bofferdange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2549834,
+            "name": "Oberpallen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2549985,
+            "name": "Ehlange-sur-Mess",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2550604,
+            "name": "Steinfort",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2554012,
+            "name": "Ehnen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2555692,
+            "name": "Reckange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2557174,
+            "name": "Steinsel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2557886,
+            "name": "Biwisch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2558125,
+            "name": "Rumlange",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2562695,
+            "name": "Holzem",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2566398,
+            "name": "Ernster",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2568166,
+            "name": "Wasserbillig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2576641,
+            "name": "Rombach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2582408,
+            "name": "Grund",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 3261433,
+            "name": "Clausen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2498365,
+            "name": "Diekirch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142669,
+            "name": "Capitale",
+            "type": 1,
+            "w": 1492
+        },
+        {
+            "id": 145417,
+            "name": "canton",
+            "type": 1,
+            "w": 3960
+        },
+        {
+            "id": 116466,
+            "name": "café au lait",
+            "type": 1,
+            "w": 268
+        },
+        {
+            "id": 143419,
+            "name": "Bill",
+            "type": 1,
+            "w": 3138
+        },
+        {
+            "id": 11179500,
+            "name": "Esch-Belval",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 18714682,
+            "node1": 17734,
+            "node2": 2320,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 19038155,
+            "node1": 17734,
+            "node2": 4518,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 378760385,
+            "node1": 17734,
+            "node2": 17734,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378760383,
+            "node1": 17734,
+            "node2": 17842,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 19037644,
+            "node1": 17734,
+            "node2": 41751,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11345040,
+            "node1": 17734,
+            "node2": 57073,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 253526348,
+            "node1": 17734,
+            "node2": 62732,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 22182346,
+            "node1": 17734,
+            "node2": 66143,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 22191360,
+            "node1": 17734,
+            "node2": 71554,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375970530,
+            "node1": 17734,
+            "node2": 76704,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 19108691,
+            "node1": 17734,
+            "node2": 86760,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 8908308,
+            "node1": 17734,
+            "node2": 91358,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 289239509,
+            "node1": 17734,
+            "node2": 113994,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 18305737,
+            "node1": 17734,
+            "node2": 115242,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 765900658,
+            "node1": 17734,
+            "node2": 116466,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 22279231,
+            "node1": 17734,
+            "node2": 119622,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 23344309,
+            "node1": 17734,
+            "node2": 122639,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 8555900,
+            "node1": 17734,
+            "node2": 132995,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11781113,
+            "node1": 17734,
+            "node2": 142669,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 253532935,
+            "node1": 17734,
+            "node2": 143419,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 289239435,
+            "node1": 17734,
+            "node2": 145417,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 428474991,
+            "node1": 17734,
+            "node2": 173229,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 18395581,
+            "node1": 17734,
+            "node2": 189776,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 289262510,
+            "node1": 17734,
+            "node2": 425179,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 17710018,
+            "node1": 17734,
+            "node2": 428738,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 17709399,
+            "node1": 17734,
+            "node2": 435284,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 20965156,
+            "node1": 17734,
+            "node2": 1003996,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 289282347,
+            "node1": 17734,
+            "node2": 1854673,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 52847826,
+            "node1": 17734,
+            "node2": 2380183,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 52847637,
+            "node1": 17734,
+            "node2": 2380472,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 52847298,
+            "node1": 17734,
+            "node2": 2380764,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 52847236,
+            "node1": 17734,
+            "node2": 2381140,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 52847038,
+            "node1": 17734,
+            "node2": 2381411,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 52847077,
+            "node1": 17734,
+            "node2": 2381442,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 53038533,
+            "node1": 17734,
+            "node2": 2382835,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 53038477,
+            "node1": 17734,
+            "node2": 2382923,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 53037609,
+            "node1": 17734,
+            "node2": 2384634,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 53037615,
+            "node1": 17734,
+            "node2": 2384643,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 53037423,
+            "node1": 17734,
+            "node2": 2384871,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 53017626,
+            "node1": 17734,
+            "node2": 2386225,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 53036936,
+            "node1": 17734,
+            "node2": 2386609,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 53031167,
+            "node1": 17734,
+            "node2": 2386834,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 53036830,
+            "node1": 17734,
+            "node2": 2387100,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 53091423,
+            "node1": 17734,
+            "node2": 2387487,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 53091448,
+            "node1": 17734,
+            "node2": 2387521,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 53090907,
+            "node1": 17734,
+            "node2": 2388298,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 375971640,
+            "node1": 17734,
+            "node2": 2388438,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 53090553,
+            "node1": 17734,
+            "node2": 2389121,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 53090274,
+            "node1": 17734,
+            "node2": 2389534,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 53124724,
+            "node1": 17734,
+            "node2": 2390240,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 53124610,
+            "node1": 17734,
+            "node2": 2390462,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 53124547,
+            "node1": 17734,
+            "node2": 2390588,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 53124201,
+            "node1": 17734,
+            "node2": 2391368,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 53165951,
+            "node1": 17734,
+            "node2": 2392361,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 53165763,
+            "node1": 17734,
+            "node2": 2392681,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 53165609,
+            "node1": 17734,
+            "node2": 2392690,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 53165538,
+            "node1": 17734,
+            "node2": 2393110,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 53185914,
+            "node1": 17734,
+            "node2": 2393996,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 53185764,
+            "node1": 17734,
+            "node2": 2394264,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 53819621,
+            "node1": 17734,
+            "node2": 2394526,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 53819408,
+            "node1": 17734,
+            "node2": 2394899,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 53818724,
+            "node1": 17734,
+            "node2": 2396340,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 53818292,
+            "node1": 17734,
+            "node2": 2396937,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 53818023,
+            "node1": 17734,
+            "node2": 2397645,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 53817902,
+            "node1": 17734,
+            "node2": 2397918,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 53817731,
+            "node1": 17734,
+            "node2": 2398056,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 53817159,
+            "node1": 17734,
+            "node2": 2399337,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 53816620,
+            "node1": 17734,
+            "node2": 2400215,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 53816135,
+            "node1": 17734,
+            "node2": 2401129,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 53815416,
+            "node1": 17734,
+            "node2": 2402361,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 53815395,
+            "node1": 17734,
+            "node2": 2402535,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 53814926,
+            "node1": 17734,
+            "node2": 2403419,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 53814578,
+            "node1": 17734,
+            "node2": 2403801,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 53814000,
+            "node1": 17734,
+            "node2": 2405114,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 53813700,
+            "node1": 17734,
+            "node2": 2405533,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 53813656,
+            "node1": 17734,
+            "node2": 2405644,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 53884863,
+            "node1": 17734,
+            "node2": 2406540,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 53884583,
+            "node1": 17734,
+            "node2": 2407028,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 53883794,
+            "node1": 17734,
+            "node2": 2408403,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 54343750,
+            "node1": 17734,
+            "node2": 2409682,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 54343369,
+            "node1": 17734,
+            "node2": 2410244,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 54343426,
+            "node1": 17734,
+            "node2": 2410312,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 54343405,
+            "node1": 17734,
+            "node2": 2410323,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 54343056,
+            "node1": 17734,
+            "node2": 2410915,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 54342916,
+            "node1": 17734,
+            "node2": 2411111,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 54342376,
+            "node1": 17734,
+            "node2": 2412293,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 54342251,
+            "node1": 17734,
+            "node2": 2412407,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 54342090,
+            "node1": 17734,
+            "node2": 2412842,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 54342044,
+            "node1": 17734,
+            "node2": 2412918,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 54341116,
+            "node1": 17734,
+            "node2": 2414691,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 54895877,
+            "node1": 17734,
+            "node2": 2415418,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 54895699,
+            "node1": 17734,
+            "node2": 2415826,
+            "type": 28,
+            "w": 49.0
+        },
+        {
+            "id": 54895500,
+            "node1": 17734,
+            "node2": 2415973,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 54895317,
+            "node1": 17734,
+            "node2": 2416353,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 54894475,
+            "node1": 17734,
+            "node2": 2418006,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 54894330,
+            "node1": 17734,
+            "node2": 2418286,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 54894269,
+            "node1": 17734,
+            "node2": 2418401,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 54893768,
+            "node1": 17734,
+            "node2": 2419270,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 54893729,
+            "node1": 17734,
+            "node2": 2419303,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 54893274,
+            "node1": 17734,
+            "node2": 2419841,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 54893522,
+            "node1": 17734,
+            "node2": 2419846,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 54892962,
+            "node1": 17734,
+            "node2": 2420695,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 54892919,
+            "node1": 17734,
+            "node2": 2421049,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 54892714,
+            "node1": 17734,
+            "node2": 2421455,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 54892534,
+            "node1": 17734,
+            "node2": 2421789,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 54891903,
+            "node1": 17734,
+            "node2": 2423123,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 54891818,
+            "node1": 17734,
+            "node2": 2423216,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 54891366,
+            "node1": 17734,
+            "node2": 2424148,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 54891065,
+            "node1": 17734,
+            "node2": 2424828,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 54890867,
+            "node1": 17734,
+            "node2": 2425185,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 54890548,
+            "node1": 17734,
+            "node2": 2425485,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 54890298,
+            "node1": 17734,
+            "node2": 2426191,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 54890142,
+            "node1": 17734,
+            "node2": 2426472,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 54889240,
+            "node1": 17734,
+            "node2": 2428300,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 54889028,
+            "node1": 17734,
+            "node2": 2428682,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 54888974,
+            "node1": 17734,
+            "node2": 2428718,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 54888554,
+            "node1": 17734,
+            "node2": 2429254,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 54888445,
+            "node1": 17734,
+            "node2": 2429511,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 54982118,
+            "node1": 17734,
+            "node2": 2429577,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 54981864,
+            "node1": 17734,
+            "node2": 2430149,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 54981630,
+            "node1": 17734,
+            "node2": 2430256,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 54981557,
+            "node1": 17734,
+            "node2": 2430801,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 54981410,
+            "node1": 17734,
+            "node2": 2430914,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 54981428,
+            "node1": 17734,
+            "node2": 2431019,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 55119829,
+            "node1": 17734,
+            "node2": 2431463,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 55119478,
+            "node1": 17734,
+            "node2": 2432119,
+            "type": 28,
+            "w": 53.0
+        },
+        {
+            "id": 55119043,
+            "node1": 17734,
+            "node2": 2432826,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 55119013,
+            "node1": 17734,
+            "node2": 2433044,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 55118126,
+            "node1": 17734,
+            "node2": 2434467,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 55117826,
+            "node1": 17734,
+            "node2": 2435112,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 55117606,
+            "node1": 17734,
+            "node2": 2435468,
+            "type": 28,
+            "w": 53.0
+        },
+        {
+            "id": 55385556,
+            "node1": 17734,
+            "node2": 2436432,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 55385340,
+            "node1": 17734,
+            "node2": 2436961,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 55384911,
+            "node1": 17734,
+            "node2": 2437817,
+            "type": 28,
+            "w": 49.0
+        },
+        {
+            "id": 55384844,
+            "node1": 17734,
+            "node2": 2438015,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 55384406,
+            "node1": 17734,
+            "node2": 2438815,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 55384357,
+            "node1": 17734,
+            "node2": 2438875,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 55384350,
+            "node1": 17734,
+            "node2": 2438930,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 55384019,
+            "node1": 17734,
+            "node2": 2439676,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 55383781,
+            "node1": 17734,
+            "node2": 2439954,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 55383700,
+            "node1": 17734,
+            "node2": 2440256,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 55383495,
+            "node1": 17734,
+            "node2": 2440670,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 55383488,
+            "node1": 17734,
+            "node2": 2440673,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 55382943,
+            "node1": 17734,
+            "node2": 2441696,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 289287534,
+            "node1": 17734,
+            "node2": 2441828,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 55382725,
+            "node1": 17734,
+            "node2": 2442096,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 55381586,
+            "node1": 17734,
+            "node2": 2444422,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 55381382,
+            "node1": 17734,
+            "node2": 2444825,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 55380894,
+            "node1": 17734,
+            "node2": 2445565,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 55380298,
+            "node1": 17734,
+            "node2": 2446640,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 55380282,
+            "node1": 17734,
+            "node2": 2446741,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 58048184,
+            "node1": 17734,
+            "node2": 2447120,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 58048222,
+            "node1": 17734,
+            "node2": 2447265,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 58047501,
+            "node1": 17734,
+            "node2": 2448652,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 58047203,
+            "node1": 17734,
+            "node2": 2449184,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 58046849,
+            "node1": 17734,
+            "node2": 2449583,
+            "type": 28,
+            "w": 53.0
+        },
+        {
+            "id": 58046216,
+            "node1": 17734,
+            "node2": 2450873,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 289237194,
+            "node1": 17734,
+            "node2": 2451385,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 58045890,
+            "node1": 17734,
+            "node2": 2451526,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 58045702,
+            "node1": 17734,
+            "node2": 2451996,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 58045640,
+            "node1": 17734,
+            "node2": 2452144,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 58045127,
+            "node1": 17734,
+            "node2": 2452908,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 58044875,
+            "node1": 17734,
+            "node2": 2453444,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 58044524,
+            "node1": 17734,
+            "node2": 2454160,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 58044304,
+            "node1": 17734,
+            "node2": 2454593,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 58044053,
+            "node1": 17734,
+            "node2": 2455122,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 58043904,
+            "node1": 17734,
+            "node2": 2455475,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 58043632,
+            "node1": 17734,
+            "node2": 2456012,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 58043560,
+            "node1": 17734,
+            "node2": 2456091,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 253525261,
+            "node1": 17734,
+            "node2": 2456507,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 58043345,
+            "node1": 17734,
+            "node2": 2456589,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 58043170,
+            "node1": 17734,
+            "node2": 2456849,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 58043086,
+            "node1": 17734,
+            "node2": 2456986,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 58042575,
+            "node1": 17734,
+            "node2": 2458021,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 58042214,
+            "node1": 17734,
+            "node2": 2458592,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 58041978,
+            "node1": 17734,
+            "node2": 2459308,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 58041915,
+            "node1": 17734,
+            "node2": 2459454,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 58041780,
+            "node1": 17734,
+            "node2": 2459654,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 58041529,
+            "node1": 17734,
+            "node2": 2460191,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 58041456,
+            "node1": 17734,
+            "node2": 2460380,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 58041150,
+            "node1": 17734,
+            "node2": 2460864,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 58040803,
+            "node1": 17734,
+            "node2": 2461554,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 58040570,
+            "node1": 17734,
+            "node2": 2461965,
+            "type": 28,
+            "w": 49.0
+        },
+        {
+            "id": 58040469,
+            "node1": 17734,
+            "node2": 2462146,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 58040239,
+            "node1": 17734,
+            "node2": 2462589,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 57942537,
+            "node1": 17734,
+            "node2": 2463380,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 57942137,
+            "node1": 17734,
+            "node2": 2463973,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 57942055,
+            "node1": 17734,
+            "node2": 2464075,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 57941348,
+            "node1": 17734,
+            "node2": 2465303,
+            "type": 28,
+            "w": 53.0
+        },
+        {
+            "id": 57940989,
+            "node1": 17734,
+            "node2": 2466156,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 57940387,
+            "node1": 17734,
+            "node2": 2467308,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 57940112,
+            "node1": 17734,
+            "node2": 2467640,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 57939443,
+            "node1": 17734,
+            "node2": 2468759,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 57939269,
+            "node1": 17734,
+            "node2": 2469157,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 57938999,
+            "node1": 17734,
+            "node2": 2469600,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 289264077,
+            "node1": 17734,
+            "node2": 2469996,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 57938764,
+            "node1": 17734,
+            "node2": 2470081,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 57938377,
+            "node1": 17734,
+            "node2": 2470911,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 57938112,
+            "node1": 17734,
+            "node2": 2471385,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 57937726,
+            "node1": 17734,
+            "node2": 2471968,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 57937654,
+            "node1": 17734,
+            "node2": 2472116,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 57937656,
+            "node1": 17734,
+            "node2": 2472272,
+            "type": 28,
+            "w": 60.0
+        },
+        {
+            "id": 57937139,
+            "node1": 17734,
+            "node2": 2473235,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 57937041,
+            "node1": 17734,
+            "node2": 2473461,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 57936812,
+            "node1": 17734,
+            "node2": 2473777,
+            "type": 28,
+            "w": 48.0
+        },
+        {
+            "id": 57936515,
+            "node1": 17734,
+            "node2": 2474488,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 57936324,
+            "node1": 17734,
+            "node2": 2474719,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 58039572,
+            "node1": 17734,
+            "node2": 2476176,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 58039462,
+            "node1": 17734,
+            "node2": 2476301,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 58039465,
+            "node1": 17734,
+            "node2": 2476378,
+            "type": 28,
+            "w": 49.0
+        },
+        {
+            "id": 58039138,
+            "node1": 17734,
+            "node2": 2477028,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 58039030,
+            "node1": 17734,
+            "node2": 2477126,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 59173094,
+            "node1": 17734,
+            "node2": 2477627,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 59218590,
+            "node1": 17734,
+            "node2": 2477852,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 60477501,
+            "node1": 17734,
+            "node2": 2478693,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 60477733,
+            "node1": 17734,
+            "node2": 2479052,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 59705072,
+            "node1": 17734,
+            "node2": 2479302,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 60859046,
+            "node1": 17734,
+            "node2": 2481065,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 61079378,
+            "node1": 17734,
+            "node2": 2482494,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 61157289,
+            "node1": 17734,
+            "node2": 2483253,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 61235990,
+            "node1": 17734,
+            "node2": 2484164,
+            "type": 28,
+            "w": 48.0
+        },
+        {
+            "id": 61457961,
+            "node1": 17734,
+            "node2": 2484247,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 61456599,
+            "node1": 17734,
+            "node2": 2484706,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 61457182,
+            "node1": 17734,
+            "node2": 2484891,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 61457518,
+            "node1": 17734,
+            "node2": 2485305,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 61885097,
+            "node1": 17734,
+            "node2": 2485402,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 61885252,
+            "node1": 17734,
+            "node2": 2485864,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 61552653,
+            "node1": 17734,
+            "node2": 2485881,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 61885109,
+            "node1": 17734,
+            "node2": 2486648,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 61885286,
+            "node1": 17734,
+            "node2": 2486967,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 61884986,
+            "node1": 17734,
+            "node2": 2487252,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 61961202,
+            "node1": 17734,
+            "node2": 2488312,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 62057682,
+            "node1": 17734,
+            "node2": 2489145,
+            "type": 28,
+            "w": 48.0
+        },
+        {
+            "id": 62206143,
+            "node1": 17734,
+            "node2": 2489220,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 62205497,
+            "node1": 17734,
+            "node2": 2490666,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 62205307,
+            "node1": 17734,
+            "node2": 2490710,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 62205089,
+            "node1": 17734,
+            "node2": 2491689,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 62295031,
+            "node1": 17734,
+            "node2": 2492386,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 62387450,
+            "node1": 17734,
+            "node2": 2493971,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 62364954,
+            "node1": 17734,
+            "node2": 2494294,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 62409478,
+            "node1": 17734,
+            "node2": 2494337,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 62483848,
+            "node1": 17734,
+            "node2": 2494833,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 63224258,
+            "node1": 17734,
+            "node2": 2496428,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 62467410,
+            "node1": 17734,
+            "node2": 2497038,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 63224355,
+            "node1": 17734,
+            "node2": 2497566,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 63224227,
+            "node1": 17734,
+            "node2": 2498023,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 63224006,
+            "node1": 17734,
+            "node2": 2498316,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 63223844,
+            "node1": 17734,
+            "node2": 2498365,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 63223714,
+            "node1": 17734,
+            "node2": 2499189,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 63223477,
+            "node1": 17734,
+            "node2": 2499509,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 63223422,
+            "node1": 17734,
+            "node2": 2499804,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 65713056,
+            "node1": 17734,
+            "node2": 2499980,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 63636197,
+            "node1": 17734,
+            "node2": 2500121,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 64208439,
+            "node1": 17734,
+            "node2": 2500152,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 65713361,
+            "node1": 17734,
+            "node2": 2501176,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 65713652,
+            "node1": 17734,
+            "node2": 2501440,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 65713310,
+            "node1": 17734,
+            "node2": 2503230,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 68506277,
+            "node1": 17734,
+            "node2": 2503414,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 68506230,
+            "node1": 17734,
+            "node2": 2503905,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 68506113,
+            "node1": 17734,
+            "node2": 2504796,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 68506361,
+            "node1": 17734,
+            "node2": 2504848,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 68506192,
+            "node1": 17734,
+            "node2": 2505103,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 68505749,
+            "node1": 17734,
+            "node2": 2505108,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 68505755,
+            "node1": 17734,
+            "node2": 2505786,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 68503645,
+            "node1": 17734,
+            "node2": 2506274,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 68504247,
+            "node1": 17734,
+            "node2": 2507367,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 69076470,
+            "node1": 17734,
+            "node2": 2507825,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 68504793,
+            "node1": 17734,
+            "node2": 2508060,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 68504676,
+            "node1": 17734,
+            "node2": 2508279,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 68504135,
+            "node1": 17734,
+            "node2": 2508831,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 68504380,
+            "node1": 17734,
+            "node2": 2508862,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 69076692,
+            "node1": 17734,
+            "node2": 2509003,
+            "type": 28,
+            "w": 49.0
+        },
+        {
+            "id": 69076536,
+            "node1": 17734,
+            "node2": 2510231,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 69076748,
+            "node1": 17734,
+            "node2": 2510382,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 68605181,
+            "node1": 17734,
+            "node2": 2510457,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 68503643,
+            "node1": 17734,
+            "node2": 2510544,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 68522716,
+            "node1": 17734,
+            "node2": 2510678,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 69076749,
+            "node1": 17734,
+            "node2": 2510807,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 69076651,
+            "node1": 17734,
+            "node2": 2510926,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 69076305,
+            "node1": 17734,
+            "node2": 2511192,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 70629087,
+            "node1": 17734,
+            "node2": 2511685,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 69076263,
+            "node1": 17734,
+            "node2": 2511721,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 69076388,
+            "node1": 17734,
+            "node2": 2511831,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 70628876,
+            "node1": 17734,
+            "node2": 2512211,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 70628491,
+            "node1": 17734,
+            "node2": 2513716,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 70628570,
+            "node1": 17734,
+            "node2": 2513788,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 70628198,
+            "node1": 17734,
+            "node2": 2514096,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 70628201,
+            "node1": 17734,
+            "node2": 2514219,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 71488686,
+            "node1": 17734,
+            "node2": 2515248,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 71051986,
+            "node1": 17734,
+            "node2": 2515886,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 71488181,
+            "node1": 17734,
+            "node2": 2516555,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 71051527,
+            "node1": 17734,
+            "node2": 2517091,
+            "type": 28,
+            "w": 53.0
+        },
+        {
+            "id": 71488378,
+            "node1": 17734,
+            "node2": 2517648,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 71488096,
+            "node1": 17734,
+            "node2": 2517674,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 71488413,
+            "node1": 17734,
+            "node2": 2517722,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 71488015,
+            "node1": 17734,
+            "node2": 2518187,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 71487021,
+            "node1": 17734,
+            "node2": 2518523,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 71488048,
+            "node1": 17734,
+            "node2": 2518704,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 71487626,
+            "node1": 17734,
+            "node2": 2518914,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 71487851,
+            "node1": 17734,
+            "node2": 2519068,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 71487618,
+            "node1": 17734,
+            "node2": 2519125,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 71487908,
+            "node1": 17734,
+            "node2": 2519210,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 71487557,
+            "node1": 17734,
+            "node2": 2519432,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 71486848,
+            "node1": 17734,
+            "node2": 2521121,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 71478308,
+            "node1": 17734,
+            "node2": 2521985,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 71486015,
+            "node1": 17734,
+            "node2": 2522115,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 71478140,
+            "node1": 17734,
+            "node2": 2522695,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 71478525,
+            "node1": 17734,
+            "node2": 2523681,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 71478374,
+            "node1": 17734,
+            "node2": 2524068,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 71478172,
+            "node1": 17734,
+            "node2": 2525009,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 71478103,
+            "node1": 17734,
+            "node2": 2525125,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 71758552,
+            "node1": 17734,
+            "node2": 2526538,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 71758541,
+            "node1": 17734,
+            "node2": 2526686,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 71758525,
+            "node1": 17734,
+            "node2": 2526875,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 92614794,
+            "node1": 17734,
+            "node2": 2528436,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614803,
+            "node1": 17734,
+            "node2": 2528460,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614844,
+            "node1": 17734,
+            "node2": 2528658,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614779,
+            "node1": 17734,
+            "node2": 2528788,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92606683,
+            "node1": 17734,
+            "node2": 2529215,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614828,
+            "node1": 17734,
+            "node2": 2529849,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92606862,
+            "node1": 17734,
+            "node2": 2530049,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92607026,
+            "node1": 17734,
+            "node2": 2531267,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614822,
+            "node1": 17734,
+            "node2": 2531678,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92606793,
+            "node1": 17734,
+            "node2": 2531702,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92606846,
+            "node1": 17734,
+            "node2": 2531886,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614772,
+            "node1": 17734,
+            "node2": 2532071,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614606,
+            "node1": 17734,
+            "node2": 2532764,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614653,
+            "node1": 17734,
+            "node2": 2533741,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614766,
+            "node1": 17734,
+            "node2": 2533745,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92607399,
+            "node1": 17734,
+            "node2": 2534582,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614715,
+            "node1": 17734,
+            "node2": 2534623,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614780,
+            "node1": 17734,
+            "node2": 2534838,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614659,
+            "node1": 17734,
+            "node2": 2535831,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92607415,
+            "node1": 17734,
+            "node2": 2536999,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614749,
+            "node1": 17734,
+            "node2": 2537031,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614724,
+            "node1": 17734,
+            "node2": 2537240,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614550,
+            "node1": 17734,
+            "node2": 2537344,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614740,
+            "node1": 17734,
+            "node2": 2537805,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614731,
+            "node1": 17734,
+            "node2": 2538021,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614527,
+            "node1": 17734,
+            "node2": 2538539,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614672,
+            "node1": 17734,
+            "node2": 2539488,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614573,
+            "node1": 17734,
+            "node2": 2541342,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614655,
+            "node1": 17734,
+            "node2": 2541957,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614614,
+            "node1": 17734,
+            "node2": 2542779,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614646,
+            "node1": 17734,
+            "node2": 2543419,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614625,
+            "node1": 17734,
+            "node2": 2543551,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92608911,
+            "node1": 17734,
+            "node2": 2543992,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92609042,
+            "node1": 17734,
+            "node2": 2544129,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 76611435,
+            "node1": 17734,
+            "node2": 2545465,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 92609203,
+            "node1": 17734,
+            "node2": 2546199,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614564,
+            "node1": 17734,
+            "node2": 2546879,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614536,
+            "node1": 17734,
+            "node2": 2547334,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614576,
+            "node1": 17734,
+            "node2": 2547576,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614558,
+            "node1": 17734,
+            "node2": 2548320,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92609575,
+            "node1": 17734,
+            "node2": 2549055,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614473,
+            "node1": 17734,
+            "node2": 2549834,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 77943779,
+            "node1": 17734,
+            "node2": 2549985,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 92614507,
+            "node1": 17734,
+            "node2": 2550594,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92609639,
+            "node1": 17734,
+            "node2": 2550604,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614520,
+            "node1": 17734,
+            "node2": 2550714,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614547,
+            "node1": 17734,
+            "node2": 2551400,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92609912,
+            "node1": 17734,
+            "node2": 2551406,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614502,
+            "node1": 17734,
+            "node2": 2551466,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614549,
+            "node1": 17734,
+            "node2": 2551659,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614349,
+            "node1": 17734,
+            "node2": 2551708,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614525,
+            "node1": 17734,
+            "node2": 2553737,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614511,
+            "node1": 17734,
+            "node2": 2553751,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614475,
+            "node1": 17734,
+            "node2": 2554012,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614498,
+            "node1": 17734,
+            "node2": 2554609,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92610121,
+            "node1": 17734,
+            "node2": 2554987,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614504,
+            "node1": 17734,
+            "node2": 2555692,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614485,
+            "node1": 17734,
+            "node2": 2555937,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614482,
+            "node1": 17734,
+            "node2": 2556807,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92610749,
+            "node1": 17734,
+            "node2": 2557174,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614472,
+            "node1": 17734,
+            "node2": 2557808,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614469,
+            "node1": 17734,
+            "node2": 2557886,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614460,
+            "node1": 17734,
+            "node2": 2558125,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92610990,
+            "node1": 17734,
+            "node2": 2558825,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378741058,
+            "node1": 17734,
+            "node2": 2559293,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 92614394,
+            "node1": 17734,
+            "node2": 2559349,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614425,
+            "node1": 17734,
+            "node2": 2559964,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614455,
+            "node1": 17734,
+            "node2": 2560326,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614205,
+            "node1": 17734,
+            "node2": 2561020,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92611138,
+            "node1": 17734,
+            "node2": 2561183,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614403,
+            "node1": 17734,
+            "node2": 2562695,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614218,
+            "node1": 17734,
+            "node2": 2563012,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614368,
+            "node1": 17734,
+            "node2": 2563130,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614361,
+            "node1": 17734,
+            "node2": 2563930,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614314,
+            "node1": 17734,
+            "node2": 2564056,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614302,
+            "node1": 17734,
+            "node2": 2564614,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614268,
+            "node1": 17734,
+            "node2": 2564944,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614206,
+            "node1": 17734,
+            "node2": 2564979,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614265,
+            "node1": 17734,
+            "node2": 2565177,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614293,
+            "node1": 17734,
+            "node2": 2565459,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614323,
+            "node1": 17734,
+            "node2": 2565513,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92611420,
+            "node1": 17734,
+            "node2": 2565961,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614329,
+            "node1": 17734,
+            "node2": 2566019,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614332,
+            "node1": 17734,
+            "node2": 2566398,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614216,
+            "node1": 17734,
+            "node2": 2566625,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614169,
+            "node1": 17734,
+            "node2": 2568166,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92614231,
+            "node1": 17734,
+            "node2": 2570025,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614254,
+            "node1": 17734,
+            "node2": 2570104,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614250,
+            "node1": 17734,
+            "node2": 2570259,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614204,
+            "node1": 17734,
+            "node2": 2570496,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614170,
+            "node1": 17734,
+            "node2": 2570541,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92612123,
+            "node1": 17734,
+            "node2": 2570960,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92614203,
+            "node1": 17734,
+            "node2": 2571204,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 77943705,
+            "node1": 17734,
+            "node2": 2576641,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 77944172,
+            "node1": 17734,
+            "node2": 2582408,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 54343749,
+            "node1": 17734,
+            "node2": 2586675,
+            "type": 28,
+            "w": 49.0
+        },
+        {
+            "id": 54890549,
+            "node1": 17734,
+            "node2": 2589433,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 69076652,
+            "node1": 17734,
+            "node2": 2839752,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 70629088,
+            "node1": 17734,
+            "node2": 2847484,
+            "type": 28,
+            "w": 46.0
+        },
+        {
+            "id": 78905816,
+            "node1": 17734,
+            "node2": 3261433,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 289239506,
+            "node1": 17734,
+            "node2": 4045084,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 378741613,
+            "node1": 17734,
+            "node2": 5564807,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 289239661,
+            "node1": 17734,
+            "node2": 10985209,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289239660,
+            "node1": 17734,
+            "node2": 10985211,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 289239508,
+            "node1": 17734,
+            "node2": 10985449,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289239507,
+            "node1": 17734,
+            "node2": 10985452,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289239505,
+            "node1": 17734,
+            "node2": 10985457,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289239504,
+            "node1": 17734,
+            "node2": 10985459,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289239436,
+            "node1": 17734,
+            "node2": 10986596,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289222761,
+            "node1": 17734,
+            "node2": 11153512,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221904,
+            "node1": 17734,
+            "node2": 11155477,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289220084,
+            "node1": 17734,
+            "node2": 11179499,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289220083,
+            "node1": 17734,
+            "node2": 11179500,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 375904477,
+            "node1": 17734,
+            "node2": 12206618,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375730136,
+            "node1": 17734,
+            "node2": 13884298,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 515251599,
+            "node1": 17734,
+            "node2": 15835130,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 515251598,
+            "node1": 17734,
+            "node2": 15835131,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 515251597,
+            "node1": 17734,
+            "node2": 15835132,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470990952,
+            "node1": 17734,
+            "node2": 16320531,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 470990946,
+            "node1": 17734,
+            "node2": 16586423,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 1127465652,
+            "node1": 17734,
+            "node2": 156773527,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1127465651,
+            "node1": 17734,
+            "node2": 156773529,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1127465650,
+            "node1": 17734,
+            "node2": 156773532,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1124415334,
+            "node1": 17734,
+            "node2": 243174498,
+            "type": 28,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:04.946988",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Luxembourg",
+        "#relations": 438,
+        "max_relation_weight": 60.0,
+        "#nodes": 438,
+        "duration": "0:00:00.120569"
+    }
+}

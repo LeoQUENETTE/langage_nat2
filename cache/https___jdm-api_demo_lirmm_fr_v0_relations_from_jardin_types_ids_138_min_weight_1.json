@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 92196,
+            "name": "aménagement",
+            "type": 1,
+            "w": 1772
+        },
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8724
+        },
+        {
+            "id": 50054,
+            "name": "pollinisation",
+            "type": 1,
+            "w": 1396
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152638957,
+            "node1": 139575,
+            "node2": 50054,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1154162855,
+            "node1": 139575,
+            "node2": 92196,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:16.368866",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.007073"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 141883,
+            "name": "boule",
+            "type": 1,
+            "w": 2350
+        },
+        {
+            "id": 18403,
+            "name": "paquet",
+            "type": 1,
+            "w": 1380
+        },
+        {
+            "id": 84939,
+            "name": "coton",
+            "type": 1,
+            "w": 1705
+        }
+    ],
+    "relations": [
+        {
+            "id": 765218036,
+            "node1": 84939,
+            "node2": 18403,
+            "type": 58,
+            "w": 28.0
+        },
+        {
+            "id": 765218107,
+            "node1": 84939,
+            "node2": 141883,
+            "type": 58,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:55.734124",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "coton",
+        "#relations": 2,
+        "max_relation_weight": 28.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003154"
+    }
+}

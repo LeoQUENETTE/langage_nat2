@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 1912917,
+            "name": "_INFO-COUNTABLE-YES",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 139217,
+            "name": "nacre",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 269459,
+            "name": "_INFO-SEM-THING",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 1912988,
+            "name": "_INFO-COUNTABLE-NO",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 163151,
+            "name": "_INFO-SEM-SUBST",
+            "type": 36,
+            "w": 286
+        }
+    ],
+    "relations": [
+        {
+            "id": 1859097,
+            "node1": 139217,
+            "node2": 163151,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 390372688,
+            "node1": 139217,
+            "node2": 217817,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 85508967,
+            "node1": 139217,
+            "node2": 223172,
+            "type": 36,
+            "w": 2.0
+        },
+        {
+            "id": 9134138,
+            "node1": 139217,
+            "node2": 223173,
+            "type": 36,
+            "w": 287.0
+        },
+        {
+            "id": 9217297,
+            "node1": 139217,
+            "node2": 241794,
+            "type": 36,
+            "w": 102.0
+        },
+        {
+            "id": 9263839,
+            "node1": 139217,
+            "node2": 254876,
+            "type": 36,
+            "w": 73.0
+        },
+        {
+            "id": 9263840,
+            "node1": 139217,
+            "node2": 254877,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 219490001,
+            "node1": 139217,
+            "node2": 254878,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 59818705,
+            "node1": 139217,
+            "node2": 269459,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 1136137992,
+            "node1": 139217,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 503629762,
+            "node1": 139217,
+            "node2": 317329,
+            "type": 36,
+            "w": 2.02
+        },
+        {
+            "id": 363922261,
+            "node1": 139217,
+            "node2": 438949,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 437094190,
+            "node1": 139217,
+            "node2": 1912917,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 30792594,
+            "node1": 139217,
+            "node2": 1912988,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 417892263,
+            "node1": 139217,
+            "node2": 15991432,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 499929599,
+            "node1": 139217,
+            "node2": 50233540,
+            "type": 36,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:48.186335",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nacre",
+        "#relations": 16,
+        "max_relation_weight": 287.0,
+        "#nodes": 17,
+        "duration": "0:00:00.007240"
+    }
+}

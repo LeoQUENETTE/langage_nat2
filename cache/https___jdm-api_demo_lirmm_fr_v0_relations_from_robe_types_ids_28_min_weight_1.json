@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 110160,
+            "name": "robe",
+            "type": 1,
+            "w": 3024
+        },
+        {
+            "id": 170170,
+            "name": "nœud",
+            "type": 1,
+            "w": 1938
+        },
+        {
+            "id": 143281,
+            "name": "manche",
+            "type": 1,
+            "w": 2454
+        },
+        {
+            "id": 7548,
+            "name": "col",
+            "type": 1,
+            "w": 2543
+        },
+        {
+            "id": 254600,
+            "name": "décolleté plongeant",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 213973,
+            "name": "col>120949",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 48140,
+            "name": "noeud",
+            "type": 1,
+            "w": 526
+        }
+    ],
+    "relations": [
+        {
+            "id": 8800644,
+            "node1": 110160,
+            "node2": 7548,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 96707941,
+            "node1": 110160,
+            "node2": 48140,
+            "type": 28,
+            "w": 22.0
+        },
+        {
+            "id": 3236407,
+            "node1": 110160,
+            "node2": 143281,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 96707943,
+            "node1": 110160,
+            "node2": 170170,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 11332763,
+            "node1": 110160,
+            "node2": 213973,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 962359546,
+            "node1": 110160,
+            "node2": 254600,
+            "type": 28,
+            "w": 5.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:39.013882",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "robe",
+        "#relations": 6,
+        "max_relation_weight": 39.0,
+        "#nodes": 7,
+        "duration": "0:00:00.007462"
+    }
+}

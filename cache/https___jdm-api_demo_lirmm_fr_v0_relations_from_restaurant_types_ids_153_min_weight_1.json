@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 15303209,
+            "name": "gamme de prix",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 79954,
+            "name": "restaurant",
+            "type": 1,
+            "w": 6194
+        },
+        {
+            "id": 290782754,
+            "name": "capacité de service",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 48513,
+            "name": "qualité",
+            "type": 1,
+            "w": 13311
+        },
+        {
+            "id": 131040,
+            "name": "prix",
+            "type": 1,
+            "w": 12112
+        },
+        {
+            "id": 112037,
+            "name": "capacité",
+            "type": 1,
+            "w": 10806
+        },
+        {
+            "id": 14589820,
+            "name": "capacité d'accueil",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 14434449,
+            "name": "type de cuisine",
+            "type": 1,
+            "w": 30
+        }
+    ],
+    "relations": [
+        {
+            "id": 661887355,
+            "node1": 79954,
+            "node2": 48513,
+            "type": 153,
+            "w": 30.0
+        },
+        {
+            "id": 1179139377,
+            "node1": 79954,
+            "node2": 112037,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 661887375,
+            "node1": 79954,
+            "node2": 131040,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179137656,
+            "node1": 79954,
+            "node2": 14434449,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179137655,
+            "node1": 79954,
+            "node2": 14589820,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179137657,
+            "node1": 79954,
+            "node2": 15303209,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179137915,
+            "node1": 79954,
+            "node2": 290782754,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:44.616107",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "restaurant",
+        "#relations": 7,
+        "max_relation_weight": 30.0,
+        "#nodes": 8,
+        "duration": "0:00:00.005120"
+    }
+}

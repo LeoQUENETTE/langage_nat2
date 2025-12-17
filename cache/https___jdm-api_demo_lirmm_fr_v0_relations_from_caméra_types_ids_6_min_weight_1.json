@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 12676131,
+            "name": "appareil de prise de vues",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 106265,
+            "name": "appareil",
+            "type": 1,
+            "w": 3955
+        },
+        {
+            "id": 5425,
+            "name": "machine",
+            "type": 1,
+            "w": 7846
+        },
+        {
+            "id": 14800,
+            "name": "mélange",
+            "type": 1,
+            "w": 4129
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5279
+        },
+        {
+            "id": 23859,
+            "name": "caméra",
+            "type": 1,
+            "w": 3086
+        },
+        {
+            "id": 68439,
+            "name": "individu",
+            "type": 1,
+            "w": 11402
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 3304283,
+            "name": "objet de tous les jours",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 108797,
+            "name": "périphérique",
+            "type": 1,
+            "w": 1965
+        },
+        {
+            "id": 139768,
+            "name": "artéfact",
+            "type": 1,
+            "w": 180
+        }
+    ],
+    "relations": [
+        {
+            "id": 1127192246,
+            "node1": 23859,
+            "node2": 5425,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 346129920,
+            "node1": 23859,
+            "node2": 14800,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 1127187825,
+            "node1": 23859,
+            "node2": 68439,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 57568983,
+            "node1": 23859,
+            "node2": 106265,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 9926972,
+            "node1": 23859,
+            "node2": 108797,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 630109,
+            "node1": 23859,
+            "node2": 135190,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 1127192245,
+            "node1": 23859,
+            "node2": 135936,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 427594270,
+            "node1": 23859,
+            "node2": 139768,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 82840803,
+            "node1": 23859,
+            "node2": 3304283,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 331272276,
+            "node1": 23859,
+            "node2": 12676131,
+            "type": 6,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:33.373185",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "caméra",
+        "#relations": 10,
+        "max_relation_weight": 56.0,
+        "#nodes": 11,
+        "duration": "0:00:00.026477"
+    }
+}

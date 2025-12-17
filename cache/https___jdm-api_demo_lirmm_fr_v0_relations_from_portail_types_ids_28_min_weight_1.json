@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 14931629,
+            "name": "en:groom",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234873,
+            "name": "science citoyenne",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 15049,
+            "name": "groom",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 96635674,
+            "name": "Sciences citoyennes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57808,
+            "name": "portail",
+            "type": 1,
+            "w": 1403
+        },
+        {
+            "id": 96635693,
+            "name": "Science citoyenne",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 98424,
+            "name": "tympan",
+            "type": 1,
+            "w": 273
+        },
+        {
+            "id": 311874,
+            "name": "sciences citoyennes",
+            "type": 777,
+            "w": 47
+        }
+    ],
+    "relations": [
+        {
+            "id": 11339027,
+            "node1": 57808,
+            "node2": 15049,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 766154040,
+            "node1": 57808,
+            "node2": 98424,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 12439504,
+            "node1": 57808,
+            "node2": 234873,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 12439494,
+            "node1": 57808,
+            "node2": 311874,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 391925693,
+            "node1": 57808,
+            "node2": 14931629,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 977742391,
+            "node1": 57808,
+            "node2": 96635674,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977742357,
+            "node1": 57808,
+            "node2": 96635693,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:00.510776",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "portail",
+        "#relations": 7,
+        "max_relation_weight": 38.0,
+        "#nodes": 8,
+        "duration": "0:00:00.003589"
+    }
+}

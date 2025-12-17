@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 147771,
+            "name": "devoirs",
+            "type": 1,
+            "w": 1499
+        },
+        {
+            "id": 14723974,
+            "name": "problèmes>23255",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 374362308,
+            "node1": 147771,
+            "node2": 14723974,
+            "type": 9,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:08.931213",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "devoirs",
+        "#relations": 1,
+        "max_relation_weight": 29.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003999"
+    }
+}

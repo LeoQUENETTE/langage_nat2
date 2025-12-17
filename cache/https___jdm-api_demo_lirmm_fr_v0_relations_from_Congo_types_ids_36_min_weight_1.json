@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 16595901,
+            "name": "_INFO-SEM-DET",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 132184,
+            "name": "Congo",
+            "type": 1,
+            "w": 3616
+        },
+        {
+            "id": 1900773,
+            "name": "_INFO-SEM-PLACE-ABSTRACT",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 2585997,
+            "name": "_INFO-CNRTL-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458629,
+            "name": "_INFO-SEM-PLACE-HUMAN",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 264749,
+            "name": "_INFO-SEM-NAMED-ENTITY",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458628,
+            "name": "_INFO-SEM-PLACE-GEO",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 16606207,
+            "name": "_INFO-SEM-NODET",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 2122107,
+            "node1": 132184,
+            "node2": 162759,
+            "type": 36,
+            "w": 45.0
+        },
+        {
+            "id": 212879839,
+            "node1": 132184,
+            "node2": 217817,
+            "type": 36,
+            "w": 76.0
+        },
+        {
+            "id": 9158969,
+            "node1": 132184,
+            "node2": 223173,
+            "type": 36,
+            "w": 259.0
+        },
+        {
+            "id": 9216561,
+            "node1": 132184,
+            "node2": 241794,
+            "type": 36,
+            "w": 115.0
+        },
+        {
+            "id": 9193646,
+            "node1": 132184,
+            "node2": 254876,
+            "type": 36,
+            "w": 69.0
+        },
+        {
+            "id": 9239790,
+            "node1": 132184,
+            "node2": 254877,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 3036334,
+            "node1": 132184,
+            "node2": 264749,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 1177766239,
+            "node1": 132184,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 9056986,
+            "node1": 132184,
+            "node2": 317329,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 16108345,
+            "node1": 132184,
+            "node2": 458628,
+            "type": 36,
+            "w": 49.0
+        },
+        {
+            "id": 16113422,
+            "node1": 132184,
+            "node2": 458629,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 30631873,
+            "node1": 132184,
+            "node2": 1900773,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 55006338,
+            "node1": 132184,
+            "node2": 2585997,
+            "type": 36,
+            "w": 59.0
+        },
+        {
+            "id": 477268884,
+            "node1": 132184,
+            "node2": 16595901,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 536291247,
+            "node1": 132184,
+            "node2": 16606207,
+            "type": 36,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:23.280895",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Congo",
+        "#relations": 15,
+        "max_relation_weight": 259.0,
+        "#nodes": 16,
+        "duration": "0:00:00.007448"
+    }
+}

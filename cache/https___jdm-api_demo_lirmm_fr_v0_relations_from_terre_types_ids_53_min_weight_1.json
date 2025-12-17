@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 101738,
+            "name": "ressources naturelles",
+            "type": 1,
+            "w": 7322
+        },
+        {
+            "id": 20965,
+            "name": "nourriture",
+            "type": 1,
+            "w": 6970
+        },
+        {
+            "id": 40470,
+            "name": "récolte",
+            "type": 1,
+            "w": 3467
+        },
+        {
+            "id": 25705,
+            "name": "terre",
+            "type": 1,
+            "w": 29969
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155584716,
+            "node1": 25705,
+            "node2": 20965,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155587507,
+            "node1": 25705,
+            "node2": 40470,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155584737,
+            "node1": 25705,
+            "node2": 101738,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150414083,
+            "node1": 25705,
+            "node2": 134927,
+            "type": 53,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:49.510595",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "terre",
+        "#relations": 4,
+        "max_relation_weight": 27.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004932"
+    }
+}

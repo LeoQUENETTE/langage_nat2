@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 101886,
+            "name": "cloche",
+            "type": 1,
+            "w": 556
+        },
+        {
+            "id": 36619,
+            "name": "annonce",
+            "type": 1,
+            "w": 5726
+        },
+        {
+            "id": 81506,
+            "name": "appel",
+            "type": 1,
+            "w": 7798
+        },
+        {
+            "id": 51528,
+            "name": "son",
+            "type": 1,
+            "w": 370173
+        }
+    ],
+    "relations": [
+        {
+            "id": 1180259324,
+            "node1": 101886,
+            "node2": 36619,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1180141084,
+            "node1": 101886,
+            "node2": 51528,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1180141059,
+            "node1": 101886,
+            "node2": 81506,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:45.530356",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cloche",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.002708"
+    }
+}

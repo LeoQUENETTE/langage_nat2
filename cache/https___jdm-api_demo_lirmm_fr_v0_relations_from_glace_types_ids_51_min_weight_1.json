@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 5574109,
+            "name": "pykrete",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 14925178,
+            "name": "en:brinicle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 211872396,
+            "name": "sculpture de glace",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 117848,
+            "name": "glaçon",
+            "type": 1,
+            "w": 663
+        },
+        {
+            "id": 92178,
+            "name": "profiterole",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 2558467,
+            "name": "brinicle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8749865,
+            "name": "doigt glacé de la mort",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 125936,
+            "name": "iceberg",
+            "type": 1,
+            "w": 352
+        },
+        {
+            "id": 141964,
+            "name": "glace",
+            "type": 1,
+            "w": 5802
+        },
+        {
+            "id": 33776,
+            "name": "comète",
+            "type": 1,
+            "w": 866
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046683229,
+            "node1": 141964,
+            "node2": 33776,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376052515,
+            "node1": 141964,
+            "node2": 92178,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376053727,
+            "node1": 141964,
+            "node2": 117848,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 193857258,
+            "node1": 141964,
+            "node2": 125936,
+            "type": 51,
+            "w": 64.0
+        },
+        {
+            "id": 376036029,
+            "node1": 141964,
+            "node2": 2558467,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376036042,
+            "node1": 141964,
+            "node2": 5574109,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376036027,
+            "node1": 141964,
+            "node2": 8749865,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514423795,
+            "node1": 141964,
+            "node2": 14925178,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 1076582864,
+            "node1": 141964,
+            "node2": 211872396,
+            "type": 51,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:45.926706",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "glace",
+        "#relations": 9,
+        "max_relation_weight": 64.0,
+        "#nodes": 10,
+        "duration": "0:00:00.005039"
+    }
+}

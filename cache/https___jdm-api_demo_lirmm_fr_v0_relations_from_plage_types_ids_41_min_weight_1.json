@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 19331,
+            "name": "érosion",
+            "type": 1,
+            "w": 941
+        },
+        {
+            "id": 99532,
+            "name": "pollution",
+            "type": 1,
+            "w": 12762
+        },
+        {
+            "id": 122393,
+            "name": "plage",
+            "type": 1,
+            "w": 5991
+        },
+        {
+            "id": 9575,
+            "name": "tourisme",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 11380,
+            "name": "bronzer",
+            "type": 1,
+            "w": 468
+        },
+        {
+            "id": 211919335,
+            "name": "augmentation de la fréquentation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 122840,
+            "name": "bronzeur",
+            "type": 1,
+            "w": 56
+        }
+    ],
+    "relations": [
+        {
+            "id": 967068215,
+            "node1": 122393,
+            "node2": 9575,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14652616,
+            "node1": 122393,
+            "node2": 11380,
+            "type": 41,
+            "w": 86.0
+        },
+        {
+            "id": 1152775387,
+            "node1": 122393,
+            "node2": 19331,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1152775386,
+            "node1": 122393,
+            "node2": 99532,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14645430,
+            "node1": 122393,
+            "node2": 122840,
+            "type": 41,
+            "w": 86.0
+        },
+        {
+            "id": 1152775377,
+            "node1": 122393,
+            "node2": 211919335,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:59.160071",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plage",
+        "#relations": 6,
+        "max_relation_weight": 86.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004807"
+    }
+}

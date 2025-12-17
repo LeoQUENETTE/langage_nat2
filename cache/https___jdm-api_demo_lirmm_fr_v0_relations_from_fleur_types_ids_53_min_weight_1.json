@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 57258,
+            "name": "pollen",
+            "type": 1,
+            "w": 690
+        },
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2518
+        },
+        {
+            "id": 28985,
+            "name": "fleur",
+            "type": 1,
+            "w": 9477
+        },
+        {
+            "id": 30029,
+            "name": "fructification",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 148362,
+            "name": "graines",
+            "type": 1,
+            "w": 3091
+        },
+        {
+            "id": 43786,
+            "name": "nectar",
+            "type": 1,
+            "w": 529
+        },
+        {
+            "id": 1731944,
+            "name": "noire de Crimée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3186373,
+            "name": "Noire de Crimée",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 376991949,
+            "node1": 28985,
+            "node2": 30029,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 795607266,
+            "node1": 28985,
+            "node2": 43786,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 770587017,
+            "node1": 28985,
+            "node2": 55249,
+            "type": 53,
+            "w": 88.0
+        },
+        {
+            "id": 1170086686,
+            "node1": 28985,
+            "node2": 57258,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1164025269,
+            "node1": 28985,
+            "node2": 148362,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 376991595,
+            "node1": 28985,
+            "node2": 1731944,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 376992102,
+            "node1": 28985,
+            "node2": 3186373,
+            "type": 53,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:24.986258",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleur",
+        "#relations": 7,
+        "max_relation_weight": 88.0,
+        "#nodes": 8,
+        "duration": "0:00:00.007083"
+    }
+}

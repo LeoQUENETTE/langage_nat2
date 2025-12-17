@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 9023323,
+            "name": "en:anatomic structure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 364223,
+            "name": "milieu biologique",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 221181,
+            "name": "matière>11358",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 10597310,
+            "name": "discipline du cirque",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 269382,
+            "name": "structure anatomique",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 1785403,
+            "name": "discipline de cirque",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 279695855,
+            "node1": 63936,
+            "node2": 29208,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 29314585,
+            "node1": 63936,
+            "node2": 97739,
+            "type": 6,
+            "w": 311.0
+        },
+        {
+            "id": 279695865,
+            "node1": 63936,
+            "node2": 221181,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 17938863,
+            "node1": 63936,
+            "node2": 269382,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 313713262,
+            "node1": 63936,
+            "node2": 364223,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 97425009,
+            "node1": 63936,
+            "node2": 1785403,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 377067042,
+            "node1": 63936,
+            "node2": 9023323,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 383992423,
+            "node1": 63936,
+            "node2": 10597310,
+            "type": 6,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:25.590255",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tissu",
+        "#relations": 8,
+        "max_relation_weight": 1000.0,
+        "#nodes": 9,
+        "duration": "0:00:00.060313"
+    }
+}

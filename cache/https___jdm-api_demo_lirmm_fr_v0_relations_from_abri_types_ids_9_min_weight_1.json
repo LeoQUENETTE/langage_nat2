@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 143613,
+            "name": "porte",
+            "type": 1,
+            "w": 23845
+        },
+        {
+            "id": 146731,
+            "name": "fossé",
+            "type": 1,
+            "w": 265
+        },
+        {
+            "id": 141473,
+            "name": "casque",
+            "type": 1,
+            "w": 1303
+        },
+        {
+            "id": 103702,
+            "name": "palette",
+            "type": 1,
+            "w": 566
+        },
+        {
+            "id": 34148,
+            "name": "toit",
+            "type": 1,
+            "w": 3941
+        },
+        {
+            "id": 114327,
+            "name": "acide désoxyribonucléique",
+            "type": 1,
+            "w": 214
+        },
+        {
+            "id": 52423,
+            "name": "abri",
+            "type": 1,
+            "w": 1931
+        }
+    ],
+    "relations": [
+        {
+            "id": 9973901,
+            "node1": 52423,
+            "node2": 34148,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1152671248,
+            "node1": 52423,
+            "node2": 103702,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 1150230178,
+            "node1": 52423,
+            "node2": 114327,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 1151605949,
+            "node1": 52423,
+            "node2": 141473,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 1716767,
+            "node1": 52423,
+            "node2": 143613,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1149941049,
+            "node1": 52423,
+            "node2": 146731,
+            "type": 9,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:54.267135",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "abri",
+        "#relations": 6,
+        "max_relation_weight": 34.0,
+        "#nodes": 7,
+        "duration": "0:00:00.007875"
+    }
+}

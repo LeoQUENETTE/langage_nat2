@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 9563,
+            "name": "brûlure",
+            "type": 1,
+            "w": 417
+        },
+        {
+            "id": 60312,
+            "name": "combustion",
+            "type": 1,
+            "w": 2450
+        },
+        {
+            "id": 143703,
+            "name": "feu",
+            "type": 1,
+            "w": 10032
+        },
+        {
+            "id": 33698,
+            "name": "destruction",
+            "type": 1,
+            "w": 4519
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046577205,
+            "node1": 143703,
+            "node2": 9563,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1010155786,
+            "node1": 143703,
+            "node2": 33698,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 948449083,
+            "node1": 143703,
+            "node2": 60312,
+            "type": 137,
+            "w": 76.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:05.024488",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "feu",
+        "#relations": 3,
+        "max_relation_weight": 76.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004115"
+    }
+}

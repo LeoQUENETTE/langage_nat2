@@ -1,0 +1,391 @@
+{
+    "nodes": [
+        {
+            "id": 201899831,
+            "name": "amélioration de la résistance",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 252915074,
+            "name": "preuve géométrique",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 271775430,
+            "name": "étude des chauves-souris",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 299345380,
+            "name": "étude de substance",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 249962384,
+            "name": "développement d'algorithmes",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 313688079,
+            "name": "conduite de projets de recherche",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 47792,
+            "name": "recherche scientifique",
+            "type": 1,
+            "w": 4351
+        },
+        {
+            "id": 243455010,
+            "name": "déconstruction des mythes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 194989,
+            "name": "recherche et développement",
+            "type": 1,
+            "w": 1599
+        },
+        {
+            "id": 64438,
+            "name": "modélisation",
+            "type": 1,
+            "w": 2068
+        },
+        {
+            "id": 133815,
+            "name": "investigation",
+            "type": 1,
+            "w": 1739
+        },
+        {
+            "id": 129303,
+            "name": "chercheur",
+            "type": 1,
+            "w": 5536
+        },
+        {
+            "id": 92343,
+            "name": "observation",
+            "type": 1,
+            "w": 11270
+        },
+        {
+            "id": 89162,
+            "name": "séquençage",
+            "type": 1,
+            "w": 508
+        },
+        {
+            "id": 143036,
+            "name": "découverte",
+            "type": 1,
+            "w": 12560
+        },
+        {
+            "id": 140358,
+            "name": "recherche",
+            "type": 1,
+            "w": 34383
+        },
+        {
+            "id": 29983,
+            "name": "analyse",
+            "type": 1,
+            "w": 34944
+        },
+        {
+            "id": 72281,
+            "name": "étude",
+            "type": 1,
+            "w": 18851
+        },
+        {
+            "id": 102114,
+            "name": "innovation",
+            "type": 1,
+            "w": 36688
+        },
+        {
+            "id": 314632,
+            "name": "hydroxychloroquine",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 237898,
+            "name": "investigation scientifique",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 378196,
+            "name": "révolution scientifique",
+            "type": 1,
+            "w": 134
+        },
+        {
+            "id": 242782,
+            "name": "essai clinique",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 260327945,
+            "name": "révision taxonomique",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 194682001,
+            "name": "développement d'IA",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 284919,
+            "name": "séquençage du génome humain",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 100923673,
+            "name": "Recherche scientifique",
+            "type": 1,
+            "w": 428
+        },
+        {
+            "id": 127067,
+            "name": "expérimentation",
+            "type": 1,
+            "w": 2697
+        }
+    ],
+    "relations": [
+        {
+            "id": 665151341,
+            "node1": 129303,
+            "node2": 29983,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 809194451,
+            "node1": 129303,
+            "node2": 47792,
+            "type": 137,
+            "w": 69.0
+        },
+        {
+            "id": 962090285,
+            "node1": 129303,
+            "node2": 64438,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 665151288,
+            "node1": 129303,
+            "node2": 72281,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 384631045,
+            "node1": 129303,
+            "node2": 89162,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 1150603823,
+            "node1": 129303,
+            "node2": 92343,
+            "type": 137,
+            "w": 73.0
+        },
+        {
+            "id": 807142318,
+            "node1": 129303,
+            "node2": 102114,
+            "type": 137,
+            "w": 49.0
+        },
+        {
+            "id": 1150603801,
+            "node1": 129303,
+            "node2": 127067,
+            "type": 137,
+            "w": 81.0
+        },
+        {
+            "id": 952377497,
+            "node1": 129303,
+            "node2": 133815,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 775109520,
+            "node1": 129303,
+            "node2": 140358,
+            "type": 137,
+            "w": 109.0
+        },
+        {
+            "id": 720644613,
+            "node1": 129303,
+            "node2": 143036,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1019703571,
+            "node1": 129303,
+            "node2": 194989,
+            "type": 137,
+            "w": 28.0
+        },
+        {
+            "id": 952383045,
+            "node1": 129303,
+            "node2": 237898,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 787873987,
+            "node1": 129303,
+            "node2": 242782,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 384631035,
+            "node1": 129303,
+            "node2": 284919,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 948448987,
+            "node1": 129303,
+            "node2": 314632,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 775109829,
+            "node1": 129303,
+            "node2": 378196,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1068908977,
+            "node1": 129303,
+            "node2": 100923673,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 959868462,
+            "node1": 129303,
+            "node2": 194682001,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 1008745980,
+            "node1": 129303,
+            "node2": 201899831,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 962090173,
+            "node1": 129303,
+            "node2": 243455010,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 948130876,
+            "node1": 129303,
+            "node2": 249962384,
+            "type": 137,
+            "w": 33.0
+        },
+        {
+            "id": 948448587,
+            "node1": 129303,
+            "node2": 252915074,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 962090184,
+            "node1": 129303,
+            "node2": 260327945,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 813801667,
+            "node1": 129303,
+            "node2": 271775430,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 794947528,
+            "node1": 129303,
+            "node2": 299345380,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 952387642,
+            "node1": 129303,
+            "node2": 313688079,
+            "type": 137,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:14.759462",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chercheur",
+        "#relations": 27,
+        "max_relation_weight": 109.0,
+        "#nodes": 28,
+        "duration": "0:00:00.010165"
+    }
+}

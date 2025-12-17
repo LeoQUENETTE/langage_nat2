@@ -1,0 +1,51 @@
+{
+    "nodes": [
+        {
+            "id": 36344,
+            "name": "Maroc",
+            "type": 1,
+            "w": 3713,
+            "c": 0,
+            "level": 49.5865,
+            "infoid": null,
+            "creationdate": "2007-06-21",
+            "touchdate": "2025-12-16T21:41:48"
+        },
+        {
+            "id": 269561,
+            "name": "sans couleur",
+            "type": 1,
+            "w": 56,
+            "c": 0,
+            "level": 199.0,
+            "infoid": null,
+            "creationdate": "2013-07-23",
+            "touchdate": "2025-12-16T19:47:49"
+        }
+    ],
+    "relations": [],
+    "request": {
+        "types_ids": null,
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:11.511819",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "node1": "Maroc",
+        "node2": "sans couleur",
+        "#relations": 0,
+        "duration": "0:00:00.002829"
+    }
+}

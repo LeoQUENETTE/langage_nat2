@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 5910,
+            "name": "épée",
+            "type": 1,
+            "w": 1781
+        },
+        {
+            "id": 251723,
+            "name": "arme>237",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 14957937,
+            "name": "en:rapier",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 37370,
+            "name": "dague",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 108483,
+            "name": "baïonnette",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 132542,
+            "name": "arme blanche",
+            "type": 1,
+            "w": 481
+        },
+        {
+            "id": 145948,
+            "name": "arme",
+            "type": 1,
+            "w": 6544
+        },
+        {
+            "id": 76071,
+            "name": "rapière",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 32610,
+            "name": "couteau",
+            "type": 1,
+            "w": 4346
+        },
+        {
+            "id": 93589,
+            "name": "claymore",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 39696,
+            "name": "fourreau",
+            "type": 1,
+            "w": 192
+        }
+    ],
+    "relations": [
+        {
+            "id": 11347000,
+            "node1": 39696,
+            "node2": 5910,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 766154329,
+            "node1": 39696,
+            "node2": 32610,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11327035,
+            "node1": 39696,
+            "node2": 37370,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11315976,
+            "node1": 39696,
+            "node2": 76071,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11315967,
+            "node1": 39696,
+            "node2": 93589,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 766154713,
+            "node1": 39696,
+            "node2": 108483,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11327479,
+            "node1": 39696,
+            "node2": 132542,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104941644,
+            "node1": 39696,
+            "node2": 145948,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11327862,
+            "node1": 39696,
+            "node2": 251723,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 824741006,
+            "node1": 39696,
+            "node2": 14957937,
+            "type": 28,
+            "w": 21.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:08.165527",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fourreau",
+        "#relations": 10,
+        "max_relation_weight": 40.0,
+        "#nodes": 11,
+        "duration": "0:00:00.004311"
+    }
+}

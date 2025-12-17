@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 257095070,
+            "name": "satisfaction artistique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 50195,
+            "name": "piano",
+            "type": 1,
+            "w": 3500
+        },
+        {
+            "id": 146227,
+            "name": "concert",
+            "type": 1,
+            "w": 4375
+        },
+        {
+            "id": 102345,
+            "name": "plaisir",
+            "type": 1,
+            "w": 12271
+        },
+        {
+            "id": 271463,
+            "name": "émotions",
+            "type": 1,
+            "w": 5299
+        },
+        {
+            "id": 145664,
+            "name": "émotion",
+            "type": 1,
+            "w": 9695
+        },
+        {
+            "id": 41490,
+            "name": "inspiration",
+            "type": 1,
+            "w": 6792
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152615075,
+            "node1": 50195,
+            "node2": 41490,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1143292085,
+            "node1": 50195,
+            "node2": 102345,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1152615058,
+            "node1": 50195,
+            "node2": 145664,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 545895122,
+            "node1": 50195,
+            "node2": 146227,
+            "type": 41,
+            "w": 1882.0
+        },
+        {
+            "id": 1152616129,
+            "node1": 50195,
+            "node2": 271463,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1152616141,
+            "node1": 50195,
+            "node2": 257095070,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:47.960393",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "piano",
+        "#relations": 6,
+        "max_relation_weight": 1882.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005070"
+    }
+}

@@ -1,0 +1,391 @@
+{
+    "nodes": [
+        {
+            "id": 7015625,
+            "name": "en:hot spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 231925,
+            "name": "point d'ancrage",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 260923,
+            "name": "point chaud",
+            "type": 1,
+            "w": 169
+        },
+        {
+            "id": 15465663,
+            "name": "hot-spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 236068,
+            "name": "hotspot",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 15317233,
+            "name": "en:anchor point",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 254100,
+            "name": "forêt>254099",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 15465659,
+            "name": "en:wifi hotspot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15465661,
+            "name": "en:wi-fi hot spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15270468,
+            "name": "borne WiFi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15251879,
+            "name": "point d'embouteillage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15270469,
+            "name": "en:Wi-Fi hotspot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15317241,
+            "name": "en:anchorpoint",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15270476,
+            "name": "point d'accès WiFi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15302401,
+            "name": "en:major issue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146632,
+            "name": "forêt",
+            "type": 1,
+            "w": 10610
+        },
+        {
+            "id": 15454423,
+            "name": "en:Wi-Fi access point",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15220102,
+            "name": "point d'attaque",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 264428,
+            "name": "zone sensible",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 15465660,
+            "name": "en:Wi-Fi hot spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 184841,
+            "name": "zone d'accès sans fil",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 91028,
+            "name": "Yellowstone",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 15465658,
+            "name": "en:wi-fi hotspot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 236032,
+            "name": "borne Wi-Fi",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15454424,
+            "name": "borne wifi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15465662,
+            "name": "en:wifi hot spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15317232,
+            "name": "en:anchorage point",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 311612,
+            "name": "hot spot",
+            "type": 777,
+            "w": 65
+        }
+    ],
+    "relations": [
+        {
+            "id": 104941563,
+            "node1": 91028,
+            "node2": 146632,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 738357673,
+            "node1": 91028,
+            "node2": 184841,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 483264294,
+            "node1": 91028,
+            "node2": 231925,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 484022574,
+            "node1": 91028,
+            "node2": 236032,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 18574797,
+            "node1": 91028,
+            "node2": 236068,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 27842487,
+            "node1": 91028,
+            "node2": 254100,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 18574795,
+            "node1": 91028,
+            "node2": 260923,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 483264057,
+            "node1": 91028,
+            "node2": 264428,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 18555476,
+            "node1": 91028,
+            "node2": 311612,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 253516795,
+            "node1": 91028,
+            "node2": 7015625,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 473440480,
+            "node1": 91028,
+            "node2": 15220102,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 594576971,
+            "node1": 91028,
+            "node2": 15251879,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 484022539,
+            "node1": 91028,
+            "node2": 15270468,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470964096,
+            "node1": 91028,
+            "node2": 15270469,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 776472404,
+            "node1": 91028,
+            "node2": 15270476,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 1054567478,
+            "node1": 91028,
+            "node2": 15302401,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 483264330,
+            "node1": 91028,
+            "node2": 15317232,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470972826,
+            "node1": 91028,
+            "node2": 15317233,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 738355753,
+            "node1": 91028,
+            "node2": 15317241,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 926895414,
+            "node1": 91028,
+            "node2": 15454423,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 485365034,
+            "node1": 91028,
+            "node2": 15454424,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 470964136,
+            "node1": 91028,
+            "node2": 15465658,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470964166,
+            "node1": 91028,
+            "node2": 15465659,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470964201,
+            "node1": 91028,
+            "node2": 15465660,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470964235,
+            "node1": 91028,
+            "node2": 15465661,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470964279,
+            "node1": 91028,
+            "node2": 15465662,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470964305,
+            "node1": 91028,
+            "node2": 15465663,
+            "type": 28,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:41.385476",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Yellowstone",
+        "#relations": 27,
+        "max_relation_weight": 40.0,
+        "#nodes": 28,
+        "duration": "0:00:00.016430"
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 255317457,
+            "name": "Lait pasteurisé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 222431,
+            "name": "soupe aux légumes",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 33452258,
+            "name": "en:also pasteurised milk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 41894,
+            "name": "brique",
+            "type": 1,
+            "w": 551
+        },
+        {
+            "id": 158322,
+            "name": "jus de fruits",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 160745,
+            "name": "soupe de légumes",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 260450,
+            "name": "lait pasteurisé",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 26418,
+            "name": "jus de fruit",
+            "type": 1,
+            "w": 334
+        },
+        {
+            "id": 7592871,
+            "name": "en:fruit juice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14945643,
+            "name": "en:pasteurised milk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15069833,
+            "name": "en:pasteurized milk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15078789,
+            "name": "en:vegetable soup",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15228048,
+            "name": "potage aux légumes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15251928,
+            "name": "en:fruit jus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134879668,
+            "name": "Jus de fruits",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 11345164,
+            "node1": 41894,
+            "node2": 26418,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 515247569,
+            "node1": 41894,
+            "node2": 158322,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11316081,
+            "node1": 41894,
+            "node2": 160745,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1054570784,
+            "node1": 41894,
+            "node2": 222431,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 11328975,
+            "node1": 41894,
+            "node2": 260450,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 308212294,
+            "node1": 41894,
+            "node2": 7592871,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 492104486,
+            "node1": 41894,
+            "node2": 14945643,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 492104491,
+            "node1": 41894,
+            "node2": 15069833,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 470993103,
+            "node1": 41894,
+            "node2": 15078789,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 515252363,
+            "node1": 41894,
+            "node2": 15228048,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 1054572505,
+            "node1": 41894,
+            "node2": 15251928,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 776472859,
+            "node1": 41894,
+            "node2": 33452258,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 548514870,
+            "node1": 41894,
+            "node2": 134879668,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 1127464373,
+            "node1": 41894,
+            "node2": 255317457,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:15.575406",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "brique",
+        "#relations": 14,
+        "max_relation_weight": 41.0,
+        "#nodes": 15,
+        "duration": "0:00:00.003380"
+    }
+}

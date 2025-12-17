@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 15292500,
+            "name": "en:a unit of measurement",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36899,
+            "name": "meuble",
+            "type": 1,
+            "w": 1884
+        },
+        {
+            "id": 134263,
+            "name": "emballage",
+            "type": 1,
+            "w": 1023
+        },
+        {
+            "id": 42731,
+            "name": "contenant",
+            "type": 1,
+            "w": 3867
+        },
+        {
+            "id": 30732,
+            "name": "baril",
+            "type": 1,
+            "w": 311
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 3304044,
+            "name": "unité de mesure de volume",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15292499,
+            "name": "une unité de mesure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6876749,
+            "name": "en:unit of measure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14966145,
+            "name": "en:unit of measurement",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 89628,
+            "name": "récipient",
+            "type": 1,
+            "w": 1305
+        },
+        {
+            "id": 164496,
+            "name": "unité de mesure",
+            "type": 1,
+            "w": 265
+        }
+    ],
+    "relations": [
+        {
+            "id": 1127186414,
+            "node1": 30732,
+            "node2": 36899,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1570957,
+            "node1": 30732,
+            "node2": 42731,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 9000817,
+            "node1": 30732,
+            "node2": 89628,
+            "type": 6,
+            "w": 201.0
+        },
+        {
+            "id": 97359506,
+            "node1": 30732,
+            "node2": 134263,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 629664,
+            "node1": 30732,
+            "node2": 135190,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 9000816,
+            "node1": 30732,
+            "node2": 164496,
+            "type": 6,
+            "w": 172.0
+        },
+        {
+            "id": 115531151,
+            "node1": 30732,
+            "node2": 3304044,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 705382787,
+            "node1": 30732,
+            "node2": 6876749,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 598695084,
+            "node1": 30732,
+            "node2": 14966145,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 776170839,
+            "node1": 30732,
+            "node2": 15292499,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 776170082,
+            "node1": 30732,
+            "node2": 15292500,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:59.335035",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "baril",
+        "#relations": 11,
+        "max_relation_weight": 201.0,
+        "#nodes": 12,
+        "duration": "0:00:00.010259"
+    }
+}

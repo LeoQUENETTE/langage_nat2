@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 110160,
+            "name": "robe",
+            "type": 1,
+            "w": 3032
+        },
+        {
+            "id": 35238,
+            "name": "patron",
+            "type": 1,
+            "w": 4142
+        },
+        {
+            "id": 15442309,
+            "name": "en:prêt-à-porter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94183,
+            "name": "créer",
+            "type": 1,
+            "w": 14934
+        },
+        {
+            "id": 14956541,
+            "name": "en:readymade",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141312,
+            "name": "prêt-à-porter",
+            "type": 1,
+            "w": 210
+        },
+        {
+            "id": 133857,
+            "name": "mode",
+            "type": 1,
+            "w": 7939
+        },
+        {
+            "id": 61490,
+            "name": "femme",
+            "type": 1,
+            "w": 89494
+        },
+        {
+            "id": 143462,
+            "name": "couture",
+            "type": 1,
+            "w": 1417
+        },
+        {
+            "id": 15314563,
+            "name": "en prêt-à-porter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15314562,
+            "name": "en:ready-to-wear clothing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15067348,
+            "name": "en:ready-to-wear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 97220,
+            "name": "couturière",
+            "type": 1,
+            "w": 515
+        },
+        {
+            "id": 82827,
+            "name": "coudre",
+            "type": 1,
+            "w": 1038
+        },
+        {
+            "id": 15226635,
+            "name": "en:clothing trade",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15314566,
+            "name": "en:ready-to-wear industry",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15314568,
+            "name": "en:the clothing trade",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 93017,
+            "name": "couturier",
+            "type": 1,
+            "w": 391
+        }
+    ],
+    "relations": [
+        {
+            "id": 1589141,
+            "node1": 110160,
+            "node2": 35238,
+            "type": 42,
+            "w": 60.0
+        },
+        {
+            "id": 1589142,
+            "node1": 110160,
+            "node2": 61490,
+            "type": 42,
+            "w": 70.0
+        },
+        {
+            "id": 1589139,
+            "node1": 110160,
+            "node2": 82827,
+            "type": 42,
+            "w": 59.0
+        },
+        {
+            "id": 1589145,
+            "node1": 110160,
+            "node2": 93017,
+            "type": 42,
+            "w": 62.0
+        },
+        {
+            "id": 1589140,
+            "node1": 110160,
+            "node2": 94183,
+            "type": 42,
+            "w": 59.0
+        },
+        {
+            "id": 1589144,
+            "node1": 110160,
+            "node2": 97220,
+            "type": 42,
+            "w": 51.0
+        },
+        {
+            "id": 1818310,
+            "node1": 110160,
+            "node2": 133857,
+            "type": 42,
+            "w": 58.0
+        },
+        {
+            "id": 1607283,
+            "node1": 110160,
+            "node2": 141312,
+            "type": 42,
+            "w": 90.0
+        },
+        {
+            "id": 1589143,
+            "node1": 110160,
+            "node2": 143462,
+            "type": 42,
+            "w": 60.0
+        },
+        {
+            "id": 1037107870,
+            "node1": 110160,
+            "node2": 14956541,
+            "type": 42,
+            "w": 4.0
+        },
+        {
+            "id": 405628254,
+            "node1": 110160,
+            "node2": 15067348,
+            "type": 42,
+            "w": 89.0
+        },
+        {
+            "id": 1079458157,
+            "node1": 110160,
+            "node2": 15226635,
+            "type": 42,
+            "w": 3.0
+        },
+        {
+            "id": 1079442696,
+            "node1": 110160,
+            "node2": 15314562,
+            "type": 42,
+            "w": 1.0
+        },
+        {
+            "id": 1079442699,
+            "node1": 110160,
+            "node2": 15314563,
+            "type": 42,
+            "w": 1.0
+        },
+        {
+            "id": 1079442700,
+            "node1": 110160,
+            "node2": 15314566,
+            "type": 42,
+            "w": 1.0
+        },
+        {
+            "id": 1079458155,
+            "node1": 110160,
+            "node2": 15314568,
+            "type": 42,
+            "w": 1.0
+        },
+        {
+            "id": 405628252,
+            "node1": 110160,
+            "node2": 15442309,
+            "type": 42,
+            "w": 86.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            42
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:59.776057",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "robe",
+        "#relations": 17,
+        "max_relation_weight": 90.0,
+        "#nodes": 18,
+        "duration": "0:00:00.007995"
+    }
+}

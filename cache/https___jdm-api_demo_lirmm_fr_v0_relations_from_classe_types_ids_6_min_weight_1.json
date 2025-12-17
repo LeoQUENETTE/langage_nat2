@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 24679,
+            "name": "taxon",
+            "type": 1,
+            "w": 201
+        },
+        {
+            "id": 251768230,
+            "name": "collection d'objets",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 272892259,
+            "name": "groupe d'élèves",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 395139,
+            "name": "groupe de personnes",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 597252,
+            "name": "analyte",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 139209,
+            "name": "salle",
+            "type": 1,
+            "w": 6578
+        },
+        {
+            "id": 289939,
+            "name": "structure de données",
+            "type": 777,
+            "w": 235
+        },
+        {
+            "id": 106784,
+            "name": "subdivision",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 5895100,
+            "name": "niveau intermédiaire",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 116178,
+            "name": "collection",
+            "type": 1,
+            "w": 4926
+        },
+        {
+            "id": 64681,
+            "name": "niveau",
+            "type": 1,
+            "w": 9435
+        },
+        {
+            "id": 142623,
+            "name": "classe",
+            "type": 1,
+            "w": 7142
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 1801182,
+            "name": "rang taxonomique",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 15245714,
+            "name": "substance à analyser",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7746400,
+            "name": "en:analyte",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 951145526,
+            "node1": 142623,
+            "node2": 24679,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 114737065,
+            "node1": 142623,
+            "node2": 64681,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 473693593,
+            "node1": 142623,
+            "node2": 106784,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 109773401,
+            "node1": 142623,
+            "node2": 116178,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 629023,
+            "node1": 142623,
+            "node2": 135190,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 98110232,
+            "node1": 142623,
+            "node2": 139209,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 892166417,
+            "node1": 142623,
+            "node2": 289939,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 776231080,
+            "node1": 142623,
+            "node2": 395139,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 315383611,
+            "node1": 142623,
+            "node2": 597252,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 1169582051,
+            "node1": 142623,
+            "node2": 1801182,
+            "type": 6,
+            "w": 243.0
+        },
+        {
+            "id": 114740085,
+            "node1": 142623,
+            "node2": 5895100,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 384007872,
+            "node1": 142623,
+            "node2": 7746400,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 599816266,
+            "node1": 142623,
+            "node2": 15245714,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 1130564920,
+            "node1": 142623,
+            "node2": 251768230,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 766611696,
+            "node1": 142623,
+            "node2": 272892259,
+            "type": 6,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:04.220254",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "classe",
+        "#relations": 15,
+        "max_relation_weight": 243.0,
+        "#nodes": 16,
+        "duration": "0:00:00.048282"
+    }
+}

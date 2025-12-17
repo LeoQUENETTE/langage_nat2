@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 103057,
+            "name": "cellule",
+            "type": 1,
+            "w": 5106
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046569725,
+            "node1": 63936,
+            "node2": 103057,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:30.100657",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tissu",
+        "#relations": 1,
+        "max_relation_weight": 20.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005586"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "nodes": [],
+    "relations": [],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:32.811905",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "père",
+        "#relations": 0,
+        "#nodes": 0,
+        "duration": "0:00:00.007502"
+    }
+}

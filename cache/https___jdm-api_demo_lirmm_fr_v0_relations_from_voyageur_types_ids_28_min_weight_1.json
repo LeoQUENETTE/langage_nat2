@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 142249,
+            "name": "bague",
+            "type": 1,
+            "w": 877
+        },
+        {
+            "id": 82003,
+            "name": "voyageur",
+            "type": 1,
+            "w": 1331
+        },
+        {
+            "id": 252797124,
+            "name": "Message chiffré",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228075,
+            "name": "bague>36482",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 51253,
+            "name": "message",
+            "type": 1,
+            "w": 8158
+        },
+        {
+            "id": 203647,
+            "name": "message codé",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 363977,
+            "name": "message chiffré",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 15261526,
+            "name": "en:coded message",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 98300821,
+            "node1": 82003,
+            "node2": 51253,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 98300891,
+            "node1": 82003,
+            "node2": 142249,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 98300908,
+            "node1": 82003,
+            "node2": 203647,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 98300933,
+            "node1": 82003,
+            "node2": 228075,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 738356534,
+            "node1": 82003,
+            "node2": 363977,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 474022866,
+            "node1": 82003,
+            "node2": 15261526,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 1124414362,
+            "node1": 82003,
+            "node2": 252797124,
+            "type": 28,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:46.865771",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voyageur",
+        "#relations": 7,
+        "max_relation_weight": 35.0,
+        "#nodes": 8,
+        "duration": "0:00:00.007103"
+    }
+}

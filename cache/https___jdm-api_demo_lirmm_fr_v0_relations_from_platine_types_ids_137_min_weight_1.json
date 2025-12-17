@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 300294707,
+            "name": "lecture de disque",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45296,
+            "name": "extraction",
+            "type": 1,
+            "w": 1513
+        },
+        {
+            "id": 145641,
+            "name": "platine",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 464996253,
+            "name": "lecture de vinyle",
+            "type": 1,
+            "w": 0
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155756661,
+            "node1": 145641,
+            "node2": 45296,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 818929910,
+            "node1": 145641,
+            "node2": 300294707,
+            "type": 137,
+            "w": 33.0
+        },
+        {
+            "id": 1155756795,
+            "node1": 145641,
+            "node2": 464996253,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:09.701442",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "platine",
+        "#relations": 3,
+        "max_relation_weight": 33.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004553"
+    }
+}

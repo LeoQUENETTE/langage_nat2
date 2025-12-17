@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 146274,
+            "name": "marché",
+            "type": 1,
+            "w": 13878
+        },
+        {
+            "id": 57470,
+            "name": "consommation",
+            "type": 1,
+            "w": 11101
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046570330,
+            "node1": 146274,
+            "node2": 57470,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:05.056049",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "marché",
+        "#relations": 1,
+        "max_relation_weight": 20.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003798"
+    }
+}

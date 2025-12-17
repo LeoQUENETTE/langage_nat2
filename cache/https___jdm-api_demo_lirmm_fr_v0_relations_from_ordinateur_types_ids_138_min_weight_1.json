@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 22436,
+            "name": "réparation",
+            "type": 1,
+            "w": 2565
+        },
+        {
+            "id": 94978,
+            "name": "ordinateur",
+            "type": 1,
+            "w": 9689
+        },
+        {
+            "id": 56929,
+            "name": "programmation",
+            "type": 1,
+            "w": 4808
+        },
+        {
+            "id": 28687,
+            "name": "mise à jour",
+            "type": 1,
+            "w": 1731
+        }
+    ],
+    "relations": [
+        {
+            "id": 720644185,
+            "node1": 94978,
+            "node2": 22436,
+            "type": 138,
+            "w": 85.0
+        },
+        {
+            "id": 1180647446,
+            "node1": 94978,
+            "node2": 28687,
+            "type": 138,
+            "w": 33.0
+        },
+        {
+            "id": 962090045,
+            "node1": 94978,
+            "node2": 56929,
+            "type": 138,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:30.025576",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ordinateur",
+        "#relations": 3,
+        "max_relation_weight": 85.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004633"
+    }
+}

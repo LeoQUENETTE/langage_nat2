@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 35712,
+            "name": "atome",
+            "type": 1,
+            "w": 2598
+        },
+        {
+            "id": 124092,
+            "name": "fer",
+            "type": 1,
+            "w": 6704
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 248411,
+            "name": "atome>43504",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 120791,
+            "name": "électron",
+            "type": 1,
+            "w": 754
+        },
+        {
+            "id": 62664,
+            "name": "proton",
+            "type": 1,
+            "w": 746
+        }
+    ],
+    "relations": [
+        {
+            "id": 175919,
+            "node1": 124092,
+            "node2": 35712,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 2516146,
+            "node1": 124092,
+            "node2": 62664,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 2516147,
+            "node1": 124092,
+            "node2": 120791,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 697185159,
+            "node1": 124092,
+            "node2": 139779,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2516148,
+            "node1": 124092,
+            "node2": 248411,
+            "type": 9,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:04.050120",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fer",
+        "#relations": 5,
+        "max_relation_weight": 58.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004684"
+    }
+}

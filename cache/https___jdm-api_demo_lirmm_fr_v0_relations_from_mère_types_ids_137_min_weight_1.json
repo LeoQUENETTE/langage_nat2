@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 51617,
+            "name": "gestation",
+            "type": 1,
+            "w": 385
+        },
+        {
+            "id": 30079,
+            "name": "allaitement",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 83989,
+            "name": "éducation",
+            "type": 1,
+            "w": 34465
+        },
+        {
+            "id": 596275,
+            "name": "syndrome du bébé secoué",
+            "type": 777,
+            "w": 30
+        },
+        {
+            "id": 44224,
+            "name": "accouchement",
+            "type": 1,
+            "w": 1236
+        },
+        {
+            "id": 122956,
+            "name": "mère",
+            "type": 1,
+            "w": 8492
+        },
+        {
+            "id": 29212,
+            "name": "maternage",
+            "type": 1,
+            "w": 90
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152105753,
+            "node1": 122956,
+            "node2": 29212,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 962090238,
+            "node1": 122956,
+            "node2": 30079,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 958785542,
+            "node1": 122956,
+            "node2": 44224,
+            "type": 137,
+            "w": 33.0
+        },
+        {
+            "id": 384630995,
+            "node1": 122956,
+            "node2": 51617,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 1143764544,
+            "node1": 122956,
+            "node2": 83989,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 384631268,
+            "node1": 122956,
+            "node2": 596275,
+            "type": 137,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:40.978240",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mère",
+        "#relations": 6,
+        "max_relation_weight": 33.0,
+        "#nodes": 7,
+        "duration": "0:00:00.006441"
+    }
+}

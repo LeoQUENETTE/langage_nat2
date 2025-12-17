@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 54234,
+            "name": "écriture",
+            "type": 1,
+            "w": 6262
+        },
+        {
+            "id": 378811344,
+            "name": "rédaction de poème",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 241137,
+            "name": "pied>112621",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 94166,
+            "name": "poète",
+            "type": 1,
+            "w": 5140
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131451943,
+            "node1": 94166,
+            "node2": 54234,
+            "type": 137,
+            "w": 95.0
+        },
+        {
+            "id": 384631184,
+            "node1": 94166,
+            "node2": 241137,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1046577759,
+            "node1": 94166,
+            "node2": 378811344,
+            "type": 137,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:18.841514",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "poète",
+        "#relations": 3,
+        "max_relation_weight": 95.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003759"
+    }
+}

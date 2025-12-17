@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 128549,
+            "name": "château de Vaux-le-Vicomte",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 13727,
+            "name": "pavillon",
+            "type": 1,
+            "w": 1809
+        },
+        {
+            "id": 33075,
+            "name": "jardinier",
+            "type": 1,
+            "w": 615
+        },
+        {
+            "id": 18309,
+            "name": "résidence",
+            "type": 1,
+            "w": 3224
+        },
+        {
+            "id": 19522,
+            "name": "villa",
+            "type": 1,
+            "w": 1292
+        },
+        {
+            "id": 143800,
+            "name": "palais",
+            "type": 1,
+            "w": 4954
+        },
+        {
+            "id": 106608,
+            "name": "extérieur",
+            "type": 1,
+            "w": 4853
+        },
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8735
+        },
+        {
+            "id": 23431,
+            "name": "scène",
+            "type": 1,
+            "w": 9922
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37890
+        },
+        {
+            "id": 111141,
+            "name": "propriété",
+            "type": 1,
+            "w": 7082
+        },
+        {
+            "id": 224420,
+            "name": "Taj Mahal",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 223251,
+            "name": "palais de Westminster",
+            "type": 1,
+            "w": 13
+        }
+    ],
+    "relations": [
+        {
+            "id": 9980018,
+            "node1": 139575,
+            "node2": 13727,
+            "type": 10,
+            "w": 6.0
+        },
+        {
+            "id": 9978798,
+            "node1": 139575,
+            "node2": 18309,
+            "type": 10,
+            "w": 4.0
+        },
+        {
+            "id": 873480998,
+            "node1": 139575,
+            "node2": 19522,
+            "type": 10,
+            "w": 14.0
+        },
+        {
+            "id": 9981120,
+            "node1": 139575,
+            "node2": 23431,
+            "type": 10,
+            "w": 30.0
+        },
+        {
+            "id": 1144327061,
+            "node1": 139575,
+            "node2": 33075,
+            "type": 10,
+            "w": 12.0
+        },
+        {
+            "id": 9976231,
+            "node1": 139575,
+            "node2": 45179,
+            "type": 10,
+            "w": 34.0
+        },
+        {
+            "id": 9985368,
+            "node1": 139575,
+            "node2": 106608,
+            "type": 10,
+            "w": 37.0
+        },
+        {
+            "id": 9980669,
+            "node1": 139575,
+            "node2": 111141,
+            "type": 10,
+            "w": 4.0
+        },
+        {
+            "id": 9995724,
+            "node1": 139575,
+            "node2": 128549,
+            "type": 10,
+            "w": 4.0
+        },
+        {
+            "id": 96370884,
+            "node1": 139575,
+            "node2": 143800,
+            "type": 10,
+            "w": 27.0
+        },
+        {
+            "id": 105800306,
+            "node1": 139575,
+            "node2": 223251,
+            "type": 10,
+            "w": 28.0
+        },
+        {
+            "id": 1015212974,
+            "node1": 139575,
+            "node2": 224420,
+            "type": 10,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            10
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:05.066099",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 12,
+        "max_relation_weight": 37.0,
+        "#nodes": 13,
+        "duration": "0:00:00.006155"
+    }
+}

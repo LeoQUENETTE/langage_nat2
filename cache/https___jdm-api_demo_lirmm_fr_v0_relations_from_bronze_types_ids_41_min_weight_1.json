@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 142856,
+            "name": "bronze",
+            "type": 1,
+            "w": 3038
+        },
+        {
+            "id": 134527,
+            "name": "dégradation",
+            "type": 1,
+            "w": 3081
+        },
+        {
+            "id": 74339,
+            "name": "oxydation",
+            "type": 1,
+            "w": 364
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156146981,
+            "node1": 142856,
+            "node2": 74339,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1156147022,
+            "node1": 142856,
+            "node2": 134527,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:55.114983",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bronze",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003396"
+    }
+}

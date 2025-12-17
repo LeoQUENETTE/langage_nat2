@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 65971,
+            "name": "embouteillage",
+            "type": 1,
+            "w": 587
+        },
+        {
+            "id": 105441,
+            "name": "pavé",
+            "type": 1,
+            "w": 625
+        },
+        {
+            "id": 133013,
+            "name": "trottoir",
+            "type": 1,
+            "w": 1408
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 14606888,
+            "name": "nuisances sonores",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 222079,
+            "name": "pavé>256609",
+            "type": 1,
+            "w": 10
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157935710,
+            "node1": 20564,
+            "node2": 65971,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 98400914,
+            "node1": 20564,
+            "node2": 105441,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14658413,
+            "node1": 20564,
+            "node2": 133013,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 77528646,
+            "node1": 20564,
+            "node2": 222079,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1157935721,
+            "node1": 20564,
+            "node2": 14606888,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:00.176402",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "rue",
+        "#relations": 5,
+        "max_relation_weight": 35.0,
+        "#nodes": 6,
+        "duration": "0:00:00.006426"
+    }
+}

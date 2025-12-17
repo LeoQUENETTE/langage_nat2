@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 68291,
+            "name": "Genève",
+            "type": 1,
+            "w": 3454
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 34235859,
+            "name": "FC Stade Nyonnais",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 50710426,
+            "name": "ville suisse",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 167584,
+            "name": "monument historique",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 36071,
+            "name": "relation",
+            "type": 1,
+            "w": 15313
+        },
+        {
+            "id": 222449146,
+            "name": "membres du parti",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 1822021,
+            "name": "ville de France",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 321529,
+            "name": "ville française",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 184834764,
+            "name": "Commune suisse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 214435,
+            "name": "commune suisse",
+            "type": 1,
+            "w": 56
+        }
+    ],
+    "relations": [
+        {
+            "id": 541787067,
+            "node1": 68291,
+            "node2": 36071,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 620058741,
+            "node1": 68291,
+            "node2": 134218,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 656204,
+            "node1": 68291,
+            "node2": 135190,
+            "type": 6,
+            "w": 70.0
+        },
+        {
+            "id": 655746,
+            "node1": 68291,
+            "node2": 136786,
+            "type": 6,
+            "w": 130.0
+        },
+        {
+            "id": 13290348,
+            "node1": 68291,
+            "node2": 157283,
+            "type": 6,
+            "w": 130.0
+        },
+        {
+            "id": 535056398,
+            "node1": 68291,
+            "node2": 167584,
+            "type": 6,
+            "w": 42.0
+        },
+        {
+            "id": 305793313,
+            "node1": 68291,
+            "node2": 214435,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 642153138,
+            "node1": 68291,
+            "node2": 321529,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 728872348,
+            "node1": 68291,
+            "node2": 1822021,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 661857107,
+            "node1": 68291,
+            "node2": 2785548,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 357219243,
+            "node1": 68291,
+            "node2": 14094383,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 534965071,
+            "node1": 68291,
+            "node2": 34235859,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 535023894,
+            "node1": 68291,
+            "node2": 50710426,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 769967993,
+            "node1": 68291,
+            "node2": 184834764,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1130645495,
+            "node1": 68291,
+            "node2": 222449146,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:28.697878",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Genève",
+        "#relations": 15,
+        "max_relation_weight": 130.0,
+        "#nodes": 16,
+        "duration": "0:00:00.024036"
+    }
+}

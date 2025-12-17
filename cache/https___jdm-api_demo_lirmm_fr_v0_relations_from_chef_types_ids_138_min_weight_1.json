@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 228125,
+            "name": "prise de décision",
+            "type": 1,
+            "w": 1508
+        },
+        {
+            "id": 89926,
+            "name": "chef",
+            "type": 1,
+            "w": 9712
+        },
+        {
+            "id": 129281,
+            "name": "évaluation",
+            "type": 1,
+            "w": 23388
+        },
+        {
+            "id": 218326638,
+            "name": "évaluation des plats",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150514705,
+            "node1": 89926,
+            "node2": 129281,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150514706,
+            "node1": 89926,
+            "node2": 228125,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1153772379,
+            "node1": 89926,
+            "node2": 218326638,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:41.156532",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chef",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003753"
+    }
+}

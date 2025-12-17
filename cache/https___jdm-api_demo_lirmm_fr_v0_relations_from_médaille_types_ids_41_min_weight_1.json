@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 24714,
+            "name": "complimenter",
+            "type": 1,
+            "w": 237
+        },
+        {
+            "id": 42388,
+            "name": "médaille",
+            "type": 1,
+            "w": 3627
+        }
+    ],
+    "relations": [
+        {
+            "id": 14643117,
+            "node1": 42388,
+            "node2": 24714,
+            "type": 41,
+            "w": 36.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:27.465739",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "médaille",
+        "#relations": 1,
+        "max_relation_weight": 36.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003472"
+    }
+}

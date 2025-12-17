@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 28291,
+            "name": "voisin",
+            "type": 1,
+            "w": 5341
+        },
+        {
+            "id": 136283,
+            "name": "déménagement",
+            "type": 1,
+            "w": 1290
+        },
+        {
+            "id": 30343,
+            "name": "visite",
+            "type": 1,
+            "w": 5658
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156352640,
+            "node1": 28291,
+            "node2": 30343,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1156352616,
+            "node1": 28291,
+            "node2": 136283,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:58.565565",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voisin",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.007454"
+    }
+}

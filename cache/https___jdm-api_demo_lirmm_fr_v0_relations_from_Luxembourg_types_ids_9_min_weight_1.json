@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 215053,
+            "name": "rue>215052",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 145636,
+            "name": "plaine",
+            "type": 1,
+            "w": 3948
+        },
+        {
+            "id": 17734,
+            "name": "Luxembourg",
+            "type": 1,
+            "w": 3420
+        }
+    ],
+    "relations": [
+        {
+            "id": 350623233,
+            "node1": 17734,
+            "node2": 20564,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 8908535,
+            "node1": 17734,
+            "node2": 145636,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 350640918,
+            "node1": 17734,
+            "node2": 215053,
+            "type": 9,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:04.640175",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Luxembourg",
+        "#relations": 3,
+        "max_relation_weight": 26.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004090"
+    }
+}

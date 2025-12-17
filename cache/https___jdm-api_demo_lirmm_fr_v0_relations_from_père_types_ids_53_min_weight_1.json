@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 102812,
+            "name": "père",
+            "type": 1,
+            "w": 32980
+        },
+        {
+            "id": 252414,
+            "name": "pâtes à la bolognaise",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 20219,
+            "name": "descendance",
+            "type": 1,
+            "w": 1624
+        },
+        {
+            "id": 315901,
+            "name": "::>66:127798>17:71211",
+            "type": 8,
+            "w": 50
+        },
+        {
+            "id": 124094,
+            "name": "enfant",
+            "type": 1,
+            "w": 57598
+        },
+        {
+            "id": 88899,
+            "name": "patient",
+            "type": 1,
+            "w": 3876
+        },
+        {
+            "id": 263325,
+            "name": "spaghettis à la carbonara",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 263323,
+            "name": "spaghettis carbonara",
+            "type": 1,
+            "w": 58
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152113018,
+            "node1": 102812,
+            "node2": 20219,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376991819,
+            "node1": 102812,
+            "node2": 88899,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 1132435501,
+            "node1": 102812,
+            "node2": 124094,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 376990725,
+            "node1": 102812,
+            "node2": 252414,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 376990863,
+            "node1": 102812,
+            "node2": 263323,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 376991008,
+            "node1": 102812,
+            "node2": 263325,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 376990773,
+            "node1": 102812,
+            "node2": 315901,
+            "type": 53,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:30.818381",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "père",
+        "#relations": 7,
+        "max_relation_weight": 35.0,
+        "#nodes": 8,
+        "duration": "0:00:00.013137"
+    }
+}

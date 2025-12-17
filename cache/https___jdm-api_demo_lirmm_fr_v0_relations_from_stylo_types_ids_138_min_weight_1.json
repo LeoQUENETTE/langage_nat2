@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 463840044,
+            "name": "perte d'encre",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 134527,
+            "name": "dégradation",
+            "type": 1,
+            "w": 3068
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2782
+        },
+        {
+            "id": 2177235,
+            "name": "dégradement",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152449672,
+            "node1": 15509,
+            "node2": 134527,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1156166297,
+            "node1": 15509,
+            "node2": 2177235,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1152449692,
+            "node1": 15509,
+            "node2": 463840044,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:41.525623",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005096"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 428522324,
+            "name": "complexité grammaticale",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 52119,
+            "name": "langue",
+            "type": 1,
+            "w": 12820
+        },
+        {
+            "id": 39211,
+            "name": "complexité",
+            "type": 1,
+            "w": 5115
+        },
+        {
+            "id": 250002093,
+            "name": "nombre de locuteurs",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 279989910,
+            "name": "nombre de phonèmes",
+            "type": 1,
+            "w": 27
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139341,
+            "node1": 52119,
+            "node2": 39211,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179139418,
+            "node1": 52119,
+            "node2": 250002093,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179142914,
+            "node1": 52119,
+            "node2": 279989910,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179139252,
+            "node1": 52119,
+            "node2": 428522324,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:59.019947",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "langue",
+        "#relations": 4,
+        "max_relation_weight": 31.0,
+        "#nodes": 5,
+        "duration": "0:00:00.007149"
+    }
+}

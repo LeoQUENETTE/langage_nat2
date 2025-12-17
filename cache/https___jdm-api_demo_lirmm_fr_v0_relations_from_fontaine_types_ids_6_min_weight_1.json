@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 5425,
+            "name": "machine",
+            "type": 1,
+            "w": 7846
+        },
+        {
+            "id": 137865,
+            "name": "cours d'eau",
+            "type": 1,
+            "w": 1514
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5280
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 3178868,
+            "name": "Cours d'eau",
+            "type": 777,
+            "w": 5
+        },
+        {
+            "id": 9264356,
+            "name": "en:stream",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91694,
+            "name": "fontaine",
+            "type": 1,
+            "w": 1585
+        },
+        {
+            "id": 12503940,
+            "name": "en:river",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 97619966,
+            "node1": 91694,
+            "node2": 5425,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 346624980,
+            "node1": 91694,
+            "node2": 55137,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 630192,
+            "node1": 91694,
+            "node2": 135190,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 1127190178,
+            "node1": 91694,
+            "node2": 135936,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 9901112,
+            "node1": 91694,
+            "node2": 137865,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 85130259,
+            "node1": 91694,
+            "node2": 3178868,
+            "type": 6,
+            "w": 21.0
+        },
+        {
+            "id": 598692533,
+            "node1": 91694,
+            "node2": 9264356,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 603730625,
+            "node1": 91694,
+            "node2": 12503940,
+            "type": 6,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:27.150954",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fontaine",
+        "#relations": 8,
+        "max_relation_weight": 55.0,
+        "#nodes": 9,
+        "duration": "0:00:00.012679"
+    }
+}

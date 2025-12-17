@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 14937363,
+            "name": "en:exotica",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 116162,
+            "name": "valise",
+            "type": 1,
+            "w": 793
+        },
+        {
+            "id": 109667,
+            "name": "arrivée",
+            "type": 1,
+            "w": 5343
+        },
+        {
+            "id": 97756,
+            "name": "avion",
+            "type": 1,
+            "w": 9100
+        },
+        {
+            "id": 106081,
+            "name": "arrêt",
+            "type": 1,
+            "w": 3186
+        },
+        {
+            "id": 102000,
+            "name": "hôtel",
+            "type": 1,
+            "w": 4450
+        },
+        {
+            "id": 121678,
+            "name": "route",
+            "type": 1,
+            "w": 11202
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19357
+        },
+        {
+            "id": 55077,
+            "name": "chemin",
+            "type": 1,
+            "w": 9496
+        },
+        {
+            "id": 121127,
+            "name": "exotisme",
+            "type": 1,
+            "w": 146
+        },
+        {
+            "id": 27678,
+            "name": "trajet",
+            "type": 1,
+            "w": 2187
+        },
+        {
+            "id": 143529,
+            "name": "voyage",
+            "type": 1,
+            "w": 11094
+        },
+        {
+            "id": 10564,
+            "name": "déplacement",
+            "type": 1,
+            "w": 6575
+        },
+        {
+            "id": 56720,
+            "name": "destination",
+            "type": 1,
+            "w": 3403
+        }
+    ],
+    "relations": [
+        {
+            "id": 385540,
+            "node1": 143529,
+            "node2": 6890,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 9972938,
+            "node1": 143529,
+            "node2": 10564,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 1156938200,
+            "node1": 143529,
+            "node2": 27678,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 10528044,
+            "node1": 143529,
+            "node2": 55077,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 34518156,
+            "node1": 143529,
+            "node2": 56720,
+            "type": 9,
+            "w": 64.0
+        },
+        {
+            "id": 385538,
+            "node1": 143529,
+            "node2": 97756,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 385537,
+            "node1": 143529,
+            "node2": 102000,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 1009608644,
+            "node1": 143529,
+            "node2": 106081,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 9973320,
+            "node1": 143529,
+            "node2": 109667,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131548630,
+            "node1": 143529,
+            "node2": 116162,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 14636530,
+            "node1": 143529,
+            "node2": 121127,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 385539,
+            "node1": 143529,
+            "node2": 121678,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 1055080357,
+            "node1": 143529,
+            "node2": 14937363,
+            "type": 9,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:12.635458",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voyage",
+        "#relations": 13,
+        "max_relation_weight": 64.0,
+        "#nodes": 14,
+        "duration": "0:00:00.004335"
+    }
+}

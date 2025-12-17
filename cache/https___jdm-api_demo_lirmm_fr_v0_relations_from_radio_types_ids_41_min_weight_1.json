@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 157839,
+            "name": "radio>146881",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6904512,
+            "name": "en:diagnostic",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 75987,
+            "name": "diagnostique",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 316416,
+            "name": "music",
+            "type": 777,
+            "w": 783
+        },
+        {
+            "id": 7187002,
+            "name": "en:music",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92605,
+            "name": "récepteur",
+            "type": 1,
+            "w": 1684
+        },
+        {
+            "id": 6906271,
+            "name": "en:diagnosis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 28888,
+            "name": "écoute",
+            "type": 1,
+            "w": 3838
+        },
+        {
+            "id": 8216,
+            "name": "radio",
+            "type": 1,
+            "w": 4728
+        },
+        {
+            "id": 5277,
+            "name": "diagnostic",
+            "type": 1,
+            "w": 5183
+        },
+        {
+            "id": 70527,
+            "name": "musique",
+            "type": 1,
+            "w": 22819
+        },
+        {
+            "id": 105185,
+            "name": "émission",
+            "type": 1,
+            "w": 4377
+        },
+        {
+            "id": 117902,
+            "name": "ondes",
+            "type": 1,
+            "w": 3080
+        }
+    ],
+    "relations": [
+        {
+            "id": 1691908,
+            "node1": 8216,
+            "node2": 5277,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 1691906,
+            "node1": 8216,
+            "node2": 28888,
+            "type": 41,
+            "w": 52.0
+        },
+        {
+            "id": 1781500,
+            "node1": 8216,
+            "node2": 70527,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 15575810,
+            "node1": 8216,
+            "node2": 75987,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 2449564,
+            "node1": 8216,
+            "node2": 92605,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 1691907,
+            "node1": 8216,
+            "node2": 105185,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 1781501,
+            "node1": 8216,
+            "node2": 117902,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 769569373,
+            "node1": 8216,
+            "node2": 157839,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 370035825,
+            "node1": 8216,
+            "node2": 316416,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 213784538,
+            "node1": 8216,
+            "node2": 6904512,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 320901327,
+            "node1": 8216,
+            "node2": 6906271,
+            "type": 41,
+            "w": 37.0
+        },
+        {
+            "id": 323476952,
+            "node1": 8216,
+            "node2": 7187002,
+            "type": 41,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:19.781116",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "radio",
+        "#relations": 12,
+        "max_relation_weight": 60.0,
+        "#nodes": 13,
+        "duration": "0:00:00.006923"
+    }
+}

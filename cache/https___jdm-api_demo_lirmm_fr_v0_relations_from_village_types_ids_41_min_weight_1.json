@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 85667,
+            "name": "habitants",
+            "type": 1,
+            "w": 7150
+        },
+        {
+            "id": 115106,
+            "name": "habitant",
+            "type": 1,
+            "w": 4996
+        },
+        {
+            "id": 121678,
+            "name": "route",
+            "type": 1,
+            "w": 11202
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 30387,
+            "name": "église",
+            "type": 1,
+            "w": 5061
+        },
+        {
+            "id": 49615,
+            "name": "commerce",
+            "type": 1,
+            "w": 11736
+        },
+        {
+            "id": 87887,
+            "name": "village",
+            "type": 1,
+            "w": 7445
+        },
+        {
+            "id": 133314,
+            "name": "mairie",
+            "type": 1,
+            "w": 2749
+        }
+    ],
+    "relations": [
+        {
+            "id": 283509251,
+            "node1": 87887,
+            "node2": 20564,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 3142842,
+            "node1": 87887,
+            "node2": 30387,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 3142845,
+            "node1": 87887,
+            "node2": 49615,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 3142843,
+            "node1": 87887,
+            "node2": 85667,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 3142844,
+            "node1": 87887,
+            "node2": 115106,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 1143693217,
+            "node1": 87887,
+            "node2": 121678,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14658523,
+            "node1": 87887,
+            "node2": 133314,
+            "type": 41,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:53.545489",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "village",
+        "#relations": 7,
+        "max_relation_weight": 51.0,
+        "#nodes": 8,
+        "duration": "0:00:00.007477"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 453472692,
+            "name": "chaleur du liquide",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 462294282,
+            "name": "satisfaction de soif",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 10299837,
+            "name": "vaisselle sale",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 113658,
+            "name": "déversement",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 47918,
+            "name": "boire",
+            "type": 1,
+            "w": 8736
+        },
+        {
+            "id": 14330,
+            "name": "satisfaction",
+            "type": 1,
+            "w": 7370
+        },
+        {
+            "id": 143378,
+            "name": "thé",
+            "type": 1,
+            "w": 2880
+        },
+        {
+            "id": 10998482,
+            "name": "moment de détente",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 143876,
+            "name": "laver",
+            "type": 1,
+            "w": 2714
+        },
+        {
+            "id": 2182402,
+            "name": "désaltération",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146144,
+            "name": "tasse",
+            "type": 1,
+            "w": 1179
+        },
+        {
+            "id": 208248006,
+            "name": "moment de convivialité",
+            "type": 1,
+            "w": 33
+        }
+    ],
+    "relations": [
+        {
+            "id": 1151555998,
+            "node1": 146144,
+            "node2": 14330,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 2380347,
+            "node1": 146144,
+            "node2": 47918,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 1143235121,
+            "node1": 146144,
+            "node2": 113658,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 2380346,
+            "node1": 146144,
+            "node2": 143378,
+            "type": 41,
+            "w": 57.0
+        },
+        {
+            "id": 2380344,
+            "node1": 146144,
+            "node2": 143876,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 1151555985,
+            "node1": 146144,
+            "node2": 2182402,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1151273598,
+            "node1": 146144,
+            "node2": 10299837,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1151273604,
+            "node1": 146144,
+            "node2": 10998482,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1151272179,
+            "node1": 146144,
+            "node2": 208248006,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1143234960,
+            "node1": 146144,
+            "node2": 453472692,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1151272166,
+            "node1": 146144,
+            "node2": 462294282,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:04.216367",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tasse",
+        "#relations": 11,
+        "max_relation_weight": 60.0,
+        "#nodes": 12,
+        "duration": "0:00:00.005100"
+    }
+}

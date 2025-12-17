@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 584041,
+            "name": "backstory",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 295015587,
+            "name": "backstory de personnage",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 96920,
+            "name": "joueur",
+            "type": 1,
+            "w": 5165
+        },
+        {
+            "id": 20346,
+            "name": "but",
+            "type": 1,
+            "w": 8100
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131440437,
+            "node1": 96920,
+            "node2": 20346,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 768935496,
+            "node1": 96920,
+            "node2": 584041,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 768936793,
+            "node1": 96920,
+            "node2": 295015587,
+            "type": 53,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:44.510659",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "joueur",
+        "#relations": 3,
+        "max_relation_weight": 33.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004482"
+    }
+}

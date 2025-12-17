@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 251633116,
+            "name": "réalisation de film",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 59993,
+            "name": "réalisateur",
+            "type": 1,
+            "w": 4838
+        },
+        {
+            "id": 316817,
+            "name": "création artistique",
+            "type": 1,
+            "w": 389
+        },
+        {
+            "id": 303249776,
+            "name": "tournage de comédie",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 304920430,
+            "name": "direction d'épisode",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 313688084,
+            "name": "direction de productions cinématographiques",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 313687616,
+            "name": "direction cinématographique",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 92619,
+            "name": "réalisation",
+            "type": 1,
+            "w": 6729
+        },
+        {
+            "id": 20929,
+            "name": "mise en scène",
+            "type": 1,
+            "w": 841
+        },
+        {
+            "id": 3382,
+            "name": "tournage",
+            "type": 1,
+            "w": 2324
+        },
+        {
+            "id": 267006,
+            "name": "adaptation cinématographique",
+            "type": 1,
+            "w": 113
+        },
+        {
+            "id": 227831,
+            "name": "comédie romantique",
+            "type": 1,
+            "w": 125
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046577345,
+            "node1": 59993,
+            "node2": 3382,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 720644615,
+            "node1": 59993,
+            "node2": 20929,
+            "type": 137,
+            "w": 59.0
+        },
+        {
+            "id": 765196489,
+            "node1": 59993,
+            "node2": 92619,
+            "type": 137,
+            "w": 87.0
+        },
+        {
+            "id": 948448846,
+            "node1": 59993,
+            "node2": 227831,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 948448654,
+            "node1": 59993,
+            "node2": 267006,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1029687929,
+            "node1": 59993,
+            "node2": 316817,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1068908988,
+            "node1": 59993,
+            "node2": 251633116,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 948448844,
+            "node1": 59993,
+            "node2": 303249776,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 929961111,
+            "node1": 59993,
+            "node2": 304920430,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 952383082,
+            "node1": 59993,
+            "node2": 313687616,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 952387647,
+            "node1": 59993,
+            "node2": 313688084,
+            "type": 137,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:34.127445",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "réalisateur",
+        "#relations": 11,
+        "max_relation_weight": 87.0,
+        "#nodes": 12,
+        "duration": "0:00:00.009132"
+    }
+}

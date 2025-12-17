@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 14589981,
+            "name": "cadre rectangulaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 99501,
+            "name": "cible",
+            "type": 1,
+            "w": 3850
+        },
+        {
+            "id": 54620,
+            "name": "cadre",
+            "type": 1,
+            "w": 8394
+        },
+        {
+            "id": 72257,
+            "name": "base",
+            "type": 1,
+            "w": 6437
+        },
+        {
+            "id": 20346,
+            "name": "but",
+            "type": 1,
+            "w": 8100
+        }
+    ],
+    "relations": [
+        {
+            "id": 359174691,
+            "node1": 20346,
+            "node2": 54620,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 96655442,
+            "node1": 20346,
+            "node2": 72257,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 108792379,
+            "node1": 20346,
+            "node2": 99501,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 478450996,
+            "node1": 20346,
+            "node2": 14589981,
+            "type": 6,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:52.066123",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "but",
+        "#relations": 4,
+        "max_relation_weight": 35.0,
+        "#nodes": 5,
+        "duration": "0:00:00.034717"
+    }
+}

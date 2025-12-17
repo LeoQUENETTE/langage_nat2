@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 44155,
+            "name": "grotte",
+            "type": 1,
+            "w": 1543
+        },
+        {
+            "id": 222673107,
+            "name": "formation de stalactites",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 301473640,
+            "name": "préservation de vestiges préhistoriques",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16389648,
+            "name": "découverte archéologique",
+            "type": 1,
+            "w": 51
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154346531,
+            "node1": 44155,
+            "node2": 16389648,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1154346530,
+            "node1": 44155,
+            "node2": 222673107,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 874270454,
+            "node1": 44155,
+            "node2": 301473640,
+            "type": 41,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:59.276811",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "grotte",
+        "#relations": 3,
+        "max_relation_weight": 33.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003437"
+    }
+}

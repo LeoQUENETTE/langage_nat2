@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 76539,
+            "name": "goulot",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 105716,
+            "name": "tuyau",
+            "type": 1,
+            "w": 763
+        },
+        {
+            "id": 13426031,
+            "name": "conduite d'alimentation",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 218245,
+            "name": "tuyau>57483",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 213980,
+            "name": "bassin>143608",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 2249228,
+            "name": "pond",
+            "type": 2,
+            "w": 108
+        },
+        {
+            "id": 73648,
+            "name": "bassins",
+            "type": 1,
+            "w": 185
+        },
+        {
+            "id": 16110,
+            "name": "bouche",
+            "type": 1,
+            "w": 8047
+        },
+        {
+            "id": 58867,
+            "name": "jet",
+            "type": 1,
+            "w": 1822
+        },
+        {
+            "id": 60152,
+            "name": "bassin",
+            "type": 1,
+            "w": 3354
+        },
+        {
+            "id": 13426029,
+            "name": "jets d'eau",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 57483,
+            "name": "canalisation",
+            "type": 1,
+            "w": 290
+        },
+        {
+            "id": 14096713,
+            "name": "en:pond",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91694,
+            "name": "fontaine",
+            "type": 1,
+            "w": 1585
+        },
+        {
+            "id": 93872,
+            "name": "chèvre",
+            "type": 1,
+            "w": 977
+        }
+    ],
+    "relations": [
+        {
+            "id": 348409840,
+            "node1": 91694,
+            "node2": 16110,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 348409836,
+            "node1": 91694,
+            "node2": 57483,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 10528677,
+            "node1": 91694,
+            "node2": 58867,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 348409832,
+            "node1": 91694,
+            "node2": 60152,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 348409827,
+            "node1": 91694,
+            "node2": 73648,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 348409829,
+            "node1": 91694,
+            "node2": 76539,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 348409823,
+            "node1": 91694,
+            "node2": 93872,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 371858967,
+            "node1": 91694,
+            "node2": 105716,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 348409837,
+            "node1": 91694,
+            "node2": 213980,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 371858969,
+            "node1": 91694,
+            "node2": 218245,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 1080936740,
+            "node1": 91694,
+            "node2": 2249228,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 1131446455,
+            "node1": 91694,
+            "node2": 13426029,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 348409821,
+            "node1": 91694,
+            "node2": 13426031,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1022895009,
+            "node1": 91694,
+            "node2": 14096713,
+            "type": 9,
+            "w": 18.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:28.430048",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fontaine",
+        "#relations": 14,
+        "max_relation_weight": 55.0,
+        "#nodes": 15,
+        "duration": "0:00:00.005065"
+    }
+}

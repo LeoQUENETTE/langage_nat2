@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 142707,
+            "name": "hache",
+            "type": 1,
+            "w": 389
+        },
+        {
+            "id": 43427,
+            "name": "cognée",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 139377,
+            "name": "lame",
+            "type": 1,
+            "w": 1552
+        },
+        {
+            "id": 143281,
+            "name": "manche",
+            "type": 1,
+            "w": 2460
+        },
+        {
+            "id": 144846,
+            "name": "tête",
+            "type": 1,
+            "w": 31462
+        },
+        {
+            "id": 214699,
+            "name": "lame>132542",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 61182,
+            "name": "tranchant",
+            "type": 1,
+            "w": 290
+        }
+    ],
+    "relations": [
+        {
+            "id": 1972987,
+            "node1": 142707,
+            "node2": 43427,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 765259227,
+            "node1": 142707,
+            "node2": 61182,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1972988,
+            "node1": 142707,
+            "node2": 139377,
+            "type": 9,
+            "w": 42.0
+        },
+        {
+            "id": 1972989,
+            "node1": 142707,
+            "node2": 143281,
+            "type": 9,
+            "w": 393.0
+        },
+        {
+            "id": 765259226,
+            "node1": 142707,
+            "node2": 144846,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1972990,
+            "node1": 142707,
+            "node2": 214699,
+            "type": 9,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:23.010936",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "hache",
+        "#relations": 6,
+        "max_relation_weight": 393.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004338"
+    }
+}

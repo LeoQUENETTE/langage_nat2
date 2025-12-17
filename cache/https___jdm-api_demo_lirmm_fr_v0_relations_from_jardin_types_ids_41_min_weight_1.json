@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8724
+        },
+        {
+            "id": 61185,
+            "name": "pelle",
+            "type": 1,
+            "w": 1115
+        },
+        {
+            "id": 20965,
+            "name": "nourriture",
+            "type": 1,
+            "w": 6961
+        },
+        {
+            "id": 164736499,
+            "name": "amélioration de l'environnement",
+            "type": 1,
+            "w": 93
+        }
+    ],
+    "relations": [
+        {
+            "id": 102054112,
+            "node1": 139575,
+            "node2": 20965,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14658614,
+            "node1": 139575,
+            "node2": 61185,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 1152638972,
+            "node1": 139575,
+            "node2": 164736499,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:43.460796",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 3,
+        "max_relation_weight": 35.0,
+        "#nodes": 4,
+        "duration": "0:00:00.006998"
+    }
+}

@@ -1,0 +1,417 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 140902,
+            "name": "étoffe",
+            "type": 1,
+            "w": 464
+        },
+        {
+            "id": 267423,
+            "name": "institution religieuse",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 214224,
+            "name": "bâtiment>55137",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 224651,
+            "name": "édifice religieux",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 15093078,
+            "name": "en:seven wonders of the world",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428890,
+            "name": "les Sept Merveilles du monde",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428891,
+            "name": "en:the Seven Wonders of the World",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11340396,
+            "name": "Sept Merveilles du monde",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15093079,
+            "name": "en:Seven Wonders of the World",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45109,
+            "name": "édifice",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12262
+        },
+        {
+            "id": 65524,
+            "name": "bâtiment",
+            "type": 1,
+            "w": 4892
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 6605,
+            "name": "instrument",
+            "type": 1,
+            "w": 5656
+        },
+        {
+            "id": 5945,
+            "name": "temple",
+            "type": 1,
+            "w": 3494
+        },
+        {
+            "id": 102105,
+            "name": "monument",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 224468,
+            "name": "sept merveilles du monde",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 15528657,
+            "name": "en:the seven wonders of the world",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 389567,
+            "name": "édifice cultuel",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 10498112,
+            "name": "temple bouddhiste",
+            "type": 777,
+            "w": 27
+        },
+        {
+            "id": 11340399,
+            "name": "Sept Merveilles du Monde",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 57724,
+            "name": "lieu de culte",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 119413,
+            "name": "vestige",
+            "type": 1,
+            "w": 298
+        }
+    ],
+    "relations": [
+        {
+            "id": 937530234,
+            "node1": 5945,
+            "node2": 237,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 82361745,
+            "node1": 5945,
+            "node2": 6605,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 56398765,
+            "node1": 5945,
+            "node2": 30843,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 2378898,
+            "node1": 5945,
+            "node2": 45109,
+            "type": 6,
+            "w": 94.0
+        },
+        {
+            "id": 2378897,
+            "node1": 5945,
+            "node2": 55137,
+            "type": 6,
+            "w": 88.0
+        },
+        {
+            "id": 9923797,
+            "node1": 5945,
+            "node2": 57724,
+            "type": 6,
+            "w": 88.0
+        },
+        {
+            "id": 97386266,
+            "node1": 5945,
+            "node2": 65524,
+            "type": 6,
+            "w": 90.0
+        },
+        {
+            "id": 9905827,
+            "node1": 5945,
+            "node2": 102105,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 274941331,
+            "node1": 5945,
+            "node2": 119413,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 348408824,
+            "node1": 5945,
+            "node2": 134218,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 629040,
+            "node1": 5945,
+            "node2": 135190,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 57982600,
+            "node1": 5945,
+            "node2": 140902,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 537442525,
+            "node1": 5945,
+            "node2": 157283,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 14464727,
+            "node1": 5945,
+            "node2": 214224,
+            "type": 6,
+            "w": 21.0
+        },
+        {
+            "id": 9905821,
+            "node1": 5945,
+            "node2": 224468,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 9905835,
+            "node1": 5945,
+            "node2": 224651,
+            "type": 6,
+            "w": 92.0
+        },
+        {
+            "id": 937532532,
+            "node1": 5945,
+            "node2": 246870,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 1150459081,
+            "node1": 5945,
+            "node2": 267423,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 348408825,
+            "node1": 5945,
+            "node2": 325138,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 274941334,
+            "node1": 5945,
+            "node2": 389567,
+            "type": 6,
+            "w": 92.0
+        },
+        {
+            "id": 260297497,
+            "node1": 5945,
+            "node2": 10498112,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 376427624,
+            "node1": 5945,
+            "node2": 11340396,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 376427581,
+            "node1": 5945,
+            "node2": 11340399,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 537442526,
+            "node1": 5945,
+            "node2": 14094383,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 774937350,
+            "node1": 5945,
+            "node2": 15093078,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 618929840,
+            "node1": 5945,
+            "node2": 15093079,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 705461951,
+            "node1": 5945,
+            "node2": 15428890,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 705461942,
+            "node1": 5945,
+            "node2": 15428891,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 774936794,
+            "node1": 5945,
+            "node2": 15528657,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:09.509629",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "temple",
+        "#relations": 29,
+        "max_relation_weight": 94.0,
+        "#nodes": 30,
+        "duration": "0:00:00.004535"
+    }
+}

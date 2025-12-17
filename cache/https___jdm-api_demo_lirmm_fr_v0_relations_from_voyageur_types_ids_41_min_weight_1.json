@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 21233,
+            "name": "wagon",
+            "type": 1,
+            "w": 939
+        },
+        {
+            "id": 2493516,
+            "name": "waguine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 82003,
+            "name": "voyageur",
+            "type": 1,
+            "w": 1331
+        },
+        {
+            "id": 15541896,
+            "name": "chariotte",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15110008,
+            "name": "en:Wagon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9779311,
+            "name": "en:wagon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2397727,
+            "name": "vagon",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 14658799,
+            "node1": 82003,
+            "node2": 21233,
+            "type": 41,
+            "w": 82.0
+        },
+        {
+            "id": 98825370,
+            "node1": 82003,
+            "node2": 2397727,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1026841380,
+            "node1": 82003,
+            "node2": 2493516,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 227943761,
+            "node1": 82003,
+            "node2": 9779311,
+            "type": 41,
+            "w": 80.0
+        },
+        {
+            "id": 964292522,
+            "node1": 82003,
+            "node2": 15110008,
+            "type": 41,
+            "w": 16.0
+        },
+        {
+            "id": 1079369884,
+            "node1": 82003,
+            "node2": 15541896,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:46.194417",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voyageur",
+        "#relations": 6,
+        "max_relation_weight": 82.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004745"
+    }
+}

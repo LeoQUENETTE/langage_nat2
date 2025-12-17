@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 259129,
+            "name": "oreille fine",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 83570,
+            "name": "partition",
+            "type": 1,
+            "w": 2550
+        },
+        {
+            "id": 39204,
+            "name": "guitare",
+            "type": 1,
+            "w": 3592
+        },
+        {
+            "id": 295965042,
+            "name": "bouchons d'oreilles moulés",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 91594,
+            "name": "instrument de musique",
+            "type": 1,
+            "w": 622
+        },
+        {
+            "id": 140565,
+            "name": "style",
+            "type": 1,
+            "w": 7772
+        },
+        {
+            "id": 6605,
+            "name": "instrument",
+            "type": 1,
+            "w": 5646
+        },
+        {
+            "id": 75334,
+            "name": "musicien",
+            "type": 1,
+            "w": 3626
+        },
+        {
+            "id": 50195,
+            "name": "piano",
+            "type": 1,
+            "w": 3500
+        },
+        {
+            "id": 117739,
+            "name": "clavier",
+            "type": 1,
+            "w": 3527
+        }
+    ],
+    "relations": [
+        {
+            "id": 785994600,
+            "node1": 75334,
+            "node2": 6605,
+            "type": 121,
+            "w": 74.0
+        },
+        {
+            "id": 775088944,
+            "node1": 75334,
+            "node2": 39204,
+            "type": 121,
+            "w": 43.0
+        },
+        {
+            "id": 1152616973,
+            "node1": 75334,
+            "node2": 50195,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1046569759,
+            "node1": 75334,
+            "node2": 83570,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 766391690,
+            "node1": 75334,
+            "node2": 91594,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 1046569703,
+            "node1": 75334,
+            "node2": 117739,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1025690415,
+            "node1": 75334,
+            "node2": 140565,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1034822259,
+            "node1": 75334,
+            "node2": 259129,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 770221564,
+            "node1": 75334,
+            "node2": 295965042,
+            "type": 121,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:01.001879",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "musicien",
+        "#relations": 9,
+        "max_relation_weight": 74.0,
+        "#nodes": 10,
+        "duration": "0:00:00.008253"
+    }
+}

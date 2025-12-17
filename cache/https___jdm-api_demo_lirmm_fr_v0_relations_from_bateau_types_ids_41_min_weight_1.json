@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 462279740,
+            "name": "sortie en mer réussie",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 38784,
+            "name": "naufrage",
+            "type": 1,
+            "w": 649
+        },
+        {
+            "id": 107150,
+            "name": "bateau",
+            "type": 1,
+            "w": 7792
+        },
+        {
+            "id": 414769725,
+            "name": "loisir maritime",
+            "type": 1,
+            "w": 1
+        },
+        {
+            "id": 252009,
+            "name": "transport de marchandises",
+            "type": 1,
+            "w": 127
+        },
+        {
+            "id": 151819272,
+            "name": "accident maritime",
+            "type": 1,
+            "w": 32
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152598285,
+            "node1": 107150,
+            "node2": 38784,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1152598298,
+            "node1": 107150,
+            "node2": 252009,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1154185968,
+            "node1": 107150,
+            "node2": 151819272,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155746604,
+            "node1": 107150,
+            "node2": 414769725,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1151268949,
+            "node1": 107150,
+            "node2": 462279740,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:18.770329",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bateau",
+        "#relations": 5,
+        "max_relation_weight": 27.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005040"
+    }
+}

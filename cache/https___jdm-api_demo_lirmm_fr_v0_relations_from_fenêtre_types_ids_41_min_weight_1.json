@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 46371,
+            "name": "aération",
+            "type": 1,
+            "w": 255
+        },
+        {
+            "id": 102816,
+            "name": "vue",
+            "type": 1,
+            "w": 7516
+        },
+        {
+            "id": 141906,
+            "name": "fenêtre",
+            "type": 1,
+            "w": 6151
+        }
+    ],
+    "relations": [
+        {
+            "id": 1020891238,
+            "node1": 141906,
+            "node2": 46371,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14658784,
+            "node1": 141906,
+            "node2": 102816,
+            "type": 41,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:20.791832",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fenêtre",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004511"
+    }
+}

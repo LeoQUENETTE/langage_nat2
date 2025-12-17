@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 14945901,
+            "name": "en:laryngophone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141473,
+            "name": "casque",
+            "type": 1,
+            "w": 1303
+        },
+        {
+            "id": 148863,
+            "name": "laryngophone",
+            "type": 1,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 11333427,
+            "node1": 141473,
+            "node2": 148863,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 617034921,
+            "node1": 141473,
+            "node2": 14945901,
+            "type": 28,
+            "w": 14.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:33.342493",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "casque",
+        "#relations": 2,
+        "max_relation_weight": 38.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003972"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 128482,
+            "name": "baguette",
+            "type": 1,
+            "w": 3040
+        },
+        {
+            "id": 238467,
+            "name": "tranchette",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 213430,
+            "name": "miche>61283",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 61283,
+            "name": "pain",
+            "type": 1,
+            "w": 5782
+        },
+        {
+            "id": 84547,
+            "name": "fournée",
+            "type": 1,
+            "w": 138
+        },
+        {
+            "id": 38361,
+            "name": "miette",
+            "type": 1,
+            "w": 284
+        },
+        {
+            "id": 65364,
+            "name": "morceau",
+            "type": 1,
+            "w": 4210
+        },
+        {
+            "id": 56924,
+            "name": "bout",
+            "type": 1,
+            "w": 8474
+        },
+        {
+            "id": 73508,
+            "name": "quignon",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 7003,
+            "name": "miche",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 143123,
+            "name": "tranche",
+            "type": 1,
+            "w": 926
+        },
+        {
+            "id": 234301,
+            "name": "morceau>20965",
+            "type": 1,
+            "w": 64
+        }
+    ],
+    "relations": [
+        {
+            "id": 96715953,
+            "node1": 61283,
+            "node2": 7003,
+            "type": 58,
+            "w": 46.0
+        },
+        {
+            "id": 96715917,
+            "node1": 61283,
+            "node2": 38361,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 96715937,
+            "node1": 61283,
+            "node2": 56924,
+            "type": 58,
+            "w": 22.0
+        },
+        {
+            "id": 96715935,
+            "node1": 61283,
+            "node2": 65364,
+            "type": 58,
+            "w": 34.0
+        },
+        {
+            "id": 96715913,
+            "node1": 61283,
+            "node2": 73508,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 96715918,
+            "node1": 61283,
+            "node2": 84547,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 765218082,
+            "node1": 61283,
+            "node2": 128482,
+            "type": 58,
+            "w": 26.0
+        },
+        {
+            "id": 96715912,
+            "node1": 61283,
+            "node2": 143123,
+            "type": 58,
+            "w": 29.0
+        },
+        {
+            "id": 96715932,
+            "node1": 61283,
+            "node2": 213430,
+            "type": 58,
+            "w": 27.0
+        },
+        {
+            "id": 96715931,
+            "node1": 61283,
+            "node2": 234301,
+            "type": 58,
+            "w": 29.0
+        },
+        {
+            "id": 96715936,
+            "node1": 61283,
+            "node2": 238467,
+            "type": 58,
+            "w": 21.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:42.830639",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pain",
+        "#relations": 11,
+        "max_relation_weight": 46.0,
+        "#nodes": 12,
+        "duration": "0:00:00.006949"
+    }
+}

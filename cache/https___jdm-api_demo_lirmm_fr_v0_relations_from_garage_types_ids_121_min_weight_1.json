@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 270210947,
+            "name": "outils mécaniques",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 130361,
+            "name": "garage",
+            "type": 1,
+            "w": 1413
+        },
+        {
+            "id": 146265,
+            "name": "carter",
+            "type": 1,
+            "w": 187
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046570351,
+            "node1": 130361,
+            "node2": 146265,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 770910079,
+            "node1": 130361,
+            "node2": 270210947,
+            "type": 121,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:08.141602",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "garage",
+        "#relations": 2,
+        "max_relation_weight": 29.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004328"
+    }
+}

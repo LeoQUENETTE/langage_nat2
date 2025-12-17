@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 98634,
+            "name": "perception visuelle",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 15684151,
+            "name": "en:selection criterion",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 266320506,
+            "name": "propriété visuelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 47593,
+            "name": "nuance",
+            "type": 1,
+            "w": 964
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 111141,
+            "name": "propriété",
+            "type": 1,
+            "w": 7081
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 345289,
+            "name": "critère de sélection",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 11358,
+            "name": "substance",
+            "type": 1,
+            "w": 4567
+        },
+        {
+            "id": 88443,
+            "name": "coloration",
+            "type": 1,
+            "w": 398
+        },
+        {
+            "id": 17226,
+            "name": "teinte",
+            "type": 1,
+            "w": 575
+        },
+        {
+            "id": 72052,
+            "name": "ton",
+            "type": 1,
+            "w": 36889
+        }
+    ],
+    "relations": [
+        {
+            "id": 34663290,
+            "node1": 40056,
+            "node2": 11358,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 435145,
+            "node1": 40056,
+            "node2": 17226,
+            "type": 6,
+            "w": 761.65
+        },
+        {
+            "id": 1179786870,
+            "node1": 40056,
+            "node2": 47593,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 435141,
+            "node1": 40056,
+            "node2": 72052,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 435142,
+            "node1": 40056,
+            "node2": 88443,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 108791420,
+            "node1": 40056,
+            "node2": 98634,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 76184296,
+            "node1": 40056,
+            "node2": 111141,
+            "type": 6,
+            "w": 744.14
+        },
+        {
+            "id": 1004005393,
+            "node1": 40056,
+            "node2": 316850,
+            "type": 6,
+            "w": 20.8
+        },
+        {
+            "id": 113205975,
+            "node1": 40056,
+            "node2": 345289,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 704441165,
+            "node1": 40056,
+            "node2": 15684151,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1150460333,
+            "node1": 40056,
+            "node2": 266320506,
+            "type": 6,
+            "w": 733.56
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:50.990082",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couleur",
+        "#relations": 11,
+        "max_relation_weight": 1000.0,
+        "#nodes": 12,
+        "duration": "0:00:00.095597"
+    }
+}

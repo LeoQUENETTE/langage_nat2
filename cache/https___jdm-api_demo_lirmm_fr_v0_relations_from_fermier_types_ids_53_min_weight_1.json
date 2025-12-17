@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 105995,
+            "name": "légumes",
+            "type": 1,
+            "w": 2428
+        },
+        {
+            "id": 86296,
+            "name": "lait",
+            "type": 1,
+            "w": 4800
+        },
+        {
+            "id": 213700,
+            "name": "fromage>106670",
+            "type": 1,
+            "w": 598
+        },
+        {
+            "id": 40470,
+            "name": "récolte",
+            "type": 1,
+            "w": 3464
+        },
+        {
+            "id": 141687,
+            "name": "fromage",
+            "type": 1,
+            "w": 4857
+        },
+        {
+            "id": 111749,
+            "name": "produits laitiers",
+            "type": 1,
+            "w": 485
+        },
+        {
+            "id": 120603,
+            "name": "légume",
+            "type": 1,
+            "w": 3160
+        },
+        {
+            "id": 88767,
+            "name": "fermier",
+            "type": 1,
+            "w": 925
+        },
+        {
+            "id": 153665,
+            "name": "oeufs",
+            "type": 1,
+            "w": 1434
+        },
+        {
+            "id": 327294496,
+            "name": "recolte",
+            "type": 1,
+            "w": 27
+        }
+    ],
+    "relations": [
+        {
+            "id": 789378944,
+            "node1": 88767,
+            "node2": 40470,
+            "type": 53,
+            "w": 38.0
+        },
+        {
+            "id": 1008159740,
+            "node1": 88767,
+            "node2": 86296,
+            "type": 53,
+            "w": 58.0
+        },
+        {
+            "id": 789045547,
+            "node1": 88767,
+            "node2": 105995,
+            "type": 53,
+            "w": 37.0
+        },
+        {
+            "id": 807379516,
+            "node1": 88767,
+            "node2": 111749,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 1154161742,
+            "node1": 88767,
+            "node2": 120603,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376992463,
+            "node1": 88767,
+            "node2": 141687,
+            "type": 53,
+            "w": 52.0
+        },
+        {
+            "id": 478371555,
+            "node1": 88767,
+            "node2": 153665,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 376989755,
+            "node1": 88767,
+            "node2": 213700,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 1040288404,
+            "node1": 88767,
+            "node2": 327294496,
+            "type": 53,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:02.058738",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fermier",
+        "#relations": 9,
+        "max_relation_weight": 58.0,
+        "#nodes": 10,
+        "duration": "0:00:00.012789"
+    }
+}

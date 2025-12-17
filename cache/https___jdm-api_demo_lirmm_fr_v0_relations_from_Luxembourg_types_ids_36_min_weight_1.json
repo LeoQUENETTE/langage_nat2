@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 16595901,
+            "name": "_INFO-SEM-DET",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 2585997,
+            "name": "_INFO-CNRTL-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 17734,
+            "name": "Luxembourg",
+            "type": 1,
+            "w": 3420
+        },
+        {
+            "id": 458629,
+            "name": "_INFO-SEM-PLACE-HUMAN",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 264749,
+            "name": "_INFO-SEM-NAMED-ENTITY",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458628,
+            "name": "_INFO-SEM-PLACE-GEO",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 16606207,
+            "name": "_INFO-SEM-NODET",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 667921,
+            "node1": 17734,
+            "node2": 162759,
+            "type": 36,
+            "w": 48.0
+        },
+        {
+            "id": 390343097,
+            "node1": 17734,
+            "node2": 217817,
+            "type": 36,
+            "w": 324.0
+        },
+        {
+            "id": 26600086,
+            "node1": 17734,
+            "node2": 223172,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 2001082,
+            "node1": 17734,
+            "node2": 223173,
+            "type": 36,
+            "w": 158.0
+        },
+        {
+            "id": 9203389,
+            "node1": 17734,
+            "node2": 241794,
+            "type": 36,
+            "w": 179.0
+        },
+        {
+            "id": 2322436,
+            "node1": 17734,
+            "node2": 254876,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 9248174,
+            "node1": 17734,
+            "node2": 254877,
+            "type": 36,
+            "w": 49.0
+        },
+        {
+            "id": 27359083,
+            "node1": 17734,
+            "node2": 254878,
+            "type": 36,
+            "w": 8.0
+        },
+        {
+            "id": 3035433,
+            "node1": 17734,
+            "node2": 264749,
+            "type": 36,
+            "w": 47.0
+        },
+        {
+            "id": 1178888191,
+            "node1": 17734,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 9011251,
+            "node1": 17734,
+            "node2": 317324,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 8933238,
+            "node1": 17734,
+            "node2": 317329,
+            "type": 36,
+            "w": 22.0
+        },
+        {
+            "id": 16108429,
+            "node1": 17734,
+            "node2": 458628,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 16113503,
+            "node1": 17734,
+            "node2": 458629,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 93198447,
+            "node1": 17734,
+            "node2": 2585997,
+            "type": 36,
+            "w": 60.0
+        },
+        {
+            "id": 477268867,
+            "node1": 17734,
+            "node2": 16595901,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 536290723,
+            "node1": 17734,
+            "node2": 16606207,
+            "type": 36,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:03.801486",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Luxembourg",
+        "#relations": 17,
+        "max_relation_weight": 324.0,
+        "#nodes": 18,
+        "duration": "0:00:00.012329"
+    }
+}

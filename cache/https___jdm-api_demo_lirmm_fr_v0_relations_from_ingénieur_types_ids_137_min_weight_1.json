@@ -1,0 +1,300 @@
+{
+    "nodes": [
+        {
+            "id": 261787438,
+            "name": "conception technologique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 89162,
+            "name": "séquençage",
+            "type": 1,
+            "w": 507
+        },
+        {
+            "id": 15337930,
+            "name": "développement de produits",
+            "type": 1,
+            "w": 109
+        },
+        {
+            "id": 101661,
+            "name": "ingénieur",
+            "type": 1,
+            "w": 3255
+        },
+        {
+            "id": 349677,
+            "name": "développement technologique",
+            "type": 1,
+            "w": 697
+        },
+        {
+            "id": 259412029,
+            "name": "calcul de résistance",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92619,
+            "name": "réalisation",
+            "type": 1,
+            "w": 6729
+        },
+        {
+            "id": 408535404,
+            "name": "développement fusée",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15694777,
+            "name": "modélisation 3D",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 4658,
+            "name": "moteur",
+            "type": 1,
+            "w": 4792
+        },
+        {
+            "id": 43207,
+            "name": "développement",
+            "type": 1,
+            "w": 31581
+        },
+        {
+            "id": 96071,
+            "name": "maintenance",
+            "type": 1,
+            "w": 2217
+        },
+        {
+            "id": 91343,
+            "name": "conception",
+            "type": 1,
+            "w": 6810
+        },
+        {
+            "id": 15322191,
+            "name": "conception industrielle",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 265117164,
+            "name": "extraction pétrolière",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 10529,
+            "name": "IA",
+            "type": 1,
+            "w": 10295
+        },
+        {
+            "id": 284919,
+            "name": "séquençage du génome humain",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 383048,
+            "name": "technologie spatiale",
+            "type": 1,
+            "w": 212
+        },
+        {
+            "id": 218241203,
+            "name": "conception de missile",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 252286790,
+            "name": "conception technique",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 296589972,
+            "name": "texturation de surface",
+            "type": 1,
+            "w": 45
+        }
+    ],
+    "relations": [
+        {
+            "id": 775109963,
+            "node1": 101661,
+            "node2": 4658,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1046577451,
+            "node1": 101661,
+            "node2": 10529,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1029674463,
+            "node1": 101661,
+            "node2": 43207,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 384631044,
+            "node1": 101661,
+            "node2": 89162,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 720644642,
+            "node1": 101661,
+            "node2": 91343,
+            "type": 137,
+            "w": 89.0
+        },
+        {
+            "id": 720644617,
+            "node1": 101661,
+            "node2": 92619,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109740,
+            "node1": 101661,
+            "node2": 96071,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 384631038,
+            "node1": 101661,
+            "node2": 284919,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 809209492,
+            "node1": 101661,
+            "node2": 349677,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 1077471122,
+            "node1": 101661,
+            "node2": 383048,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 951097694,
+            "node1": 101661,
+            "node2": 15322191,
+            "type": 137,
+            "w": 36.0
+        },
+        {
+            "id": 1020816658,
+            "node1": 101661,
+            "node2": 15337930,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 948448588,
+            "node1": 101661,
+            "node2": 15694777,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 948320861,
+            "node1": 101661,
+            "node2": 218241203,
+            "type": 137,
+            "w": 33.0
+        },
+        {
+            "id": 952374944,
+            "node1": 101661,
+            "node2": 252286790,
+            "type": 137,
+            "w": 54.0
+        },
+        {
+            "id": 1008745910,
+            "node1": 101661,
+            "node2": 259412029,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1019703572,
+            "node1": 101661,
+            "node2": 261787438,
+            "type": 137,
+            "w": 28.0
+        },
+        {
+            "id": 1131901932,
+            "node1": 101661,
+            "node2": 265117164,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 775109962,
+            "node1": 101661,
+            "node2": 296589972,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1072654593,
+            "node1": 101661,
+            "node2": 408535404,
+            "type": 137,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:34.207371",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ingénieur",
+        "#relations": 20,
+        "max_relation_weight": 89.0,
+        "#nodes": 21,
+        "duration": "0:00:00.010863"
+    }
+}

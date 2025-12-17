@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 171790432,
+            "name": "réduction du temps de trajet",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 349679,
+            "name": "développement urbain",
+            "type": 1,
+            "w": 230
+        },
+        {
+            "id": 299251535,
+            "name": "liaison entre deux rives",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 299253102,
+            "name": "désengorgement du trafic",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 301534566,
+            "name": "franchissement d'obstacle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 301534567,
+            "name": "liaison entre rives",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 278083066,
+            "name": "facilitation des déplacements",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 153086,
+            "name": "grasse matinée",
+            "type": 1,
+            "w": 398
+        },
+        {
+            "id": 69182,
+            "name": "partir",
+            "type": 1,
+            "w": 17755
+        },
+        {
+            "id": 186484974,
+            "name": "intégration régionale",
+            "type": 1,
+            "w": 516
+        },
+        {
+            "id": 91356,
+            "name": "pont",
+            "type": 1,
+            "w": 5273
+        },
+        {
+            "id": 126758,
+            "name": "vacances",
+            "type": 1,
+            "w": 5362
+        },
+        {
+            "id": 15241465,
+            "name": "en:lie-in, lazy morning",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 52710,
+            "name": "désenclavement",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 212284,
+            "name": "développement économique",
+            "type": 1,
+            "w": 2710
+        },
+        {
+            "id": 252790218,
+            "name": "Intégration régionale",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 145877111,
+            "name": "amélioration de la sécurité",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 172161702,
+            "name": "amélioration de la circulation",
+            "type": 1,
+            "w": 27
+        }
+    ],
+    "relations": [
+        {
+            "id": 794844094,
+            "node1": 91356,
+            "node2": 52710,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 14651377,
+            "node1": 91356,
+            "node2": 69182,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14642116,
+            "node1": 91356,
+            "node2": 126758,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 14653686,
+            "node1": 91356,
+            "node2": 153086,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 794845821,
+            "node1": 91356,
+            "node2": 212284,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 794853024,
+            "node1": 91356,
+            "node2": 349679,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 484723381,
+            "node1": 91356,
+            "node2": 15241465,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 794853103,
+            "node1": 91356,
+            "node2": 145877111,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 794847814,
+            "node1": 91356,
+            "node2": 171790432,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 794851948,
+            "node1": 91356,
+            "node2": 172161702,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 794853075,
+            "node1": 91356,
+            "node2": 186484974,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1122669769,
+            "node1": 91356,
+            "node2": 252790218,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 794832498,
+            "node1": 91356,
+            "node2": 278083066,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 794852992,
+            "node1": 91356,
+            "node2": 299251535,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 794853073,
+            "node1": 91356,
+            "node2": 299253102,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 880079114,
+            "node1": 91356,
+            "node2": 301534566,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 880079117,
+            "node1": 91356,
+            "node2": 301534567,
+            "type": 41,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:49.205914",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pont",
+        "#relations": 17,
+        "max_relation_weight": 36.0,
+        "#nodes": 18,
+        "duration": "0:00:00.035417"
+    }
+}

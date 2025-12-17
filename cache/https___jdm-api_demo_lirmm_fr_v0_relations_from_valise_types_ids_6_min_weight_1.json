@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 9224938,
+            "name": "objet inanimé",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15235205,
+            "name": "bagage rigide",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 116162,
+            "name": "valise",
+            "type": 1,
+            "w": 793
+        },
+        {
+            "id": 106265,
+            "name": "appareil",
+            "type": 1,
+            "w": 3955
+        },
+        {
+            "id": 133867,
+            "name": "bagage",
+            "type": 1,
+            "w": 748
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        }
+    ],
+    "relations": [
+        {
+            "id": 1127193183,
+            "node1": 116162,
+            "node2": 106265,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 12138421,
+            "node1": 116162,
+            "node2": 133867,
+            "type": 6,
+            "w": 214.0
+        },
+        {
+            "id": 629112,
+            "node1": 116162,
+            "node2": 135190,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 910644536,
+            "node1": 116162,
+            "node2": 9224938,
+            "type": 6,
+            "w": 5.0
+        },
+        {
+            "id": 535752493,
+            "node1": 116162,
+            "node2": 15235205,
+            "type": 6,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:41.790662",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "valise",
+        "#relations": 5,
+        "max_relation_weight": 214.0,
+        "#nodes": 6,
+        "duration": "0:00:00.013054"
+    }
+}

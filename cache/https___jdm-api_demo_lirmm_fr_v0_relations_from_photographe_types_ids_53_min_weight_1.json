@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 311043178,
+            "name": "cliché compromettant",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 315428,
+            "name": "photographies",
+            "type": 777,
+            "w": 1746
+        },
+        {
+            "id": 320031948,
+            "name": "cliché artistique",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 1376,
+            "name": "photographie",
+            "type": 1,
+            "w": 5544
+        },
+        {
+            "id": 70992,
+            "name": "cliché",
+            "type": 1,
+            "w": 549
+        },
+        {
+            "id": 153600,
+            "name": "images",
+            "type": 1,
+            "w": 6025
+        },
+        {
+            "id": 52442,
+            "name": "photo",
+            "type": 1,
+            "w": 4923
+        },
+        {
+            "id": 118812,
+            "name": "photographe",
+            "type": 1,
+            "w": 2620
+        },
+        {
+            "id": 3740966,
+            "name": "images numériques",
+            "type": 1,
+            "w": 26
+        }
+    ],
+    "relations": [
+        {
+            "id": 795635549,
+            "node1": 118812,
+            "node2": 1376,
+            "type": 53,
+            "w": 90.0
+        },
+        {
+            "id": 765218220,
+            "node1": 118812,
+            "node2": 52442,
+            "type": 53,
+            "w": 91.0
+        },
+        {
+            "id": 1131440251,
+            "node1": 118812,
+            "node2": 70992,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 1150775880,
+            "node1": 118812,
+            "node2": 153600,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 795646663,
+            "node1": 118812,
+            "node2": 315428,
+            "type": 53,
+            "w": 45.0
+        },
+        {
+            "id": 1150543286,
+            "node1": 118812,
+            "node2": 3740966,
+            "type": 53,
+            "w": 69.0
+        },
+        {
+            "id": 940989950,
+            "node1": 118812,
+            "node2": 311043178,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 991315768,
+            "node1": 118812,
+            "node2": 320031948,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:37.131894",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "photographe",
+        "#relations": 8,
+        "max_relation_weight": 91.0,
+        "#nodes": 9,
+        "duration": "0:00:00.006887"
+    }
+}

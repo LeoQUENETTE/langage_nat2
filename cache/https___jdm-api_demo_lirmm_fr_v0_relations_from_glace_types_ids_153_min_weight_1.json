@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 183748,
+            "name": "point de fusion",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 141964,
+            "name": "glace",
+            "type": 1,
+            "w": 5802
+        },
+        {
+            "id": 13070,
+            "name": "épaisseur",
+            "type": 1,
+            "w": 396
+        },
+        {
+            "id": 58229,
+            "name": "froideur",
+            "type": 1,
+            "w": 249
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139590,
+            "node1": 141964,
+            "node2": 13070,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 765217953,
+            "node1": 141964,
+            "node2": 58229,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179139071,
+            "node1": 141964,
+            "node2": 183748,
+            "type": 153,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:44.680819",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "glace",
+        "#relations": 3,
+        "max_relation_weight": 33.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003439"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 21532,
+            "name": "chat à neuf queues",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 8595,
+            "name": "corde",
+            "type": 1,
+            "w": 3415
+        },
+        {
+            "id": 115507,
+            "name": "échelle",
+            "type": 1,
+            "w": 5677
+        },
+        {
+            "id": 250961,
+            "name": "corde à linge",
+            "type": 1,
+            "w": 76
+        }
+    ],
+    "relations": [
+        {
+            "id": 376052959,
+            "node1": 8595,
+            "node2": 21532,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 720838521,
+            "node1": 8595,
+            "node2": 115507,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 1177796882,
+            "node1": 8595,
+            "node2": 250961,
+            "type": 51,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:06.956660",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "corde",
+        "#relations": 3,
+        "max_relation_weight": 29.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003434"
+    }
+}

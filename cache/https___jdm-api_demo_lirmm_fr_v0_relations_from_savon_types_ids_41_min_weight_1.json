@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 445643768,
+            "name": "se cabrer>78317",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 26608,
+            "name": "savon",
+            "type": 1,
+            "w": 1377
+        },
+        {
+            "id": 109733,
+            "name": "propreté",
+            "type": 1,
+            "w": 700
+        },
+        {
+            "id": 262505,
+            "name": "blessure d'amour-propre",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 39576,
+            "name": "se cabrer",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 158612,
+            "name": "être propre",
+            "type": 1,
+            "w": 1156
+        },
+        {
+            "id": 18777,
+            "name": "bulle",
+            "type": 1,
+            "w": 1864
+        }
+    ],
+    "relations": [
+        {
+            "id": 14659002,
+            "node1": 26608,
+            "node2": 18777,
+            "type": 41,
+            "w": 95.0
+        },
+        {
+            "id": 1143446333,
+            "node1": 26608,
+            "node2": 39576,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1181088439,
+            "node1": 26608,
+            "node2": 109733,
+            "type": 41,
+            "w": 40.0
+        },
+        {
+            "id": 14641594,
+            "node1": 26608,
+            "node2": 158612,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1132817812,
+            "node1": 26608,
+            "node2": 262505,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1143446460,
+            "node1": 26608,
+            "node2": 445643768,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:01.246150",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "savon",
+        "#relations": 6,
+        "max_relation_weight": 95.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004873"
+    }
+}

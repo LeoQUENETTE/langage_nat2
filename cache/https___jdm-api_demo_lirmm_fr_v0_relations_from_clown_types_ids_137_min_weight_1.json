@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 2263,
+            "name": "improvisation",
+            "type": 1,
+            "w": 642
+        },
+        {
+            "id": 98630,
+            "name": "divertissement",
+            "type": 1,
+            "w": 3787
+        },
+        {
+            "id": 24418,
+            "name": "comédie",
+            "type": 1,
+            "w": 3956
+        },
+        {
+            "id": 60211,
+            "name": "performance",
+            "type": 1,
+            "w": 14777
+        },
+        {
+            "id": 66909,
+            "name": "spectacle",
+            "type": 1,
+            "w": 6674
+        },
+        {
+            "id": 214527,
+            "name": "numéro de cirque",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 2296143,
+            "name": "terrorisation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 60835,
+            "name": "terreur",
+            "type": 1,
+            "w": 2402
+        },
+        {
+            "id": 110261,
+            "name": "clown",
+            "type": 1,
+            "w": 1073
+        },
+        {
+            "id": 32757,
+            "name": "sketch",
+            "type": 1,
+            "w": 248
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143293602,
+            "node1": 110261,
+            "node2": 2263,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1143293481,
+            "node1": 110261,
+            "node2": 24418,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1143293456,
+            "node1": 110261,
+            "node2": 32757,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1143293455,
+            "node1": 110261,
+            "node2": 60211,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 1009929020,
+            "node1": 110261,
+            "node2": 60835,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1143293393,
+            "node1": 110261,
+            "node2": 66909,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 1158119837,
+            "node1": 110261,
+            "node2": 98630,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 478437543,
+            "node1": 110261,
+            "node2": 214527,
+            "type": 137,
+            "w": 15.0
+        },
+        {
+            "id": 1046577129,
+            "node1": 110261,
+            "node2": 2296143,
+            "type": 137,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:42.759893",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "clown",
+        "#relations": 9,
+        "max_relation_weight": 35.0,
+        "#nodes": 10,
+        "duration": "0:00:00.007005"
+    }
+}

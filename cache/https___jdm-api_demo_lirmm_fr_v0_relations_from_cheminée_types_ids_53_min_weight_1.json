@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 110910,
+            "name": "chaleur",
+            "type": 1,
+            "w": 7778
+        },
+        {
+            "id": 143548,
+            "name": "cheminée",
+            "type": 1,
+            "w": 1400
+        }
+    ],
+    "relations": [
+        {
+            "id": 376989637,
+            "node1": 143548,
+            "node2": 110910,
+            "type": 53,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:08.524532",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cheminée",
+        "#relations": 1,
+        "max_relation_weight": 32.0,
+        "#nodes": 2,
+        "duration": "0:00:00.002842"
+    }
+}

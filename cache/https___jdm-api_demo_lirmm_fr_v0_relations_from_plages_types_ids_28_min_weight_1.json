@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 33427457,
+            "name": "en:white sand",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 399697,
+            "name": "plages",
+            "type": 1,
+            "w": 2369
+        },
+        {
+            "id": 164670,
+            "name": "sable blanc",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 153602,
+            "name": "galets",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 81714,
+            "name": "fossiles",
+            "type": 1,
+            "w": 2185
+        },
+        {
+            "id": 144565,
+            "name": "sable",
+            "type": 1,
+            "w": 5303
+        }
+    ],
+    "relations": [
+        {
+            "id": 798653155,
+            "node1": 399697,
+            "node2": 81714,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 418659091,
+            "node1": 399697,
+            "node2": 144565,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 418659767,
+            "node1": 399697,
+            "node2": 153602,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 418660524,
+            "node1": 399697,
+            "node2": 164670,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 776473103,
+            "node1": 399697,
+            "node2": 33427457,
+            "type": 28,
+            "w": 5.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:53.345021",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plages",
+        "#relations": 5,
+        "max_relation_weight": 42.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005718"
+    }
+}

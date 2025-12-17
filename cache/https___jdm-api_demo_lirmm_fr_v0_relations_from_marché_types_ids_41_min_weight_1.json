@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 15450188,
+            "name": "en:dating website",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 227218,
+            "name": "site de rencontre",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 246179895,
+            "name": "Site de rencontres",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216981,
+            "name": "produit de maquillage",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 15343032,
+            "name": "en:dating agency",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 322116,
+            "name": "avoir des scrupules",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 191714290,
+            "name": "Site de rencontre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 111309,
+            "name": "connivence",
+            "type": 1,
+            "w": 166
+        },
+        {
+            "id": 72495,
+            "name": "concurrence",
+            "type": 1,
+            "w": 5978
+        },
+        {
+            "id": 131040,
+            "name": "prix",
+            "type": 1,
+            "w": 12152
+        },
+        {
+            "id": 146274,
+            "name": "marché",
+            "type": 1,
+            "w": 13878
+        },
+        {
+            "id": 120603,
+            "name": "légume",
+            "type": 1,
+            "w": 3161
+        },
+        {
+            "id": 15450187,
+            "name": "en:dating site",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 250190,
+            "name": "agence matrimoniale",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 316002,
+            "name": "site de rencontres",
+            "type": 1,
+            "w": 49
+        }
+    ],
+    "relations": [
+        {
+            "id": 1008159243,
+            "node1": 146274,
+            "node2": 72495,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14653138,
+            "node1": 146274,
+            "node2": 111309,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 370661084,
+            "node1": 146274,
+            "node2": 120603,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 1008159244,
+            "node1": 146274,
+            "node2": 131040,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14648160,
+            "node1": 146274,
+            "node2": 216981,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14648652,
+            "node1": 146274,
+            "node2": 227218,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14648670,
+            "node1": 146274,
+            "node2": 250190,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14648657,
+            "node1": 146274,
+            "node2": 316002,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14647029,
+            "node1": 146274,
+            "node2": 322116,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1079392739,
+            "node1": 146274,
+            "node2": 15343032,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 396949640,
+            "node1": 146274,
+            "node2": 15450187,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 396949634,
+            "node1": 146274,
+            "node2": 15450188,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 1009051246,
+            "node1": 146274,
+            "node2": 191714290,
+            "type": 41,
+            "w": 14.0
+        },
+        {
+            "id": 1122669995,
+            "node1": 146274,
+            "node2": 246179895,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:03.390986",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "marché",
+        "#relations": 14,
+        "max_relation_weight": 41.0,
+        "#nodes": 15,
+        "duration": "0:00:00.004559"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 44155,
+            "name": "grotte",
+            "type": 1,
+            "w": 1543
+        },
+        {
+            "id": 27982,
+            "name": "profondeur",
+            "type": 1,
+            "w": 4081
+        },
+        {
+            "id": 120565,
+            "name": "humidité",
+            "type": 1,
+            "w": 1811
+        },
+        {
+            "id": 130885,
+            "name": "volume",
+            "type": 1,
+            "w": 5935
+        },
+        {
+            "id": 16865,
+            "name": "longueur",
+            "type": 1,
+            "w": 4589
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139613,
+            "node1": 44155,
+            "node2": 16865,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179137908,
+            "node1": 44155,
+            "node2": 27982,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179139288,
+            "node1": 44155,
+            "node2": 120565,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179138946,
+            "node1": 44155,
+            "node2": 130885,
+            "type": 153,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:59.107180",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "grotte",
+        "#relations": 4,
+        "max_relation_weight": 33.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004578"
+    }
+}

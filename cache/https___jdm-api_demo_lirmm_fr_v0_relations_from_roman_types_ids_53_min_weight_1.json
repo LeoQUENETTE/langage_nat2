@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 271463,
+            "name": "émotions",
+            "type": 1,
+            "w": 5299
+        },
+        {
+            "id": 100640,
+            "name": "roman",
+            "type": 1,
+            "w": 8875
+        },
+        {
+            "id": 145664,
+            "name": "émotion",
+            "type": 1,
+            "w": 9695
+        }
+    ],
+    "relations": [
+        {
+            "id": 1164020069,
+            "node1": 100640,
+            "node2": 145664,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 816119317,
+            "node1": 100640,
+            "node2": 271463,
+            "type": 53,
+            "w": 36.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:13.715569",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "roman",
+        "#relations": 2,
+        "max_relation_weight": 36.0,
+        "#nodes": 3,
+        "duration": "0:00:00.007200"
+    }
+}

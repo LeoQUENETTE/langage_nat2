@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 34053
+        },
+        {
+            "id": 68439,
+            "name": "individu",
+            "type": 1,
+            "w": 11352
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9528
+        },
+        {
+            "id": 117579,
+            "name": "jouet",
+            "type": 1,
+            "w": 1894
+        }
+    ],
+    "relations": [
+        {
+            "id": 2014681,
+            "node1": 117579,
+            "node2": 237,
+            "type": 6,
+            "w": 92.0
+        },
+        {
+            "id": 1127225459,
+            "node1": 117579,
+            "node2": 68439,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1127225458,
+            "node1": 117579,
+            "node2": 116477,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:45.085903",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jouet",
+        "#relations": 3,
+        "max_relation_weight": 92.0,
+        "#nodes": 4,
+        "duration": "0:00:00.019173"
+    }
+}

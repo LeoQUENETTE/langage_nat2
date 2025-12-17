@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 39577,
+            "name": "impression",
+            "type": 1,
+            "w": 3877
+        },
+        {
+            "id": 103389,
+            "name": "papier",
+            "type": 1,
+            "w": 7597
+        }
+    ],
+    "relations": [
+        {
+            "id": 962090042,
+            "node1": 103389,
+            "node2": 39577,
+            "type": 138,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:36.291174",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "papier",
+        "#relations": 1,
+        "max_relation_weight": 30.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003638"
+    }
+}

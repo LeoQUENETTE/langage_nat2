@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 40873,
+            "name": "projet",
+            "type": 1,
+            "w": 23962
+        },
+        {
+            "id": 25380,
+            "name": "budget",
+            "type": 1,
+            "w": 8538
+        },
+        {
+            "id": 109771,
+            "name": "responsable",
+            "type": 1,
+            "w": 6187
+        },
+        {
+            "id": 12053196,
+            "name": "date de début",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 39211,
+            "name": "complexité",
+            "type": 1,
+            "w": 5115
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137463,
+            "node1": 40873,
+            "node2": 25380,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179139372,
+            "node1": 40873,
+            "node2": 39211,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179137642,
+            "node1": 40873,
+            "node2": 109771,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179137641,
+            "node1": 40873,
+            "node2": 12053196,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:34.747400",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "projet",
+        "#relations": 4,
+        "max_relation_weight": 33.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006216"
+    }
+}

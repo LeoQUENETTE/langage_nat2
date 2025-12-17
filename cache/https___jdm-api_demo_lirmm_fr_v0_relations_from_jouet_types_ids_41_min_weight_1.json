@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 3229868,
+            "name": "amusement>98630",
+            "type": 1,
+            "w": 21
+        },
+        {
+            "id": 1110,
+            "name": "amusement",
+            "type": 1,
+            "w": 1782
+        },
+        {
+            "id": 117579,
+            "name": "jouet",
+            "type": 1,
+            "w": 1894
+        }
+    ],
+    "relations": [
+        {
+            "id": 497249978,
+            "node1": 117579,
+            "node2": 1110,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 497054961,
+            "node1": 117579,
+            "node2": 3229868,
+            "type": 41,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:46.357151",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jouet",
+        "#relations": 2,
+        "max_relation_weight": 34.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004399"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 60829,
+            "name": "sommeil",
+            "type": 1,
+            "w": 4294
+        },
+        {
+            "id": 71578,
+            "name": "lit",
+            "type": 1,
+            "w": 10120
+        }
+    ],
+    "relations": [
+        {
+            "id": 1144412599,
+            "node1": 71578,
+            "node2": 60829,
+            "type": 137,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:26.106520",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lit",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004251"
+    }
+}

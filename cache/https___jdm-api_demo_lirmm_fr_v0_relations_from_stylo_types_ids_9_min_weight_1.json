@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 246266,
+            "name": "cartouche d'encre",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 15108050,
+            "name": "en:diamond point",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15212387,
+            "name": "en:toner cartridge",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15239885,
+            "name": "cartouche toner",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15112137,
+            "name": "en:ink cartridge",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141611,
+            "name": "pointe",
+            "type": 1,
+            "w": 4380
+        },
+        {
+            "id": 39109,
+            "name": "capuchon",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 74846,
+            "name": "corps",
+            "type": 1,
+            "w": 16266
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2782
+        },
+        {
+            "id": 38047,
+            "name": "encre",
+            "type": 1,
+            "w": 1123
+        },
+        {
+            "id": 239224,
+            "name": "capuchon>121129",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 99440,
+            "name": "recharge",
+            "type": 1,
+            "w": 386
+        },
+        {
+            "id": 140613,
+            "name": "mine",
+            "type": 1,
+            "w": 3115
+        }
+    ],
+    "relations": [
+        {
+            "id": 765196396,
+            "node1": 15509,
+            "node2": 38047,
+            "type": 9,
+            "w": 78.0
+        },
+        {
+            "id": 97834946,
+            "node1": 15509,
+            "node2": 39109,
+            "type": 9,
+            "w": 118.0
+        },
+        {
+            "id": 1131445317,
+            "node1": 15509,
+            "node2": 74846,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 1152449687,
+            "node1": 15509,
+            "node2": 99440,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1131445318,
+            "node1": 15509,
+            "node2": 140613,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1712366,
+            "node1": 15509,
+            "node2": 141611,
+            "type": 9,
+            "w": 74.0
+        },
+        {
+            "id": 10531734,
+            "node1": 15509,
+            "node2": 239224,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 572529090,
+            "node1": 15509,
+            "node2": 246266,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 405762331,
+            "node1": 15509,
+            "node2": 15108050,
+            "type": 9,
+            "w": 48.0
+        },
+        {
+            "id": 572529064,
+            "node1": 15509,
+            "node2": 15112137,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 725931508,
+            "node1": 15509,
+            "node2": 15212387,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 725931509,
+            "node1": 15509,
+            "node2": 15239885,
+            "type": 9,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:41.181641",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 12,
+        "max_relation_weight": 118.0,
+        "#nodes": 13,
+        "duration": "0:00:00.006367"
+    }
+}

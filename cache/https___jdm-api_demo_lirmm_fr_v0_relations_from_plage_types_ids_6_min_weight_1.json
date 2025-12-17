@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 388006,
+            "name": "zone côtière",
+            "type": 1,
+            "w": 174
+        },
+        {
+            "id": 105154,
+            "name": "étendue",
+            "type": 1,
+            "w": 3481
+        },
+        {
+            "id": 187894150,
+            "name": "destination de vacances",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 111663,
+            "name": "littoral",
+            "type": 1,
+            "w": 2254
+        },
+        {
+            "id": 165673080,
+            "name": "lieu de détente",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15314736,
+            "name": "en:place of work",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142661,
+            "name": "zone",
+            "type": 1,
+            "w": 5484
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 122393,
+            "name": "plage",
+            "type": 1,
+            "w": 5991
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 6887729,
+            "name": "en:worksite",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139947,
+            "name": "berge",
+            "type": 1,
+            "w": 156
+        },
+        {
+            "id": 112327,
+            "name": "grève",
+            "type": 1,
+            "w": 2868
+        },
+        {
+            "id": 8843694,
+            "name": "en:workplace",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 243646567,
+            "name": "lieu géographique naturel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 128712,
+            "name": "lieu de travail",
+            "type": 1,
+            "w": 287
+        }
+    ],
+    "relations": [
+        {
+            "id": 59818867,
+            "node1": 122393,
+            "node2": 237,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 2216265,
+            "node1": 122393,
+            "node2": 105154,
+            "type": 6,
+            "w": 172.0
+        },
+        {
+            "id": 1152775352,
+            "node1": 122393,
+            "node2": 111663,
+            "type": 6,
+            "w": 329.0
+        },
+        {
+            "id": 9900032,
+            "node1": 122393,
+            "node2": 112327,
+            "type": 6,
+            "w": 307.0
+        },
+        {
+            "id": 705166147,
+            "node1": 122393,
+            "node2": 128712,
+            "type": 6,
+            "w": 327.0
+        },
+        {
+            "id": 629079,
+            "node1": 122393,
+            "node2": 135190,
+            "type": 6,
+            "w": 174.0
+        },
+        {
+            "id": 236021446,
+            "node1": 122393,
+            "node2": 139947,
+            "type": 6,
+            "w": 326.0
+        },
+        {
+            "id": 85907540,
+            "node1": 122393,
+            "node2": 142661,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1152775353,
+            "node1": 122393,
+            "node2": 388006,
+            "type": 6,
+            "w": 49.0
+        },
+        {
+            "id": 933135642,
+            "node1": 122393,
+            "node2": 2785548,
+            "type": 6,
+            "w": 186.0
+        },
+        {
+            "id": 705532882,
+            "node1": 122393,
+            "node2": 6887729,
+            "type": 6,
+            "w": 327.0
+        },
+        {
+            "id": 705351113,
+            "node1": 122393,
+            "node2": 8843694,
+            "type": 6,
+            "w": 327.0
+        },
+        {
+            "id": 705532793,
+            "node1": 122393,
+            "node2": 15314736,
+            "type": 6,
+            "w": 335.0
+        },
+        {
+            "id": 1074625897,
+            "node1": 122393,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 1148539195,
+            "node1": 122393,
+            "node2": 165673080,
+            "type": 6,
+            "w": 327.0
+        },
+        {
+            "id": 660640718,
+            "node1": 122393,
+            "node2": 187894150,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 776154721,
+            "node1": 122393,
+            "node2": 243646567,
+            "type": 6,
+            "w": 325.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:58.165854",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plage",
+        "#relations": 17,
+        "max_relation_weight": 335.0,
+        "#nodes": 18,
+        "duration": "0:00:00.041485"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 35712,
+            "name": "atome",
+            "type": 1,
+            "w": 2598
+        },
+        {
+            "id": 29008,
+            "name": "cendrée",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 136790,
+            "name": "cuivre",
+            "type": 1,
+            "w": 3030
+        }
+    ],
+    "relations": [
+        {
+            "id": 138834136,
+            "node1": 136790,
+            "node2": 29008,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 14402494,
+            "node1": 136790,
+            "node2": 35712,
+            "type": 9,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:38.869916",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cuivre",
+        "#relations": 2,
+        "max_relation_weight": 26.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004297"
+    }
+}

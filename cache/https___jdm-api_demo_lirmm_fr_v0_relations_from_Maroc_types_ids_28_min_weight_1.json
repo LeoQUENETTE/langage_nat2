@@ -1,0 +1,5396 @@
+{
+    "nodes": [
+        {
+            "id": 7506986,
+            "name": "en:electroretinography",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 223509941,
+            "name": "tajine de kefta",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 107582,
+            "name": "Siroua",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 11159591,
+            "name": "province d'Essaouira",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 275910,
+            "name": "chebakia",
+            "type": 777,
+            "w": 58
+        },
+        {
+            "id": 285113,
+            "name": "tadla-azilal",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 294376,
+            "name": "Villa Bens",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 303188,
+            "name": "Gharb-Chrarda-Beni Hssen",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 214176,
+            "name": "maaqouda",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 397146,
+            "name": "Soualem",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1904034,
+            "name": "Ameknas",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 1904035,
+            "name": "meknas",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11826714,
+            "name": "Gourougou",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2428515,
+            "name": "timahdite",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1962884,
+            "name": "couscous au poisson",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 2608790,
+            "name": "berkan",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 2949962,
+            "name": "N 8",
+            "type": 777,
+            "w": 37
+        },
+        {
+            "id": 11159547,
+            "name": "province de Fahs-Anjra",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159548,
+            "name": "province de Larache",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159549,
+            "name": "province d'Al Hoceïma",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159550,
+            "name": "province de Chefchaouen",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159551,
+            "name": "province de Ouezzane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159553,
+            "name": "province de Nador",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159554,
+            "name": "province de Driouch",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159555,
+            "name": "province de Jerada",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159557,
+            "name": "province de Berkane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159558,
+            "name": "province de Taourirt",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159559,
+            "name": "province de Guercif",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159560,
+            "name": "province de Figuig",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159567,
+            "name": "province de Boulemane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159569,
+            "name": "province de Taza",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159573,
+            "name": "province de Sidi Slimane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159575,
+            "name": "province de Beni Mellal",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159576,
+            "name": "province d'Azilal",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159577,
+            "name": "Tasga n Azilal",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159578,
+            "name": "province de Fquih Ben Salah",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159580,
+            "name": "province de Khouribga",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159583,
+            "name": "Province de Nouaceur",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159584,
+            "name": "province de Médiouna",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159585,
+            "name": "province de Benslimane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159587,
+            "name": "province de Settat",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159588,
+            "name": "province de Sidi Bennour",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159593,
+            "name": "Rhamna",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159596,
+            "name": "province de Midelt",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159597,
+            "name": "province de Tinghir",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159598,
+            "name": "province de Zagora",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159601,
+            "name": "préfecture d'Inezgane-Aït Melloul",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159602,
+            "name": "province de Chtouka-Aït Baha",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159603,
+            "name": "La province de Taroudant",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159604,
+            "name": "province de Tiznit",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159605,
+            "name": "province de Tata",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159607,
+            "name": "province de Guelmim",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159610,
+            "name": "province de Laâyoune",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159611,
+            "name": "province de Boujdour",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159616,
+            "name": "province d'Oued Ed-Dahab",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159617,
+            "name": "province d'Aousserd",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 3372455,
+            "name": "tanjia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3373697,
+            "name": "chermoula",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4856609,
+            "name": "port-lyautey",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 5621463,
+            "name": "baghrir",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 5621490,
+            "name": "bissara",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 5622429,
+            "name": "seffa",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 5629006,
+            "name": "Imilchil",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 5801698,
+            "name": "zaalouk",
+            "type": 777,
+            "w": 28
+        },
+        {
+            "id": 5981163,
+            "name": "Tiguelmamine",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 5981164,
+            "name": "Tiglmamin",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 5983905,
+            "name": "lac d'Afennourrir",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 3743682,
+            "name": "thé glacé à la menthe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11159600,
+            "name": "préfecture d'Agadir Ida-Outanane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 9038689,
+            "name": "province de Youssoufia",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 9740009,
+            "name": "gorges du Dadès",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 9745725,
+            "name": "Gazella leptoceros",
+            "type": 777,
+            "w": 4
+        },
+        {
+            "id": 9832855,
+            "name": "Grottes d'Hercule",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10095902,
+            "name": "avant le découpage territorial de 2015",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10095901,
+            "name": "Tanger-Tétouan",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10095907,
+            "name": "Taza-Al Hoceïma-Taounate",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10095896,
+            "name": "nouvelle région de l'Oriental",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 7610127,
+            "name": "en:erg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10176405,
+            "name": "sidi bennour",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176412,
+            "name": "province de Sidi Ifni",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176416,
+            "name": "province de sidi kacem",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176411,
+            "name": "sidi ifni",
+            "type": 777,
+            "w": 28
+        },
+        {
+            "id": 10176408,
+            "name": "préfecture de Sidi Bernoussi-Zenata",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10383450,
+            "name": "Père Jégo",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10384793,
+            "name": "Tanger-Tétouan-Al Hoceima",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10583252,
+            "name": "province de Kénitra",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10583381,
+            "name": "province d'El Jadida",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10583375,
+            "name": "province d'Errachidia",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10583382,
+            "name": "doukkala-abda",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10583377,
+            "name": "Meknès-Tafilalet",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10583383,
+            "name": "province d'Ifrane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10583385,
+            "name": "moyen atlas",
+            "type": 777,
+            "w": 33
+        },
+        {
+            "id": 10583384,
+            "name": "Tasga n Ifran",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10583378,
+            "name": "Meknas-Tafilalt",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10583379,
+            "name": "province de Khémisset",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10583599,
+            "name": "grottes d'Hercule",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10838465,
+            "name": "issaguen",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10838466,
+            "name": "Achaken",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10928988,
+            "name": "azrou",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10933088,
+            "name": "tafraoute",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10941793,
+            "name": "Msoun",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10941805,
+            "name": "Oued Amlil",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10956234,
+            "name": "djebel Saghro",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11035210,
+            "name": "chaouia-ouardigha",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11109475,
+            "name": "Grand Casablanca",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159545,
+            "name": "préfecture de Tanger-Assilah",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159546,
+            "name": "province de Tétouan",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159574,
+            "name": "Béni Mellal-Khénifra",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159579,
+            "name": "province de Khénifra",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159570,
+            "name": "Rabat-Salé-Kénitra",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159566,
+            "name": "province de Séfrou",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159586,
+            "name": "province de Berrechid",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159613,
+            "name": "province d'Es-Semara",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159630,
+            "name": "hattane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159594,
+            "name": "région du Drâa-Tafilalet",
+            "type": 777,
+            "w": 29
+        },
+        {
+            "id": 11159615,
+            "name": "Oued Ed-Dahab-Lagouira",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159623,
+            "name": "Fès-Boulemane",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159627,
+            "name": "Souss-Massa-Drâa",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159625,
+            "name": "Laâyoune-Boujdour-Sakia El Hamra",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159599,
+            "name": "Sus-Massa",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159609,
+            "name": "Laâyoune-Sakia El Hamra",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159626,
+            "name": "Marrakech-Tensift-el Haouz",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159606,
+            "name": "Guelmim-Oued Noun",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159608,
+            "name": "province de Tan-Tan",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159739,
+            "name": "alnif",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159738,
+            "name": "achbarou",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159728,
+            "name": "Boumalne-Dadès",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159736,
+            "name": "Ighil n'Oumgoun",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159717,
+            "name": "Lamssid",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159718,
+            "name": "Lemseid",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159737,
+            "name": "M'semrir",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159711,
+            "name": "Oum Dreyga",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159712,
+            "name": "Oum Dreiga",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159713,
+            "name": "Umm Dreiga",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159775,
+            "name": "Oued Laou",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159773,
+            "name": "M'diq",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11302063,
+            "name": "Asni",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11361106,
+            "name": "Adrar Ighud",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11925169,
+            "name": "djebel Ayachi",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159635,
+            "name": "province d'El Hajeb",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 14366743,
+            "name": "Adrar Sirwa",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 14366744,
+            "name": "Adrar n'Siroua",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 14366742,
+            "name": "djebel Sirwa",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 14933580,
+            "name": "en:dirham",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14964728,
+            "name": "en:timahdite",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15198365,
+            "name": "en:an Oriental",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15290246,
+            "name": "en:orange-flower water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15308537,
+            "name": "en:High Atlas",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15308539,
+            "name": "en:Middle Atlas",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15308535,
+            "name": "en:Tell Atlas",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 16068381,
+            "name": "Zarhon",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 35814,
+            "name": "couscous",
+            "type": 1,
+            "w": 249
+        },
+        {
+            "id": 16678111,
+            "name": "Sus al-Aqsa",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 5998564,
+            "name": "Agdal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57816790,
+            "name": "Sidi Ifni",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 209274,
+            "name": "trafic de drogue",
+            "type": 1,
+            "w": 367
+        },
+        {
+            "id": 125802871,
+            "name": "Seffa",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 125803004,
+            "name": "Rfissa",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 4342587,
+            "name": "sfenj",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 161815390,
+            "name": "tajine de poulet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 162557739,
+            "name": "Province de Khénifra",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 187031103,
+            "name": "Gravures rupestres d'Aït Ouazik",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11159568,
+            "name": "province de Taounate",
+            "type": 777,
+            "w": 41
+        },
+        {
+            "id": 264958994,
+            "name": "matbucha",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5630828,
+            "name": "rfissa",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 214182782,
+            "name": "tajine de légumes",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 222883750,
+            "name": "bastilla",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 223509940,
+            "name": "tajine de poisson",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 255695561,
+            "name": "tajine épicé",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 255699285,
+            "name": "tajine mrouzia",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 256426677,
+            "name": "rghaif",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 305351644,
+            "name": "Province de Settat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 305337785,
+            "name": "Province d'El Hajeb",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10160249,
+            "name": "Cette section peut contenir un travail inédit ou des déclarations non vérifiées",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 190028,
+            "name": "huile d'argan",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 255707840,
+            "name": "kebda mchermla",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 305334112,
+            "name": "Province de Taza",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11159614,
+            "name": "Dakhla-Oued Ed-Dahab",
+            "type": 777,
+            "w": 12
+        },
+        {
+            "id": 144425,
+            "name": "Rabat",
+            "type": 1,
+            "w": 216
+        },
+        {
+            "id": 292585901,
+            "name": "berbère tapis",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 293634194,
+            "name": "tissage de tapis berbères",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 293634310,
+            "name": "thé gunpowder",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 293634446,
+            "name": "kebda mchermla au foie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 293634445,
+            "name": "rfissa de poulet",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 293634448,
+            "name": "seffa medfouna",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 293634450,
+            "name": "baghrir au miel",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 305334111,
+            "name": "Province de Taounate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 305350987,
+            "name": "Chaouia-Ouardigha",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 305484341,
+            "name": "Tadla-Azilal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 11159624,
+            "name": "Guelmim-Es-Semara",
+            "type": 777,
+            "w": 10
+        },
+        {
+            "id": 11013880,
+            "name": "lixus",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 314339602,
+            "name": "Préfecture de M'diq-Fnideq",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2439172,
+            "name": "saharaoui",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10933235,
+            "name": "Souss-Massa",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 1832838,
+            "name": "électrorétinographie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10095945,
+            "name": "Martil",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 9021558,
+            "name": "province d'Assa-Zag",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176407,
+            "name": "Sidi Addi Sidi el makhfi",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 11159552,
+            "name": "préfecture d'Oujda-Angad",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15784352,
+            "name": "une Orientale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 582979,
+            "name": "Grand palace Elmouahidin",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 10583376,
+            "name": "province de Ksar Es-Souk",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 293747,
+            "name": "Jbel Toubkal",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 11159612,
+            "name": "province de Tarfaya",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176409,
+            "name": "Sidi Boubker",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 580351,
+            "name": "province d'Al Haouz",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 18888,
+            "name": "Tarfaya",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 2336763,
+            "name": "anfa",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 162572519,
+            "name": "Cromlech de M'zora",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156741369,
+            "name": "Préfecture de Marrakech",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 305334100,
+            "name": "Préfecture de Meknès",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 305484338,
+            "name": "Province d'Azilal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 305334170,
+            "name": "Timahdite",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 309425,
+            "name": "Geronticus eremita",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 232629,
+            "name": "Atlas tellien",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 8771514,
+            "name": "en:azilal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 49421,
+            "name": "Naima",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 74001,
+            "name": "Fès",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 249380953,
+            "name": "souss",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 9077,
+            "name": "Safi",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 68821,
+            "name": "Dakhla",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 2344585,
+            "name": "Tin Iggi",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15361971,
+            "name": "en:drug dealing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 66165,
+            "name": "Anti-Atlas",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 125802891,
+            "name": "Eau de fleur d'oranger",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 156245,
+            "name": "thé à la menthe",
+            "type": 1,
+            "w": 136
+        },
+        {
+            "id": 2948847,
+            "name": "Kénitra",
+            "type": 777,
+            "w": 37
+        },
+        {
+            "id": 61772,
+            "name": "Casablanca",
+            "type": 1,
+            "w": 1270
+        },
+        {
+            "id": 318395,
+            "name": "intégrisme musulman",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 431424,
+            "name": "Zagora",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 11125026,
+            "name": "Sijilmassa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11147037,
+            "name": "Azemmur",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159729,
+            "name": "Kelaat M'Gouna",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159691,
+            "name": "Moqrisset",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159692,
+            "name": "Mokrisset",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159732,
+            "name": "Tineghir",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159725,
+            "name": "Tinghir",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5619481,
+            "name": "Er-Rich",
+            "type": 777,
+            "w": 30
+        },
+        {
+            "id": 5998268,
+            "name": "Ifrane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10095929,
+            "name": "Saïdia",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10095931,
+            "name": "Ajroud",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159561,
+            "name": "région de",
+            "type": 777,
+            "w": 29
+        },
+        {
+            "id": 14604628,
+            "name": "ERG>1832838",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9605738,
+            "name": "Sidi Yahya El Gharb",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159680,
+            "name": "Séfrou",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11159710,
+            "name": "Bir Anzarane",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159563,
+            "name": "préfecture de Fès",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159564,
+            "name": "préfecture de Meknès",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159571,
+            "name": "préfecture de Rabat",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159582,
+            "name": "préfecture de Mohammédia",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159589,
+            "name": "préfecture de Marrakech",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2960810,
+            "name": "Mehdia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2334500,
+            "name": "Azilale",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10851227,
+            "name": "Taghzut",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159682,
+            "name": "Tit Mellil",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10851231,
+            "name": "Tijdit",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159572,
+            "name": "Skhirate-Témara",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159628,
+            "name": "Bejaâd",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159629,
+            "name": "Boujniba",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 144565,
+            "name": "sable",
+            "type": 1,
+            "w": 5303
+        },
+        {
+            "id": 22409,
+            "name": "Agadir",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 1774443,
+            "name": "Ifyyey",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 80820,
+            "name": "cannabis",
+            "type": 1,
+            "w": 883
+        },
+        {
+            "id": 100835,
+            "name": "islam",
+            "type": 1,
+            "w": 955
+        },
+        {
+            "id": 10583380,
+            "name": "Sidi Ali Ben Hamdouche",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10583853,
+            "name": "Sidi Rahhal Chataï",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159730,
+            "name": "Tighremt N'Imgounen",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 36344,
+            "name": "Maroc",
+            "type": 1,
+            "w": 3713
+        },
+        {
+            "id": 143109,
+            "name": "Atlas",
+            "type": 1,
+            "w": 1149
+        },
+        {
+            "id": 109860,
+            "name": "souk",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 5801557,
+            "name": "msemen",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15198364,
+            "name": "un Oriental",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10583856,
+            "name": "province d'El Kelaâ des Sraghna",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159592,
+            "name": "province de Rehamna",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 12198397,
+            "name": "site archéologique de Ghmate",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159590,
+            "name": "province de Chichaoua",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159595,
+            "name": "province de Ouarzazate",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11159562,
+            "name": "Fès-Meknès",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 3744007,
+            "name": "couscous au mouton",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11159565,
+            "name": "Moulay Yaâcoub",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176421,
+            "name": "Sid Zouine",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10430183,
+            "name": "Basra al-Hamra",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 14952237,
+            "name": "en:oriental",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10583855,
+            "name": "Marrakech-Safi",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10384794,
+            "name": "préfecture de M'diq-Fnideq",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 12737,
+            "name": "djebel Toubkal",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1855936,
+            "name": "Fas",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15428072,
+            "name": "en:drugs trafficking",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15205343,
+            "name": "en:drug racketeering",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15361970,
+            "name": "en:drugs racket",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15336789,
+            "name": "trafic de stup",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 232382,
+            "name": "eau de fleur d'oranger",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 2481315,
+            "name": "Marocain",
+            "type": 1,
+            "w": 5
+        },
+        {
+            "id": 5986893,
+            "name": "Aguelmame Sidi Ali",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 284275,
+            "name": "Khénifra",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 15308538,
+            "name": "Moyen Atlas",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 6259,
+            "name": "Sus",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 7306,
+            "name": "Ouezzane",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 2548640,
+            "name": "Fez",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15008,
+            "name": "Kenitra",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15720,
+            "name": "Essaouira",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 187031194,
+            "name": "gravures rupestres d'Aït Ouazik",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 21124,
+            "name": "erg",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 22038,
+            "name": "Biya",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 25519,
+            "name": "Kattara",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 29997,
+            "name": "Khouribga",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 34874,
+            "name": "Tétouan",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 38431,
+            "name": "Taroudant",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 55402,
+            "name": "Nador",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 46816,
+            "name": "Ifni",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 82196,
+            "name": "Figuig",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 91490,
+            "name": "Settat",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 11125013,
+            "name": "Marocains",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 102541,
+            "name": "Taza",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 110086,
+            "name": "sahraoui",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 115347,
+            "name": "Oued Zem",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 123768,
+            "name": "dirham",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 134988,
+            "name": "dirhem",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 139705,
+            "name": "Salé",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 168345,
+            "name": "eau de fleurs d'oranger",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 190453,
+            "name": "harira",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 223014,
+            "name": "Bassorah",
+            "type": 666,
+            "w": 50
+        },
+        {
+            "id": 226547,
+            "name": "souk>146274",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 229783,
+            "name": "Souss",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 230499,
+            "name": "Sidi Bouzid",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 277618,
+            "name": "Basra",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 278377,
+            "name": "Ouazzane",
+            "type": 777,
+            "w": 51
+        },
+        {
+            "id": 280476,
+            "name": "Sidi Kacem",
+            "type": 777,
+            "w": 52
+        },
+        {
+            "id": 289091,
+            "name": "Fédala",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 299539,
+            "name": "Ifiyyey",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 302417,
+            "name": "Oued-Zem",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 303180,
+            "name": "Ksar El Kébir",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 119646,
+            "name": "orientale",
+            "type": 1,
+            "w": 2891
+        },
+        {
+            "id": 11159581,
+            "name": "Casablanca-Settat",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 408239,
+            "name": "Zag",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 433778,
+            "name": "azilal",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 437477,
+            "name": "tajine d'agneau",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 2342371,
+            "name": "Irherm",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2393296,
+            "name": "Fkih Ben Salah",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2494258,
+            "name": "Bzou",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2605294,
+            "name": "pays Jbala",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 2948513,
+            "name": "Wejda",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2948546,
+            "name": "Asfi",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2949398,
+            "name": "Taroudannt",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2950477,
+            "name": "Béni Mellal",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2950478,
+            "name": "Aït Mellal",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2955027,
+            "name": "Tan-Tan",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 3244003,
+            "name": "Zaïda",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 3372989,
+            "name": "loubia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3951605,
+            "name": "Azemmour",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4249438,
+            "name": "Erfoud",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4277503,
+            "name": "Castillejos",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5628421,
+            "name": "Afourer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5796279,
+            "name": "Serghine",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 6530385,
+            "name": "Al Hoceïma",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 6530386,
+            "name": "Taghzout",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 39149,
+            "name": "cuir",
+            "type": 1,
+            "w": 1856
+        },
+        {
+            "id": 6950432,
+            "name": "en:drug trafficking",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9038608,
+            "name": "Youssoufia",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 29867,
+            "name": "pastilla",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 101877,
+            "name": "Sahara occidental",
+            "type": 1,
+            "w": 127
+        },
+        {
+            "id": 10091941,
+            "name": "Oulad Abbou",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176418,
+            "name": "Sidi Lyamani",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176413,
+            "name": "Sidi Jaber",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176419,
+            "name": "Sidi Rahhal",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10176420,
+            "name": "Sidi Taibi",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10177129,
+            "name": "Oulad H Riz Sahel",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10437643,
+            "name": "Fnideq",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10518498,
+            "name": "Larache",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10518499,
+            "name": "Assilah",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10583250,
+            "name": "préfecture de Salé",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10583251,
+            "name": "Sidi Slimane Ech-charaa",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10585853,
+            "name": "Errachidia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10588137,
+            "name": "Ksar Es-Souk",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10588136,
+            "name": "Imetgheren",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10838438,
+            "name": "El Jadida",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10928991,
+            "name": "Tazagourt",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10933089,
+            "name": "Tafrawt",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10933087,
+            "name": "Tafraout",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 10956235,
+            "name": "adrar Saghro",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11106998,
+            "name": "Kasba Tadla",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11117634,
+            "name": "préfecture de Casablanca",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11154292,
+            "name": "Haut Atlas",
+            "type": 777,
+            "w": 41
+        },
+        {
+            "id": 11159556,
+            "name": "Jérada",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 12198398,
+            "name": "Aghmat",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 7213,
+            "name": "Oujda",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 13640319,
+            "name": "vallée de l'Ourika",
+            "type": 777,
+            "w": 28
+        },
+        {
+            "id": 14934347,
+            "name": "en:orange flower water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15049066,
+            "name": "en:drug traffic",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15205344,
+            "name": "en:drug deal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 147880804,
+            "name": "Province de Nador",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 181069248,
+            "name": "Province de Tata",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6249,
+            "name": "Marrakech",
+            "type": 1,
+            "w": 121
+        },
+        {
+            "id": 97057,
+            "name": "menthe",
+            "type": 1,
+            "w": 576
+        },
+        {
+            "id": 161187133,
+            "name": "Trafic de drogue",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 11554467,
+            "name": "Lixus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 140979,
+            "name": "Tata",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 407333,
+            "name": "Oriental",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 14952238,
+            "name": "en:Oriental",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 410226,
+            "name": "Orientale",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 92152,
+            "name": "Rif",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 10955364,
+            "name": "Issaguen",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 68090,
+            "name": "tajine",
+            "type": 1,
+            "w": 246
+        },
+        {
+            "id": 6529197,
+            "name": "Djebel Irhoud",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10732822,
+            "name": "cromlech de M'zora",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 59675,
+            "name": "Tanger",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 15361972,
+            "name": "le trafic de drogue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2471121,
+            "name": "Berkane",
+            "type": 1,
+            "w": 49
+        },
+        {
+            "id": 1833263,
+            "name": "ERG",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 97053,
+            "name": "Ouarzazate",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 2949961,
+            "name": "dir",
+            "type": 777,
+            "w": 80
+        },
+        {
+            "id": 3755,
+            "name": "Bassora",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 95347,
+            "name": "Meknès",
+            "type": 1,
+            "w": 64
+        }
+    ],
+    "relations": [
+        {
+            "id": 585211023,
+            "node1": 36344,
+            "node2": 3755,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11315414,
+            "node1": 36344,
+            "node2": 6249,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 31091127,
+            "node1": 36344,
+            "node2": 6259,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 17968484,
+            "node1": 36344,
+            "node2": 7213,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 17968480,
+            "node1": 36344,
+            "node2": 7306,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 17974225,
+            "node1": 36344,
+            "node2": 9077,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375977395,
+            "node1": 36344,
+            "node2": 12737,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 34399258,
+            "node1": 36344,
+            "node2": 15008,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 17710581,
+            "node1": 36344,
+            "node2": 15720,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 17873889,
+            "node1": 36344,
+            "node2": 18888,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11331719,
+            "node1": 36344,
+            "node2": 21124,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 289258232,
+            "node1": 36344,
+            "node2": 22038,
+            "type": 28,
+            "w": 11.0
+        },
+        {
+            "id": 11337532,
+            "node1": 36344,
+            "node2": 22409,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 18155766,
+            "node1": 36344,
+            "node2": 25519,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 765900463,
+            "node1": 36344,
+            "node2": 29867,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 24728527,
+            "node1": 36344,
+            "node2": 29997,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 18166588,
+            "node1": 36344,
+            "node2": 34874,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 77461350,
+            "node1": 36344,
+            "node2": 35814,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 24728495,
+            "node1": 36344,
+            "node2": 38431,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 765902417,
+            "node1": 36344,
+            "node2": 39149,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 253493893,
+            "node1": 36344,
+            "node2": 46816,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 23289275,
+            "node1": 36344,
+            "node2": 49421,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 253504522,
+            "node1": 36344,
+            "node2": 55402,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 24728423,
+            "node1": 36344,
+            "node2": 59675,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11337442,
+            "node1": 36344,
+            "node2": 61772,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 18212453,
+            "node1": 36344,
+            "node2": 66165,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 765900507,
+            "node1": 36344,
+            "node2": 68090,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 34517246,
+            "node1": 36344,
+            "node2": 68821,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 18355745,
+            "node1": 36344,
+            "node2": 74001,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 1046688813,
+            "node1": 36344,
+            "node2": 80820,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 27581295,
+            "node1": 36344,
+            "node2": 82196,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 24758229,
+            "node1": 36344,
+            "node2": 91490,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 17916593,
+            "node1": 36344,
+            "node2": 92152,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 25390248,
+            "node1": 36344,
+            "node2": 95347,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 34671448,
+            "node1": 36344,
+            "node2": 97053,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 765902593,
+            "node1": 36344,
+            "node2": 97057,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 11348481,
+            "node1": 36344,
+            "node2": 100835,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 17873927,
+            "node1": 36344,
+            "node2": 101877,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 28132956,
+            "node1": 36344,
+            "node2": 102541,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375722744,
+            "node1": 36344,
+            "node2": 107582,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 104940329,
+            "node1": 36344,
+            "node2": 109860,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 61456985,
+            "node1": 36344,
+            "node2": 110086,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 16284611,
+            "node1": 36344,
+            "node2": 115347,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 926895079,
+            "node1": 36344,
+            "node2": 119646,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 11313920,
+            "node1": 36344,
+            "node2": 123768,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 13673784,
+            "node1": 36344,
+            "node2": 134988,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 22317910,
+            "node1": 36344,
+            "node2": 139705,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378769607,
+            "node1": 36344,
+            "node2": 140979,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 253511548,
+            "node1": 36344,
+            "node2": 143109,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 13368536,
+            "node1": 36344,
+            "node2": 144425,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1151504905,
+            "node1": 36344,
+            "node2": 144565,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 765900665,
+            "node1": 36344,
+            "node2": 156245,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 738367318,
+            "node1": 36344,
+            "node2": 168345,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 765902460,
+            "node1": 36344,
+            "node2": 190028,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900460,
+            "node1": 36344,
+            "node2": 190453,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 23502987,
+            "node1": 36344,
+            "node2": 209274,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 801272903,
+            "node1": 36344,
+            "node2": 214176,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 568566110,
+            "node1": 36344,
+            "node2": 223014,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11332536,
+            "node1": 36344,
+            "node2": 226547,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 18690485,
+            "node1": 36344,
+            "node2": 229783,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 289258237,
+            "node1": 36344,
+            "node2": 230499,
+            "type": 28,
+            "w": 11.0
+        },
+        {
+            "id": 11602789,
+            "node1": 36344,
+            "node2": 232382,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 378739369,
+            "node1": 36344,
+            "node2": 232629,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 801272880,
+            "node1": 36344,
+            "node2": 275910,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 289283215,
+            "node1": 36344,
+            "node2": 277618,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 17968479,
+            "node1": 36344,
+            "node2": 278377,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 18224715,
+            "node1": 36344,
+            "node2": 280476,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 18194304,
+            "node1": 36344,
+            "node2": 284275,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 16162781,
+            "node1": 36344,
+            "node2": 285113,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 16193500,
+            "node1": 36344,
+            "node2": 289091,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 16238373,
+            "node1": 36344,
+            "node2": 293747,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 17873888,
+            "node1": 36344,
+            "node2": 294376,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 27581291,
+            "node1": 36344,
+            "node2": 299539,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 16284612,
+            "node1": 36344,
+            "node2": 302417,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 19372092,
+            "node1": 36344,
+            "node2": 303180,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 21614260,
+            "node1": 36344,
+            "node2": 303188,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1037318690,
+            "node1": 36344,
+            "node2": 309425,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 11311041,
+            "node1": 36344,
+            "node2": 318395,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 17253895,
+            "node1": 36344,
+            "node2": 397146,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 289221087,
+            "node1": 36344,
+            "node2": 407333,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 17382255,
+            "node1": 36344,
+            "node2": 408239,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515250690,
+            "node1": 36344,
+            "node2": 410226,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 289252931,
+            "node1": 36344,
+            "node2": 431424,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 17709689,
+            "node1": 36344,
+            "node2": 433778,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 765900459,
+            "node1": 36344,
+            "node2": 437477,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 18155731,
+            "node1": 36344,
+            "node2": 580351,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 34671449,
+            "node1": 36344,
+            "node2": 582979,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 29148254,
+            "node1": 36344,
+            "node2": 1774443,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 308213400,
+            "node1": 36344,
+            "node2": 1832838,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 474311193,
+            "node1": 36344,
+            "node2": 1833263,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 253519818,
+            "node1": 36344,
+            "node2": 1855936,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 30688549,
+            "node1": 36344,
+            "node2": 1904034,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 30688548,
+            "node1": 36344,
+            "node2": 1904035,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 765900481,
+            "node1": 36344,
+            "node2": 1962884,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 34137926,
+            "node1": 36344,
+            "node2": 2334500,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 34206723,
+            "node1": 36344,
+            "node2": 2336763,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 34420410,
+            "node1": 36344,
+            "node2": 2342371,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 34495704,
+            "node1": 36344,
+            "node2": 2344585,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 53175742,
+            "node1": 36344,
+            "node2": 2393296,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 54889073,
+            "node1": 36344,
+            "node2": 2428515,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 54891440,
+            "node1": 36344,
+            "node2": 2439172,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 57938288,
+            "node1": 36344,
+            "node2": 2471121,
+            "type": 28,
+            "w": 48.0
+        },
+        {
+            "id": 1016003349,
+            "node1": 36344,
+            "node2": 2481315,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 62409479,
+            "node1": 36344,
+            "node2": 2494258,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 77943427,
+            "node1": 36344,
+            "node2": 2548640,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 58046232,
+            "node1": 36344,
+            "node2": 2605294,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 57938286,
+            "node1": 36344,
+            "node2": 2608790,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 72560803,
+            "node1": 36344,
+            "node2": 2948513,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 72560792,
+            "node1": 36344,
+            "node2": 2948546,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 72782996,
+            "node1": 36344,
+            "node2": 2948847,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 72782831,
+            "node1": 36344,
+            "node2": 2949398,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 72782738,
+            "node1": 36344,
+            "node2": 2949961,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 72782737,
+            "node1": 36344,
+            "node2": 2949962,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 72782605,
+            "node1": 36344,
+            "node2": 2950477,
+            "type": 28,
+            "w": 22.0
+        },
+        {
+            "id": 72782606,
+            "node1": 36344,
+            "node2": 2950478,
+            "type": 28,
+            "w": 22.0
+        },
+        {
+            "id": 76611905,
+            "node1": 36344,
+            "node2": 2955027,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 76611499,
+            "node1": 36344,
+            "node2": 2960810,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 78473960,
+            "node1": 36344,
+            "node2": 3244003,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 765900490,
+            "node1": 36344,
+            "node2": 3372455,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 801272842,
+            "node1": 36344,
+            "node2": 3372989,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 801272899,
+            "node1": 36344,
+            "node2": 3373697,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 765900650,
+            "node1": 36344,
+            "node2": 3743682,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765901096,
+            "node1": 36344,
+            "node2": 3744007,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 289223850,
+            "node1": 36344,
+            "node2": 3951605,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 104943124,
+            "node1": 36344,
+            "node2": 4249438,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 289220988,
+            "node1": 36344,
+            "node2": 4277503,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 801272884,
+            "node1": 36344,
+            "node2": 4342587,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 104935758,
+            "node1": 36344,
+            "node2": 4856609,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 378742049,
+            "node1": 36344,
+            "node2": 5619481,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 765900467,
+            "node1": 36344,
+            "node2": 5621463,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900485,
+            "node1": 36344,
+            "node2": 5621490,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 765900471,
+            "node1": 36344,
+            "node2": 5622429,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 378747039,
+            "node1": 36344,
+            "node2": 5628421,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378747465,
+            "node1": 36344,
+            "node2": 5629006,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 765900465,
+            "node1": 36344,
+            "node2": 5630828,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 378752202,
+            "node1": 36344,
+            "node2": 5796279,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 801272844,
+            "node1": 36344,
+            "node2": 5801557,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 801272872,
+            "node1": 36344,
+            "node2": 5801698,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 378760937,
+            "node1": 36344,
+            "node2": 5981163,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378760935,
+            "node1": 36344,
+            "node2": 5981164,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378761034,
+            "node1": 36344,
+            "node2": 5983905,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 253493899,
+            "node1": 36344,
+            "node2": 5986893,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 378770086,
+            "node1": 36344,
+            "node2": 5998268,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378770122,
+            "node1": 36344,
+            "node2": 5998564,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 375978679,
+            "node1": 36344,
+            "node2": 6529197,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 379048366,
+            "node1": 36344,
+            "node2": 6530385,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 379048364,
+            "node1": 36344,
+            "node2": 6530386,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 515237525,
+            "node1": 36344,
+            "node2": 6950432,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375735603,
+            "node1": 36344,
+            "node2": 7506986,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375975785,
+            "node1": 36344,
+            "node2": 7610127,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 375975452,
+            "node1": 36344,
+            "node2": 8771514,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 253524096,
+            "node1": 36344,
+            "node2": 9021558,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253523854,
+            "node1": 36344,
+            "node2": 9038608,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253523851,
+            "node1": 36344,
+            "node2": 9038689,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 375971914,
+            "node1": 36344,
+            "node2": 9605738,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 375970983,
+            "node1": 36344,
+            "node2": 9740009,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375968166,
+            "node1": 36344,
+            "node2": 9745725,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 253533118,
+            "node1": 36344,
+            "node2": 9832855,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 289287065,
+            "node1": 36344,
+            "node2": 10091941,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253504527,
+            "node1": 36344,
+            "node2": 10095896,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 253504526,
+            "node1": 36344,
+            "node2": 10095901,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 253504525,
+            "node1": 36344,
+            "node2": 10095902,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 253504524,
+            "node1": 36344,
+            "node2": 10095907,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 253504520,
+            "node1": 36344,
+            "node2": 10095929,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 253504518,
+            "node1": 36344,
+            "node2": 10095931,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 253504511,
+            "node1": 36344,
+            "node2": 10095945,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 375714583,
+            "node1": 36344,
+            "node2": 10160249,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 253493901,
+            "node1": 36344,
+            "node2": 10176405,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493900,
+            "node1": 36344,
+            "node2": 10176407,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493898,
+            "node1": 36344,
+            "node2": 10176408,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493897,
+            "node1": 36344,
+            "node2": 10176409,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493894,
+            "node1": 36344,
+            "node2": 10176411,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493891,
+            "node1": 36344,
+            "node2": 10176412,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493889,
+            "node1": 36344,
+            "node2": 10176413,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493888,
+            "node1": 36344,
+            "node2": 10176416,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493886,
+            "node1": 36344,
+            "node2": 10176418,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493884,
+            "node1": 36344,
+            "node2": 10176419,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 253493882,
+            "node1": 36344,
+            "node2": 10176420,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 289273435,
+            "node1": 36344,
+            "node2": 10176421,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 253493423,
+            "node1": 36344,
+            "node2": 10177129,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 470996756,
+            "node1": 36344,
+            "node2": 10383450,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 289286973,
+            "node1": 36344,
+            "node2": 10384793,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 289286972,
+            "node1": 36344,
+            "node2": 10384794,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 289283216,
+            "node1": 36344,
+            "node2": 10430183,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 289220989,
+            "node1": 36344,
+            "node2": 10437643,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289277701,
+            "node1": 36344,
+            "node2": 10518498,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 289277700,
+            "node1": 36344,
+            "node2": 10518499,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 289274408,
+            "node1": 36344,
+            "node2": 10583250,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274407,
+            "node1": 36344,
+            "node2": 10583251,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274405,
+            "node1": 36344,
+            "node2": 10583252,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274352,
+            "node1": 36344,
+            "node2": 10583375,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274353,
+            "node1": 36344,
+            "node2": 10583376,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274351,
+            "node1": 36344,
+            "node2": 10583377,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274350,
+            "node1": 36344,
+            "node2": 10583378,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274349,
+            "node1": 36344,
+            "node2": 10583379,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274348,
+            "node1": 36344,
+            "node2": 10583380,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274347,
+            "node1": 36344,
+            "node2": 10583381,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274346,
+            "node1": 36344,
+            "node2": 10583382,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 289274344,
+            "node1": 36344,
+            "node2": 10583383,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274345,
+            "node1": 36344,
+            "node2": 10583384,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289274343,
+            "node1": 36344,
+            "node2": 10583385,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289259786,
+            "node1": 36344,
+            "node2": 10583599,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 289273989,
+            "node1": 36344,
+            "node2": 10583853,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289273988,
+            "node1": 36344,
+            "node2": 10583855,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289273987,
+            "node1": 36344,
+            "node2": 10583856,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 289255368,
+            "node1": 36344,
+            "node2": 10585853,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289255367,
+            "node1": 36344,
+            "node2": 10588136,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289255369,
+            "node1": 36344,
+            "node2": 10588137,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289265700,
+            "node1": 36344,
+            "node2": 10732822,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 289259638,
+            "node1": 36344,
+            "node2": 10838438,
+            "type": 28,
+            "w": 11.0
+        },
+        {
+            "id": 289259634,
+            "node1": 36344,
+            "node2": 10838465,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 289259633,
+            "node1": 36344,
+            "node2": 10838466,
+            "type": 28,
+            "w": 11.0
+        },
+        {
+            "id": 289258231,
+            "node1": 36344,
+            "node2": 10851227,
+            "type": 28,
+            "w": 11.0
+        },
+        {
+            "id": 289258233,
+            "node1": 36344,
+            "node2": 10851231,
+            "type": 28,
+            "w": 11.0
+        },
+        {
+            "id": 289252932,
+            "node1": 36344,
+            "node2": 10928988,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289252930,
+            "node1": 36344,
+            "node2": 10928991,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289252623,
+            "node1": 36344,
+            "node2": 10933087,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289252622,
+            "node1": 36344,
+            "node2": 10933088,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289252621,
+            "node1": 36344,
+            "node2": 10933089,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289221122,
+            "node1": 36344,
+            "node2": 10933235,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289251620,
+            "node1": 36344,
+            "node2": 10941793,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289251617,
+            "node1": 36344,
+            "node2": 10941805,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289250888,
+            "node1": 36344,
+            "node2": 10955364,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 289249793,
+            "node1": 36344,
+            "node2": 10956234,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289249794,
+            "node1": 36344,
+            "node2": 10956235,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289235585,
+            "node1": 36344,
+            "node2": 11013880,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289222577,
+            "node1": 36344,
+            "node2": 11035210,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289226060,
+            "node1": 36344,
+            "node2": 11106998,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289225844,
+            "node1": 36344,
+            "node2": 11109475,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289225795,
+            "node1": 36344,
+            "node2": 11117634,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 1123994974,
+            "node1": 36344,
+            "node2": 11125013,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 308223242,
+            "node1": 36344,
+            "node2": 11125026,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 289223849,
+            "node1": 36344,
+            "node2": 11147037,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289222578,
+            "node1": 36344,
+            "node2": 11154292,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221228,
+            "node1": 36344,
+            "node2": 11159545,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221227,
+            "node1": 36344,
+            "node2": 11159546,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221226,
+            "node1": 36344,
+            "node2": 11159547,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221225,
+            "node1": 36344,
+            "node2": 11159548,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221224,
+            "node1": 36344,
+            "node2": 11159549,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221222,
+            "node1": 36344,
+            "node2": 11159550,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221221,
+            "node1": 36344,
+            "node2": 11159551,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221220,
+            "node1": 36344,
+            "node2": 11159552,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221218,
+            "node1": 36344,
+            "node2": 11159553,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 289221216,
+            "node1": 36344,
+            "node2": 11159554,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221214,
+            "node1": 36344,
+            "node2": 11159555,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221212,
+            "node1": 36344,
+            "node2": 11159556,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221210,
+            "node1": 36344,
+            "node2": 11159557,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221207,
+            "node1": 36344,
+            "node2": 11159558,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221205,
+            "node1": 36344,
+            "node2": 11159559,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221203,
+            "node1": 36344,
+            "node2": 11159560,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221201,
+            "node1": 36344,
+            "node2": 11159561,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221200,
+            "node1": 36344,
+            "node2": 11159562,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221199,
+            "node1": 36344,
+            "node2": 11159563,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221197,
+            "node1": 36344,
+            "node2": 11159564,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221195,
+            "node1": 36344,
+            "node2": 11159565,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221193,
+            "node1": 36344,
+            "node2": 11159566,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221191,
+            "node1": 36344,
+            "node2": 11159567,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221189,
+            "node1": 36344,
+            "node2": 11159568,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221186,
+            "node1": 36344,
+            "node2": 11159569,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221184,
+            "node1": 36344,
+            "node2": 11159570,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221182,
+            "node1": 36344,
+            "node2": 11159571,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221179,
+            "node1": 36344,
+            "node2": 11159572,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221174,
+            "node1": 36344,
+            "node2": 11159573,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221172,
+            "node1": 36344,
+            "node2": 11159574,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221171,
+            "node1": 36344,
+            "node2": 11159575,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221169,
+            "node1": 36344,
+            "node2": 11159576,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221167,
+            "node1": 36344,
+            "node2": 11159577,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221165,
+            "node1": 36344,
+            "node2": 11159578,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221163,
+            "node1": 36344,
+            "node2": 11159579,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221161,
+            "node1": 36344,
+            "node2": 11159580,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221159,
+            "node1": 36344,
+            "node2": 11159581,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221157,
+            "node1": 36344,
+            "node2": 11159582,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221154,
+            "node1": 36344,
+            "node2": 11159583,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221151,
+            "node1": 36344,
+            "node2": 11159584,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221149,
+            "node1": 36344,
+            "node2": 11159585,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221147,
+            "node1": 36344,
+            "node2": 11159586,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221145,
+            "node1": 36344,
+            "node2": 11159587,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221143,
+            "node1": 36344,
+            "node2": 11159588,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221141,
+            "node1": 36344,
+            "node2": 11159589,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221139,
+            "node1": 36344,
+            "node2": 11159590,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221136,
+            "node1": 36344,
+            "node2": 11159591,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221134,
+            "node1": 36344,
+            "node2": 11159592,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221132,
+            "node1": 36344,
+            "node2": 11159593,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221128,
+            "node1": 36344,
+            "node2": 11159594,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221127,
+            "node1": 36344,
+            "node2": 11159595,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221126,
+            "node1": 36344,
+            "node2": 11159596,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221125,
+            "node1": 36344,
+            "node2": 11159597,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221124,
+            "node1": 36344,
+            "node2": 11159598,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221123,
+            "node1": 36344,
+            "node2": 11159599,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221121,
+            "node1": 36344,
+            "node2": 11159600,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221119,
+            "node1": 36344,
+            "node2": 11159601,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221117,
+            "node1": 36344,
+            "node2": 11159602,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221116,
+            "node1": 36344,
+            "node2": 11159603,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221115,
+            "node1": 36344,
+            "node2": 11159604,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221113,
+            "node1": 36344,
+            "node2": 11159605,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221111,
+            "node1": 36344,
+            "node2": 11159606,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221110,
+            "node1": 36344,
+            "node2": 11159607,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221107,
+            "node1": 36344,
+            "node2": 11159608,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221104,
+            "node1": 36344,
+            "node2": 11159609,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221103,
+            "node1": 36344,
+            "node2": 11159610,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221101,
+            "node1": 36344,
+            "node2": 11159611,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221099,
+            "node1": 36344,
+            "node2": 11159612,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221097,
+            "node1": 36344,
+            "node2": 11159613,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221095,
+            "node1": 36344,
+            "node2": 11159614,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221094,
+            "node1": 36344,
+            "node2": 11159615,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221093,
+            "node1": 36344,
+            "node2": 11159616,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221092,
+            "node1": 36344,
+            "node2": 11159617,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221091,
+            "node1": 36344,
+            "node2": 11159623,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221090,
+            "node1": 36344,
+            "node2": 11159624,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221089,
+            "node1": 36344,
+            "node2": 11159625,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221088,
+            "node1": 36344,
+            "node2": 11159626,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221086,
+            "node1": 36344,
+            "node2": 11159627,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221085,
+            "node1": 36344,
+            "node2": 11159628,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221083,
+            "node1": 36344,
+            "node2": 11159629,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221081,
+            "node1": 36344,
+            "node2": 11159630,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221077,
+            "node1": 36344,
+            "node2": 11159635,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221036,
+            "node1": 36344,
+            "node2": 11159680,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221034,
+            "node1": 36344,
+            "node2": 11159682,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221031,
+            "node1": 36344,
+            "node2": 11159691,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221032,
+            "node1": 36344,
+            "node2": 11159692,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221028,
+            "node1": 36344,
+            "node2": 11159710,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221026,
+            "node1": 36344,
+            "node2": 11159711,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221024,
+            "node1": 36344,
+            "node2": 11159712,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289221022,
+            "node1": 36344,
+            "node2": 11159713,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221017,
+            "node1": 36344,
+            "node2": 11159717,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221015,
+            "node1": 36344,
+            "node2": 11159718,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221001,
+            "node1": 36344,
+            "node2": 11159725,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221007,
+            "node1": 36344,
+            "node2": 11159728,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221005,
+            "node1": 36344,
+            "node2": 11159729,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289221003,
+            "node1": 36344,
+            "node2": 11159730,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289220999,
+            "node1": 36344,
+            "node2": 11159732,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289220997,
+            "node1": 36344,
+            "node2": 11159736,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289220995,
+            "node1": 36344,
+            "node2": 11159737,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289220993,
+            "node1": 36344,
+            "node2": 11159738,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 289220992,
+            "node1": 36344,
+            "node2": 11159739,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289220987,
+            "node1": 36344,
+            "node2": 11159773,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289220986,
+            "node1": 36344,
+            "node2": 11159775,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 289213518,
+            "node1": 36344,
+            "node2": 11302063,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 308221974,
+            "node1": 36344,
+            "node2": 11361106,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 375968490,
+            "node1": 36344,
+            "node2": 11554467,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 308208528,
+            "node1": 36344,
+            "node2": 11826714,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 308206616,
+            "node1": 36344,
+            "node2": 11925169,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 375928616,
+            "node1": 36344,
+            "node2": 12198397,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375928618,
+            "node1": 36344,
+            "node2": 12198398,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 375731928,
+            "node1": 36344,
+            "node2": 13640319,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375722743,
+            "node1": 36344,
+            "node2": 14366742,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375722745,
+            "node1": 36344,
+            "node2": 14366743,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375722746,
+            "node1": 36344,
+            "node2": 14366744,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 391925517,
+            "node1": 36344,
+            "node2": 14604628,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 723003311,
+            "node1": 36344,
+            "node2": 14933580,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 473769036,
+            "node1": 36344,
+            "node2": 14934347,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 485364826,
+            "node1": 36344,
+            "node2": 14952237,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 515247245,
+            "node1": 36344,
+            "node2": 14952238,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 578607571,
+            "node1": 36344,
+            "node2": 14964728,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 579955891,
+            "node1": 36344,
+            "node2": 15049066,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 940572938,
+            "node1": 36344,
+            "node2": 15198364,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 926895080,
+            "node1": 36344,
+            "node2": 15198365,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 1054569975,
+            "node1": 36344,
+            "node2": 15205343,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054570049,
+            "node1": 36344,
+            "node2": 15205344,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 473440637,
+            "node1": 36344,
+            "node2": 15290246,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515236164,
+            "node1": 36344,
+            "node2": 15308535,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515236171,
+            "node1": 36344,
+            "node2": 15308537,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515236073,
+            "node1": 36344,
+            "node2": 15308538,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 515236173,
+            "node1": 36344,
+            "node2": 15308539,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515257256,
+            "node1": 36344,
+            "node2": 15336789,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1054562966,
+            "node1": 36344,
+            "node2": 15361970,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054570136,
+            "node1": 36344,
+            "node2": 15361971,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 738353084,
+            "node1": 36344,
+            "node2": 15361972,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 561136040,
+            "node1": 36344,
+            "node2": 15428072,
+            "type": 28,
+            "w": 22.0
+        },
+        {
+            "id": 926895081,
+            "node1": 36344,
+            "node2": 15784352,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 515253642,
+            "node1": 36344,
+            "node2": 16068381,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470996754,
+            "node1": 36344,
+            "node2": 16678111,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 977744021,
+            "node1": 36344,
+            "node2": 57816790,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 937857840,
+            "node1": 36344,
+            "node2": 125802871,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 549076290,
+            "node1": 36344,
+            "node2": 125802891,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 937858497,
+            "node1": 36344,
+            "node2": 125803004,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 553301313,
+            "node1": 36344,
+            "node2": 147880804,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1127465625,
+            "node1": 36344,
+            "node2": 156741369,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1066400197,
+            "node1": 36344,
+            "node2": 161187133,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 765900482,
+            "node1": 36344,
+            "node2": 161815390,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 1042485099,
+            "node1": 36344,
+            "node2": 162557739,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 1042485188,
+            "node1": 36344,
+            "node2": 162572519,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 738371224,
+            "node1": 36344,
+            "node2": 181069248,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 977741768,
+            "node1": 36344,
+            "node2": 187031103,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 584100407,
+            "node1": 36344,
+            "node2": 187031194,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 765900500,
+            "node1": 36344,
+            "node2": 214182782,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900478,
+            "node1": 36344,
+            "node2": 222883750,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 765900506,
+            "node1": 36344,
+            "node2": 223509940,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900487,
+            "node1": 36344,
+            "node2": 223509941,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 937857545,
+            "node1": 36344,
+            "node2": 249380953,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 765900562,
+            "node1": 36344,
+            "node2": 255695561,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900473,
+            "node1": 36344,
+            "node2": 255699285,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900475,
+            "node1": 36344,
+            "node2": 255707840,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 801272882,
+            "node1": 36344,
+            "node2": 256426677,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 801272901,
+            "node1": 36344,
+            "node2": 264958994,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 765902455,
+            "node1": 36344,
+            "node2": 292585901,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900819,
+            "node1": 36344,
+            "node2": 293634194,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900623,
+            "node1": 36344,
+            "node2": 293634310,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900493,
+            "node1": 36344,
+            "node2": 293634445,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900494,
+            "node1": 36344,
+            "node2": 293634446,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900498,
+            "node1": 36344,
+            "node2": 293634448,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900502,
+            "node1": 36344,
+            "node2": 293634450,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 977745480,
+            "node1": 36344,
+            "node2": 305334100,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745478,
+            "node1": 36344,
+            "node2": 305334111,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745476,
+            "node1": 36344,
+            "node2": 305334112,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745475,
+            "node1": 36344,
+            "node2": 305334170,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745474,
+            "node1": 36344,
+            "node2": 305337785,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745446,
+            "node1": 36344,
+            "node2": 305350987,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745469,
+            "node1": 36344,
+            "node2": 305351644,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745411,
+            "node1": 36344,
+            "node2": 305484338,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745388,
+            "node1": 36344,
+            "node2": 305484341,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977743275,
+            "node1": 36344,
+            "node2": 314339602,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:10.295874",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Maroc",
+        "#relations": 412,
+        "max_relation_weight": 48.0,
+        "#nodes": 413,
+        "duration": "0:00:00.053444"
+    }
+}

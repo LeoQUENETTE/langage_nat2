@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 23682,
+            "name": "grossesse",
+            "type": 1,
+            "w": 2725
+        },
+        {
+            "id": 30079,
+            "name": "allaitement",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 122956,
+            "name": "mère",
+            "type": 1,
+            "w": 8492
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152105782,
+            "node1": 122956,
+            "node2": 23682,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1152105754,
+            "node1": 122956,
+            "node2": 30079,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:42.991063",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mère",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.006533"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6157
+        },
+        {
+            "id": 146056361,
+            "name": "objets décoratifs",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 155908,
+            "name": "fenêtres",
+            "type": 1,
+            "w": 1578
+        }
+    ],
+    "relations": [
+        {
+            "id": 1151273642,
+            "node1": 144497,
+            "node2": 155908,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1151273623,
+            "node1": 144497,
+            "node2": 146056361,
+            "type": 53,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:27.136902",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "verre",
+        "#relations": 2,
+        "max_relation_weight": 26.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003835"
+    }
+}

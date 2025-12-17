@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2526
+        },
+        {
+            "id": 133857,
+            "name": "mode",
+            "type": 1,
+            "w": 7939
+        },
+        {
+            "id": 113317,
+            "name": "Paris",
+            "type": 1,
+            "w": 10163
+        },
+        {
+            "id": 59022,
+            "name": "carte postale",
+            "type": 1,
+            "w": 353
+        },
+        {
+            "id": 22885,
+            "name": "culture",
+            "type": 1,
+            "w": 48729
+        },
+        {
+            "id": 129993,
+            "name": "événements",
+            "type": 1,
+            "w": 6760
+        },
+        {
+            "id": 153704177,
+            "name": "événements culturels",
+            "type": 1,
+            "w": 412
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155700603,
+            "node1": 113317,
+            "node2": 22885,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1150775230,
+            "node1": 113317,
+            "node2": 55249,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1150460432,
+            "node1": 113317,
+            "node2": 59022,
+            "type": 53,
+            "w": 59.0
+        },
+        {
+            "id": 1155700728,
+            "node1": 113317,
+            "node2": 129993,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150775229,
+            "node1": 113317,
+            "node2": 133857,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1158123095,
+            "node1": 113317,
+            "node2": 153704177,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:43.894364",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Paris",
+        "#relations": 6,
+        "max_relation_weight": 59.0,
+        "#nodes": 7,
+        "duration": "0:00:00.013121"
+    }
+}

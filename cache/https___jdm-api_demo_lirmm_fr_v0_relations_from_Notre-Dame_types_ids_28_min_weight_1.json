@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 10520421,
+            "name": "Karim Belkhadra",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11385744,
+            "name": "Marc Duret",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 226609,
+            "name": "Vincent Cassel",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 38449,
+            "name": "Notre-Dame",
+            "type": 1,
+            "w": 3060
+        },
+        {
+            "id": 10070083,
+            "name": "Saïd Taghmaoui",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10604533,
+            "name": "Hubert Koundé",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 470974992,
+            "node1": 38449,
+            "node2": 226609,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470974994,
+            "node1": 38449,
+            "node2": 10070083,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 520397779,
+            "node1": 38449,
+            "node2": 10520421,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470974993,
+            "node1": 38449,
+            "node2": 10604533,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 520397780,
+            "node1": 38449,
+            "node2": 11385744,
+            "type": 28,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:48.846711",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Notre-Dame",
+        "#relations": 5,
+        "max_relation_weight": 29.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004504"
+    }
+}

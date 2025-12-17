@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 463086795,
+            "name": "réduction de trafic routier",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 21233,
+            "name": "wagon",
+            "type": 1,
+            "w": 939
+        },
+        {
+            "id": 2493516,
+            "name": "waguine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 462257293,
+            "name": "désengorgement des routes",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14205795,
+            "name": "réduction des émissions de CO2",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 258387,
+            "name": "se réveiller tôt",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 27120,
+            "name": "train",
+            "type": 1,
+            "w": 7952
+        },
+        {
+            "id": 15541896,
+            "name": "chariotte",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15110008,
+            "name": "en:Wagon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9779311,
+            "name": "en:wagon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2397727,
+            "name": "vagon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 212284,
+            "name": "développement économique",
+            "type": 1,
+            "w": 2710
+        }
+    ],
+    "relations": [
+        {
+            "id": 14658974,
+            "node1": 27120,
+            "node2": 21233,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1152055497,
+            "node1": 27120,
+            "node2": 212284,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14645052,
+            "node1": 27120,
+            "node2": 258387,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 98825355,
+            "node1": 27120,
+            "node2": 2397727,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1026841384,
+            "node1": 27120,
+            "node2": 2493516,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 227944171,
+            "node1": 27120,
+            "node2": 9779311,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1151256159,
+            "node1": 27120,
+            "node2": 14205795,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 964292526,
+            "node1": 27120,
+            "node2": 15110008,
+            "type": 41,
+            "w": 16.0
+        },
+        {
+            "id": 1079369888,
+            "node1": 27120,
+            "node2": 15541896,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1151256148,
+            "node1": 27120,
+            "node2": 462257293,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1152055513,
+            "node1": 27120,
+            "node2": 463086795,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:34.806218",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "train",
+        "#relations": 11,
+        "max_relation_weight": 32.0,
+        "#nodes": 12,
+        "duration": "0:00:00.006809"
+    }
+}

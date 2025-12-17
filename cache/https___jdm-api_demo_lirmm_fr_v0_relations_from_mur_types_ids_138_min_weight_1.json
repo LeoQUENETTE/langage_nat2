@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7272
+        },
+        {
+            "id": 83782,
+            "name": "perçage",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 134527,
+            "name": "dégradation",
+            "type": 1,
+            "w": 3081
+        },
+        {
+            "id": 6187,
+            "name": "fissuration",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 35841,
+            "name": "peinture",
+            "type": 1,
+            "w": 6991
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157922778,
+            "node1": 144936,
+            "node2": 6187,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 962090026,
+            "node1": 144936,
+            "node2": 35841,
+            "type": 138,
+            "w": 92.0
+        },
+        {
+            "id": 1180647459,
+            "node1": 144936,
+            "node2": 83782,
+            "type": 138,
+            "w": 33.0
+        },
+        {
+            "id": 1157922760,
+            "node1": 144936,
+            "node2": 134527,
+            "type": 138,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:19.649905",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mur",
+        "#relations": 4,
+        "max_relation_weight": 92.0,
+        "#nodes": 5,
+        "duration": "0:00:00.003523"
+    }
+}

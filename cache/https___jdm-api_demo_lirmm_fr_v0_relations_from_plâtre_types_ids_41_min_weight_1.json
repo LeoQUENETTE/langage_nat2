@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 259219,
+            "name": "ne pas marcher",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 140516,
+            "name": "plâtre",
+            "type": 1,
+            "w": 342
+        }
+    ],
+    "relations": [
+        {
+            "id": 27891403,
+            "node1": 140516,
+            "node2": 259219,
+            "type": 41,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:07.690585",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plâtre",
+        "#relations": 1,
+        "max_relation_weight": 35.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003644"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 270248182,
+            "name": "construction géométrique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 6363835,
+            "name": "résolution de problèmes",
+            "type": 1,
+            "w": 672
+        },
+        {
+            "id": 68887,
+            "name": "élève",
+            "type": 1,
+            "w": 7662
+        },
+        {
+            "id": 130920,
+            "name": "socialisation",
+            "type": 1,
+            "w": 777
+        },
+        {
+            "id": 123732,
+            "name": "apprentissage",
+            "type": 1,
+            "w": 17173
+        },
+        {
+            "id": 72281,
+            "name": "étude",
+            "type": 1,
+            "w": 18751
+        },
+        {
+            "id": 26584,
+            "name": "composition",
+            "type": 1,
+            "w": 5333
+        },
+        {
+            "id": 95859,
+            "name": "récitation",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 252427,
+            "name": "parler plus fort",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 27268,
+            "name": "examen",
+            "type": 1,
+            "w": 4269
+        },
+        {
+            "id": 235683,
+            "name": "prise de notes",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 228081,
+            "name": "rentrée scolaire",
+            "type": 1,
+            "w": 340
+        }
+    ],
+    "relations": [
+        {
+            "id": 720644628,
+            "node1": 68887,
+            "node2": 26584,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 964302968,
+            "node1": 68887,
+            "node2": 27268,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1072382046,
+            "node1": 68887,
+            "node2": 72281,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 1046576972,
+            "node1": 68887,
+            "node2": 95859,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 963764237,
+            "node1": 68887,
+            "node2": 123732,
+            "type": 137,
+            "w": 130.0
+        },
+        {
+            "id": 1155613209,
+            "node1": 68887,
+            "node2": 130920,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109658,
+            "node1": 68887,
+            "node2": 228081,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 963764247,
+            "node1": 68887,
+            "node2": 235683,
+            "type": 137,
+            "w": 42.0
+        },
+        {
+            "id": 384631030,
+            "node1": 68887,
+            "node2": 252427,
+            "type": 137,
+            "w": 28.0
+        },
+        {
+            "id": 794966686,
+            "node1": 68887,
+            "node2": 6363835,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 948448586,
+            "node1": 68887,
+            "node2": 270248182,
+            "type": 137,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:53.773407",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "élève",
+        "#relations": 11,
+        "max_relation_weight": 130.0,
+        "#nodes": 12,
+        "duration": "0:00:00.012318"
+    }
+}

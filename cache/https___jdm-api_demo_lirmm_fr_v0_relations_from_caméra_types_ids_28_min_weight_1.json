@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 61576,
+            "name": "résolution",
+            "type": 1,
+            "w": 5348
+        },
+        {
+            "id": 23859,
+            "name": "caméra",
+            "type": 1,
+            "w": 3086
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12639
+        },
+        {
+            "id": 234933,
+            "name": "résolution>103150",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 222956,
+            "name": "2001, l'Odyssée de l'espace",
+            "type": 1,
+            "w": 29
+        }
+    ],
+    "relations": [
+        {
+            "id": 11346905,
+            "node1": 23859,
+            "node2": 29592,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 537453496,
+            "node1": 23859,
+            "node2": 61576,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 15761939,
+            "node1": 23859,
+            "node2": 222956,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 521130487,
+            "node1": 23859,
+            "node2": 234933,
+            "type": 28,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:34.969814",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "caméra",
+        "#relations": 4,
+        "max_relation_weight": 41.0,
+        "#nodes": 5,
+        "duration": "0:00:00.002916"
+    }
+}

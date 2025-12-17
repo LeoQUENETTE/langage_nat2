@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 182760,
+            "name": "hymne national",
+            "type": 1,
+            "w": 156
+        },
+        {
+            "id": 279414795,
+            "name": "arsenal de missiles",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 236068,
+            "name": "hotspot",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 249633482,
+            "name": "lois spécifiques",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 214300525,
+            "name": "tradition gastronomique",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 132509,
+            "name": "drapeau",
+            "type": 1,
+            "w": 3806
+        },
+        {
+            "id": 22243,
+            "name": "pays",
+            "type": 1,
+            "w": 27457
+        },
+        {
+            "id": 144850,
+            "name": "armée",
+            "type": 1,
+            "w": 9344
+        },
+        {
+            "id": 118288,
+            "name": "frontière",
+            "type": 1,
+            "w": 5626
+        },
+        {
+            "id": 39543,
+            "name": "territoire",
+            "type": 1,
+            "w": 14032
+        },
+        {
+            "id": 256415,
+            "name": "arsenal nucléaire",
+            "type": 1,
+            "w": 151
+        },
+        {
+            "id": 236965,
+            "name": "plan d'urgence",
+            "type": 1,
+            "w": 283
+        },
+        {
+            "id": 277984,
+            "name": "Territoire",
+            "type": 777,
+            "w": 2485
+        }
+    ],
+    "relations": [
+        {
+            "id": 1133317778,
+            "node1": 22243,
+            "node2": 39543,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1010155812,
+            "node1": 22243,
+            "node2": 118288,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 375711773,
+            "node1": 22243,
+            "node2": 132509,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1132435585,
+            "node1": 22243,
+            "node2": 144850,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1046570649,
+            "node1": 22243,
+            "node2": 182760,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 375711678,
+            "node1": 22243,
+            "node2": 236068,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 770331527,
+            "node1": 22243,
+            "node2": 236965,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 958774482,
+            "node1": 22243,
+            "node2": 256415,
+            "type": 121,
+            "w": 40.0
+        },
+        {
+            "id": 1046570470,
+            "node1": 22243,
+            "node2": 277984,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1150421199,
+            "node1": 22243,
+            "node2": 214300525,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 810987447,
+            "node1": 22243,
+            "node2": 249633482,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 948320863,
+            "node1": 22243,
+            "node2": 279414795,
+            "type": 121,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:04.291750",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pays",
+        "#relations": 12,
+        "max_relation_weight": 40.0,
+        "#nodes": 13,
+        "duration": "0:00:00.009019"
+    }
+}

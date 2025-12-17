@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 262065,
+            "name": "insecte ravageur",
+            "type": 1,
+            "w": 23
+        },
+        {
+            "id": 93650683,
+            "name": "Insecte ravageur",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 316958,
+            "name": "insecte phytophage",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2526
+        },
+        {
+            "id": 117533,
+            "name": "fleurs",
+            "type": 1,
+            "w": 4178
+        }
+    ],
+    "relations": [
+        {
+            "id": 12327589,
+            "node1": 117533,
+            "node2": 55249,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 11312170,
+            "node1": 117533,
+            "node2": 262065,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11312139,
+            "node1": 117533,
+            "node2": 316958,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 977743687,
+            "node1": 117533,
+            "node2": 93650683,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:45:07.635429",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleurs",
+        "#relations": 4,
+        "max_relation_weight": 40.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004422"
+    }
+}

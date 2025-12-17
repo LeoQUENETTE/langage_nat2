@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 252081,
+            "name": "salle de rédaction",
+            "type": 1,
+            "w": 21
+        },
+        {
+            "id": 27635,
+            "name": "éditorial",
+            "type": 1,
+            "w": 1170
+        },
+        {
+            "id": 122489,
+            "name": "paragraphe",
+            "type": 1,
+            "w": 643
+        },
+        {
+            "id": 15242048,
+            "name": "en:newspaper office",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36619,
+            "name": "annonce",
+            "type": 1,
+            "w": 5726
+        },
+        {
+            "id": 75585,
+            "name": "rubrique",
+            "type": 1,
+            "w": 713
+        },
+        {
+            "id": 71626,
+            "name": "illustration",
+            "type": 1,
+            "w": 3661
+        },
+        {
+            "id": 64568,
+            "name": "nouvelle",
+            "type": 1,
+            "w": 6410
+        },
+        {
+            "id": 56608,
+            "name": "page",
+            "type": 1,
+            "w": 7597
+        },
+        {
+            "id": 7970,
+            "name": "titre",
+            "type": 1,
+            "w": 8441
+        },
+        {
+            "id": 52442,
+            "name": "photo",
+            "type": 1,
+            "w": 4923
+        },
+        {
+            "id": 49928,
+            "name": "couverture",
+            "type": 1,
+            "w": 3279
+        },
+        {
+            "id": 142914,
+            "name": "image",
+            "type": 1,
+            "w": 11657
+        },
+        {
+            "id": 115763,
+            "name": "article",
+            "type": 1,
+            "w": 13916
+        },
+        {
+            "id": 2026,
+            "name": "journal",
+            "type": 1,
+            "w": 9365
+        },
+        {
+            "id": 153479,
+            "name": "pages",
+            "type": 1,
+            "w": 4003
+        },
+        {
+            "id": 37993,
+            "name": "feuille",
+            "type": 1,
+            "w": 5457
+        },
+        {
+            "id": 216474,
+            "name": "titre>143493",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 216465,
+            "name": "couverture>142787",
+            "type": 1,
+            "w": 66
+        }
+    ],
+    "relations": [
+        {
+            "id": 10527957,
+            "node1": 2026,
+            "node2": 7970,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1143645515,
+            "node1": 2026,
+            "node2": 27635,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 1143645505,
+            "node1": 2026,
+            "node2": 36619,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 97135158,
+            "node1": 2026,
+            "node2": 37993,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 97135136,
+            "node1": 2026,
+            "node2": 49928,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 9975611,
+            "node1": 2026,
+            "node2": 52442,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 10530816,
+            "node1": 2026,
+            "node2": 56608,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 9971180,
+            "node1": 2026,
+            "node2": 64568,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1156158203,
+            "node1": 2026,
+            "node2": 71626,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1143644796,
+            "node1": 2026,
+            "node2": 75585,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 9975726,
+            "node1": 2026,
+            "node2": 115763,
+            "type": 9,
+            "w": 70.0
+        },
+        {
+            "id": 10533621,
+            "node1": 2026,
+            "node2": 122489,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10528680,
+            "node1": 2026,
+            "node2": 142914,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1055592770,
+            "node1": 2026,
+            "node2": 153479,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 97135137,
+            "node1": 2026,
+            "node2": 216465,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 11525944,
+            "node1": 2026,
+            "node2": 216474,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 10561685,
+            "node1": 2026,
+            "node2": 252081,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 551084430,
+            "node1": 2026,
+            "node2": 15242048,
+            "type": 9,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:09.919712",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "journal",
+        "#relations": 18,
+        "max_relation_weight": 70.0,
+        "#nodes": 19,
+        "duration": "0:00:00.008109"
+    }
+}

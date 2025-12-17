@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 14921021,
+            "name": "en:wardrobe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14931020,
+            "name": "en:twilight",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 198023,
+            "name": "coucher du soleil",
+            "type": 1,
+            "w": 198
+        },
+        {
+            "id": 6805737,
+            "name": "en:fall",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15075471,
+            "name": "en:gloaming",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 136447,
+            "name": "moment",
+            "type": 1,
+            "w": 34789
+        },
+        {
+            "id": 94053,
+            "name": "soir",
+            "type": 1,
+            "w": 10625
+        },
+        {
+            "id": 97587,
+            "name": "heure",
+            "type": 1,
+            "w": 32768
+        },
+        {
+            "id": 14931017,
+            "name": "en:dusk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14931018,
+            "name": "en:nightfall",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 15075467,
+            "name": "en:crepuscle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15075468,
+            "name": "en:crepuscule",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15075469,
+            "name": "en:evenfall",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15075470,
+            "name": "en:gloam",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14930525,
+            "name": "en:sunset",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14931019,
+            "name": "en:sundown",
+            "type": 1,
+            "w": 6
+        }
+    ],
+    "relations": [
+        {
+            "id": 10532374,
+            "node1": 94053,
+            "node2": 97587,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 10563909,
+            "node1": 94053,
+            "node2": 136447,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1066280638,
+            "node1": 94053,
+            "node2": 198023,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 601607708,
+            "node1": 94053,
+            "node2": 6805737,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 696817736,
+            "node1": 94053,
+            "node2": 14921021,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 601607706,
+            "node1": 94053,
+            "node2": 14930525,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607701,
+            "node1": 94053,
+            "node2": 14931017,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607704,
+            "node1": 94053,
+            "node2": 14931018,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607700,
+            "node1": 94053,
+            "node2": 14931019,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607705,
+            "node1": 94053,
+            "node2": 14931020,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607703,
+            "node1": 94053,
+            "node2": 15075467,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607698,
+            "node1": 94053,
+            "node2": 15075468,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607707,
+            "node1": 94053,
+            "node2": 15075469,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607702,
+            "node1": 94053,
+            "node2": 15075470,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 601607699,
+            "node1": 94053,
+            "node2": 15075471,
+            "type": 9,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:38.477817",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soir",
+        "#relations": 15,
+        "max_relation_weight": 34.0,
+        "#nodes": 16,
+        "duration": "0:00:00.005007"
+    }
+}

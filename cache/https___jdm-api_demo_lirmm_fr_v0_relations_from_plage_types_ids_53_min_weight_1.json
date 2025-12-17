@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 144838,
+            "name": "souvenirs",
+            "type": 1,
+            "w": 2671
+        },
+        {
+            "id": 122393,
+            "name": "plage",
+            "type": 1,
+            "w": 5991
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152775363,
+            "node1": 122393,
+            "node2": 144838,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:58.746017",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plage",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005009"
+    }
+}

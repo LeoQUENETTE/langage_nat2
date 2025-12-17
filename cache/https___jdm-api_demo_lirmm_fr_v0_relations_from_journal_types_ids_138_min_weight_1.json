@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 39577,
+            "name": "impression",
+            "type": 1,
+            "w": 3877
+        },
+        {
+            "id": 49390,
+            "name": "diffusion",
+            "type": 1,
+            "w": 6283
+        },
+        {
+            "id": 2026,
+            "name": "journal",
+            "type": 1,
+            "w": 9365
+        },
+        {
+            "id": 96312,
+            "name": "lecture",
+            "type": 1,
+            "w": 7237
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156158199,
+            "node1": 2026,
+            "node2": 39577,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1156140176,
+            "node1": 2026,
+            "node2": 49390,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1156140185,
+            "node1": 2026,
+            "node2": 96312,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:11.304474",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "journal",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005306"
+    }
+}

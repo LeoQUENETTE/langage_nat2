@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4761
+        },
+        {
+            "id": 252598,
+            "name": "ronde de police",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 177147,
+            "name": "arrêté municipal",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 369259,
+            "name": "patrouille de police",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 15194509,
+            "name": "en:police patrol",
+            "type": 1,
+            "w": 2
+        }
+    ],
+    "relations": [
+        {
+            "id": 1144790260,
+            "node1": 63462,
+            "node2": 177147,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 376990569,
+            "node1": 63462,
+            "node2": 252598,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 479422858,
+            "node1": 63462,
+            "node2": 369259,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 479421749,
+            "node1": 63462,
+            "node2": 15194509,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:11.465386",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maire",
+        "#relations": 4,
+        "max_relation_weight": 30.0,
+        "#nodes": 5,
+        "duration": "0:00:00.008915"
+    }
+}

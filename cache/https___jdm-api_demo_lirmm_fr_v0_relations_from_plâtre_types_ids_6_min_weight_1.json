@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 14948048,
+            "name": "en:construction material",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14948047,
+            "name": "en:building material",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5280
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 31526,
+            "name": "système",
+            "type": 1,
+            "w": 21792
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 158943,
+            "name": "matériau de construction",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 140516,
+            "name": "plâtre",
+            "type": 1,
+            "w": 342
+        }
+    ],
+    "relations": [
+        {
+            "id": 109951289,
+            "node1": 140516,
+            "node2": 31526,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 657628883,
+            "node1": 140516,
+            "node2": 97739,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 630525,
+            "node1": 140516,
+            "node2": 135190,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 1127190056,
+            "node1": 140516,
+            "node2": 135936,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 479927257,
+            "node1": 140516,
+            "node2": 158943,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 705636058,
+            "node1": 140516,
+            "node2": 14948047,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 705636056,
+            "node1": 140516,
+            "node2": 14948048,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:06.570475",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plâtre",
+        "#relations": 7,
+        "max_relation_weight": 59.0,
+        "#nodes": 8,
+        "duration": "0:00:00.008930"
+    }
+}

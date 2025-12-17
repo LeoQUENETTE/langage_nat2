@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 50195,
+            "name": "piano",
+            "type": 1,
+            "w": 3500
+        },
+        {
+            "id": 352008,
+            "name": "enseignement musical",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 298495,
+            "name": "composition musicale",
+            "type": 1,
+            "w": 93
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152615048,
+            "node1": 50195,
+            "node2": 298495,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 1152615062,
+            "node1": 50195,
+            "node2": 352008,
+            "type": 137,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:47.374858",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "piano",
+        "#relations": 2,
+        "max_relation_weight": 30.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004137"
+    }
+}

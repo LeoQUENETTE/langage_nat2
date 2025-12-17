@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 15362523,
+            "name": "en:signs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 47201,
+            "name": "information",
+            "type": 1,
+            "w": 23842
+        },
+        {
+            "id": 51253,
+            "name": "message",
+            "type": 1,
+            "w": 8158
+        },
+        {
+            "id": 12105,
+            "name": "communication",
+            "type": 1,
+            "w": 38977
+        }
+    ],
+    "relations": [
+        {
+            "id": 1145092484,
+            "node1": 51253,
+            "node2": 12105,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 1145092485,
+            "node1": 51253,
+            "node2": 47201,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 601609443,
+            "node1": 51253,
+            "node2": 15362523,
+            "type": 6,
+            "w": 22.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:24.725108",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "message",
+        "#relations": 3,
+        "max_relation_weight": 28.0,
+        "#nodes": 4,
+        "duration": "0:00:00.037652"
+    }
+}

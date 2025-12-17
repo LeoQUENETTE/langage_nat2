@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 3905,
+            "name": "durée",
+            "type": 1,
+            "w": 6877
+        },
+        {
+            "id": 61281,
+            "name": "Rome",
+            "type": 1,
+            "w": 4653
+        },
+        {
+            "id": 59993,
+            "name": "réalisateur",
+            "type": 1,
+            "w": 4882
+        },
+        {
+            "id": 13444,
+            "name": "production",
+            "type": 1,
+            "w": 13428
+        },
+        {
+            "id": 14032825,
+            "name": "nombre d'épisodes",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 14032830,
+            "name": "nombre de saisons",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 354437514,
+            "node1": 61281,
+            "node2": 3905,
+            "type": 153,
+            "w": 30.0
+        },
+        {
+            "id": 354439066,
+            "node1": 61281,
+            "node2": 13444,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 354422036,
+            "node1": 61281,
+            "node2": 59993,
+            "type": 153,
+            "w": 26.0
+        },
+        {
+            "id": 354423414,
+            "node1": 61281,
+            "node2": 14032825,
+            "type": 153,
+            "w": 26.0
+        },
+        {
+            "id": 354425274,
+            "node1": 61281,
+            "node2": 14032830,
+            "type": 153,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:12.441254",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Rome",
+        "#relations": 5,
+        "max_relation_weight": 31.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004391"
+    }
+}

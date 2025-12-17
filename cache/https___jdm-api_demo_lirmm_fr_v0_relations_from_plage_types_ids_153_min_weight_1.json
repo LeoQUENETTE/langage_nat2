@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 303354472,
+            "name": "longueur du littoral",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 51894,
+            "name": "granulométrie",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 122393,
+            "name": "plage",
+            "type": 1,
+            "w": 5991
+        },
+        {
+            "id": 16865,
+            "name": "longueur",
+            "type": 1,
+            "w": 4589
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139617,
+            "node1": 122393,
+            "node2": 16865,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179139285,
+            "node1": 122393,
+            "node2": 51894,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179137902,
+            "node1": 122393,
+            "node2": 303354472,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:58.935129",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plage",
+        "#relations": 3,
+        "max_relation_weight": 29.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004824"
+    }
+}

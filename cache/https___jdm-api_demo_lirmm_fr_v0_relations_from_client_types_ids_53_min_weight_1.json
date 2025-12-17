@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 14314,
+            "name": "avis",
+            "type": 1,
+            "w": 6875
+        },
+        {
+            "id": 30730,
+            "name": "demande",
+            "type": 1,
+            "w": 13596
+        },
+        {
+            "id": 20082,
+            "name": "client",
+            "type": 1,
+            "w": 7823
+        },
+        {
+            "id": 90734,
+            "name": "achat",
+            "type": 1,
+            "w": 3121
+        },
+        {
+            "id": 15192942,
+            "name": "en:cash payment",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 249874,
+            "name": "règlement en espèces",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 321847,
+            "name": "paiement en espèces",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 321876,
+            "name": "paiement en liquide",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 368059,
+            "name": "paiement comptant",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 15202470,
+            "name": "payement en liquide",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15202471,
+            "name": "en:payment in cash",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155624036,
+            "node1": 20082,
+            "node2": 14314,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 770334150,
+            "node1": 20082,
+            "node2": 30730,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 1131440454,
+            "node1": 20082,
+            "node2": 90734,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 479422799,
+            "node1": 20082,
+            "node2": 249874,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 594831129,
+            "node1": 20082,
+            "node2": 321847,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 376990873,
+            "node1": 20082,
+            "node2": 321876,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 594831054,
+            "node1": 20082,
+            "node2": 368059,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 594830909,
+            "node1": 20082,
+            "node2": 15192942,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 594830777,
+            "node1": 20082,
+            "node2": 15202470,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 479422230,
+            "node1": 20082,
+            "node2": 15202471,
+            "type": 53,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:32.495401",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "client",
+        "#relations": 10,
+        "max_relation_weight": 34.0,
+        "#nodes": 11,
+        "duration": "0:00:00.006289"
+    }
+}

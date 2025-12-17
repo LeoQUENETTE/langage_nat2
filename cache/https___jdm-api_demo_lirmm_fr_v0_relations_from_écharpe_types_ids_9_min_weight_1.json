@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 15214667,
+            "name": "en:meshes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 28937,
+            "name": "soie",
+            "type": 1,
+            "w": 2409
+        },
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 160917,
+            "name": "mailles",
+            "type": 1,
+            "w": 337
+        },
+        {
+            "id": 128782,
+            "name": "fil",
+            "type": 1,
+            "w": 5593
+        },
+        {
+            "id": 398585,
+            "name": "franges",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 146162,
+            "name": "écharpe",
+            "type": 1,
+            "w": 304
+        },
+        {
+            "id": 16865,
+            "name": "longueur",
+            "type": 1,
+            "w": 4589
+        },
+        {
+            "id": 140770,
+            "name": "laine",
+            "type": 1,
+            "w": 2205
+        }
+    ],
+    "relations": [
+        {
+            "id": 961890355,
+            "node1": 146162,
+            "node2": 16865,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 9971239,
+            "node1": 146162,
+            "node2": 28937,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 2812906,
+            "node1": 146162,
+            "node2": 63936,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 10563785,
+            "node1": 146162,
+            "node2": 128782,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 8544655,
+            "node1": 146162,
+            "node2": 140770,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 10531687,
+            "node1": 146162,
+            "node2": 160917,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 801547332,
+            "node1": 146162,
+            "node2": 398585,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 603595353,
+            "node1": 146162,
+            "node2": 15214667,
+            "type": 9,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:01.980826",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "écharpe",
+        "#relations": 8,
+        "max_relation_weight": 33.0,
+        "#nodes": 9,
+        "duration": "0:00:00.004071"
+    }
+}

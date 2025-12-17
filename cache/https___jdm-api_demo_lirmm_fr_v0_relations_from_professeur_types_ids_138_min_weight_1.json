@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 123732,
+            "name": "apprentissage",
+            "type": 1,
+            "w": 17267
+        },
+        {
+            "id": 36568,
+            "name": "professeur",
+            "type": 1,
+            "w": 8475
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155612522,
+            "node1": 36568,
+            "node2": 123732,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:03.666598",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "professeur",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004794"
+    }
+}

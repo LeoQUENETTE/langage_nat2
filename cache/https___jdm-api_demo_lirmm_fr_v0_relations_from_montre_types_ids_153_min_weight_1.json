@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 45049,
+            "name": "montre",
+            "type": 1,
+            "w": 5426
+        },
+        {
+            "id": 17027,
+            "name": "étanchéité",
+            "type": 1,
+            "w": 145
+        },
+        {
+            "id": 111393,
+            "name": "précision",
+            "type": 1,
+            "w": 5622
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137824,
+            "node1": 45049,
+            "node2": 17027,
+            "type": 153,
+            "w": 39.0
+        },
+        {
+            "id": 720482702,
+            "node1": 45049,
+            "node2": 111393,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:28.501352",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "montre",
+        "#relations": 2,
+        "max_relation_weight": 39.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003614"
+    }
+}

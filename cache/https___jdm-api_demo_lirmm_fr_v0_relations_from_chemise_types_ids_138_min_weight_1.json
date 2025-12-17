@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 7319,
+            "name": "repassage",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 70606,
+            "name": "chemise",
+            "type": 1,
+            "w": 2189
+        }
+    ],
+    "relations": [
+        {
+            "id": 1182095224,
+            "node1": 70606,
+            "node2": 7319,
+            "type": 138,
+            "w": 50.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:08.550793",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chemise",
+        "#relations": 1,
+        "max_relation_weight": 50.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003534"
+    }
+}

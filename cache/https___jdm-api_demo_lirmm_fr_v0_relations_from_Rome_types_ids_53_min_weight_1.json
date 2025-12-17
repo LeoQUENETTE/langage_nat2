@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 61281,
+            "name": "Rome",
+            "type": 1,
+            "w": 4653
+        },
+        {
+            "id": 61223,
+            "name": "souvenir",
+            "type": 1,
+            "w": 10686
+        },
+        {
+            "id": 3695,
+            "name": "art",
+            "type": 1,
+            "w": 15231
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150775270,
+            "node1": 61281,
+            "node2": 3695,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1150460433,
+            "node1": 61281,
+            "node2": 61223,
+            "type": 53,
+            "w": 59.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:12.271343",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Rome",
+        "#relations": 2,
+        "max_relation_weight": 59.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004679"
+    }
+}

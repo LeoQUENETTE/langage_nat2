@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 2585997,
+            "name": "_INFO-CNRTL-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317323,
+            "name": "_POLIT_2PG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 363192,
+            "name": "manteau d'hiver",
+            "type": 1,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 26432827,
+            "node1": 363192,
+            "node2": 223172,
+            "type": 36,
+            "w": 58.0
+        },
+        {
+            "id": 17070799,
+            "node1": 363192,
+            "node2": 223173,
+            "type": 36,
+            "w": 300.0
+        },
+        {
+            "id": 26132699,
+            "node1": 363192,
+            "node2": 241794,
+            "type": 36,
+            "w": 90.0
+        },
+        {
+            "id": 26801232,
+            "node1": 363192,
+            "node2": 254876,
+            "type": 36,
+            "w": 67.0
+        },
+        {
+            "id": 26801233,
+            "node1": 363192,
+            "node2": 254877,
+            "type": 36,
+            "w": 20.0
+        },
+        {
+            "id": 26801234,
+            "node1": 363192,
+            "node2": 254878,
+            "type": 36,
+            "w": 13.0
+        },
+        {
+            "id": 107008141,
+            "node1": 363192,
+            "node2": 276096,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 505145694,
+            "node1": 363192,
+            "node2": 317323,
+            "type": 36,
+            "w": 1.45
+        },
+        {
+            "id": 505145693,
+            "node1": 363192,
+            "node2": 317329,
+            "type": 36,
+            "w": 2.25
+        },
+        {
+            "id": 72047388,
+            "node1": 363192,
+            "node2": 2585997,
+            "type": 36,
+            "w": 69.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:04.850558",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "manteau d'hiver",
+        "#relations": 10,
+        "max_relation_weight": 300.0,
+        "#nodes": 11,
+        "duration": "0:00:00.006669"
+    }
+}

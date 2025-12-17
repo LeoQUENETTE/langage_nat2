@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 79954,
+            "name": "restaurant",
+            "type": 1,
+            "w": 6194
+        },
+        {
+            "id": 21254,
+            "name": "accueil",
+            "type": 1,
+            "w": 1920
+        },
+        {
+            "id": 458387369,
+            "name": "service de hamburger",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 249177614,
+            "name": "préparation des plats",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 233025,
+            "name": "restauration collective",
+            "type": 1,
+            "w": 230
+        },
+        {
+            "id": 24247,
+            "name": "service",
+            "type": 1,
+            "w": 16237
+        },
+        {
+            "id": 11575,
+            "name": "restauration",
+            "type": 1,
+            "w": 4180
+        },
+        {
+            "id": 160605715,
+            "name": "préparation des repas",
+            "type": 1,
+            "w": 76
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143072569,
+            "node1": 79954,
+            "node2": 11575,
+            "type": 137,
+            "w": 28.0
+        },
+        {
+            "id": 1153735894,
+            "node1": 79954,
+            "node2": 21254,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1143074766,
+            "node1": 79954,
+            "node2": 24247,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 1026754021,
+            "node1": 79954,
+            "node2": 233025,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 1143076847,
+            "node1": 79954,
+            "node2": 160605715,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1143077235,
+            "node1": 79954,
+            "node2": 249177614,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1147899898,
+            "node1": 79954,
+            "node2": 458387369,
+            "type": 137,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:44.252705",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "restaurant",
+        "#relations": 7,
+        "max_relation_weight": 31.0,
+        "#nodes": 8,
+        "duration": "0:00:00.008852"
+    }
+}

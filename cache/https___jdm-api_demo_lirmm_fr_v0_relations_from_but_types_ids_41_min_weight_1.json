@@ -1,0 +1,417 @@
+{
+    "nodes": [
+        {
+            "id": 15207792,
+            "name": "en:run with the hare and hunt with the hounds",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7431688,
+            "name": "en:data collection",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 252947140,
+            "name": "Collecte de données",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 200678,
+            "name": "faire un compromis",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 186459,
+            "name": "ménager la chèvre et le chou",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 267464,
+            "name": "collecte de données",
+            "type": 1,
+            "w": 690
+        },
+        {
+            "id": 202373,
+            "name": "jouer double jeu",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 203363,
+            "name": "manger à tous les râteliers",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 320013,
+            "name": "ménager les susceptibilités",
+            "type": 1,
+            "w": 63
+        },
+        {
+            "id": 2348248,
+            "name": "bouffer à tous les râteliers",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2853802,
+            "name": "se mêler de tout",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 20346,
+            "name": "but",
+            "type": 1,
+            "w": 8100
+        },
+        {
+            "id": 14922334,
+            "name": "en:sit on the fence",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15207791,
+            "name": "en:straddle the fence",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15302339,
+            "name": "en:data harvesting",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15327847,
+            "name": "en:speak on both sides of one's mouth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15334106,
+            "name": "en:to be all things to all people",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15334107,
+            "name": "en:make the most of what comes along",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15334109,
+            "name": "en:rake out every pot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15334108,
+            "name": "en:try to benefit from all sides",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15372868,
+            "name": "être comme l'âne de Buridan",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413618,
+            "name": "en:have a finger in every pie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15441222,
+            "name": "en:keep both parties sweet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15477204,
+            "name": "mettre son nez partout",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15477205,
+            "name": "avoir des intérêts dans de nombreuses affaires",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15565656,
+            "name": "en:be all things to all people",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15604829,
+            "name": "en:to keep everyone happy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15604830,
+            "name": "en:keep everyone happy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15604831,
+            "name": "en:have a foot in both camps",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16773828,
+            "name": "en:to try to please everyone",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 14647679,
+            "node1": 20346,
+            "node2": 186459,
+            "type": 41,
+            "w": 57.0
+        },
+        {
+            "id": 14647665,
+            "node1": 20346,
+            "node2": 200678,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 631748218,
+            "node1": 20346,
+            "node2": 202373,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 411504408,
+            "node1": 20346,
+            "node2": 203363,
+            "type": 41,
+            "w": 47.0
+        },
+        {
+            "id": 14648193,
+            "node1": 20346,
+            "node2": 267464,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14647672,
+            "node1": 20346,
+            "node2": 320013,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 411504418,
+            "node1": 20346,
+            "node2": 2348248,
+            "type": 41,
+            "w": 47.0
+        },
+        {
+            "id": 806202754,
+            "node1": 20346,
+            "node2": 2853802,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 769587507,
+            "node1": 20346,
+            "node2": 7431688,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 631746882,
+            "node1": 20346,
+            "node2": 14922334,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 631746869,
+            "node1": 20346,
+            "node2": 15207791,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 405621816,
+            "node1": 20346,
+            "node2": 15207792,
+            "type": 41,
+            "w": 58.0
+        },
+        {
+            "id": 1079364972,
+            "node1": 20346,
+            "node2": 15302339,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079390246,
+            "node1": 20346,
+            "node2": 15327847,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079367406,
+            "node1": 20346,
+            "node2": 15334106,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079367413,
+            "node1": 20346,
+            "node2": 15334107,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079367420,
+            "node1": 20346,
+            "node2": 15334108,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079367427,
+            "node1": 20346,
+            "node2": 15334109,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 438164924,
+            "node1": 20346,
+            "node2": 15372868,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 411504425,
+            "node1": 20346,
+            "node2": 15413618,
+            "type": 41,
+            "w": 39.0
+        },
+        {
+            "id": 411503675,
+            "node1": 20346,
+            "node2": 15441222,
+            "type": 41,
+            "w": 57.0
+        },
+        {
+            "id": 1079359893,
+            "node1": 20346,
+            "node2": 15477204,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079359900,
+            "node1": 20346,
+            "node2": 15477205,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079367434,
+            "node1": 20346,
+            "node2": 15565656,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 443093033,
+            "node1": 20346,
+            "node2": 15604829,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 443093043,
+            "node1": 20346,
+            "node2": 15604830,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 769600647,
+            "node1": 20346,
+            "node2": 15604831,
+            "type": 41,
+            "w": 3.0
+        },
+        {
+            "id": 443093050,
+            "node1": 20346,
+            "node2": 16773828,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1122669784,
+            "node1": 20346,
+            "node2": 252947140,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:53.035436",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "but",
+        "#relations": 29,
+        "max_relation_weight": 58.0,
+        "#nodes": 30,
+        "duration": "0:00:00.009235"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 5558949,
+            "name": "article de joaillerie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142249,
+            "name": "bague",
+            "type": 1,
+            "w": 877
+        },
+        {
+            "id": 102356,
+            "name": "anneau",
+            "type": 1,
+            "w": 2612
+        },
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1422
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12888
+        },
+        {
+            "id": 85794,
+            "name": "diamant",
+            "type": 1,
+            "w": 686
+        },
+        {
+            "id": 244371,
+            "name": "bijou>48961",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 183217,
+            "name": "métal de transition",
+            "type": 1,
+            "w": 21
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9528
+        },
+        {
+            "id": 257758,
+            "name": "objet de luxe",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 238303,
+            "name": "objet précieux",
+            "type": 1,
+            "w": 59
+        }
+    ],
+    "relations": [
+        {
+            "id": 371278257,
+            "node1": 142249,
+            "node2": 237,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 9901932,
+            "node1": 142249,
+            "node2": 16912,
+            "type": 6,
+            "w": 92.0
+        },
+        {
+            "id": 9898978,
+            "node1": 142249,
+            "node2": 85794,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 82663935,
+            "node1": 142249,
+            "node2": 102356,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 630518,
+            "node1": 142249,
+            "node2": 135190,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 11936061,
+            "node1": 142249,
+            "node2": 183217,
+            "type": 6,
+            "w": 1.0
+        },
+        {
+            "id": 9913608,
+            "node1": 142249,
+            "node2": 238303,
+            "type": 6,
+            "w": 48.0
+        },
+        {
+            "id": 12077616,
+            "node1": 142249,
+            "node2": 244371,
+            "type": 6,
+            "w": 188.0
+        },
+        {
+            "id": 937532518,
+            "node1": 142249,
+            "node2": 246870,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 9926882,
+            "node1": 142249,
+            "node2": 257758,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 117445014,
+            "node1": 142249,
+            "node2": 5558949,
+            "type": 6,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:37.275129",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bague",
+        "#relations": 11,
+        "max_relation_weight": 188.0,
+        "#nodes": 12,
+        "duration": "0:00:00.019126"
+    }
+}

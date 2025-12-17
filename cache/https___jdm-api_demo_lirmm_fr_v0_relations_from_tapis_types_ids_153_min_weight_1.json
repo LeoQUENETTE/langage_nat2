@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 81046,
+            "name": "tapis",
+            "type": 1,
+            "w": 1328
+        },
+        {
+            "id": 157640,
+            "name": "pays d'origine",
+            "type": 1,
+            "w": 331
+        },
+        {
+            "id": 124455,
+            "name": "motif",
+            "type": 1,
+            "w": 3159
+        },
+        {
+            "id": 131040,
+            "name": "prix",
+            "type": 1,
+            "w": 12152
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 13070,
+            "name": "épaisseur",
+            "type": 1,
+            "w": 396
+        },
+        {
+            "id": 132652,
+            "name": "dimension",
+            "type": 1,
+            "w": 7211
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137820,
+            "node1": 81046,
+            "node2": 13070,
+            "type": 153,
+            "w": 39.0
+        },
+        {
+            "id": 354553878,
+            "node1": 81046,
+            "node2": 40056,
+            "type": 153,
+            "w": 26.0
+        },
+        {
+            "id": 766169411,
+            "node1": 81046,
+            "node2": 97739,
+            "type": 153,
+            "w": 32.0
+        },
+        {
+            "id": 766169412,
+            "node1": 81046,
+            "node2": 124455,
+            "type": 153,
+            "w": 32.0
+        },
+        {
+            "id": 766169413,
+            "node1": 81046,
+            "node2": 131040,
+            "type": 153,
+            "w": 32.0
+        },
+        {
+            "id": 354553765,
+            "node1": 81046,
+            "node2": 132652,
+            "type": 153,
+            "w": 34.0
+        },
+        {
+            "id": 354553935,
+            "node1": 81046,
+            "node2": 157640,
+            "type": 153,
+            "w": 42.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:13.461377",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tapis",
+        "#relations": 7,
+        "max_relation_weight": 42.0,
+        "#nodes": 8,
+        "duration": "0:00:00.007601"
+    }
+}

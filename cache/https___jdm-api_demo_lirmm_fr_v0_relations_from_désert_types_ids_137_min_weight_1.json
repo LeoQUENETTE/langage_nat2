@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 23089,
+            "name": "désertification",
+            "type": 1,
+            "w": 327
+        },
+        {
+            "id": 19331,
+            "name": "érosion",
+            "type": 1,
+            "w": 941
+        },
+        {
+            "id": 144366,
+            "name": "désert",
+            "type": 1,
+            "w": 4834
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155344603,
+            "node1": 144366,
+            "node2": 19331,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1155344629,
+            "node1": 144366,
+            "node2": 23089,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:34.254897",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "désert",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.009794"
+    }
+}

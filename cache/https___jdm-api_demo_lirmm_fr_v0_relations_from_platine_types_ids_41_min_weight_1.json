@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 464996257,
+            "name": "nostalgie sonore",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 145641,
+            "name": "platine",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 1645443,
+            "name": "augmentation de valeur",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 195909,
+            "name": "ambiance sonore",
+            "type": 1,
+            "w": 167
+        },
+        {
+            "id": 74339,
+            "name": "oxydation",
+            "type": 1,
+            "w": 364
+        },
+        {
+            "id": 257025970,
+            "name": "appréciation musicale",
+            "type": 1,
+            "w": 34
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155756649,
+            "node1": 145641,
+            "node2": 74339,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155756820,
+            "node1": 145641,
+            "node2": 195909,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155756676,
+            "node1": 145641,
+            "node2": 1645443,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155756808,
+            "node1": 145641,
+            "node2": 257025970,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155756834,
+            "node1": 145641,
+            "node2": 464996257,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:10.282129",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "platine",
+        "#relations": 5,
+        "max_relation_weight": 25.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004042"
+    }
+}

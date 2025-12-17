@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 75544,
+            "name": "luminescence",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 145792,
+            "name": "lumière",
+            "type": 1,
+            "w": 13394
+        },
+        {
+            "id": 6952825,
+            "name": "en:luminescence",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 11344800,
+            "node1": 145792,
+            "node2": 75544,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 253530696,
+            "node1": 145792,
+            "node2": 6952825,
+            "type": 28,
+            "w": 1.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:28.976167",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lumière",
+        "#relations": 2,
+        "max_relation_weight": 38.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004122"
+    }
+}

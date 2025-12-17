@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 90581,
+            "name": "fertilisation",
+            "type": 1,
+            "w": 345
+        },
+        {
+            "id": 25705,
+            "name": "terre",
+            "type": 1,
+            "w": 29969
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155584715,
+            "node1": 25705,
+            "node2": 90581,
+            "type": 138,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:52.345594",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "terre",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005449"
+    }
+}

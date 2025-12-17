@@ -1,0 +1,352 @@
+{
+    "nodes": [
+        {
+            "id": 258659917,
+            "name": "collection de monnaies",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 113329,
+            "name": "guichet",
+            "type": 1,
+            "w": 487
+        },
+        {
+            "id": 121619402,
+            "name": "œuvres d'art",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11105196,
+            "name": "salle d'exposition",
+            "type": 777,
+            "w": 77
+        },
+        {
+            "id": 101285,
+            "name": "musée",
+            "type": 1,
+            "w": 5173
+        },
+        {
+            "id": 148240,
+            "name": "galeries",
+            "type": 1,
+            "w": 250
+        },
+        {
+            "id": 154700,
+            "name": "oeuvre d'art",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 139209,
+            "name": "salle",
+            "type": 1,
+            "w": 6578
+        },
+        {
+            "id": 97764,
+            "name": "incunable",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 59893,
+            "name": "entrée",
+            "type": 1,
+            "w": 6134
+        },
+        {
+            "id": 37230,
+            "name": "galerie",
+            "type": 1,
+            "w": 2326
+        },
+        {
+            "id": 116178,
+            "name": "collection",
+            "type": 1,
+            "w": 4926
+        },
+        {
+            "id": 52047,
+            "name": "catalogue",
+            "type": 1,
+            "w": 3414
+        },
+        {
+            "id": 100370,
+            "name": "exposition",
+            "type": 1,
+            "w": 6466
+        },
+        {
+            "id": 216173,
+            "name": "pièce>139209",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 96851,
+            "name": "pièce",
+            "type": 1,
+            "w": 8446
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 10834444,
+            "name": "caractéristique physique",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 676394,
+            "name": "conservateur>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 242140,
+            "name": "boutique de souvenirs",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 14935827,
+            "name": "en:physical feature",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14544,
+            "name": "vitrine",
+            "type": 1,
+            "w": 401
+        },
+        {
+            "id": 14206,
+            "name": "conservateur",
+            "type": 1,
+            "w": 3321
+        },
+        {
+            "id": 217690,
+            "name": "salles",
+            "type": 1,
+            "w": 2832
+        },
+        {
+            "id": 139869,
+            "name": "charpente",
+            "type": 1,
+            "w": 414
+        }
+    ],
+    "relations": [
+        {
+            "id": 10529493,
+            "node1": 101285,
+            "node2": 14206,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 9975802,
+            "node1": 101285,
+            "node2": 14544,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 765263213,
+            "node1": 101285,
+            "node2": 37230,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 1155910383,
+            "node1": 101285,
+            "node2": 52047,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 230965,
+            "node1": 101285,
+            "node2": 59893,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 97846749,
+            "node1": 101285,
+            "node2": 96851,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 108108018,
+            "node1": 101285,
+            "node2": 97764,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 230968,
+            "node1": 101285,
+            "node2": 100370,
+            "type": 9,
+            "w": 78.0
+        },
+        {
+            "id": 230966,
+            "node1": 101285,
+            "node2": 113329,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 9972489,
+            "node1": 101285,
+            "node2": 116178,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 230967,
+            "node1": 101285,
+            "node2": 139209,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 14637523,
+            "node1": 101285,
+            "node2": 139869,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 770910441,
+            "node1": 101285,
+            "node2": 148240,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1155916525,
+            "node1": 101285,
+            "node2": 154700,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 10529914,
+            "node1": 101285,
+            "node2": 216173,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1131446460,
+            "node1": 101285,
+            "node2": 217690,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1155911626,
+            "node1": 101285,
+            "node2": 242140,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 14637403,
+            "node1": 101285,
+            "node2": 316850,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 647133139,
+            "node1": 101285,
+            "node2": 676394,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 923521023,
+            "node1": 101285,
+            "node2": 10834444,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1155910367,
+            "node1": 101285,
+            "node2": 11105196,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 736731521,
+            "node1": 101285,
+            "node2": 14935827,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 1131446461,
+            "node1": 101285,
+            "node2": 121619402,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1150459012,
+            "node1": 101285,
+            "node2": 258659917,
+            "type": 9,
+            "w": 57.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:28.316312",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "musée",
+        "#relations": 24,
+        "max_relation_weight": 78.0,
+        "#nodes": 25,
+        "duration": "0:00:00.007753"
+    }
+}

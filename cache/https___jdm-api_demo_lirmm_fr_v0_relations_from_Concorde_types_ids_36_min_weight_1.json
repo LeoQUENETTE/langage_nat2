@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 93616,
+            "name": "Concorde",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458629,
+            "name": "_INFO-SEM-PLACE-HUMAN",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 16606207,
+            "name": "_INFO-SEM-NODET",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191667,
+            "name": "_INFO-SEM-THING-ARTEFACT",
+            "type": 36,
+            "w": 242
+        }
+    ],
+    "relations": [
+        {
+            "id": 15939808,
+            "node1": 93616,
+            "node2": 162759,
+            "type": 36,
+            "w": 36.0
+        },
+        {
+            "id": 77922550,
+            "node1": 93616,
+            "node2": 162763,
+            "type": 36,
+            "w": 32.0
+        },
+        {
+            "id": 13073046,
+            "node1": 93616,
+            "node2": 191667,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 2458599,
+            "node1": 93616,
+            "node2": 217817,
+            "type": 36,
+            "w": 111.0
+        },
+        {
+            "id": 26487778,
+            "node1": 93616,
+            "node2": 223172,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 1999356,
+            "node1": 93616,
+            "node2": 223173,
+            "type": 36,
+            "w": 374.0
+        },
+        {
+            "id": 9212075,
+            "node1": 93616,
+            "node2": 241794,
+            "type": 36,
+            "w": 106.0
+        },
+        {
+            "id": 10735440,
+            "node1": 93616,
+            "node2": 248198,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 2335007,
+            "node1": 93616,
+            "node2": 254876,
+            "type": 36,
+            "w": 71.0
+        },
+        {
+            "id": 9231534,
+            "node1": 93616,
+            "node2": 254877,
+            "type": 36,
+            "w": 20.0
+        },
+        {
+            "id": 26705900,
+            "node1": 93616,
+            "node2": 254878,
+            "type": 36,
+            "w": 9.0
+        },
+        {
+            "id": 1039165242,
+            "node1": 93616,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 937675196,
+            "node1": 93616,
+            "node2": 438949,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 61646232,
+            "node1": 93616,
+            "node2": 458629,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 536290574,
+            "node1": 93616,
+            "node2": 16606207,
+            "type": 36,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:48.896723",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Concorde",
+        "#relations": 15,
+        "max_relation_weight": 374.0,
+        "#nodes": 16,
+        "duration": "0:00:00.008314"
+    }
+}

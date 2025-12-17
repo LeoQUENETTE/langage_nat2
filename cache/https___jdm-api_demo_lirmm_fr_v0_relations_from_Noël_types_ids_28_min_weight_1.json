@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 143255,
+            "name": "Noël",
+            "type": 1,
+            "w": 1928
+        },
+        {
+            "id": 57839,
+            "name": "cadeau",
+            "type": 1,
+            "w": 3758
+        }
+    ],
+    "relations": [
+        {
+            "id": 11346735,
+            "node1": 143255,
+            "node2": 57839,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 109958635,
+            "node1": 143255,
+            "node2": 139779,
+            "type": 28,
+            "w": 984.75
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:29.666026",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Noël",
+        "#relations": 2,
+        "max_relation_weight": 984.75,
+        "#nodes": 3,
+        "duration": "0:00:00.003213"
+    }
+}

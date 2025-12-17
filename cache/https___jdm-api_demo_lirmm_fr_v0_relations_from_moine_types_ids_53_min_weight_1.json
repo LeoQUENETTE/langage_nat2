@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 62655,
+            "name": "chant grégorien",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 154700,
+            "name": "oeuvre d'art",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 103365,
+            "name": "chant",
+            "type": 1,
+            "w": 5121
+        },
+        {
+            "id": 52076,
+            "name": "moine",
+            "type": 1,
+            "w": 2343
+        },
+        {
+            "id": 63018,
+            "name": "prière",
+            "type": 1,
+            "w": 4102
+        },
+        {
+            "id": 387343,
+            "name": "voeux monastiques",
+            "type": 1,
+            "w": 7
+        }
+    ],
+    "relations": [
+        {
+            "id": 1176731225,
+            "node1": 52076,
+            "node2": 62655,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1131440343,
+            "node1": 52076,
+            "node2": 63018,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1177520682,
+            "node1": 52076,
+            "node2": 103365,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155501470,
+            "node1": 52076,
+            "node2": 154700,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 769615984,
+            "node1": 52076,
+            "node2": 387343,
+            "type": 53,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:49.295788",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "moine",
+        "#relations": 5,
+        "max_relation_weight": 30.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004464"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 285072986,
+            "name": "vallée fertile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 69943,
+            "name": "fleuve",
+            "type": 1,
+            "w": 3979
+        },
+        {
+            "id": 205609,
+            "name": "plaine alluviale",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 76765,
+            "name": "delta",
+            "type": 1,
+            "w": 2006
+        }
+    ],
+    "relations": [
+        {
+            "id": 940314994,
+            "node1": 69943,
+            "node2": 76765,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 940314995,
+            "node1": 69943,
+            "node2": 205609,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 940314742,
+            "node1": 69943,
+            "node2": 285072986,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:20.982491",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleuve",
+        "#relations": 3,
+        "max_relation_weight": 33.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003614"
+    }
+}

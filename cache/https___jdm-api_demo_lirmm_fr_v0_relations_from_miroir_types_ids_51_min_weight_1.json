@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 62788,
+            "name": "miroir",
+            "type": 1,
+            "w": 2743
+        },
+        {
+            "id": 116089,
+            "name": "rétroviseur",
+            "type": 1,
+            "w": 218
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046683116,
+            "node1": 62788,
+            "node2": 116089,
+            "type": 51,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:42.555333",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "miroir",
+        "#relations": 1,
+        "max_relation_weight": 20.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003244"
+    }
+}

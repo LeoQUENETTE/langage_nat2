@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 155816,
+            "name": "plage de sable",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 15242937,
+            "name": "en:sandpie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7272
+        },
+        {
+            "id": 144565,
+            "name": "sable",
+            "type": 1,
+            "w": 5303
+        },
+        {
+            "id": 122393,
+            "name": "plage",
+            "type": 1,
+            "w": 5991
+        },
+        {
+            "id": 30584,
+            "name": "château",
+            "type": 1,
+            "w": 4223
+        },
+        {
+            "id": 144366,
+            "name": "désert",
+            "type": 1,
+            "w": 4834
+        },
+        {
+            "id": 154450,
+            "name": "château de sable",
+            "type": 1,
+            "w": 323
+        },
+        {
+            "id": 156052,
+            "name": "pâté de sable",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 15203039,
+            "name": "en:sand castle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15283230,
+            "name": "en:sandcastle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17497285,
+            "name": "::>66:154450>24:138776",
+            "type": 8,
+            "w": 10
+        }
+    ],
+    "relations": [
+        {
+            "id": 594842278,
+            "node1": 144565,
+            "node2": 30584,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376053669,
+            "node1": 144565,
+            "node2": 122393,
+            "type": 51,
+            "w": 41.0
+        },
+        {
+            "id": 195324524,
+            "node1": 144565,
+            "node2": 144366,
+            "type": 51,
+            "w": 56.0
+        },
+        {
+            "id": 376054172,
+            "node1": 144565,
+            "node2": 144936,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 173994576,
+            "node1": 144565,
+            "node2": 154450,
+            "type": 51,
+            "w": 40.0
+        },
+        {
+            "id": 376052525,
+            "node1": 144565,
+            "node2": 155816,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514425695,
+            "node1": 144565,
+            "node2": 156052,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514424658,
+            "node1": 144565,
+            "node2": 15203039,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514427564,
+            "node1": 144565,
+            "node2": 15242937,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514424743,
+            "node1": 144565,
+            "node2": 15283230,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 618658651,
+            "node1": 144565,
+            "node2": 17497285,
+            "type": 51,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:56.834951",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sable",
+        "#relations": 11,
+        "max_relation_weight": 56.0,
+        "#nodes": 12,
+        "duration": "0:00:00.006197"
+    }
+}

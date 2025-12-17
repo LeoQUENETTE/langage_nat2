@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 60171,
+            "name": "maniabilité",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 97706,
+            "name": "fonction",
+            "type": 1,
+            "w": 9077
+        },
+        {
+            "id": 129834,
+            "name": "durabilité",
+            "type": 1,
+            "w": 14787
+        },
+        {
+            "id": 144666,
+            "name": "résistance",
+            "type": 1,
+            "w": 8977
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12262
+        },
+        {
+            "id": 111393,
+            "name": "précision",
+            "type": 1,
+            "w": 5635
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139116,
+            "node1": 30843,
+            "node2": 60171,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179139452,
+            "node1": 30843,
+            "node2": 97706,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179139259,
+            "node1": 30843,
+            "node2": 111393,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179142913,
+            "node1": 30843,
+            "node2": 129834,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179138609,
+            "node1": 30843,
+            "node2": 144666,
+            "type": 153,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:20.579089",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "outil",
+        "#relations": 5,
+        "max_relation_weight": 35.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005928"
+    }
+}

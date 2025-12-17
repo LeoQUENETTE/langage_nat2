@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 9206,
+            "name": "classement",
+            "type": 1,
+            "w": 4184
+        },
+        {
+            "id": 5325,
+            "name": "bibliothécaire",
+            "type": 1,
+            "w": 205
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131440403,
+            "node1": 5325,
+            "node2": 9206,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:02.043501",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bibliothécaire",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.006352"
+    }
+}

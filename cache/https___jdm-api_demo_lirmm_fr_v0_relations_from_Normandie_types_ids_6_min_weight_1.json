@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 156510391,
+            "name": "Paquebot transatlantique",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 10601747,
+            "name": "région administrative française",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 241988,
+            "name": "pays>145735",
+            "type": 1,
+            "w": 232
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 57369,
+            "name": "Normandie",
+            "type": 1,
+            "w": 3525
+        },
+        {
+            "id": 22243,
+            "name": "pays",
+            "type": 1,
+            "w": 27461
+        },
+        {
+            "id": 145735,
+            "name": "nation",
+            "type": 1,
+            "w": 5558
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 132350,
+            "name": "région",
+            "type": 1,
+            "w": 8354
+        },
+        {
+            "id": 267804,
+            "name": "entité géographique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 164166,
+            "name": "université française",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 5516960,
+            "name": "territoire géographique",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 168639,
+            "name": "paquebot transatlantique",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 58578,
+            "name": "future",
+            "type": 1,
+            "w": 2855
+        },
+        {
+            "id": 173368,
+            "name": "région administrative",
+            "type": 1,
+            "w": 100
+        }
+    ],
+    "relations": [
+        {
+            "id": 1911954,
+            "node1": 57369,
+            "node2": 22243,
+            "type": 6,
+            "w": 105.0
+        },
+        {
+            "id": 483703298,
+            "node1": 57369,
+            "node2": 58578,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 1911955,
+            "node1": 57369,
+            "node2": 132350,
+            "type": 6,
+            "w": 126.0
+        },
+        {
+            "id": 629867,
+            "node1": 57369,
+            "node2": 135190,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 589205779,
+            "node1": 57369,
+            "node2": 145735,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 331138855,
+            "node1": 57369,
+            "node2": 157283,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 454557513,
+            "node1": 57369,
+            "node2": 164166,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 118923346,
+            "node1": 57369,
+            "node2": 168639,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 236003069,
+            "node1": 57369,
+            "node2": 173368,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 2122047,
+            "node1": 57369,
+            "node2": 241988,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 454548801,
+            "node1": 57369,
+            "node2": 267804,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 659547929,
+            "node1": 57369,
+            "node2": 2785548,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 108361989,
+            "node1": 57369,
+            "node2": 5516960,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 266552434,
+            "node1": 57369,
+            "node2": 10601747,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 357201627,
+            "node1": 57369,
+            "node2": 14094383,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 769970038,
+            "node1": 57369,
+            "node2": 156510391,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:54.407529",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Normandie",
+        "#relations": 16,
+        "max_relation_weight": 126.0,
+        "#nodes": 17,
+        "duration": "0:00:00.034107"
+    }
+}

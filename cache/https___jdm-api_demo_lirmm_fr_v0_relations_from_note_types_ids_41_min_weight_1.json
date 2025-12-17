@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 65615,
+            "name": "mécontentement",
+            "type": 1,
+            "w": 823
+        },
+        {
+            "id": 71037,
+            "name": "déplaisir",
+            "type": 1,
+            "w": 359
+        },
+        {
+            "id": 140862,
+            "name": "note",
+            "type": 1,
+            "w": 5288
+        },
+        {
+            "id": 7029795,
+            "name": "en:dissatisfaction",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39142,
+            "name": "motivation",
+            "type": 1,
+            "w": 6889
+        },
+        {
+            "id": 59921,
+            "name": "amélioration",
+            "type": 1,
+            "w": 5154
+        },
+        {
+            "id": 141977,
+            "name": "chiffre",
+            "type": 1,
+            "w": 9346
+        },
+        {
+            "id": 15237735,
+            "name": "en:displacency",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7029827,
+            "name": "en:displeasure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15237734,
+            "name": "en:displacence",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158357454,
+            "node1": 140862,
+            "node2": 39142,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158357475,
+            "node1": 140862,
+            "node2": 59921,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 28828530,
+            "node1": 140862,
+            "node2": 65615,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 667252794,
+            "node1": 140862,
+            "node2": 71037,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14657848,
+            "node1": 140862,
+            "node2": 141977,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 973315362,
+            "node1": 140862,
+            "node2": 7029795,
+            "type": 41,
+            "w": 15.0
+        },
+        {
+            "id": 540388430,
+            "node1": 140862,
+            "node2": 7029827,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 1079375513,
+            "node1": 140862,
+            "node2": 15237734,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079375623,
+            "node1": 140862,
+            "node2": 15237735,
+            "type": 41,
+            "w": 1.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:56.155552",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "note",
+        "#relations": 9,
+        "max_relation_weight": 35.0,
+        "#nodes": 10,
+        "duration": "0:00:00.006981"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 93616,
+            "name": "Concorde",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 49578,
+            "name": "abandon",
+            "type": 1,
+            "w": 1401
+        }
+    ],
+    "relations": [
+        {
+            "id": 1025058116,
+            "node1": 93616,
+            "node2": 49578,
+            "type": 41,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:49.552062",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Concorde",
+        "#relations": 1,
+        "max_relation_weight": 29.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003334"
+    }
+}

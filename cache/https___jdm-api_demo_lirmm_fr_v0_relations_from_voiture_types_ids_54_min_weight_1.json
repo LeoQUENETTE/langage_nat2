@@ -1,0 +1,313 @@
+{
+    "nodes": [
+        {
+            "id": 15047004,
+            "name": "en:car manufacturer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15047005,
+            "name": "en:automaker",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15206604,
+            "name": "en:factory unit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15047002,
+            "name": "en:carmaker",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 140533,
+            "name": "usine",
+            "type": 1,
+            "w": 3242
+        },
+        {
+            "id": 15047003,
+            "name": "en:car maker",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7997626,
+            "name": "en:industrial plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 385909,
+            "name": "usine de production",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 15117569,
+            "name": "en:clockwork",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6080680,
+            "name": "constructeur d'automobiles",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 162045,
+            "name": "constructeur automobile",
+            "type": 1,
+            "w": 221
+        },
+        {
+            "id": 15206605,
+            "name": "en:production plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 55663,
+            "name": "Peugeot",
+            "type": 1,
+            "w": 2152
+        },
+        {
+            "id": 15369799,
+            "name": "fabricant d'automobiles",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19357
+        },
+        {
+            "id": 436584,
+            "name": "usine de voitures",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 169909,
+            "name": "Koenigsegg",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 5383707,
+            "name": "fabricant automobile",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 10922586,
+            "name": "fabricant de voitures",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15047001,
+            "name": "en:auto maker",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7992106,
+            "name": "en:factory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3263795,
+            "name": "usine automobile",
+            "type": 1,
+            "w": 27
+        }
+    ],
+    "relations": [
+        {
+            "id": 193280287,
+            "node1": 6890,
+            "node2": 55663,
+            "type": 54,
+            "w": 35.0
+        },
+        {
+            "id": 376985976,
+            "node1": 6890,
+            "node2": 140533,
+            "type": 54,
+            "w": 37.0
+        },
+        {
+            "id": 376986145,
+            "node1": 6890,
+            "node2": 162045,
+            "type": 54,
+            "w": 27.0
+        },
+        {
+            "id": 380318122,
+            "node1": 6890,
+            "node2": 169909,
+            "type": 54,
+            "w": 29.0
+        },
+        {
+            "id": 479424670,
+            "node1": 6890,
+            "node2": 385909,
+            "type": 54,
+            "w": 29.0
+        },
+        {
+            "id": 380315363,
+            "node1": 6890,
+            "node2": 436584,
+            "type": 54,
+            "w": 30.0
+        },
+        {
+            "id": 1046682321,
+            "node1": 6890,
+            "node2": 3263795,
+            "type": 54,
+            "w": 20.0
+        },
+        {
+            "id": 479426335,
+            "node1": 6890,
+            "node2": 5383707,
+            "type": 54,
+            "w": 35.0
+        },
+        {
+            "id": 479424797,
+            "node1": 6890,
+            "node2": 6080680,
+            "type": 54,
+            "w": 31.0
+        },
+        {
+            "id": 479423146,
+            "node1": 6890,
+            "node2": 7992106,
+            "type": 54,
+            "w": 34.0
+        },
+        {
+            "id": 479423090,
+            "node1": 6890,
+            "node2": 7997626,
+            "type": 54,
+            "w": 34.0
+        },
+        {
+            "id": 514413180,
+            "node1": 6890,
+            "node2": 10922586,
+            "type": 54,
+            "w": 28.0
+        },
+        {
+            "id": 479424782,
+            "node1": 6890,
+            "node2": 15047001,
+            "type": 54,
+            "w": 35.0
+        },
+        {
+            "id": 479424775,
+            "node1": 6890,
+            "node2": 15047002,
+            "type": 54,
+            "w": 34.0
+        },
+        {
+            "id": 479424699,
+            "node1": 6890,
+            "node2": 15047003,
+            "type": 54,
+            "w": 30.0
+        },
+        {
+            "id": 479424692,
+            "node1": 6890,
+            "node2": 15047004,
+            "type": 54,
+            "w": 30.0
+        },
+        {
+            "id": 479424706,
+            "node1": 6890,
+            "node2": 15047005,
+            "type": 54,
+            "w": 39.0
+        },
+        {
+            "id": 594832173,
+            "node1": 6890,
+            "node2": 15117569,
+            "type": 54,
+            "w": 26.0
+        },
+        {
+            "id": 479423120,
+            "node1": 6890,
+            "node2": 15206604,
+            "type": 54,
+            "w": 40.0
+        },
+        {
+            "id": 479423105,
+            "node1": 6890,
+            "node2": 15206605,
+            "type": 54,
+            "w": 35.0
+        },
+        {
+            "id": 479424787,
+            "node1": 6890,
+            "node2": 15369799,
+            "type": 54,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            54
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:48.895672",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voiture",
+        "#relations": 21,
+        "max_relation_weight": 40.0,
+        "#nodes": 22,
+        "duration": "0:00:00.017705"
+    }
+}

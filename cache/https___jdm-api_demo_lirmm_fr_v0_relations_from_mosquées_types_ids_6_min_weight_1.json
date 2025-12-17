@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 400745,
+            "name": "endroits",
+            "type": 1,
+            "w": 2921
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4616
+        },
+        {
+            "id": 422351,
+            "name": "mosquées",
+            "type": 1,
+            "w": 92
+        }
+    ],
+    "relations": [
+        {
+            "id": 932864224,
+            "node1": 422351,
+            "node2": 135956,
+            "type": 6,
+            "w": 95.0
+        },
+        {
+            "id": 933129802,
+            "node1": 422351,
+            "node2": 400745,
+            "type": 6,
+            "w": 67.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:15.247007",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mosquées",
+        "#relations": 2,
+        "max_relation_weight": 95.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005113"
+    }
+}

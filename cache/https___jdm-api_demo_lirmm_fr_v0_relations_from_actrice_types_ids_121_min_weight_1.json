@@ -1,0 +1,365 @@
+{
+    "nodes": [
+        {
+            "id": 168510,
+            "name": "rapport sexuel",
+            "type": 1,
+            "w": 765
+        },
+        {
+            "id": 16512026,
+            "name": "Rapport sexuel",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 206862,
+            "name": "relations sexuelles",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 7177163,
+            "name": "en:sexual intercourse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 385739,
+            "name": "union charnelle",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 10055964,
+            "name": "acquaintance",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 458821601,
+            "name": "répliques mémorisées",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 13117201,
+            "name": "en:coitus",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 14957952,
+            "name": "en:relations",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15290242,
+            "name": "en:contacts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15444397,
+            "name": "en:people you know",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15444398,
+            "name": "en:people that you know",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15046529,
+            "name": "en:intercourse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15444396,
+            "name": "en:connections",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92149,
+            "name": "actrice",
+            "type": 1,
+            "w": 4333
+        },
+        {
+            "id": 104728,
+            "name": "relations",
+            "type": 1,
+            "w": 8715
+        },
+        {
+            "id": 15071348,
+            "name": "en:sexual union",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15358247,
+            "name": "en:sexual relations",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 385755,
+            "name": "union sexuelle",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 8848686,
+            "name": "en:relationships",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15099673,
+            "name": "en:links",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8022995,
+            "name": "en:acquaintances",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 14916954,
+            "name": "en:acquaintance",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7031953,
+            "name": "en:sex",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 206692,
+            "name": "rapports sexuels",
+            "type": 1,
+            "w": 202
+        },
+        {
+            "id": 155566,
+            "name": "relation sexuelle",
+            "type": 1,
+            "w": 386
+        }
+    ],
+    "relations": [
+        {
+            "id": 479258384,
+            "node1": 92149,
+            "node2": 104728,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 479258401,
+            "node1": 92149,
+            "node2": 155566,
+            "type": 121,
+            "w": 37.0
+        },
+        {
+            "id": 479258393,
+            "node1": 92149,
+            "node2": 168510,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 720595606,
+            "node1": 92149,
+            "node2": 206692,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 365194618,
+            "node1": 92149,
+            "node2": 206862,
+            "type": 121,
+            "w": 56.0
+        },
+        {
+            "id": 479258446,
+            "node1": 92149,
+            "node2": 385739,
+            "type": 121,
+            "w": 41.0
+        },
+        {
+            "id": 479258435,
+            "node1": 92149,
+            "node2": 385755,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 479258361,
+            "node1": 92149,
+            "node2": 7031953,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 479258359,
+            "node1": 92149,
+            "node2": 7177163,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 479258398,
+            "node1": 92149,
+            "node2": 8022995,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 479258386,
+            "node1": 92149,
+            "node2": 8848686,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 618548660,
+            "node1": 92149,
+            "node2": 10055964,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 479258440,
+            "node1": 92149,
+            "node2": 13117201,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 479258396,
+            "node1": 92149,
+            "node2": 14916954,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 479258404,
+            "node1": 92149,
+            "node2": 14957952,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 479258315,
+            "node1": 92149,
+            "node2": 15046529,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 479258438,
+            "node1": 92149,
+            "node2": 15071348,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 594674112,
+            "node1": 92149,
+            "node2": 15099673,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 594674189,
+            "node1": 92149,
+            "node2": 15290242,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 479258357,
+            "node1": 92149,
+            "node2": 15358247,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 479258400,
+            "node1": 92149,
+            "node2": 15444396,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 538839902,
+            "node1": 92149,
+            "node2": 15444397,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 538839900,
+            "node1": 92149,
+            "node2": 15444398,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 479258676,
+            "node1": 92149,
+            "node2": 16512026,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1148204166,
+            "node1": 92149,
+            "node2": 458821601,
+            "type": 121,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:33.502065",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "actrice",
+        "#relations": 25,
+        "max_relation_weight": 56.0,
+        "#nodes": 26,
+        "duration": "0:00:00.011269"
+    }
+}

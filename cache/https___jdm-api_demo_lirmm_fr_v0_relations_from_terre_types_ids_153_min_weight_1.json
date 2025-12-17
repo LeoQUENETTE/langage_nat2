@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 120565,
+            "name": "humidité",
+            "type": 1,
+            "w": 1811
+        },
+        {
+            "id": 25705,
+            "name": "terre",
+            "type": 1,
+            "w": 29969
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139353,
+            "node1": 25705,
+            "node2": 120565,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:49.951225",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "terre",
+        "#relations": 1,
+        "max_relation_weight": 29.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005989"
+    }
+}

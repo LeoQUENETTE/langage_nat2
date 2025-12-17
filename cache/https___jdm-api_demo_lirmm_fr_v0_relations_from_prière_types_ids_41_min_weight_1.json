@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 211869561,
+            "name": "réconfort spirituel",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15263322,
+            "name": "en:tranquilizing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263327,
+            "name": "en:becalming",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14941185,
+            "name": "en:healing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263320,
+            "name": "en:tailing away",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 67085,
+            "name": "guérison",
+            "type": 1,
+            "w": 686
+        },
+        {
+            "id": 77493,
+            "name": "apaisement",
+            "type": 1,
+            "w": 462
+        },
+        {
+            "id": 15263324,
+            "name": "en:dying down",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16867426,
+            "name": "guêpe (allergie aux piqûres de)",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14923614,
+            "name": "en:lulling",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263323,
+            "name": "en:tranquilization",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263325,
+            "name": "en:allaying",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263321,
+            "name": "en:appeasing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63141,
+            "name": "apaisant",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 63018,
+            "name": "prière",
+            "type": 1,
+            "w": 4102
+        }
+    ],
+    "relations": [
+        {
+            "id": 1080896718,
+            "node1": 63018,
+            "node2": 63141,
+            "type": 41,
+            "w": 4.0
+        },
+        {
+            "id": 14652391,
+            "node1": 63018,
+            "node2": 67085,
+            "type": 41,
+            "w": 54.0
+        },
+        {
+            "id": 438163079,
+            "node1": 63018,
+            "node2": 77493,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1079380285,
+            "node1": 63018,
+            "node2": 14923614,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 411505530,
+            "node1": 63018,
+            "node2": 14941185,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 1079380189,
+            "node1": 63018,
+            "node2": 15263320,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380383,
+            "node1": 63018,
+            "node2": 15263321,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380479,
+            "node1": 63018,
+            "node2": 15263322,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380575,
+            "node1": 63018,
+            "node2": 15263323,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380671,
+            "node1": 63018,
+            "node2": 15263324,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380769,
+            "node1": 63018,
+            "node2": 15263325,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380865,
+            "node1": 63018,
+            "node2": 15263327,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 769594249,
+            "node1": 63018,
+            "node2": 16867426,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 940941651,
+            "node1": 63018,
+            "node2": 211869561,
+            "type": 41,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:46.241199",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "prière",
+        "#relations": 14,
+        "max_relation_weight": 54.0,
+        "#nodes": 15,
+        "duration": "0:00:00.007500"
+    }
+}

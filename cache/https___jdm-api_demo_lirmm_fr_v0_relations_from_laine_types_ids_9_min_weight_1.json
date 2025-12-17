@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 15214667,
+            "name": "en:meshes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 51568,
+            "name": "pelote",
+            "type": 1,
+            "w": 191
+        },
+        {
+            "id": 101290,
+            "name": "fibre",
+            "type": 1,
+            "w": 1434
+        },
+        {
+            "id": 75377,
+            "name": "chaussure",
+            "type": 1,
+            "w": 2192
+        },
+        {
+            "id": 10339,
+            "name": "poignet",
+            "type": 1,
+            "w": 586
+        },
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 160917,
+            "name": "mailles",
+            "type": 1,
+            "w": 337
+        },
+        {
+            "id": 128782,
+            "name": "fil",
+            "type": 1,
+            "w": 5593
+        },
+        {
+            "id": 19991,
+            "name": "filament",
+            "type": 1,
+            "w": 367
+        },
+        {
+            "id": 140770,
+            "name": "laine",
+            "type": 1,
+            "w": 2205
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155878600,
+            "node1": 140770,
+            "node2": 10339,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 9971154,
+            "node1": 140770,
+            "node2": 19991,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9975851,
+            "node1": 140770,
+            "node2": 51568,
+            "type": 9,
+            "w": 24.0
+        },
+        {
+            "id": 2813093,
+            "node1": 140770,
+            "node2": 63936,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 8791504,
+            "node1": 140770,
+            "node2": 75377,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 112565,
+            "node1": 140770,
+            "node2": 101290,
+            "type": 9,
+            "w": 88.0
+        },
+        {
+            "id": 125524,
+            "node1": 140770,
+            "node2": 128782,
+            "type": 9,
+            "w": 70.0
+        },
+        {
+            "id": 10563557,
+            "node1": 140770,
+            "node2": 160917,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 603595364,
+            "node1": 140770,
+            "node2": 15214667,
+            "type": 9,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:46.725925",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "laine",
+        "#relations": 9,
+        "max_relation_weight": 88.0,
+        "#nodes": 10,
+        "duration": "0:00:00.006741"
+    }
+}

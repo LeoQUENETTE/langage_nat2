@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 56286,
+            "name": "fragrance",
+            "type": 1,
+            "w": 234
+        },
+        {
+            "id": 117533,
+            "name": "fleurs",
+            "type": 1,
+            "w": 4178
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        }
+    ],
+    "relations": [
+        {
+            "id": 423719692,
+            "node1": 117533,
+            "node2": 40056,
+            "type": 153,
+            "w": 36.0
+        },
+        {
+            "id": 720482654,
+            "node1": 117533,
+            "node2": 56286,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:45:06.776278",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleurs",
+        "#relations": 2,
+        "max_relation_weight": 36.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005051"
+    }
+}

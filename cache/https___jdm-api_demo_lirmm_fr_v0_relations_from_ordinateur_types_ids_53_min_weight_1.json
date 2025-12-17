@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 94978,
+            "name": "ordinateur",
+            "type": 1,
+            "w": 9689
+        },
+        {
+            "id": 47331,
+            "name": "calcul",
+            "type": 1,
+            "w": 8329
+        },
+        {
+            "id": 145580,
+            "name": "programme",
+            "type": 1,
+            "w": 9100
+        },
+        {
+            "id": 151496,
+            "name": "données",
+            "type": 1,
+            "w": 23386
+        },
+        {
+            "id": 398516,
+            "name": "graphiques",
+            "type": 1,
+            "w": 2825
+        },
+        {
+            "id": 235841,
+            "name": "message d'erreur",
+            "type": 1,
+            "w": 11
+        },
+        {
+            "id": 244875,
+            "name": "documents",
+            "type": 1,
+            "w": 4090
+        },
+        {
+            "id": 15213014,
+            "name": "en:error message",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131440247,
+            "node1": 94978,
+            "node2": 47331,
+            "type": 53,
+            "w": 75.0
+        },
+        {
+            "id": 765218215,
+            "node1": 94978,
+            "node2": 145580,
+            "type": 53,
+            "w": 39.0
+        },
+        {
+            "id": 1150777553,
+            "node1": 94978,
+            "node2": 151496,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 376989566,
+            "node1": 94978,
+            "node2": 235841,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 1156154569,
+            "node1": 94978,
+            "node2": 244875,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1156154570,
+            "node1": 94978,
+            "node2": 398516,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 479421500,
+            "node1": 94978,
+            "node2": 15213014,
+            "type": 53,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:27.603585",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ordinateur",
+        "#relations": 7,
+        "max_relation_weight": 75.0,
+        "#nodes": 8,
+        "duration": "0:00:00.004115"
+    }
+}

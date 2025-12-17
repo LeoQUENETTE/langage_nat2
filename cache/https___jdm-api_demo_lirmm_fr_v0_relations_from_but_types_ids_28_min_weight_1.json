@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 66970,
+            "name": "ballon",
+            "type": 1,
+            "w": 3638
+        },
+        {
+            "id": 103080,
+            "name": "gardien",
+            "type": 1,
+            "w": 2302
+        },
+        {
+            "id": 213948,
+            "name": "ballon>36204",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 218082,
+            "name": "gardien>155070",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 20346,
+            "name": "but",
+            "type": 1,
+            "w": 8100
+        }
+    ],
+    "relations": [
+        {
+            "id": 333903446,
+            "node1": 20346,
+            "node2": 66970,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 478451019,
+            "node1": 20346,
+            "node2": 103080,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 333903447,
+            "node1": 20346,
+            "node2": 213948,
+            "type": 28,
+            "w": 24.0
+        },
+        {
+            "id": 307601613,
+            "node1": 20346,
+            "node2": 218082,
+            "type": 28,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:53.576456",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "but",
+        "#relations": 4,
+        "max_relation_weight": 30.0,
+        "#nodes": 5,
+        "duration": "0:00:00.008145"
+    }
+}

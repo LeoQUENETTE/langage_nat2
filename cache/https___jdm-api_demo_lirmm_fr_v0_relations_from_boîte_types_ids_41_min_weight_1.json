@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 7575,
+            "name": "boîte",
+            "type": 1,
+            "w": 2849
+        },
+        {
+            "id": 72895,
+            "name": "rencontre",
+            "type": 1,
+            "w": 7264
+        },
+        {
+            "id": 145605,
+            "name": "danse",
+            "type": 1,
+            "w": 4608
+        }
+    ],
+    "relations": [
+        {
+            "id": 380392860,
+            "node1": 7575,
+            "node2": 72895,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14654862,
+            "node1": 7575,
+            "node2": 145605,
+            "type": 41,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:49.194880",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "boîte",
+        "#relations": 2,
+        "max_relation_weight": 30.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003651"
+    }
+}

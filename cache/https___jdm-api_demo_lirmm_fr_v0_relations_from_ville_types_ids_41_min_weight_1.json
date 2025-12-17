@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 48556,
+            "name": "boulevard",
+            "type": 1,
+            "w": 2174
+        },
+        {
+            "id": 243923,
+            "name": "embouteillages",
+            "type": 1,
+            "w": 134
+        },
+        {
+            "id": 224863,
+            "name": "croissance économique",
+            "type": 1,
+            "w": 1462
+        },
+        {
+            "id": 133013,
+            "name": "trottoir",
+            "type": 1,
+            "w": 1408
+        },
+        {
+            "id": 79934,
+            "name": "impasse",
+            "type": 1,
+            "w": 466
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 70405,
+            "name": "migration",
+            "type": 1,
+            "w": 4309
+        },
+        {
+            "id": 99532,
+            "name": "pollution",
+            "type": 1,
+            "w": 12762
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 38466,
+            "name": "stress",
+            "type": 1,
+            "w": 5118
+        },
+        {
+            "id": 133314,
+            "name": "mairie",
+            "type": 1,
+            "w": 2749
+        },
+        {
+            "id": 99087,
+            "name": "clinique",
+            "type": 1,
+            "w": 2364
+        },
+        {
+            "id": 87222,
+            "name": "avenue",
+            "type": 1,
+            "w": 1625
+        }
+    ],
+    "relations": [
+        {
+            "id": 283509252,
+            "node1": 136786,
+            "node2": 20564,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 994212014,
+            "node1": 136786,
+            "node2": 38466,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14658757,
+            "node1": 136786,
+            "node2": 48556,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 1150589767,
+            "node1": 136786,
+            "node2": 70405,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14657999,
+            "node1": 136786,
+            "node2": 79934,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14658660,
+            "node1": 136786,
+            "node2": 87222,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14658876,
+            "node1": 136786,
+            "node2": 99087,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 994212012,
+            "node1": 136786,
+            "node2": 99532,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14651038,
+            "node1": 136786,
+            "node2": 133013,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 14658522,
+            "node1": 136786,
+            "node2": 133314,
+            "type": 41,
+            "w": 47.0
+        },
+        {
+            "id": 1150589768,
+            "node1": 136786,
+            "node2": 224863,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 994212013,
+            "node1": 136786,
+            "node2": 243923,
+            "type": 41,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:56.196703",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ville",
+        "#relations": 12,
+        "max_relation_weight": 47.0,
+        "#nodes": 13,
+        "duration": "0:00:00.013404"
+    }
+}

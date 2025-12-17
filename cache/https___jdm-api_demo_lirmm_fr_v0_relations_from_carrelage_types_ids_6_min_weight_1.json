@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 58357,
+            "name": "revêtement de sol",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 74762,
+            "name": "carrelage",
+            "type": 1,
+            "w": 333
+        },
+        {
+            "id": 112929,
+            "name": "action",
+            "type": 1,
+            "w": 17578
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 15082589,
+            "name": "en:floor covering",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 158943,
+            "name": "matériau de construction",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 133352,
+            "name": "revêtement",
+            "type": 1,
+            "w": 261
+        }
+    ],
+    "relations": [
+        {
+            "id": 87473157,
+            "node1": 74762,
+            "node2": 58357,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 640062304,
+            "node1": 74762,
+            "node2": 97739,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 97422980,
+            "node1": 74762,
+            "node2": 112929,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 640062305,
+            "node1": 74762,
+            "node2": 133352,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 640062303,
+            "node1": 74762,
+            "node2": 158943,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 598731500,
+            "node1": 74762,
+            "node2": 15082589,
+            "type": 6,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:54.476731",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "carrelage",
+        "#relations": 6,
+        "max_relation_weight": 85.0,
+        "#nodes": 7,
+        "duration": "0:00:00.007488"
+    }
+}

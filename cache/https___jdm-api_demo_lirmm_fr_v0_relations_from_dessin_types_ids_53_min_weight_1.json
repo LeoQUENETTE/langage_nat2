@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 154700,
+            "name": "oeuvre d'art",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 140184,
+            "name": "esquisse",
+            "type": 1,
+            "w": 577
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4899
+        },
+        {
+            "id": 48088,
+            "name": "caricature",
+            "type": 1,
+            "w": 412
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177214633,
+            "node1": 98596,
+            "node2": 48088,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1177214571,
+            "node1": 98596,
+            "node2": 140184,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1158675436,
+            "node1": 98596,
+            "node2": 154700,
+            "type": 53,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:23.907760",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "dessin",
+        "#relations": 3,
+        "max_relation_weight": 27.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005613"
+    }
+}

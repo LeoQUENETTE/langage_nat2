@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 28937,
+            "name": "soie",
+            "type": 1,
+            "w": 2409
+        },
+        {
+            "id": 3685,
+            "name": "cocon",
+            "type": 1,
+            "w": 2016
+        },
+        {
+            "id": 19991,
+            "name": "filament",
+            "type": 1,
+            "w": 367
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158210213,
+            "node1": 28937,
+            "node2": 3685,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1158210190,
+            "node1": 28937,
+            "node2": 19991,
+            "type": 9,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:40.029290",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soie",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003010"
+    }
+}

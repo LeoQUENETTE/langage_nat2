@@ -1,0 +1,716 @@
+{
+    "nodes": [
+        {
+            "id": 15423506,
+            "name": "en:highway structure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 287041,
+            "name": "patron de conception",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 37041,
+            "name": "passerelle",
+            "type": 1,
+            "w": 184
+        },
+        {
+            "id": 15216505,
+            "name": "en:dental brace",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11100421,
+            "name": "équipement informatique d'infrastructure de réseaux de type passerelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15208661,
+            "name": "en:design pattern",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143697207,
+            "name": "Ouvrage d'art",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9023323,
+            "name": "en:anatomic structure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3491409,
+            "name": "partie d'un navire",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 15230676,
+            "name": "en:a set of false teeth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15421043,
+            "name": "en:IT stock",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15421044,
+            "name": "en:stock of computing equipment",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 206497,
+            "name": "prothèse dentaire",
+            "type": 1,
+            "w": 131
+        },
+        {
+            "id": 15062302,
+            "name": "en:dental plate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146739,
+            "name": "structure",
+            "type": 1,
+            "w": 11267
+        },
+        {
+            "id": 91356,
+            "name": "pont",
+            "type": 1,
+            "w": 5273
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 64862,
+            "name": "passage",
+            "type": 1,
+            "w": 6928
+        },
+        {
+            "id": 104383,
+            "name": "isthme",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 102105,
+            "name": "monument",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 6912574,
+            "name": "en:dental prosthesis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925129,
+            "name": "en:braces",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15235284,
+            "name": "en:false tooth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 51780,
+            "name": "bretelles",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 14925130,
+            "name": "en:suspenders",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15244265,
+            "name": "en:work of engineering",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 368668,
+            "name": "parc informatique",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 289631923,
+            "name": "structure de transport",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 368117,
+            "name": "paire de bretelles",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 9781828,
+            "name": "en:dentures",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6886355,
+            "name": "en:denture",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 153669,
+            "name": "appareil dentaire",
+            "type": 1,
+            "w": 169
+        },
+        {
+            "id": 15230674,
+            "name": "en:set of false teeth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 161461,
+            "name": "fausse dent",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 174613,
+            "name": "braces",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 269382,
+            "name": "structure anatomique",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 143299148,
+            "name": "Patron de conception",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 44335,
+            "name": "organe",
+            "type": 1,
+            "w": 2279
+        },
+        {
+            "id": 390219,
+            "name": "équipement informatique",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 2036451,
+            "name": "dentures",
+            "type": 2,
+            "w": 0
+        },
+        {
+            "id": 15423505,
+            "name": "en:road structure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3229598,
+            "name": "technique chirurgicale",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 7096322,
+            "name": "en:computer equipment",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215883,
+            "name": "partie centrale",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 143468,
+            "name": "ouvrage d'art",
+            "type": 1,
+            "w": 97
+        },
+        {
+            "id": 14932639,
+            "name": "en:false teeth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15230675,
+            "name": "un dentier",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16167061,
+            "name": "Partie centrale",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 6338355,
+            "name": "prothèses dentaires",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 41837,
+            "name": "plate-forme",
+            "type": 1,
+            "w": 2836
+        },
+        {
+            "id": 18702,
+            "name": "dentier",
+            "type": 1,
+            "w": 506
+        },
+        {
+            "id": 160204,
+            "name": "bagues",
+            "type": 1,
+            "w": 70
+        }
+    ],
+    "relations": [
+        {
+            "id": 705234142,
+            "node1": 91356,
+            "node2": 18702,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 97135620,
+            "node1": 91356,
+            "node2": 37041,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 115977901,
+            "node1": 91356,
+            "node2": 41837,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 277697233,
+            "node1": 91356,
+            "node2": 44335,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 604600857,
+            "node1": 91356,
+            "node2": 51780,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 9901567,
+            "node1": 91356,
+            "node2": 55137,
+            "type": 6,
+            "w": 79.0
+        },
+        {
+            "id": 110119216,
+            "node1": 91356,
+            "node2": 64862,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 9905886,
+            "node1": 91356,
+            "node2": 102105,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 277568585,
+            "node1": 91356,
+            "node2": 104383,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 98283228,
+            "node1": 91356,
+            "node2": 143468,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 794832497,
+            "node1": 91356,
+            "node2": 146739,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 598740732,
+            "node1": 91356,
+            "node2": 153669,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 618923306,
+            "node1": 91356,
+            "node2": 160204,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 705357862,
+            "node1": 91356,
+            "node2": 161461,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 618922477,
+            "node1": 91356,
+            "node2": 174613,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 9927056,
+            "node1": 91356,
+            "node2": 206497,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 108792113,
+            "node1": 91356,
+            "node2": 215883,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 262734315,
+            "node1": 91356,
+            "node2": 269382,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 277749238,
+            "node1": 91356,
+            "node2": 287041,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 371177622,
+            "node1": 91356,
+            "node2": 316850,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 598764380,
+            "node1": 91356,
+            "node2": 368117,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 618930673,
+            "node1": 91356,
+            "node2": 368668,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 279938192,
+            "node1": 91356,
+            "node2": 390219,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 723195838,
+            "node1": 91356,
+            "node2": 2036451,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 113954879,
+            "node1": 91356,
+            "node2": 3229598,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 88348346,
+            "node1": 91356,
+            "node2": 3491409,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 705057631,
+            "node1": 91356,
+            "node2": 6338355,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 597505345,
+            "node1": 91356,
+            "node2": 6886355,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 255913897,
+            "node1": 91356,
+            "node2": 6912574,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 600445232,
+            "node1": 91356,
+            "node2": 7096322,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 377246834,
+            "node1": 91356,
+            "node2": 9023323,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 598712211,
+            "node1": 91356,
+            "node2": 9781828,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 281478433,
+            "node1": 91356,
+            "node2": 11100421,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 598740752,
+            "node1": 91356,
+            "node2": 14925129,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 704734686,
+            "node1": 91356,
+            "node2": 14925130,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 598712195,
+            "node1": 91356,
+            "node2": 14932639,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 705261222,
+            "node1": 91356,
+            "node2": 15062302,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 597567235,
+            "node1": 91356,
+            "node2": 15208661,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 598740742,
+            "node1": 91356,
+            "node2": 15216505,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 705261231,
+            "node1": 91356,
+            "node2": 15230674,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 705369392,
+            "node1": 91356,
+            "node2": 15230675,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 705358118,
+            "node1": 91356,
+            "node2": 15230676,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 604616395,
+            "node1": 91356,
+            "node2": 15235284,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 597558602,
+            "node1": 91356,
+            "node2": 15244265,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 705981526,
+            "node1": 91356,
+            "node2": 15421043,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 705981522,
+            "node1": 91356,
+            "node2": 15421044,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 598762486,
+            "node1": 91356,
+            "node2": 15423505,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 598762518,
+            "node1": 91356,
+            "node2": 15423506,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 618927791,
+            "node1": 91356,
+            "node2": 16167061,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 706045897,
+            "node1": 91356,
+            "node2": 143299148,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 706053039,
+            "node1": 91356,
+            "node2": 143697207,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1155916481,
+            "node1": 91356,
+            "node2": 289631923,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:47.965639",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pont",
+        "#relations": 52,
+        "max_relation_weight": 81.0,
+        "#nodes": 53,
+        "duration": "0:00:00.075201"
+    }
+}

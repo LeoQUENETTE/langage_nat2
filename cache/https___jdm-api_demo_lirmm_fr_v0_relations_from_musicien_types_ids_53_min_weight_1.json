@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5520
+        },
+        {
+            "id": 108530,
+            "name": "harmonie",
+            "type": 1,
+            "w": 8265
+        },
+        {
+            "id": 70527,
+            "name": "musique",
+            "type": 1,
+            "w": 22732
+        },
+        {
+            "id": 75334,
+            "name": "musicien",
+            "type": 1,
+            "w": 3626
+        },
+        {
+            "id": 302902,
+            "name": "oeuvre musicale",
+            "type": 777,
+            "w": 72
+        },
+        {
+            "id": 2050,
+            "name": "mélodie",
+            "type": 1,
+            "w": 3213
+        },
+        {
+            "id": 145065,
+            "name": "symphonie",
+            "type": 1,
+            "w": 1877
+        }
+    ],
+    "relations": [
+        {
+            "id": 376991996,
+            "node1": 75334,
+            "node2": 2050,
+            "type": 53,
+            "w": 50.0
+        },
+        {
+            "id": 1010155822,
+            "node1": 75334,
+            "node2": 70527,
+            "type": 53,
+            "w": 179.0
+        },
+        {
+            "id": 1164135586,
+            "node1": 75334,
+            "node2": 108530,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 998837902,
+            "node1": 75334,
+            "node2": 113672,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 765218230,
+            "node1": 75334,
+            "node2": 145065,
+            "type": 53,
+            "w": 91.0
+        },
+        {
+            "id": 1143669295,
+            "node1": 75334,
+            "node2": 302902,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:59.120601",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "musicien",
+        "#relations": 6,
+        "max_relation_weight": 179.0,
+        "#nodes": 7,
+        "duration": "0:00:00.006816"
+    }
+}

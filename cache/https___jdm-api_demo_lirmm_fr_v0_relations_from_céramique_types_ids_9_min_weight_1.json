@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 146720,
+            "name": "céramique",
+            "type": 1,
+            "w": 897
+        },
+        {
+            "id": 44059,
+            "name": "argile",
+            "type": 1,
+            "w": 508
+        },
+        {
+            "id": 85058,
+            "name": "glaçure",
+            "type": 1,
+            "w": 60
+        }
+    ],
+    "relations": [
+        {
+            "id": 795717408,
+            "node1": 146720,
+            "node2": 44059,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 1008394339,
+            "node1": 146720,
+            "node2": 85058,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:42.471013",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "céramique",
+        "#relations": 2,
+        "max_relation_weight": 35.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004459"
+    }
+}

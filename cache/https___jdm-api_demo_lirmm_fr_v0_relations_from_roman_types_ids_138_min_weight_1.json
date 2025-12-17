@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 7401,
+            "name": "interprétation",
+            "type": 1,
+            "w": 11920
+        },
+        {
+            "id": 54234,
+            "name": "écriture",
+            "type": 1,
+            "w": 6262
+        },
+        {
+            "id": 100640,
+            "name": "roman",
+            "type": 1,
+            "w": 8875
+        }
+    ],
+    "relations": [
+        {
+            "id": 1164020068,
+            "node1": 100640,
+            "node2": 7401,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 962090122,
+            "node1": 100640,
+            "node2": 54234,
+            "type": 138,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:16.391238",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "roman",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.006404"
+    }
+}

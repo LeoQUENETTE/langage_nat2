@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 1900121,
+            "name": "_INFO-SEM-PLACE-ANATOMICAL",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 317326,
+            "name": "_POLIT_5UMP",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 214534,
+            "name": "_INFO-MEANING-FIGURED",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991431,
+            "name": "_PROP-ANIME-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 45216,
+            "name": "coffre",
+            "type": 1,
+            "w": 1084
+        },
+        {
+            "id": 191667,
+            "name": "_INFO-SEM-THING-ARTEFACT",
+            "type": 36,
+            "w": 242
+        }
+    ],
+    "relations": [
+        {
+            "id": 667122,
+            "node1": 45216,
+            "node2": 162759,
+            "type": 36,
+            "w": 47.0
+        },
+        {
+            "id": 2152455,
+            "node1": 45216,
+            "node2": 162763,
+            "type": 36,
+            "w": 44.0
+        },
+        {
+            "id": 1578250,
+            "node1": 45216,
+            "node2": 191667,
+            "type": 36,
+            "w": 59.0
+        },
+        {
+            "id": 335483826,
+            "node1": 45216,
+            "node2": 191669,
+            "type": 36,
+            "w": 38.0
+        },
+        {
+            "id": 738203,
+            "node1": 45216,
+            "node2": 191741,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 52532504,
+            "node1": 45216,
+            "node2": 214534,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 1625806,
+            "node1": 45216,
+            "node2": 217817,
+            "type": 36,
+            "w": 44.0
+        },
+        {
+            "id": 26477398,
+            "node1": 45216,
+            "node2": 223172,
+            "type": 36,
+            "w": 51.0
+        },
+        {
+            "id": 2012919,
+            "node1": 45216,
+            "node2": 223173,
+            "type": 36,
+            "w": 347.0
+        },
+        {
+            "id": 2019661,
+            "node1": 45216,
+            "node2": 241794,
+            "type": 36,
+            "w": 821.0
+        },
+        {
+            "id": 2323372,
+            "node1": 45216,
+            "node2": 254876,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 2323373,
+            "node1": 45216,
+            "node2": 254877,
+            "type": 36,
+            "w": 67.0
+        },
+        {
+            "id": 26885199,
+            "node1": 45216,
+            "node2": 254878,
+            "type": 36,
+            "w": 4.0
+        },
+        {
+            "id": 1133207358,
+            "node1": 45216,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 508444831,
+            "node1": 45216,
+            "node2": 317326,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 9075262,
+            "node1": 45216,
+            "node2": 317329,
+            "type": 36,
+            "w": 18.0
+        },
+        {
+            "id": 363914739,
+            "node1": 45216,
+            "node2": 438949,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 333999076,
+            "node1": 45216,
+            "node2": 1900121,
+            "type": 36,
+            "w": 29.0
+        },
+        {
+            "id": 54670623,
+            "node1": 45216,
+            "node2": 2585996,
+            "type": 36,
+            "w": 52.0
+        },
+        {
+            "id": 418018896,
+            "node1": 45216,
+            "node2": 15991431,
+            "type": 36,
+            "w": 32.0
+        },
+        {
+            "id": 418018888,
+            "node1": 45216,
+            "node2": 15991432,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 498438491,
+            "node1": 45216,
+            "node2": 50233540,
+            "type": 36,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:20.955751",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "coffre",
+        "#relations": 22,
+        "max_relation_weight": 821.0,
+        "#nodes": 23,
+        "duration": "0:00:00.010261"
+    }
+}

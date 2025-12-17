@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 287461,
+            "name": "fabrication du pain",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 463143599,
+            "name": "préparation du pain",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 87983,
+            "name": "panification",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 143005,
+            "name": "fabrication",
+            "type": 1,
+            "w": 5093
+        },
+        {
+            "id": 298957437,
+            "name": "cuisson du pain le matin",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 313688073,
+            "name": "fabrication de produits de boulangerie",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 145285,
+            "name": "boulanger",
+            "type": 1,
+            "w": 1213
+        },
+        {
+            "id": 286834798,
+            "name": "fabrication de pain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 119014,
+            "name": "boulangerie",
+            "type": 1,
+            "w": 1743
+        },
+        {
+            "id": 129468,
+            "name": "pétrissage",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 14638942,
+            "name": "cuisson du pain",
+            "type": 1,
+            "w": 33
+        }
+    ],
+    "relations": [
+        {
+            "id": 788651591,
+            "node1": 145285,
+            "node2": 87983,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 765196471,
+            "node1": 145285,
+            "node2": 119014,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 788660488,
+            "node1": 145285,
+            "node2": 129468,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 1055582554,
+            "node1": 145285,
+            "node2": 143005,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 940939150,
+            "node1": 145285,
+            "node2": 287461,
+            "type": 137,
+            "w": 56.0
+        },
+        {
+            "id": 788819484,
+            "node1": 145285,
+            "node2": 14638942,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 952383050,
+            "node1": 145285,
+            "node2": 286834798,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 793485349,
+            "node1": 145285,
+            "node2": 298957437,
+            "type": 137,
+            "w": 28.0
+        },
+        {
+            "id": 952387635,
+            "node1": 145285,
+            "node2": 313688073,
+            "type": 137,
+            "w": 39.0
+        },
+        {
+            "id": 1152121900,
+            "node1": 145285,
+            "node2": 463143599,
+            "type": 137,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:44.315605",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "boulanger",
+        "#relations": 10,
+        "max_relation_weight": 56.0,
+        "#nodes": 11,
+        "duration": "0:00:00.008767"
+    }
+}

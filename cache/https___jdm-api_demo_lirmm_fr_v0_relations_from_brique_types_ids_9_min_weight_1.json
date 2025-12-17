@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 44059,
+            "name": "argile",
+            "type": 1,
+            "w": 508
+        },
+        {
+            "id": 41894,
+            "name": "brique",
+            "type": 1,
+            "w": 551
+        }
+    ],
+    "relations": [
+        {
+            "id": 785994456,
+            "node1": 41894,
+            "node2": 44059,
+            "type": 9,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:15.180835",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "brique",
+        "#relations": 1,
+        "max_relation_weight": 28.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003237"
+    }
+}

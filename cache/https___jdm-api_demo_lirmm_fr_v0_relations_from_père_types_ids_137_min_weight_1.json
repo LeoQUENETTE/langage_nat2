@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 102812,
+            "name": "père",
+            "type": 1,
+            "w": 32980
+        },
+        {
+            "id": 376270,
+            "name": "responsabilité parentale",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 54795,
+            "name": "bricolage",
+            "type": 1,
+            "w": 730
+        },
+        {
+            "id": 20455,
+            "name": "paternité",
+            "type": 1,
+            "w": 429
+        },
+        {
+            "id": 596275,
+            "name": "syndrome du bébé secoué",
+            "type": 777,
+            "w": 30
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152113016,
+            "node1": 102812,
+            "node2": 20455,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 384631140,
+            "node1": 102812,
+            "node2": 54795,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1152113017,
+            "node1": 102812,
+            "node2": 376270,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 384631269,
+            "node1": 102812,
+            "node2": 596275,
+            "type": 137,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:30.571860",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "père",
+        "#relations": 4,
+        "max_relation_weight": 35.0,
+        "#nodes": 5,
+        "duration": "0:00:00.041708"
+    }
+}

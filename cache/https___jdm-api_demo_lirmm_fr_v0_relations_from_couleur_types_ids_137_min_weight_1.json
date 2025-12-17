@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 95183,
+            "name": "perception",
+            "type": 1,
+            "w": 10388
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179786878,
+            "node1": 40056,
+            "node2": 95183,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:51.740350",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couleur",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004669"
+    }
+}

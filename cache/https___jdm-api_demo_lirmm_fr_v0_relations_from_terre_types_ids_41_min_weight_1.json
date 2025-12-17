@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 73427,
+            "name": "odeur",
+            "type": 1,
+            "w": 4382
+        },
+        {
+            "id": 61185,
+            "name": "pelle",
+            "type": 1,
+            "w": 1116
+        },
+        {
+            "id": 220228,
+            "name": "dégradation des sols",
+            "type": 1,
+            "w": 156
+        },
+        {
+            "id": 137391,
+            "name": "Afrique",
+            "type": 1,
+            "w": 5508
+        },
+        {
+            "id": 213142,
+            "name": "changement climatique",
+            "type": 1,
+            "w": 12093
+        },
+        {
+            "id": 201806164,
+            "name": "croissance des plantes",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 40470,
+            "name": "récolte",
+            "type": 1,
+            "w": 3467
+        },
+        {
+            "id": 120603,
+            "name": "légume",
+            "type": 1,
+            "w": 3161
+        },
+        {
+            "id": 25705,
+            "name": "terre",
+            "type": 1,
+            "w": 29969
+        },
+        {
+            "id": 7054137,
+            "name": "en:odor",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155584731,
+            "node1": 25705,
+            "node2": 40470,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14658612,
+            "node1": 25705,
+            "node2": 61185,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14642960,
+            "node1": 25705,
+            "node2": 73427,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14658862,
+            "node1": 25705,
+            "node2": 120603,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14657896,
+            "node1": 25705,
+            "node2": 137391,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1155584741,
+            "node1": 25705,
+            "node2": 213142,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155587524,
+            "node1": 25705,
+            "node2": 220228,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 220698701,
+            "node1": 25705,
+            "node2": 7054137,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1155587510,
+            "node1": 25705,
+            "node2": 201806164,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:50.225429",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "terre",
+        "#relations": 9,
+        "max_relation_weight": 34.0,
+        "#nodes": 10,
+        "duration": "0:00:00.005844"
+    }
+}

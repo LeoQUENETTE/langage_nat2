@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 143613,
+            "name": "porte",
+            "type": 1,
+            "w": 23845
+        },
+        {
+            "id": 57239,
+            "name": "cerclage",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 43839,
+            "name": "roue",
+            "type": 1,
+            "w": 2823
+        },
+        {
+            "id": 106797,
+            "name": "bière",
+            "type": 1,
+            "w": 2922
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 40184,
+            "name": "siège",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 35798,
+            "name": "vin",
+            "type": 1,
+            "w": 8031
+        },
+        {
+            "id": 153100,
+            "name": "1664",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 72044,
+            "name": "tonneau",
+            "type": 1,
+            "w": 344
+        }
+    ],
+    "relations": [
+        {
+            "id": 10527299,
+            "node1": 72044,
+            "node2": 35798,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 82345594,
+            "node1": 72044,
+            "node2": 40184,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 82345313,
+            "node1": 72044,
+            "node2": 43839,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 1157029583,
+            "node1": 72044,
+            "node2": 57239,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 10527351,
+            "node1": 72044,
+            "node2": 106797,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 1146676669,
+            "node1": 72044,
+            "node2": 139779,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 82345252,
+            "node1": 72044,
+            "node2": 143613,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 10564238,
+            "node1": 72044,
+            "node2": 153100,
+            "type": 9,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:55.676657",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tonneau",
+        "#relations": 8,
+        "max_relation_weight": 51.0,
+        "#nodes": 9,
+        "duration": "0:00:00.004095"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 21520,
+            "name": "hameau",
+            "type": 1,
+            "w": 940
+        },
+        {
+            "id": 15193607,
+            "name": "en:dorp",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37890
+        },
+        {
+            "id": 7610275,
+            "name": "en:township",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 14673066,
+            "node1": 45179,
+            "node2": 21520,
+            "type": 42,
+            "w": 27.0
+        },
+        {
+            "id": 1037112508,
+            "node1": 45179,
+            "node2": 7610275,
+            "type": 42,
+            "w": 4.0
+        },
+        {
+            "id": 412489700,
+            "node1": 45179,
+            "node2": 15193607,
+            "type": 42,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            42
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:54.856981",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maison",
+        "#relations": 3,
+        "max_relation_weight": 34.0,
+        "#nodes": 4,
+        "duration": "0:00:00.006111"
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 394290,
+            "name": "portion de l'espace",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 251663,
+            "name": "espace>134218",
+            "type": 1,
+            "w": 41
+        },
+        {
+            "id": 124698178,
+            "name": "partie de quelque chose",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 97706,
+            "name": "fonction",
+            "type": 1,
+            "w": 9078
+        },
+        {
+            "id": 40184,
+            "name": "siège",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 13943,
+            "name": "place",
+            "type": 1,
+            "w": 15971
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 239392,
+            "name": "lieu de rendez-vous",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 159210,
+            "name": "lieu public",
+            "type": 1,
+            "w": 152
+        }
+    ],
+    "relations": [
+        {
+            "id": 96930453,
+            "node1": 13943,
+            "node2": 40184,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 9899809,
+            "node1": 13943,
+            "node2": 97706,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 9900329,
+            "node1": 13943,
+            "node2": 134218,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 629107,
+            "node1": 13943,
+            "node2": 135190,
+            "type": 6,
+            "w": 73.0
+        },
+        {
+            "id": 68727948,
+            "node1": 13943,
+            "node2": 136786,
+            "type": 6,
+            "w": 42.0
+        },
+        {
+            "id": 1864183,
+            "node1": 13943,
+            "node2": 157283,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 1078206953,
+            "node1": 13943,
+            "node2": 159210,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 96930445,
+            "node1": 13943,
+            "node2": 239392,
+            "type": 6,
+            "w": 45.0
+        },
+        {
+            "id": 15781258,
+            "node1": 13943,
+            "node2": 251663,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 775798820,
+            "node1": 13943,
+            "node2": 325138,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 910616498,
+            "node1": 13943,
+            "node2": 394290,
+            "type": 6,
+            "w": 7.0
+        },
+        {
+            "id": 661851487,
+            "node1": 13943,
+            "node2": 2785548,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 357215855,
+            "node1": 13943,
+            "node2": 14094383,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 910616478,
+            "node1": 13943,
+            "node2": 124698178,
+            "type": 6,
+            "w": 5.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:45.595559",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "place",
+        "#relations": 14,
+        "max_relation_weight": 73.0,
+        "#nodes": 15,
+        "duration": "0:00:00.073504"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 78812,
+            "name": "troc",
+            "type": 1,
+            "w": 1360
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        }
+    ],
+    "relations": [
+        {
+            "id": 674225897,
+            "node1": 237,
+            "node2": 78812,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:21.875934",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "objet",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.006507"
+    }
+}

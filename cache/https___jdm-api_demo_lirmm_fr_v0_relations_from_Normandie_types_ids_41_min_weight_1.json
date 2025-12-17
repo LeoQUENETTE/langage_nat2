@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 448516365,
+            "name": "percée de l Ouest",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 57369,
+            "name": "Normandie",
+            "type": 1,
+            "w": 3525
+        }
+    ],
+    "relations": [
+        {
+            "id": 1137724144,
+            "node1": 57369,
+            "node2": 448516365,
+            "type": 41,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:55.246354",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Normandie",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005045"
+    }
+}

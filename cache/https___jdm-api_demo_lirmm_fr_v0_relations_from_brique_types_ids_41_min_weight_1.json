@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 41894,
+            "name": "brique",
+            "type": 1,
+            "w": 551
+        },
+        {
+            "id": 11123969,
+            "name": "être complètement bouché",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 283124817,
+            "node1": 41894,
+            "node2": 11123969,
+            "type": 41,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:14.999954",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "brique",
+        "#relations": 1,
+        "max_relation_weight": 35.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004516"
+    }
+}

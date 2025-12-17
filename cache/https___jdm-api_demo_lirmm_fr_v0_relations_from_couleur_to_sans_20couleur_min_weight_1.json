@@ -1,0 +1,74 @@
+{
+    "nodes": [
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747,
+            "c": 0,
+            "level": 57.7645,
+            "infoid": null,
+            "creationdate": "2007-06-21",
+            "touchdate": "2025-12-16T20:30:12"
+        },
+        {
+            "id": 269561,
+            "name": "sans couleur",
+            "type": 1,
+            "w": 56,
+            "c": 0,
+            "level": 199.0,
+            "infoid": null,
+            "creationdate": "2013-07-23",
+            "touchdate": "2025-12-16T19:47:49"
+        }
+    ],
+    "relations": [
+        {
+            "id": 797143920,
+            "node1": 40056,
+            "node2": 269561,
+            "type": 0,
+            "w": 23.0
+        },
+        {
+            "id": 8737231,
+            "node1": 40056,
+            "node2": 269561,
+            "type": 11,
+            "w": 163.0
+        },
+        {
+            "id": 3177163,
+            "node1": 40056,
+            "node2": 269561,
+            "type": 106,
+            "w": 13.0
+        }
+    ],
+    "request": {
+        "types_ids": null,
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:54.370140",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "node1": "couleur",
+        "node2": "sans couleur",
+        "#relations": 3,
+        "max_relation_weight": 163.0,
+        "duration": "0:00:00.004384"
+    }
+}

@@ -1,0 +1,404 @@
+{
+    "nodes": [
+        {
+            "id": 15297417,
+            "name": "en:committing to memory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15743486,
+            "name": "en:reremember",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15743487,
+            "name": "en:remember something again",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 99889,
+            "name": "retenir",
+            "type": 1,
+            "w": 3876
+        },
+        {
+            "id": 135041,
+            "name": "oublier",
+            "type": 1,
+            "w": 7786
+        },
+        {
+            "id": 7029852,
+            "name": "en:shame",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 46252,
+            "name": "stocker",
+            "type": 1,
+            "w": 1733
+        },
+        {
+            "id": 15436714,
+            "name": "en:get your memory back",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 29389,
+            "name": "oubli",
+            "type": 1,
+            "w": 1060
+        },
+        {
+            "id": 45,
+            "name": "rappel",
+            "type": 1,
+            "w": 750
+        },
+        {
+            "id": 54895,
+            "name": "se souvenir",
+            "type": 1,
+            "w": 952
+        },
+        {
+            "id": 98333,
+            "name": "enterrement",
+            "type": 1,
+            "w": 1205
+        },
+        {
+            "id": 14957938,
+            "name": "en:remember",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5535,
+            "name": "évoquer",
+            "type": 1,
+            "w": 3387
+        },
+        {
+            "id": 94856,
+            "name": "mémorisation",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 61223,
+            "name": "souvenir",
+            "type": 1,
+            "w": 10686
+        },
+        {
+            "id": 15436712,
+            "name": "retrouver la mémoire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15436713,
+            "name": "en:jog your memory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123732,
+            "name": "apprentissage",
+            "type": 1,
+            "w": 17267
+        },
+        {
+            "id": 68421,
+            "name": "honte",
+            "type": 1,
+            "w": 2220
+        },
+        {
+            "id": 99884,
+            "name": "mémoire",
+            "type": 1,
+            "w": 12721
+        },
+        {
+            "id": 114672,
+            "name": "rappeler",
+            "type": 1,
+            "w": 8216
+        },
+        {
+            "id": 15082832,
+            "name": "en:remembering",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15646609,
+            "name": "en:learn something by heart",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105141,
+            "name": "se ressouvenir",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 99847,
+            "name": "mémoriser",
+            "type": 1,
+            "w": 452
+        },
+        {
+            "id": 15432975,
+            "name": "en:try to remember",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 98712,
+            "name": "se rappeler",
+            "type": 1,
+            "w": 332
+        },
+        {
+            "id": 15690994,
+            "name": "souviens-toi",
+            "type": 1,
+            "w": 32
+        }
+    ],
+    "relations": [
+        {
+            "id": 1693394,
+            "node1": 99884,
+            "node2": 45,
+            "type": 41,
+            "w": 90.0
+        },
+        {
+            "id": 1693396,
+            "node1": 99884,
+            "node2": 5535,
+            "type": 41,
+            "w": 80.0
+        },
+        {
+            "id": 1781273,
+            "node1": 99884,
+            "node2": 29389,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 1691041,
+            "node1": 99884,
+            "node2": 46252,
+            "type": 41,
+            "w": 53.0
+        },
+        {
+            "id": 1598307,
+            "node1": 99884,
+            "node2": 54895,
+            "type": 41,
+            "w": 150.0
+        },
+        {
+            "id": 1598302,
+            "node1": 99884,
+            "node2": 61223,
+            "type": 41,
+            "w": 140.0
+        },
+        {
+            "id": 14643819,
+            "node1": 99884,
+            "node2": 68421,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 1598303,
+            "node1": 99884,
+            "node2": 94856,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 23310441,
+            "node1": 99884,
+            "node2": 98333,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1626397,
+            "node1": 99884,
+            "node2": 98712,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 1598305,
+            "node1": 99884,
+            "node2": 99847,
+            "type": 41,
+            "w": 52.0
+        },
+        {
+            "id": 1598306,
+            "node1": 99884,
+            "node2": 99889,
+            "type": 41,
+            "w": 140.0
+        },
+        {
+            "id": 472694770,
+            "node1": 99884,
+            "node2": 105141,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1693395,
+            "node1": 99884,
+            "node2": 114672,
+            "type": 41,
+            "w": 80.0
+        },
+        {
+            "id": 1598304,
+            "node1": 99884,
+            "node2": 123732,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 1781274,
+            "node1": 99884,
+            "node2": 135041,
+            "type": 41,
+            "w": 59.0
+        },
+        {
+            "id": 295736341,
+            "node1": 99884,
+            "node2": 7029852,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 411509358,
+            "node1": 99884,
+            "node2": 14957938,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 1079386076,
+            "node1": 99884,
+            "node2": 15082832,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079386077,
+            "node1": 99884,
+            "node2": 15297417,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 667260108,
+            "node1": 99884,
+            "node2": 15432975,
+            "type": 41,
+            "w": 16.0
+        },
+        {
+            "id": 411503948,
+            "node1": 99884,
+            "node2": 15436712,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 431562424,
+            "node1": 99884,
+            "node2": 15436713,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 431562426,
+            "node1": 99884,
+            "node2": 15436714,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 933470622,
+            "node1": 99884,
+            "node2": 15646609,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 411507960,
+            "node1": 99884,
+            "node2": 15690994,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 929749733,
+            "node1": 99884,
+            "node2": 15743486,
+            "type": 41,
+            "w": 13.0
+        },
+        {
+            "id": 929749735,
+            "node1": 99884,
+            "node2": 15743487,
+            "type": 41,
+            "w": 13.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:24.989873",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mémoire",
+        "#relations": 28,
+        "max_relation_weight": 150.0,
+        "#nodes": 29,
+        "duration": "0:00:00.008396"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 130949,
+            "name": "vaisselle",
+            "type": 1,
+            "w": 1108
+        },
+        {
+            "id": 91043,
+            "name": "nappe",
+            "type": 1,
+            "w": 738
+        },
+        {
+            "id": 89591,
+            "name": "table",
+            "type": 1,
+            "w": 8198
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156943998,
+            "node1": 89591,
+            "node2": 91043,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 1156943999,
+            "node1": 89591,
+            "node2": 130949,
+            "type": 121,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:59.992389",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "table",
+        "#relations": 2,
+        "max_relation_weight": 31.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005403"
+    }
+}

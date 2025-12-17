@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 370443,
+            "name": "pigeon de roche",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 74657,
+            "name": "pigeon",
+            "type": 1,
+            "w": 982
+        },
+        {
+            "id": 593630,
+            "name": "tourterelle>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 120733,
+            "name": "tourterelle",
+            "type": 1,
+            "w": 167
+        },
+        {
+            "id": 94608,
+            "name": "pigeons",
+            "type": 1,
+            "w": 123
+        },
+        {
+            "id": 123492,
+            "name": "statue",
+            "type": 1,
+            "w": 3045
+        },
+        {
+            "id": 215024,
+            "name": "pigeon>140176",
+            "type": 1,
+            "w": 138
+        }
+    ],
+    "relations": [
+        {
+            "id": 11336180,
+            "node1": 123492,
+            "node2": 74657,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 1033243185,
+            "node1": 123492,
+            "node2": 94608,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11315905,
+            "node1": 123492,
+            "node2": 120733,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11336178,
+            "node1": 123492,
+            "node2": 215024,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 14031492,
+            "node1": 123492,
+            "node2": 370443,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 605758946,
+            "node1": 123492,
+            "node2": 593630,
+            "type": 28,
+            "w": 7.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:52.526776",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "statue",
+        "#relations": 6,
+        "max_relation_weight": 43.0,
+        "#nodes": 7,
+        "duration": "0:00:00.003737"
+    }
+}

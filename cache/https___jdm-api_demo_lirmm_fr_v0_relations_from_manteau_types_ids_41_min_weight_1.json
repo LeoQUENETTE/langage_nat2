@@ -1,0 +1,391 @@
+{
+    "nodes": [
+        {
+            "id": 7015625,
+            "name": "en:hot spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 231925,
+            "name": "point d'ancrage",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 260923,
+            "name": "point chaud",
+            "type": 1,
+            "w": 169
+        },
+        {
+            "id": 15465663,
+            "name": "hot-spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 236068,
+            "name": "hotspot",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 15317233,
+            "name": "en:anchor point",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15465659,
+            "name": "en:wifi hotspot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15465661,
+            "name": "en:wi-fi hot spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15270468,
+            "name": "borne WiFi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15251879,
+            "name": "point d'embouteillage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15270469,
+            "name": "en:Wi-Fi hotspot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15317241,
+            "name": "en:anchorpoint",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15270476,
+            "name": "point d'accès WiFi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 112382,
+            "name": "volcan",
+            "type": 1,
+            "w": 2312
+        },
+        {
+            "id": 15302401,
+            "name": "en:major issue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45931,
+            "name": "manteau",
+            "type": 1,
+            "w": 1133
+        },
+        {
+            "id": 15454423,
+            "name": "en:Wi-Fi access point",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15220102,
+            "name": "point d'attaque",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 264428,
+            "name": "zone sensible",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 371461,
+            "name": "point chaud du globe",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 15465660,
+            "name": "en:Wi-Fi hot spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 184841,
+            "name": "zone d'accès sans fil",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15465658,
+            "name": "en:wi-fi hotspot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 236032,
+            "name": "borne Wi-Fi",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15454424,
+            "name": "borne wifi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15465662,
+            "name": "en:wifi hot spot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15317232,
+            "name": "en:anchorage point",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 311612,
+            "name": "hot spot",
+            "type": 777,
+            "w": 65
+        }
+    ],
+    "relations": [
+        {
+            "id": 1037097255,
+            "node1": 45931,
+            "node2": 112382,
+            "type": 41,
+            "w": 4.0
+        },
+        {
+            "id": 1026841397,
+            "node1": 45931,
+            "node2": 184841,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 431562225,
+            "node1": 45931,
+            "node2": 231925,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 483982474,
+            "node1": 45931,
+            "node2": 236032,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14641684,
+            "node1": 45931,
+            "node2": 236068,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14641694,
+            "node1": 45931,
+            "node2": 260923,
+            "type": 41,
+            "w": 55.0
+        },
+        {
+            "id": 483295243,
+            "node1": 45931,
+            "node2": 264428,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14641691,
+            "node1": 45931,
+            "node2": 311612,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 14641677,
+            "node1": 45931,
+            "node2": 371461,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 213784709,
+            "node1": 45931,
+            "node2": 7015625,
+            "type": 41,
+            "w": 52.0
+        },
+        {
+            "id": 413989548,
+            "node1": 45931,
+            "node2": 15220102,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 432393594,
+            "node1": 45931,
+            "node2": 15251879,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 483982463,
+            "node1": 45931,
+            "node2": 15270468,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 468493527,
+            "node1": 45931,
+            "node2": 15270469,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 806199789,
+            "node1": 45931,
+            "node2": 15270476,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 1079361147,
+            "node1": 45931,
+            "node2": 15302401,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 483295310,
+            "node1": 45931,
+            "node2": 15317232,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 449454533,
+            "node1": 45931,
+            "node2": 15317233,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 769588311,
+            "node1": 45931,
+            "node2": 15317241,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 929742185,
+            "node1": 45931,
+            "node2": 15454423,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 485395017,
+            "node1": 45931,
+            "node2": 15454424,
+            "type": 41,
+            "w": 43.0
+        },
+        {
+            "id": 468493538,
+            "node1": 45931,
+            "node2": 15465658,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 468493549,
+            "node1": 45931,
+            "node2": 15465659,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 468493560,
+            "node1": 45931,
+            "node2": 15465660,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 468493571,
+            "node1": 45931,
+            "node2": 15465661,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 468493582,
+            "node1": 45931,
+            "node2": 15465662,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 468493596,
+            "node1": 45931,
+            "node2": 15465663,
+            "type": 41,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:42.934712",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "manteau",
+        "#relations": 27,
+        "max_relation_weight": 55.0,
+        "#nodes": 28,
+        "duration": "0:00:00.006857"
+    }
+}

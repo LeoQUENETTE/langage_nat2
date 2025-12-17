@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 39204,
+            "name": "guitare",
+            "type": 1,
+            "w": 3592
+        },
+        {
+            "id": 8595,
+            "name": "corde",
+            "type": 1,
+            "w": 3415
+        },
+        {
+            "id": 50756313,
+            "name": "::>66:17206725>15:39204",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17206725,
+            "name": "::>66:75334>24:17206723",
+            "type": 8,
+            "w": 10
+        }
+    ],
+    "relations": [
+        {
+            "id": 11332584,
+            "node1": 39204,
+            "node2": 8595,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 498434044,
+            "node1": 39204,
+            "node2": 17206725,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 498759623,
+            "node1": 39204,
+            "node2": 50756313,
+            "type": 28,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:57.323614",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "guitare",
+        "#relations": 3,
+        "max_relation_weight": 39.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004708"
+    }
+}

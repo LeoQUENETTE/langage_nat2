@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 15252861,
+            "name": "boîte à lunch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94254,
+            "name": "cartable",
+            "type": 1,
+            "w": 595
+        },
+        {
+            "id": 57565,
+            "name": "crayon",
+            "type": 1,
+            "w": 2241
+        },
+        {
+            "id": 265445906,
+            "name": "carte de cantine",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 68887,
+            "name": "élève",
+            "type": 1,
+            "w": 7662
+        },
+        {
+            "id": 299363701,
+            "name": "trousse de géométrie",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 142787,
+            "name": "livre",
+            "type": 1,
+            "w": 18444
+        },
+        {
+            "id": 151,
+            "name": "uniforme",
+            "type": 1,
+            "w": 2627
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2782
+        },
+        {
+            "id": 157421,
+            "name": "casque de vélo",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 239135,
+            "name": "carnet de correspondance",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 208944,
+            "name": "tenue de sport",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 244786,
+            "name": "cahier>134696",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 334309,
+            "name": "agenda scolaire",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 164437,
+            "name": "sac de sport",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 14960244,
+            "name": "en:stylus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15204749,
+            "name": "en:fountainpen",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1035088991,
+            "node1": 68887,
+            "node2": 151,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 282550577,
+            "node1": 68887,
+            "node2": 15509,
+            "type": 121,
+            "w": 43.0
+        },
+        {
+            "id": 634883734,
+            "node1": 68887,
+            "node2": 57565,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 423725067,
+            "node1": 68887,
+            "node2": 94254,
+            "type": 121,
+            "w": 150.0
+        },
+        {
+            "id": 1068907381,
+            "node1": 68887,
+            "node2": 142787,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1035089003,
+            "node1": 68887,
+            "node2": 157421,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1035089012,
+            "node1": 68887,
+            "node2": 164437,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1035089005,
+            "node1": 68887,
+            "node2": 208944,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1035089010,
+            "node1": 68887,
+            "node2": 239135,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1142764662,
+            "node1": 68887,
+            "node2": 244786,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 779715515,
+            "node1": 68887,
+            "node2": 334309,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 594674116,
+            "node1": 68887,
+            "node2": 14960244,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 479258405,
+            "node1": 68887,
+            "node2": 15204749,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1035089007,
+            "node1": 68887,
+            "node2": 15252861,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 929999922,
+            "node1": 68887,
+            "node2": 265445906,
+            "type": 121,
+            "w": 36.0
+        },
+        {
+            "id": 794966420,
+            "node1": 68887,
+            "node2": 299363701,
+            "type": 121,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:56.712433",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "élève",
+        "#relations": 16,
+        "max_relation_weight": 150.0,
+        "#nodes": 17,
+        "duration": "0:00:00.009945"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 68291,
+            "name": "Genève",
+            "type": 1,
+            "w": 3454
+        },
+        {
+            "id": 120530,
+            "name": "organisations internationales",
+            "type": 1,
+            "w": 413
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150775455,
+            "node1": 68291,
+            "node2": 120530,
+            "type": 53,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:29.275348",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Genève",
+        "#relations": 1,
+        "max_relation_weight": 35.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004754"
+    }
+}

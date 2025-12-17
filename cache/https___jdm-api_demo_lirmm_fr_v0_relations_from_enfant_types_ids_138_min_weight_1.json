@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 130920,
+            "name": "socialisation",
+            "type": 1,
+            "w": 777
+        },
+        {
+            "id": 37566,
+            "name": "croissance",
+            "type": 1,
+            "w": 12714
+        },
+        {
+            "id": 83989,
+            "name": "éducation",
+            "type": 1,
+            "w": 34460
+        },
+        {
+            "id": 43207,
+            "name": "développement",
+            "type": 1,
+            "w": 31574
+        },
+        {
+            "id": 53314,
+            "name": "jeu",
+            "type": 1,
+            "w": 11916
+        },
+        {
+            "id": 124094,
+            "name": "enfant",
+            "type": 1,
+            "w": 57598
+        },
+        {
+            "id": 108649,
+            "name": "pédagogie",
+            "type": 1,
+            "w": 2742
+        },
+        {
+            "id": 596275,
+            "name": "syndrome du bébé secoué",
+            "type": 777,
+            "w": 30
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150578881,
+            "node1": 124094,
+            "node2": 37566,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1170077372,
+            "node1": 124094,
+            "node2": 43207,
+            "type": 138,
+            "w": 26.0
+        },
+        {
+            "id": 1155487033,
+            "node1": 124094,
+            "node2": 53314,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150578879,
+            "node1": 124094,
+            "node2": 83989,
+            "type": 138,
+            "w": 109.0
+        },
+        {
+            "id": 376969771,
+            "node1": 124094,
+            "node2": 108649,
+            "type": 138,
+            "w": 30.0
+        },
+        {
+            "id": 1155487021,
+            "node1": 124094,
+            "node2": 130920,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 376969681,
+            "node1": 124094,
+            "node2": 596275,
+            "type": 138,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:53.272627",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "enfant",
+        "#relations": 7,
+        "max_relation_weight": 109.0,
+        "#nodes": 8,
+        "duration": "0:00:00.007031"
+    }
+}

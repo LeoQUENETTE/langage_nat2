@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 215053,
+            "name": "rue>215052",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4767
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 144141,
+            "name": "Pise",
+            "type": 1,
+            "w": 126
+        }
+    ],
+    "relations": [
+        {
+            "id": 350623422,
+            "node1": 144141,
+            "node2": 20564,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 350712042,
+            "node1": 144141,
+            "node2": 63462,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 350641125,
+            "node1": 144141,
+            "node2": 215053,
+            "type": 9,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:32.062197",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Pise",
+        "#relations": 3,
+        "max_relation_weight": 34.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005500"
+    }
+}

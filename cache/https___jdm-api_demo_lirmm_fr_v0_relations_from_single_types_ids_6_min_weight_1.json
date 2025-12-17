@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 214528,
+            "name": "enregistrement musical",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 101942,
+            "name": "single",
+            "type": 1,
+            "w": 2324
+        },
+        {
+            "id": 107902,
+            "name": "chanson",
+            "type": 1,
+            "w": 5596
+        },
+        {
+            "id": 111867,
+            "name": "enregistrement",
+            "type": 1,
+            "w": 2478
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4267
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150463623,
+            "node1": 101942,
+            "node2": 107902,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 116911342,
+            "node1": 101942,
+            "node2": 111867,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1150463794,
+            "node1": 101942,
+            "node2": 144938,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 269827416,
+            "node1": 101942,
+            "node2": 214528,
+            "type": 6,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:38.734966",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "single",
+        "#relations": 4,
+        "max_relation_weight": 41.0,
+        "#nodes": 5,
+        "duration": "0:00:00.030481"
+    }
+}

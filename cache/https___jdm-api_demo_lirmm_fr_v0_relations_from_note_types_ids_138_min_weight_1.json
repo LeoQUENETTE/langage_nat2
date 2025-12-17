@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 91556,
+            "name": "correction",
+            "type": 1,
+            "w": 1109
+        },
+        {
+            "id": 2199515,
+            "name": "feedback",
+            "type": 1,
+            "w": 5399
+        },
+        {
+            "id": 140862,
+            "name": "note",
+            "type": 1,
+            "w": 5288
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158357442,
+            "node1": 140862,
+            "node2": 91556,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1158357463,
+            "node1": 140862,
+            "node2": 2199515,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:57.531442",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "note",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003933"
+    }
+}

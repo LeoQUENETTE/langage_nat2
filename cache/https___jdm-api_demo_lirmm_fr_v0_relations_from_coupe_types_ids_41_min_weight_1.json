@@ -1,0 +1,378 @@
+{
+    "nodes": [
+        {
+            "id": 351335,
+            "name": "en rupture de stock",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 260332,
+            "name": "succès commercial",
+            "type": 1,
+            "w": 287
+        },
+        {
+            "id": 320468,
+            "name": "repris>143462",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14923721,
+            "name": "en:bestseller",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1704065,
+            "name": "faire blouser",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14256664,
+            "name": "repris>5141350",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 141091,
+            "name": "coupe",
+            "type": 1,
+            "w": 3653
+        },
+        {
+            "id": 251448,
+            "name": "poche poitrine",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 133857,
+            "name": "mode",
+            "type": 1,
+            "w": 7937
+        },
+        {
+            "id": 21576,
+            "name": "repris",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 251454,
+            "name": "poche de poitrine",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15114567,
+            "name": "en:breast pocket",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15280451,
+            "name": "en:out of stock",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 207338,
+            "name": "rupture de stock",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 15236466,
+            "name": "en:depletion of stock",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15275385,
+            "name": "en:stock shortage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15366127,
+            "name": "en:part shortage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15366128,
+            "name": "en:stockout",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15366129,
+            "name": "en:stock out level",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15366130,
+            "name": "en:inventory shortage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15366131,
+            "name": "en:stock outage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3663326,
+            "name": "culotte dans les fesses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251419417,
+            "name": "Succès commercial",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 15218408,
+            "name": "en:commercial success",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15379973,
+            "name": "en:hot item",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442000,
+            "name": "en:top seller",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442001,
+            "name": "en:successful business",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 478800429,
+            "node1": 141091,
+            "node2": 21576,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 98342767,
+            "node1": 141091,
+            "node2": 133857,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 98342776,
+            "node1": 141091,
+            "node2": 207338,
+            "type": 41,
+            "w": 90.0
+        },
+        {
+            "id": 14651307,
+            "node1": 141091,
+            "node2": 251448,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14651324,
+            "node1": 141091,
+            "node2": 251454,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 98342783,
+            "node1": 141091,
+            "node2": 260332,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 361550146,
+            "node1": 141091,
+            "node2": 320468,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 411498252,
+            "node1": 141091,
+            "node2": 351335,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 28137219,
+            "node1": 141091,
+            "node2": 1704065,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 98342792,
+            "node1": 141091,
+            "node2": 3663326,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 667266006,
+            "node1": 141091,
+            "node2": 14256664,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 538954697,
+            "node1": 141091,
+            "node2": 14923721,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 806188960,
+            "node1": 141091,
+            "node2": 15114567,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 1079372867,
+            "node1": 141091,
+            "node2": 15218408,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079395818,
+            "node1": 141091,
+            "node2": 15236466,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 399959515,
+            "node1": 141091,
+            "node2": 15275385,
+            "type": 41,
+            "w": 88.0
+        },
+        {
+            "id": 396949065,
+            "node1": 141091,
+            "node2": 15280451,
+            "type": 41,
+            "w": 85.0
+        },
+        {
+            "id": 1079395798,
+            "node1": 141091,
+            "node2": 15366127,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079395803,
+            "node1": 141091,
+            "node2": 15366128,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079395808,
+            "node1": 141091,
+            "node2": 15366129,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 769587435,
+            "node1": 141091,
+            "node2": 15366130,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079395813,
+            "node1": 141091,
+            "node2": 15366131,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079397781,
+            "node1": 141091,
+            "node2": 15379973,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 538954638,
+            "node1": 141091,
+            "node2": 15442000,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 538954579,
+            "node1": 141091,
+            "node2": 15442001,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1143448486,
+            "node1": 141091,
+            "node2": 251419417,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:59.176486",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "coupe",
+        "#relations": 26,
+        "max_relation_weight": 90.0,
+        "#nodes": 27,
+        "duration": "0:00:00.009436"
+    }
+}

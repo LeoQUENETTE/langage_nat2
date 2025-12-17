@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 140902,
+            "name": "étoffe",
+            "type": 1,
+            "w": 464
+        },
+        {
+            "id": 14966797,
+            "name": "en:item of clothing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14928947,
+            "name": "en:headgear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 120949,
+            "name": "vêtement",
+            "type": 1,
+            "w": 5715
+        },
+        {
+            "id": 14941364,
+            "name": "en:garment",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 16215,
+            "name": "casquette",
+            "type": 1,
+            "w": 410
+        },
+        {
+            "id": 24670,
+            "name": "chapeau",
+            "type": 1,
+            "w": 2164
+        },
+        {
+            "id": 1550571,
+            "name": "vêtement d'été",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 15419731,
+            "name": "en:clothing item",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15269838,
+            "name": "en:head-gear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7420637,
+            "name": "en:headwear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15061154,
+            "name": "en:head covering",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 18557,
+            "name": "couvre-chef",
+            "type": 1,
+            "w": 228
+        },
+        {
+            "id": 219074,
+            "name": "chapeau>18557",
+            "type": 1,
+            "w": 110
+        }
+    ],
+    "relations": [
+        {
+            "id": 82267745,
+            "node1": 16215,
+            "node2": 237,
+            "type": 6,
+            "w": 75.0
+        },
+        {
+            "id": 8861076,
+            "node1": 16215,
+            "node2": 18557,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 635789,
+            "node1": 16215,
+            "node2": 24670,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 513981,
+            "node1": 16215,
+            "node2": 120949,
+            "type": 6,
+            "w": 66.0
+        },
+        {
+            "id": 57982340,
+            "node1": 16215,
+            "node2": 140902,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 11826405,
+            "node1": 16215,
+            "node2": 219074,
+            "type": 6,
+            "w": 197.0
+        },
+        {
+            "id": 82267746,
+            "node1": 16215,
+            "node2": 246870,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 371178761,
+            "node1": 16215,
+            "node2": 316850,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 25698440,
+            "node1": 16215,
+            "node2": 1550571,
+            "type": 6,
+            "w": 5.0
+        },
+        {
+            "id": 597505780,
+            "node1": 16215,
+            "node2": 7420637,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 597506230,
+            "node1": 16215,
+            "node2": 14928947,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 597491659,
+            "node1": 16215,
+            "node2": 14941364,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 597473238,
+            "node1": 16215,
+            "node2": 14966797,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 597506004,
+            "node1": 16215,
+            "node2": 15061154,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 597505556,
+            "node1": 16215,
+            "node2": 15269838,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 597472067,
+            "node1": 16215,
+            "node2": 15419731,
+            "type": 6,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:40.021962",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "casquette",
+        "#relations": 16,
+        "max_relation_weight": 197.0,
+        "#nodes": 17,
+        "duration": "0:00:00.012434"
+    }
+}

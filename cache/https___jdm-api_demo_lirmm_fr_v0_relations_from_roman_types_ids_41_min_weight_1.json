@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 15491530,
+            "name": "en:to get the picture",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15065787,
+            "name": "en:fictitious character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 268315,
+            "name": "critique littéraire>126724",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 233958,
+            "name": "émue",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 27096,
+            "name": "débat",
+            "type": 1,
+            "w": 19448
+        },
+        {
+            "id": 69395,
+            "name": "réflexion",
+            "type": 1,
+            "w": 26635
+        },
+        {
+            "id": 15065788,
+            "name": "en:fictional character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 100640,
+            "name": "roman",
+            "type": 1,
+            "w": 8875
+        },
+        {
+            "id": 188188,
+            "name": "personnage de fiction",
+            "type": 1,
+            "w": 259
+        },
+        {
+            "id": 5518464,
+            "name": "personnage imaginaire",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 10756,
+            "name": "personnage",
+            "type": 1,
+            "w": 7569
+        },
+        {
+            "id": 51345,
+            "name": "se faire une idée",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 591993,
+            "name": "critique littéraire>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 276397,
+            "name": "personnage fictif",
+            "type": 777,
+            "w": 107
+        },
+        {
+            "id": 15424349,
+            "name": "en:imaginary character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 96170595,
+            "name": "Personnage fictif",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 73607,
+            "name": "critique littéraire",
+            "type": 1,
+            "w": 333
+        },
+        {
+            "id": 2934521,
+            "name": "Personnage de fiction",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 14658252,
+            "node1": 100640,
+            "node2": 10756,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 1164020089,
+            "node1": 100640,
+            "node2": 27096,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14644494,
+            "node1": 100640,
+            "node2": 51345,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 1164020088,
+            "node1": 100640,
+            "node2": 69395,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 97977181,
+            "node1": 100640,
+            "node2": 73607,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14640882,
+            "node1": 100640,
+            "node2": 188188,
+            "type": 41,
+            "w": 40.0
+        },
+        {
+            "id": 240724338,
+            "node1": 100640,
+            "node2": 233958,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14641551,
+            "node1": 100640,
+            "node2": 268315,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 18825818,
+            "node1": 100640,
+            "node2": 276397,
+            "type": 41,
+            "w": 42.0
+        },
+        {
+            "id": 97976540,
+            "node1": 100640,
+            "node2": 591993,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 85126880,
+            "node1": 100640,
+            "node2": 2934521,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 413187755,
+            "node1": 100640,
+            "node2": 5518464,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 399959612,
+            "node1": 100640,
+            "node2": 15065787,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 411507447,
+            "node1": 100640,
+            "node2": 15065788,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 510622707,
+            "node1": 100640,
+            "node2": 15424349,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 1079401953,
+            "node1": 100640,
+            "node2": 15491530,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 933469915,
+            "node1": 100640,
+            "node2": 96170595,
+            "type": 41,
+            "w": 17.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:14.211053",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "roman",
+        "#relations": 17,
+        "max_relation_weight": 42.0,
+        "#nodes": 18,
+        "duration": "0:00:00.009688"
+    }
+}

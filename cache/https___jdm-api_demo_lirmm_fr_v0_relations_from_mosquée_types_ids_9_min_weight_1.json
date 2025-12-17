@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 85519,
+            "name": "mosquée",
+            "type": 1,
+            "w": 1682
+        },
+        {
+            "id": 139209,
+            "name": "salle",
+            "type": 1,
+            "w": 6578
+        },
+        {
+            "id": 155912,
+            "name": "salle de prière",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 14949120,
+            "name": "en:mihrab",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14949236,
+            "name": "en:minaret",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11357,
+            "name": "minaret",
+            "type": 1,
+            "w": 67
+        }
+    ],
+    "relations": [
+        {
+            "id": 765263216,
+            "node1": 85519,
+            "node2": 11357,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 98724007,
+            "node1": 85519,
+            "node2": 139209,
+            "type": 9,
+            "w": 48.0
+        },
+        {
+            "id": 10534105,
+            "node1": 85519,
+            "node2": 155912,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 482727776,
+            "node1": 85519,
+            "node2": 14949120,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 482727777,
+            "node1": 85519,
+            "node2": 14949236,
+            "type": 9,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:51.962011",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mosquée",
+        "#relations": 5,
+        "max_relation_weight": 48.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004430"
+    }
+}

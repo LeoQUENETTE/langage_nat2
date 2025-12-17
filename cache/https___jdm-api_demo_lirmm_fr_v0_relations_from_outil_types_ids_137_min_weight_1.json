@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 143005,
+            "name": "fabrication",
+            "type": 1,
+            "w": 5110
+        },
+        {
+            "id": 22436,
+            "name": "réparation",
+            "type": 1,
+            "w": 2565
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12262
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156485665,
+            "node1": 30843,
+            "node2": 22436,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1156485664,
+            "node1": 30843,
+            "node2": 55137,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1156484355,
+            "node1": 30843,
+            "node2": 143005,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:20.186098",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "outil",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005372"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 156105,
+            "name": "lait maternel",
+            "type": 1,
+            "w": 185
+        },
+        {
+            "id": 94842,
+            "name": "hochet",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 42001,
+            "name": "bébé",
+            "type": 1,
+            "w": 5490
+        },
+        {
+            "id": 139388,
+            "name": "mobile",
+            "type": 1,
+            "w": 3034
+        },
+        {
+            "id": 49596,
+            "name": "doudou",
+            "type": 1,
+            "w": 651
+        },
+        {
+            "id": 134133,
+            "name": "biberon",
+            "type": 1,
+            "w": 581
+        },
+        {
+            "id": 66423,
+            "name": "tétine",
+            "type": 1,
+            "w": 141
+        }
+    ],
+    "relations": [
+        {
+            "id": 788607728,
+            "node1": 42001,
+            "node2": 49596,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 962087995,
+            "node1": 42001,
+            "node2": 66423,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 962087996,
+            "node1": 42001,
+            "node2": 94842,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 962087994,
+            "node1": 42001,
+            "node2": 134133,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 962087997,
+            "node1": 42001,
+            "node2": 139388,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 948428890,
+            "node1": 42001,
+            "node2": 156105,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:12.595750",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bébé",
+        "#relations": 6,
+        "max_relation_weight": 30.0,
+        "#nodes": 7,
+        "duration": "0:00:00.012118"
+    }
+}

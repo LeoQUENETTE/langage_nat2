@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 298771004,
+            "name": "collection de spiritueux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 19654,
+            "name": "bar",
+            "type": 1,
+            "w": 2929
+        },
+        {
+            "id": 163595,
+            "name": "seau à glace",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 5899482,
+            "name": "licence IV",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 950066587,
+            "node1": 19654,
+            "node2": 163595,
+            "type": 121,
+            "w": 36.0
+        },
+        {
+            "id": 789599233,
+            "node1": 19654,
+            "node2": 5899482,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 789943654,
+            "node1": 19654,
+            "node2": 298771004,
+            "type": 121,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:32.906648",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bar",
+        "#relations": 3,
+        "max_relation_weight": 36.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005843"
+    }
+}

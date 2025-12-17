@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 15491741,
+            "name": "couvre chef",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14928947,
+            "name": "en:headgear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 89926,
+            "name": "chef",
+            "type": 1,
+            "w": 9712
+        },
+        {
+            "id": 24670,
+            "name": "chapeau",
+            "type": 1,
+            "w": 2164
+        },
+        {
+            "id": 15269838,
+            "name": "en:head-gear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7420637,
+            "name": "en:headwear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15061154,
+            "name": "en:head covering",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 18557,
+            "name": "couvre-chef",
+            "type": 1,
+            "w": 228
+        }
+    ],
+    "relations": [
+        {
+            "id": 473700277,
+            "node1": 89926,
+            "node2": 18557,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11347432,
+            "node1": 89926,
+            "node2": 24670,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 602027776,
+            "node1": 89926,
+            "node2": 7420637,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 474014595,
+            "node1": 89926,
+            "node2": 14928947,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 602027777,
+            "node1": 89926,
+            "node2": 15061154,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 602027775,
+            "node1": 89926,
+            "node2": 15269838,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 1037318578,
+            "node1": 89926,
+            "node2": 15491741,
+            "type": 28,
+            "w": 16.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:40.421333",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chef",
+        "#relations": 7,
+        "max_relation_weight": 38.0,
+        "#nodes": 8,
+        "duration": "0:00:00.006602"
+    }
+}

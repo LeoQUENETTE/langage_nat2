@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 15444958,
+            "name": "en:technological development",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 401311,
+            "name": "distances",
+            "type": 1,
+            "w": 2690
+        },
+        {
+            "id": 234751,
+            "name": "progrès technologique",
+            "type": 1,
+            "w": 333
+        },
+        {
+            "id": 194988,
+            "name": "progrès technique",
+            "type": 1,
+            "w": 186
+        },
+        {
+            "id": 15444955,
+            "name": "en:technical progress",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 46277,
+            "name": "progrès",
+            "type": 1,
+            "w": 10547
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19357
+        },
+        {
+            "id": 96173,
+            "name": "industrialisation",
+            "type": 1,
+            "w": 484
+        },
+        {
+            "id": 107962268,
+            "name": "Progrès technique",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 15444956,
+            "name": "en:technical development",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15444957,
+            "name": "en:technological progress",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 24960778,
+            "node1": 6890,
+            "node2": 46277,
+            "type": 42,
+            "w": 34.0
+        },
+        {
+            "id": 24960782,
+            "node1": 6890,
+            "node2": 96173,
+            "type": 42,
+            "w": 34.0
+        },
+        {
+            "id": 24960781,
+            "node1": 6890,
+            "node2": 194988,
+            "type": 42,
+            "w": 35.0
+        },
+        {
+            "id": 594876758,
+            "node1": 6890,
+            "node2": 234751,
+            "type": 42,
+            "w": 30.0
+        },
+        {
+            "id": 24960783,
+            "node1": 6890,
+            "node2": 401311,
+            "type": 42,
+            "w": 35.0
+        },
+        {
+            "id": 438169524,
+            "node1": 6890,
+            "node2": 15444955,
+            "type": 42,
+            "w": 34.0
+        },
+        {
+            "id": 438169521,
+            "node1": 6890,
+            "node2": 15444956,
+            "type": 42,
+            "w": 27.0
+        },
+        {
+            "id": 438169527,
+            "node1": 6890,
+            "node2": 15444957,
+            "type": 42,
+            "w": 35.0
+        },
+        {
+            "id": 438169530,
+            "node1": 6890,
+            "node2": 15444958,
+            "type": 42,
+            "w": 30.0
+        },
+        {
+            "id": 540398980,
+            "node1": 6890,
+            "node2": 107962268,
+            "type": 42,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            42
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:49.476614",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voiture",
+        "#relations": 10,
+        "max_relation_weight": 35.0,
+        "#nodes": 11,
+        "duration": "0:00:00.008737"
+    }
+}

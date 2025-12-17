@@ -1,0 +1,287 @@
+{
+    "nodes": [
+        {
+            "id": 1900121,
+            "name": "_INFO-SEM-PLACE-ANATOMICAL",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 91356,
+            "name": "pont",
+            "type": 1,
+            "w": 5273
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 163012,
+            "name": "_INFO-NO-MORE-QUESTION",
+            "type": 36,
+            "w": 6094
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 214534,
+            "name": "_INFO-MEANING-FIGURED",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191667,
+            "name": "_INFO-SEM-THING-ARTEFACT",
+            "type": 36,
+            "w": 242
+        }
+    ],
+    "relations": [
+        {
+            "id": 432575,
+            "node1": 91356,
+            "node2": 162759,
+            "type": 36,
+            "w": 58.0
+        },
+        {
+            "id": 413018,
+            "node1": 91356,
+            "node2": 162763,
+            "type": 36,
+            "w": 53.0
+        },
+        {
+            "id": 430731,
+            "node1": 91356,
+            "node2": 163012,
+            "type": 36,
+            "w": 70.0
+        },
+        {
+            "id": 98283229,
+            "node1": 91356,
+            "node2": 191667,
+            "type": 36,
+            "w": 39.0
+        },
+        {
+            "id": 740630,
+            "node1": 91356,
+            "node2": 191741,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 52540533,
+            "node1": 91356,
+            "node2": 214534,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 1607380,
+            "node1": 91356,
+            "node2": 217817,
+            "type": 36,
+            "w": 45.0
+        },
+        {
+            "id": 2001481,
+            "node1": 91356,
+            "node2": 223173,
+            "type": 36,
+            "w": 364.0
+        },
+        {
+            "id": 2013139,
+            "node1": 91356,
+            "node2": 241794,
+            "type": 36,
+            "w": 1000.0
+        },
+        {
+            "id": 20740294,
+            "node1": 91356,
+            "node2": 248198,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 2331561,
+            "node1": 91356,
+            "node2": 254876,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 2331562,
+            "node1": 91356,
+            "node2": 254877,
+            "type": 36,
+            "w": 73.0
+        },
+        {
+            "id": 1041194461,
+            "node1": 91356,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 25366575,
+            "node1": 91356,
+            "node2": 317324,
+            "type": 36,
+            "w": 22.0
+        },
+        {
+            "id": 97135625,
+            "node1": 91356,
+            "node2": 317329,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 30838043,
+            "node1": 91356,
+            "node2": 1900121,
+            "type": 36,
+            "w": 45.0
+        },
+        {
+            "id": 54594394,
+            "node1": 91356,
+            "node2": 2585996,
+            "type": 36,
+            "w": 56.0
+        },
+        {
+            "id": 417923994,
+            "node1": 91356,
+            "node2": 15991432,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 499186946,
+            "node1": 91356,
+            "node2": 50233540,
+            "type": 36,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:48.239319",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pont",
+        "#relations": 19,
+        "max_relation_weight": 1000.0,
+        "#nodes": 20,
+        "duration": "0:00:00.007523"
+    }
+}

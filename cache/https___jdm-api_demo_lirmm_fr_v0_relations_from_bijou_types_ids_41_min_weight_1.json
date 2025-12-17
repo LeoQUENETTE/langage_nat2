@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1423
+        },
+        {
+            "id": 22498,
+            "name": "valorisation",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 211906976,
+            "name": "sentiment de valeur",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 384357,
+            "name": "tradition familiale",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 1377110,
+            "name": "sentiment d'appartenance",
+            "type": 1,
+            "w": 165
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152229280,
+            "node1": 16912,
+            "node2": 22498,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1157407070,
+            "node1": 16912,
+            "node2": 384357,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1152229294,
+            "node1": 16912,
+            "node2": 1377110,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1157407056,
+            "node1": 16912,
+            "node2": 211906976,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:41.160495",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bijou",
+        "#relations": 4,
+        "max_relation_weight": 25.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004272"
+    }
+}

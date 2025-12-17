@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 35676,
+            "name": "canapé",
+            "type": 1,
+            "w": 1309
+        },
+        {
+            "id": 9824716,
+            "name": "nombre de places",
+            "type": 1,
+            "w": 43
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137818,
+            "node1": 35676,
+            "node2": 9824716,
+            "type": 153,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:58.406328",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "canapé",
+        "#relations": 1,
+        "max_relation_weight": 39.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004447"
+    }
+}

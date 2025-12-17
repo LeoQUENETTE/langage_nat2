@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 92953,
+            "name": "traction",
+            "type": 1,
+            "w": 1472
+        },
+        {
+            "id": 8595,
+            "name": "corde",
+            "type": 1,
+            "w": 3415
+        }
+    ],
+    "relations": [
+        {
+            "id": 1182155112,
+            "node1": 8595,
+            "node2": 92953,
+            "type": 138,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:08.196570",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "corde",
+        "#relations": 1,
+        "max_relation_weight": 30.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005846"
+    }
+}

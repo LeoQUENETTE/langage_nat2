@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 400745,
+            "name": "endroits",
+            "type": 1,
+            "w": 2921
+        },
+        {
+            "id": 9423,
+            "name": "montagnes",
+            "type": 1,
+            "w": 4054
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4616
+        },
+        {
+            "id": 6387251,
+            "name": "régions géographiques",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 7015598,
+            "name": "en:geographic area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8836335,
+            "name": "en:geographic locations",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14968071,
+            "name": "emplacement géographique",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 6422204,
+            "name": "emplacements géographiques",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6334158,
+            "name": "lieux géographiques",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 6383214,
+            "name": "localisations géographiques",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 932864090,
+            "node1": 9423,
+            "node2": 135956,
+            "type": 6,
+            "w": 128.0
+        },
+        {
+            "id": 933129760,
+            "node1": 9423,
+            "node2": 400745,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 721564803,
+            "node1": 9423,
+            "node2": 6334158,
+            "type": 6,
+            "w": 131.0
+        },
+        {
+            "id": 541557685,
+            "node1": 9423,
+            "node2": 6383214,
+            "type": 6,
+            "w": 133.0
+        },
+        {
+            "id": 776155101,
+            "node1": 9423,
+            "node2": 6387251,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 723127878,
+            "node1": 9423,
+            "node2": 6422204,
+            "type": 6,
+            "w": 134.0
+        },
+        {
+            "id": 721565517,
+            "node1": 9423,
+            "node2": 7015598,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 723128216,
+            "node1": 9423,
+            "node2": 8836335,
+            "type": 6,
+            "w": 130.0
+        },
+        {
+            "id": 776273833,
+            "node1": 9423,
+            "node2": 14968071,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:06.308880",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "montagnes",
+        "#relations": 9,
+        "max_relation_weight": 134.0,
+        "#nodes": 10,
+        "duration": "0:00:00.016287"
+    }
+}

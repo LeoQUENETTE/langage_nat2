@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 449207446,
+            "name": "densité d'arbres",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 63069,
+            "name": "densité",
+            "type": 1,
+            "w": 3668
+        },
+        {
+            "id": 146632,
+            "name": "forêt",
+            "type": 1,
+            "w": 10610
+        },
+        {
+            "id": 136248,
+            "name": "biodiversité",
+            "type": 1,
+            "w": 20737
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139382,
+            "node1": 146632,
+            "node2": 63069,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179139283,
+            "node1": 146632,
+            "node2": 136248,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179137903,
+            "node1": 146632,
+            "node2": 449207446,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:32.519855",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "forêt",
+        "#relations": 3,
+        "max_relation_weight": 29.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003701"
+    }
+}

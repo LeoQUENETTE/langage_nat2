@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 30732,
+            "name": "baril",
+            "type": 1,
+            "w": 311
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 20583,
+            "name": "pétrole",
+            "type": 1,
+            "w": 4438
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 89523,
+            "name": "couvercle",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 121129,
+            "name": "bouchon",
+            "type": 1,
+            "w": 667
+        },
+        {
+            "id": 142537,
+            "name": "cercle",
+            "type": 1,
+            "w": 5010
+        },
+        {
+            "id": 123612,
+            "name": "fût",
+            "type": 1,
+            "w": 134
+        }
+    ],
+    "relations": [
+        {
+            "id": 218384,
+            "node1": 30732,
+            "node2": 20583,
+            "type": 9,
+            "w": 130.0
+        },
+        {
+            "id": 220706,
+            "node1": 30732,
+            "node2": 89523,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 238321,
+            "node1": 30732,
+            "node2": 96256,
+            "type": 9,
+            "w": 80.0
+        },
+        {
+            "id": 220707,
+            "node1": 30732,
+            "node2": 119272,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 229022,
+            "node1": 30732,
+            "node2": 121129,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 235072,
+            "node1": 30732,
+            "node2": 123612,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 256094,
+            "node1": 30732,
+            "node2": 134927,
+            "type": 9,
+            "w": 70.0
+        },
+        {
+            "id": 256096,
+            "node1": 30732,
+            "node2": 142537,
+            "type": 9,
+            "w": 55.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:00.616221",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "baril",
+        "#relations": 8,
+        "max_relation_weight": 130.0,
+        "#nodes": 9,
+        "duration": "0:00:00.005086"
+    }
+}

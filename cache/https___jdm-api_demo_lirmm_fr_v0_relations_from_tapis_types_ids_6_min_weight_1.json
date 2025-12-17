@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 246468,
+            "name": "pièce d'étoffe",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 81046,
+            "name": "tapis",
+            "type": 1,
+            "w": 1328
+        },
+        {
+            "id": 1346,
+            "name": "décoration",
+            "type": 1,
+            "w": 2176
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 49928,
+            "name": "couverture",
+            "type": 1,
+            "w": 3279
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 597818,
+            "name": "décoration d'intérieur",
+            "type": 777,
+            "w": 6
+        },
+        {
+            "id": 133352,
+            "name": "revêtement",
+            "type": 1,
+            "w": 261
+        }
+    ],
+    "relations": [
+        {
+            "id": 225520,
+            "node1": 81046,
+            "node2": 237,
+            "type": 6,
+            "w": 318.0
+        },
+        {
+            "id": 1151276334,
+            "node1": 81046,
+            "node2": 1346,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 223932,
+            "node1": 81046,
+            "node2": 49928,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 223929,
+            "node1": 81046,
+            "node2": 133352,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 630488,
+            "node1": 81046,
+            "node2": 135190,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 2139805,
+            "node1": 81046,
+            "node2": 246468,
+            "type": 6,
+            "w": 156.0
+        },
+        {
+            "id": 937527848,
+            "node1": 81046,
+            "node2": 246870,
+            "type": 6,
+            "w": 182.0
+        },
+        {
+            "id": 1017978575,
+            "node1": 81046,
+            "node2": 597818,
+            "type": 6,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:12.615770",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tapis",
+        "#relations": 8,
+        "max_relation_weight": 318.0,
+        "#nodes": 9,
+        "duration": "0:00:00.013858"
+    }
+}

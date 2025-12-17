@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 249474824,
+            "name": "nombre de classes",
+            "type": 1,
+            "w": 29
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137765,
+            "node1": 91240,
+            "node2": 249474824,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:08.656564",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "école",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005517"
+    }
+}

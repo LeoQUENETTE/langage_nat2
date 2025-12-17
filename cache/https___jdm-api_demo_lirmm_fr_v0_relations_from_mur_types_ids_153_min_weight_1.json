@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7272
+        },
+        {
+            "id": 13070,
+            "name": "épaisseur",
+            "type": 1,
+            "w": 396
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137815,
+            "node1": 144936,
+            "node2": 13070,
+            "type": 153,
+            "w": 47.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:17.676226",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mur",
+        "#relations": 1,
+        "max_relation_weight": 47.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004062"
+    }
+}

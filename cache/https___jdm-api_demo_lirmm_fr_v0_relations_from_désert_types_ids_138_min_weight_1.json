@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 134527,
+            "name": "dégradation",
+            "type": 1,
+            "w": 3081
+        },
+        {
+            "id": 213142,
+            "name": "changement climatique",
+            "type": 1,
+            "w": 12093
+        },
+        {
+            "id": 144366,
+            "name": "désert",
+            "type": 1,
+            "w": 4834
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155344604,
+            "node1": 144366,
+            "node2": 134527,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1155344630,
+            "node1": 144366,
+            "node2": 213142,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:36.746902",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "désert",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.007042"
+    }
+}

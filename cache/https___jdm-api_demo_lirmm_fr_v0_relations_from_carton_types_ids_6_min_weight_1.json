@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 131196,
+            "name": "carte",
+            "type": 1,
+            "w": 7966
+        },
+        {
+            "id": 134263,
+            "name": "emballage",
+            "type": 1,
+            "w": 1023
+        },
+        {
+            "id": 66372,
+            "name": "texte",
+            "type": 1,
+            "w": 15247
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 34213
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 221181,
+            "name": "matière>11358",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 365022,
+            "name": "morceau de carton",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 403865502,
+            "name": "morceau de",
+            "type": 1,
+            "w": 160
+        },
+        {
+            "id": 14538724,
+            "name": "produit végétal transformé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 66935,
+            "name": "carton",
+            "type": 1,
+            "w": 692
+        },
+        {
+            "id": 145574,
+            "name": "ébauche",
+            "type": 1,
+            "w": 282
+        }
+    ],
+    "relations": [
+        {
+            "id": 1127228611,
+            "node1": 66935,
+            "node2": 237,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 2167028,
+            "node1": 66935,
+            "node2": 29208,
+            "type": 6,
+            "w": 91.0
+        },
+        {
+            "id": 355388620,
+            "node1": 66935,
+            "node2": 66372,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 657628886,
+            "node1": 66935,
+            "node2": 97739,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 696658763,
+            "node1": 66935,
+            "node2": 116477,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 2167030,
+            "node1": 66935,
+            "node2": 131196,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 12438330,
+            "node1": 66935,
+            "node2": 134263,
+            "type": 6,
+            "w": 185.0
+        },
+        {
+            "id": 113493929,
+            "node1": 66935,
+            "node2": 145574,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 2167029,
+            "node1": 66935,
+            "node2": 221181,
+            "type": 6,
+            "w": 101.0
+        },
+        {
+            "id": 110474061,
+            "node1": 66935,
+            "node2": 365022,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 369485330,
+            "node1": 66935,
+            "node2": 14538724,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 1074625927,
+            "node1": 66935,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 1130647143,
+            "node1": 66935,
+            "node2": 403865502,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:51.486431",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "carton",
+        "#relations": 13,
+        "max_relation_weight": 185.0,
+        "#nodes": 14,
+        "duration": "0:00:00.015413"
+    }
+}

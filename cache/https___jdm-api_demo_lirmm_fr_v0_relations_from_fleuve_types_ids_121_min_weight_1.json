@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 69943,
+            "name": "fleuve",
+            "type": 1,
+            "w": 3979
+        },
+        {
+            "id": 25890,
+            "name": "nénuphar",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 52713,
+            "name": "poisson-chat",
+            "type": 1,
+            "w": 123
+        }
+    ],
+    "relations": [
+        {
+            "id": 948428814,
+            "node1": 69943,
+            "node2": 25890,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 948428813,
+            "node1": 69943,
+            "node2": 52713,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:22.692233",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleuve",
+        "#relations": 2,
+        "max_relation_weight": 20.0,
+        "#nodes": 3,
+        "duration": "0:00:00.006111"
+    }
+}

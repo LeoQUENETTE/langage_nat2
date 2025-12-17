@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 56,
+            "name": "tache de rousseur",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 161290,
+            "name": "énergie solaire",
+            "type": 1,
+            "w": 506
+        },
+        {
+            "id": 395620001,
+            "name": "lumière et chaleur",
+            "type": 1,
+            "w": 3
+        },
+        {
+            "id": 24522,
+            "name": "soleil",
+            "type": 1,
+            "w": 14368
+        },
+        {
+            "id": 145792,
+            "name": "lumière",
+            "type": 1,
+            "w": 13394
+        },
+        {
+            "id": 110910,
+            "name": "chaleur",
+            "type": 1,
+            "w": 7728
+        },
+        {
+            "id": 107846,
+            "name": "ombre",
+            "type": 1,
+            "w": 6500
+        },
+        {
+            "id": 391989,
+            "name": "rayons ultraviolets",
+            "type": 1,
+            "w": 143
+        },
+        {
+            "id": 203220,
+            "name": "lumière naturelle",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 234016,
+            "name": "lumière>85722",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 15423743,
+            "name": "en:natural light",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15423744,
+            "name": "en:natural lighting",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15589806,
+            "name": "en:light of the sun sunlight",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 253522,
+            "name": "rayonnement ultraviolet",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 125387,
+            "name": "sunlight",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 251538,
+            "name": "lumière du soleil",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 390928,
+            "name": "chaleur>124518",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 6807121,
+            "name": "en:sunlight",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15208508,
+            "name": "la lumière solaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15208509,
+            "name": "en:the light of the sun sunlight",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 60189,
+            "name": "lumière solaire",
+            "type": 1,
+            "w": 97
+        },
+        {
+            "id": 236550,
+            "name": "chaleur>40531",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 209664,
+            "name": "vent solaire",
+            "type": 1,
+            "w": 64
+        }
+    ],
+    "relations": [
+        {
+            "id": 1020881590,
+            "node1": 24522,
+            "node2": 56,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 479421558,
+            "node1": 24522,
+            "node2": 60189,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 1131440245,
+            "node1": 24522,
+            "node2": 107846,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 76549691,
+            "node1": 24522,
+            "node2": 110910,
+            "type": 53,
+            "w": 58.0
+        },
+        {
+            "id": 594830679,
+            "node1": 24522,
+            "node2": 125387,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 76549692,
+            "node1": 24522,
+            "node2": 145792,
+            "type": 53,
+            "w": 137.0
+        },
+        {
+            "id": 1150777523,
+            "node1": 24522,
+            "node2": 161290,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 376989712,
+            "node1": 24522,
+            "node2": 203220,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 991970788,
+            "node1": 24522,
+            "node2": 209664,
+            "type": 53,
+            "w": 44.0
+        },
+        {
+            "id": 76549693,
+            "node1": 24522,
+            "node2": 234016,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 97054743,
+            "node1": 24522,
+            "node2": 236550,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 479421562,
+            "node1": 24522,
+            "node2": 251538,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 1150411403,
+            "node1": 24522,
+            "node2": 253522,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 76566137,
+            "node1": 24522,
+            "node2": 390928,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 788425489,
+            "node1": 24522,
+            "node2": 391989,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 376993396,
+            "node1": 24522,
+            "node2": 6807121,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 479422322,
+            "node1": 24522,
+            "node2": 15208508,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 479422149,
+            "node1": 24522,
+            "node2": 15208509,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 594831116,
+            "node1": 24522,
+            "node2": 15423743,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 594831113,
+            "node1": 24522,
+            "node2": 15423744,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 479422146,
+            "node1": 24522,
+            "node2": 15589806,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 1150411480,
+            "node1": 24522,
+            "node2": 395620001,
+            "type": 53,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:31.391721",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soleil",
+        "#relations": 22,
+        "max_relation_weight": 137.0,
+        "#nodes": 23,
+        "duration": "0:00:00.008669"
+    }
+}

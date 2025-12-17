@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317322,
+            "name": "_POLIT_1ECO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 1912988,
+            "name": "_INFO-COUNTABLE-NO",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 76392,
+            "name": "chanvre",
+            "type": 1,
+            "w": 206
+        },
+        {
+            "id": 163151,
+            "name": "_INFO-SEM-SUBST",
+            "type": 36,
+            "w": 286
+        }
+    ],
+    "relations": [
+        {
+            "id": 77925947,
+            "node1": 76392,
+            "node2": 162763,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 15809745,
+            "node1": 76392,
+            "node2": 163151,
+            "type": 36,
+            "w": 44.0
+        },
+        {
+            "id": 59820826,
+            "node1": 76392,
+            "node2": 191669,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 417777921,
+            "node1": 76392,
+            "node2": 217817,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 26633504,
+            "node1": 76392,
+            "node2": 223172,
+            "type": 36,
+            "w": 34.0
+        },
+        {
+            "id": 18756009,
+            "node1": 76392,
+            "node2": 223173,
+            "type": 36,
+            "w": 312.0
+        },
+        {
+            "id": 2009822,
+            "node1": 76392,
+            "node2": 241794,
+            "type": 36,
+            "w": 157.0
+        },
+        {
+            "id": 27103799,
+            "node1": 76392,
+            "node2": 254876,
+            "type": 36,
+            "w": 62.0
+        },
+        {
+            "id": 2418629,
+            "node1": 76392,
+            "node2": 254877,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 27103800,
+            "node1": 76392,
+            "node2": 254878,
+            "type": 36,
+            "w": 7.0
+        },
+        {
+            "id": 664504402,
+            "node1": 76392,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 8927822,
+            "node1": 76392,
+            "node2": 317322,
+            "type": 36,
+            "w": 18.0
+        },
+        {
+            "id": 427417043,
+            "node1": 76392,
+            "node2": 438949,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 30793340,
+            "node1": 76392,
+            "node2": 1912988,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 54853148,
+            "node1": 76392,
+            "node2": 2585996,
+            "type": 36,
+            "w": 58.0
+        },
+        {
+            "id": 417777922,
+            "node1": 76392,
+            "node2": 15991432,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 498978305,
+            "node1": 76392,
+            "node2": 50233540,
+            "type": 36,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:08.996118",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chanvre",
+        "#relations": 17,
+        "max_relation_weight": 312.0,
+        "#nodes": 18,
+        "duration": "0:00:00.008109"
+    }
+}

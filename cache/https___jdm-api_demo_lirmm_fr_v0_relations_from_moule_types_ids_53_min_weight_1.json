@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 143723,
+            "name": "moule",
+            "type": 1,
+            "w": 553
+        },
+        {
+            "id": 259504,
+            "name": "gamètes",
+            "type": 1,
+            "w": 123
+        },
+        {
+            "id": 139217,
+            "name": "nacre",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 143246,
+            "name": "coquille",
+            "type": 1,
+            "w": 712
+        },
+        {
+            "id": 40242,
+            "name": "byssus",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 139228,
+            "name": "perle",
+            "type": 1,
+            "w": 207
+        }
+    ],
+    "relations": [
+        {
+            "id": 770339547,
+            "node1": 143723,
+            "node2": 40242,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 770339546,
+            "node1": 143723,
+            "node2": 139217,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 770339548,
+            "node1": 143723,
+            "node2": 139228,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 770339549,
+            "node1": 143723,
+            "node2": 143246,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 770339550,
+            "node1": 143723,
+            "node2": 259504,
+            "type": 53,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:03.435504",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "moule",
+        "#relations": 5,
+        "max_relation_weight": 33.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003976"
+    }
+}

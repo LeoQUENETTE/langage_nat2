@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 34156,
+            "name": "terminal",
+            "type": 1,
+            "w": 1363
+        },
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4767
+        },
+        {
+            "id": 42700,
+            "name": "satellite",
+            "type": 1,
+            "w": 4247
+        },
+        {
+            "id": 229951,
+            "name": "terminal>60906",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 154131,
+            "name": "Roissy",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 220132,
+            "name": "piste>87925",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 244512,
+            "name": "satellite>94262",
+            "type": 1,
+            "w": 51
+        }
+    ],
+    "relations": [
+        {
+            "id": 97349853,
+            "node1": 154131,
+            "node2": 34156,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 98699857,
+            "node1": 154131,
+            "node2": 42700,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 350712082,
+            "node1": 154131,
+            "node2": 63462,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 13180194,
+            "node1": 154131,
+            "node2": 220132,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 97349851,
+            "node1": 154131,
+            "node2": 229951,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 97349852,
+            "node1": 154131,
+            "node2": 244512,
+            "type": 9,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:19.817879",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Roissy",
+        "#relations": 6,
+        "max_relation_weight": 34.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004107"
+    }
+}

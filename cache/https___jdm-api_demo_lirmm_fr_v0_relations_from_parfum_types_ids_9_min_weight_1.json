@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 121042,
+            "name": "essences",
+            "type": 1,
+            "w": 284
+        },
+        {
+            "id": 124268,
+            "name": "huile essentielle",
+            "type": 1,
+            "w": 357
+        },
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2518
+        },
+        {
+            "id": 120287,
+            "name": "concentré",
+            "type": 1,
+            "w": 472
+        },
+        {
+            "id": 140862,
+            "name": "note",
+            "type": 1,
+            "w": 5275
+        },
+        {
+            "id": 133813,
+            "name": "essence",
+            "type": 1,
+            "w": 4005
+        }
+    ],
+    "relations": [
+        {
+            "id": 1151786636,
+            "node1": 55249,
+            "node2": 120287,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 1151786611,
+            "node1": 55249,
+            "node2": 121042,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1023121116,
+            "node1": 55249,
+            "node2": 124268,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1023121094,
+            "node1": 55249,
+            "node2": 133813,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 1151786610,
+            "node1": 55249,
+            "node2": 140862,
+            "type": 9,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:22.552583",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "parfum",
+        "#relations": 5,
+        "max_relation_weight": 36.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004103"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 236623088,
+            "name": "abri pour la faune",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9687,
+            "name": "oxygène",
+            "type": 1,
+            "w": 1448
+        },
+        {
+            "id": 146632,
+            "name": "forêt",
+            "type": 1,
+            "w": 10610
+        },
+        {
+            "id": 129632,
+            "name": "habitat",
+            "type": 1,
+            "w": 5503
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 134159,
+            "name": "cèpe",
+            "type": 1,
+            "w": 391
+        },
+        {
+            "id": 120728,
+            "name": "planche",
+            "type": 1,
+            "w": 2224
+        }
+    ],
+    "relations": [
+        {
+            "id": 1151480384,
+            "node1": 146632,
+            "node2": 9687,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 947592951,
+            "node1": 146632,
+            "node2": 96256,
+            "type": 53,
+            "w": 42.0
+        },
+        {
+            "id": 376991069,
+            "node1": 146632,
+            "node2": 120728,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 1158253869,
+            "node1": 146632,
+            "node2": 129632,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 797750719,
+            "node1": 146632,
+            "node2": 134159,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1143667210,
+            "node1": 146632,
+            "node2": 236623088,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:32.365030",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "forêt",
+        "#relations": 6,
+        "max_relation_weight": 42.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005205"
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 156784557,
+            "name": "Axe des abscisses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139513,
+            "name": "phrase",
+            "type": 1,
+            "w": 6009
+        },
+        {
+            "id": 32132,
+            "name": "mot",
+            "type": 1,
+            "w": 26370
+        },
+        {
+            "id": 212940,
+            "name": "frères Dalton",
+            "type": 666,
+            "w": 83
+        },
+        {
+            "id": 56608,
+            "name": "page",
+            "type": 1,
+            "w": 7597
+        },
+        {
+            "id": 15409076,
+            "name": "en:x axis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139243,
+            "name": "ligne",
+            "type": 1,
+            "w": 7557
+        },
+        {
+            "id": 15240936,
+            "name": "en:X axis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 261842,
+            "name": "axe des abscisses",
+            "type": 1,
+            "w": 7
+        }
+    ],
+    "relations": [
+        {
+            "id": 11339094,
+            "node1": 56608,
+            "node2": 32132,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11345081,
+            "node1": 56608,
+            "node2": 139243,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11344115,
+            "node1": 56608,
+            "node2": 139513,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11316813,
+            "node1": 56608,
+            "node2": 212940,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11316699,
+            "node1": 56608,
+            "node2": 261842,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 515235620,
+            "node1": 56608,
+            "node2": 15240936,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 619174337,
+            "node1": 56608,
+            "node2": 15409076,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 1124415949,
+            "node1": 56608,
+            "node2": 156784557,
+            "type": 28,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:14.182237",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "page",
+        "#relations": 8,
+        "max_relation_weight": 40.0,
+        "#nodes": 9,
+        "duration": "0:00:00.004163"
+    }
+}

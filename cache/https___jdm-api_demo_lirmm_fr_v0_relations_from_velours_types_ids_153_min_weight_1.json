@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 132097,
+            "name": "velours",
+            "type": 1,
+            "w": 181
+        },
+        {
+            "id": 26173,
+            "name": "douceur",
+            "type": 1,
+            "w": 2234
+        }
+    ],
+    "relations": [
+        {
+            "id": 765217960,
+            "node1": 132097,
+            "node2": 26173,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:20.050490",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "velours",
+        "#relations": 1,
+        "max_relation_weight": 29.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003361"
+    }
+}

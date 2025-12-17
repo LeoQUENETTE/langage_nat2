@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 132817,
+            "name": "compositeur",
+            "type": 1,
+            "w": 3718
+        },
+        {
+            "id": 251401,
+            "name": "variétés françaises",
+            "type": 1,
+            "w": 30
+        }
+    ],
+    "relations": [
+        {
+            "id": 14651367,
+            "node1": 132817,
+            "node2": 251401,
+            "type": 41,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:53.033252",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "compositeur",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004980"
+    }
+}

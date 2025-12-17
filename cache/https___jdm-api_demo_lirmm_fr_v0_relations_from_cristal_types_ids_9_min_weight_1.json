@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 68659,
+            "name": "cristal",
+            "type": 1,
+            "w": 2298
+        },
+        {
+            "id": 146739,
+            "name": "structure",
+            "type": 1,
+            "w": 11267
+        },
+        {
+            "id": 243119921,
+            "name": "axes de symétrie",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 261473954,
+            "name": "structure ordonnée",
+            "type": 1,
+            "w": 29
+        }
+    ],
+    "relations": [
+        {
+            "id": 1182094204,
+            "node1": 68659,
+            "node2": 146739,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 892228059,
+            "node1": 68659,
+            "node2": 243119921,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 992023999,
+            "node1": 68659,
+            "node2": 261473954,
+            "type": 9,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:22.595998",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cristal",
+        "#relations": 3,
+        "max_relation_weight": 40.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004125"
+    }
+}

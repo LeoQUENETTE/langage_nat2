@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 135544,
+            "name": "morsure",
+            "type": 1,
+            "w": 395
+        },
+        {
+            "id": 90199,
+            "name": "aboyer",
+            "type": 1,
+            "w": 365
+        },
+        {
+            "id": 28453,
+            "name": "bonheur",
+            "type": 1,
+            "w": 16358
+        },
+        {
+            "id": 47466,
+            "name": "nourrir",
+            "type": 1,
+            "w": 5041
+        },
+        {
+            "id": 187108,
+            "name": "grrr",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 245119,
+            "name": "tu vas la fermer, oui ?",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 250483,
+            "name": "gamelle du chien",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 127024,
+            "name": "aboiement",
+            "type": 1,
+            "w": 148
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8763
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150387285,
+            "node1": 4455,
+            "node2": 28453,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1690360,
+            "node1": 4455,
+            "node2": 47466,
+            "type": 41,
+            "w": 58.0
+        },
+        {
+            "id": 1677593,
+            "node1": 4455,
+            "node2": 90199,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 1677592,
+            "node1": 4455,
+            "node2": 127024,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 1040288372,
+            "node1": 4455,
+            "node2": 135544,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 14644575,
+            "node1": 4455,
+            "node2": 187108,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14653692,
+            "node1": 4455,
+            "node2": 245119,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14652940,
+            "node1": 4455,
+            "node2": 250483,
+            "type": 41,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:58.984057",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chien",
+        "#relations": 8,
+        "max_relation_weight": 70.0,
+        "#nodes": 9,
+        "duration": "0:00:00.007684"
+    }
+}

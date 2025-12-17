@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2526
+        },
+        {
+            "id": 117533,
+            "name": "fleurs",
+            "type": 1,
+            "w": 4178
+        },
+        {
+            "id": 55039,
+            "name": "vase",
+            "type": 1,
+            "w": 1216
+        },
+        {
+            "id": 251995,
+            "name": "décoration florale",
+            "type": 1,
+            "w": 20
+        }
+    ],
+    "relations": [
+        {
+            "id": 14659024,
+            "node1": 117533,
+            "node2": 55039,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1026841344,
+            "node1": 117533,
+            "node2": 55249,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 1058950202,
+            "node1": 117533,
+            "node2": 251995,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:45:06.991286",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleurs",
+        "#relations": 3,
+        "max_relation_weight": 28.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004671"
+    }
+}

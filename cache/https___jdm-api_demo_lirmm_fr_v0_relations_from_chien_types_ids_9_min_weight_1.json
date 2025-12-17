@@ -1,0 +1,4083 @@
+{
+    "nodes": [
+        {
+            "id": 154115,
+            "name": "naseaux",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 15337326,
+            "name": "en:coles",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 94431,
+            "name": "neck",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 141949,
+            "name": "côte",
+            "type": 1,
+            "w": 6060
+        },
+        {
+            "id": 94230902,
+            "name": "Acide DésoxyriboNucléique",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 110160,
+            "name": "robe",
+            "type": 1,
+            "w": 3024
+        },
+        {
+            "id": 15297314,
+            "name": "en:deoxyribose nucleoprotein",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 427771,
+            "name": "gills",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 140644,
+            "name": "coude",
+            "type": 1,
+            "w": 443
+        },
+        {
+            "id": 240720,
+            "name": "squelette>112609",
+            "type": 1,
+            "w": 202
+        },
+        {
+            "id": 72657,
+            "name": "reins",
+            "type": 1,
+            "w": 246
+        },
+        {
+            "id": 11080760,
+            "name": "patte avant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 87292,
+            "name": "cubitus",
+            "type": 1,
+            "w": 298
+        },
+        {
+            "id": 68183,
+            "name": "cil",
+            "type": 1,
+            "w": 282
+        },
+        {
+            "id": 18107812,
+            "name": "A.R.N.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15193382,
+            "name": "en:motorius",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6885693,
+            "name": "en:penis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15293347,
+            "name": "en:testes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15088586,
+            "name": "en:systema nervosum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 138092,
+            "name": "pelage",
+            "type": 1,
+            "w": 481
+        },
+        {
+            "id": 16853155,
+            "name": "en:nervus motorius",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2299,
+            "name": "coelome",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 142086,
+            "name": "jambe",
+            "type": 1,
+            "w": 6261
+        },
+        {
+            "id": 143669,
+            "name": "vertébrés",
+            "type": 1,
+            "w": 212
+        },
+        {
+            "id": 15328044,
+            "name": "en:reproductive organs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 147161,
+            "name": "crocs",
+            "type": 1,
+            "w": 188
+        },
+        {
+            "id": 77938,
+            "name": "flair",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 7272288,
+            "name": "en:motor nerve",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 30821,
+            "name": "doigts",
+            "type": 1,
+            "w": 2670
+        },
+        {
+            "id": 118776,
+            "name": "épiderme",
+            "type": 1,
+            "w": 574
+        },
+        {
+            "id": 12791689,
+            "name": "acide désoxyribo-nucléique",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 95422,
+            "name": "cou",
+            "type": 1,
+            "w": 3550
+        },
+        {
+            "id": 1841061,
+            "name": "penile horn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63026,
+            "name": "vertèbres",
+            "type": 1,
+            "w": 148
+        },
+        {
+            "id": 45844,
+            "name": "veine",
+            "type": 1,
+            "w": 860
+        },
+        {
+            "id": 2538325,
+            "name": "bronchies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32735,
+            "name": "poumons",
+            "type": 1,
+            "w": 630
+        },
+        {
+            "id": 116980,
+            "name": "squelette",
+            "type": 1,
+            "w": 1443
+        },
+        {
+            "id": 10844654,
+            "name": "matrice utérine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 187622,
+            "name": "patte antérieure",
+            "type": 1,
+            "w": 9
+        },
+        {
+            "id": 6800176,
+            "name": "en:heart",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6935846,
+            "name": "en:dna",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 74082,
+            "name": "nageoire",
+            "type": 1,
+            "w": 424
+        },
+        {
+            "id": 32539,
+            "name": "organes génitaux",
+            "type": 1,
+            "w": 168
+        },
+        {
+            "id": 67093,
+            "name": "collier",
+            "type": 1,
+            "w": 1194
+        },
+        {
+            "id": 221019,
+            "name": "bouche>112609",
+            "type": 1,
+            "w": 293
+        },
+        {
+            "id": 60902,
+            "name": "dent",
+            "type": 1,
+            "w": 5076
+        },
+        {
+            "id": 187788,
+            "name": "pointe du jarret",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 110993,
+            "name": "front",
+            "type": 1,
+            "w": 8607
+        },
+        {
+            "id": 19356,
+            "name": "sexe",
+            "type": 1,
+            "w": 6735
+        },
+        {
+            "id": 147184,
+            "name": "dents",
+            "type": 1,
+            "w": 2692
+        },
+        {
+            "id": 64313,
+            "name": "abdomen",
+            "type": 1,
+            "w": 742
+        },
+        {
+            "id": 49315,
+            "name": "pancréas",
+            "type": 1,
+            "w": 268
+        },
+        {
+            "id": 149242,
+            "name": "muscles",
+            "type": 1,
+            "w": 2442
+        },
+        {
+            "id": 39031,
+            "name": "cerveau",
+            "type": 1,
+            "w": 8669
+        },
+        {
+            "id": 109785,
+            "name": "peau",
+            "type": 1,
+            "w": 7466
+        },
+        {
+            "id": 83944,
+            "name": "nerf",
+            "type": 1,
+            "w": 970
+        },
+        {
+            "id": 16815439,
+            "name": "Acide RiboNucléique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 90273,
+            "name": "iris",
+            "type": 1,
+            "w": 346
+        },
+        {
+            "id": 456360,
+            "name": "pancreas",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 290798645,
+            "name": "tendo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 108463,
+            "name": "ventre",
+            "type": 1,
+            "w": 3812
+        },
+        {
+            "id": 16110,
+            "name": "bouche",
+            "type": 1,
+            "w": 8046
+        },
+        {
+            "id": 6842217,
+            "name": "en:intestine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951719,
+            "name": "œsophage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 106252,
+            "name": "crinière",
+            "type": 1,
+            "w": 567
+        },
+        {
+            "id": 2680,
+            "name": "sang",
+            "type": 1,
+            "w": 8387
+        },
+        {
+            "id": 16747,
+            "name": "adn",
+            "type": 1,
+            "w": 908
+        },
+        {
+            "id": 74558,
+            "name": "os",
+            "type": 1,
+            "w": 3560
+        },
+        {
+            "id": 26363,
+            "name": "bras",
+            "type": 1,
+            "w": 11181
+        },
+        {
+            "id": 34898,
+            "name": "pied",
+            "type": 1,
+            "w": 21478
+        },
+        {
+            "id": 225934,
+            "name": "oeil>330323",
+            "type": 1,
+            "w": 296
+        },
+        {
+            "id": 139578,
+            "name": "muscle",
+            "type": 1,
+            "w": 2401
+        },
+        {
+            "id": 77727,
+            "name": "gueule",
+            "type": 1,
+            "w": 843
+        },
+        {
+            "id": 151867,
+            "name": "pattes",
+            "type": 1,
+            "w": 2435
+        },
+        {
+            "id": 8990,
+            "name": "patte",
+            "type": 1,
+            "w": 1968
+        },
+        {
+            "id": 14955484,
+            "name": "en:Point of the hock",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 61835,
+            "name": "chair",
+            "type": 1,
+            "w": 3985
+        },
+        {
+            "id": 233450,
+            "name": "crâne>144846",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 113050,
+            "name": "cartilage",
+            "type": 1,
+            "w": 343
+        },
+        {
+            "id": 230297,
+            "name": "coussinet>8990",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 219597,
+            "name": "museau>17559",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 114327,
+            "name": "acide désoxyribonucléique",
+            "type": 1,
+            "w": 214
+        },
+        {
+            "id": 6863585,
+            "name": "en:ulna",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8482,
+            "name": "menton",
+            "type": 1,
+            "w": 332
+        },
+        {
+            "id": 82111,
+            "name": "métacarpe",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 101938,
+            "name": "estomac",
+            "type": 1,
+            "w": 1014
+        },
+        {
+            "id": 148387,
+            "name": "griffes",
+            "type": 1,
+            "w": 394
+        },
+        {
+            "id": 135799,
+            "name": "ligament",
+            "type": 1,
+            "w": 213
+        },
+        {
+            "id": 25728,
+            "name": "clavicule",
+            "type": 1,
+            "w": 107
+        },
+        {
+            "id": 25891,
+            "name": "genou",
+            "type": 1,
+            "w": 2753
+        },
+        {
+            "id": 103791,
+            "name": "poumon",
+            "type": 1,
+            "w": 1313
+        },
+        {
+            "id": 7306099,
+            "name": "en:set of legs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 568124,
+            "name": "vertèbres thoraciques",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 3320,
+            "name": "acide ribonucléique",
+            "type": 1,
+            "w": 261
+        },
+        {
+            "id": 52119,
+            "name": "langue",
+            "type": 1,
+            "w": 12803
+        },
+        {
+            "id": 106562,
+            "name": "thorax",
+            "type": 1,
+            "w": 475
+        },
+        {
+            "id": 3306231,
+            "name": "vertèbres caudales",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94988,
+            "name": "fémur",
+            "type": 1,
+            "w": 494
+        },
+        {
+            "id": 145953,
+            "name": "visage",
+            "type": 1,
+            "w": 10242
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 15204726,
+            "name": "en:pull tab",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105041,
+            "name": "narine",
+            "type": 1,
+            "w": 607
+        },
+        {
+            "id": 81934,
+            "name": "main",
+            "type": 1,
+            "w": 40197
+        },
+        {
+            "id": 84,
+            "name": "sourcil",
+            "type": 1,
+            "w": 250
+        },
+        {
+            "id": 6825673,
+            "name": "en:blood",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 258619,
+            "name": "ligne latérale",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 130812,
+            "name": "ARN",
+            "type": 1,
+            "w": 887
+        },
+        {
+            "id": 77008,
+            "name": "yeux",
+            "type": 1,
+            "w": 35847
+        },
+        {
+            "id": 144846,
+            "name": "tête",
+            "type": 1,
+            "w": 31430
+        },
+        {
+            "id": 126285,
+            "name": "dos",
+            "type": 1,
+            "w": 5546
+        },
+        {
+            "id": 140715,
+            "name": "jambes",
+            "type": 1,
+            "w": 1745
+        },
+        {
+            "id": 103311,
+            "name": "système nerveux",
+            "type": 1,
+            "w": 1058
+        },
+        {
+            "id": 15281195,
+            "name": "en:branchiae",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 65257,
+            "name": "croupe",
+            "type": 1,
+            "w": 119
+        },
+        {
+            "id": 16828615,
+            "name": "PBPs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213792,
+            "name": "coeur>213791",
+            "type": 1,
+            "w": 228
+        },
+        {
+            "id": 96211,
+            "name": "coeur",
+            "type": 1,
+            "w": 3623
+        },
+        {
+            "id": 326146,
+            "name": "système nerveux en position dorsale",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 57875,
+            "name": "tube digestif",
+            "type": 1,
+            "w": 196
+        },
+        {
+            "id": 1854036,
+            "name": "vertebra",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141814,
+            "name": "vertèbre",
+            "type": 1,
+            "w": 450
+        },
+        {
+            "id": 103057,
+            "name": "cellule",
+            "type": 1,
+            "w": 5086
+        },
+        {
+            "id": 77424,
+            "name": "oeil",
+            "type": 1,
+            "w": 7812
+        },
+        {
+            "id": 74846,
+            "name": "corps",
+            "type": 1,
+            "w": 16266
+        },
+        {
+            "id": 214602,
+            "name": "queue>214624",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 6913455,
+            "name": "en:gill",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 118539,
+            "name": "poils",
+            "type": 1,
+            "w": 1601
+        },
+        {
+            "id": 15452453,
+            "name": "en:claws",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 214988,
+            "name": "langue>213791",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 222595,
+            "name": "mâchoire>112609",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 174176,
+            "name": "spine",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 8535678,
+            "name": "en:spine",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15047666,
+            "name": "en:alimentary canal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6800353,
+            "name": "en:nervous system",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 6797233,
+            "name": "en:vertebra",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 1636805,
+            "name": "oeil>44335",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 155355,
+            "name": "train arrière",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 95256,
+            "name": "queue",
+            "type": 1,
+            "w": 4125
+        },
+        {
+            "id": 2689,
+            "name": "rate",
+            "type": 1,
+            "w": 289
+        },
+        {
+            "id": 126388,
+            "name": "articulation",
+            "type": 1,
+            "w": 1268
+        },
+        {
+            "id": 216283,
+            "name": "dent>45311",
+            "type": 1,
+            "w": 358
+        },
+        {
+            "id": 174214,
+            "name": "ulna",
+            "type": 1,
+            "w": 17
+        },
+        {
+            "id": 135631,
+            "name": "crin",
+            "type": 1,
+            "w": 133
+        },
+        {
+            "id": 60384,
+            "name": "jarret",
+            "type": 1,
+            "w": 89
+        },
+        {
+            "id": 44659,
+            "name": "intestins",
+            "type": 1,
+            "w": 182
+        },
+        {
+            "id": 271596,
+            "name": "intestine",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 109638,
+            "name": "fourrure",
+            "type": 1,
+            "w": 585
+        },
+        {
+            "id": 31881,
+            "name": "sternum",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 46889,
+            "name": "poitrine",
+            "type": 1,
+            "w": 3203
+        },
+        {
+            "id": 6603,
+            "name": "nuque",
+            "type": 1,
+            "w": 191
+        },
+        {
+            "id": 135591,
+            "name": "poil",
+            "type": 1,
+            "w": 2876
+        },
+        {
+            "id": 29070,
+            "name": "testicules",
+            "type": 1,
+            "w": 216
+        },
+        {
+            "id": 115155,
+            "name": "foie",
+            "type": 1,
+            "w": 1652
+        },
+        {
+            "id": 84204,
+            "name": "babines",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 115352,
+            "name": "griffe",
+            "type": 1,
+            "w": 1149
+        },
+        {
+            "id": 309098,
+            "name": "vertèbres sacrées",
+            "type": 777,
+            "w": 56
+        },
+        {
+            "id": 15074052,
+            "name": "en:bowels",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10339,
+            "name": "poignet",
+            "type": 1,
+            "w": 586
+        },
+        {
+            "id": 41005,
+            "name": "maxillaire",
+            "type": 1,
+            "w": 174
+        },
+        {
+            "id": 72499,
+            "name": "rétine",
+            "type": 1,
+            "w": 328
+        },
+        {
+            "id": 97203,
+            "name": "mandibule",
+            "type": 1,
+            "w": 311
+        },
+        {
+            "id": 228289,
+            "name": "sexe>218086",
+            "type": 1,
+            "w": 395
+        },
+        {
+            "id": 12566,
+            "name": "mamelle",
+            "type": 1,
+            "w": 202
+        },
+        {
+            "id": 95914940,
+            "name": "Système nerveux",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 56280,
+            "name": "oreille",
+            "type": 1,
+            "w": 5352
+        },
+        {
+            "id": 214300,
+            "name": "truffe>107477",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 145569,
+            "name": "gorge",
+            "type": 1,
+            "w": 2051
+        },
+        {
+            "id": 6824669,
+            "name": "en:peripheral nervous system",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16828463,
+            "name": "en:pars peripherica systema nervosi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 58876,
+            "name": "cuisse",
+            "type": 1,
+            "w": 866
+        },
+        {
+            "id": 6880460,
+            "name": "en:muscle",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 215758,
+            "name": "gueule>215755",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 23194,
+            "name": "joue",
+            "type": 1,
+            "w": 5893
+        },
+        {
+            "id": 228513,
+            "name": "sang>86501",
+            "type": 1,
+            "w": 350
+        },
+        {
+            "id": 123350,
+            "name": "sabot",
+            "type": 1,
+            "w": 461
+        },
+        {
+            "id": 14917651,
+            "name": "en:RNA",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 257666,
+            "name": "nerf moteur",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 174489,
+            "name": "genitalia",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 64354,
+            "name": "mamelles",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 159898,
+            "name": "garot",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15328043,
+            "name": "en:internal organs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15328209,
+            "name": "en:insides",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15298942,
+            "name": "en:splanchna",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15328042,
+            "name": "en:organa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 237765,
+            "name": "patte>141795",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 11405719,
+            "name": "heart",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 97634,
+            "name": "croc",
+            "type": 1,
+            "w": 400
+        },
+        {
+            "id": 7086875,
+            "name": "en:ribonucleic acid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11922472,
+            "name": "en:rna",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15252041,
+            "name": "en:ulnar bone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15252042,
+            "name": "en:ulnae",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3723,
+            "name": "épaule",
+            "type": 1,
+            "w": 2628
+        },
+        {
+            "id": 213644,
+            "name": "os>116980",
+            "type": 1,
+            "w": 452
+        },
+        {
+            "id": 14918011,
+            "name": "en:DNA",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 215135,
+            "name": "griffe>141705",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 14928588,
+            "name": "en:flair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15293612,
+            "name": "en:ivories",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 101438265,
+            "name": "Système nerveux périphérique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 241352,
+            "name": "ventre>112609",
+            "type": 1,
+            "w": 160
+        },
+        {
+            "id": 241862,
+            "name": "oreille>117095",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15072460,
+            "name": "en:systema nervosum periphericum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1780170,
+            "name": "partie périphérique du système nerveux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92626,
+            "name": "métatarse",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 6802231,
+            "name": "en:eye",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 243585,
+            "name": "Cubitus",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 152844,
+            "name": "sang chaud",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 187620,
+            "name": "patte postérieure",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 233138,
+            "name": "tête>390963",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 390927,
+            "name": "tête>112609",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 240590,
+            "name": "arête>68467",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 82022,
+            "name": "boyaux",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 73243,
+            "name": "pénil",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 151462,
+            "name": "cœur",
+            "type": 1,
+            "w": 26142
+        },
+        {
+            "id": 149223,
+            "name": "moustaches",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 1001,
+            "name": "chanfrein",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 7874,
+            "name": "omoplate",
+            "type": 1,
+            "w": 151
+        },
+        {
+            "id": 98899,
+            "name": "babine",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 6834405,
+            "name": "en:pancreas",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 113278,
+            "name": "poitrail",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 125745,
+            "name": "coussinet",
+            "type": 1,
+            "w": 136
+        },
+        {
+            "id": 152290,
+            "name": "machoire",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 233278,
+            "name": "collier>17559",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 242310,
+            "name": "croc>60902",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 261225,
+            "name": "pattes>248747",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 285669,
+            "name": "vertèbres lombaires",
+            "type": 777,
+            "w": 51
+        },
+        {
+            "id": 9939114,
+            "name": "en:legs",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 325700,
+            "name": "robe de chien",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 154845,
+            "name": "sang froid",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 1816244,
+            "name": "colonne rachidienne",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 390958,
+            "name": "patte arrière",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 34503,
+            "name": "pénis",
+            "type": 1,
+            "w": 1312
+        },
+        {
+            "id": 71864,
+            "name": "museau",
+            "type": 1,
+            "w": 392
+        },
+        {
+            "id": 114984,
+            "name": "branchies",
+            "type": 1,
+            "w": 125
+        },
+        {
+            "id": 1779406,
+            "name": "mont pubien",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234957,
+            "name": "os pénien",
+            "type": 1,
+            "w": 157
+        },
+        {
+            "id": 122555,
+            "name": "artères",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 219363,
+            "name": "corps>112609",
+            "type": 1,
+            "w": 243
+        },
+        {
+            "id": 58404,
+            "name": "canine",
+            "type": 1,
+            "w": 1660
+        },
+        {
+            "id": 21930,
+            "name": "pis",
+            "type": 1,
+            "w": 300
+        },
+        {
+            "id": 6800044,
+            "name": "en:retina",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5984733,
+            "name": "teeth",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 9023410,
+            "name": "en:teeth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15207543,
+            "name": "en:gear teeth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15235864,
+            "name": "premières dentitions",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 47319,
+            "name": "colonne vertébrale",
+            "type": 1,
+            "w": 451
+        },
+        {
+            "id": 148104,
+            "name": "eye",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 225756,
+            "name": "dos>112609",
+            "type": 1,
+            "w": 116
+        },
+        {
+            "id": 50751,
+            "name": "ouïe",
+            "type": 1,
+            "w": 520
+        },
+        {
+            "id": 6913429,
+            "name": "en:genitalia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6957788,
+            "name": "en:electron",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 107477,
+            "name": "nez",
+            "type": 1,
+            "w": 4656
+        },
+        {
+            "id": 7015796,
+            "name": "en:mons pubis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6798394,
+            "name": "en:neck",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 45738,
+            "name": "vibrisse",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 174120,
+            "name": "œil",
+            "type": 1,
+            "w": 1932
+        },
+        {
+            "id": 15436990,
+            "name": "en:lungs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15204740,
+            "name": "en:hind paw",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925035,
+            "name": "en:gills",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11008328,
+            "name": "ADN>30051",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 135496,
+            "name": "tibia",
+            "type": 1,
+            "w": 618
+        },
+        {
+            "id": 8840709,
+            "name": "en:arteries",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8840643,
+            "name": "en:intestines",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14917526,
+            "name": "en:deoxyribonucleic acid",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 86561,
+            "name": "crâne",
+            "type": 1,
+            "w": 1410
+        },
+        {
+            "id": 398564,
+            "name": "mâchoires",
+            "type": 1,
+            "w": 69
+        },
+        {
+            "id": 126687,
+            "name": "fesse",
+            "type": 1,
+            "w": 548
+        },
+        {
+            "id": 136630,
+            "name": "paupière",
+            "type": 1,
+            "w": 934
+        },
+        {
+            "id": 119973,
+            "name": "carpe",
+            "type": 1,
+            "w": 277
+        },
+        {
+            "id": 101438254,
+            "name": "Tube digestif",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 14952204,
+            "name": "en:genitals",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 155256,
+            "name": "poumon vert",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 15106312,
+            "name": "en:dong",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 149413,
+            "name": "organes",
+            "type": 1,
+            "w": 3232
+        },
+        {
+            "id": 14935848,
+            "name": "en:entrails",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15274378,
+            "name": "en:mammae",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15281194,
+            "name": "en:branchia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 117584,
+            "name": "garrot",
+            "type": 1,
+            "w": 105
+        },
+        {
+            "id": 323198,
+            "name": "coussinets",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 135652,
+            "name": "viscères",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 16592323,
+            "name": "Nerf moteur",
+            "type": 777,
+            "w": 34
+        },
+        {
+            "id": 16974954,
+            "name": "Pancreas",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 265621,
+            "name": "sac amniotique",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 152946,
+            "name": "arêtes",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 141708,
+            "name": "laisse",
+            "type": 1,
+            "w": 4269
+        },
+        {
+            "id": 25835,
+            "name": "grasset",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 120791,
+            "name": "électron",
+            "type": 1,
+            "w": 753
+        },
+        {
+            "id": 6807211,
+            "name": "en:lung",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 411005,
+            "name": "lung",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 76046,
+            "name": "oreilles",
+            "type": 1,
+            "w": 1890
+        },
+        {
+            "id": 71026,
+            "name": "flanc",
+            "type": 1,
+            "w": 214
+        },
+        {
+            "id": 176193,
+            "name": "système nerveux périphérique",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 22889,
+            "name": "intestin",
+            "type": 1,
+            "w": 756
+        },
+        {
+            "id": 40545,
+            "name": "truffe",
+            "type": 1,
+            "w": 403
+        },
+        {
+            "id": 155383,
+            "name": "penis",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 25756,
+            "name": "appareil génital",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 325390139,
+            "name": "ULNA",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 27474,
+            "name": "axe",
+            "type": 1,
+            "w": 2746
+        },
+        {
+            "id": 122544,
+            "name": "hanche",
+            "type": 1,
+            "w": 162
+        },
+        {
+            "id": 110352,
+            "name": "vessie",
+            "type": 1,
+            "w": 245
+        },
+        {
+            "id": 45635,
+            "name": "rein",
+            "type": 1,
+            "w": 441
+        },
+        {
+            "id": 39696,
+            "name": "fourreau",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 44160,
+            "name": "branchie",
+            "type": 1,
+            "w": 177
+        },
+        {
+            "id": 1476,
+            "name": "cage thoracique",
+            "type": 1,
+            "w": 211
+        },
+        {
+            "id": 209779,
+            "name": "vertèbres cervicales",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 40286,
+            "name": "queue de poisson",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 117789,
+            "name": "moustache",
+            "type": 1,
+            "w": 995
+        },
+        {
+            "id": 73888,
+            "name": "fouet",
+            "type": 1,
+            "w": 729
+        },
+        {
+            "id": 13115,
+            "name": "mâchoire",
+            "type": 1,
+            "w": 596
+        },
+        {
+            "id": 214601,
+            "name": "queue>214624>68467",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8763
+        },
+        {
+            "id": 23332,
+            "name": "encolure",
+            "type": 1,
+            "w": 146
+        }
+    ],
+    "relations": [
+        {
+            "id": 760111763,
+            "node1": 4455,
+            "node2": 84,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 592774,
+            "node1": 4455,
+            "node2": 1001,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 760111777,
+            "node1": 4455,
+            "node2": 1476,
+            "type": 9,
+            "w": 46.0
+        },
+        {
+            "id": 785791776,
+            "node1": 4455,
+            "node2": 2299,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 9062795,
+            "node1": 4455,
+            "node2": 2680,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 1131445883,
+            "node1": 4455,
+            "node2": 2689,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 49926467,
+            "node1": 4455,
+            "node2": 3320,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 592769,
+            "node1": 4455,
+            "node2": 3723,
+            "type": 9,
+            "w": 92.0
+        },
+        {
+            "id": 592739,
+            "node1": 4455,
+            "node2": 6603,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 760111781,
+            "node1": 4455,
+            "node2": 7874,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 760111761,
+            "node1": 4455,
+            "node2": 8482,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 97747,
+            "node1": 4455,
+            "node2": 8990,
+            "type": 9,
+            "w": 223.0
+        },
+        {
+            "id": 592763,
+            "node1": 4455,
+            "node2": 10339,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 2442945,
+            "node1": 4455,
+            "node2": 12566,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 8992265,
+            "node1": 4455,
+            "node2": 13115,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 9062796,
+            "node1": 4455,
+            "node2": 16110,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 14714805,
+            "node1": 4455,
+            "node2": 16747,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9294660,
+            "node1": 4455,
+            "node2": 19356,
+            "type": 9,
+            "w": 93.0
+        },
+        {
+            "id": 24357903,
+            "node1": 4455,
+            "node2": 21930,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 13073248,
+            "node1": 4455,
+            "node2": 22889,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 592771,
+            "node1": 4455,
+            "node2": 23194,
+            "type": 9,
+            "w": 68.0
+        },
+        {
+            "id": 12008436,
+            "node1": 4455,
+            "node2": 23332,
+            "type": 9,
+            "w": 65.0
+        },
+        {
+            "id": 760111779,
+            "node1": 4455,
+            "node2": 25728,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 97360693,
+            "node1": 4455,
+            "node2": 25756,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9294658,
+            "node1": 4455,
+            "node2": 25835,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 11933294,
+            "node1": 4455,
+            "node2": 25891,
+            "type": 9,
+            "w": 96.0
+        },
+        {
+            "id": 97950760,
+            "node1": 4455,
+            "node2": 26363,
+            "type": 9,
+            "w": 42.0
+        },
+        {
+            "id": 98289751,
+            "node1": 4455,
+            "node2": 27474,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 563015506,
+            "node1": 4455,
+            "node2": 29070,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1131445875,
+            "node1": 4455,
+            "node2": 30821,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 760111775,
+            "node1": 4455,
+            "node2": 31881,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 97360694,
+            "node1": 4455,
+            "node2": 32539,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 2746336,
+            "node1": 4455,
+            "node2": 32735,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 361114826,
+            "node1": 4455,
+            "node2": 34503,
+            "type": 9,
+            "w": 61.0
+        },
+        {
+            "id": 24357901,
+            "node1": 4455,
+            "node2": 34898,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 11688596,
+            "node1": 4455,
+            "node2": 39031,
+            "type": 9,
+            "w": 69.0
+        },
+        {
+            "id": 9294659,
+            "node1": 4455,
+            "node2": 39696,
+            "type": 9,
+            "w": 72.0
+        },
+        {
+            "id": 740337712,
+            "node1": 4455,
+            "node2": 40286,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 214707,
+            "node1": 4455,
+            "node2": 40545,
+            "type": 9,
+            "w": 249.0
+        },
+        {
+            "id": 12801049,
+            "node1": 4455,
+            "node2": 41005,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 97360687,
+            "node1": 4455,
+            "node2": 44160,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 96700453,
+            "node1": 4455,
+            "node2": 44659,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 24357923,
+            "node1": 4455,
+            "node2": 45635,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 24357925,
+            "node1": 4455,
+            "node2": 45738,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 24357905,
+            "node1": 4455,
+            "node2": 45844,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 592761,
+            "node1": 4455,
+            "node2": 46889,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 2442950,
+            "node1": 4455,
+            "node2": 47319,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 96700469,
+            "node1": 4455,
+            "node2": 49315,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 97360690,
+            "node1": 4455,
+            "node2": 50751,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 97915,
+            "node1": 4455,
+            "node2": 52119,
+            "type": 9,
+            "w": 257.0
+        },
+        {
+            "id": 97748,
+            "node1": 4455,
+            "node2": 56280,
+            "type": 9,
+            "w": 293.0
+        },
+        {
+            "id": 10772459,
+            "node1": 4455,
+            "node2": 57875,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 466788,
+            "node1": 4455,
+            "node2": 58404,
+            "type": 9,
+            "w": 63.0
+        },
+        {
+            "id": 592752,
+            "node1": 4455,
+            "node2": 58876,
+            "type": 9,
+            "w": 66.0
+        },
+        {
+            "id": 592756,
+            "node1": 4455,
+            "node2": 60384,
+            "type": 9,
+            "w": 88.0
+        },
+        {
+            "id": 97752,
+            "node1": 4455,
+            "node2": 60902,
+            "type": 9,
+            "w": 127.0
+        },
+        {
+            "id": 24357945,
+            "node1": 4455,
+            "node2": 61835,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 8992262,
+            "node1": 4455,
+            "node2": 63026,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2476744,
+            "node1": 4455,
+            "node2": 64313,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 24357978,
+            "node1": 4455,
+            "node2": 64354,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 592748,
+            "node1": 4455,
+            "node2": 65257,
+            "type": 9,
+            "w": 67.0
+        },
+        {
+            "id": 1599315,
+            "node1": 4455,
+            "node2": 67093,
+            "type": 9,
+            "w": 73.0
+        },
+        {
+            "id": 760111755,
+            "node1": 4455,
+            "node2": 68183,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2476743,
+            "node1": 4455,
+            "node2": 71026,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 106155,
+            "node1": 4455,
+            "node2": 71864,
+            "type": 9,
+            "w": 237.0
+        },
+        {
+            "id": 24357917,
+            "node1": 4455,
+            "node2": 72499,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 24357958,
+            "node1": 4455,
+            "node2": 72657,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 779730182,
+            "node1": 4455,
+            "node2": 73243,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 11933293,
+            "node1": 4455,
+            "node2": 73888,
+            "type": 9,
+            "w": 81.0
+        },
+        {
+            "id": 97951394,
+            "node1": 4455,
+            "node2": 74082,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 2476717,
+            "node1": 4455,
+            "node2": 74558,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 97753,
+            "node1": 4455,
+            "node2": 74846,
+            "type": 9,
+            "w": 91.0
+        },
+        {
+            "id": 106158,
+            "node1": 4455,
+            "node2": 76046,
+            "type": 9,
+            "w": 325.0
+        },
+        {
+            "id": 97914,
+            "node1": 4455,
+            "node2": 77008,
+            "type": 9,
+            "w": 268.0
+        },
+        {
+            "id": 97751,
+            "node1": 4455,
+            "node2": 77424,
+            "type": 9,
+            "w": 95.0
+        },
+        {
+            "id": 214706,
+            "node1": 4455,
+            "node2": 77727,
+            "type": 9,
+            "w": 190.0
+        },
+        {
+            "id": 8992264,
+            "node1": 4455,
+            "node2": 77938,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 97833666,
+            "node1": 4455,
+            "node2": 81934,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 600827247,
+            "node1": 4455,
+            "node2": 82022,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 760111771,
+            "node1": 4455,
+            "node2": 82111,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 2970945,
+            "node1": 4455,
+            "node2": 83944,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1131445871,
+            "node1": 4455,
+            "node2": 84204,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 24357953,
+            "node1": 4455,
+            "node2": 86561,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 10527970,
+            "node1": 4455,
+            "node2": 87292,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 24357957,
+            "node1": 4455,
+            "node2": 90273,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 760111773,
+            "node1": 4455,
+            "node2": 92626,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 377518449,
+            "node1": 4455,
+            "node2": 94431,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 760111767,
+            "node1": 4455,
+            "node2": 94988,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 97749,
+            "node1": 4455,
+            "node2": 95256,
+            "type": 9,
+            "w": 561.0
+        },
+        {
+            "id": 592741,
+            "node1": 4455,
+            "node2": 95422,
+            "type": 9,
+            "w": 88.0
+        },
+        {
+            "id": 2442944,
+            "node1": 4455,
+            "node2": 96211,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 1131445872,
+            "node1": 4455,
+            "node2": 97203,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 2112438,
+            "node1": 4455,
+            "node2": 97634,
+            "type": 9,
+            "w": 99.0
+        },
+        {
+            "id": 760111757,
+            "node1": 4455,
+            "node2": 98899,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2442949,
+            "node1": 4455,
+            "node2": 101938,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 24357951,
+            "node1": 4455,
+            "node2": 103057,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2965899,
+            "node1": 4455,
+            "node2": 103311,
+            "type": 9,
+            "w": 50.0
+        },
+        {
+            "id": 24357936,
+            "node1": 4455,
+            "node2": 103791,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 13073239,
+            "node1": 4455,
+            "node2": 105041,
+            "type": 9,
+            "w": 63.0
+        },
+        {
+            "id": 24357898,
+            "node1": 4455,
+            "node2": 106252,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 24357975,
+            "node1": 4455,
+            "node2": 106562,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 97754,
+            "node1": 4455,
+            "node2": 107477,
+            "type": 9,
+            "w": 107.0
+        },
+        {
+            "id": 235009,
+            "node1": 4455,
+            "node2": 108463,
+            "type": 9,
+            "w": 174.0
+        },
+        {
+            "id": 24357930,
+            "node1": 4455,
+            "node2": 109638,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 2442946,
+            "node1": 4455,
+            "node2": 109785,
+            "type": 9,
+            "w": 68.0
+        },
+        {
+            "id": 24357911,
+            "node1": 4455,
+            "node2": 110160,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 96700393,
+            "node1": 4455,
+            "node2": 110352,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 592777,
+            "node1": 4455,
+            "node2": 110993,
+            "type": 9,
+            "w": 48.0
+        },
+        {
+            "id": 587683202,
+            "node1": 4455,
+            "node2": 113050,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 592767,
+            "node1": 4455,
+            "node2": 113278,
+            "type": 9,
+            "w": 67.0
+        },
+        {
+            "id": 15874886,
+            "node1": 4455,
+            "node2": 114327,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 97360686,
+            "node1": 4455,
+            "node2": 114984,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 2476745,
+            "node1": 4455,
+            "node2": 115155,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 9973733,
+            "node1": 4455,
+            "node2": 115352,
+            "type": 9,
+            "w": 76.0
+        },
+        {
+            "id": 2641424,
+            "node1": 4455,
+            "node2": 116980,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 592743,
+            "node1": 4455,
+            "node2": 117584,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 24357963,
+            "node1": 4455,
+            "node2": 117789,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 424886,
+            "node1": 4455,
+            "node2": 118539,
+            "type": 9,
+            "w": 163.0
+        },
+        {
+            "id": 1131445876,
+            "node1": 4455,
+            "node2": 118776,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1131445874,
+            "node1": 4455,
+            "node2": 119973,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 96700400,
+            "node1": 4455,
+            "node2": 120791,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 592746,
+            "node1": 4455,
+            "node2": 122544,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 96700417,
+            "node1": 4455,
+            "node2": 122555,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 24357897,
+            "node1": 4455,
+            "node2": 123350,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 8992261,
+            "node1": 4455,
+            "node2": 125745,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 235010,
+            "node1": 4455,
+            "node2": 126285,
+            "type": 9,
+            "w": 141.0
+        },
+        {
+            "id": 3038230,
+            "node1": 4455,
+            "node2": 126388,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 592750,
+            "node1": 4455,
+            "node2": 126687,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 24357908,
+            "node1": 4455,
+            "node2": 130812,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 760111769,
+            "node1": 4455,
+            "node2": 135496,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 97750,
+            "node1": 4455,
+            "node2": 135591,
+            "type": 9,
+            "w": 212.0
+        },
+        {
+            "id": 24357896,
+            "node1": 4455,
+            "node2": 135631,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 24357937,
+            "node1": 4455,
+            "node2": 135652,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 760111783,
+            "node1": 4455,
+            "node2": 135799,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 760111753,
+            "node1": 4455,
+            "node2": 136630,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 8992260,
+            "node1": 4455,
+            "node2": 138092,
+            "type": 9,
+            "w": 112.0
+        },
+        {
+            "id": 2442947,
+            "node1": 4455,
+            "node2": 139578,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 2869787,
+            "node1": 4455,
+            "node2": 139779,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 760111765,
+            "node1": 4455,
+            "node2": 140644,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 24357998,
+            "node1": 4455,
+            "node2": 140715,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2112435,
+            "node1": 4455,
+            "node2": 141708,
+            "type": 9,
+            "w": 64.0
+        },
+        {
+            "id": 2984925,
+            "node1": 4455,
+            "node2": 141814,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 24357924,
+            "node1": 4455,
+            "node2": 141949,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 592754,
+            "node1": 4455,
+            "node2": 142086,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 997239884,
+            "node1": 4455,
+            "node2": 143669,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 97913,
+            "node1": 4455,
+            "node2": 144846,
+            "type": 9,
+            "w": 173.0
+        },
+        {
+            "id": 96700478,
+            "node1": 4455,
+            "node2": 145569,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 24357993,
+            "node1": 4455,
+            "node2": 145953,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 224764,
+            "node1": 4455,
+            "node2": 147161,
+            "type": 9,
+            "w": 130.0
+        },
+        {
+            "id": 433480,
+            "node1": 4455,
+            "node2": 147184,
+            "type": 9,
+            "w": 156.0
+        },
+        {
+            "id": 473603485,
+            "node1": 4455,
+            "node2": 148104,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 371042,
+            "node1": 4455,
+            "node2": 148387,
+            "type": 9,
+            "w": 136.0
+        },
+        {
+            "id": 24357933,
+            "node1": 4455,
+            "node2": 149223,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1035085240,
+            "node1": 4455,
+            "node2": 149242,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 24357973,
+            "node1": 4455,
+            "node2": 149413,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 1131445882,
+            "node1": 4455,
+            "node2": 151462,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 214710,
+            "node1": 4455,
+            "node2": 151867,
+            "type": 9,
+            "w": 220.0
+        },
+        {
+            "id": 10561735,
+            "node1": 4455,
+            "node2": 152290,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 2740443,
+            "node1": 4455,
+            "node2": 152844,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 97951384,
+            "node1": 4455,
+            "node2": 152946,
+            "type": 9,
+            "w": 23.0
+        },
+        {
+            "id": 24357904,
+            "node1": 4455,
+            "node2": 154115,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 97360685,
+            "node1": 4455,
+            "node2": 154845,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 414250597,
+            "node1": 4455,
+            "node2": 155256,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 10529618,
+            "node1": 4455,
+            "node2": 155355,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 393721226,
+            "node1": 4455,
+            "node2": 155383,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 2442948,
+            "node1": 4455,
+            "node2": 159898,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 473603486,
+            "node1": 4455,
+            "node2": 174120,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 602094529,
+            "node1": 4455,
+            "node2": 174176,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 14638785,
+            "node1": 4455,
+            "node2": 174214,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 618830492,
+            "node1": 4455,
+            "node2": 174489,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 96700407,
+            "node1": 4455,
+            "node2": 176193,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 592758,
+            "node1": 4455,
+            "node2": 187620,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 592765,
+            "node1": 4455,
+            "node2": 187622,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 592779,
+            "node1": 4455,
+            "node2": 187788,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 1131445877,
+            "node1": 4455,
+            "node2": 209779,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 15781365,
+            "node1": 4455,
+            "node2": 213644,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 11687444,
+            "node1": 4455,
+            "node2": 213792,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1552920,
+            "node1": 4455,
+            "node2": 214300,
+            "type": 9,
+            "w": 64.0
+        },
+        {
+            "id": 97360688,
+            "node1": 4455,
+            "node2": 214601,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1552919,
+            "node1": 4455,
+            "node2": 214602,
+            "type": 9,
+            "w": 109.0
+        },
+        {
+            "id": 3105079,
+            "node1": 4455,
+            "node2": 214988,
+            "type": 9,
+            "w": 236.0
+        },
+        {
+            "id": 96700413,
+            "node1": 4455,
+            "node2": 215135,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 3211313,
+            "node1": 4455,
+            "node2": 215758,
+            "type": 9,
+            "w": 62.0
+        },
+        {
+            "id": 2476737,
+            "node1": 4455,
+            "node2": 216283,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 2929088,
+            "node1": 4455,
+            "node2": 219363,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 96700422,
+            "node1": 4455,
+            "node2": 219597,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 97833136,
+            "node1": 4455,
+            "node2": 221019,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 96700403,
+            "node1": 4455,
+            "node2": 222595,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 96700395,
+            "node1": 4455,
+            "node2": 225756,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 2476736,
+            "node1": 4455,
+            "node2": 225934,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 96700466,
+            "node1": 4455,
+            "node2": 228289,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 96700404,
+            "node1": 4455,
+            "node2": 228513,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 96700452,
+            "node1": 4455,
+            "node2": 230297,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 2734432,
+            "node1": 4455,
+            "node2": 233138,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1992203,
+            "node1": 4455,
+            "node2": 233278,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 96700399,
+            "node1": 4455,
+            "node2": 233450,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 27750134,
+            "node1": 4455,
+            "node2": 234957,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 11933295,
+            "node1": 4455,
+            "node2": 237765,
+            "type": 9,
+            "w": 82.0
+        },
+        {
+            "id": 97360689,
+            "node1": 4455,
+            "node2": 240590,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2934448,
+            "node1": 4455,
+            "node2": 240720,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2959585,
+            "node1": 4455,
+            "node2": 241352,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 96700405,
+            "node1": 4455,
+            "node2": 241862,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10532604,
+            "node1": 4455,
+            "node2": 242310,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 30600201,
+            "node1": 4455,
+            "node2": 243585,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 12800070,
+            "node1": 4455,
+            "node2": 257666,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 97360692,
+            "node1": 4455,
+            "node2": 258619,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 96700406,
+            "node1": 4455,
+            "node2": 261225,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 974581075,
+            "node1": 4455,
+            "node2": 265621,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 214160216,
+            "node1": 4455,
+            "node2": 271596,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131445879,
+            "node1": 4455,
+            "node2": 285669,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1131445880,
+            "node1": 4455,
+            "node2": 309098,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1131445873,
+            "node1": 4455,
+            "node2": 323198,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 11118222,
+            "node1": 4455,
+            "node2": 325700,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 11259525,
+            "node1": 4455,
+            "node2": 326146,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 12997221,
+            "node1": 4455,
+            "node2": 390927,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 600825178,
+            "node1": 4455,
+            "node2": 390958,
+            "type": 9,
+            "w": 50.0
+        },
+        {
+            "id": 424941557,
+            "node1": 4455,
+            "node2": 398564,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 370035174,
+            "node1": 4455,
+            "node2": 411005,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 618834947,
+            "node1": 4455,
+            "node2": 427771,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 226760708,
+            "node1": 4455,
+            "node2": 456360,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 1131445878,
+            "node1": 4455,
+            "node2": 568124,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 25779247,
+            "node1": 4455,
+            "node2": 1636805,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 781596151,
+            "node1": 4455,
+            "node2": 1779406,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 289857847,
+            "node1": 4455,
+            "node2": 1780170,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 602094528,
+            "node1": 4455,
+            "node2": 1816244,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 1055074283,
+            "node1": 4455,
+            "node2": 1841061,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 672111573,
+            "node1": 4455,
+            "node2": 1854036,
+            "type": 9,
+            "w": 17.0
+        },
+        {
+            "id": 97360695,
+            "node1": 4455,
+            "node2": 2538325,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131445881,
+            "node1": 4455,
+            "node2": 3306231,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 212801882,
+            "node1": 4455,
+            "node2": 5984733,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 177329777,
+            "node1": 4455,
+            "node2": 6797233,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 377478497,
+            "node1": 4455,
+            "node2": 6798394,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 292881002,
+            "node1": 4455,
+            "node2": 6800044,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 391313966,
+            "node1": 4455,
+            "node2": 6800176,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 515261095,
+            "node1": 4455,
+            "node2": 6800353,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 473603484,
+            "node1": 4455,
+            "node2": 6802231,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 216479506,
+            "node1": 4455,
+            "node2": 6807211,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 292861340,
+            "node1": 4455,
+            "node2": 6824669,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 145791560,
+            "node1": 4455,
+            "node2": 6825673,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 195740719,
+            "node1": 4455,
+            "node2": 6834405,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 216479272,
+            "node1": 4455,
+            "node2": 6842217,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 161665614,
+            "node1": 4455,
+            "node2": 6863585,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 308125964,
+            "node1": 4455,
+            "node2": 6880460,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 378016850,
+            "node1": 4455,
+            "node2": 6885693,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 426538693,
+            "node1": 4455,
+            "node2": 6913429,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 398350857,
+            "node1": 4455,
+            "node2": 6913455,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 709649425,
+            "node1": 4455,
+            "node2": 6935846,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 211505916,
+            "node1": 4455,
+            "node2": 6957788,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 781349741,
+            "node1": 4455,
+            "node2": 7015796,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 436504932,
+            "node1": 4455,
+            "node2": 7086875,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 377389912,
+            "node1": 4455,
+            "node2": 7272288,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 709570434,
+            "node1": 4455,
+            "node2": 7306099,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 308076360,
+            "node1": 4455,
+            "node2": 8535678,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 217812253,
+            "node1": 4455,
+            "node2": 8840643,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 292916619,
+            "node1": 4455,
+            "node2": 8840709,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 213856239,
+            "node1": 4455,
+            "node2": 9023410,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 485270108,
+            "node1": 4455,
+            "node2": 9939114,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 271552588,
+            "node1": 4455,
+            "node2": 10844654,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 479149203,
+            "node1": 4455,
+            "node2": 11008328,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 760111759,
+            "node1": 4455,
+            "node2": 11080760,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 391314598,
+            "node1": 4455,
+            "node2": 11405719,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1015231551,
+            "node1": 4455,
+            "node2": 11922472,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 377714718,
+            "node1": 4455,
+            "node2": 12791689,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 400249411,
+            "node1": 4455,
+            "node2": 14917526,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 436505015,
+            "node1": 4455,
+            "node2": 14917651,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 436503065,
+            "node1": 4455,
+            "node2": 14918011,
+            "type": 9,
+            "w": 17.0
+        },
+        {
+            "id": 398354438,
+            "node1": 4455,
+            "node2": 14925035,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 391326337,
+            "node1": 4455,
+            "node2": 14928588,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 600839719,
+            "node1": 4455,
+            "node2": 14935848,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1131445884,
+            "node1": 4455,
+            "node2": 14951719,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1084797288,
+            "node1": 4455,
+            "node2": 14952204,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 1023149301,
+            "node1": 4455,
+            "node2": 14955484,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 401788858,
+            "node1": 4455,
+            "node2": 15047666,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 603506470,
+            "node1": 4455,
+            "node2": 15072460,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 775516099,
+            "node1": 4455,
+            "node2": 15074052,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 603506599,
+            "node1": 4455,
+            "node2": 15088586,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 398248002,
+            "node1": 4455,
+            "node2": 15106312,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 1055141175,
+            "node1": 4455,
+            "node2": 15193382,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 1055079531,
+            "node1": 4455,
+            "node2": 15204726,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 435278607,
+            "node1": 4455,
+            "node2": 15204740,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 484052765,
+            "node1": 4455,
+            "node2": 15207543,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 484054325,
+            "node1": 4455,
+            "node2": 15235864,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 1055124378,
+            "node1": 4455,
+            "node2": 15252041,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 1055124431,
+            "node1": 4455,
+            "node2": 15252042,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 397120456,
+            "node1": 4455,
+            "node2": 15274378,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 398359240,
+            "node1": 4455,
+            "node2": 15281194,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 398357090,
+            "node1": 4455,
+            "node2": 15281195,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 709904610,
+            "node1": 4455,
+            "node2": 15293347,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1068373287,
+            "node1": 4455,
+            "node2": 15293612,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 709791405,
+            "node1": 4455,
+            "node2": 15297314,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 595467859,
+            "node1": 4455,
+            "node2": 15298942,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 600848629,
+            "node1": 4455,
+            "node2": 15328042,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 580994239,
+            "node1": 4455,
+            "node2": 15328043,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 397060295,
+            "node1": 4455,
+            "node2": 15328044,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 600839701,
+            "node1": 4455,
+            "node2": 15328209,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 468252146,
+            "node1": 4455,
+            "node2": 15337326,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 413566040,
+            "node1": 4455,
+            "node2": 15436990,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 775515907,
+            "node1": 4455,
+            "node2": 15452453,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 443107182,
+            "node1": 4455,
+            "node2": 16592323,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 484071299,
+            "node1": 4455,
+            "node2": 16815439,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 603506462,
+            "node1": 4455,
+            "node2": 16828463,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 775578037,
+            "node1": 4455,
+            "node2": 16828615,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 635391492,
+            "node1": 4455,
+            "node2": 16853155,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 715068299,
+            "node1": 4455,
+            "node2": 16974954,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 486602002,
+            "node1": 4455,
+            "node2": 18107812,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 697293224,
+            "node1": 4455,
+            "node2": 94230902,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 932753855,
+            "node1": 4455,
+            "node2": 95914940,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 940450638,
+            "node1": 4455,
+            "node2": 101438254,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 969327143,
+            "node1": 4455,
+            "node2": 101438265,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 760111785,
+            "node1": 4455,
+            "node2": 290798645,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 972382176,
+            "node1": 4455,
+            "node2": 325390139,
+            "type": 9,
+            "w": 17.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:59.021442",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chien",
+        "#relations": 311,
+        "max_relation_weight": 561.0,
+        "#nodes": 312,
+        "duration": "0:00:00.155656"
+    }
+}

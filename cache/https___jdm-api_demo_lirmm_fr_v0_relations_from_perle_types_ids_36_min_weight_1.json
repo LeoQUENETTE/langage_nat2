@@ -1,0 +1,287 @@
+{
+    "nodes": [
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 162761,
+            "name": "_INFO-SEM-PERS",
+            "type": 36,
+            "w": 732
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 1912917,
+            "name": "_INFO-COUNTABLE-YES",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 214534,
+            "name": "_INFO-MEANING-FIGURED",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991431,
+            "name": "_PROP-ANIME-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 139228,
+            "name": "perle",
+            "type": 1,
+            "w": 207
+        }
+    ],
+    "relations": [
+        {
+            "id": 417715068,
+            "node1": 139228,
+            "node2": 162761,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 384651894,
+            "node1": 139228,
+            "node2": 191669,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 740468,
+            "node1": 139228,
+            "node2": 191741,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 52557485,
+            "node1": 139228,
+            "node2": 214534,
+            "type": 36,
+            "w": 53.0
+        },
+        {
+            "id": 1630644,
+            "node1": 139228,
+            "node2": 217817,
+            "type": 36,
+            "w": 41.0
+        },
+        {
+            "id": 26233338,
+            "node1": 139228,
+            "node2": 223172,
+            "type": 36,
+            "w": 48.0
+        },
+        {
+            "id": 2000166,
+            "node1": 139228,
+            "node2": 223173,
+            "type": 36,
+            "w": 307.0
+        },
+        {
+            "id": 9161041,
+            "node1": 139228,
+            "node2": 241794,
+            "type": 36,
+            "w": 97.0
+        },
+        {
+            "id": 2332497,
+            "node1": 139228,
+            "node2": 254876,
+            "type": 36,
+            "w": 68.0
+        },
+        {
+            "id": 9177467,
+            "node1": 139228,
+            "node2": 254877,
+            "type": 36,
+            "w": 21.0
+        },
+        {
+            "id": 27239540,
+            "node1": 139228,
+            "node2": 254878,
+            "type": 36,
+            "w": 11.0
+        },
+        {
+            "id": 1133503647,
+            "node1": 139228,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 502987280,
+            "node1": 139228,
+            "node2": 317329,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 18596683,
+            "node1": 139228,
+            "node2": 438949,
+            "type": 36,
+            "w": 60.0
+        },
+        {
+            "id": 437083543,
+            "node1": 139228,
+            "node2": 1912917,
+            "type": 36,
+            "w": 29.0
+        },
+        {
+            "id": 54747569,
+            "node1": 139228,
+            "node2": 2585996,
+            "type": 36,
+            "w": 54.0
+        },
+        {
+            "id": 417715055,
+            "node1": 139228,
+            "node2": 15991431,
+            "type": 36,
+            "w": 32.0
+        },
+        {
+            "id": 417715046,
+            "node1": 139228,
+            "node2": 15991432,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 499929344,
+            "node1": 139228,
+            "node2": 50233540,
+            "type": 36,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:53.302147",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "perle",
+        "#relations": 19,
+        "max_relation_weight": 307.0,
+        "#nodes": 20,
+        "duration": "0:00:00.011451"
+    }
+}

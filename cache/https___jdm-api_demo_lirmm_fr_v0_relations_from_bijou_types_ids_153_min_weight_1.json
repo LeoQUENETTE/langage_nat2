@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1423
+        },
+        {
+            "id": 106995,
+            "name": "carat",
+            "type": 1,
+            "w": 78
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139275,
+            "node1": 16912,
+            "node2": 106995,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:40.960708",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bijou",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003249"
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 25616,
+            "name": "voûte",
+            "type": 1,
+            "w": 283
+        },
+        {
+            "id": 140902,
+            "name": "étoffe",
+            "type": 1,
+            "w": 464
+        },
+        {
+            "id": 164552,
+            "name": "voie de communication",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 63800,
+            "name": "divinité",
+            "type": 1,
+            "w": 2079
+        },
+        {
+            "id": 15436179,
+            "name": "en:transportation route",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215809,
+            "name": "bleu>40056",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 15436178,
+            "name": "en:transport route",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141387,
+            "name": "espace",
+            "type": 1,
+            "w": 16662
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 77306,
+            "name": "ciel",
+            "type": 1,
+            "w": 12690
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 225291,
+            "name": "couleur>17226",
+            "type": 1,
+            "w": 382
+        },
+        {
+            "id": 154273,
+            "name": "voute",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 15394849,
+            "name": "en:communication route",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 157041,
+            "name": "bleu>146885",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 102420614,
+            "name": "Voie de communication",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216363,
+            "name": "milieu>117325",
+            "type": 1,
+            "w": 42
+        }
+    ],
+    "relations": [
+        {
+            "id": 3160294,
+            "node1": 77306,
+            "node2": 25616,
+            "type": 6,
+            "w": 140.0
+        },
+        {
+            "id": 3160293,
+            "node1": 77306,
+            "node2": 40056,
+            "type": 6,
+            "w": 129.0
+        },
+        {
+            "id": 82977695,
+            "node1": 77306,
+            "node2": 63800,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 629377,
+            "node1": 77306,
+            "node2": 135190,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 57982510,
+            "node1": 77306,
+            "node2": 140902,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 3160291,
+            "node1": 77306,
+            "node2": 141387,
+            "type": 6,
+            "w": 172.0
+        },
+        {
+            "id": 13509382,
+            "node1": 77306,
+            "node2": 154273,
+            "type": 6,
+            "w": 109.0
+        },
+        {
+            "id": 376433657,
+            "node1": 77306,
+            "node2": 157041,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 9931073,
+            "node1": 77306,
+            "node2": 164552,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 3160292,
+            "node1": 77306,
+            "node2": 215809,
+            "type": 6,
+            "w": 136.0
+        },
+        {
+            "id": 634022652,
+            "node1": 77306,
+            "node2": 216363,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 97135391,
+            "node1": 77306,
+            "node2": 225291,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 599790469,
+            "node1": 77306,
+            "node2": 15394849,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 705480883,
+            "node1": 77306,
+            "node2": 15436178,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 705480795,
+            "node1": 77306,
+            "node2": 15436179,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 705932169,
+            "node1": 77306,
+            "node2": 102420614,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:54.596253",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ciel",
+        "#relations": 16,
+        "max_relation_weight": 172.0,
+        "#nodes": 17,
+        "duration": "0:00:00.056930"
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 252333,
+            "name": "bouillon de légumes",
+            "type": 1,
+            "w": 41
+        },
+        {
+            "id": 15195959,
+            "name": "en:vegetable broth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 222431,
+            "name": "soupe aux légumes",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 238346,
+            "name": "chocolat fondu",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 7769,
+            "name": "canard",
+            "type": 1,
+            "w": 1639
+        },
+        {
+            "id": 214908,
+            "name": "canard>139481",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 51905,
+            "name": "cuillère",
+            "type": 1,
+            "w": 1535
+        },
+        {
+            "id": 114637,
+            "name": "aliment",
+            "type": 1,
+            "w": 2447
+        },
+        {
+            "id": 15203200,
+            "name": "en:lemon pie",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 160745,
+            "name": "soupe de légumes",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 117152,
+            "name": "soupe",
+            "type": 1,
+            "w": 2193
+        },
+        {
+            "id": 15315577,
+            "name": "en:runny chocolate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15078789,
+            "name": "en:vegetable soup",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15228048,
+            "name": "potage aux légumes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 85294,
+            "name": "héroïne",
+            "type": 1,
+            "w": 850
+        },
+        {
+            "id": 145405,
+            "name": "bol",
+            "type": 1,
+            "w": 991
+        },
+        {
+            "id": 151599,
+            "name": "tarte au citron",
+            "type": 1,
+            "w": 178
+        }
+    ],
+    "relations": [
+        {
+            "id": 283919356,
+            "node1": 51905,
+            "node2": 7769,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 766155226,
+            "node1": 51905,
+            "node2": 85294,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 375971002,
+            "node1": 51905,
+            "node2": 114637,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1181850636,
+            "node1": 51905,
+            "node2": 117152,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 1181843625,
+            "node1": 51905,
+            "node2": 145405,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11334083,
+            "node1": 51905,
+            "node2": 151599,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11316083,
+            "node1": 51905,
+            "node2": 160745,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 283919407,
+            "node1": 51905,
+            "node2": 214908,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1054570782,
+            "node1": 51905,
+            "node2": 222431,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 11333818,
+            "node1": 51905,
+            "node2": 238346,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11316072,
+            "node1": 51905,
+            "node2": 252333,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 470993106,
+            "node1": 51905,
+            "node2": 15078789,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 483265703,
+            "node1": 51905,
+            "node2": 15195959,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470969076,
+            "node1": 51905,
+            "node2": 15203200,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 515252364,
+            "node1": 51905,
+            "node2": 15228048,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1054575857,
+            "node1": 51905,
+            "node2": 15315577,
+            "type": 28,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:15.396052",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cuillère",
+        "#relations": 16,
+        "max_relation_weight": 40.0,
+        "#nodes": 17,
+        "duration": "0:00:00.006356"
+    }
+}

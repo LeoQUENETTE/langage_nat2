@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 70206,
+            "name": "cahier",
+            "type": 1,
+            "w": 1411
+        },
+        {
+            "id": 112777,
+            "name": "rédaction",
+            "type": 1,
+            "w": 4384
+        },
+        {
+            "id": 235683,
+            "name": "prise de notes",
+            "type": 1,
+            "w": 93
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143719777,
+            "node1": 70206,
+            "node2": 112777,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1143719776,
+            "node1": 70206,
+            "node2": 235683,
+            "type": 137,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:47.004971",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cahier",
+        "#relations": 2,
+        "max_relation_weight": 26.0,
+        "#nodes": 3,
+        "duration": "0:00:00.009093"
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 362007,
+            "name": "localisation géographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 94262,
+            "name": "aéroport",
+            "type": 1,
+            "w": 3120
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 2352864,
+            "name": "commune>146881",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 76117,
+            "name": "localisation",
+            "type": 1,
+            "w": 2621
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 15343753,
+            "name": "en:airport authority",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15573745,
+            "name": "en:aeroport",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7015598,
+            "name": "en:geographic area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234321,
+            "name": "commune>17573",
+            "type": 1,
+            "w": 138
+        },
+        {
+            "id": 14968071,
+            "name": "emplacement géographique",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 62067,
+            "name": "commune",
+            "type": 1,
+            "w": 5263
+        },
+        {
+            "id": 9944121,
+            "name": "airport",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 154131,
+            "name": "Roissy",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 15401934,
+            "name": "autorité aéroportuaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14918187,
+            "name": "en:airport",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15573744,
+            "name": "en:air port",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 97349858,
+            "node1": 154131,
+            "node2": 62067,
+            "type": 6,
+            "w": 80.0
+        },
+        {
+            "id": 97349857,
+            "node1": 154131,
+            "node2": 76117,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 9899270,
+            "node1": 154131,
+            "node2": 94262,
+            "type": 6,
+            "w": 104.0
+        },
+        {
+            "id": 629306,
+            "node1": 154131,
+            "node2": 135190,
+            "type": 6,
+            "w": 83.0
+        },
+        {
+            "id": 13180193,
+            "node1": 154131,
+            "node2": 157283,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 97349859,
+            "node1": 154131,
+            "node2": 234321,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 457796902,
+            "node1": 154131,
+            "node2": 362007,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 97875709,
+            "node1": 154131,
+            "node2": 2352864,
+            "type": 6,
+            "w": 82.0
+        },
+        {
+            "id": 331070163,
+            "node1": 154131,
+            "node2": 2785548,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 769725247,
+            "node1": 154131,
+            "node2": 7015598,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 769725253,
+            "node1": 154131,
+            "node2": 9944121,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 357218273,
+            "node1": 154131,
+            "node2": 14094383,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 434209171,
+            "node1": 154131,
+            "node2": 14918187,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 769725249,
+            "node1": 154131,
+            "node2": 14968071,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 434209170,
+            "node1": 154131,
+            "node2": 15343753,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 769725250,
+            "node1": 154131,
+            "node2": 15401934,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 769725251,
+            "node1": 154131,
+            "node2": 15573744,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 769725252,
+            "node1": 154131,
+            "node2": 15573745,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:18.786550",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Roissy",
+        "#relations": 18,
+        "max_relation_weight": 104.0,
+        "#nodes": 19,
+        "duration": "0:00:00.010434"
+    }
+}

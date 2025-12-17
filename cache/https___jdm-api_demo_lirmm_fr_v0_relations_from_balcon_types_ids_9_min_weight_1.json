@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 142367,
+            "name": "pot",
+            "type": 1,
+            "w": 1131
+        },
+        {
+            "id": 95126,
+            "name": "barbecue",
+            "type": 1,
+            "w": 809
+        },
+        {
+            "id": 12717,
+            "name": "balcon",
+            "type": 1,
+            "w": 424
+        }
+    ],
+    "relations": [
+        {
+            "id": 10529550,
+            "node1": 12717,
+            "node2": 95126,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9971313,
+            "node1": 12717,
+            "node2": 142367,
+            "type": 9,
+            "w": 11.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:39.091494",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "balcon",
+        "#relations": 2,
+        "max_relation_weight": 28.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005282"
+    }
+}

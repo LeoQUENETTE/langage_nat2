@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 131552,
+            "name": "cambrioleur",
+            "type": 1,
+            "w": 374
+        },
+        {
+            "id": 102641,
+            "name": "voleur",
+            "type": 1,
+            "w": 2388
+        },
+        {
+            "id": 15246182,
+            "name": "le père Noël",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420070,
+            "name": "le Père Noël",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14953870,
+            "name": "en:Santa Claus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 61490,
+            "name": "femme",
+            "type": 1,
+            "w": 89494
+        },
+        {
+            "id": 40635,
+            "name": "sac",
+            "type": 1,
+            "w": 4080
+        },
+        {
+            "id": 15139565,
+            "name": "en:santa claus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14953869,
+            "name": "en:Father Christmas",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15280767,
+            "name": "en:Santa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 163043,
+            "name": "père noël",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 90157,
+            "name": "Santa Claus",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 151601,
+            "name": "père Noël",
+            "type": 1,
+            "w": 222
+        }
+    ],
+    "relations": [
+        {
+            "id": 375589723,
+            "node1": 40635,
+            "node2": 61490,
+            "type": 122,
+            "w": 26.0
+        },
+        {
+            "id": 618548667,
+            "node1": 40635,
+            "node2": 90157,
+            "type": 122,
+            "w": 39.0
+        },
+        {
+            "id": 375589890,
+            "node1": 40635,
+            "node2": 102641,
+            "type": 122,
+            "w": 29.0
+        },
+        {
+            "id": 375589879,
+            "node1": 40635,
+            "node2": 131552,
+            "type": 122,
+            "w": 29.0
+        },
+        {
+            "id": 375589916,
+            "node1": 40635,
+            "node2": 151601,
+            "type": 122,
+            "w": 28.0
+        },
+        {
+            "id": 479258714,
+            "node1": 40635,
+            "node2": 163043,
+            "type": 122,
+            "w": 27.0
+        },
+        {
+            "id": 479258736,
+            "node1": 40635,
+            "node2": 14953869,
+            "type": 122,
+            "w": 31.0
+        },
+        {
+            "id": 514304101,
+            "node1": 40635,
+            "node2": 14953870,
+            "type": 122,
+            "w": 28.0
+        },
+        {
+            "id": 634883769,
+            "node1": 40635,
+            "node2": 15139565,
+            "type": 122,
+            "w": 25.0
+        },
+        {
+            "id": 514304198,
+            "node1": 40635,
+            "node2": 15246182,
+            "type": 122,
+            "w": 26.0
+        },
+        {
+            "id": 514304094,
+            "node1": 40635,
+            "node2": 15280767,
+            "type": 122,
+            "w": 29.0
+        },
+        {
+            "id": 514304191,
+            "node1": 40635,
+            "node2": 15420070,
+            "type": 122,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            122
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:59.151498",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sac",
+        "#relations": 12,
+        "max_relation_weight": 39.0,
+        "#nodes": 13,
+        "duration": "0:00:00.005123"
+    }
+}

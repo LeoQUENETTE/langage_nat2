@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 150689,
+            "name": "stras",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 7487297,
+            "name": "en:string",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14935260,
+            "name": "en:pearl",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105796,
+            "name": "perles",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 92060,
+            "name": "strass",
+            "type": 1,
+            "w": 70
+        }
+    ],
+    "relations": [
+        {
+            "id": 9903710,
+            "node1": 105796,
+            "node2": 92060,
+            "type": 6,
+            "w": 23.0
+        },
+        {
+            "id": 13529878,
+            "node1": 105796,
+            "node2": 150689,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 482985243,
+            "node1": 105796,
+            "node2": 7487297,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 694766934,
+            "node1": 105796,
+            "node2": 14935260,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:17.890607",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "perles",
+        "#relations": 4,
+        "max_relation_weight": 30.0,
+        "#nodes": 5,
+        "duration": "0:00:00.009118"
+    }
+}

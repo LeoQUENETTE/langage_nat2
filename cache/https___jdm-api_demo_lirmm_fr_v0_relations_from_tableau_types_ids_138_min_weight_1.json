@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 100370,
+            "name": "exposition",
+            "type": 1,
+            "w": 6422
+        },
+        {
+            "id": 11575,
+            "name": "restauration",
+            "type": 1,
+            "w": 4180
+        },
+        {
+            "id": 75003,
+            "name": "tableau",
+            "type": 1,
+            "w": 5392
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150604245,
+            "node1": 75003,
+            "node2": 11575,
+            "type": 138,
+            "w": 75.0
+        },
+        {
+            "id": 720644146,
+            "node1": 75003,
+            "node2": 100370,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:04.295831",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tableau",
+        "#relations": 2,
+        "max_relation_weight": 75.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005157"
+    }
+}

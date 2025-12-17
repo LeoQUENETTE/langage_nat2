@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 88519,
+            "name": "geysers",
+            "type": 1,
+            "w": 127
+        },
+        {
+            "id": 91028,
+            "name": "Yellowstone",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 277807,
+            "name": "bisons",
+            "type": 777,
+            "w": 152
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156483182,
+            "node1": 91028,
+            "node2": 88519,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1156483184,
+            "node1": 91028,
+            "node2": 277807,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:41.000067",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Yellowstone",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003106"
+    }
+}

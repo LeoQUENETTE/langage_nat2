@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 50646,
+            "name": "question",
+            "type": 1,
+            "w": 18049
+        },
+        {
+            "id": 5325,
+            "name": "bibliothécaire",
+            "type": 1,
+            "w": 205
+        }
+    ],
+    "relations": [
+        {
+            "id": 1181757483,
+            "node1": 5325,
+            "node2": 50646,
+            "type": 138,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:03.961294",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bibliothécaire",
+        "#relations": 1,
+        "max_relation_weight": 40.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003812"
+    }
+}

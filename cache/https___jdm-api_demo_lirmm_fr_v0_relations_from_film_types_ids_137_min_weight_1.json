@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 89900,
+            "name": "montage",
+            "type": 1,
+            "w": 3066
+        },
+        {
+            "id": 36177,
+            "name": "narration",
+            "type": 1,
+            "w": 5017
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12554
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158223389,
+            "node1": 29592,
+            "node2": 36177,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1158223390,
+            "node1": 29592,
+            "node2": 89900,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:30.791341",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "film",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.016199"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 154898,
+            "name": "fibres",
+            "type": 1,
+            "w": 2389
+        },
+        {
+            "id": 3162007,
+            "name": "graines oléagineuses",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 143379,
+            "name": "lin",
+            "type": 1,
+            "w": 711
+        }
+    ],
+    "relations": [
+        {
+            "id": 795607444,
+            "node1": 143379,
+            "node2": 154898,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 795607482,
+            "node1": 143379,
+            "node2": 3162007,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:10.041418",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lin",
+        "#relations": 2,
+        "max_relation_weight": 28.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004542"
+    }
+}

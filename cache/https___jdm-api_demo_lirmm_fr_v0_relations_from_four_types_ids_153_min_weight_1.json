@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 9190,
+            "name": "four",
+            "type": 1,
+            "w": 2862
+        },
+        {
+            "id": 383190,
+            "name": "température maximale",
+            "type": 1,
+            "w": 194
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137826,
+            "node1": 9190,
+            "node2": 383190,
+            "type": 153,
+            "w": 43.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:30.565905",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "four",
+        "#relations": 1,
+        "max_relation_weight": 43.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003871"
+    }
+}

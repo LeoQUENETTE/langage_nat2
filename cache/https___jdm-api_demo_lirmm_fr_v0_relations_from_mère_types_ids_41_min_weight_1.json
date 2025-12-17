@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 74860,
+            "name": "homme",
+            "type": 1,
+            "w": 108460
+        },
+        {
+            "id": 83989,
+            "name": "éducation",
+            "type": 1,
+            "w": 34465
+        },
+        {
+            "id": 399531,
+            "name": "néonatale",
+            "type": 1,
+            "w": 69
+        },
+        {
+            "id": 146333,
+            "name": "fils",
+            "type": 1,
+            "w": 11150
+        },
+        {
+            "id": 9062,
+            "name": "nouveau-né",
+            "type": 1,
+            "w": 703
+        },
+        {
+            "id": 264810,
+            "name": "lien affectif",
+            "type": 1,
+            "w": 165
+        },
+        {
+            "id": 15520502,
+            "name": "en:neonatal .",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14950744,
+            "name": "en:neonatal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 136457,
+            "name": "néonatal",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 15661717,
+            "name": "en:in newborns",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6863269,
+            "name": "en:newborn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 122956,
+            "name": "mère",
+            "type": 1,
+            "w": 8492
+        }
+    ],
+    "relations": [
+        {
+            "id": 14650152,
+            "node1": 122956,
+            "node2": 9062,
+            "type": 41,
+            "w": 73.0
+        },
+        {
+            "id": 14642019,
+            "node1": 122956,
+            "node2": 74860,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 1152105775,
+            "node1": 122956,
+            "node2": 83989,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 405625951,
+            "node1": 122956,
+            "node2": 136457,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 14659062,
+            "node1": 122956,
+            "node2": 146333,
+            "type": 41,
+            "w": 38.0
+        },
+        {
+            "id": 1152105766,
+            "node1": 122956,
+            "node2": 264810,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 974607668,
+            "node1": 122956,
+            "node2": 399531,
+            "type": 41,
+            "w": 15.0
+        },
+        {
+            "id": 217103813,
+            "node1": 122956,
+            "node2": 6863269,
+            "type": 41,
+            "w": 72.0
+        },
+        {
+            "id": 448116995,
+            "node1": 122956,
+            "node2": 14950744,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 594844849,
+            "node1": 122956,
+            "node2": 15520502,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 405625886,
+            "node1": 122956,
+            "node2": 15661717,
+            "type": 41,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:41.571835",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mère",
+        "#relations": 11,
+        "max_relation_weight": 73.0,
+        "#nodes": 12,
+        "duration": "0:00:00.010718"
+    }
+}

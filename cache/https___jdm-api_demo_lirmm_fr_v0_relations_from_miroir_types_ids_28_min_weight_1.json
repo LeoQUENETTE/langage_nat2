@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 26733181,
+            "name": "image>103150",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 64495,
+            "name": "grimace",
+            "type": 1,
+            "w": 260
+        },
+        {
+            "id": 145953,
+            "name": "visage",
+            "type": 1,
+            "w": 10252
+        },
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6157
+        },
+        {
+            "id": 8165,
+            "name": "cocaïne",
+            "type": 1,
+            "w": 848
+        },
+        {
+            "id": 139352,
+            "name": "beauté",
+            "type": 1,
+            "w": 6509
+        },
+        {
+            "id": 142914,
+            "name": "image",
+            "type": 1,
+            "w": 11657
+        },
+        {
+            "id": 62788,
+            "name": "miroir",
+            "type": 1,
+            "w": 2743
+        },
+        {
+            "id": 131514,
+            "name": "reflet",
+            "type": 1,
+            "w": 1636
+        },
+        {
+            "id": 79853,
+            "name": "regard",
+            "type": 1,
+            "w": 13628
+        },
+        {
+            "id": 235423,
+            "name": "image>103150>131514",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 5000,
+            "name": "autoportrait",
+            "type": 1,
+            "w": 158
+        }
+    ],
+    "relations": [
+        {
+            "id": 766154500,
+            "node1": 62788,
+            "node2": 5000,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 766155303,
+            "node1": 62788,
+            "node2": 8165,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 766155190,
+            "node1": 62788,
+            "node2": 64495,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11346544,
+            "node1": 62788,
+            "node2": 79853,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1548391,
+            "node1": 62788,
+            "node2": 131514,
+            "type": 28,
+            "w": 118.0
+        },
+        {
+            "id": 11347654,
+            "node1": 62788,
+            "node2": 139352,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1887002,
+            "node1": 62788,
+            "node2": 142914,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 1548392,
+            "node1": 62788,
+            "node2": 144497,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 1597307,
+            "node1": 62788,
+            "node2": 145953,
+            "type": 28,
+            "w": 108.0
+        },
+        {
+            "id": 1975167,
+            "node1": 62788,
+            "node2": 235423,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 496984361,
+            "node1": 62788,
+            "node2": 26733181,
+            "type": 28,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:42.355571",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "miroir",
+        "#relations": 11,
+        "max_relation_weight": 118.0,
+        "#nodes": 12,
+        "duration": "0:00:00.003648"
+    }
+}

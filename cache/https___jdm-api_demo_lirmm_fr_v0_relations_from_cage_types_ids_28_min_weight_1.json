@@ -1,0 +1,2601 @@
+{
+    "nodes": [
+        {
+            "id": 154571,
+            "name": "roue de hamster",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 15413415,
+            "name": "animal en liberté",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 15413417,
+            "name": "en:free-range animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152870,
+            "name": "chat de gouttière",
+            "type": 1,
+            "w": 139
+        },
+        {
+            "id": 684201,
+            "name": "ours>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 66970,
+            "name": "ballon",
+            "type": 1,
+            "w": 3638
+        },
+        {
+            "id": 127000,
+            "name": "mouche",
+            "type": 1,
+            "w": 1055
+        },
+        {
+            "id": 13740102,
+            "name": "chien de terre-neuve",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15291594,
+            "name": "en:black sea bream",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152973,
+            "name": "animal sauvage",
+            "type": 1,
+            "w": 1117
+        },
+        {
+            "id": 18280,
+            "name": "lézard",
+            "type": 1,
+            "w": 282
+        },
+        {
+            "id": 168169,
+            "name": "dorade grise",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 120840,
+            "name": "crabier chevelu",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 220183,
+            "name": "singe>33840",
+            "type": 1,
+            "w": 156
+        },
+        {
+            "id": 146273,
+            "name": "caille",
+            "type": 1,
+            "w": 287
+        },
+        {
+            "id": 175430,
+            "name": "daurade grise",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 113583,
+            "name": "panthère",
+            "type": 1,
+            "w": 1003
+        },
+        {
+            "id": 133285,
+            "name": "nonne",
+            "type": 1,
+            "w": 224
+        },
+        {
+            "id": 235982,
+            "name": "lézard>99719",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 3162181,
+            "name": "Euplecte à épaules blanches",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10862,
+            "name": "moineau",
+            "type": 1,
+            "w": 358
+        },
+        {
+            "id": 15413418,
+            "name": "en:free-ranging animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 31424,
+            "name": "fauve",
+            "type": 1,
+            "w": 947
+        },
+        {
+            "id": 168176,
+            "name": "limande commune",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 192192,
+            "name": "brassemer cendré",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 192425,
+            "name": "canard d'Hawaii",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15363241,
+            "name": "en:Black Sea bream",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 137333,
+            "name": "tigre",
+            "type": 1,
+            "w": 1671
+        },
+        {
+            "id": 261486,
+            "name": "vison>17559",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 14941174,
+            "name": "en:cheetah",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14946469,
+            "name": "en:common dab",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413420,
+            "name": "en:stray animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143334,
+            "name": "Mammifères",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 74657,
+            "name": "pigeon",
+            "type": 1,
+            "w": 982
+        },
+        {
+            "id": 2077,
+            "name": "réservoir",
+            "type": 1,
+            "w": 2060
+        },
+        {
+            "id": 15413416,
+            "name": "en:unrestrained animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1632794,
+            "name": "souris>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 82003,
+            "name": "voyageur",
+            "type": 1,
+            "w": 1331
+        },
+        {
+            "id": 50644663,
+            "name": "vivaneau gris",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142832,
+            "name": "souris",
+            "type": 1,
+            "w": 3169
+        },
+        {
+            "id": 38599,
+            "name": "lionne",
+            "type": 1,
+            "w": 582
+        },
+        {
+            "id": 84965,
+            "name": "kangourou",
+            "type": 1,
+            "w": 139
+        },
+        {
+            "id": 215888,
+            "name": "boa>91153",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 266724,
+            "name": "faune sauvage",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 120952,
+            "name": "cocotte",
+            "type": 1,
+            "w": 273
+        },
+        {
+            "id": 15212761,
+            "name": "en:Guinea pig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8521149,
+            "name": "en:guinea pig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6947719,
+            "name": "en:sea lion",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 151558,
+            "name": "lapin nain",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 15212762,
+            "name": "en:guinea-pig",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 262080,
+            "name": "perruche>140176",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 192041,
+            "name": "amazone à tête jaune",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 192063,
+            "name": "ara chloroptère",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 192800,
+            "name": "dendrocygne veuf",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 192885,
+            "name": "euplecte à épaules blanches",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 88746,
+            "name": "otarie",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 128913,
+            "name": "grizzly",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 191410,
+            "name": "chien de Terre-Neuve",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 265830,
+            "name": "otarie à crinière",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 143277,
+            "name": "passeriforme",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 175275,
+            "name": "Canidé",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 273984,
+            "name": "Brassemer cendré",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 213675,
+            "name": "ours>17559",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 153078,
+            "name": "cochon d'inde",
+            "type": 1,
+            "w": 136
+        },
+        {
+            "id": 279382,
+            "name": "Ara chloroptère",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 15192364,
+            "name": "en:ordinary cat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213809,
+            "name": "lapin>17559",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 593630,
+            "name": "tourterelle>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 335410,
+            "name": "animal féroce",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 93941,
+            "name": "esclave",
+            "type": 1,
+            "w": 1170
+        },
+        {
+            "id": 14939277,
+            "name": "en:true finch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 175587,
+            "name": "grand singe",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 191458,
+            "name": "griffon nivernais",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 7769,
+            "name": "canard",
+            "type": 1,
+            "w": 1639
+        },
+        {
+            "id": 331034,
+            "name": "féloïdé",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 220342,
+            "name": "fauve>17559>116032",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 120733,
+            "name": "tourterelle",
+            "type": 1,
+            "w": 167
+        },
+        {
+            "id": 92497007,
+            "name": "Mammifère",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 145816,
+            "name": "cochon d'Inde",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 264176,
+            "name": "animal de cirque",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 94608,
+            "name": "pigeons",
+            "type": 1,
+            "w": 123
+        },
+        {
+            "id": 98919,
+            "name": "jaguar",
+            "type": 1,
+            "w": 264
+        },
+        {
+            "id": 6947388,
+            "name": "en:laboratory animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413414,
+            "name": "en:lab animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213948,
+            "name": "ballon>36204",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 6737046,
+            "name": "fauve>17559",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 6948151,
+            "name": "en:hamster",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2033,
+            "name": "lion marin",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 45661,
+            "name": "canidé",
+            "type": 1,
+            "w": 598
+        },
+        {
+            "id": 73893,
+            "name": "singe",
+            "type": 1,
+            "w": 1085
+        },
+        {
+            "id": 55488,
+            "name": "passériforme",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 160548176,
+            "name": "Ballon de football",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15413422,
+            "name": "en:free animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 244011,
+            "name": "jaguar>17559",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 247024,
+            "name": "félin>17559",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 15205477,
+            "name": "en:dumb animals",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143156,
+            "name": "reptiles",
+            "type": 1,
+            "w": 771
+        },
+        {
+            "id": 51048,
+            "name": "panda",
+            "type": 1,
+            "w": 490
+        },
+        {
+            "id": 233355,
+            "name": "serpent>99719",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 36294,
+            "name": "herbivore",
+            "type": 1,
+            "w": 371
+        },
+        {
+            "id": 74860,
+            "name": "homme",
+            "type": 1,
+            "w": 108556
+        },
+        {
+            "id": 175720,
+            "name": "Mammalia",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 233133,
+            "name": "animal>117095",
+            "type": 1,
+            "w": 953
+        },
+        {
+            "id": 684200,
+            "name": "ours>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 71115,
+            "name": "rongeur",
+            "type": 1,
+            "w": 1248
+        },
+        {
+            "id": 95857,
+            "name": "perruche",
+            "type": 1,
+            "w": 134
+        },
+        {
+            "id": 150,
+            "name": "chat",
+            "type": 1,
+            "w": 7225
+        },
+        {
+            "id": 71539,
+            "name": "animaux",
+            "type": 1,
+            "w": 6445
+        },
+        {
+            "id": 3374075,
+            "name": "simiforme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 220337,
+            "name": "oiseau>17559",
+            "type": 1,
+            "w": 930
+        },
+        {
+            "id": 214059,
+            "name": "chien>63235",
+            "type": 1,
+            "w": 676
+        },
+        {
+            "id": 86756,
+            "name": "lion",
+            "type": 1,
+            "w": 3317
+        },
+        {
+            "id": 63235,
+            "name": "mammifère",
+            "type": 1,
+            "w": 4157
+        },
+        {
+            "id": 20164,
+            "name": "lapin",
+            "type": 1,
+            "w": 1528
+        },
+        {
+            "id": 72025,
+            "name": "passereau",
+            "type": 1,
+            "w": 343
+        },
+        {
+            "id": 17559,
+            "name": "animal",
+            "type": 1,
+            "w": 18619
+        },
+        {
+            "id": 140176,
+            "name": "oiseau",
+            "type": 1,
+            "w": 11161
+        },
+        {
+            "id": 32851,
+            "name": "mammifères",
+            "type": 1,
+            "w": 2459
+        },
+        {
+            "id": 15205454,
+            "name": "les animaux sauvages",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 193108,
+            "name": "grand ara vert",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 264846,
+            "name": "animal de laboratoire",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 7059178,
+            "name": "en:soccer ball",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 191490,
+            "name": "patou",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 250804079,
+            "name": "Faune sauvage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 273460,
+            "name": "animal venimeux",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 3160293,
+            "name": "Amazone à tête jaune",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15080526,
+            "name": "en:grey snapper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15205455,
+            "name": "en:wild animals",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 116032,
+            "name": "félin",
+            "type": 1,
+            "w": 2626
+        },
+        {
+            "id": 16297318,
+            "name": "chant>58135",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 24474,
+            "name": "galliforme",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 99719,
+            "name": "reptile",
+            "type": 1,
+            "w": 974
+        },
+        {
+            "id": 136285,
+            "name": "fringillidé",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15515258,
+            "name": "en:Newfoundland dog",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 117359,
+            "name": "canari",
+            "type": 1,
+            "w": 356
+        },
+        {
+            "id": 14940879,
+            "name": "en:griffon nivernais",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14919905,
+            "name": "en:wild animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413419,
+            "name": "en:animal that is free to roam",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6948258,
+            "name": "en:mammalia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 25635,
+            "name": "lion de mer",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 35954,
+            "name": "vison",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 45393,
+            "name": "bête sauvage",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 77586,
+            "name": "simien",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 179717,
+            "name": "pigeon voyageur",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 246214,
+            "name": "moineau>140176",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 274487,
+            "name": "Grand Ara vert",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 39101,
+            "name": "bête",
+            "type": 1,
+            "w": 3751
+        },
+        {
+            "id": 252351,
+            "name": "animaux venimeux",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 48500,
+            "name": "boa",
+            "type": 1,
+            "w": 378
+        },
+        {
+            "id": 570989,
+            "name": "Otaria flavescens",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 164364,
+            "name": "animaux sauvages",
+            "type": 1,
+            "w": 327
+        },
+        {
+            "id": 331030,
+            "name": "féliforme",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 6428637,
+            "name": "vivaneau sarde grise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91153,
+            "name": "serpent",
+            "type": 1,
+            "w": 2067
+        },
+        {
+            "id": 152657,
+            "name": "ballon de football",
+            "type": 1,
+            "w": 164
+        },
+        {
+            "id": 152707,
+            "name": "ballon de foot",
+            "type": 1,
+            "w": 213
+        },
+        {
+            "id": 81288,
+            "name": "grizzli",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 229001,
+            "name": "tigre>82231",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 15107136,
+            "name": "en:Mammalia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 117242,
+            "name": "gallinacé",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 9183529,
+            "name": "en:newfoundland dog",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 273434,
+            "name": "reptilia",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 15413427,
+            "name": "en:wild beast",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 232580,
+            "name": "animal errant",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 15413421,
+            "name": "en:feral animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13400872,
+            "name": "Lion de mer",
+            "type": 777,
+            "w": 33
+        },
+        {
+            "id": 13756375,
+            "name": "otaria flavescens",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14075815,
+            "name": "otarie de Patagonie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14075831,
+            "name": "lion de mer de Patagonie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14075830,
+            "name": "lion de mer du sud",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14075829,
+            "name": "lion de mer sud-américain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15080524,
+            "name": "en:gray snapper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15208206,
+            "name": "en:dwarf rabbit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15317204,
+            "name": "en:white-faced whistling duck",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16437710,
+            "name": "Animaux sauvages",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 6948521,
+            "name": "en:reptiles",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 106048063,
+            "name": "Animal de laboratoire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 106048059,
+            "name": "Lapin nain",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 108531734,
+            "name": "Animal sauvage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 116082609,
+            "name": "Otarie à crinière",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 120085589,
+            "name": "Animaux de laboratoire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 121223732,
+            "name": "Dendrocygne veuf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156499666,
+            "name": "Cochon d'Inde",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156524492,
+            "name": "Chien de Terre-Neuve",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17023,
+            "name": "cage",
+            "type": 1,
+            "w": 1164
+        },
+        {
+            "id": 95145,
+            "name": "guépard",
+            "type": 1,
+            "w": 351
+        },
+        {
+            "id": 600114,
+            "name": "canari>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 82231,
+            "name": "félidé",
+            "type": 1,
+            "w": 848
+        },
+        {
+            "id": 17206,
+            "name": "ours",
+            "type": 1,
+            "w": 1130
+        },
+        {
+            "id": 213377,
+            "name": "souris>71115",
+            "type": 1,
+            "w": 164
+        },
+        {
+            "id": 143626,
+            "name": "guenon",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 215024,
+            "name": "pigeon>140176",
+            "type": 1,
+            "w": 138
+        },
+        {
+            "id": 69280,
+            "name": "hamster",
+            "type": 1,
+            "w": 553
+        },
+        {
+            "id": 164697,
+            "name": "grand fauve",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 101001,
+            "name": "Reptiles",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8765
+        },
+        {
+            "id": 2674389,
+            "name": "voyageur>74657",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 246209,
+            "name": "animaux de laboratoire",
+            "type": 1,
+            "w": 91
+        }
+    ],
+    "relations": [
+        {
+            "id": 563347741,
+            "node1": 17023,
+            "node2": 150,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 532951693,
+            "node1": 17023,
+            "node2": 2033,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 2070581,
+            "node1": 17023,
+            "node2": 2077,
+            "type": 28,
+            "w": 49.0
+        },
+        {
+            "id": 24372356,
+            "node1": 17023,
+            "node2": 4455,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 13099700,
+            "node1": 17023,
+            "node2": 7769,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 104940755,
+            "node1": 17023,
+            "node2": 10862,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104941948,
+            "node1": 17023,
+            "node2": 17206,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 2442980,
+            "node1": 17023,
+            "node2": 17559,
+            "type": 28,
+            "w": 83.0
+        },
+        {
+            "id": 104941522,
+            "node1": 17023,
+            "node2": 18280,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11339767,
+            "node1": 17023,
+            "node2": 20164,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 92604123,
+            "node1": 17023,
+            "node2": 24474,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 11312459,
+            "node1": 17023,
+            "node2": 25635,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 2442984,
+            "node1": 17023,
+            "node2": 31424,
+            "type": 28,
+            "w": 74.0
+        },
+        {
+            "id": 11317717,
+            "node1": 17023,
+            "node2": 32851,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11315813,
+            "node1": 17023,
+            "node2": 35954,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11311490,
+            "node1": 17023,
+            "node2": 36294,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11327562,
+            "node1": 17023,
+            "node2": 38599,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11338070,
+            "node1": 17023,
+            "node2": 39101,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 470983464,
+            "node1": 17023,
+            "node2": 45393,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11326773,
+            "node1": 17023,
+            "node2": 45661,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104939987,
+            "node1": 17023,
+            "node2": 48500,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11338398,
+            "node1": 17023,
+            "node2": 51048,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 13559314,
+            "node1": 17023,
+            "node2": 55488,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11327636,
+            "node1": 17023,
+            "node2": 63235,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11335913,
+            "node1": 17023,
+            "node2": 66970,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11347410,
+            "node1": 17023,
+            "node2": 69280,
+            "type": 28,
+            "w": 78.0
+        },
+        {
+            "id": 11346548,
+            "node1": 17023,
+            "node2": 71115,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11339515,
+            "node1": 17023,
+            "node2": 71539,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11326562,
+            "node1": 17023,
+            "node2": 72025,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104941658,
+            "node1": 17023,
+            "node2": 73893,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104941764,
+            "node1": 17023,
+            "node2": 74657,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 375976543,
+            "node1": 17023,
+            "node2": 74860,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 92608126,
+            "node1": 17023,
+            "node2": 77586,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 11327299,
+            "node1": 17023,
+            "node2": 81288,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104938045,
+            "node1": 17023,
+            "node2": 82003,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11344984,
+            "node1": 17023,
+            "node2": 82231,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104946673,
+            "node1": 17023,
+            "node2": 84965,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 11340938,
+            "node1": 17023,
+            "node2": 86756,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 964965929,
+            "node1": 17023,
+            "node2": 88746,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 104941739,
+            "node1": 17023,
+            "node2": 91153,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 209873498,
+            "node1": 17023,
+            "node2": 93941,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 470994100,
+            "node1": 17023,
+            "node2": 94608,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11328042,
+            "node1": 17023,
+            "node2": 95145,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104941831,
+            "node1": 17023,
+            "node2": 95857,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 11316188,
+            "node1": 17023,
+            "node2": 98919,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11328573,
+            "node1": 17023,
+            "node2": 99719,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 964965306,
+            "node1": 17023,
+            "node2": 101001,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 11346950,
+            "node1": 17023,
+            "node2": 113583,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104941227,
+            "node1": 17023,
+            "node2": 116032,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 77943397,
+            "node1": 17023,
+            "node2": 117242,
+            "type": 28,
+            "w": 24.0
+        },
+        {
+            "id": 11345659,
+            "node1": 17023,
+            "node2": 117359,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11315902,
+            "node1": 17023,
+            "node2": 120733,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313518,
+            "node1": 17023,
+            "node2": 120840,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 13098972,
+            "node1": 17023,
+            "node2": 120952,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 11313847,
+            "node1": 17023,
+            "node2": 127000,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 13673578,
+            "node1": 17023,
+            "node2": 128913,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11314240,
+            "node1": 17023,
+            "node2": 133285,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 15948060,
+            "node1": 17023,
+            "node2": 136285,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 104941046,
+            "node1": 17023,
+            "node2": 137333,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 2442982,
+            "node1": 17023,
+            "node2": 140176,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 104940565,
+            "node1": 17023,
+            "node2": 142832,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11316971,
+            "node1": 17023,
+            "node2": 143156,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 13674032,
+            "node1": 17023,
+            "node2": 143277,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 11317653,
+            "node1": 17023,
+            "node2": 143334,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11332808,
+            "node1": 17023,
+            "node2": 143626,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11336568,
+            "node1": 17023,
+            "node2": 145816,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 766154146,
+            "node1": 17023,
+            "node2": 146273,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11326775,
+            "node1": 17023,
+            "node2": 151558,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 470964657,
+            "node1": 17023,
+            "node2": 152657,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11316228,
+            "node1": 17023,
+            "node2": 152707,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 12327934,
+            "node1": 17023,
+            "node2": 152870,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 11332802,
+            "node1": 17023,
+            "node2": 152973,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 25720392,
+            "node1": 17023,
+            "node2": 153078,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11335226,
+            "node1": 17023,
+            "node2": 154571,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 23089464,
+            "node1": 17023,
+            "node2": 164364,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 15999919,
+            "node1": 17023,
+            "node2": 164697,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 13673776,
+            "node1": 17023,
+            "node2": 168169,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 11313753,
+            "node1": 17023,
+            "node2": 168176,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104935956,
+            "node1": 17023,
+            "node2": 175275,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11313817,
+            "node1": 17023,
+            "node2": 175430,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11315666,
+            "node1": 17023,
+            "node2": 175587,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 253512634,
+            "node1": 17023,
+            "node2": 175720,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 11333413,
+            "node1": 17023,
+            "node2": 179717,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11313457,
+            "node1": 17023,
+            "node2": 191410,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11314393,
+            "node1": 17023,
+            "node2": 191458,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313439,
+            "node1": 17023,
+            "node2": 191490,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313387,
+            "node1": 17023,
+            "node2": 192041,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313688,
+            "node1": 17023,
+            "node2": 192063,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313682,
+            "node1": 17023,
+            "node2": 192192,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313680,
+            "node1": 17023,
+            "node2": 192425,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313625,
+            "node1": 17023,
+            "node2": 192800,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313626,
+            "node1": 17023,
+            "node2": 192885,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11315708,
+            "node1": 17023,
+            "node2": 193108,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11328599,
+            "node1": 17023,
+            "node2": 213377,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11327311,
+            "node1": 17023,
+            "node2": 213675,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11338270,
+            "node1": 17023,
+            "node2": 213809,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 959820075,
+            "node1": 17023,
+            "node2": 213948,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 15089981,
+            "node1": 17023,
+            "node2": 214059,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11328731,
+            "node1": 17023,
+            "node2": 215024,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11328845,
+            "node1": 17023,
+            "node2": 215888,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11325996,
+            "node1": 17023,
+            "node2": 220183,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 2442983,
+            "node1": 17023,
+            "node2": 220337,
+            "type": 28,
+            "w": 84.0
+        },
+        {
+            "id": 16000263,
+            "node1": 17023,
+            "node2": 220342,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 72782787,
+            "node1": 17023,
+            "node2": 229001,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470968396,
+            "node1": 17023,
+            "node2": 232580,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 2442981,
+            "node1": 17023,
+            "node2": 233133,
+            "type": 28,
+            "w": 84.0
+        },
+        {
+            "id": 11328868,
+            "node1": 17023,
+            "node2": 233355,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11328562,
+            "node1": 17023,
+            "node2": 235982,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11316174,
+            "node1": 17023,
+            "node2": 244011,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11329552,
+            "node1": 17023,
+            "node2": 246209,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11315584,
+            "node1": 17023,
+            "node2": 246214,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11328031,
+            "node1": 17023,
+            "node2": 247024,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11314471,
+            "node1": 17023,
+            "node2": 252351,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11315794,
+            "node1": 17023,
+            "node2": 261486,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11326617,
+            "node1": 17023,
+            "node2": 262080,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 213913476,
+            "node1": 17023,
+            "node2": 264176,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 11312023,
+            "node1": 17023,
+            "node2": 264846,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 585212094,
+            "node1": 17023,
+            "node2": 265830,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 518738362,
+            "node1": 17023,
+            "node2": 266724,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 289263273,
+            "node1": 17023,
+            "node2": 273434,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11314475,
+            "node1": 17023,
+            "node2": 273460,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 92615196,
+            "node1": 17023,
+            "node2": 273984,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 515234310,
+            "node1": 17023,
+            "node2": 274487,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 92614961,
+            "node1": 17023,
+            "node2": 279382,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 13673941,
+            "node1": 17023,
+            "node2": 331030,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 13559321,
+            "node1": 17023,
+            "node2": 331034,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 776473213,
+            "node1": 17023,
+            "node2": 335410,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 721180917,
+            "node1": 17023,
+            "node2": 570989,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 605758949,
+            "node1": 17023,
+            "node2": 593630,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 605759085,
+            "node1": 17023,
+            "node2": 600114,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 473027692,
+            "node1": 17023,
+            "node2": 684200,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 473027695,
+            "node1": 17023,
+            "node2": 684201,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 594577578,
+            "node1": 17023,
+            "node2": 1632794,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 61884268,
+            "node1": 17023,
+            "node2": 2674389,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 92616101,
+            "node1": 17023,
+            "node2": 3160293,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92618378,
+            "node1": 17023,
+            "node2": 3162181,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 92608118,
+            "node1": 17023,
+            "node2": 3374075,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 880076446,
+            "node1": 17023,
+            "node2": 6428637,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 289144044,
+            "node1": 17023,
+            "node2": 6737046,
+            "type": 28,
+            "w": 45.0
+        },
+        {
+            "id": 470968346,
+            "node1": 17023,
+            "node2": 6947388,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470968601,
+            "node1": 17023,
+            "node2": 6947719,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 308218691,
+            "node1": 17023,
+            "node2": 6948151,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 308224416,
+            "node1": 17023,
+            "node2": 6948258,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 289284292,
+            "node1": 17023,
+            "node2": 6948521,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 488732380,
+            "node1": 17023,
+            "node2": 7059178,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 470963675,
+            "node1": 17023,
+            "node2": 8521149,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 485364309,
+            "node1": 17023,
+            "node2": 9183529,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375733362,
+            "node1": 17023,
+            "node2": 13400872,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515234871,
+            "node1": 17023,
+            "node2": 13740102,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 738369956,
+            "node1": 17023,
+            "node2": 13756375,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 721180918,
+            "node1": 17023,
+            "node2": 14075815,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721180909,
+            "node1": 17023,
+            "node2": 14075829,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721180906,
+            "node1": 17023,
+            "node2": 14075830,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721180912,
+            "node1": 17023,
+            "node2": 14075831,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470972890,
+            "node1": 17023,
+            "node2": 14919905,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 578607294,
+            "node1": 17023,
+            "node2": 14939277,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 617034865,
+            "node1": 17023,
+            "node2": 14940879,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 824739501,
+            "node1": 17023,
+            "node2": 14941174,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 738364957,
+            "node1": 17023,
+            "node2": 14946469,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 880076426,
+            "node1": 17023,
+            "node2": 15080524,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 515238676,
+            "node1": 17023,
+            "node2": 15080526,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 738373794,
+            "node1": 17023,
+            "node2": 15107136,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 515235535,
+            "node1": 17023,
+            "node2": 15192364,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 534652914,
+            "node1": 17023,
+            "node2": 15205454,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 510784582,
+            "node1": 17023,
+            "node2": 15205455,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 1054571253,
+            "node1": 17023,
+            "node2": 15205477,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 470969106,
+            "node1": 17023,
+            "node2": 15208206,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470958797,
+            "node1": 17023,
+            "node2": 15212761,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 470958798,
+            "node1": 17023,
+            "node2": 15212762,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 515238684,
+            "node1": 17023,
+            "node2": 15291594,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1054575951,
+            "node1": 17023,
+            "node2": 15317204,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 515242782,
+            "node1": 17023,
+            "node2": 15363241,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 470968349,
+            "node1": 17023,
+            "node2": 15413414,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 470972412,
+            "node1": 17023,
+            "node2": 15413415,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470972339,
+            "node1": 17023,
+            "node2": 15413416,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 470972355,
+            "node1": 17023,
+            "node2": 15413417,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470972375,
+            "node1": 17023,
+            "node2": 15413418,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470972386,
+            "node1": 17023,
+            "node2": 15413419,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470972404,
+            "node1": 17023,
+            "node2": 15413420,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470971253,
+            "node1": 17023,
+            "node2": 15413421,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470971269,
+            "node1": 17023,
+            "node2": 15413422,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470968478,
+            "node1": 17023,
+            "node2": 15413427,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 515252488,
+            "node1": 17023,
+            "node2": 15515258,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 515256810,
+            "node1": 17023,
+            "node2": 16297318,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470959277,
+            "node1": 17023,
+            "node2": 16437710,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 880076437,
+            "node1": 17023,
+            "node2": 50644663,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 1127465999,
+            "node1": 17023,
+            "node2": 92497007,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 534652442,
+            "node1": 17023,
+            "node2": 106048059,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 534652434,
+            "node1": 17023,
+            "node2": 106048063,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 534788416,
+            "node1": 17023,
+            "node2": 108531734,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 738372716,
+            "node1": 17023,
+            "node2": 116082609,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 738372679,
+            "node1": 17023,
+            "node2": 120085589,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 1066401091,
+            "node1": 17023,
+            "node2": 121223732,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 738371667,
+            "node1": 17023,
+            "node2": 156499666,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 738371968,
+            "node1": 17023,
+            "node2": 156524492,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 1066400530,
+            "node1": 17023,
+            "node2": 160548176,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 926896502,
+            "node1": 17023,
+            "node2": 250804079,
+            "type": 28,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:25.745224",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cage",
+        "#relations": 197,
+        "max_relation_weight": 84.0,
+        "#nodes": 198,
+        "duration": "0:00:00.018696"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 13061,
+            "name": "pèlerinage",
+            "type": 1,
+            "w": 1209
+        },
+        {
+            "id": 153704177,
+            "name": "événements culturels",
+            "type": 1,
+            "w": 412
+        },
+        {
+            "id": 2180,
+            "name": "cathédrale",
+            "type": 1,
+            "w": 3351
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152601839,
+            "node1": 2180,
+            "node2": 13061,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1152601852,
+            "node1": 2180,
+            "node2": 153704177,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:41.281175",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cathédrale",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005107"
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 157531,
+            "name": "salariés",
+            "type": 1,
+            "w": 3623
+        },
+        {
+            "id": 399837,
+            "name": "tâches",
+            "type": 1,
+            "w": 3203
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12246
+        },
+        {
+            "id": 83944,
+            "name": "nerf",
+            "type": 1,
+            "w": 970
+        },
+        {
+            "id": 14563,
+            "name": "mission",
+            "type": 1,
+            "w": 9126
+        },
+        {
+            "id": 94978,
+            "name": "ordinateur",
+            "type": 1,
+            "w": 9680
+        },
+        {
+            "id": 121319,
+            "name": "horaire",
+            "type": 1,
+            "w": 543
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 103311,
+            "name": "système nerveux",
+            "type": 1,
+            "w": 1058
+        },
+        {
+            "id": 326146,
+            "name": "système nerveux en position dorsale",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 70283,
+            "name": "travail",
+            "type": 1,
+            "w": 25894
+        },
+        {
+            "id": 22204,
+            "name": "responsabilité",
+            "type": 1,
+            "w": 40792
+        },
+        {
+            "id": 11008328,
+            "name": "ADN>30051",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 142564,
+            "name": "tâche",
+            "type": 1,
+            "w": 5713
+        },
+        {
+            "id": 144102,
+            "name": "téléphone",
+            "type": 1,
+            "w": 6262
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156515839,
+            "node1": 70283,
+            "node2": 14563,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1150129819,
+            "node1": 70283,
+            "node2": 22204,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1150613727,
+            "node1": 70283,
+            "node2": 30843,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 1180504809,
+            "node1": 70283,
+            "node2": 83944,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1150613841,
+            "node1": 70283,
+            "node2": 94978,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 1179769489,
+            "node1": 70283,
+            "node2": 103311,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1156516228,
+            "node1": 70283,
+            "node2": 121319,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1146678174,
+            "node1": 70283,
+            "node2": 139779,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 172096,
+            "node1": 70283,
+            "node2": 142564,
+            "type": 9,
+            "w": 109.0
+        },
+        {
+            "id": 1150613842,
+            "node1": 70283,
+            "node2": 144102,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 1008159314,
+            "node1": 70283,
+            "node2": 157531,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1179422851,
+            "node1": 70283,
+            "node2": 326146,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1008159315,
+            "node1": 70283,
+            "node2": 399837,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1179803106,
+            "node1": 70283,
+            "node2": 11008328,
+            "type": 9,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:25.596178",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "travail",
+        "#relations": 14,
+        "max_relation_weight": 109.0,
+        "#nodes": 15,
+        "duration": "0:00:00.011083"
+    }
+}

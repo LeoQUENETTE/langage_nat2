@@ -1,0 +1,495 @@
+{
+    "nodes": [
+        {
+            "id": 15256219,
+            "name": "personnel de cabine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32171014,
+            "name": "en:man at the helm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 93616,
+            "name": "Concorde",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 10840307,
+            "name": "Personnel Navigant Commercial",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 151685,
+            "name": "passagers",
+            "type": 1,
+            "w": 3516
+        },
+        {
+            "id": 262097,
+            "name": "stewardesse",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 126093,
+            "name": "hôtesse",
+            "type": 1,
+            "w": 280
+        },
+        {
+            "id": 143042,
+            "name": "pilote",
+            "type": 1,
+            "w": 4350
+        },
+        {
+            "id": 82003,
+            "name": "voyageur",
+            "type": 1,
+            "w": 1331
+        },
+        {
+            "id": 252784883,
+            "name": "Personnel navigant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146511,
+            "name": "steward",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 1649893,
+            "name": "pilote>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 217000,
+            "name": "passager>13712",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 14930152,
+            "name": "en:copilot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 64659,
+            "name": "cockpit",
+            "type": 1,
+            "w": 189
+        },
+        {
+            "id": 133867,
+            "name": "bagage",
+            "type": 1,
+            "w": 748
+        },
+        {
+            "id": 4267,
+            "name": "passager",
+            "type": 1,
+            "w": 1732
+        },
+        {
+            "id": 15256220,
+            "name": "membre de l'équipage",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 14930151,
+            "name": "en:codriver",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7335125,
+            "name": "en:flight attendant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 40184,
+            "name": "siège",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 55468,
+            "name": "équipage",
+            "type": 1,
+            "w": 657
+        },
+        {
+            "id": 14942395,
+            "name": "en:air hostess",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 21237,
+            "name": "copilote",
+            "type": 1,
+            "w": 173
+        },
+        {
+            "id": 8916161,
+            "name": "Personnel navigant commercial",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 159891,
+            "name": "hôtesse de l'air",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 169661,
+            "name": "commandant de bord",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 54763,
+            "name": "commandant",
+            "type": 1,
+            "w": 3170
+        },
+        {
+            "id": 2480483,
+            "name": "stewardess",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 252738,
+            "name": "personnel navigant",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 15390869,
+            "name": "en:cabin crew",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15688662,
+            "name": "en:the ship's master",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15688661,
+            "name": "le commandant de bord",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17583749,
+            "name": "Le commandant de bord",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 305176,
+            "name": "personnel navigant commercial",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 684614,
+            "name": "passager>171869",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 2458565,
+            "node1": 93616,
+            "node2": 4267,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458566,
+            "node1": 93616,
+            "node2": 21237,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458567,
+            "node1": 93616,
+            "node2": 40184,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458568,
+            "node1": 93616,
+            "node2": 54763,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458569,
+            "node1": 93616,
+            "node2": 55468,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 97347483,
+            "node1": 93616,
+            "node2": 64659,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 2458570,
+            "node1": 93616,
+            "node2": 82003,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458576,
+            "node1": 93616,
+            "node2": 126093,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458575,
+            "node1": 93616,
+            "node2": 133867,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458574,
+            "node1": 93616,
+            "node2": 143042,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458573,
+            "node1": 93616,
+            "node2": 146511,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458572,
+            "node1": 93616,
+            "node2": 151685,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2458571,
+            "node1": 93616,
+            "node2": 159891,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 78377132,
+            "node1": 93616,
+            "node2": 169661,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 355805978,
+            "node1": 93616,
+            "node2": 217000,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 78377105,
+            "node1": 93616,
+            "node2": 252738,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 738360107,
+            "node1": 93616,
+            "node2": 262097,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 78377018,
+            "node1": 93616,
+            "node2": 305176,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 486496457,
+            "node1": 93616,
+            "node2": 684614,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 605756148,
+            "node1": 93616,
+            "node2": 1649893,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 738360177,
+            "node1": 93616,
+            "node2": 2480483,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 540792867,
+            "node1": 93616,
+            "node2": 7335125,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 253505789,
+            "node1": 93616,
+            "node2": 8916161,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 375718033,
+            "node1": 93616,
+            "node2": 10840307,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 738367764,
+            "node1": 93616,
+            "node2": 14930151,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 824743890,
+            "node1": 93616,
+            "node2": 14930152,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 738360045,
+            "node1": 93616,
+            "node2": 14942395,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 1054563993,
+            "node1": 93616,
+            "node2": 15256219,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054564060,
+            "node1": 93616,
+            "node2": 15256220,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054566418,
+            "node1": 93616,
+            "node2": 15390869,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 485365138,
+            "node1": 93616,
+            "node2": 15688661,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 484022523,
+            "node1": 93616,
+            "node2": 15688662,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 486662816,
+            "node1": 93616,
+            "node2": 17583749,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 880074410,
+            "node1": 93616,
+            "node2": 32171014,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 1124414340,
+            "node1": 93616,
+            "node2": 252784883,
+            "type": 28,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:50.090564",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Concorde",
+        "#relations": 35,
+        "max_relation_weight": 54.0,
+        "#nodes": 36,
+        "duration": "0:00:00.011221"
+    }
+}

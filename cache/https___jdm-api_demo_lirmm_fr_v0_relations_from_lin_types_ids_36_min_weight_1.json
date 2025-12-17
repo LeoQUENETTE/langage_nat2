@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 269965,
+            "name": "_INFO-SEM-COLOR-RELATED",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317322,
+            "name": "_POLIT_1ECO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 1912988,
+            "name": "_INFO-COUNTABLE-NO",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 143379,
+            "name": "lin",
+            "type": 1,
+            "w": 711
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 163151,
+            "name": "_INFO-SEM-SUBST",
+            "type": 36,
+            "w": 286
+        }
+    ],
+    "relations": [
+        {
+            "id": 454906,
+            "node1": 143379,
+            "node2": 163151,
+            "type": 36,
+            "w": 57.0
+        },
+        {
+            "id": 2890051,
+            "node1": 143379,
+            "node2": 191669,
+            "type": 36,
+            "w": 44.0
+        },
+        {
+            "id": 739808,
+            "node1": 143379,
+            "node2": 191741,
+            "type": 36,
+            "w": 41.0
+        },
+        {
+            "id": 1646687,
+            "node1": 143379,
+            "node2": 217817,
+            "type": 36,
+            "w": 42.0
+        },
+        {
+            "id": 9129864,
+            "node1": 143379,
+            "node2": 223173,
+            "type": 36,
+            "w": 344.0
+        },
+        {
+            "id": 9217839,
+            "node1": 143379,
+            "node2": 241794,
+            "type": 36,
+            "w": 203.0
+        },
+        {
+            "id": 314663273,
+            "node1": 143379,
+            "node2": 248198,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 9152790,
+            "node1": 143379,
+            "node2": 254876,
+            "type": 36,
+            "w": 63.0
+        },
+        {
+            "id": 9234258,
+            "node1": 143379,
+            "node2": 254877,
+            "type": 36,
+            "w": 37.0
+        },
+        {
+            "id": 3167808,
+            "node1": 143379,
+            "node2": 269965,
+            "type": 36,
+            "w": 41.0
+        },
+        {
+            "id": 1159187192,
+            "node1": 143379,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 97123069,
+            "node1": 143379,
+            "node2": 317322,
+            "type": 36,
+            "w": 10.0
+        },
+        {
+            "id": 8922540,
+            "node1": 143379,
+            "node2": 317329,
+            "type": 36,
+            "w": 17.0
+        },
+        {
+            "id": 18761505,
+            "node1": 143379,
+            "node2": 438949,
+            "type": 36,
+            "w": 37.0
+        },
+        {
+            "id": 30792427,
+            "node1": 143379,
+            "node2": 1912988,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 55208964,
+            "node1": 143379,
+            "node2": 2585996,
+            "type": 36,
+            "w": 52.0
+        },
+        {
+            "id": 417783692,
+            "node1": 143379,
+            "node2": 15991432,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 499947163,
+            "node1": 143379,
+            "node2": 50233540,
+            "type": 36,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:09.551429",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lin",
+        "#relations": 18,
+        "max_relation_weight": 344.0,
+        "#nodes": 19,
+        "duration": "0:00:00.007965"
+    }
+}

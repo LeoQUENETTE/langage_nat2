@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 57258,
+            "name": "pollen",
+            "type": 1,
+            "w": 690
+        },
+        {
+            "id": 28985,
+            "name": "fleur",
+            "type": 1,
+            "w": 9477
+        },
+        {
+            "id": 151925,
+            "name": "pétales",
+            "type": 1,
+            "w": 945
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046569730,
+            "node1": 28985,
+            "node2": 57258,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1029695396,
+            "node1": 28985,
+            "node2": 151925,
+            "type": 121,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:26.876154",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleur",
+        "#relations": 2,
+        "max_relation_weight": 33.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004931"
+    }
+}

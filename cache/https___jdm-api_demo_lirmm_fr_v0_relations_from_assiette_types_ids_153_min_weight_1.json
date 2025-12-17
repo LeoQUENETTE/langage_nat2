@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 27982,
+            "name": "profondeur",
+            "type": 1,
+            "w": 4081
+        },
+        {
+            "id": 62735,
+            "name": "assiette",
+            "type": 1,
+            "w": 2363
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137837,
+            "node1": 62735,
+            "node2": 27982,
+            "type": 153,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:14.691498",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "assiette",
+        "#relations": 1,
+        "max_relation_weight": 37.0,
+        "#nodes": 2,
+        "duration": "0:00:00.006446"
+    }
+}

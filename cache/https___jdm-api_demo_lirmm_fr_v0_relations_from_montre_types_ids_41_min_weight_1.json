@@ -1,0 +1,352 @@
+{
+    "nodes": [
+        {
+            "id": 15428676,
+            "name": "en:keep good time",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36666132,
+            "name": "être dans les temps",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 45049,
+            "name": "montre",
+            "type": 1,
+            "w": 5426
+        },
+        {
+            "id": 21933,
+            "name": "seconde",
+            "type": 1,
+            "w": 6837
+        },
+        {
+            "id": 199920,
+            "name": "être dans le vrai",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 121319,
+            "name": "horaire",
+            "type": 1,
+            "w": 543
+        },
+        {
+            "id": 53145,
+            "name": "aiguille",
+            "type": 1,
+            "w": 1409
+        },
+        {
+            "id": 97587,
+            "name": "heure",
+            "type": 1,
+            "w": 32753
+        },
+        {
+            "id": 15210060,
+            "name": "en:beat time",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428675,
+            "name": "en:keep time",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36666133,
+            "name": "en:be on schedule",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15210061,
+            "name": "en:beat out the rhythm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 31491,
+            "name": "minute",
+            "type": 1,
+            "w": 5187
+        },
+        {
+            "id": 186039,
+            "name": "être à l'heure",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 60726,
+            "name": "battre la mesure",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 238823,
+            "name": "donner l'heure",
+            "type": 1,
+            "w": 9
+        },
+        {
+            "id": 684681,
+            "name": "seconde>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15226662,
+            "name": "en:be right",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15340883,
+            "name": "en:be on time",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15340879,
+            "name": "en:to be right",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15340880,
+            "name": "en:to be on time",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428673,
+            "name": "en:be punctual",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428674,
+            "name": "en:tell the right time",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 88989,
+            "name": "cadran",
+            "type": 1,
+            "w": 294
+        },
+        {
+            "id": 14529936,
+            "name": "dire vrai",
+            "type": 1,
+            "w": 58
+        }
+    ],
+    "relations": [
+        {
+            "id": 2169419,
+            "node1": 45049,
+            "node2": 21933,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 2142149,
+            "node1": 45049,
+            "node2": 31491,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 2142150,
+            "node1": 45049,
+            "node2": 53145,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 411507617,
+            "node1": 45049,
+            "node2": 60726,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 11286527,
+            "node1": 45049,
+            "node2": 88989,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 2142148,
+            "node1": 45049,
+            "node2": 97587,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 2142151,
+            "node1": 45049,
+            "node2": 121319,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 2322189,
+            "node1": 45049,
+            "node2": 186039,
+            "type": 41,
+            "w": 63.0
+        },
+        {
+            "id": 929741489,
+            "node1": 45049,
+            "node2": 199920,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 2322190,
+            "node1": 45049,
+            "node2": 238823,
+            "type": 41,
+            "w": 61.0
+        },
+        {
+            "id": 667252881,
+            "node1": 45049,
+            "node2": 684681,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 929747720,
+            "node1": 45049,
+            "node2": 14529936,
+            "type": 41,
+            "w": 20.0
+        },
+        {
+            "id": 414617764,
+            "node1": 45049,
+            "node2": 15210060,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 414736200,
+            "node1": 45049,
+            "node2": 15210061,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 411503706,
+            "node1": 45049,
+            "node2": 15226662,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 1079392476,
+            "node1": 45049,
+            "node2": 15340879,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079392480,
+            "node1": 45049,
+            "node2": 15340880,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 411503711,
+            "node1": 45049,
+            "node2": 15340883,
+            "type": 41,
+            "w": 39.0
+        },
+        {
+            "id": 411503708,
+            "node1": 45049,
+            "node2": 15428673,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 411503704,
+            "node1": 45049,
+            "node2": 15428674,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 411503700,
+            "node1": 45049,
+            "node2": 15428675,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 411503702,
+            "node1": 45049,
+            "node2": 15428676,
+            "type": 41,
+            "w": 39.0
+        },
+        {
+            "id": 667259059,
+            "node1": 45049,
+            "node2": 36666132,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 973314553,
+            "node1": 45049,
+            "node2": 36666133,
+            "type": 41,
+            "w": 15.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:28.663936",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "montre",
+        "#relations": 24,
+        "max_relation_weight": 70.0,
+        "#nodes": 25,
+        "duration": "0:00:00.011863"
+    }
+}

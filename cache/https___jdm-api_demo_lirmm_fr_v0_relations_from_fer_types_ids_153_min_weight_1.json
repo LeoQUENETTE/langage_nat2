@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 34881,
+            "name": "magnétisme",
+            "type": 1,
+            "w": 237
+        },
+        {
+            "id": 124092,
+            "name": "fer",
+            "type": 1,
+            "w": 6704
+        }
+    ],
+    "relations": [
+        {
+            "id": 765217951,
+            "node1": 124092,
+            "node2": 34881,
+            "type": 153,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:03.595146",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fer",
+        "#relations": 1,
+        "max_relation_weight": 31.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004184"
+    }
+}

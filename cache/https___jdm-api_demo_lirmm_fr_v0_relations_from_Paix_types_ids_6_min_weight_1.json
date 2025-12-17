@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 137405,
+            "name": "Paix",
+            "type": 1,
+            "w": 2301
+        },
+        {
+            "id": 1690810,
+            "name": "album studio",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 302902,
+            "name": "oeuvre musicale",
+            "type": 777,
+            "w": 74
+        },
+        {
+            "id": 32650,
+            "name": "concept",
+            "type": 1,
+            "w": 11201
+        },
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5530
+        },
+        {
+            "id": 146785,
+            "name": "nom de famille",
+            "type": 1,
+            "w": 267
+        },
+        {
+            "id": 91480850,
+            "name": "Album>70527",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228615,
+            "name": "album>70527",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 3612900,
+            "name": "album musical",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 137183,
+            "name": "état",
+            "type": 1,
+            "w": 16937
+        },
+        {
+            "id": 7994473,
+            "name": "en:last name",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951102,
+            "name": "en:family name",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 353025905,
+            "node1": 137405,
+            "node2": 32650,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 327951702,
+            "node1": 137405,
+            "node2": 113672,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 1132097089,
+            "node1": 137405,
+            "node2": 137183,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 556980619,
+            "node1": 137405,
+            "node2": 146785,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 280832476,
+            "node1": 137405,
+            "node2": 228615,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 280832477,
+            "node1": 137405,
+            "node2": 302902,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 280867874,
+            "node1": 137405,
+            "node2": 1690810,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 280832474,
+            "node1": 137405,
+            "node2": 3612900,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 568149122,
+            "node1": 137405,
+            "node2": 7994473,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 568149120,
+            "node1": 137405,
+            "node2": 14951102,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 769343969,
+            "node1": 137405,
+            "node2": 91480850,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:42.608837",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Paix",
+        "#relations": 11,
+        "max_relation_weight": 43.0,
+        "#nodes": 12,
+        "duration": "0:00:00.013297"
+    }
+}

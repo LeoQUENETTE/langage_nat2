@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 402624,
+            "name": "Trône",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 1690810,
+            "name": "album studio",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 302902,
+            "name": "oeuvre musicale",
+            "type": 777,
+            "w": 74
+        },
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5530
+        },
+        {
+            "id": 91480850,
+            "name": "Album>70527",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228615,
+            "name": "album>70527",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 3612900,
+            "name": "album musical",
+            "type": 1,
+            "w": 34
+        }
+    ],
+    "relations": [
+        {
+            "id": 915605813,
+            "node1": 402624,
+            "node2": 113672,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 292552209,
+            "node1": 402624,
+            "node2": 228615,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 292552210,
+            "node1": 402624,
+            "node2": 302902,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 292624643,
+            "node1": 402624,
+            "node2": 1690810,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 292552208,
+            "node1": 402624,
+            "node2": 3612900,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 765898095,
+            "node1": 402624,
+            "node2": 91480850,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:33.496467",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Trône",
+        "#relations": 6,
+        "max_relation_weight": 34.0,
+        "#nodes": 7,
+        "duration": "0:00:00.008238"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5520
+        },
+        {
+            "id": 39577,
+            "name": "impression",
+            "type": 1,
+            "w": 3873
+        },
+        {
+            "id": 52442,
+            "name": "photo",
+            "type": 1,
+            "w": 4916
+        },
+        {
+            "id": 47306,
+            "name": "tirage",
+            "type": 1,
+            "w": 1845
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158175525,
+            "node1": 52442,
+            "node2": 39577,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1158175560,
+            "node1": 52442,
+            "node2": 47306,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1158175544,
+            "node1": 52442,
+            "node2": 113672,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:17.351165",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "photo",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004426"
+    }
+}

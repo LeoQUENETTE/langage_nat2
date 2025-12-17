@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 250896,
+            "name": "laine mélangée",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 213555,
+            "name": "tuile>34148",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 49928,
+            "name": "couverture",
+            "type": 1,
+            "w": 3279
+        },
+        {
+            "id": 141161,
+            "name": "tuile",
+            "type": 1,
+            "w": 381
+        }
+    ],
+    "relations": [
+        {
+            "id": 765134641,
+            "node1": 49928,
+            "node2": 141161,
+            "type": 80,
+            "w": 26.0
+        },
+        {
+            "id": 765134642,
+            "node1": 49928,
+            "node2": 213555,
+            "type": 80,
+            "w": 26.0
+        },
+        {
+            "id": 765133786,
+            "node1": 49928,
+            "node2": 250896,
+            "type": 80,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:51.549398",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couverture",
+        "#relations": 3,
+        "max_relation_weight": 26.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003796"
+    }
+}

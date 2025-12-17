@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 170114,
+            "name": "acte de langage",
+            "type": 1,
+            "w": 181
+        },
+        {
+            "id": 45247,
+            "name": "voeu",
+            "type": 1,
+            "w": 396
+        },
+        {
+            "id": 235030626,
+            "name": "acte de",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 52250,
+            "name": "acte",
+            "type": 1,
+            "w": 6534
+        },
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 34213
+        },
+        {
+            "id": 30730,
+            "name": "demande",
+            "type": 1,
+            "w": 13596
+        },
+        {
+            "id": 34933,
+            "name": "moyen",
+            "type": 1,
+            "w": 10824
+        },
+        {
+            "id": 34676060,
+            "name": "moyen mis en oeuvre",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 63018,
+            "name": "prière",
+            "type": 1,
+            "w": 4102
+        }
+    ],
+    "relations": [
+        {
+            "id": 77161739,
+            "node1": 63018,
+            "node2": 30730,
+            "type": 6,
+            "w": 65.0
+        },
+        {
+            "id": 1158709711,
+            "node1": 63018,
+            "node2": 34933,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1021822587,
+            "node1": 63018,
+            "node2": 45247,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 236514993,
+            "node1": 63018,
+            "node2": 52250,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 696702031,
+            "node1": 63018,
+            "node2": 116477,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 376269643,
+            "node1": 63018,
+            "node2": 170114,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1158709710,
+            "node1": 63018,
+            "node2": 34676060,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 1158709718,
+            "node1": 63018,
+            "node2": 235030626,
+            "type": 6,
+            "w": 43.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:45.165056",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "prière",
+        "#relations": 8,
+        "max_relation_weight": 65.0,
+        "#nodes": 9,
+        "duration": "0:00:00.014182"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 116162,
+            "name": "valise",
+            "type": 1,
+            "w": 793
+        },
+        {
+            "id": 13541951,
+            "name": "volume intérieur",
+            "type": 1,
+            "w": 26
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137870,
+            "node1": 116162,
+            "node2": 13541951,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:42.720893",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "valise",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004893"
+    }
+}

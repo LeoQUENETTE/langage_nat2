@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 271463,
+            "name": "émotions",
+            "type": 1,
+            "w": 5230
+        },
+        {
+            "id": 98630,
+            "name": "divertissement",
+            "type": 1,
+            "w": 3768
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12554
+        }
+    ],
+    "relations": [
+        {
+            "id": 1137196897,
+            "node1": 29592,
+            "node2": 98630,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1158223393,
+            "node1": 29592,
+            "node2": 271463,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:31.029964",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "film",
+        "#relations": 2,
+        "max_relation_weight": 31.0,
+        "#nodes": 3,
+        "duration": "0:00:00.021643"
+    }
+}

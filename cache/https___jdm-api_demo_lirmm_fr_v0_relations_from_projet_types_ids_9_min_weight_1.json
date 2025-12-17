@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 52971,
+            "name": "dessein",
+            "type": 1,
+            "w": 137
+        },
+        {
+            "id": 165514,
+            "name": "recommandations",
+            "type": 1,
+            "w": 1902
+        },
+        {
+            "id": 40873,
+            "name": "projet",
+            "type": 1,
+            "w": 23962
+        },
+        {
+            "id": 89926,
+            "name": "chef",
+            "type": 1,
+            "w": 9712
+        },
+        {
+            "id": 225316,
+            "name": "JDM",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 20346,
+            "name": "but",
+            "type": 1,
+            "w": 8100
+        }
+    ],
+    "relations": [
+        {
+            "id": 9974658,
+            "node1": 40873,
+            "node2": 20346,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 123629924,
+            "node1": 40873,
+            "node2": 52971,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 76698923,
+            "node1": 40873,
+            "node2": 89926,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 475910739,
+            "node1": 40873,
+            "node2": 165514,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 14714978,
+            "node1": 40873,
+            "node2": 225316,
+            "type": 9,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:35.105678",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "projet",
+        "#relations": 5,
+        "max_relation_weight": 34.0,
+        "#nodes": 6,
+        "duration": "0:00:00.006337"
+    }
+}

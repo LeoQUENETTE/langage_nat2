@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 213555,
+            "name": "tuile>34148",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 49928,
+            "name": "couverture",
+            "type": 1,
+            "w": 3279
+        },
+        {
+            "id": 144791,
+            "name": "duvet",
+            "type": 1,
+            "w": 499
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4899
+        },
+        {
+            "id": 115050,
+            "name": "polaire",
+            "type": 1,
+            "w": 785
+        },
+        {
+            "id": 66935,
+            "name": "carton",
+            "type": 1,
+            "w": 692
+        },
+        {
+            "id": 140770,
+            "name": "laine",
+            "type": 1,
+            "w": 2205
+        },
+        {
+            "id": 141161,
+            "name": "tuile",
+            "type": 1,
+            "w": 381
+        }
+    ],
+    "relations": [
+        {
+            "id": 193730,
+            "node1": 49928,
+            "node2": 66935,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 542854498,
+            "node1": 49928,
+            "node2": 98596,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 197489,
+            "node1": 49928,
+            "node2": 115050,
+            "type": 9,
+            "w": 54.0
+        },
+        {
+            "id": 181012,
+            "node1": 49928,
+            "node2": 140770,
+            "type": 9,
+            "w": 72.0
+        },
+        {
+            "id": 9973708,
+            "node1": 49928,
+            "node2": 141161,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 10529441,
+            "node1": 49928,
+            "node2": 144791,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 10532579,
+            "node1": 49928,
+            "node2": 213555,
+            "type": 9,
+            "w": 9.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:50.530290",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couverture",
+        "#relations": 7,
+        "max_relation_weight": 72.0,
+        "#nodes": 8,
+        "duration": "0:00:00.005533"
+    }
+}

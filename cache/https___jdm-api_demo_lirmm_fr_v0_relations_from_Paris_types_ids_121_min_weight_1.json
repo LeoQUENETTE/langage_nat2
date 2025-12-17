@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 118092,
+            "name": "tour Eiffel",
+            "type": 1,
+            "w": 1212
+        },
+        {
+            "id": 113317,
+            "name": "Paris",
+            "type": 1,
+            "w": 10163
+        },
+        {
+            "id": 369214,
+            "name": "patrimoine architectural",
+            "type": 1,
+            "w": 173
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150460420,
+            "node1": 113317,
+            "node2": 118092,
+            "type": 121,
+            "w": 59.0
+        },
+        {
+            "id": 1150460422,
+            "node1": 113317,
+            "node2": 369214,
+            "type": 121,
+            "w": 59.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:48.629729",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Paris",
+        "#relations": 2,
+        "max_relation_weight": 59.0,
+        "#nodes": 3,
+        "duration": "0:00:00.010410"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 86356,
+            "name": "rouge",
+            "type": 1,
+            "w": 10788
+        },
+        {
+            "id": 105041,
+            "name": "narine",
+            "type": 1,
+            "w": 607
+        },
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3469
+        },
+        {
+            "id": 107477,
+            "name": "nez",
+            "type": 1,
+            "w": 4657
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 148105,
+            "name": "ailes",
+            "type": 1,
+            "w": 3142
+        },
+        {
+            "id": 152557,
+            "name": "nez rouge",
+            "type": 1,
+            "w": 185
+        }
+    ],
+    "relations": [
+        {
+            "id": 380666,
+            "node1": 152557,
+            "node2": 40056,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 1815131,
+            "node1": 152557,
+            "node2": 85406,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 380668,
+            "node1": 152557,
+            "node2": 86356,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 380667,
+            "node1": 152557,
+            "node2": 105041,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 380669,
+            "node1": 152557,
+            "node2": 107477,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 1590204,
+            "node1": 152557,
+            "node2": 148105,
+            "type": 9,
+            "w": 55.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:40.659812",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nez rouge",
+        "#relations": 6,
+        "max_relation_weight": 60.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004252"
+    }
+}

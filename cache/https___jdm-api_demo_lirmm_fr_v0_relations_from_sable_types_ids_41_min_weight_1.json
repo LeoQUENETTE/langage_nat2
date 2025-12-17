@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6157
+        },
+        {
+            "id": 144565,
+            "name": "sable",
+            "type": 1,
+            "w": 5303
+        },
+        {
+            "id": 122393,
+            "name": "plage",
+            "type": 1,
+            "w": 5991
+        },
+        {
+            "id": 202279104,
+            "name": "érosion des côtes",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 462988993,
+            "name": "habitat pour faune",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 188956746,
+            "name": "formation de dunes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139228,
+            "name": "perle",
+            "type": 1,
+            "w": 207
+        }
+    ],
+    "relations": [
+        {
+            "id": 14658947,
+            "node1": 144565,
+            "node2": 122393,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14641192,
+            "node1": 144565,
+            "node2": 139228,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14657930,
+            "node1": 144565,
+            "node2": 144497,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1156654608,
+            "node1": 144565,
+            "node2": 188956746,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1156654594,
+            "node1": 144565,
+            "node2": 202279104,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1156654613,
+            "node1": 144565,
+            "node2": 462988993,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:56.020506",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sable",
+        "#relations": 6,
+        "max_relation_weight": 31.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004641"
+    }
+}

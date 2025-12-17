@@ -1,0 +1,287 @@
+{
+    "nodes": [
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248197,
+            "name": "_SEX_YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458629,
+            "name": "_INFO-SEM-PLACE-HUMAN",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 17023,
+            "name": "cage",
+            "type": 1,
+            "w": 1164
+        },
+        {
+            "id": 191667,
+            "name": "_INFO-SEM-THING-ARTEFACT",
+            "type": 36,
+            "w": 242
+        }
+    ],
+    "relations": [
+        {
+            "id": 667454,
+            "node1": 17023,
+            "node2": 162759,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 2151342,
+            "node1": 17023,
+            "node2": 162763,
+            "type": 36,
+            "w": 49.0
+        },
+        {
+            "id": 59532762,
+            "node1": 17023,
+            "node2": 191667,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 737927,
+            "node1": 17023,
+            "node2": 191741,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 2522174,
+            "node1": 17023,
+            "node2": 217817,
+            "type": 36,
+            "w": 65.0
+        },
+        {
+            "id": 1999828,
+            "node1": 17023,
+            "node2": 223172,
+            "type": 36,
+            "w": 397.0
+        },
+        {
+            "id": 2027845,
+            "node1": 17023,
+            "node2": 223173,
+            "type": 36,
+            "w": 154.0
+        },
+        {
+            "id": 2014157,
+            "node1": 17023,
+            "node2": 241794,
+            "type": 36,
+            "w": 1000.0
+        },
+        {
+            "id": 15947549,
+            "node1": 17023,
+            "node2": 248197,
+            "type": 36,
+            "w": 11.0
+        },
+        {
+            "id": 499605232,
+            "node1": 17023,
+            "node2": 248198,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 2322001,
+            "node1": 17023,
+            "node2": 254876,
+            "type": 36,
+            "w": 10.0
+        },
+        {
+            "id": 2322002,
+            "node1": 17023,
+            "node2": 254877,
+            "type": 36,
+            "w": 64.0
+        },
+        {
+            "id": 2322003,
+            "node1": 17023,
+            "node2": 254878,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 959214620,
+            "node1": 17023,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 9287660,
+            "node1": 17023,
+            "node2": 317329,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 384653168,
+            "node1": 17023,
+            "node2": 458629,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 55210808,
+            "node1": 17023,
+            "node2": 2585996,
+            "type": 36,
+            "w": 57.0
+        },
+        {
+            "id": 417674553,
+            "node1": 17023,
+            "node2": 15991432,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 498137351,
+            "node1": 17023,
+            "node2": 50233540,
+            "type": 36,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:24.520360",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cage",
+        "#relations": 19,
+        "max_relation_weight": 1000.0,
+        "#nodes": 20,
+        "duration": "0:00:00.009536"
+    }
+}

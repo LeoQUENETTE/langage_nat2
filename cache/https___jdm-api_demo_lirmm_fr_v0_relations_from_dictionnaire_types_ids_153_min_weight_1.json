@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 214987,
+            "name": "langue>75266",
+            "type": 1,
+            "w": 507
+        },
+        {
+            "id": 85068,
+            "name": "dictionnaire",
+            "type": 1,
+            "w": 3493
+        },
+        {
+            "id": 303257914,
+            "name": "nombre d'entrées",
+            "type": 1,
+            "w": 67
+        }
+    ],
+    "relations": [
+        {
+            "id": 423730287,
+            "node1": 85068,
+            "node2": 214987,
+            "type": 153,
+            "w": 41.0
+        },
+        {
+            "id": 1179137843,
+            "node1": 85068,
+            "node2": 303257914,
+            "type": 153,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:48.780283",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "dictionnaire",
+        "#relations": 2,
+        "max_relation_weight": 41.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003725"
+    }
+}

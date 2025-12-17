@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 28291,
+            "name": "voisin",
+            "type": 1,
+            "w": 5341
+        },
+        {
+            "id": 46631,
+            "name": "convivialité",
+            "type": 1,
+            "w": 1968
+        },
+        {
+            "id": 43106,
+            "name": "bruit",
+            "type": 1,
+            "w": 9804
+        },
+        {
+            "id": 107426,
+            "name": "conflit",
+            "type": 1,
+            "w": 16156
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143447384,
+            "node1": 28291,
+            "node2": 43106,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1156352651,
+            "node1": 28291,
+            "node2": 46631,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1156352628,
+            "node1": 28291,
+            "node2": 107426,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:58.128627",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voisin",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.043800"
+    }
+}

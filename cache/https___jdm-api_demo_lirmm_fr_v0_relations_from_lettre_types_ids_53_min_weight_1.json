@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 48857,
+            "name": "sentiments",
+            "type": 1,
+            "w": 3466
+        },
+        {
+            "id": 47201,
+            "name": "information",
+            "type": 1,
+            "w": 23842
+        },
+        {
+            "id": 145994,
+            "name": "lettre",
+            "type": 1,
+            "w": 14711
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156166142,
+            "node1": 145994,
+            "node2": 47201,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156166158,
+            "node1": 145994,
+            "node2": 48857,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:41.860414",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lettre",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004596"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 145648,
+            "name": "directeur",
+            "type": 1,
+            "w": 5239
+        },
+        {
+            "id": 16875,
+            "name": "direction",
+            "type": 1,
+            "w": 7636
+        },
+        {
+            "id": 34659,
+            "name": "gestion",
+            "type": 1,
+            "w": 10103
+        },
+        {
+            "id": 127153,
+            "name": "inspection",
+            "type": 1,
+            "w": 410
+        },
+        {
+            "id": 236413019,
+            "name": "direction d'entreprise",
+            "type": 1,
+            "w": 62
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150603815,
+            "node1": 145648,
+            "node2": 16875,
+            "type": 137,
+            "w": 75.0
+        },
+        {
+            "id": 765196479,
+            "node1": 145648,
+            "node2": 34659,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 720644636,
+            "node1": 145648,
+            "node2": 127153,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1068908984,
+            "node1": 145648,
+            "node2": 236413019,
+            "type": 137,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:41.949914",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "directeur",
+        "#relations": 4,
+        "max_relation_weight": 75.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004603"
+    }
+}

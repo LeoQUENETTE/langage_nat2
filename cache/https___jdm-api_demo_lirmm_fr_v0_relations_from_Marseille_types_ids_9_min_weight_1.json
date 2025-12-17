@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 315517,
+            "name": "Venantino Venantini",
+            "type": 777,
+            "w": 52
+        },
+        {
+            "id": 10176765,
+            "name": "Stéphane Caillard",
+            "type": 777,
+            "w": 31
+        },
+        {
+            "id": 69903,
+            "name": "Gérard Depardieu",
+            "type": 1,
+            "w": 182
+        },
+        {
+            "id": 215053,
+            "name": "rue>215052",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4767
+        },
+        {
+            "id": 189107,
+            "name": "Benoît Magimel",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 11826591,
+            "name": "Nadia Farès",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 223553,
+            "name": "Kad Merad",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 364847023,
+            "name": "Anne Charrier",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9985742,
+            "name": "Géraldine Pailhas",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 311341,
+            "name": "Kaddour Merad",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 217716,
+            "name": "Vieux-Port",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 53528,
+            "name": "Marseille",
+            "type": 1,
+            "w": 4971
+        }
+    ],
+    "relations": [
+        {
+            "id": 13055181,
+            "node1": 53528,
+            "node2": 20564,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 350712422,
+            "node1": 53528,
+            "node2": 63462,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 533917146,
+            "node1": 53528,
+            "node2": 69903,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 533917147,
+            "node1": 53528,
+            "node2": 189107,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 350642121,
+            "node1": 53528,
+            "node2": 215053,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 807509118,
+            "node1": 53528,
+            "node2": 217716,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 599613848,
+            "node1": 53528,
+            "node2": 223553,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 599613845,
+            "node1": 53528,
+            "node2": 311341,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1029988223,
+            "node1": 53528,
+            "node2": 315517,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 533917148,
+            "node1": 53528,
+            "node2": 9985742,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 533917150,
+            "node1": 53528,
+            "node2": 10176765,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 533917149,
+            "node1": 53528,
+            "node2": 11826591,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 1029879515,
+            "node1": 53528,
+            "node2": 364847023,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:26.220829",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Marseille",
+        "#relations": 13,
+        "max_relation_weight": 34.0,
+        "#nodes": 14,
+        "duration": "0:00:00.006631"
+    }
+}

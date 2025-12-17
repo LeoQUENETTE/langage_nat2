@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37804
+        },
+        {
+            "id": 110910,
+            "name": "chaleur",
+            "type": 1,
+            "w": 7728
+        },
+        {
+            "id": 123620,
+            "name": "soubrette",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 253645,
+            "name": "soubrette>95208",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 144838,
+            "name": "souvenirs",
+            "type": 1,
+            "w": 2661
+        },
+        {
+            "id": 74614,
+            "name": "intimité",
+            "type": 1,
+            "w": 894
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152058624,
+            "node1": 45179,
+            "node2": 74614,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152058608,
+            "node1": 45179,
+            "node2": 110910,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 376992600,
+            "node1": 45179,
+            "node2": 123620,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 1157924639,
+            "node1": 45179,
+            "node2": 144838,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376991200,
+            "node1": 45179,
+            "node2": 253645,
+            "type": 53,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:02.769790",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maison",
+        "#relations": 5,
+        "max_relation_weight": 31.0,
+        "#nodes": 6,
+        "duration": "0:00:00.007503"
+    }
+}

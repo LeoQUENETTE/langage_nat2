@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 53581805,
+            "name": "liste d'envies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15225085,
+            "name": "en:wish list",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 53581807,
+            "name": "ce qu'on aimerait avoir",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 53581806,
+            "name": "en:wishlist",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17551646,
+            "name": "::>49:143255>29:17551609",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 2505739,
+            "name": "rassemblement familial",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 57266,
+            "name": "champagne",
+            "type": 1,
+            "w": 978
+        },
+        {
+            "id": 143255,
+            "name": "Noël",
+            "type": 1,
+            "w": 1928
+        },
+        {
+            "id": 144647,
+            "name": "fête",
+            "type": 1,
+            "w": 7516
+        },
+        {
+            "id": 57839,
+            "name": "cadeau",
+            "type": 1,
+            "w": 3758
+        },
+        {
+            "id": 126758,
+            "name": "vacances",
+            "type": 1,
+            "w": 5362
+        },
+        {
+            "id": 388273032,
+            "name": "illuminer>388271163",
+            "type": 1,
+            "w": 1
+        },
+        {
+            "id": 154353,
+            "name": "faire un cadeau",
+            "type": 1,
+            "w": 197
+        },
+        {
+            "id": 227078,
+            "name": "offrir un cadeau",
+            "type": 1,
+            "w": 122
+        },
+        {
+            "id": 250991,
+            "name": "lettre au Père Noël",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 676880,
+            "name": "champagne>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6595671,
+            "name": "plat roboratif",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 81529,
+            "name": "illuminer",
+            "type": 1,
+            "w": 345
+        }
+    ],
+    "relations": [
+        {
+            "id": 14657696,
+            "node1": 143255,
+            "node2": 57266,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 25024067,
+            "node1": 143255,
+            "node2": 57839,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 1079406283,
+            "node1": 143255,
+            "node2": 81529,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 14642045,
+            "node1": 143255,
+            "node2": 126758,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14658954,
+            "node1": 143255,
+            "node2": 144647,
+            "type": 41,
+            "w": 96.0
+        },
+        {
+            "id": 14652079,
+            "node1": 143255,
+            "node2": 154353,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 14655205,
+            "node1": 143255,
+            "node2": 227078,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14652308,
+            "node1": 143255,
+            "node2": 250991,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 497007520,
+            "node1": 143255,
+            "node2": 676880,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1158185748,
+            "node1": 143255,
+            "node2": 2505739,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 122484775,
+            "node1": 143255,
+            "node2": 6595671,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 929752736,
+            "node1": 143255,
+            "node2": 15225085,
+            "type": 41,
+            "w": 13.0
+        },
+        {
+            "id": 478801206,
+            "node1": 143255,
+            "node2": 17551646,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 929752718,
+            "node1": 143255,
+            "node2": 53581805,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 929752730,
+            "node1": 143255,
+            "node2": 53581806,
+            "type": 41,
+            "w": 13.0
+        },
+        {
+            "id": 929752724,
+            "node1": 143255,
+            "node2": 53581807,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 1048360040,
+            "node1": 143255,
+            "node2": 388273032,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:29.186906",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Noël",
+        "#relations": 17,
+        "max_relation_weight": 96.0,
+        "#nodes": 18,
+        "duration": "0:00:00.006220"
+    }
+}

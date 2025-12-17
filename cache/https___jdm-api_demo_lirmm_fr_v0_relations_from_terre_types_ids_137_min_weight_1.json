@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 19331,
+            "name": "érosion",
+            "type": 1,
+            "w": 941
+        },
+        {
+            "id": 25705,
+            "name": "terre",
+            "type": 1,
+            "w": 29969
+        },
+        {
+            "id": 229500,
+            "name": "éclipse lunaire",
+            "type": 1,
+            "w": 39
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155584714,
+            "node1": 25705,
+            "node2": 19331,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 775109408,
+            "node1": 25705,
+            "node2": 229500,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:49.280589",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "terre",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004130"
+    }
+}

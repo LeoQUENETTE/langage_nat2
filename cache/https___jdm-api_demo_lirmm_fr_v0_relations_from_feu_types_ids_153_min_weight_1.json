@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 110910,
+            "name": "chaleur",
+            "type": 1,
+            "w": 7778
+        },
+        {
+            "id": 143703,
+            "name": "feu",
+            "type": 1,
+            "w": 10032
+        },
+        {
+            "id": 270831,
+            "name": "pouvoir calorifique",
+            "type": 1,
+            "w": 56
+        }
+    ],
+    "relations": [
+        {
+            "id": 665004810,
+            "node1": 143703,
+            "node2": 110910,
+            "type": 153,
+            "w": 32.0
+        },
+        {
+            "id": 1179139070,
+            "node1": 143703,
+            "node2": 270831,
+            "type": 153,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:05.421934",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "feu",
+        "#relations": 2,
+        "max_relation_weight": 33.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004524"
+    }
+}

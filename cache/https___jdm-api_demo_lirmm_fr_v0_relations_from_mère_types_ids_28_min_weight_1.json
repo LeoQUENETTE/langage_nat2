@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 12190174,
+            "name": "mesure de taille du patient",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 12229950,
+            "name": "détermination de la présence d'hépatite b virus surface ag | technique indéterminée | mère | ponctuel | résultat qualitatif | présence/seuil",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 12242781,
+            "name": "mesure de taille du patient | technique indéterminée | mère | ponctuel | résultat numérique | longueur",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 12097942,
+            "name": "hépatite b virus surface ag",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102812,
+            "name": "père",
+            "type": 1,
+            "w": 32980
+        },
+        {
+            "id": 12107090,
+            "name": "taille du patient",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12209339,
+            "name": "technique indéterminée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 132300,
+            "name": "maquillage",
+            "type": 1,
+            "w": 1043
+        },
+        {
+            "id": 12157826,
+            "name": "détermination de la présence d'hépatite b virus surface ag",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12180169,
+            "name": "mesure de poids corporel à la délivrance",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 42906,
+            "name": "déclaré",
+            "type": 1,
+            "w": 3558
+        },
+        {
+            "id": 12103952,
+            "name": "poids corporel à la délivrance",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 122956,
+            "name": "mère",
+            "type": 1,
+            "w": 8492
+        }
+    ],
+    "relations": [
+        {
+            "id": 375906446,
+            "node1": 122956,
+            "node2": 42906,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11345596,
+            "node1": 122956,
+            "node2": 102812,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 8200695,
+            "node1": 122956,
+            "node2": 132300,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 375847094,
+            "node1": 122956,
+            "node2": 12097942,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 375909701,
+            "node1": 122956,
+            "node2": 12103952,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375906447,
+            "node1": 122956,
+            "node2": 12107090,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375947044,
+            "node1": 122956,
+            "node2": 12157826,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375936172,
+            "node1": 122956,
+            "node2": 12180169,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375931676,
+            "node1": 122956,
+            "node2": 12190174,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375853672,
+            "node1": 122956,
+            "node2": 12209339,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 375884585,
+            "node1": 122956,
+            "node2": 12229950,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 375872066,
+            "node1": 122956,
+            "node2": 12242781,
+            "type": 28,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:42.231220",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mère",
+        "#relations": 12,
+        "max_relation_weight": 51.0,
+        "#nodes": 13,
+        "duration": "0:00:00.009573"
+    }
+}

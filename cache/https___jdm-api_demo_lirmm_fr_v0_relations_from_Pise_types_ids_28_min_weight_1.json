@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 276250,
+            "name": "tour penchée de Pise",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 15312689,
+            "name": "en:the Leaning Tower of Pisa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15114116,
+            "name": "en:leaning tower of pisa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15312688,
+            "name": "la tour de Pise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15114117,
+            "name": "en:Leaning Tower of Pisa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15427578,
+            "name": "en:the Tower of Pisa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15774460,
+            "name": "en:Tower of Pisa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15312687,
+            "name": "en:leaning tower of Pisa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156182,
+            "name": "tour de Pise",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 16124516,
+            "name": "en:Leaning tower of pisa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10044327,
+            "name": "Lari>61921",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15272343,
+            "name": "Tour de Pise",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 134065,
+            "name": "stade",
+            "type": 1,
+            "w": 4126
+        },
+        {
+            "id": 10879,
+            "name": "tour",
+            "type": 1,
+            "w": 10240
+        },
+        {
+            "id": 144141,
+            "name": "Pise",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 2462511,
+            "name": "Lari",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 721204631,
+            "node1": 144141,
+            "node2": 10879,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 4985068,
+            "node1": 144141,
+            "node2": 134065,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 11337626,
+            "node1": 144141,
+            "node2": 156182,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 470969770,
+            "node1": 144141,
+            "node2": 276250,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 253502784,
+            "node1": 144141,
+            "node2": 2462511,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253511194,
+            "node1": 144141,
+            "node2": 10044327,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 515248726,
+            "node1": 144141,
+            "node2": 15114116,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470969773,
+            "node1": 144141,
+            "node2": 15114117,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470969766,
+            "node1": 144141,
+            "node2": 15272343,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470969776,
+            "node1": 144141,
+            "node2": 15312687,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 486662930,
+            "node1": 144141,
+            "node2": 15312688,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 486662932,
+            "node1": 144141,
+            "node2": 15312689,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 492104172,
+            "node1": 144141,
+            "node2": 15427578,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 492104175,
+            "node1": 144141,
+            "node2": 15774460,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 635064498,
+            "node1": 144141,
+            "node2": 16124516,
+            "type": 28,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:32.397345",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Pise",
+        "#relations": 15,
+        "max_relation_weight": 38.0,
+        "#nodes": 16,
+        "duration": "0:00:00.007227"
+    }
+}

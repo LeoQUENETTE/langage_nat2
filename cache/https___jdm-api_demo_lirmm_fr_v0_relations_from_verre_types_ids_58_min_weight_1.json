@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6157
+        },
+        {
+            "id": 37993,
+            "name": "feuille",
+            "type": 1,
+            "w": 5457
+        }
+    ],
+    "relations": [
+        {
+            "id": 765218122,
+            "node1": 144497,
+            "node2": 37993,
+            "type": 58,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:28.655864",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "verre",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003552"
+    }
+}

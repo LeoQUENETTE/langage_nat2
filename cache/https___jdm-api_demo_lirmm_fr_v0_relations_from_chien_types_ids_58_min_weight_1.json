@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 252659,
+            "name": "meute>25141",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 41476,
+            "name": "meute",
+            "type": 1,
+            "w": 461
+        },
+        {
+            "id": 18508,
+            "name": "horde",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 22573,
+            "name": "harde",
+            "type": 1,
+            "w": 91
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8763
+        }
+    ],
+    "relations": [
+        {
+            "id": 1992202,
+            "node1": 4455,
+            "node2": 18508,
+            "type": 58,
+            "w": 26.0
+        },
+        {
+            "id": 1926754,
+            "node1": 4455,
+            "node2": 22573,
+            "type": 58,
+            "w": 37.0
+        },
+        {
+            "id": 1908807,
+            "node1": 4455,
+            "node2": 41476,
+            "type": 58,
+            "w": 28.0
+        },
+        {
+            "id": 96700415,
+            "node1": 4455,
+            "node2": 252659,
+            "type": 58,
+            "w": 17.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:59.382694",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chien",
+        "#relations": 4,
+        "max_relation_weight": 37.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006098"
+    }
+}

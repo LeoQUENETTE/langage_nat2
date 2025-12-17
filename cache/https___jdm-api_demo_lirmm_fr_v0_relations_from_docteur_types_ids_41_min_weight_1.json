@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 15263322,
+            "name": "en:tranquilizing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263327,
+            "name": "en:becalming",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14941185,
+            "name": "en:healing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 201149241,
+            "name": "réduction des symptômes",
+            "type": 1,
+            "w": 43
+        },
+        {
+            "id": 67085,
+            "name": "guérison",
+            "type": 1,
+            "w": 678
+        },
+        {
+            "id": 16704,
+            "name": "docteur",
+            "type": 1,
+            "w": 5494
+        },
+        {
+            "id": 15263320,
+            "name": "en:tailing away",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 77493,
+            "name": "apaisement",
+            "type": 1,
+            "w": 459
+        },
+        {
+            "id": 15263324,
+            "name": "en:dying down",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16867426,
+            "name": "guêpe (allergie aux piqûres de)",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14923614,
+            "name": "en:lulling",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263323,
+            "name": "en:tranquilization",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263325,
+            "name": "en:allaying",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263321,
+            "name": "en:appeasing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63141,
+            "name": "apaisant",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 15039555,
+            "name": "amélioration de la santé",
+            "type": 777,
+            "w": 71
+        }
+    ],
+    "relations": [
+        {
+            "id": 1080896710,
+            "node1": 16704,
+            "node2": 63141,
+            "type": 41,
+            "w": 4.0
+        },
+        {
+            "id": 14658043,
+            "node1": 16704,
+            "node2": 67085,
+            "type": 41,
+            "w": 84.0
+        },
+        {
+            "id": 435068801,
+            "node1": 16704,
+            "node2": 77493,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1079380277,
+            "node1": 16704,
+            "node2": 14923614,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 411505537,
+            "node1": 16704,
+            "node2": 14941185,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 1177179361,
+            "node1": 16704,
+            "node2": 15039555,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1079380181,
+            "node1": 16704,
+            "node2": 15263320,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380375,
+            "node1": 16704,
+            "node2": 15263321,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380471,
+            "node1": 16704,
+            "node2": 15263322,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380567,
+            "node1": 16704,
+            "node2": 15263323,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380663,
+            "node1": 16704,
+            "node2": 15263324,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380761,
+            "node1": 16704,
+            "node2": 15263325,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079380857,
+            "node1": 16704,
+            "node2": 15263327,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 769594254,
+            "node1": 16704,
+            "node2": 16867426,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1177179379,
+            "node1": 16704,
+            "node2": 201149241,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:04.218415",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "docteur",
+        "#relations": 15,
+        "max_relation_weight": 84.0,
+        "#nodes": 16,
+        "duration": "0:00:00.014243"
+    }
+}

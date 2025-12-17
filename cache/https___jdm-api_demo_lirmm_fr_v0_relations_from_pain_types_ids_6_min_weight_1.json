@@ -1,0 +1,352 @@
+{
+    "nodes": [
+        {
+            "id": 123468434,
+            "name": "Aliment de base",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 373503,
+            "name": "produit de première nécessité",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 61283,
+            "name": "pain",
+            "type": 1,
+            "w": 5782
+        },
+        {
+            "id": 238180,
+            "name": "aliment périssable",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 136559,
+            "name": "produit alimentaire",
+            "type": 1,
+            "w": 209
+        },
+        {
+            "id": 189981,
+            "name": "ingrédient de cuisine",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 15205786,
+            "name": "en:staple food",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104703993,
+            "name": "Ingrédient de cuisine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2587823,
+            "name": "aliment>2587820",
+            "type": 1,
+            "w": 150
+        },
+        {
+            "id": 114637,
+            "name": "aliment",
+            "type": 1,
+            "w": 2446
+        },
+        {
+            "id": 113645,
+            "name": "viennoiserie",
+            "type": 1,
+            "w": 544
+        },
+        {
+            "id": 247132,
+            "name": "produit de grande consommation",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9528
+        },
+        {
+            "id": 41417,
+            "name": "coup",
+            "type": 1,
+            "w": 25010
+        },
+        {
+            "id": 20965,
+            "name": "nourriture",
+            "type": 1,
+            "w": 6961
+        },
+        {
+            "id": 15198337,
+            "name": "produit d'alimentation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3762435,
+            "name": "ingrédient de recette de cuisine",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 1380412,
+            "name": "spécialité française",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 6752144,
+            "name": "produit céréalier",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 177321,
+            "name": "préparation culinaire",
+            "type": 1,
+            "w": 618
+        },
+        {
+            "id": 191775,
+            "name": "aliment de base",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 7251423,
+            "name": "en:food product",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 255460,
+            "name": "produit de boulangerie",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 122738,
+            "name": "féculent",
+            "type": 1,
+            "w": 176
+        },
+        {
+            "id": 34069,
+            "name": "pâte",
+            "type": 1,
+            "w": 3414
+        }
+    ],
+    "relations": [
+        {
+            "id": 1127228910,
+            "node1": 61283,
+            "node2": 237,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 9900008,
+            "node1": 61283,
+            "node2": 20965,
+            "type": 6,
+            "w": 179.0
+        },
+        {
+            "id": 96715952,
+            "node1": 61283,
+            "node2": 34069,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 478447426,
+            "node1": 61283,
+            "node2": 41417,
+            "type": 6,
+            "w": 16.0
+        },
+        {
+            "id": 1157328793,
+            "node1": 61283,
+            "node2": 113645,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 204776,
+            "node1": 61283,
+            "node2": 114637,
+            "type": 6,
+            "w": 310.0
+        },
+        {
+            "id": 204773,
+            "node1": 61283,
+            "node2": 122738,
+            "type": 6,
+            "w": 264.0
+        },
+        {
+            "id": 30571140,
+            "node1": 61283,
+            "node2": 136559,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 1153133045,
+            "node1": 61283,
+            "node2": 177321,
+            "type": 6,
+            "w": 39.0
+        },
+        {
+            "id": 631841,
+            "node1": 61283,
+            "node2": 189981,
+            "type": 6,
+            "w": 262.0
+        },
+        {
+            "id": 742345,
+            "node1": 61283,
+            "node2": 191775,
+            "type": 6,
+            "w": 186.0
+        },
+        {
+            "id": 9918771,
+            "node1": 61283,
+            "node2": 238180,
+            "type": 6,
+            "w": 188.0
+        },
+        {
+            "id": 1041192937,
+            "node1": 61283,
+            "node2": 247132,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 80715905,
+            "node1": 61283,
+            "node2": 255460,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 640891645,
+            "node1": 61283,
+            "node2": 373503,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 23406761,
+            "node1": 61283,
+            "node2": 1380412,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 273116537,
+            "node1": 61283,
+            "node2": 2587823,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 93822518,
+            "node1": 61283,
+            "node2": 3762435,
+            "type": 6,
+            "w": 112.0
+        },
+        {
+            "id": 1150470958,
+            "node1": 61283,
+            "node2": 6752144,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 603761347,
+            "node1": 61283,
+            "node2": 7251423,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 705077215,
+            "node1": 61283,
+            "node2": 15198337,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 598701891,
+            "node1": 61283,
+            "node2": 15205786,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 705929637,
+            "node1": 61283,
+            "node2": 104703993,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 706031118,
+            "node1": 61283,
+            "node2": 123468434,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:40.753498",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pain",
+        "#relations": 24,
+        "max_relation_weight": 310.0,
+        "#nodes": 25,
+        "duration": "0:00:00.055884"
+    }
+}

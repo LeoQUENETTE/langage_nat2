@@ -1,0 +1,3082 @@
+{
+    "nodes": [
+        {
+            "id": 7012425,
+            "name": "en:chlorophyll",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 81128,
+            "name": "tramway",
+            "type": 1,
+            "w": 1386
+        },
+        {
+            "id": 131717,
+            "name": "centre-ville",
+            "type": 1,
+            "w": 582
+        },
+        {
+            "id": 101176,
+            "name": "chlorophylle",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 15374994,
+            "name": "en:industrial park",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442432,
+            "name": "en:village center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 188597,
+            "name": "Romain Duris",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 397059479,
+            "name": "quartier de la Défense à Paris",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15442431,
+            "name": "en:village centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263008,
+            "name": "arc de triomphe de l'étoile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15232455,
+            "name": "en:boroughs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15304116,
+            "name": "en:suburbs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14928904,
+            "name": "en:core business",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15236208,
+            "name": "en:shopping district",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15446151,
+            "name": "en:commercial zone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15446152,
+            "name": "en:business area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1991174,
+            "name": "arrondissements",
+            "type": 2,
+            "w": 2300
+        },
+        {
+            "id": 221034,
+            "name": "bras>112609",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 3971273,
+            "name": "centre-bourg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 86657,
+            "name": "lolos",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 9938548,
+            "name": "en:breasts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 118092,
+            "name": "tour Eiffel",
+            "type": 1,
+            "w": 1212
+        },
+        {
+            "id": 213441,
+            "name": "coque>107150",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 15266767,
+            "name": "en:brazzer",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 330365,
+            "name": "Albert Dupontel",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 111007,
+            "name": "Harry Baur",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 87714,
+            "name": "hélice",
+            "type": 1,
+            "w": 280
+        },
+        {
+            "id": 190739,
+            "name": "parc industriel",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 15212070,
+            "name": "en:industrial estate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 119584,
+            "name": "obus",
+            "type": 1,
+            "w": 228
+        },
+        {
+            "id": 187622,
+            "name": "patte antérieure",
+            "type": 1,
+            "w": 9
+        },
+        {
+            "id": 26879,
+            "name": "Seine",
+            "type": 1,
+            "w": 3421
+        },
+        {
+            "id": 231113,
+            "name": "Fabrice Luchini",
+            "type": 666,
+            "w": 16
+        },
+        {
+            "id": 13451,
+            "name": "esprit",
+            "type": 1,
+            "w": 12737
+        },
+        {
+            "id": 15448829,
+            "name": "en:hub of activity",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6288393,
+            "name": "organe génital féminin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6910,
+            "name": "coque",
+            "type": 1,
+            "w": 704
+        },
+        {
+            "id": 15448830,
+            "name": "en:cluster of activity",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3343,
+            "name": "racine",
+            "type": 1,
+            "w": 3482
+        },
+        {
+            "id": 15263009,
+            "name": "en:Arc de Triomphe on the Place de l'Étoile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14965088,
+            "name": "en:Eiffel Tower",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 259955,
+            "name": "arc de triomphe de l'Étoile",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 330602,
+            "name": "Gilles Lellouche",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 126613,
+            "name": "nichons",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 235131,
+            "name": "parc d'activité",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 15212074,
+            "name": "parc d'affaires",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7306099,
+            "name": "en:set of legs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215053,
+            "name": "rue>215052",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 218888,
+            "name": "pont>30171",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 14926957,
+            "name": "en:downtown",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413799,
+            "name": "en:in the town centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15302106,
+            "name": "en:industrial area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15301138,
+            "name": "en:bomb-shell",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7306003,
+            "name": "en:set of breasts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 101285,
+            "name": "musée",
+            "type": 1,
+            "w": 5173
+        },
+        {
+            "id": 9928893,
+            "name": "nibards",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 15266771,
+            "name": "en:funbags",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 140715,
+            "name": "jambes",
+            "type": 1,
+            "w": 1748
+        },
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4767
+        },
+        {
+            "id": 152354,
+            "name": "tour eiffel",
+            "type": 1,
+            "w": 2086
+        },
+        {
+            "id": 48860,
+            "name": "poupe",
+            "type": 1,
+            "w": 181
+        },
+        {
+            "id": 15110904,
+            "name": "en:eiffel tower",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2401205,
+            "name": "coeur de métier",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 97173,
+            "name": "magasin",
+            "type": 1,
+            "w": 4335
+        },
+        {
+            "id": 216283,
+            "name": "dent>45311",
+            "type": 1,
+            "w": 358
+        },
+        {
+            "id": 15446150,
+            "name": "en:shopping area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 98543,
+            "name": "Belleville",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 10879713,
+            "name": "Jean-Louis Allibert",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 12313635,
+            "name": "Joe Alex",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 14917526,
+            "name": "en:deoxyribonucleic acid",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 94230902,
+            "name": "Acide DésoxyriboNucléique",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 6935846,
+            "name": "en:dna",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15297314,
+            "name": "en:deoxyribose nucleoprotein",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 3376,
+            "name": "membres",
+            "type": 1,
+            "w": 5115
+        },
+        {
+            "id": 151867,
+            "name": "pattes",
+            "type": 1,
+            "w": 2435
+        },
+        {
+            "id": 393407,
+            "name": "Karin Viard",
+            "type": 777,
+            "w": 53
+        },
+        {
+            "id": 319485,
+            "name": "Eddie Murphy",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 332174,
+            "name": "organe sexuel féminin",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 15026319,
+            "name": "airbags",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 15359480,
+            "name": "en:hooters",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15396164,
+            "name": "en:shells",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 158389,
+            "name": "ballons",
+            "type": 1,
+            "w": 280
+        },
+        {
+            "id": 34898,
+            "name": "pied",
+            "type": 1,
+            "w": 21488
+        },
+        {
+            "id": 2299,
+            "name": "coelome",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 219363,
+            "name": "corps>112609",
+            "type": 1,
+            "w": 243
+        },
+        {
+            "id": 10556556,
+            "name": "Renée Saint-Cyr",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 16110,
+            "name": "bouche",
+            "type": 1,
+            "w": 8047
+        },
+        {
+            "id": 83944,
+            "name": "nerf",
+            "type": 1,
+            "w": 970
+        },
+        {
+            "id": 108463,
+            "name": "ventre",
+            "type": 1,
+            "w": 3815
+        },
+        {
+            "id": 77008,
+            "name": "yeux",
+            "type": 1,
+            "w": 35868
+        },
+        {
+            "id": 1636805,
+            "name": "oeil>44335",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 213644,
+            "name": "os>116980",
+            "type": 1,
+            "w": 452
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 213792,
+            "name": "coeur>213791",
+            "type": 1,
+            "w": 228
+        },
+        {
+            "id": 16747,
+            "name": "adn",
+            "type": 1,
+            "w": 908
+        },
+        {
+            "id": 152844,
+            "name": "sang chaud",
+            "type": 1,
+            "w": 97
+        },
+        {
+            "id": 14918011,
+            "name": "en:DNA",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 94431,
+            "name": "neck",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 11008328,
+            "name": "ADN>30051",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 326146,
+            "name": "système nerveux en position dorsale",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 57875,
+            "name": "tube digestif",
+            "type": 1,
+            "w": 196
+        },
+        {
+            "id": 5688812,
+            "name": "César de la meilleure actrice dans un second rôle",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 9984317,
+            "name": "César de la meilleure actrice",
+            "type": 777,
+            "w": 28
+        },
+        {
+            "id": 398564,
+            "name": "mâchoires",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 145953,
+            "name": "visage",
+            "type": 1,
+            "w": 10252
+        },
+        {
+            "id": 15096136,
+            "name": "en:outskirts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15237694,
+            "name": "en:burbs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1055,
+            "name": "quartier",
+            "type": 1,
+            "w": 6070
+        },
+        {
+            "id": 142086,
+            "name": "jambe",
+            "type": 1,
+            "w": 6262
+        },
+        {
+            "id": 388082,
+            "name": "zone d'activité",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 118203,
+            "name": "corps humain",
+            "type": 1,
+            "w": 636
+        },
+        {
+            "id": 50869,
+            "name": "seins",
+            "type": 1,
+            "w": 759
+        },
+        {
+            "id": 10850586,
+            "name": "corps>112609>49293",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 107477,
+            "name": "nez",
+            "type": 1,
+            "w": 4657
+        },
+        {
+            "id": 121136,
+            "name": "banlieue",
+            "type": 1,
+            "w": 2917
+        },
+        {
+            "id": 32735,
+            "name": "poumons",
+            "type": 1,
+            "w": 630
+        },
+        {
+            "id": 228289,
+            "name": "sexe>218086",
+            "type": 1,
+            "w": 395
+        },
+        {
+            "id": 96930,
+            "name": "quartiers",
+            "type": 1,
+            "w": 3369
+        },
+        {
+            "id": 40184,
+            "name": "siège",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 16323912,
+            "name": "Lolos",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 91356,
+            "name": "pont",
+            "type": 1,
+            "w": 5273
+        },
+        {
+            "id": 188287,
+            "name": "Juliette Binoche",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 229649,
+            "name": "quartier chinois",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 12791689,
+            "name": "acide désoxyribo-nucléique",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 1854036,
+            "name": "vertebra",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 74846,
+            "name": "corps",
+            "type": 1,
+            "w": 16300
+        },
+        {
+            "id": 141814,
+            "name": "vertèbre",
+            "type": 1,
+            "w": 450
+        },
+        {
+            "id": 126388,
+            "name": "articulation",
+            "type": 1,
+            "w": 1271
+        },
+        {
+            "id": 4658,
+            "name": "moteur",
+            "type": 1,
+            "w": 4795
+        },
+        {
+            "id": 215758,
+            "name": "gueule>215755",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 103311,
+            "name": "système nerveux",
+            "type": 1,
+            "w": 1058
+        },
+        {
+            "id": 126285,
+            "name": "dos",
+            "type": 1,
+            "w": 5552
+        },
+        {
+            "id": 9959185,
+            "name": "2e arrondissement de Paris",
+            "type": 777,
+            "w": 13
+        },
+        {
+            "id": 60152,
+            "name": "bassin",
+            "type": 1,
+            "w": 3354
+        },
+        {
+            "id": 144846,
+            "name": "tête",
+            "type": 1,
+            "w": 31462
+        },
+        {
+            "id": 113317,
+            "name": "Paris",
+            "type": 1,
+            "w": 10163
+        },
+        {
+            "id": 39031,
+            "name": "cerveau",
+            "type": 1,
+            "w": 8698
+        },
+        {
+            "id": 56280,
+            "name": "oreille",
+            "type": 1,
+            "w": 5357
+        },
+        {
+            "id": 81934,
+            "name": "main",
+            "type": 1,
+            "w": 40219
+        },
+        {
+            "id": 114327,
+            "name": "acide désoxyribonucléique",
+            "type": 1,
+            "w": 214
+        },
+        {
+            "id": 116980,
+            "name": "squelette",
+            "type": 1,
+            "w": 1447
+        },
+        {
+            "id": 117866,
+            "name": "Louvre",
+            "type": 1,
+            "w": 3378
+        },
+        {
+            "id": 241352,
+            "name": "ventre>112609",
+            "type": 1,
+            "w": 160
+        },
+        {
+            "id": 390927,
+            "name": "tête>112609",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 77424,
+            "name": "oeil",
+            "type": 1,
+            "w": 7821
+        },
+        {
+            "id": 96211,
+            "name": "coeur",
+            "type": 1,
+            "w": 3640
+        },
+        {
+            "id": 221019,
+            "name": "bouche>112609",
+            "type": 1,
+            "w": 293
+        },
+        {
+            "id": 240720,
+            "name": "squelette>112609",
+            "type": 1,
+            "w": 202
+        },
+        {
+            "id": 95422,
+            "name": "cou",
+            "type": 1,
+            "w": 3550
+        },
+        {
+            "id": 109785,
+            "name": "peau",
+            "type": 1,
+            "w": 7474
+        },
+        {
+            "id": 225934,
+            "name": "oeil>330323",
+            "type": 1,
+            "w": 296
+        },
+        {
+            "id": 14926956,
+            "name": "en:city center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15071496,
+            "name": "en:city centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332343,
+            "name": "en:in the city centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332344,
+            "name": "en:town center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332346,
+            "name": "en:midtown",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332348,
+            "name": "en:town centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 163590,
+            "name": "Tour Eiffel",
+            "type": 1,
+            "w": 2852
+        },
+        {
+            "id": 251101,
+            "name": "16ème arrondissement",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 14677796,
+            "name": "parc d'activités",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15328042,
+            "name": "en:organa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 252121,
+            "name": "NAP",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 217823,
+            "name": "racine>3674",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 258016953,
+            "name": "Sabrina Ophélie Seyvecou",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 392831,
+            "name": "Jamie Foxx",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 265311,
+            "name": "Joan Crawford",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 15212075,
+            "name": "en:business park",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2357749,
+            "name": "20e arrondissement de Paris",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 187620,
+            "name": "patte postérieure",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 3171707,
+            "name": "Arc de Triomphe",
+            "type": 777,
+            "w": 17
+        },
+        {
+            "id": 163006,
+            "name": "zone commerciale",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 1667825,
+            "name": "partie du corps humain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251099,
+            "name": "Paris 16e",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 9939114,
+            "name": "en:legs",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 44335,
+            "name": "organe",
+            "type": 1,
+            "w": 2279
+        },
+        {
+            "id": 70538,
+            "name": "Luchini",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 374771,
+            "name": "pôle d'activité",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 252122,
+            "name": "Neuilly-Auteuil-Passy",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 734287,
+            "name": "Coeur de métier",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2571702,
+            "name": "downtown",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 6912949,
+            "name": "en:hair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14670178,
+            "name": "Paris Ier",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 14670853,
+            "name": "Paris Ie",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 14670874,
+            "name": "Ie arrondissement de Paris",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14671645,
+            "name": "Paris 1e",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 14671644,
+            "name": "Paris 1er",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 14670829,
+            "name": "arrondissement du Louvre",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 15403564,
+            "name": "en:Paris 1st district",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15403565,
+            "name": "Paris 1er arrondissement",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 225215,
+            "name": "moteur>5425",
+            "type": 1,
+            "w": 158
+        },
+        {
+            "id": 79894,
+            "name": "nénés",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 5580026,
+            "name": "Dolly Davis",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 47319,
+            "name": "colonne vertébrale",
+            "type": 1,
+            "w": 451
+        },
+        {
+            "id": 49549,
+            "name": "racines",
+            "type": 1,
+            "w": 3557
+        },
+        {
+            "id": 189012,
+            "name": "Mélanie Laurent",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15204740,
+            "name": "en:hind paw",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 405965,
+            "name": "hair",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 139467,
+            "name": "cale",
+            "type": 1,
+            "w": 169
+        },
+        {
+            "id": 2357878,
+            "name": "Jennifer Hudson",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10041813,
+            "name": "Julie Ferrier",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10047199,
+            "name": "Maurice Bénichou",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15413800,
+            "name": "en:in the city center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10855485,
+            "name": "Émilie Lafarge",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 149413,
+            "name": "organes",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 14670180,
+            "name": "Paris IIe",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 14670872,
+            "name": "IIe arrondissement de Paris",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 14670852,
+            "name": "arrondissement de la Bourse",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 14677952,
+            "name": "Paris 2e",
+            "type": 1,
+            "w": 9
+        },
+        {
+            "id": 14928902,
+            "name": "cœur de métier",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16070663,
+            "name": "Charles Ray",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15384693,
+            "name": "coeur d'une ville",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 265621,
+            "name": "sac amniotique",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 112800,
+            "name": "Grands Boulevards",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 6089217,
+            "name": "1er arrondissement de Paris",
+            "type": 777,
+            "w": 33
+        },
+        {
+            "id": 15266770,
+            "name": "en:fun bags",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 76033,
+            "name": "arrondissement",
+            "type": 1,
+            "w": 3564
+        },
+        {
+            "id": 76046,
+            "name": "oreilles",
+            "type": 1,
+            "w": 1892
+        },
+        {
+            "id": 226525,
+            "name": "Beyoncé Knowles",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 397059481,
+            "name": "quartier de la Défense",
+            "type": 1,
+            "w": 11
+        },
+        {
+            "id": 14920810,
+            "name": "en:triumphal arch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104223467,
+            "name": "Arc de Triomphe de l'Étoile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 41917,
+            "name": "arc de triomphe",
+            "type": 1,
+            "w": 1244
+        },
+        {
+            "id": 225559,
+            "name": "arc de Triomphe",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 52141,
+            "name": "proue",
+            "type": 1,
+            "w": 265
+        },
+        {
+            "id": 11343,
+            "name": "gouvernail",
+            "type": 1,
+            "w": 312
+        },
+        {
+            "id": 143448,
+            "name": "Arc de triomphe de l'Étoile",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15366079,
+            "name": "zone d'activités",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 153520,
+            "name": "zone industrielle",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 2000515,
+            "name": "faubourgs",
+            "type": 2,
+            "w": 9
+        },
+        {
+            "id": 344218,
+            "name": "complexe industriel",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 51126,
+            "name": "cheveux",
+            "type": 1,
+            "w": 3931
+        },
+        {
+            "id": 213977,
+            "name": "bassin>112609",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 14670873,
+            "name": "Ier arrondissement de Paris",
+            "type": 1,
+            "w": 13
+        },
+        {
+            "id": 356669,
+            "name": "grands boulevards",
+            "type": 1,
+            "w": 54
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150460416,
+            "node1": 113317,
+            "node2": 1055,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 785791305,
+            "node1": 113317,
+            "node2": 2299,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 581563839,
+            "node1": 113317,
+            "node2": 3343,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 982332667,
+            "node1": 113317,
+            "node2": 3376,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 581563767,
+            "node1": 113317,
+            "node2": 4658,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 581563742,
+            "node1": 113317,
+            "node2": 6910,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 581563013,
+            "node1": 113317,
+            "node2": 11343,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 538371863,
+            "node1": 113317,
+            "node2": 13451,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 73340284,
+            "node1": 113317,
+            "node2": 16110,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 97123344,
+            "node1": 113317,
+            "node2": 16747,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 13055223,
+            "node1": 113317,
+            "node2": 20564,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1150775233,
+            "node1": 113317,
+            "node2": 26879,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 581564586,
+            "node1": 113317,
+            "node2": 32735,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 73399396,
+            "node1": 113317,
+            "node2": 34898,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 581563617,
+            "node1": 113317,
+            "node2": 39031,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 581563653,
+            "node1": 113317,
+            "node2": 40184,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 435282152,
+            "node1": 113317,
+            "node2": 41917,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 478884623,
+            "node1": 113317,
+            "node2": 44335,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 581563004,
+            "node1": 113317,
+            "node2": 47319,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 581564407,
+            "node1": 113317,
+            "node2": 48860,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 581563955,
+            "node1": 113317,
+            "node2": 49549,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 97123350,
+            "node1": 113317,
+            "node2": 50869,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 97123343,
+            "node1": 113317,
+            "node2": 51126,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 581563140,
+            "node1": 113317,
+            "node2": 52141,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1096349994,
+            "node1": 113317,
+            "node2": 56280,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 581563104,
+            "node1": 113317,
+            "node2": 57875,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 372352244,
+            "node1": 113317,
+            "node2": 60152,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 350712200,
+            "node1": 113317,
+            "node2": 63462,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 940462304,
+            "node1": 113317,
+            "node2": 70538,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 73352993,
+            "node1": 113317,
+            "node2": 74846,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 1155700596,
+            "node1": 113317,
+            "node2": 76033,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1096363371,
+            "node1": 113317,
+            "node2": 76046,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 73424610,
+            "node1": 113317,
+            "node2": 77008,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 73386727,
+            "node1": 113317,
+            "node2": 77424,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 416904291,
+            "node1": 113317,
+            "node2": 79894,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 9972646,
+            "node1": 113317,
+            "node2": 81128,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 73330979,
+            "node1": 113317,
+            "node2": 81934,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 581564762,
+            "node1": 113317,
+            "node2": 83944,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 411575952,
+            "node1": 113317,
+            "node2": 86657,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 581564590,
+            "node1": 113317,
+            "node2": 87714,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 581563781,
+            "node1": 113317,
+            "node2": 91356,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 473558118,
+            "node1": 113317,
+            "node2": 94431,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 73357170,
+            "node1": 113317,
+            "node2": 95422,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 73348737,
+            "node1": 113317,
+            "node2": 96211,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1055137137,
+            "node1": 113317,
+            "node2": 96930,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 96700942,
+            "node1": 113317,
+            "node2": 97173,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 10531746,
+            "node1": 113317,
+            "node2": 98543,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 581563361,
+            "node1": 113317,
+            "node2": 101176,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1155700692,
+            "node1": 113317,
+            "node2": 101285,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 581563037,
+            "node1": 113317,
+            "node2": 103311,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 73382449,
+            "node1": 113317,
+            "node2": 107477,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 581563914,
+            "node1": 113317,
+            "node2": 108463,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 581563074,
+            "node1": 113317,
+            "node2": 109785,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 522080583,
+            "node1": 113317,
+            "node2": 111007,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 599615822,
+            "node1": 113317,
+            "node2": 112800,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 97123355,
+            "node1": 113317,
+            "node2": 114327,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 581564262,
+            "node1": 113317,
+            "node2": 116980,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1150775232,
+            "node1": 113317,
+            "node2": 117866,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 96700948,
+            "node1": 113317,
+            "node2": 118092,
+            "type": 9,
+            "w": 64.0
+        },
+        {
+            "id": 1014605533,
+            "node1": 113317,
+            "node2": 118203,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 598241548,
+            "node1": 113317,
+            "node2": 119584,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 10528737,
+            "node1": 113317,
+            "node2": 121136,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 581563366,
+            "node1": 113317,
+            "node2": 126285,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 581563715,
+            "node1": 113317,
+            "node2": 126388,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 411569974,
+            "node1": 113317,
+            "node2": 126613,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 10528595,
+            "node1": 113317,
+            "node2": 131717,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 581563841,
+            "node1": 113317,
+            "node2": 139467,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 73335899,
+            "node1": 113317,
+            "node2": 139779,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 73369677,
+            "node1": 113317,
+            "node2": 140715,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 581563065,
+            "node1": 113317,
+            "node2": 141814,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 73365622,
+            "node1": 113317,
+            "node2": 142086,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 96700946,
+            "node1": 113317,
+            "node2": 143448,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 73407914,
+            "node1": 113317,
+            "node2": 144846,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 73411868,
+            "node1": 113317,
+            "node2": 145953,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 478895885,
+            "node1": 113317,
+            "node2": 149413,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 581563200,
+            "node1": 113317,
+            "node2": 151867,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 515265199,
+            "node1": 113317,
+            "node2": 152354,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 581563377,
+            "node1": 113317,
+            "node2": 152844,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 418887777,
+            "node1": 113317,
+            "node2": 153520,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 598248547,
+            "node1": 113317,
+            "node2": 158389,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 10528863,
+            "node1": 113317,
+            "node2": 163006,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 96700943,
+            "node1": 113317,
+            "node2": 163590,
+            "type": 9,
+            "w": 64.0
+        },
+        {
+            "id": 581564369,
+            "node1": 113317,
+            "node2": 187620,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 581564225,
+            "node1": 113317,
+            "node2": 187622,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 14632546,
+            "node1": 113317,
+            "node2": 188287,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 270852096,
+            "node1": 113317,
+            "node2": 188597,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 14632371,
+            "node1": 113317,
+            "node2": 189012,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 426439711,
+            "node1": 113317,
+            "node2": 190739,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 581563209,
+            "node1": 113317,
+            "node2": 213441,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 581565029,
+            "node1": 113317,
+            "node2": 213644,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 581563028,
+            "node1": 113317,
+            "node2": 213792,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 372010694,
+            "node1": 113317,
+            "node2": 213977,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 350641409,
+            "node1": 113317,
+            "node2": 215053,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 581563413,
+            "node1": 113317,
+            "node2": 215758,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 581563971,
+            "node1": 113317,
+            "node2": 216283,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 581563178,
+            "node1": 113317,
+            "node2": 217823,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 581563474,
+            "node1": 113317,
+            "node2": 218888,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 351244888,
+            "node1": 113317,
+            "node2": 219363,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 73344460,
+            "node1": 113317,
+            "node2": 221019,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 350755979,
+            "node1": 113317,
+            "node2": 221034,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 581564404,
+            "node1": 113317,
+            "node2": 225215,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 96700954,
+            "node1": 113317,
+            "node2": 225559,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 73390923,
+            "node1": 113317,
+            "node2": 225934,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 441351748,
+            "node1": 113317,
+            "node2": 226525,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 73403625,
+            "node1": 113317,
+            "node2": 228289,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 54864179,
+            "node1": 113317,
+            "node2": 229649,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 270852097,
+            "node1": 113317,
+            "node2": 231113,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 534707043,
+            "node1": 113317,
+            "node2": 235131,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 73326245,
+            "node1": 113317,
+            "node2": 240720,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 581563747,
+            "node1": 113317,
+            "node2": 241352,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 10536148,
+            "node1": 113317,
+            "node2": 251099,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 10534890,
+            "node1": 113317,
+            "node2": 251101,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 10534463,
+            "node1": 113317,
+            "node2": 252121,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 14703150,
+            "node1": 113317,
+            "node2": 252122,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 98965019,
+            "node1": 113317,
+            "node2": 259955,
+            "type": 9,
+            "w": 54.0
+        },
+        {
+            "id": 377610588,
+            "node1": 113317,
+            "node2": 265311,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 974580217,
+            "node1": 113317,
+            "node2": 265621,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 441351751,
+            "node1": 113317,
+            "node2": 319485,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 581563696,
+            "node1": 113317,
+            "node2": 326146,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 270852098,
+            "node1": 113317,
+            "node2": 330365,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 270852099,
+            "node1": 113317,
+            "node2": 330602,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 561587940,
+            "node1": 113317,
+            "node2": 332174,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 436507234,
+            "node1": 113317,
+            "node2": 344218,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 635388478,
+            "node1": 113317,
+            "node2": 356669,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 598240790,
+            "node1": 113317,
+            "node2": 374771,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 418887794,
+            "node1": 113317,
+            "node2": 388082,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 581563133,
+            "node1": 113317,
+            "node2": 390927,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 441351750,
+            "node1": 113317,
+            "node2": 392831,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 365305062,
+            "node1": 113317,
+            "node2": 393407,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 581564296,
+            "node1": 113317,
+            "node2": 398564,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 213792637,
+            "node1": 113317,
+            "node2": 405965,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 1010704088,
+            "node1": 113317,
+            "node2": 734287,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 97123352,
+            "node1": 113317,
+            "node2": 1636805,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 981655051,
+            "node1": 113317,
+            "node2": 1667825,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1121658833,
+            "node1": 113317,
+            "node2": 1854036,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 1055137132,
+            "node1": 113317,
+            "node2": 1991174,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 1055137126,
+            "node1": 113317,
+            "node2": 2000515,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 485259802,
+            "node1": 113317,
+            "node2": 2357749,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 441351749,
+            "node1": 113317,
+            "node2": 2357878,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 510672814,
+            "node1": 113317,
+            "node2": 2401205,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 618830183,
+            "node1": 113317,
+            "node2": 2571702,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 98965018,
+            "node1": 113317,
+            "node2": 3171707,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 468249529,
+            "node1": 113317,
+            "node2": 3971273,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 522080587,
+            "node1": 113317,
+            "node2": 5580026,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 368171970,
+            "node1": 113317,
+            "node2": 5688812,
+            "type": 9,
+            "w": 17.0
+        },
+        {
+            "id": 374882786,
+            "node1": 113317,
+            "node2": 6089217,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 561957399,
+            "node1": 113317,
+            "node2": 6288393,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 210493078,
+            "node1": 113317,
+            "node2": 6912949,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 709739475,
+            "node1": 113317,
+            "node2": 6935846,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1068415092,
+            "node1": 113317,
+            "node2": 7012425,
+            "type": 9,
+            "w": 17.0
+        },
+        {
+            "id": 1007671493,
+            "node1": 113317,
+            "node2": 7306003,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 709544751,
+            "node1": 113317,
+            "node2": 7306099,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 416918994,
+            "node1": 113317,
+            "node2": 9928893,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 599612282,
+            "node1": 113317,
+            "node2": 9938548,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 485322519,
+            "node1": 113317,
+            "node2": 9939114,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 374222901,
+            "node1": 113317,
+            "node2": 9959185,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 368171983,
+            "node1": 113317,
+            "node2": 9984317,
+            "type": 9,
+            "w": 17.0
+        },
+        {
+            "id": 226760599,
+            "node1": 113317,
+            "node2": 10041813,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 656202871,
+            "node1": 113317,
+            "node2": 10047199,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 522080584,
+            "node1": 113317,
+            "node2": 10556556,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 594517298,
+            "node1": 113317,
+            "node2": 10850586,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 522080582,
+            "node1": 113317,
+            "node2": 10855485,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 522080589,
+            "node1": 113317,
+            "node2": 10879713,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 479093159,
+            "node1": 113317,
+            "node2": 11008328,
+            "type": 9,
+            "w": 46.0
+        },
+        {
+            "id": 522080588,
+            "node1": 113317,
+            "node2": 12313635,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 377983049,
+            "node1": 113317,
+            "node2": 12791689,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 374222911,
+            "node1": 113317,
+            "node2": 14670178,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 374222895,
+            "node1": 113317,
+            "node2": 14670180,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 374222908,
+            "node1": 113317,
+            "node2": 14670829,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 374222904,
+            "node1": 113317,
+            "node2": 14670852,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 374222914,
+            "node1": 113317,
+            "node2": 14670853,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 374222892,
+            "node1": 113317,
+            "node2": 14670872,
+            "type": 9,
+            "w": 42.0
+        },
+        {
+            "id": 374222923,
+            "node1": 113317,
+            "node2": 14670873,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 374222905,
+            "node1": 113317,
+            "node2": 14670874,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 374222920,
+            "node1": 113317,
+            "node2": 14671644,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 374222917,
+            "node1": 113317,
+            "node2": 14671645,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 426439703,
+            "node1": 113317,
+            "node2": 14677796,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 374222898,
+            "node1": 113317,
+            "node2": 14677952,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 400367163,
+            "node1": 113317,
+            "node2": 14917526,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 432936755,
+            "node1": 113317,
+            "node2": 14918011,
+            "type": 9,
+            "w": 17.0
+        },
+        {
+            "id": 491980220,
+            "node1": 113317,
+            "node2": 14920810,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 413208845,
+            "node1": 113317,
+            "node2": 14926956,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 413208855,
+            "node1": 113317,
+            "node2": 14926957,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 1120476230,
+            "node1": 113317,
+            "node2": 14928902,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 413394691,
+            "node1": 113317,
+            "node2": 14928904,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 1055127965,
+            "node1": 113317,
+            "node2": 14965088,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 598244200,
+            "node1": 113317,
+            "node2": 15026319,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 413208870,
+            "node1": 113317,
+            "node2": 15071496,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1055132334,
+            "node1": 113317,
+            "node2": 15096136,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 595467699,
+            "node1": 113317,
+            "node2": 15110904,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 1055134908,
+            "node1": 113317,
+            "node2": 15204740,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 426439707,
+            "node1": 113317,
+            "node2": 15212070,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 426439716,
+            "node1": 113317,
+            "node2": 15212074,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 418887789,
+            "node1": 113317,
+            "node2": 15212075,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 580994181,
+            "node1": 113317,
+            "node2": 15232455,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 483286949,
+            "node1": 113317,
+            "node2": 15236208,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 1055132329,
+            "node1": 113317,
+            "node2": 15237694,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 600840510,
+            "node1": 113317,
+            "node2": 15263008,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 625845483,
+            "node1": 113317,
+            "node2": 15263009,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 709945347,
+            "node1": 113317,
+            "node2": 15266767,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 416889255,
+            "node1": 113317,
+            "node2": 15266770,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 595486935,
+            "node1": 113317,
+            "node2": 15266771,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 709870401,
+            "node1": 113317,
+            "node2": 15297314,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 600829303,
+            "node1": 113317,
+            "node2": 15301138,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 450735518,
+            "node1": 113317,
+            "node2": 15302106,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 484050063,
+            "node1": 113317,
+            "node2": 15304116,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 1055121443,
+            "node1": 113317,
+            "node2": 15328042,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 468252577,
+            "node1": 113317,
+            "node2": 15332343,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 413208887,
+            "node1": 113317,
+            "node2": 15332344,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 413208880,
+            "node1": 113317,
+            "node2": 15332346,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 413208862,
+            "node1": 113317,
+            "node2": 15332348,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 416772331,
+            "node1": 113317,
+            "node2": 15359480,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 418887773,
+            "node1": 113317,
+            "node2": 15366079,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 432485286,
+            "node1": 113317,
+            "node2": 15374994,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 931773737,
+            "node1": 113317,
+            "node2": 15384693,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 603539747,
+            "node1": 113317,
+            "node2": 15396164,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 539419326,
+            "node1": 113317,
+            "node2": 15403564,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 598199390,
+            "node1": 113317,
+            "node2": 15403565,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 468252572,
+            "node1": 113317,
+            "node2": 15413799,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 468252587,
+            "node1": 113317,
+            "node2": 15413800,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 468249534,
+            "node1": 113317,
+            "node2": 15442431,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 468249540,
+            "node1": 113317,
+            "node2": 15442432,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 932755984,
+            "node1": 113317,
+            "node2": 15446150,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 932755993,
+            "node1": 113317,
+            "node2": 15446151,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 932756010,
+            "node1": 113317,
+            "node2": 15446152,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 444976724,
+            "node1": 113317,
+            "node2": 15448829,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 444976729,
+            "node1": 113317,
+            "node2": 15448830,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 522080586,
+            "node1": 113317,
+            "node2": 16070663,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 1080945073,
+            "node1": 113317,
+            "node2": 16323912,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 697210245,
+            "node1": 113317,
+            "node2": 94230902,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 534703256,
+            "node1": 113317,
+            "node2": 104223467,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 656203031,
+            "node1": 113317,
+            "node2": 258016953,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 1055464741,
+            "node1": 113317,
+            "node2": 397059479,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1055464743,
+            "node1": 113317,
+            "node2": 397059481,
+            "type": 9,
+            "w": 38.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:44.418209",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Paris",
+        "#relations": 234,
+        "max_relation_weight": 64.0,
+        "#nodes": 235,
+        "duration": "0:00:00.060401"
+    }
+}

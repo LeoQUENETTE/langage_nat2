@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 141906,
+            "name": "fenêtre",
+            "type": 1,
+            "w": 6151
+        },
+        {
+            "id": 13946,
+            "name": "propriétaire",
+            "type": 1,
+            "w": 4402
+        }
+    ],
+    "relations": [
+        {
+            "id": 1020891239,
+            "node1": 141906,
+            "node2": 13946,
+            "type": 121,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:22.409862",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fenêtre",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.006204"
+    }
+}

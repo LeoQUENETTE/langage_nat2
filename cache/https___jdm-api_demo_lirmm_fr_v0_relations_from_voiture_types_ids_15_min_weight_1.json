@@ -1,0 +1,5500 @@
+{
+    "nodes": [
+        {
+            "id": 252452,
+            "name": "poste à essence",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 274852,
+            "name": "route de montagne",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 15061080,
+            "name": "en:gas pump",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2406581,
+            "name": "voie charretière",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 142287,
+            "name": "Manhattan",
+            "type": 1,
+            "w": 1636
+        },
+        {
+            "id": 261618,
+            "name": "::>66:121678>17:238286",
+            "type": 8,
+            "w": 50
+        },
+        {
+            "id": 4894867,
+            "name": "route de forêt",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 159331,
+            "name": "aire de repos",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 156763992,
+            "name": "Circuit d'Istanbul Park",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156754537,
+            "name": "Circuit automobile du Comminges",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156739022,
+            "name": "Circuit de Pau-Ville",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15422427,
+            "name": "salon de l'Auto",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15422429,
+            "name": "en:motor show",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10744247,
+            "name": "circuit de Spa-Francorchamps",
+            "type": 777,
+            "w": 31
+        },
+        {
+            "id": 131717,
+            "name": "centre-ville",
+            "type": 1,
+            "w": 582
+        },
+        {
+            "id": 10778113,
+            "name": "circuit de Charade",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 45758,
+            "name": "collectionneur",
+            "type": 1,
+            "w": 761
+        },
+        {
+            "id": 15442432,
+            "name": "en:village center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10778109,
+            "name": "Autódromo Juan y Oscar Gálvez",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879303,
+            "name": "circuit d'Assen",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11010819,
+            "name": "circuit automobile du Comminges",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 15418124,
+            "name": "en:B road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10879349,
+            "name": "Homestead-Miami Speedway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 30491,
+            "name": "hangar",
+            "type": 1,
+            "w": 205
+        },
+        {
+            "id": 14602869,
+            "name": "Alabama International Motor Speedway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15079995,
+            "name": "en:cart track",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15195683,
+            "name": "en:mountain road",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15206742,
+            "name": "chemin charretier",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15208103,
+            "name": "voies de garage et de triage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15244495,
+            "name": "en:a-road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15271732,
+            "name": "en:takeoff runway",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442431,
+            "name": "en:village centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15454927,
+            "name": "en:go-down",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 212298,
+            "name": "A7",
+            "type": 1,
+            "w": 49
+        },
+        {
+            "id": 13225,
+            "name": "péage",
+            "type": 1,
+            "w": 349
+        },
+        {
+            "id": 15848799,
+            "name": "en:cars show",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15331015,
+            "name": "en:shopping street",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 35035,
+            "name": "gare",
+            "type": 1,
+            "w": 3496
+        },
+        {
+            "id": 15429516,
+            "name": "en:tight ship",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 53536393,
+            "name": "route charretière",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 105520743,
+            "name": "Circuit de Charade",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 155366340,
+            "name": "Circuit international d'Okayama",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 253955,
+            "name": "route verglacée",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 156728099,
+            "name": "Circuit des Invalides",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156735166,
+            "name": "Circuit de Central Harbourfront",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17663604,
+            "name": "::>66:234999>30:107029",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 181711906,
+            "name": "circuit de Nardò",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15086201,
+            "name": "en:air station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15206604,
+            "name": "en:factory unit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3971273,
+            "name": "centre-bourg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15221761,
+            "name": "en:underground car park",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10879631,
+            "name": "circuit de Pau-Ville",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778090,
+            "name": "Circuit des frères Rodriguez",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778104,
+            "name": "circuit de Scandinavie",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778111,
+            "name": "Autódromo de Buenos Aires",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879312,
+            "name": "circuit des Planques",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879324,
+            "name": "circuit de Laguna Seca",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879344,
+            "name": "Adria International Raceway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879347,
+            "name": "Dubaï Autodrome",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778089,
+            "name": "Autódromo Hermanos Rodríguez",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778096,
+            "name": "circuit international d'Okayama",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778098,
+            "name": "circuit TI Aida",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778116,
+            "name": "Circuit de Fair Park",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778130,
+            "name": "circuit d'Imola",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879649,
+            "name": "circuit international automobile Moulay El Hassan",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879316,
+            "name": "Sydney Motorsport Park",
+            "type": 777,
+            "w": 27
+        },
+        {
+            "id": 10778073,
+            "name": "Circuit de Spielberg",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778075,
+            "name": "Red Bull Ring",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778134,
+            "name": "Jacarepaguá",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 235191559,
+            "name": "atelier mécanique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10778133,
+            "name": "Autódromo Internacional Nelson Piquet",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 224563,
+            "name": "casse>224559",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 15429517,
+            "name": "en:tight operation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15373799,
+            "name": "en:car ferry",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413804,
+            "name": "en:right in the town center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413805,
+            "name": "en:right in the city center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156728096,
+            "name": "Circuit urbain de Punta del Este",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10879356,
+            "name": "Watkins Glen International",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 100534,
+            "name": "autoroute",
+            "type": 1,
+            "w": 1878
+        },
+        {
+            "id": 153221,
+            "name": "pompe à essence",
+            "type": 1,
+            "w": 138
+        },
+        {
+            "id": 15385323,
+            "name": "en:filling-station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15151177,
+            "name": "en:dirt track",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 313095,
+            "name": "ville>43260",
+            "type": 1,
+            "w": 204
+        },
+        {
+            "id": 112512,
+            "name": "Kinshasa",
+            "type": 1,
+            "w": 303
+        },
+        {
+            "id": 140533,
+            "name": "usine",
+            "type": 1,
+            "w": 3242
+        },
+        {
+            "id": 94262,
+            "name": "aéroport",
+            "type": 1,
+            "w": 3120
+        },
+        {
+            "id": 15359753,
+            "name": "en:servicing depot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15359755,
+            "name": "en:gasoline-station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11575570,
+            "name": "circuit urbain de Santiago",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 249869,
+            "name": "parking souterrain",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 242348,
+            "name": "Léopoldville",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 244817,
+            "name": "communauté d'agglomération",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 15332347,
+            "name": "en:centre of town",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15484851,
+            "name": "route non-goudronnée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15071495,
+            "name": "en:central city",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16906480,
+            "name": "en:Car Show",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15199617,
+            "name": "en:landway",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15366049,
+            "name": "en:auction hall",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15221754,
+            "name": "en:underground parking",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 377085,
+            "name": "route secondaire",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 7015587,
+            "name": "en:staircase",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 53536394,
+            "name": "en:cart road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 79444,
+            "name": "campagne",
+            "type": 1,
+            "w": 9023
+        },
+        {
+            "id": 156728095,
+            "name": "Circuit urbain de Putrajaya",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 230539532,
+            "name": "Route départementale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234010,
+            "name": "circuit>56865",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 15384239,
+            "name": "petite route de campagne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10968562,
+            "name": "Hungaroring",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 48556,
+            "name": "boulevard",
+            "type": 1,
+            "w": 2174
+        },
+        {
+            "id": 15201086,
+            "name": "espace repos",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7409516,
+            "name": "en:urban area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143242,
+            "name": "ferry",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 15098669,
+            "name": "en:rest area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15193239,
+            "name": "en:aircraft hangar",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15195692,
+            "name": "route rurale",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 7997626,
+            "name": "en:industrial plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 245086,
+            "name": "D20",
+            "type": 1,
+            "w": 3
+        },
+        {
+            "id": 15413802,
+            "name": "en:right in the town centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413807,
+            "name": "en:right in the middle of the city",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215053,
+            "name": "rue>215052",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 10943666,
+            "name": "Circuit de Zandvoort",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 129126,
+            "name": "transbordeur",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 213995,
+            "name": "Paris>159560",
+            "type": 1,
+            "w": 536
+        },
+        {
+            "id": 156432,
+            "name": "gare de triage",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 191039,
+            "name": "Beijing",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 14926957,
+            "name": "en:downtown",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413799,
+            "name": "en:in the town centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10968521,
+            "name": "Circuit de Spa-Francorchamps",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 385909,
+            "name": "usine de production",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 15117569,
+            "name": "en:clockwork",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 272537029,
+            "name": "Paris>136786>87987",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 587349,
+            "name": "D20>146881",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332340,
+            "name": "en plein centre-ville",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 7610069,
+            "name": "en:barn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 97173,
+            "name": "magasin",
+            "type": 1,
+            "w": 4335
+        },
+        {
+            "id": 130361,
+            "name": "garage",
+            "type": 1,
+            "w": 1413
+        },
+        {
+            "id": 220141,
+            "name": "piste de décollage",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 24703,
+            "name": "conurbation",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 15206605,
+            "name": "en:production plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2092725,
+            "name": "receveuse",
+            "type": 2,
+            "w": 18
+        },
+        {
+            "id": 241325,
+            "name": "gare>25800",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 215052,
+            "name": "voie de circulation",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 15366050,
+            "name": "en:auction room",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15208104,
+            "name": "en:shunting yard",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134891,
+            "name": "nationale",
+            "type": 1,
+            "w": 4290
+        },
+        {
+            "id": 43260,
+            "name": "zone urbaine",
+            "type": 1,
+            "w": 583
+        },
+        {
+            "id": 79934,
+            "name": "impasse",
+            "type": 1,
+            "w": 466
+        },
+        {
+            "id": 108695,
+            "name": "Èze",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 2472848,
+            "name": "Le Castellet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 27120,
+            "name": "train",
+            "type": 1,
+            "w": 7952
+        },
+        {
+            "id": 14936364,
+            "name": "en:stairway",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 37277,
+            "name": "épave",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 8994,
+            "name": "piste",
+            "type": 1,
+            "w": 3369
+        },
+        {
+            "id": 15255261,
+            "name": "agglomération multicommunale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 120673,
+            "name": "New York",
+            "type": 1,
+            "w": 1651
+        },
+        {
+            "id": 19219,
+            "name": "voie",
+            "type": 1,
+            "w": 6428
+        },
+        {
+            "id": 36257,
+            "name": "Pékin",
+            "type": 1,
+            "w": 2092
+        },
+        {
+            "id": 241311,
+            "name": "rue commerçante",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 121678,
+            "name": "route",
+            "type": 1,
+            "w": 11202
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 74566,
+            "name": "Baltimore",
+            "type": 1,
+            "w": 1385
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19357
+        },
+        {
+            "id": 55077,
+            "name": "chemin",
+            "type": 1,
+            "w": 9496
+        },
+        {
+            "id": 93131,
+            "name": "USA",
+            "type": 1,
+            "w": 3751
+        },
+        {
+            "id": 191091,
+            "name": "Ouaga",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 99226246,
+            "name": "Conurbation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 344248,
+            "name": "concentration urbaine",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 15413803,
+            "name": "en:right in the city centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413806,
+            "name": "en:right in the middle of town",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 21520,
+            "name": "hameau",
+            "type": 1,
+            "w": 940
+        },
+        {
+            "id": 15193607,
+            "name": "en:dorp",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 103895,
+            "name": "chaussée",
+            "type": 1,
+            "w": 391
+        },
+        {
+            "id": 26750,
+            "name": "Tokyo",
+            "type": 1,
+            "w": 3140
+        },
+        {
+            "id": 9944121,
+            "name": "airport",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 25705,
+            "name": "terre",
+            "type": 1,
+            "w": 29970
+        },
+        {
+            "id": 113317,
+            "name": "Paris",
+            "type": 1,
+            "w": 10163
+        },
+        {
+            "id": 145738,
+            "name": "atelier",
+            "type": 1,
+            "w": 2066
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 7610275,
+            "name": "en:township",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 87887,
+            "name": "village",
+            "type": 1,
+            "w": 7445
+        },
+        {
+            "id": 87987,
+            "name": "France",
+            "type": 1,
+            "w": 25103
+        },
+        {
+            "id": 15332345,
+            "name": "en:downtown area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332349,
+            "name": "en:center of town",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14926956,
+            "name": "en:city center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15071496,
+            "name": "en:city centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332343,
+            "name": "en:in the city centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332344,
+            "name": "en:town center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332346,
+            "name": "en:midtown",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332348,
+            "name": "en:town centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332352,
+            "name": "du centre-ville",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15422428,
+            "name": "en:car show",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228841,
+            "name": "bord de route",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 15061079,
+            "name": "en:petrol pump",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 22770,
+            "name": "bidonville",
+            "type": 1,
+            "w": 145
+        },
+        {
+            "id": 597386,
+            "name": "périphérique>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 50714731,
+            "name": "en:storage building",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15437023,
+            "name": "en:working-class area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15088853,
+            "name": "en:walkway",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10879300,
+            "name": "autódromo Termas de Río Hondo",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 10879353,
+            "name": "circuit d'Enna-Pergusa",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778084,
+            "name": "Sotchi Autodrome",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778118,
+            "name": "circuit urbain de Détroit",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879354,
+            "name": "Circuit de Potrero de Los Funes",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879355,
+            "name": "Circuit de San Luis",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879630,
+            "name": "circuit urbain de Long Beach",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879652,
+            "name": "circuit des Invalides",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879653,
+            "name": "circuit urbain de la Baie de Biscayne",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778100,
+            "name": "circuit d'Aintree",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11575757,
+            "name": "circuit automobile temporaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10879644,
+            "name": "circuit urbain de Valence",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15101284,
+            "name": "en:velodrome",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15081938,
+            "name": "en:main road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15293500,
+            "name": "en:trunk route",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102420757,
+            "name": "Route nationale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 221137,
+            "name": "brouillard>124518",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 159829,
+            "name": "cage d'escalier",
+            "type": 1,
+            "w": 186
+        },
+        {
+            "id": 15115269,
+            "name": "en:traffic lane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 258490,
+            "name": "centre urbain",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 15075272,
+            "name": "en:speedway",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2437550,
+            "name": "angar",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 129760,
+            "name": "aérodrome",
+            "type": 1,
+            "w": 172
+        },
+        {
+            "id": 2604530,
+            "name": "station d'essence",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 293676,
+            "name": "station de lavage",
+            "type": 777,
+            "w": 58
+        },
+        {
+            "id": 7015565,
+            "name": "en:inner city",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15209400,
+            "name": "en:marshalling yard",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 261705,
+            "name": "D20>159668",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 10425991,
+            "name": "Nürburgring",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 162956,
+            "name": "salle des ventes",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 220132,
+            "name": "piste>87925",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 23127,
+            "name": "voie ferrée",
+            "type": 1,
+            "w": 254
+        },
+        {
+            "id": 15208094,
+            "name": "garage d'avions",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10422881,
+            "name": "circuit de Nogaro",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10422880,
+            "name": "circuit Paul Armagnac",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15199615,
+            "name": "en:secondary road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 40609,
+            "name": "encaisseur",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 81238,
+            "name": "barn",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 122897,
+            "name": "car-ferry",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 132151,
+            "name": "Cancún",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 153397,
+            "name": "station essence",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 153721,
+            "name": "station service",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 191113,
+            "name": "Tokio",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 191118,
+            "name": "Ville Lumière",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 191119,
+            "name": "Ville-Lumière",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 217880,
+            "name": "garage>145738",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 218344,
+            "name": "périphérique>215052",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 49219,
+            "name": "rond-point",
+            "type": 1,
+            "w": 161
+        },
+        {
+            "id": 241022,
+            "name": "chaussée>121678",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 10928,
+            "name": "garagiste",
+            "type": 1,
+            "w": 414
+        },
+        {
+            "id": 284573,
+            "name": "CPR",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 296990,
+            "name": "rondpoint",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 329871,
+            "name": "circuit du Castellet",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 377063,
+            "name": "route de campagne",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 377066,
+            "name": "route de terre",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 256008,
+            "name": "salon de l'auto",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14930077,
+            "name": "en:conurbation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1574826,
+            "name": "Gare de Lyon",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 125098,
+            "name": "Suresnes",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 59836,
+            "name": "percepteur",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 2571702,
+            "name": "downtown",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 136040,
+            "name": "Saint-Marin",
+            "type": 1,
+            "w": 388
+        },
+        {
+            "id": 5944791,
+            "name": "AIMS",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 99732,
+            "name": "rocade",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 95605,
+            "name": "champ",
+            "type": 1,
+            "w": 8235
+        },
+        {
+            "id": 108797,
+            "name": "périphérique",
+            "type": 1,
+            "w": 1965
+        },
+        {
+            "id": 233346,
+            "name": "route>215052",
+            "type": 1,
+            "w": 260
+        },
+        {
+            "id": 14544,
+            "name": "vitrine",
+            "type": 1,
+            "w": 401
+        },
+        {
+            "id": 125673934,
+            "name": "Gare de triage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12431,
+            "name": "Landes",
+            "type": 1,
+            "w": 2462
+        },
+        {
+            "id": 9020258,
+            "name": "Brands Hatch",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 9023361,
+            "name": "Indianapolis Motor Speedway",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 9743692,
+            "name": "en:ferry",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10422885,
+            "name": "Slovakiaring",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10422884,
+            "name": "circuit de Zandvoort",
+            "type": 777,
+            "w": 28
+        },
+        {
+            "id": 10422887,
+            "name": "circuit urbain de Bakou",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 10422888,
+            "name": "Baku City Circuit",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10422882,
+            "name": "circuit de Zolder",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10422883,
+            "name": "circuit Terlaemen",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10423318,
+            "name": "circuit de Monaco",
+            "type": 777,
+            "w": 4
+        },
+        {
+            "id": 10427697,
+            "name": "HockenheimRing Baden-Württemberg",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10427691,
+            "name": "circuit d'Istanbul Park",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10427696,
+            "name": "circuit d'Hockenheim",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10427698,
+            "name": "circuit des Amériques",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10427699,
+            "name": "COTA",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10429331,
+            "name": "Fuji Speedway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10429186,
+            "name": "circuit du Mugello",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10547126,
+            "name": "Las Vegas Motor Speedway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10744213,
+            "name": "Circuit d'Imola",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10744217,
+            "name": "Österreichring",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10776445,
+            "name": "Sonoma Raceway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10776446,
+            "name": "Sears Point Raceway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10776447,
+            "name": "Infineon Raceway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778129,
+            "name": "circuit Enzo et Dino Ferrari",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778105,
+            "name": "Anderstorp Raceway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778110,
+            "name": "Autódromo Municipal de la ciudad de Buenos Aires",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778092,
+            "name": "Circuit Yas Marina",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10778078,
+            "name": "Autodromo Nazionale di Monza",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10829268,
+            "name": "Texas Motor Speedway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15413800,
+            "name": "en:in the city center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10879326,
+            "name": "Mazda Raceway Laguna Seca",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879226,
+            "name": "Sebring International Raceway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879317,
+            "name": "Eastern Creek International Raceway",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 10879325,
+            "name": "Laguna Seca",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 10879328,
+            "name": "Canadian Tire Motorsport Park",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 10879311,
+            "name": "circuit automobile d'Albi",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879638,
+            "name": "Buddh International Circuit",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879633,
+            "name": "circuit automobile du Caesars Palace",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 10879634,
+            "name": "Monsanto Park",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 10879648,
+            "name": "circuit de Central Harbourfront",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879650,
+            "name": "circuit urbain de Punta del Este",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879651,
+            "name": "circuit urbain de l'EUR",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879654,
+            "name": "circuit urbain de Moscou",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879656,
+            "name": "circuit urbain de Putrajaya",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879637,
+            "name": "circuit international Buddh",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879640,
+            "name": "circuit de Pescara",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10879643,
+            "name": "circuit de Riverside",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10917911,
+            "name": "circuit automobile urbain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10954539,
+            "name": "Mosport",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 10968536,
+            "name": "Pocono Raceway",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 10968537,
+            "name": "The Tricky Triangle",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11253779,
+            "name": "Anneau du Rhin",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11253778,
+            "name": "circuit d'Albi",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 11378070,
+            "name": "WeatherTech Raceway Laguna Seca",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11388197,
+            "name": "circuit du Val de Vienne",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11505302,
+            "name": "Circuit de Monaco",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 11505394,
+            "name": "Circuit d'Hockenheim",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 11956150,
+            "name": "autodrome Montmagny",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 12053183,
+            "name": "circuit automobile ou moto",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12080657,
+            "name": "piste cendrée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15351387,
+            "name": "poste de ravitaillement en essence",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15359754,
+            "name": "en:gasolene-station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15359756,
+            "name": "en:gasstation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15076323,
+            "name": "en:filling station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15088678,
+            "name": "en:service station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10744211,
+            "name": "circuit d'Estoril",
+            "type": 777,
+            "w": 2
+        },
+        {
+            "id": 133132,
+            "name": "Villeurbanne",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 12921278,
+            "name": "Auto Club Speedway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 14201141,
+            "name": "Rockingham Motor Speedway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 14347493,
+            "name": "::>66:234999>30:73963",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 14388929,
+            "name": "circuit Paul Ricard",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14602868,
+            "name": "Talladega Superspeedway",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 14918149,
+            "name": "en:aerodrome",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14918150,
+            "name": "en:airdrome",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14918151,
+            "name": "en:airfield",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14941484,
+            "name": "en:hangar",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15061833,
+            "name": "en:cinder track",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15065408,
+            "name": "en:roadside",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15195693,
+            "name": "en:country road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 343415,
+            "name": "chemin de campagne",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15421084,
+            "name": "en:countryside track",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15421085,
+            "name": "en:countryside path",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15421086,
+            "name": "en:back road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15206748,
+            "name": "en:country lane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 233588,
+            "name": "chemin de terre",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 12326216,
+            "name": "en:dirt road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 68563,
+            "name": "chemin vicinal",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 15285510,
+            "name": "en:airshed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413798,
+            "name": "dans le centre-ville",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 15418078,
+            "name": "en bordure de route",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15418132,
+            "name": "en:A road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15684012,
+            "name": "en:ferry boat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15384693,
+            "name": "coeur d'une ville",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 17663658,
+            "name": "::>66:234999>30:237990",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17663649,
+            "name": "::>66:234999>30:10966253",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 38760918,
+            "name": "Circuit d'Albi",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 38760919,
+            "name": "circuit de Chenevières",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 38760920,
+            "name": "pôle des sports mécaniques de Lorraine",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 43735537,
+            "name": "Autodromo nazionale di Monza",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 94273907,
+            "name": "Circuit automobile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 99853778,
+            "name": "Circuit de Silverstone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102420768,
+            "name": "Route de montagne",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 105797361,
+            "name": "Circuit urbain de Long Beach",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105797362,
+            "name": "Circuit urbain de Détroit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105812143,
+            "name": "Circuit du Mugello",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105900865,
+            "name": "Circuit d'Assen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105900868,
+            "name": "Circuit de Scandinavie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105974009,
+            "name": "Circuit de Laguna Seca",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 108385032,
+            "name": "Le Castellet>144216",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 108385115,
+            "name": "Circuit Paul-Ricard",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 159668,
+            "name": "route départementale",
+            "type": 1,
+            "w": 198
+        },
+        {
+            "id": 165321,
+            "name": "route nationale",
+            "type": 1,
+            "w": 166
+        },
+        {
+            "id": 137680,
+            "name": "poste d'essence",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14962484,
+            "name": "en:gas station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14962485,
+            "name": "en:petrol station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 115073,
+            "name": "station-service",
+            "type": 1,
+            "w": 145
+        },
+        {
+            "id": 181711907,
+            "name": "Nardò Technical Center",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 181711857,
+            "name": "Circuit de Nardò",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 183744322,
+            "name": "Circuit of the Americas",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 204502733,
+            "name": "circuit automobile des Deux-Sèvres",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 231901685,
+            "name": "Chemin vicinal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 253141572,
+            "name": "circuit automobile de Reims-Gueux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 49151,
+            "name": "parking",
+            "type": 1,
+            "w": 974
+        },
+        {
+            "id": 329872,
+            "name": "circuit Paul-Ricard",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 6065238,
+            "name": "circuit de Nevers Magny-Cours",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2951709,
+            "name": "Altamont",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 145332,
+            "name": "casse",
+            "type": 1,
+            "w": 651
+        },
+        {
+            "id": 225171,
+            "name": "aire urbaine",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 1877278,
+            "name": "circuit de Silverstone",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 96033,
+            "name": "quai",
+            "type": 1,
+            "w": 600
+        },
+        {
+            "id": 118524,
+            "name": "agglomération",
+            "type": 1,
+            "w": 636
+        },
+        {
+            "id": 87222,
+            "name": "avenue",
+            "type": 1,
+            "w": 1625
+        },
+        {
+            "id": 374873,
+            "name": "quartier populaire",
+            "type": 1,
+            "w": 131
+        },
+        {
+            "id": 14918187,
+            "name": "en:airport",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 99288,
+            "name": "brouillard",
+            "type": 1,
+            "w": 556
+        },
+        {
+            "id": 125612,
+            "name": "stationnement",
+            "type": 1,
+            "w": 499
+        },
+        {
+            "id": 7992106,
+            "name": "en:factory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 217879,
+            "name": "garage>52423",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 244534,
+            "name": "CPA",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 94274004,
+            "name": "Salon automobile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 370577,
+            "name": "piste d'envol",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 231920,
+            "name": "salon automobile",
+            "type": 666,
+            "w": 15
+        },
+        {
+            "id": 152756,
+            "name": "centre ville",
+            "type": 1,
+            "w": 193
+        },
+        {
+            "id": 155226,
+            "name": "salon de l'automobile",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 14929008,
+            "name": "en:collector",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 89391,
+            "name": "circuit",
+            "type": 1,
+            "w": 3867
+        },
+        {
+            "id": 146025,
+            "name": "air",
+            "type": 1,
+            "w": 24393
+        },
+        {
+            "id": 113743,
+            "name": "port",
+            "type": 1,
+            "w": 5626
+        },
+        {
+            "id": 147716,
+            "name": "départementale",
+            "type": 1,
+            "w": 251
+        },
+        {
+            "id": 593052,
+            "name": "casse>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234999,
+            "name": "circuit automobile",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 15063056,
+            "name": "en:racetrack",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15202226,
+            "name": "en:racing circuit",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 11358085,
+            "node1": 6890,
+            "node2": 8994,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 989538528,
+            "node1": 6890,
+            "node2": 10928,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 11349860,
+            "node1": 6890,
+            "node2": 12431,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 96701200,
+            "node1": 6890,
+            "node2": 13225,
+            "type": 15,
+            "w": 16.0
+        },
+        {
+            "id": 96701192,
+            "node1": 6890,
+            "node2": 14544,
+            "type": 15,
+            "w": 16.0
+        },
+        {
+            "id": 97127293,
+            "node1": 6890,
+            "node2": 19219,
+            "type": 15,
+            "w": 17.0
+        },
+        {
+            "id": 182173,
+            "node1": 6890,
+            "node2": 20564,
+            "type": 15,
+            "w": 141.0
+        },
+        {
+            "id": 77945989,
+            "node1": 6890,
+            "node2": 21520,
+            "type": 15,
+            "w": 16.0
+        },
+        {
+            "id": 964970712,
+            "node1": 6890,
+            "node2": 22770,
+            "type": 15,
+            "w": 2.0
+        },
+        {
+            "id": 97127300,
+            "node1": 6890,
+            "node2": 23127,
+            "type": 15,
+            "w": 21.0
+        },
+        {
+            "id": 585212916,
+            "node1": 6890,
+            "node2": 24703,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 586204045,
+            "node1": 6890,
+            "node2": 25705,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 11355415,
+            "node1": 6890,
+            "node2": 26750,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 137685,
+            "node1": 6890,
+            "node2": 27120,
+            "type": 15,
+            "w": 88.0
+        },
+        {
+            "id": 11357373,
+            "node1": 6890,
+            "node2": 30491,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 97127319,
+            "node1": 6890,
+            "node2": 35035,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 11355649,
+            "node1": 6890,
+            "node2": 36257,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 1131510599,
+            "node1": 6890,
+            "node2": 37277,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 738415670,
+            "node1": 6890,
+            "node2": 40609,
+            "type": 15,
+            "w": 4.0
+        },
+        {
+            "id": 328046157,
+            "node1": 6890,
+            "node2": 43260,
+            "type": 15,
+            "w": 53.0
+        },
+        {
+            "id": 96701235,
+            "node1": 6890,
+            "node2": 45758,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 11356831,
+            "node1": 6890,
+            "node2": 48556,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 130402,
+            "node1": 6890,
+            "node2": 49151,
+            "type": 15,
+            "w": 179.0
+        },
+        {
+            "id": 11354512,
+            "node1": 6890,
+            "node2": 49219,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11357875,
+            "node1": 6890,
+            "node2": 55077,
+            "type": 15,
+            "w": 39.0
+        },
+        {
+            "id": 1054613090,
+            "node1": 6890,
+            "node2": 59836,
+            "type": 15,
+            "w": 2.0
+        },
+        {
+            "id": 765167891,
+            "node1": 6890,
+            "node2": 68563,
+            "type": 15,
+            "w": 8.0
+        },
+        {
+            "id": 525325729,
+            "node1": 6890,
+            "node2": 74566,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 18739868,
+            "node1": 6890,
+            "node2": 79444,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 24960791,
+            "node1": 6890,
+            "node2": 79934,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 824747421,
+            "node1": 6890,
+            "node2": 81238,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 11357832,
+            "node1": 6890,
+            "node2": 87222,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 586204065,
+            "node1": 6890,
+            "node2": 87887,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380304245,
+            "node1": 6890,
+            "node2": 87987,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 130403,
+            "node1": 6890,
+            "node2": 89391,
+            "type": 15,
+            "w": 89.0
+        },
+        {
+            "id": 24770657,
+            "node1": 6890,
+            "node2": 93131,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 96701241,
+            "node1": 6890,
+            "node2": 94262,
+            "type": 15,
+            "w": 17.0
+        },
+        {
+            "id": 96701293,
+            "node1": 6890,
+            "node2": 95605,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 97127303,
+            "node1": 6890,
+            "node2": 96033,
+            "type": 15,
+            "w": 22.0
+        },
+        {
+            "id": 96701199,
+            "node1": 6890,
+            "node2": 97173,
+            "type": 15,
+            "w": 16.0
+        },
+        {
+            "id": 253551573,
+            "node1": 6890,
+            "node2": 99288,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 96701198,
+            "node1": 6890,
+            "node2": 99732,
+            "type": 15,
+            "w": 17.0
+        },
+        {
+            "id": 130406,
+            "node1": 6890,
+            "node2": 100534,
+            "type": 15,
+            "w": 165.0
+        },
+        {
+            "id": 11353757,
+            "node1": 6890,
+            "node2": 103895,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11349789,
+            "node1": 6890,
+            "node2": 108695,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 96701255,
+            "node1": 6890,
+            "node2": 108797,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 11349825,
+            "node1": 6890,
+            "node2": 112512,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 104957877,
+            "node1": 6890,
+            "node2": 113317,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 386066997,
+            "node1": 6890,
+            "node2": 113743,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380298955,
+            "node1": 6890,
+            "node2": 115073,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 11356821,
+            "node1": 6890,
+            "node2": 118524,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11349676,
+            "node1": 6890,
+            "node2": 120673,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 130405,
+            "node1": 6890,
+            "node2": 121678,
+            "type": 15,
+            "w": 359.0
+        },
+        {
+            "id": 478439854,
+            "node1": 6890,
+            "node2": 122897,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 11350039,
+            "node1": 6890,
+            "node2": 125098,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 96701242,
+            "node1": 6890,
+            "node2": 125612,
+            "type": 15,
+            "w": 18.0
+        },
+        {
+            "id": 11356502,
+            "node1": 6890,
+            "node2": 129126,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 601076193,
+            "node1": 6890,
+            "node2": 129760,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 130401,
+            "node1": 6890,
+            "node2": 130361,
+            "type": 15,
+            "w": 241.0
+        },
+        {
+            "id": 24960797,
+            "node1": 6890,
+            "node2": 131717,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 11349891,
+            "node1": 6890,
+            "node2": 132151,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11350094,
+            "node1": 6890,
+            "node2": 133132,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 23044855,
+            "node1": 6890,
+            "node2": 134891,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 11350040,
+            "node1": 6890,
+            "node2": 136040,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11359107,
+            "node1": 6890,
+            "node2": 136786,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 471022859,
+            "node1": 6890,
+            "node2": 137680,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 96701272,
+            "node1": 6890,
+            "node2": 140533,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 104947941,
+            "node1": 6890,
+            "node2": 142287,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 96701299,
+            "node1": 6890,
+            "node2": 143242,
+            "type": 15,
+            "w": 51.0
+        },
+        {
+            "id": 96701287,
+            "node1": 6890,
+            "node2": 145332,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 1127629943,
+            "node1": 6890,
+            "node2": 145738,
+            "type": 15,
+            "w": 25.0
+        },
+        {
+            "id": 387028632,
+            "node1": 6890,
+            "node2": 146025,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 23044854,
+            "node1": 6890,
+            "node2": 147716,
+            "type": 15,
+            "w": 36.0
+        },
+        {
+            "id": 585213266,
+            "node1": 6890,
+            "node2": 152756,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 471022874,
+            "node1": 6890,
+            "node2": 153221,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 96701189,
+            "node1": 6890,
+            "node2": 153397,
+            "type": 15,
+            "w": 41.0
+        },
+        {
+            "id": 24960800,
+            "node1": 6890,
+            "node2": 153721,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 24960798,
+            "node1": 6890,
+            "node2": 155226,
+            "type": 15,
+            "w": 55.0
+        },
+        {
+            "id": 97127320,
+            "node1": 6890,
+            "node2": 156432,
+            "type": 15,
+            "w": 41.0
+        },
+        {
+            "id": 96701236,
+            "node1": 6890,
+            "node2": 159331,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 24960790,
+            "node1": 6890,
+            "node2": 159668,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 738418415,
+            "node1": 6890,
+            "node2": 159829,
+            "type": 15,
+            "w": 4.0
+        },
+        {
+            "id": 96701191,
+            "node1": 6890,
+            "node2": 162956,
+            "type": 15,
+            "w": 16.0
+        },
+        {
+            "id": 23044496,
+            "node1": 6890,
+            "node2": 165321,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 13676174,
+            "node1": 6890,
+            "node2": 191039,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 11349865,
+            "node1": 6890,
+            "node2": 191091,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 13560067,
+            "node1": 6890,
+            "node2": 191113,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 11350577,
+            "node1": 6890,
+            "node2": 191118,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 13560553,
+            "node1": 6890,
+            "node2": 191119,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 11351437,
+            "node1": 6890,
+            "node2": 212298,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 13675803,
+            "node1": 6890,
+            "node2": 213995,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 96701232,
+            "node1": 6890,
+            "node2": 215052,
+            "type": 15,
+            "w": 217.0
+        },
+        {
+            "id": 283913929,
+            "node1": 6890,
+            "node2": 215053,
+            "type": 15,
+            "w": 132.0
+        },
+        {
+            "id": 96701269,
+            "node1": 6890,
+            "node2": 217879,
+            "type": 15,
+            "w": 23.0
+        },
+        {
+            "id": 11355651,
+            "node1": 6890,
+            "node2": 217880,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11353727,
+            "node1": 6890,
+            "node2": 218344,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 96701254,
+            "node1": 6890,
+            "node2": 220132,
+            "type": 15,
+            "w": 22.0
+        },
+        {
+            "id": 386067248,
+            "node1": 6890,
+            "node2": 220141,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 253551620,
+            "node1": 6890,
+            "node2": 221137,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 96701296,
+            "node1": 6890,
+            "node2": 224563,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 471002942,
+            "node1": 6890,
+            "node2": 225171,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 13100356,
+            "node1": 6890,
+            "node2": 228841,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 11355835,
+            "node1": 6890,
+            "node2": 231920,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11356253,
+            "node1": 6890,
+            "node2": 233346,
+            "type": 15,
+            "w": 75.0
+        },
+        {
+            "id": 96701243,
+            "node1": 6890,
+            "node2": 233588,
+            "type": 15,
+            "w": 39.0
+        },
+        {
+            "id": 96701197,
+            "node1": 6890,
+            "node2": 234010,
+            "type": 15,
+            "w": 17.0
+        },
+        {
+            "id": 96701240,
+            "node1": 6890,
+            "node2": 234999,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 96701193,
+            "node1": 6890,
+            "node2": 241022,
+            "type": 15,
+            "w": 17.0
+        },
+        {
+            "id": 11352480,
+            "node1": 6890,
+            "node2": 241311,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 97127318,
+            "node1": 6890,
+            "node2": 241325,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 13560527,
+            "node1": 6890,
+            "node2": 242348,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 535709319,
+            "node1": 6890,
+            "node2": 244534,
+            "type": 15,
+            "w": 37.0
+        },
+        {
+            "id": 738406795,
+            "node1": 6890,
+            "node2": 244817,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 11351943,
+            "node1": 6890,
+            "node2": 245086,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11353333,
+            "node1": 6890,
+            "node2": 249869,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 738388151,
+            "node1": 6890,
+            "node2": 252452,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 11352366,
+            "node1": 6890,
+            "node2": 253955,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 470999666,
+            "node1": 6890,
+            "node2": 256008,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 471023562,
+            "node1": 6890,
+            "node2": 258490,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 11351836,
+            "node1": 6890,
+            "node2": 261618,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 11351411,
+            "node1": 6890,
+            "node2": 261705,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 104948446,
+            "node1": 6890,
+            "node2": 274852,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 380300902,
+            "node1": 6890,
+            "node2": 284573,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 765903218,
+            "node1": 6890,
+            "node2": 293676,
+            "type": 15,
+            "w": 8.0
+        },
+        {
+            "id": 104950029,
+            "node1": 6890,
+            "node2": 296990,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 13681113,
+            "node1": 6890,
+            "node2": 313095,
+            "type": 15,
+            "w": 56.0
+        },
+        {
+            "id": 380300903,
+            "node1": 6890,
+            "node2": 329871,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300906,
+            "node1": 6890,
+            "node2": 329872,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 534662256,
+            "node1": 6890,
+            "node2": 343415,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 471000572,
+            "node1": 6890,
+            "node2": 344248,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 964970349,
+            "node1": 6890,
+            "node2": 370577,
+            "type": 15,
+            "w": 2.0
+        },
+        {
+            "id": 253551624,
+            "node1": 6890,
+            "node2": 374873,
+            "type": 15,
+            "w": 43.0
+        },
+        {
+            "id": 23044378,
+            "node1": 6890,
+            "node2": 377063,
+            "type": 15,
+            "w": 45.0
+        },
+        {
+            "id": 473922790,
+            "node1": 6890,
+            "node2": 377066,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 585212746,
+            "node1": 6890,
+            "node2": 377085,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 584574272,
+            "node1": 6890,
+            "node2": 385909,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 104956269,
+            "node1": 6890,
+            "node2": 587349,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 615034077,
+            "node1": 6890,
+            "node2": 593052,
+            "type": 15,
+            "w": 15.0
+        },
+        {
+            "id": 104956618,
+            "node1": 6890,
+            "node2": 597386,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 380304324,
+            "node1": 6890,
+            "node2": 1574826,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300926,
+            "node1": 6890,
+            "node2": 1877278,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 977750896,
+            "node1": 6890,
+            "node2": 2092725,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 880152148,
+            "node1": 6890,
+            "node2": 2406581,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 61965839,
+            "node1": 6890,
+            "node2": 2437550,
+            "type": 15,
+            "w": 47.0
+        },
+        {
+            "id": 538803699,
+            "node1": 6890,
+            "node2": 2472848,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 617041935,
+            "node1": 6890,
+            "node2": 2571702,
+            "type": 15,
+            "w": 12.0
+        },
+        {
+            "id": 471022865,
+            "node1": 6890,
+            "node2": 2604530,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300909,
+            "node1": 6890,
+            "node2": 2951709,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 471037853,
+            "node1": 6890,
+            "node2": 3971273,
+            "type": 15,
+            "w": 15.0
+        },
+        {
+            "id": 104948457,
+            "node1": 6890,
+            "node2": 4894867,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 380303621,
+            "node1": 6890,
+            "node2": 5944791,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300905,
+            "node1": 6890,
+            "node2": 6065238,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 776473859,
+            "node1": 6890,
+            "node2": 7015565,
+            "type": 15,
+            "w": 4.0
+        },
+        {
+            "id": 537336847,
+            "node1": 6890,
+            "node2": 7015587,
+            "type": 15,
+            "w": 42.0
+        },
+        {
+            "id": 471023237,
+            "node1": 6890,
+            "node2": 7409516,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 1037322701,
+            "node1": 6890,
+            "node2": 7610069,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 738413980,
+            "node1": 6890,
+            "node2": 7610275,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 584574266,
+            "node1": 6890,
+            "node2": 7992106,
+            "type": 15,
+            "w": 21.0
+        },
+        {
+            "id": 584574269,
+            "node1": 6890,
+            "node2": 7997626,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300907,
+            "node1": 6890,
+            "node2": 9020258,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300908,
+            "node1": 6890,
+            "node2": 9023361,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 253534603,
+            "node1": 6890,
+            "node2": 9743692,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 617040778,
+            "node1": 6890,
+            "node2": 9944121,
+            "type": 15,
+            "w": 12.0
+        },
+        {
+            "id": 380300914,
+            "node1": 6890,
+            "node2": 10422880,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 380300915,
+            "node1": 6890,
+            "node2": 10422881,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300912,
+            "node1": 6890,
+            "node2": 10422882,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300913,
+            "node1": 6890,
+            "node2": 10422883,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300911,
+            "node1": 6890,
+            "node2": 10422884,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300845,
+            "node1": 6890,
+            "node2": 10422885,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300910,
+            "node1": 6890,
+            "node2": 10422887,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300853,
+            "node1": 6890,
+            "node2": 10422888,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380300916,
+            "node1": 6890,
+            "node2": 10423318,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 380300846,
+            "node1": 6890,
+            "node2": 10425991,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300918,
+            "node1": 6890,
+            "node2": 10427691,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300917,
+            "node1": 6890,
+            "node2": 10427696,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300849,
+            "node1": 6890,
+            "node2": 10427697,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300847,
+            "node1": 6890,
+            "node2": 10427698,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300848,
+            "node1": 6890,
+            "node2": 10427699,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300919,
+            "node1": 6890,
+            "node2": 10429186,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 380300850,
+            "node1": 6890,
+            "node2": 10429331,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380300851,
+            "node1": 6890,
+            "node2": 10547126,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300842,
+            "node1": 6890,
+            "node2": 10744211,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 473356500,
+            "node1": 6890,
+            "node2": 10744213,
+            "type": 15,
+            "w": 42.0
+        },
+        {
+            "id": 380300826,
+            "node1": 6890,
+            "node2": 10744217,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300854,
+            "node1": 6890,
+            "node2": 10744247,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300855,
+            "node1": 6890,
+            "node2": 10776445,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300856,
+            "node1": 6890,
+            "node2": 10776446,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 380300857,
+            "node1": 6890,
+            "node2": 10776447,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300825,
+            "node1": 6890,
+            "node2": 10778073,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300834,
+            "node1": 6890,
+            "node2": 10778075,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380300824,
+            "node1": 6890,
+            "node2": 10778078,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300843,
+            "node1": 6890,
+            "node2": 10778084,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300831,
+            "node1": 6890,
+            "node2": 10778089,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300832,
+            "node1": 6890,
+            "node2": 10778090,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300830,
+            "node1": 6890,
+            "node2": 10778092,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 380300844,
+            "node1": 6890,
+            "node2": 10778096,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380300852,
+            "node1": 6890,
+            "node2": 10778098,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300833,
+            "node1": 6890,
+            "node2": 10778100,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300822,
+            "node1": 6890,
+            "node2": 10778104,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300823,
+            "node1": 6890,
+            "node2": 10778105,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 380300838,
+            "node1": 6890,
+            "node2": 10778109,
+            "type": 15,
+            "w": 39.0
+        },
+        {
+            "id": 380300839,
+            "node1": 6890,
+            "node2": 10778110,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380300840,
+            "node1": 6890,
+            "node2": 10778111,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 535709318,
+            "node1": 6890,
+            "node2": 10778113,
+            "type": 15,
+            "w": 39.0
+        },
+        {
+            "id": 380300837,
+            "node1": 6890,
+            "node2": 10778116,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300836,
+            "node1": 6890,
+            "node2": 10778118,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 380300829,
+            "node1": 6890,
+            "node2": 10778129,
+            "type": 15,
+            "w": 36.0
+        },
+        {
+            "id": 380300835,
+            "node1": 6890,
+            "node2": 10778130,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380300827,
+            "node1": 6890,
+            "node2": 10778133,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300828,
+            "node1": 6890,
+            "node2": 10778134,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300858,
+            "node1": 6890,
+            "node2": 10829268,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300874,
+            "node1": 6890,
+            "node2": 10879226,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300873,
+            "node1": 6890,
+            "node2": 10879300,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300872,
+            "node1": 6890,
+            "node2": 10879303,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300870,
+            "node1": 6890,
+            "node2": 10879311,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300871,
+            "node1": 6890,
+            "node2": 10879312,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300868,
+            "node1": 6890,
+            "node2": 10879316,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300869,
+            "node1": 6890,
+            "node2": 10879317,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300865,
+            "node1": 6890,
+            "node2": 10879324,
+            "type": 15,
+            "w": 40.0
+        },
+        {
+            "id": 380300866,
+            "node1": 6890,
+            "node2": 10879325,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300867,
+            "node1": 6890,
+            "node2": 10879326,
+            "type": 15,
+            "w": 40.0
+        },
+        {
+            "id": 380300925,
+            "node1": 6890,
+            "node2": 10879328,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300864,
+            "node1": 6890,
+            "node2": 10879344,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 380300863,
+            "node1": 6890,
+            "node2": 10879347,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300895,
+            "node1": 6890,
+            "node2": 10879349,
+            "type": 15,
+            "w": 36.0
+        },
+        {
+            "id": 380300862,
+            "node1": 6890,
+            "node2": 10879353,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300860,
+            "node1": 6890,
+            "node2": 10879354,
+            "type": 15,
+            "w": 40.0
+        },
+        {
+            "id": 380300861,
+            "node1": 6890,
+            "node2": 10879355,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300859,
+            "node1": 6890,
+            "node2": 10879356,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300891,
+            "node1": 6890,
+            "node2": 10879630,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300890,
+            "node1": 6890,
+            "node2": 10879631,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300889,
+            "node1": 6890,
+            "node2": 10879633,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300888,
+            "node1": 6890,
+            "node2": 10879634,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300886,
+            "node1": 6890,
+            "node2": 10879637,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300887,
+            "node1": 6890,
+            "node2": 10879638,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300885,
+            "node1": 6890,
+            "node2": 10879640,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380300884,
+            "node1": 6890,
+            "node2": 10879643,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300883,
+            "node1": 6890,
+            "node2": 10879644,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300882,
+            "node1": 6890,
+            "node2": 10879648,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300881,
+            "node1": 6890,
+            "node2": 10879649,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300880,
+            "node1": 6890,
+            "node2": 10879650,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 380300879,
+            "node1": 6890,
+            "node2": 10879651,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300878,
+            "node1": 6890,
+            "node2": 10879652,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300877,
+            "node1": 6890,
+            "node2": 10879653,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 380300876,
+            "node1": 6890,
+            "node2": 10879654,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300875,
+            "node1": 6890,
+            "node2": 10879656,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300922,
+            "node1": 6890,
+            "node2": 10917911,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380303150,
+            "node1": 6890,
+            "node2": 10943666,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 380300841,
+            "node1": 6890,
+            "node2": 10954539,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300892,
+            "node1": 6890,
+            "node2": 10968521,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300820,
+            "node1": 6890,
+            "node2": 10968536,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300821,
+            "node1": 6890,
+            "node2": 10968537,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 380300898,
+            "node1": 6890,
+            "node2": 10968562,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380300923,
+            "node1": 6890,
+            "node2": 11010819,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300894,
+            "node1": 6890,
+            "node2": 11253778,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300893,
+            "node1": 6890,
+            "node2": 11253779,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 380300896,
+            "node1": 6890,
+            "node2": 11378070,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380300897,
+            "node1": 6890,
+            "node2": 11388197,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300920,
+            "node1": 6890,
+            "node2": 11505302,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 380300921,
+            "node1": 6890,
+            "node2": 11505394,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300899,
+            "node1": 6890,
+            "node2": 11575570,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300904,
+            "node1": 6890,
+            "node2": 11575757,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 380300900,
+            "node1": 6890,
+            "node2": 11956150,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 380300924,
+            "node1": 6890,
+            "node2": 12053183,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 605274462,
+            "node1": 6890,
+            "node2": 12080657,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 496736321,
+            "node1": 6890,
+            "node2": 12326216,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380300901,
+            "node1": 6890,
+            "node2": 12921278,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 380302720,
+            "node1": 6890,
+            "node2": 14201141,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 380302820,
+            "node1": 6890,
+            "node2": 14347493,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 535709317,
+            "node1": 6890,
+            "node2": 14388929,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 380303620,
+            "node1": 6890,
+            "node2": 14602868,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 380303598,
+            "node1": 6890,
+            "node2": 14602869,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 926901997,
+            "node1": 6890,
+            "node2": 14918149,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 926902129,
+            "node1": 6890,
+            "node2": 14918150,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 926902237,
+            "node1": 6890,
+            "node2": 14918151,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 492470767,
+            "node1": 6890,
+            "node2": 14918187,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 473922791,
+            "node1": 6890,
+            "node2": 14926956,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 473922793,
+            "node1": 6890,
+            "node2": 14926957,
+            "type": 15,
+            "w": 25.0
+        },
+        {
+            "id": 492470768,
+            "node1": 6890,
+            "node2": 14929008,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 471002958,
+            "node1": 6890,
+            "node2": 14930077,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 537336848,
+            "node1": 6890,
+            "node2": 14936364,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 473028707,
+            "node1": 6890,
+            "node2": 14941484,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 471022848,
+            "node1": 6890,
+            "node2": 14962484,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 471022876,
+            "node1": 6890,
+            "node2": 14962485,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 473922801,
+            "node1": 6890,
+            "node2": 15061079,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 471000063,
+            "node1": 6890,
+            "node2": 15061080,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 605274461,
+            "node1": 6890,
+            "node2": 15061833,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 584574270,
+            "node1": 6890,
+            "node2": 15063056,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 514817474,
+            "node1": 6890,
+            "node2": 15065408,
+            "type": 15,
+            "w": 40.0
+        },
+        {
+            "id": 776473872,
+            "node1": 6890,
+            "node2": 15071495,
+            "type": 15,
+            "w": 4.0
+        },
+        {
+            "id": 473922795,
+            "node1": 6890,
+            "node2": 15071496,
+            "type": 15,
+            "w": 15.0
+        },
+        {
+            "id": 605274460,
+            "node1": 6890,
+            "node2": 15075272,
+            "type": 15,
+            "w": 41.0
+        },
+        {
+            "id": 471022863,
+            "node1": 6890,
+            "node2": 15076323,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 880152155,
+            "node1": 6890,
+            "node2": 15079995,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 539094913,
+            "node1": 6890,
+            "node2": 15081938,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 1054588911,
+            "node1": 6890,
+            "node2": 15086201,
+            "type": 15,
+            "w": 4.0
+        },
+        {
+            "id": 471000417,
+            "node1": 6890,
+            "node2": 15088678,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 514823283,
+            "node1": 6890,
+            "node2": 15088853,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 473922787,
+            "node1": 6890,
+            "node2": 15098669,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 605274459,
+            "node1": 6890,
+            "node2": 15101284,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 471023318,
+            "node1": 6890,
+            "node2": 15115269,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 601076192,
+            "node1": 6890,
+            "node2": 15117569,
+            "type": 15,
+            "w": 25.0
+        },
+        {
+            "id": 473922788,
+            "node1": 6890,
+            "node2": 15151177,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 1037322861,
+            "node1": 6890,
+            "node2": 15193239,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 539097763,
+            "node1": 6890,
+            "node2": 15193607,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 561141344,
+            "node1": 6890,
+            "node2": 15195683,
+            "type": 15,
+            "w": 13.0
+        },
+        {
+            "id": 765167087,
+            "node1": 6890,
+            "node2": 15195692,
+            "type": 15,
+            "w": 12.0
+        },
+        {
+            "id": 510788854,
+            "node1": 6890,
+            "node2": 15195693,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 561138158,
+            "node1": 6890,
+            "node2": 15199615,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 550584467,
+            "node1": 6890,
+            "node2": 15199617,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 584574271,
+            "node1": 6890,
+            "node2": 15201086,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 496736320,
+            "node1": 6890,
+            "node2": 15202226,
+            "type": 15,
+            "w": 41.0
+        },
+        {
+            "id": 584574267,
+            "node1": 6890,
+            "node2": 15206604,
+            "type": 15,
+            "w": 15.0
+        },
+        {
+            "id": 584574268,
+            "node1": 6890,
+            "node2": 15206605,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 880152134,
+            "node1": 6890,
+            "node2": 15206742,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 510788855,
+            "node1": 6890,
+            "node2": 15206748,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 539094695,
+            "node1": 6890,
+            "node2": 15208094,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 1054603230,
+            "node1": 6890,
+            "node2": 15208103,
+            "type": 15,
+            "w": 2.0
+        },
+        {
+            "id": 474023207,
+            "node1": 6890,
+            "node2": 15208104,
+            "type": 15,
+            "w": 36.0
+        },
+        {
+            "id": 474023206,
+            "node1": 6890,
+            "node2": 15209400,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 594583537,
+            "node1": 6890,
+            "node2": 15221754,
+            "type": 15,
+            "w": 23.0
+        },
+        {
+            "id": 1054604018,
+            "node1": 6890,
+            "node2": 15221761,
+            "type": 15,
+            "w": 2.0
+        },
+        {
+            "id": 1054606045,
+            "node1": 6890,
+            "node2": 15244495,
+            "type": 15,
+            "w": 2.0
+        },
+        {
+            "id": 738406763,
+            "node1": 6890,
+            "node2": 15255261,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 1054590243,
+            "node1": 6890,
+            "node2": 15271732,
+            "type": 15,
+            "w": 4.0
+        },
+        {
+            "id": 473028714,
+            "node1": 6890,
+            "node2": 15285510,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 720932458,
+            "node1": 6890,
+            "node2": 15293500,
+            "type": 15,
+            "w": 25.0
+        },
+        {
+            "id": 483268253,
+            "node1": 6890,
+            "node2": 15331015,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 471020770,
+            "node1": 6890,
+            "node2": 15332340,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 473922799,
+            "node1": 6890,
+            "node2": 15332343,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 473922792,
+            "node1": 6890,
+            "node2": 15332344,
+            "type": 15,
+            "w": 15.0
+        },
+        {
+            "id": 738400838,
+            "node1": 6890,
+            "node2": 15332345,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 473922794,
+            "node1": 6890,
+            "node2": 15332346,
+            "type": 15,
+            "w": 15.0
+        },
+        {
+            "id": 738400853,
+            "node1": 6890,
+            "node2": 15332347,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 473922796,
+            "node1": 6890,
+            "node2": 15332348,
+            "type": 15,
+            "w": 15.0
+        },
+        {
+            "id": 738400865,
+            "node1": 6890,
+            "node2": 15332349,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 738400867,
+            "node1": 6890,
+            "node2": 15332352,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 824747366,
+            "node1": 6890,
+            "node2": 15351387,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 514819768,
+            "node1": 6890,
+            "node2": 15359753,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 738398347,
+            "node1": 6890,
+            "node2": 15359754,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 738398363,
+            "node1": 6890,
+            "node2": 15359755,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 738398382,
+            "node1": 6890,
+            "node2": 15359756,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 478439852,
+            "node1": 6890,
+            "node2": 15366049,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 584574265,
+            "node1": 6890,
+            "node2": 15366050,
+            "type": 15,
+            "w": 21.0
+        },
+        {
+            "id": 539091622,
+            "node1": 6890,
+            "node2": 15373799,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 578614054,
+            "node1": 6890,
+            "node2": 15384239,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 937863387,
+            "node1": 6890,
+            "node2": 15384693,
+            "type": 15,
+            "w": 16.0
+        },
+        {
+            "id": 738397331,
+            "node1": 6890,
+            "node2": 15385323,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 473922798,
+            "node1": 6890,
+            "node2": 15413798,
+            "type": 15,
+            "w": 24.0
+        },
+        {
+            "id": 473922797,
+            "node1": 6890,
+            "node2": 15413799,
+            "type": 15,
+            "w": 21.0
+        },
+        {
+            "id": 473922800,
+            "node1": 6890,
+            "node2": 15413800,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 471951880,
+            "node1": 6890,
+            "node2": 15413802,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 471951892,
+            "node1": 6890,
+            "node2": 15413803,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 471951904,
+            "node1": 6890,
+            "node2": 15413804,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 471951928,
+            "node1": 6890,
+            "node2": 15413805,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 471951916,
+            "node1": 6890,
+            "node2": 15413806,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 471951940,
+            "node1": 6890,
+            "node2": 15413807,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 547220197,
+            "node1": 6890,
+            "node2": 15418078,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 937861428,
+            "node1": 6890,
+            "node2": 15418124,
+            "type": 15,
+            "w": 16.0
+        },
+        {
+            "id": 510788956,
+            "node1": 6890,
+            "node2": 15418132,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 549082264,
+            "node1": 6890,
+            "node2": 15421084,
+            "type": 15,
+            "w": 41.0
+        },
+        {
+            "id": 549082272,
+            "node1": 6890,
+            "node2": 15421085,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 549082271,
+            "node1": 6890,
+            "node2": 15421086,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 471003568,
+            "node1": 6890,
+            "node2": 15422427,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 471003565,
+            "node1": 6890,
+            "node2": 15422428,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 471003561,
+            "node1": 6890,
+            "node2": 15422429,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 977752167,
+            "node1": 6890,
+            "node2": 15429516,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 977751917,
+            "node1": 6890,
+            "node2": 15429517,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 510787131,
+            "node1": 6890,
+            "node2": 15437023,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 471028047,
+            "node1": 6890,
+            "node2": 15442431,
+            "type": 15,
+            "w": 16.0
+        },
+        {
+            "id": 471028049,
+            "node1": 6890,
+            "node2": 15442432,
+            "type": 15,
+            "w": 21.0
+        },
+        {
+            "id": 738394654,
+            "node1": 6890,
+            "node2": 15454927,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 473922789,
+            "node1": 6890,
+            "node2": 15484851,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 880153724,
+            "node1": 6890,
+            "node2": 15684012,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 471003444,
+            "node1": 6890,
+            "node2": 15848799,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 738377764,
+            "node1": 6890,
+            "node2": 16906480,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 484680861,
+            "node1": 6890,
+            "node2": 17663604,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 484680862,
+            "node1": 6890,
+            "node2": 17663649,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 484680863,
+            "node1": 6890,
+            "node2": 17663658,
+            "type": 15,
+            "w": 36.0
+        },
+        {
+            "id": 535709316,
+            "node1": 6890,
+            "node2": 38760918,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 535709314,
+            "node1": 6890,
+            "node2": 38760919,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 535709315,
+            "node1": 6890,
+            "node2": 38760920,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 535709321,
+            "node1": 6890,
+            "node2": 43735537,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 1037322541,
+            "node1": 6890,
+            "node2": 50714731,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 880152141,
+            "node1": 6890,
+            "node2": 53536393,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 880152163,
+            "node1": 6890,
+            "node2": 53536394,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 937859689,
+            "node1": 6890,
+            "node2": 94273907,
+            "type": 15,
+            "w": 19.0
+        },
+        {
+            "id": 937859662,
+            "node1": 6890,
+            "node2": 94274004,
+            "type": 15,
+            "w": 19.0
+        },
+        {
+            "id": 1124427915,
+            "node1": 6890,
+            "node2": 99226246,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 535709322,
+            "node1": 6890,
+            "node2": 99853778,
+            "type": 15,
+            "w": 34.0
+        },
+        {
+            "id": 534662372,
+            "node1": 6890,
+            "node2": 102420757,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 534662363,
+            "node1": 6890,
+            "node2": 102420768,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 1066409142,
+            "node1": 6890,
+            "node2": 105520743,
+            "type": 15,
+            "w": 1.0
+        },
+        {
+            "id": 534664793,
+            "node1": 6890,
+            "node2": 105797361,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 534664799,
+            "node1": 6890,
+            "node2": 105797362,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 534664787,
+            "node1": 6890,
+            "node2": 105812143,
+            "type": 15,
+            "w": 38.0
+        },
+        {
+            "id": 534664775,
+            "node1": 6890,
+            "node2": 105900865,
+            "type": 15,
+            "w": 35.0
+        },
+        {
+            "id": 534664781,
+            "node1": 6890,
+            "node2": 105900868,
+            "type": 15,
+            "w": 27.0
+        },
+        {
+            "id": 534664761,
+            "node1": 6890,
+            "node2": 105974009,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 535709320,
+            "node1": 6890,
+            "node2": 108385032,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 534790559,
+            "node1": 6890,
+            "node2": 108385115,
+            "type": 15,
+            "w": 28.0
+        },
+        {
+            "id": 549081224,
+            "node1": 6890,
+            "node2": 125673934,
+            "type": 15,
+            "w": 29.0
+        },
+        {
+            "id": 553335975,
+            "node1": 6890,
+            "node2": 155366340,
+            "type": 15,
+            "w": 30.0
+        },
+        {
+            "id": 1127469707,
+            "node1": 6890,
+            "node2": 156728095,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 1127469698,
+            "node1": 6890,
+            "node2": 156728096,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 1127469695,
+            "node1": 6890,
+            "node2": 156728099,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 1127469683,
+            "node1": 6890,
+            "node2": 156735166,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 1127469680,
+            "node1": 6890,
+            "node2": 156739022,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 1127469724,
+            "node1": 6890,
+            "node2": 156754537,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 1127469716,
+            "node1": 6890,
+            "node2": 156763992,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 977751343,
+            "node1": 6890,
+            "node2": 181711857,
+            "type": 15,
+            "w": 6.0
+        },
+        {
+            "id": 579956056,
+            "node1": 6890,
+            "node2": 181711906,
+            "type": 15,
+            "w": 26.0
+        },
+        {
+            "id": 579956055,
+            "node1": 6890,
+            "node2": 181711907,
+            "type": 15,
+            "w": 31.0
+        },
+        {
+            "id": 579956957,
+            "node1": 6890,
+            "node2": 183744322,
+            "type": 15,
+            "w": 32.0
+        },
+        {
+            "id": 594578102,
+            "node1": 6890,
+            "node2": 204502733,
+            "type": 15,
+            "w": 22.0
+        },
+        {
+            "id": 1124421274,
+            "node1": 6890,
+            "node2": 230539532,
+            "type": 15,
+            "w": 4.0
+        },
+        {
+            "id": 977753366,
+            "node1": 6890,
+            "node2": 231901685,
+            "type": 15,
+            "w": 3.0
+        },
+        {
+            "id": 765903220,
+            "node1": 6890,
+            "node2": 235191559,
+            "type": 15,
+            "w": 8.0
+        },
+        {
+            "id": 720937146,
+            "node1": 6890,
+            "node2": 253141572,
+            "type": 15,
+            "w": 25.0
+        },
+        {
+            "id": 1124418840,
+            "node1": 6890,
+            "node2": 272537029,
+            "type": 15,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            15
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:50.072210",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voiture",
+        "#relations": 420,
+        "max_relation_weight": 359.0,
+        "#nodes": 421,
+        "duration": "0:00:00.066215"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 71346,
+            "name": "éclairage",
+            "type": 1,
+            "w": 1414
+        },
+        {
+            "id": 73061,
+            "name": "lampe",
+            "type": 1,
+            "w": 1547
+        }
+    ],
+    "relations": [
+        {
+            "id": 1182104387,
+            "node1": 73061,
+            "node2": 71346,
+            "type": 41,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:35.322071",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lampe",
+        "#relations": 1,
+        "max_relation_weight": 40.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003234"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 26477,
+            "name": "mariage",
+            "type": 1,
+            "w": 7322
+        },
+        {
+            "id": 98300,
+            "name": "famille",
+            "type": 1,
+            "w": 26902
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131502187,
+            "node1": 26477,
+            "node2": 98300,
+            "type": 53,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:17.875684",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mariage",
+        "#relations": 1,
+        "max_relation_weight": 29.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005244"
+    }
+}

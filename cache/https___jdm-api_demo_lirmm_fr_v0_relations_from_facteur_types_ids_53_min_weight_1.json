@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 461365265,
+            "name": "lettres (au sens ancien, « messager »)",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 40923,
+            "name": "courrier",
+            "type": 1,
+            "w": 2885
+        },
+        {
+            "id": 39204,
+            "name": "guitare",
+            "type": 1,
+            "w": 3592
+        },
+        {
+            "id": 52443,
+            "name": "orgue",
+            "type": 1,
+            "w": 1336
+        },
+        {
+            "id": 125955,
+            "name": "contrebasse",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 13974,
+            "name": "facteur",
+            "type": 1,
+            "w": 4917
+        },
+        {
+            "id": 115243,
+            "name": "livraison",
+            "type": 1,
+            "w": 1186
+        },
+        {
+            "id": 4383,
+            "name": "luth",
+            "type": 1,
+            "w": 103
+        }
+    ],
+    "relations": [
+        {
+            "id": 97128772,
+            "node1": 13974,
+            "node2": 4383,
+            "type": 53,
+            "w": 15.0
+        },
+        {
+            "id": 97128771,
+            "node1": 13974,
+            "node2": 39204,
+            "type": 53,
+            "w": 15.0
+        },
+        {
+            "id": 1131440319,
+            "node1": 13974,
+            "node2": 40923,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 97128764,
+            "node1": 13974,
+            "node2": 52443,
+            "type": 53,
+            "w": 15.0
+        },
+        {
+            "id": 1131454299,
+            "node1": 13974,
+            "node2": 115243,
+            "type": 53,
+            "w": 37.0
+        },
+        {
+            "id": 97128774,
+            "node1": 13974,
+            "node2": 125955,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 1150543167,
+            "node1": 13974,
+            "node2": 461365265,
+            "type": 53,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:45.555468",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "facteur",
+        "#relations": 7,
+        "max_relation_weight": 37.0,
+        "#nodes": 8,
+        "duration": "0:00:00.004655"
+    }
+}

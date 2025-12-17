@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104285,
+            "name": "astre",
+            "type": 1,
+            "w": 1203
+        },
+        {
+            "id": 3905,
+            "name": "durée",
+            "type": 1,
+            "w": 6877
+        },
+        {
+            "id": 42700,
+            "name": "satellite",
+            "type": 1,
+            "w": 4247
+        },
+        {
+            "id": 141367,
+            "name": "lune",
+            "type": 1,
+            "w": 5359
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 215553,
+            "name": "sattelite",
+            "type": 666,
+            "w": 50
+        },
+        {
+            "id": 56100,
+            "name": "corps céleste",
+            "type": 1,
+            "w": 162
+        },
+        {
+            "id": 167762,
+            "name": "satellite naturel",
+            "type": 1,
+            "w": 121
+        },
+        {
+            "id": 111717975,
+            "name": "Satellite naturel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442909,
+            "name": "en:natural satellite",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 236653,
+            "name": "objet céleste",
+            "type": 1,
+            "w": 60
+        }
+    ],
+    "relations": [
+        {
+            "id": 1823244,
+            "node1": 141367,
+            "node2": 3905,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 233556,
+            "node1": 141367,
+            "node2": 42700,
+            "type": 6,
+            "w": 107.0
+        },
+        {
+            "id": 537360260,
+            "node1": 141367,
+            "node2": 56100,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 233555,
+            "node1": 141367,
+            "node2": 104285,
+            "type": 6,
+            "w": 98.0
+        },
+        {
+            "id": 630209,
+            "node1": 141367,
+            "node2": 135190,
+            "type": 6,
+            "w": 109.0
+        },
+        {
+            "id": 93565257,
+            "node1": 141367,
+            "node2": 167762,
+            "type": 6,
+            "w": 139.0
+        },
+        {
+            "id": 97324036,
+            "node1": 141367,
+            "node2": 215553,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 93565256,
+            "node1": 141367,
+            "node2": 236653,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 603800062,
+            "node1": 141367,
+            "node2": 15442909,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 540928200,
+            "node1": 141367,
+            "node2": 111717975,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 1074625939,
+            "node1": 141367,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:07.750880",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lune",
+        "#relations": 11,
+        "max_relation_weight": 139.0,
+        "#nodes": 12,
+        "duration": "0:00:00.024603"
+    }
+}

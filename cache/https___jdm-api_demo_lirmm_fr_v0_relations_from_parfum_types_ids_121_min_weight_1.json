@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2518
+        },
+        {
+            "id": 144839,
+            "name": "étiquette",
+            "type": 1,
+            "w": 731
+        },
+        {
+            "id": 11664,
+            "name": "flacon",
+            "type": 1,
+            "w": 276
+        }
+    ],
+    "relations": [
+        {
+            "id": 1023121110,
+            "node1": 55249,
+            "node2": 11664,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 1023121133,
+            "node1": 55249,
+            "node2": 144839,
+            "type": 121,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:23.971564",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "parfum",
+        "#relations": 2,
+        "max_relation_weight": 32.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004140"
+    }
+}

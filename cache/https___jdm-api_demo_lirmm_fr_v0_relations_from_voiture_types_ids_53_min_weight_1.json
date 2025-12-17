@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 10564,
+            "name": "déplacement",
+            "type": 1,
+            "w": 6546
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19302
+        },
+        {
+            "id": 43106,
+            "name": "bruit",
+            "type": 1,
+            "w": 9804
+        },
+        {
+            "id": 99532,
+            "name": "pollution",
+            "type": 1,
+            "w": 12724
+        },
+        {
+            "id": 133674,
+            "name": "ronronnement",
+            "type": 1,
+            "w": 242
+        },
+        {
+            "id": 243683,
+            "name": "gaz d'échappement",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 340461,
+            "name": "bruit de moteur",
+            "type": 1,
+            "w": 58
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143972130,
+            "node1": 6890,
+            "node2": 10564,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 788843346,
+            "node1": 6890,
+            "node2": 43106,
+            "type": 53,
+            "w": 42.0
+        },
+        {
+            "id": 793723864,
+            "node1": 6890,
+            "node2": 99532,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 982788335,
+            "node1": 6890,
+            "node2": 133674,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1036910714,
+            "node1": 6890,
+            "node2": 243683,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 770221570,
+            "node1": 6890,
+            "node2": 340461,
+            "type": 53,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:54.221716",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voiture",
+        "#relations": 6,
+        "max_relation_weight": 42.0,
+        "#nodes": 7,
+        "duration": "0:00:00.017362"
+    }
+}

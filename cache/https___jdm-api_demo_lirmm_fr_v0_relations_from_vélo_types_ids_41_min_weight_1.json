@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 146295,
+            "name": "fatigue",
+            "type": 1,
+            "w": 3588
+        },
+        {
+            "id": 172161698,
+            "name": "réduction des émissions",
+            "type": 1,
+            "w": 2257
+        },
+        {
+            "id": 174493208,
+            "name": "amélioration de la condition physique",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 68256,
+            "name": "vélo",
+            "type": 1,
+            "w": 4506
+        },
+        {
+            "id": 233027,
+            "name": "exercice physique",
+            "type": 1,
+            "w": 385
+        },
+        {
+            "id": 251582,
+            "name": "perte de poids",
+            "type": 1,
+            "w": 165
+        },
+        {
+            "id": 15039555,
+            "name": "amélioration de la santé",
+            "type": 777,
+            "w": 71
+        }
+    ],
+    "relations": [
+        {
+            "id": 14644427,
+            "node1": 68256,
+            "node2": 146295,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 992009176,
+            "node1": 68256,
+            "node2": 233027,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1164027156,
+            "node1": 68256,
+            "node2": 251582,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1164027169,
+            "node1": 68256,
+            "node2": 15039555,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1151039898,
+            "node1": 68256,
+            "node2": 172161698,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1151039909,
+            "node1": 68256,
+            "node2": 174493208,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:54.595347",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "vélo",
+        "#relations": 6,
+        "max_relation_weight": 32.0,
+        "#nodes": 7,
+        "duration": "0:00:00.006315"
+    }
+}

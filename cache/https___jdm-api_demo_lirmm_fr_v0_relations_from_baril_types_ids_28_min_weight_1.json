@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 21314,
+            "name": "carburant",
+            "type": 1,
+            "w": 2405
+        },
+        {
+            "id": 30732,
+            "name": "baril",
+            "type": 1,
+            "w": 311
+        },
+        {
+            "id": 215921,
+            "name": "essence>21314",
+            "type": 1,
+            "w": 122
+        },
+        {
+            "id": 20583,
+            "name": "pétrole",
+            "type": 1,
+            "w": 4438
+        },
+        {
+            "id": 78365,
+            "name": "gaz",
+            "type": 1,
+            "w": 6940
+        },
+        {
+            "id": 65012,
+            "name": "eau",
+            "type": 1,
+            "w": 39833
+        },
+        {
+            "id": 139470,
+            "name": "poudre",
+            "type": 1,
+            "w": 2533
+        },
+        {
+            "id": 35798,
+            "name": "vin",
+            "type": 1,
+            "w": 8031
+        },
+        {
+            "id": 141971,
+            "name": "huile",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 133813,
+            "name": "essence",
+            "type": 1,
+            "w": 4012
+        }
+    ],
+    "relations": [
+        {
+            "id": 638304,
+            "node1": 30732,
+            "node2": 20583,
+            "type": 28,
+            "w": 108.0
+        },
+        {
+            "id": 11345639,
+            "node1": 30732,
+            "node2": 21314,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 638305,
+            "node1": 30732,
+            "node2": 35798,
+            "type": 28,
+            "w": 109.0
+        },
+        {
+            "id": 638302,
+            "node1": 30732,
+            "node2": 65012,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 13098061,
+            "node1": 30732,
+            "node2": 78365,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 104938158,
+            "node1": 30732,
+            "node2": 133813,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 638303,
+            "node1": 30732,
+            "node2": 139470,
+            "type": 28,
+            "w": 88.0
+        },
+        {
+            "id": 1691805,
+            "node1": 30732,
+            "node2": 141971,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 11335343,
+            "node1": 30732,
+            "node2": 215921,
+            "type": 28,
+            "w": 38.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:01.255627",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "baril",
+        "#relations": 9,
+        "max_relation_weight": 109.0,
+        "#nodes": 10,
+        "duration": "0:00:00.004905"
+    }
+}

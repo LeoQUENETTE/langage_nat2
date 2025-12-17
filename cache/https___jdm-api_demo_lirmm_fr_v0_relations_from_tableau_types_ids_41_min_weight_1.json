@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 41490,
+            "name": "inspiration",
+            "type": 1,
+            "w": 6770
+        },
+        {
+            "id": 75003,
+            "name": "tableau",
+            "type": 1,
+            "w": 5392
+        },
+        {
+            "id": 255783659,
+            "name": "appréciation esthétique",
+            "type": 1,
+            "w": 37
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154242260,
+            "node1": 75003,
+            "node2": 41490,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158176240,
+            "node1": 75003,
+            "node2": 255783659,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:02.610733",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tableau",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004868"
+    }
+}

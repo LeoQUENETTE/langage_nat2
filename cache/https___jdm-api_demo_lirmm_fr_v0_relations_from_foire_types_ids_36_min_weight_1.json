@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 162760,
+            "name": "_INFO-SEM-EVENT",
+            "type": 36,
+            "w": 230
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317323,
+            "name": "_POLIT_2PG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 92053,
+            "name": "foire",
+            "type": 1,
+            "w": 415
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 667585,
+            "node1": 92053,
+            "node2": 162759,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 777594726,
+            "node1": 92053,
+            "node2": 162760,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 739200,
+            "node1": 92053,
+            "node2": 191741,
+            "type": 36,
+            "w": 45.0
+        },
+        {
+            "id": 1646404,
+            "node1": 92053,
+            "node2": 217817,
+            "type": 36,
+            "w": 37.0
+        },
+        {
+            "id": 2008712,
+            "node1": 92053,
+            "node2": 223172,
+            "type": 36,
+            "w": 76.0
+        },
+        {
+            "id": 2008713,
+            "node1": 92053,
+            "node2": 223173,
+            "type": 36,
+            "w": 281.0
+        },
+        {
+            "id": 11936373,
+            "node1": 92053,
+            "node2": 241794,
+            "type": 36,
+            "w": 792.0
+        },
+        {
+            "id": 2245196,
+            "node1": 92053,
+            "node2": 248198,
+            "type": 36,
+            "w": 17.0
+        },
+        {
+            "id": 2325963,
+            "node1": 92053,
+            "node2": 254876,
+            "type": 36,
+            "w": 24.0
+        },
+        {
+            "id": 11937552,
+            "node1": 92053,
+            "node2": 254877,
+            "type": 36,
+            "w": 69.0
+        },
+        {
+            "id": 2325964,
+            "node1": 92053,
+            "node2": 254878,
+            "type": 36,
+            "w": 7.0
+        },
+        {
+            "id": 1112435004,
+            "node1": 92053,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 9011376,
+            "node1": 92053,
+            "node2": 317323,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 8934268,
+            "node1": 92053,
+            "node2": 317324,
+            "type": 36,
+            "w": 18.0
+        },
+        {
+            "id": 363918545,
+            "node1": 92053,
+            "node2": 438949,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 54723984,
+            "node1": 92053,
+            "node2": 2585996,
+            "type": 36,
+            "w": 58.0
+        },
+        {
+            "id": 418107490,
+            "node1": 92053,
+            "node2": 15991432,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 499207551,
+            "node1": 92053,
+            "node2": 50233540,
+            "type": 36,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:31.147017",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "foire",
+        "#relations": 18,
+        "max_relation_weight": 792.0,
+        "#nodes": 19,
+        "duration": "0:00:00.010266"
+    }
+}

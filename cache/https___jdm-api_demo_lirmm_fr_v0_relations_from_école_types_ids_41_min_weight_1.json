@@ -1,0 +1,1340 @@
+{
+    "nodes": [
+        {
+            "id": 119843,
+            "name": "prof",
+            "type": 1,
+            "w": 928
+        },
+        {
+            "id": 70206,
+            "name": "cahier",
+            "type": 1,
+            "w": 1412
+        },
+        {
+            "id": 15291693,
+            "name": "en:be down in the dumps",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 118790,
+            "name": "cuisinier",
+            "type": 1,
+            "w": 1350
+        },
+        {
+            "id": 15476741,
+            "name": "en:have dark thoughts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15312482,
+            "name": "en:primary school teacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15291692,
+            "name": "en:be in the doldrums",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15296342,
+            "name": "avoir le moral en berne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15291694,
+            "name": "en:feel down",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 108474,
+            "name": "être frais émoulu",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 185636,
+            "name": "avoir le moral à zéro",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 222329,
+            "name": "éducatrice",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 14935344,
+            "name": "en:be tired of",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15291696,
+            "name": "broye du noir",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 185990,
+            "name": "en avoir plein le dos",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 15235937,
+            "name": "en:to be really depressed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15293154,
+            "name": "être dans le marasme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15340148,
+            "name": "en:to be browned off",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15385544,
+            "name": "en:feel glum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15423170,
+            "name": "avoir un coup de blues",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15457772,
+            "name": "en:be down",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15457773,
+            "name": "en:be blue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15457774,
+            "name": "en:have got the blues",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15399018,
+            "name": "en:to have had enough",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15235223,
+            "name": "en:to feel down",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15314467,
+            "name": "en:to be pissed off",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15341447,
+            "name": "en:am fed up",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15341448,
+            "name": "en:are fed up",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15564041,
+            "name": "en:be browned off",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 185985,
+            "name": "en avoir assez",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 15266158,
+            "name": "en:feel down in the dumps",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15416311,
+            "name": "en:be in low spirits",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 172448,
+            "name": "en avoir sa claque",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 14935348,
+            "name": "en:to have had it up to here",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 265706,
+            "name": "avoir le moral dans les chaussettes",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 15447189,
+            "name": "en:be really down in the dump",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15235936,
+            "name": "être en pleine déprime",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142644,
+            "name": "misanthrope",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 60866,
+            "name": "cours",
+            "type": 1,
+            "w": 14782
+        },
+        {
+            "id": 27292,
+            "name": "diplôme",
+            "type": 1,
+            "w": 4435
+        },
+        {
+            "id": 28175,
+            "name": "scolastique",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 13340627,
+            "name": "en:instructor",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 68887,
+            "name": "élève",
+            "type": 1,
+            "w": 7699
+        },
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 15235225,
+            "name": "en:have the blahs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15759672,
+            "name": "en:feel a little depressed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 155109,
+            "name": "enseignante",
+            "type": 1,
+            "w": 536
+        },
+        {
+            "id": 15416312,
+            "name": "en:be really down",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15235215,
+            "name": "en:have the blues",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 204201,
+            "name": "ne pas avoir le moral",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 185989,
+            "name": "en avoir plein le cul",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 15235214,
+            "name": "en:to be feeling down",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15235224,
+            "name": "en:feel blue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7574184,
+            "name": "en:feel depressed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15266161,
+            "name": "en:be depressed",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15416310,
+            "name": "avoir le moral au plus bas",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 185991,
+            "name": "en avoir plein les bottes",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15283676,
+            "name": "en:to have the blues",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15341446,
+            "name": "en:be fed up",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15461557,
+            "name": "en:have feelings of gloominess",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15461561,
+            "name": "en:feel melancholy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15532321,
+            "name": "en:be feeling down",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 248500,
+            "name": "développement personnel",
+            "type": 1,
+            "w": 3921
+        },
+        {
+            "id": 14934781,
+            "name": "en:educator",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15045523,
+            "name": "en:schoolmaster",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 322416727,
+            "name": "Enseignante",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 15209188,
+            "name": "en:primary schoolteacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15209185,
+            "name": "en:primary teacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 185988,
+            "name": "en avoir marre",
+            "type": 1,
+            "w": 123
+        },
+        {
+            "id": 8272,
+            "name": "avoir le blues",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 9166,
+            "name": "avoir des idées noires",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 94046,
+            "name": "avoir le cafard",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 163664,
+            "name": "avoir le bourdon",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 175043,
+            "name": "scholastique",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 199144,
+            "name": "en avoir par-dessus la tête",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 199864,
+            "name": "être au trente-sixième dessous",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 229012,
+            "name": "avoir du vague à l'âme",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 252958,
+            "name": "faire son cartable",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 252956,
+            "name": "préparer son cartable",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 15449609,
+            "name": "en:feel gloomy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15350829,
+            "name": "se sentir morose",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 259285,
+            "name": "être mort de fatigue",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 15285274,
+            "name": "en:to be fed up",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15314334,
+            "name": "en:get brassed off",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15340147,
+            "name": "en:get a bellyful",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15340149,
+            "name": "en:have a bellyful",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15358082,
+            "name": "en:feel sick and tired",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15366264,
+            "name": "en:be sick to the back teeth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15432161,
+            "name": "en:be pissed off",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15436632,
+            "name": "en:have had it up to here",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15460155,
+            "name": "en avoir plein le béret",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15461556,
+            "name": "en:have feelings of melancholy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15461558,
+            "name": "en:have low spirits",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15461559,
+            "name": "en:be melancholy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15461560,
+            "name": "en:be gloomy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15563202,
+            "name": "en:be really depressed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36671626,
+            "name": "en:be fed up with it",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36671627,
+            "name": "en:be fed up of it",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15045195,
+            "name": "en:schoolteacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 199148,
+            "name": "en avoir ras le bol",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 65138,
+            "name": "instituteur",
+            "type": 1,
+            "w": 1373
+        }
+    ],
+    "relations": [
+        {
+            "id": 412452855,
+            "node1": 91240,
+            "node2": 8272,
+            "type": 41,
+            "w": 183.0
+        },
+        {
+            "id": 474255061,
+            "node1": 91240,
+            "node2": 9166,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1147900218,
+            "node1": 91240,
+            "node2": 27292,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14658840,
+            "node1": 91240,
+            "node2": 28175,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 14658579,
+            "node1": 91240,
+            "node2": 60866,
+            "type": 41,
+            "w": 86.0
+        },
+        {
+            "id": 14651047,
+            "node1": 91240,
+            "node2": 65138,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14659050,
+            "node1": 91240,
+            "node2": 68887,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14659094,
+            "node1": 91240,
+            "node2": 70206,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 411497679,
+            "node1": 91240,
+            "node2": 94046,
+            "type": 41,
+            "w": 184.0
+        },
+        {
+            "id": 18640096,
+            "node1": 91240,
+            "node2": 108474,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14658161,
+            "node1": 91240,
+            "node2": 118790,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1026842733,
+            "node1": 91240,
+            "node2": 119843,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 14645303,
+            "node1": 91240,
+            "node2": 142644,
+            "type": 41,
+            "w": 62.0
+        },
+        {
+            "id": 594848574,
+            "node1": 91240,
+            "node2": 155109,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 411498845,
+            "node1": 91240,
+            "node2": 163664,
+            "type": 41,
+            "w": 107.0
+        },
+        {
+            "id": 594846438,
+            "node1": 91240,
+            "node2": 172448,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14645442,
+            "node1": 91240,
+            "node2": 175043,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 769574906,
+            "node1": 91240,
+            "node2": 185636,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 1012812986,
+            "node1": 91240,
+            "node2": 185985,
+            "type": 41,
+            "w": 12.0
+        },
+        {
+            "id": 413526890,
+            "node1": 91240,
+            "node2": 185988,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 270435205,
+            "node1": 91240,
+            "node2": 185989,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 411504737,
+            "node1": 91240,
+            "node2": 185990,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 631747914,
+            "node1": 91240,
+            "node2": 185991,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 635008421,
+            "node1": 91240,
+            "node2": 199144,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 594859173,
+            "node1": 91240,
+            "node2": 199148,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 468494619,
+            "node1": 91240,
+            "node2": 199864,
+            "type": 41,
+            "w": 33.0
+        },
+        {
+            "id": 932471190,
+            "node1": 91240,
+            "node2": 204201,
+            "type": 41,
+            "w": 18.0
+        },
+        {
+            "id": 929739204,
+            "node1": 91240,
+            "node2": 222329,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 431561338,
+            "node1": 91240,
+            "node2": 229012,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1154241090,
+            "node1": 91240,
+            "node2": 248500,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14647660,
+            "node1": 91240,
+            "node2": 252956,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 14647655,
+            "node1": 91240,
+            "node2": 252958,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 23383094,
+            "node1": 91240,
+            "node2": 259285,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 411497209,
+            "node1": 91240,
+            "node2": 265706,
+            "type": 41,
+            "w": 63.0
+        },
+        {
+            "id": 412452831,
+            "node1": 91240,
+            "node2": 7574184,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 769589992,
+            "node1": 91240,
+            "node2": 13340627,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079406170,
+            "node1": 91240,
+            "node2": 14934781,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1018823625,
+            "node1": 91240,
+            "node2": 14935344,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 1079346674,
+            "node1": 91240,
+            "node2": 14935348,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 973314716,
+            "node1": 91240,
+            "node2": 15045195,
+            "type": 41,
+            "w": 15.0
+        },
+        {
+            "id": 484090162,
+            "node1": 91240,
+            "node2": 15045523,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 1079372248,
+            "node1": 91240,
+            "node2": 15209185,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079372258,
+            "node1": 91240,
+            "node2": 15209188,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 457320469,
+            "node1": 91240,
+            "node2": 15235214,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 413188069,
+            "node1": 91240,
+            "node2": 15235215,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 431566940,
+            "node1": 91240,
+            "node2": 15235223,
+            "type": 41,
+            "w": 46.0
+        },
+        {
+            "id": 411498553,
+            "node1": 91240,
+            "node2": 15235224,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1079375144,
+            "node1": 91240,
+            "node2": 15235225,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 499766239,
+            "node1": 91240,
+            "node2": 15235936,
+            "type": 41,
+            "w": 38.0
+        },
+        {
+            "id": 1079369240,
+            "node1": 91240,
+            "node2": 15235937,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 769572274,
+            "node1": 91240,
+            "node2": 15266158,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 413189277,
+            "node1": 91240,
+            "node2": 15266161,
+            "type": 41,
+            "w": 178.0
+        },
+        {
+            "id": 431566991,
+            "node1": 91240,
+            "node2": 15283676,
+            "type": 41,
+            "w": 46.0
+        },
+        {
+            "id": 1018825297,
+            "node1": 91240,
+            "node2": 15285274,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 413189169,
+            "node1": 91240,
+            "node2": 15291692,
+            "type": 41,
+            "w": 181.0
+        },
+        {
+            "id": 411498617,
+            "node1": 91240,
+            "node2": 15291693,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 413189218,
+            "node1": 91240,
+            "node2": 15291694,
+            "type": 41,
+            "w": 184.0
+        },
+        {
+            "id": 1079358866,
+            "node1": 91240,
+            "node2": 15291696,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079358962,
+            "node1": 91240,
+            "node2": 15293154,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079348938,
+            "node1": 91240,
+            "node2": 15296342,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 973314723,
+            "node1": 91240,
+            "node2": 15312482,
+            "type": 41,
+            "w": 15.0
+        },
+        {
+            "id": 720846443,
+            "node1": 91240,
+            "node2": 15314334,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 413681694,
+            "node1": 91240,
+            "node2": 15314467,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 1079392338,
+            "node1": 91240,
+            "node2": 15340147,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 413681543,
+            "node1": 91240,
+            "node2": 15340148,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 1079392428,
+            "node1": 91240,
+            "node2": 15340149,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 411508443,
+            "node1": 91240,
+            "node2": 15341446,
+            "type": 41,
+            "w": 106.0
+        },
+        {
+            "id": 413681630,
+            "node1": 91240,
+            "node2": 15341447,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 413681473,
+            "node1": 91240,
+            "node2": 15341448,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 929737880,
+            "node1": 91240,
+            "node2": 15350829,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 1079395139,
+            "node1": 91240,
+            "node2": 15358082,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 411508412,
+            "node1": 91240,
+            "node2": 15366264,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 411498455,
+            "node1": 91240,
+            "node2": 15385544,
+            "type": 41,
+            "w": 107.0
+        },
+        {
+            "id": 1079357907,
+            "node1": 91240,
+            "node2": 15399018,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 431562288,
+            "node1": 91240,
+            "node2": 15416310,
+            "type": 41,
+            "w": 53.0
+        },
+        {
+            "id": 412454039,
+            "node1": 91240,
+            "node2": 15416311,
+            "type": 41,
+            "w": 61.0
+        },
+        {
+            "id": 432309529,
+            "node1": 91240,
+            "node2": 15416312,
+            "type": 41,
+            "w": 33.0
+        },
+        {
+            "id": 413188123,
+            "node1": 91240,
+            "node2": 15423170,
+            "type": 41,
+            "w": 158.0
+        },
+        {
+            "id": 413681400,
+            "node1": 91240,
+            "node2": 15432161,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 411508504,
+            "node1": 91240,
+            "node2": 15436632,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 510622220,
+            "node1": 91240,
+            "node2": 15447189,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 411498509,
+            "node1": 91240,
+            "node2": 15449609,
+            "type": 41,
+            "w": 107.0
+        },
+        {
+            "id": 413527201,
+            "node1": 91240,
+            "node2": 15457772,
+            "type": 41,
+            "w": 175.0
+        },
+        {
+            "id": 413527150,
+            "node1": 91240,
+            "node2": 15457773,
+            "type": 41,
+            "w": 175.0
+        },
+        {
+            "id": 413189319,
+            "node1": 91240,
+            "node2": 15457774,
+            "type": 41,
+            "w": 178.0
+        },
+        {
+            "id": 411508324,
+            "node1": 91240,
+            "node2": 15460155,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 431561035,
+            "node1": 91240,
+            "node2": 15461556,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 431561065,
+            "node1": 91240,
+            "node2": 15461557,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 431561111,
+            "node1": 91240,
+            "node2": 15461558,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 431561197,
+            "node1": 91240,
+            "node2": 15461559,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 431561226,
+            "node1": 91240,
+            "node2": 15461560,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 431561275,
+            "node1": 91240,
+            "node2": 15461561,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 667260481,
+            "node1": 91240,
+            "node2": 15476741,
+            "type": 41,
+            "w": 18.0
+        },
+        {
+            "id": 457320541,
+            "node1": 91240,
+            "node2": 15532321,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1040124346,
+            "node1": 91240,
+            "node2": 15563202,
+            "type": 41,
+            "w": 3.0
+        },
+        {
+            "id": 413681328,
+            "node1": 91240,
+            "node2": 15564041,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1079347256,
+            "node1": 91240,
+            "node2": 15759672,
+            "type": 41,
+            "w": 3.0
+        },
+        {
+            "id": 667258026,
+            "node1": 91240,
+            "node2": 36671626,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 667258129,
+            "node1": 91240,
+            "node2": 36671627,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 973308436,
+            "node1": 91240,
+            "node2": 322416727,
+            "type": 41,
+            "w": 19.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:08.870849",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "école",
+        "#relations": 100,
+        "max_relation_weight": 184.0,
+        "#nodes": 101,
+        "duration": "0:00:00.013456"
+    }
+}

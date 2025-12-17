@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 218915,
+            "name": "partie du jour",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 79342,
+            "name": "matin",
+            "type": 1,
+            "w": 8817
+        },
+        {
+            "id": 261245770,
+            "name": "période de la journée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 271402,
+            "name": "moment de la journée",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 136447,
+            "name": "moment",
+            "type": 1,
+            "w": 34789
+        }
+    ],
+    "relations": [
+        {
+            "id": 1180324264,
+            "node1": 79342,
+            "node2": 136447,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 9912658,
+            "node1": 79342,
+            "node2": 218915,
+            "type": 6,
+            "w": 17.0
+        },
+        {
+            "id": 295744701,
+            "node1": 79342,
+            "node2": 271402,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 992053833,
+            "node1": 79342,
+            "node2": 261245770,
+            "type": 6,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:11.881248",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "matin",
+        "#relations": 4,
+        "max_relation_weight": 59.0,
+        "#nodes": 5,
+        "duration": "0:00:00.013441"
+    }
+}

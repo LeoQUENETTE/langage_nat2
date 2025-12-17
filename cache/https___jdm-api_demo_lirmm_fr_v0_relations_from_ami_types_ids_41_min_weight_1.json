@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 66535,
+            "name": "ami",
+            "type": 1,
+            "w": 22293
+        },
+        {
+            "id": 144647,
+            "name": "fête",
+            "type": 1,
+            "w": 7516
+        }
+    ],
+    "relations": [
+        {
+            "id": 14643762,
+            "node1": 66535,
+            "node2": 144647,
+            "type": 41,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:29.055917",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ami",
+        "#relations": 1,
+        "max_relation_weight": 37.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003744"
+    }
+}

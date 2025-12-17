@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585997,
+            "name": "_INFO-CNRTL-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 91028,
+            "name": "Yellowstone",
+            "type": 1,
+            "w": 96
+        }
+    ],
+    "relations": [
+        {
+            "id": 533534408,
+            "node1": 91028,
+            "node2": 217817,
+            "type": 36,
+            "w": 38.0
+        },
+        {
+            "id": 27615455,
+            "node1": 91028,
+            "node2": 223172,
+            "type": 36,
+            "w": 24.0
+        },
+        {
+            "id": 17864277,
+            "node1": 91028,
+            "node2": 223173,
+            "type": 36,
+            "w": 293.0
+        },
+        {
+            "id": 26342840,
+            "node1": 91028,
+            "node2": 241794,
+            "type": 36,
+            "w": 69.0
+        },
+        {
+            "id": 26863801,
+            "node1": 91028,
+            "node2": 254876,
+            "type": 36,
+            "w": 76.0
+        },
+        {
+            "id": 26863802,
+            "node1": 91028,
+            "node2": 254877,
+            "type": 36,
+            "w": 18.0
+        },
+        {
+            "id": 27758853,
+            "node1": 91028,
+            "node2": 254878,
+            "type": 36,
+            "w": 6.0
+        },
+        {
+            "id": 533566924,
+            "node1": 91028,
+            "node2": 276096,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 12021809,
+            "node1": 91028,
+            "node2": 317329,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 72773664,
+            "node1": 91028,
+            "node2": 2585997,
+            "type": 36,
+            "w": 64.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:40.162973",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Yellowstone",
+        "#relations": 10,
+        "max_relation_weight": 293.0,
+        "#nodes": 11,
+        "duration": "0:00:00.009713"
+    }
+}

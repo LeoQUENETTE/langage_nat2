@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 7382,
+            "name": "sangle",
+            "type": 1,
+            "w": 143
+        },
+        {
+            "id": 39696,
+            "name": "fourreau",
+            "type": 1,
+            "w": 192
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157931613,
+            "node1": 39696,
+            "node2": 7382,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 97134402,
+            "node1": 39696,
+            "node2": 63936,
+            "type": 9,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:07.820519",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fourreau",
+        "#relations": 2,
+        "max_relation_weight": 43.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003485"
+    }
+}

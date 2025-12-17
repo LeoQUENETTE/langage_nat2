@@ -1,0 +1,313 @@
+{
+    "nodes": [
+        {
+            "id": 216444,
+            "name": "ligne de tram",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 218499158,
+            "name": "prototype industriel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 101661,
+            "name": "ingénieur",
+            "type": 1,
+            "w": 3255
+        },
+        {
+            "id": 2253875,
+            "name": "prototypes",
+            "type": 2,
+            "w": 197
+        },
+        {
+            "id": 288558784,
+            "name": "prototype innovant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 295587733,
+            "name": "prototype d'arme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91356,
+            "name": "pont",
+            "type": 1,
+            "w": 5272
+        },
+        {
+            "id": 69665,
+            "name": "plan",
+            "type": 1,
+            "w": 9391
+        },
+        {
+            "id": 249991778,
+            "name": "logiciel d'IA",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 4658,
+            "name": "moteur",
+            "type": 1,
+            "w": 4792
+        },
+        {
+            "id": 396759,
+            "name": "infrastructures",
+            "type": 1,
+            "w": 4608
+        },
+        {
+            "id": 5425,
+            "name": "machine",
+            "type": 1,
+            "w": 7832
+        },
+        {
+            "id": 102114,
+            "name": "innovation",
+            "type": 1,
+            "w": 36489
+        },
+        {
+            "id": 71981,
+            "name": "missile",
+            "type": 1,
+            "w": 782
+        },
+        {
+            "id": 268453819,
+            "name": "solutions techniques",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5249
+        },
+        {
+            "id": 10529,
+            "name": "IA",
+            "type": 1,
+            "w": 10295
+        },
+        {
+            "id": 218910,
+            "name": "système de sécurité",
+            "type": 1,
+            "w": 164
+        },
+        {
+            "id": 15390410,
+            "name": "plan de maintenance",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 12695493,
+            "name": "systèmes complexes",
+            "type": 1,
+            "w": 287
+        },
+        {
+            "id": 364527987,
+            "name": "surveillance digitale",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 100713,
+            "name": "prototype",
+            "type": 1,
+            "w": 2806
+        }
+    ],
+    "relations": [
+        {
+            "id": 770559923,
+            "node1": 101661,
+            "node2": 4658,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 1150606090,
+            "node1": 101661,
+            "node2": 5425,
+            "type": 53,
+            "w": 65.0
+        },
+        {
+            "id": 1029687449,
+            "node1": 101661,
+            "node2": 10529,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1131440271,
+            "node1": 101661,
+            "node2": 69665,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1020892292,
+            "node1": 101661,
+            "node2": 71981,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 880077393,
+            "node1": 101661,
+            "node2": 91356,
+            "type": 53,
+            "w": 114.0
+        },
+        {
+            "id": 795635559,
+            "node1": 101661,
+            "node2": 100713,
+            "type": 53,
+            "w": 88.0
+        },
+        {
+            "id": 1131440512,
+            "node1": 101661,
+            "node2": 102114,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1008159382,
+            "node1": 101661,
+            "node2": 135936,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1057764233,
+            "node1": 101661,
+            "node2": 216444,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1022056849,
+            "node1": 101661,
+            "node2": 218910,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 1150775842,
+            "node1": 101661,
+            "node2": 396759,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 1150543158,
+            "node1": 101661,
+            "node2": 2253875,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 959393545,
+            "node1": 101661,
+            "node2": 12695493,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 770220866,
+            "node1": 101661,
+            "node2": 15390410,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 1150773253,
+            "node1": 101661,
+            "node2": 218499158,
+            "type": 53,
+            "w": 43.0
+        },
+        {
+            "id": 942442637,
+            "node1": 101661,
+            "node2": 249991778,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 886695396,
+            "node1": 101661,
+            "node2": 268453819,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1150412081,
+            "node1": 101661,
+            "node2": 288558784,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 770129623,
+            "node1": 101661,
+            "node2": 295587733,
+            "type": 53,
+            "w": 41.0
+        },
+        {
+            "id": 1029687473,
+            "node1": 101661,
+            "node2": 364527987,
+            "type": 53,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:34.381160",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ingénieur",
+        "#relations": 21,
+        "max_relation_weight": 114.0,
+        "#nodes": 22,
+        "duration": "0:00:00.011997"
+    }
+}

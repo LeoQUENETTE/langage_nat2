@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 68887,
+            "name": "élève",
+            "type": 1,
+            "w": 7662
+        },
+        {
+            "id": 79255,
+            "name": "enseignement",
+            "type": 1,
+            "w": 6531
+        },
+        {
+            "id": 129281,
+            "name": "évaluation",
+            "type": 1,
+            "w": 23272
+        },
+        {
+            "id": 108649,
+            "name": "pédagogie",
+            "type": 1,
+            "w": 2742
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150604173,
+            "node1": 68887,
+            "node2": 79255,
+            "type": 138,
+            "w": 107.0
+        },
+        {
+            "id": 376969768,
+            "node1": 68887,
+            "node2": 108649,
+            "type": 138,
+            "w": 27.0
+        },
+        {
+            "id": 1154241070,
+            "node1": 68887,
+            "node2": 129281,
+            "type": 138,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:56.531775",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "élève",
+        "#relations": 3,
+        "max_relation_weight": 107.0,
+        "#nodes": 4,
+        "duration": "0:00:00.006590"
+    }
+}

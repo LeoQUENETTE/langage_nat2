@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 379829,
+            "name": "site historique",
+            "type": 1,
+            "w": 230
+        },
+        {
+            "id": 224651,
+            "name": "édifice religieux",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 102105,
+            "name": "monument",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 65524,
+            "name": "bâtiment",
+            "type": 1,
+            "w": 4892
+        },
+        {
+            "id": 15059478,
+            "name": "en:church building",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 53510210,
+            "name": "bâtiment religieux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7378059,
+            "name": "en:church",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57724,
+            "name": "lieu de culte",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 2180,
+            "name": "cathédrale",
+            "type": 1,
+            "w": 3351
+        }
+    ],
+    "relations": [
+        {
+            "id": 9923774,
+            "node1": 2180,
+            "node2": 57724,
+            "type": 6,
+            "w": 118.0
+        },
+        {
+            "id": 12991820,
+            "node1": 2180,
+            "node2": 65524,
+            "type": 6,
+            "w": 181.0
+        },
+        {
+            "id": 9905863,
+            "node1": 2180,
+            "node2": 102105,
+            "type": 6,
+            "w": 175.0
+        },
+        {
+            "id": 629133,
+            "node1": 2180,
+            "node2": 135190,
+            "type": 6,
+            "w": 106.0
+        },
+        {
+            "id": 893540689,
+            "node1": 2180,
+            "node2": 224651,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 1152601856,
+            "node1": 2180,
+            "node2": 379829,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 402430656,
+            "node1": 2180,
+            "node2": 7378059,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 402430657,
+            "node1": 2180,
+            "node2": 15059478,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1152601822,
+            "node1": 2180,
+            "node2": 53510210,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:39.927407",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cathédrale",
+        "#relations": 9,
+        "max_relation_weight": 181.0,
+        "#nodes": 10,
+        "duration": "0:00:00.044151"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 24684,
+            "name": "urbanisation",
+            "type": 1,
+            "w": 2258
+        },
+        {
+            "id": 9575,
+            "name": "tourisme",
+            "type": 1,
+            "w": 6937
+        },
+        {
+            "id": 113317,
+            "name": "Paris",
+            "type": 1,
+            "w": 10163
+        },
+        {
+            "id": 102114,
+            "name": "innovation",
+            "type": 1,
+            "w": 36694
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158123081,
+            "node1": 113317,
+            "node2": 9575,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1155700601,
+            "node1": 113317,
+            "node2": 24684,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1155700719,
+            "node1": 113317,
+            "node2": 102114,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:43.711096",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Paris",
+        "#relations": 3,
+        "max_relation_weight": 26.0,
+        "#nodes": 4,
+        "duration": "0:00:00.007427"
+    }
+}

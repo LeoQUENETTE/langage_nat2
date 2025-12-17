@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 400745,
+            "name": "endroits",
+            "type": 1,
+            "w": 2921
+        },
+        {
+            "id": 399697,
+            "name": "plages",
+            "type": 1,
+            "w": 2369
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4616
+        },
+        {
+            "id": 146785,
+            "name": "nom de famille",
+            "type": 1,
+            "w": 267
+        },
+        {
+            "id": 6334158,
+            "name": "lieux géographiques",
+            "type": 1,
+            "w": 38
+        }
+    ],
+    "relations": [
+        {
+            "id": 932864102,
+            "node1": 399697,
+            "node2": 135956,
+            "type": 6,
+            "w": 99.0
+        },
+        {
+            "id": 713925461,
+            "node1": 399697,
+            "node2": 146785,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 933129758,
+            "node1": 399697,
+            "node2": 400745,
+            "type": 6,
+            "w": 80.0
+        },
+        {
+            "id": 933136196,
+            "node1": 399697,
+            "node2": 6334158,
+            "type": 6,
+            "w": 100.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:51.981838",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plages",
+        "#relations": 4,
+        "max_relation_weight": 100.0,
+        "#nodes": 5,
+        "duration": "0:00:00.009123"
+    }
+}

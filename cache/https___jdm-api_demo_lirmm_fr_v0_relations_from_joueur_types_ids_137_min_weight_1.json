@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 180056,
+            "name": "roleplay",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 39575,
+            "name": "tennis",
+            "type": 1,
+            "w": 2861
+        },
+        {
+            "id": 96920,
+            "name": "joueur",
+            "type": 1,
+            "w": 5165
+        },
+        {
+            "id": 53314,
+            "name": "jeu",
+            "type": 1,
+            "w": 11936
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046577948,
+            "node1": 96920,
+            "node2": 39575,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1010888972,
+            "node1": 96920,
+            "node2": 53314,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 885654989,
+            "node1": 96920,
+            "node2": 180056,
+            "type": 137,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:44.110783",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "joueur",
+        "#relations": 3,
+        "max_relation_weight": 37.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005774"
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 140902,
+            "name": "étoffe",
+            "type": 1,
+            "w": 464
+        },
+        {
+            "id": 362007,
+            "name": "localisation géographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 34676482,
+            "name": "lieu d'échange",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 7015598,
+            "name": "en:geographic area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15314736,
+            "name": "en:place of work",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32650,
+            "name": "concept",
+            "type": 1,
+            "w": 11200
+        },
+        {
+            "id": 146274,
+            "name": "marché",
+            "type": 1,
+            "w": 13878
+        },
+        {
+            "id": 142153,
+            "name": "vente",
+            "type": 1,
+            "w": 5990
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 49615,
+            "name": "commerce",
+            "type": 1,
+            "w": 11736
+        },
+        {
+            "id": 50491,
+            "name": "rassemblement",
+            "type": 1,
+            "w": 1547
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 6887729,
+            "name": "en:worksite",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 261785624,
+            "name": "lieu de commerce",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8843694,
+            "name": "en:workplace",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 128712,
+            "name": "lieu de travail",
+            "type": 1,
+            "w": 287
+        },
+        {
+            "id": 208703,
+            "name": "système économique",
+            "type": 1,
+            "w": 448
+        }
+    ],
+    "relations": [
+        {
+            "id": 83122490,
+            "node1": 146274,
+            "node2": 32650,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 200639,
+            "node1": 146274,
+            "node2": 49615,
+            "type": 6,
+            "w": 74.0
+        },
+        {
+            "id": 302860801,
+            "node1": 146274,
+            "node2": 50491,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 758532508,
+            "node1": 146274,
+            "node2": 128712,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 172587,
+            "node1": 146274,
+            "node2": 135190,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 57982816,
+            "node1": 146274,
+            "node2": 140902,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 9902035,
+            "node1": 146274,
+            "node2": 142153,
+            "type": 6,
+            "w": 22.0
+        },
+        {
+            "id": 1018547362,
+            "node1": 146274,
+            "node2": 208703,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 457737333,
+            "node1": 146274,
+            "node2": 362007,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 281716834,
+            "node1": 146274,
+            "node2": 2785548,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 758532511,
+            "node1": 146274,
+            "node2": 6887729,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 384068028,
+            "node1": 146274,
+            "node2": 7015598,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 758532509,
+            "node1": 146274,
+            "node2": 8843694,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 758532510,
+            "node1": 146274,
+            "node2": 15314736,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 770601864,
+            "node1": 146274,
+            "node2": 34676482,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 769612501,
+            "node1": 146274,
+            "node2": 261785624,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:02.295516",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "marché",
+        "#relations": 16,
+        "max_relation_weight": 74.0,
+        "#nodes": 17,
+        "duration": "0:00:00.006351"
+    }
+}

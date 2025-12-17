@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 176424,
+            "name": "LaTeX",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 142787,
+            "name": "livre",
+            "type": 1,
+            "w": 18444
+        }
+    ],
+    "relations": [
+        {
+            "id": 765133861,
+            "node1": 142787,
+            "node2": 176424,
+            "type": 80,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:49.057343",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "livre",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.006035"
+    }
+}

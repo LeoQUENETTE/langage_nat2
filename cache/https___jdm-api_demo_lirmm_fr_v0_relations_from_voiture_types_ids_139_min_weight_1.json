@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 143577,
+            "name": "accident",
+            "type": 1,
+            "w": 5867
+        },
+        {
+            "id": 130808,
+            "name": "course",
+            "type": 1,
+            "w": 5684
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19357
+        }
+    ],
+    "relations": [
+        {
+            "id": 775104597,
+            "node1": 6890,
+            "node2": 130808,
+            "type": 139,
+            "w": 25.0
+        },
+        {
+            "id": 775104598,
+            "node1": 6890,
+            "node2": 143577,
+            "type": 139,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            139
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:51.185457",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voiture",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.006266"
+    }
+}

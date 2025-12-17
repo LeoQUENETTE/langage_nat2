@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 1378,
+            "name": "absorption",
+            "type": 1,
+            "w": 522
+        },
+        {
+            "id": 10749,
+            "name": "écarté",
+            "type": 1,
+            "w": 195
+        },
+        {
+            "id": 1735647,
+            "name": "écarté>10802",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 145664,
+            "name": "émotion",
+            "type": 1,
+            "w": 9695
+        },
+        {
+            "id": 55135,
+            "name": "blonde",
+            "type": 1,
+            "w": 1554
+        },
+        {
+            "id": 152810,
+            "name": "gaité",
+            "type": 1,
+            "w": 148
+        }
+    ],
+    "relations": [
+        {
+            "id": 14641942,
+            "node1": 40056,
+            "node2": 1378,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 497593862,
+            "node1": 40056,
+            "node2": 10749,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14650031,
+            "node1": 40056,
+            "node2": 55135,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1179786906,
+            "node1": 40056,
+            "node2": 145664,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 308164247,
+            "node1": 40056,
+            "node2": 152810,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 485394431,
+            "node1": 40056,
+            "node2": 1735647,
+            "type": 41,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:52.395774",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couleur",
+        "#relations": 6,
+        "max_relation_weight": 51.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005434"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 36899,
+            "name": "meuble",
+            "type": 1,
+            "w": 1884
+        },
+        {
+            "id": 115211,
+            "name": "désordre",
+            "type": 1,
+            "w": 938
+        },
+        {
+            "id": 74736,
+            "name": "repas",
+            "type": 1,
+            "w": 6361
+        },
+        {
+            "id": 244875,
+            "name": "documents",
+            "type": 1,
+            "w": 4074
+        },
+        {
+            "id": 89591,
+            "name": "table",
+            "type": 1,
+            "w": 8198
+        },
+        {
+            "id": 144838,
+            "name": "souvenirs",
+            "type": 1,
+            "w": 2664
+        }
+    ],
+    "relations": [
+        {
+            "id": 1149050140,
+            "node1": 89591,
+            "node2": 36899,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 1156779232,
+            "node1": 89591,
+            "node2": 74736,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1151777218,
+            "node1": 89591,
+            "node2": 115211,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1151777229,
+            "node1": 89591,
+            "node2": 144838,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156779225,
+            "node1": 89591,
+            "node2": 244875,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:57.659697",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "table",
+        "#relations": 5,
+        "max_relation_weight": 26.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003857"
+    }
+}

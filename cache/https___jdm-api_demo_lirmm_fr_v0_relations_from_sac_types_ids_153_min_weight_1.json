@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 40635,
+            "name": "sac",
+            "type": 1,
+            "w": 4072
+        },
+        {
+            "id": 13979,
+            "name": "contenance",
+            "type": 1,
+            "w": 141
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137814,
+            "node1": 40635,
+            "node2": 13979,
+            "type": 153,
+            "w": 41.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:05.347239",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sac",
+        "#relations": 1,
+        "max_relation_weight": 41.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003512"
+    }
+}

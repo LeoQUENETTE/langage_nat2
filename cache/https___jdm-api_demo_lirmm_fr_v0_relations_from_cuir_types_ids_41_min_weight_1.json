@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 66970,
+            "name": "ballon",
+            "type": 1,
+            "w": 3638
+        },
+        {
+            "id": 39149,
+            "name": "cuir",
+            "type": 1,
+            "w": 1856
+        }
+    ],
+    "relations": [
+        {
+            "id": 14658322,
+            "node1": 39149,
+            "node2": 66970,
+            "type": 41,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:32.296998",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cuir",
+        "#relations": 1,
+        "max_relation_weight": 34.0,
+        "#nodes": 2,
+        "duration": "0:00:00.002961"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 3905,
+            "name": "durée",
+            "type": 1,
+            "w": 6862
+        },
+        {
+            "id": 59993,
+            "name": "réalisateur",
+            "type": 1,
+            "w": 4838
+        },
+        {
+            "id": 162913,
+            "name": "acteurs",
+            "type": 1,
+            "w": 5967
+        },
+        {
+            "id": 25380,
+            "name": "budget",
+            "type": 1,
+            "w": 8473
+        },
+        {
+            "id": 112576,
+            "name": "genre",
+            "type": 1,
+            "w": 8987
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12554
+        },
+        {
+            "id": 226889,
+            "name": "genre cinématographique",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 10791949,
+            "name": "année de sortie",
+            "type": 777,
+            "w": 28
+        }
+    ],
+    "relations": [
+        {
+            "id": 885446216,
+            "node1": 29592,
+            "node2": 3905,
+            "type": 153,
+            "w": 69.0
+        },
+        {
+            "id": 885446226,
+            "node1": 29592,
+            "node2": 25380,
+            "type": 153,
+            "w": 45.0
+        },
+        {
+            "id": 885446218,
+            "node1": 29592,
+            "node2": 59993,
+            "type": 153,
+            "w": 41.0
+        },
+        {
+            "id": 885446221,
+            "node1": 29592,
+            "node2": 112576,
+            "type": 153,
+            "w": 39.0
+        },
+        {
+            "id": 885446223,
+            "node1": 29592,
+            "node2": 162913,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179137612,
+            "node1": 29592,
+            "node2": 226889,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179137611,
+            "node1": 29592,
+            "node2": 10791949,
+            "type": 153,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:31.228051",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "film",
+        "#relations": 7,
+        "max_relation_weight": 69.0,
+        "#nodes": 8,
+        "duration": "0:00:00.020382"
+    }
+}

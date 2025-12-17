@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 23859,
+            "name": "caméra",
+            "type": 1,
+            "w": 3086
+        },
+        {
+            "id": 155977,
+            "name": "gros plan",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 14940990,
+            "name": "en:close-up",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 77018614,
+            "node1": 23859,
+            "node2": 155977,
+            "type": 41,
+            "w": 76.0
+        },
+        {
+            "id": 402040881,
+            "node1": 23859,
+            "node2": 14940990,
+            "type": 41,
+            "w": 75.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:34.355810",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "caméra",
+        "#relations": 2,
+        "max_relation_weight": 76.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005197"
+    }
+}

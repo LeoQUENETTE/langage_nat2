@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 133563,
+            "name": "barque",
+            "type": 1,
+            "w": 721
+        },
+        {
+            "id": 38784,
+            "name": "naufrage",
+            "type": 1,
+            "w": 649
+        },
+        {
+            "id": 210437017,
+            "name": "accidents maritimes",
+            "type": 1,
+            "w": 34
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150235216,
+            "node1": 133563,
+            "node2": 38784,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1150235236,
+            "node1": 133563,
+            "node2": 210437017,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:54.337597",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "barque",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.006413"
+    }
+}

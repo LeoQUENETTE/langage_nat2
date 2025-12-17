@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 3490958,
+            "name": "agglomération rurale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 362007,
+            "name": "localisation géographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 50973,
+            "name": "division administrative",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 145662,
+            "name": "communauté",
+            "type": 1,
+            "w": 25086
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 87887,
+            "name": "village",
+            "type": 1,
+            "w": 7445
+        },
+        {
+            "id": 62067,
+            "name": "commune",
+            "type": 1,
+            "w": 5263
+        },
+        {
+            "id": 29930,
+            "name": "localité",
+            "type": 1,
+            "w": 1225
+        },
+        {
+            "id": 45178,
+            "name": "municipalité",
+            "type": 1,
+            "w": 3756
+        },
+        {
+            "id": 6260134,
+            "name": "communauté rurale",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 301336249,
+            "name": "municipalité urbaine",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 222121,
+            "name": "agglomération>136786",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 118524,
+            "name": "agglomération",
+            "type": 1,
+            "w": 636
+        }
+    ],
+    "relations": [
+        {
+            "id": 88343062,
+            "node1": 87887,
+            "node2": 29930,
+            "type": 6,
+            "w": 160.0
+        },
+        {
+            "id": 253366025,
+            "node1": 87887,
+            "node2": 45178,
+            "type": 6,
+            "w": 327.0
+        },
+        {
+            "id": 534958184,
+            "node1": 87887,
+            "node2": 50973,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 225270,
+            "node1": 87887,
+            "node2": 62067,
+            "type": 6,
+            "w": 622.0
+        },
+        {
+            "id": 395872,
+            "node1": 87887,
+            "node2": 118524,
+            "type": 6,
+            "w": 618.0
+        },
+        {
+            "id": 629370,
+            "node1": 87887,
+            "node2": 135190,
+            "type": 6,
+            "w": 174.0
+        },
+        {
+            "id": 765839519,
+            "node1": 87887,
+            "node2": 145662,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 13289940,
+            "node1": 87887,
+            "node2": 157283,
+            "type": 6,
+            "w": 108.0
+        },
+        {
+            "id": 88343054,
+            "node1": 87887,
+            "node2": 222121,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 775797070,
+            "node1": 87887,
+            "node2": 325138,
+            "type": 6,
+            "w": 200.0
+        },
+        {
+            "id": 457785733,
+            "node1": 87887,
+            "node2": 362007,
+            "type": 6,
+            "w": 193.0
+        },
+        {
+            "id": 331070597,
+            "node1": 87887,
+            "node2": 2785548,
+            "type": 6,
+            "w": 256.0
+        },
+        {
+            "id": 88342997,
+            "node1": 87887,
+            "node2": 3490958,
+            "type": 6,
+            "w": 925.0
+        },
+        {
+            "id": 1019646905,
+            "node1": 87887,
+            "node2": 6260134,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 357219175,
+            "node1": 87887,
+            "node2": 14094383,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 1130624597,
+            "node1": 87887,
+            "node2": 301336249,
+            "type": 6,
+            "w": 637.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:52.317827",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "village",
+        "#relations": 16,
+        "max_relation_weight": 925.0,
+        "#nodes": 17,
+        "duration": "0:00:00.202060"
+    }
+}

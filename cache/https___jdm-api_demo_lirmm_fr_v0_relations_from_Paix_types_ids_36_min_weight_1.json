@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 137405,
+            "name": "Paix",
+            "type": 1,
+            "w": 2301
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 264749,
+            "name": "_INFO-SEM-NAMED-ENTITY",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 27786845,
+            "node1": 137405,
+            "node2": 223172,
+            "type": 36,
+            "w": 19.0
+        },
+        {
+            "id": 18528607,
+            "node1": 137405,
+            "node2": 223173,
+            "type": 36,
+            "w": 398.0
+        },
+        {
+            "id": 26311534,
+            "node1": 137405,
+            "node2": 241794,
+            "type": 36,
+            "w": 93.0
+        },
+        {
+            "id": 26830256,
+            "node1": 137405,
+            "node2": 254876,
+            "type": 36,
+            "w": 78.0
+        },
+        {
+            "id": 26830257,
+            "node1": 137405,
+            "node2": 254877,
+            "type": 36,
+            "w": 18.0
+        },
+        {
+            "id": 76278505,
+            "node1": 137405,
+            "node2": 254878,
+            "type": 36,
+            "w": 4.0
+        },
+        {
+            "id": 280832478,
+            "node1": 137405,
+            "node2": 264749,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 1156648530,
+            "node1": 137405,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:42.787048",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Paix",
+        "#relations": 8,
+        "max_relation_weight": 398.0,
+        "#nodes": 9,
+        "duration": "0:00:00.010469"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 313698137,
+            "name": "circulation écologique",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 49318,
+            "name": "loisir",
+            "type": 1,
+            "w": 2240
+        },
+        {
+            "id": 68256,
+            "name": "vélo",
+            "type": 1,
+            "w": 4506
+        },
+        {
+            "id": 13712,
+            "name": "transport",
+            "type": 1,
+            "w": 8732
+        }
+    ],
+    "relations": [
+        {
+            "id": 1151039884,
+            "node1": 68256,
+            "node2": 13712,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1164027158,
+            "node1": 68256,
+            "node2": 49318,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 952476816,
+            "node1": 68256,
+            "node2": 313698137,
+            "type": 137,
+            "w": 36.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:54.266717",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "vélo",
+        "#relations": 3,
+        "max_relation_weight": 36.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004503"
+    }
+}

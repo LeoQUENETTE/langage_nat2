@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 99355,
+            "name": "superficie",
+            "type": 1,
+            "w": 3485
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37804
+        },
+        {
+            "id": 45989,
+            "name": "surface",
+            "type": 1,
+            "w": 5564
+        },
+        {
+            "id": 19504,
+            "name": "valeur",
+            "type": 1,
+            "w": 16031
+        },
+        {
+            "id": 131040,
+            "name": "prix",
+            "type": 1,
+            "w": 12111
+        },
+        {
+            "id": 216622,
+            "name": "prix>40940",
+            "type": 1,
+            "w": 221
+        },
+        {
+            "id": 58170,
+            "name": "hauteur",
+            "type": 1,
+            "w": 5776
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137706,
+            "node1": 45179,
+            "node2": 19504,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179137704,
+            "node1": 45179,
+            "node2": 45989,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179137705,
+            "node1": 45179,
+            "node2": 58170,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179139338,
+            "node1": 45179,
+            "node2": 99355,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 423730688,
+            "node1": 45179,
+            "node2": 131040,
+            "type": 153,
+            "w": 26.0
+        },
+        {
+            "id": 426714767,
+            "node1": 45179,
+            "node2": 216622,
+            "type": 153,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:02.808562",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maison",
+        "#relations": 6,
+        "max_relation_weight": 33.0,
+        "#nodes": 7,
+        "duration": "0:00:00.010292"
+    }
+}

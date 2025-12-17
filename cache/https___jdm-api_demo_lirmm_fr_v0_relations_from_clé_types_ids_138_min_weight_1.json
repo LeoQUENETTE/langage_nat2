@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 44804,
+            "name": "restriction",
+            "type": 1,
+            "w": 3116
+        },
+        {
+            "id": 52660,
+            "name": "clé",
+            "type": 1,
+            "w": 4120
+        },
+        {
+            "id": 45847,
+            "name": "verrouillage",
+            "type": 1,
+            "w": 95
+        }
+    ],
+    "relations": [
+        {
+            "id": 1181759416,
+            "node1": 52660,
+            "node2": 44804,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1181759394,
+            "node1": 52660,
+            "node2": 45847,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:19.795540",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "clé",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004287"
+    }
+}

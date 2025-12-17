@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 13603,
+            "name": "nommer",
+            "type": 1,
+            "w": 5913
+        },
+        {
+            "id": 118538,
+            "name": "prénom",
+            "type": 1,
+            "w": 3550
+        },
+        {
+            "id": 57452,
+            "name": "classification",
+            "type": 1,
+            "w": 6268
+        },
+        {
+            "id": 92064,
+            "name": "identification",
+            "type": 1,
+            "w": 1988
+        },
+        {
+            "id": 239128,
+            "name": "_COM",
+            "type": 36,
+            "w": 56
+        },
+        {
+            "id": 131542,
+            "name": "identité",
+            "type": 1,
+            "w": 19298
+        },
+        {
+            "id": 142152,
+            "name": "nom",
+            "type": 1,
+            "w": 15205
+        },
+        {
+            "id": 42628,
+            "name": "identifier",
+            "type": 1,
+            "w": 4279
+        },
+        {
+            "id": 15284304,
+            "name": "en:identifying",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228472,
+            "name": "nommer>53344",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6905184,
+            "name": "en:identification",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 135412,
+            "name": "systématique",
+            "type": 1,
+            "w": 3013
+        },
+        {
+            "id": 101465,
+            "name": "prénommer",
+            "type": 1,
+            "w": 167
+        },
+        {
+            "id": 70704,
+            "name": "dénommer",
+            "type": 1,
+            "w": 249
+        },
+        {
+            "id": 14966523,
+            "name": "en:scouting",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 53344,
+            "name": "appeler",
+            "type": 1,
+            "w": 12362
+        }
+    ],
+    "relations": [
+        {
+            "id": 1923822,
+            "node1": 142152,
+            "node2": 13603,
+            "type": 41,
+            "w": 46.0
+        },
+        {
+            "id": 2120587,
+            "node1": 142152,
+            "node2": 42628,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 2178342,
+            "node1": 142152,
+            "node2": 53344,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 2120569,
+            "node1": 142152,
+            "node2": 57452,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 2120582,
+            "node1": 142152,
+            "node2": 70704,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 1972603,
+            "node1": 142152,
+            "node2": 92064,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 1923821,
+            "node1": 142152,
+            "node2": 101465,
+            "type": 41,
+            "w": 56.0
+        },
+        {
+            "id": 1972602,
+            "node1": 142152,
+            "node2": 118538,
+            "type": 41,
+            "w": 69.0
+        },
+        {
+            "id": 1972604,
+            "node1": 142152,
+            "node2": 131542,
+            "type": 41,
+            "w": 69.0
+        },
+        {
+            "id": 2318746,
+            "node1": 142152,
+            "node2": 135412,
+            "type": 41,
+            "w": 719.0
+        },
+        {
+            "id": 2356217,
+            "node1": 142152,
+            "node2": 228472,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 23924168,
+            "node1": 142152,
+            "node2": 239128,
+            "type": 41,
+            "w": 1000000.0
+        },
+        {
+            "id": 213784779,
+            "node1": 142152,
+            "node2": 6905184,
+            "type": 41,
+            "w": 63.0
+        },
+        {
+            "id": 1079403032,
+            "node1": 142152,
+            "node2": 14966523,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 411509450,
+            "node1": 142152,
+            "node2": 15284304,
+            "type": 41,
+            "w": 36.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:32.395664",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nom",
+        "#relations": 15,
+        "max_relation_weight": 1000000.0,
+        "#nodes": 16,
+        "duration": "0:00:00.007619"
+    }
+}

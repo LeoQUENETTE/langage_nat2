@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 2355199,
+            "name": "_OCC-IGNORE",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 254174122,
+            "name": "l'étudiant",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 760548691,
+            "node1": 254174122,
+            "node2": 2355199,
+            "type": 36,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:05.990033",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "l'étudiant",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004321"
+    }
+}

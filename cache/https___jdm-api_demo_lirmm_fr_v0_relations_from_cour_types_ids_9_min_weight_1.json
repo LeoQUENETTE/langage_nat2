@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 33256,
+            "name": "banc",
+            "type": 1,
+            "w": 1510
+        },
+        {
+            "id": 139655,
+            "name": "roi",
+            "type": 1,
+            "w": 12579
+        },
+        {
+            "id": 52255,
+            "name": "arbre",
+            "type": 1,
+            "w": 13179
+        },
+        {
+            "id": 15240553,
+            "name": "candidat au baccalauréat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14807,
+            "name": "juré",
+            "type": 1,
+            "w": 638
+        },
+        {
+            "id": 140856,
+            "name": "juge",
+            "type": 1,
+            "w": 7137
+        },
+        {
+            "id": 15240555,
+            "name": "candidate au baccalauréat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 138874,
+            "name": "herbe",
+            "type": 1,
+            "w": 4099
+        },
+        {
+            "id": 62636,
+            "name": "sol",
+            "type": 1,
+            "w": 10969
+        },
+        {
+            "id": 1448,
+            "name": "donjon",
+            "type": 1,
+            "w": 433
+        },
+        {
+            "id": 104789,
+            "name": "avocat",
+            "type": 1,
+            "w": 5259
+        },
+        {
+            "id": 9374,
+            "name": "greffier",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 153663,
+            "name": "basse cour",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 252435,
+            "name": "candidat au bac",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 30371,
+            "name": "cour",
+            "type": 1,
+            "w": 7459
+        },
+        {
+            "id": 117729,
+            "name": "courtisan",
+            "type": 1,
+            "w": 150
+        },
+        {
+            "id": 15240554,
+            "name": "en:candidate for the baccalaureate",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 9974387,
+            "node1": 30371,
+            "node2": 1448,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 9975578,
+            "node1": 30371,
+            "node2": 9374,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 9975365,
+            "node1": 30371,
+            "node2": 14807,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 10530336,
+            "node1": 30371,
+            "node2": 33256,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 173459,
+            "node1": 30371,
+            "node2": 52255,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 388145,
+            "node1": 30371,
+            "node2": 62636,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 9971915,
+            "node1": 30371,
+            "node2": 104789,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 400221,
+            "node1": 30371,
+            "node2": 117729,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 127662,
+            "node1": 30371,
+            "node2": 138874,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 388144,
+            "node1": 30371,
+            "node2": 139655,
+            "type": 9,
+            "w": 69.0
+        },
+        {
+            "id": 10528528,
+            "node1": 30371,
+            "node2": 140856,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 9971858,
+            "node1": 30371,
+            "node2": 153663,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10564687,
+            "node1": 30371,
+            "node2": 252435,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 932756868,
+            "node1": 30371,
+            "node2": 15240553,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 436521015,
+            "node1": 30371,
+            "node2": 15240554,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 775487319,
+            "node1": 30371,
+            "node2": 15240555,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:20.631023",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cour",
+        "#relations": 16,
+        "max_relation_weight": 69.0,
+        "#nodes": 17,
+        "duration": "0:00:00.004526"
+    }
+}

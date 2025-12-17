@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 128675,
+            "name": "préchauffage",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 47325,
+            "name": "réchauffement",
+            "type": 1,
+            "w": 2732
+        },
+        {
+            "id": 9190,
+            "name": "four",
+            "type": 1,
+            "w": 2862
+        },
+        {
+            "id": 250816,
+            "name": "cuisson au four",
+            "type": 1,
+            "w": 30
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156451813,
+            "node1": 9190,
+            "node2": 47325,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150830703,
+            "node1": 9190,
+            "node2": 128675,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150830720,
+            "node1": 9190,
+            "node2": 250816,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:36.456547",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "four",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004675"
+    }
+}

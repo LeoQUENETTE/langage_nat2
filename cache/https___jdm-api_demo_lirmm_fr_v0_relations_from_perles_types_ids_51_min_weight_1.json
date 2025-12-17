@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 67093,
+            "name": "collier",
+            "type": 1,
+            "w": 1196
+        },
+        {
+            "id": 245868,
+            "name": "oeuf de Fabergé",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 105796,
+            "name": "perles",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 197728,
+            "name": "collier de perles",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 195522830,
+            "name": "collier en perles",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 191802,
+            "name": "&oelig;uf de Fabergé",
+            "type": 1,
+            "w": 14
+        }
+    ],
+    "relations": [
+        {
+            "id": 720838502,
+            "node1": 105796,
+            "node2": 67093,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376051322,
+            "node1": 105796,
+            "node2": 191802,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 1076582857,
+            "node1": 105796,
+            "node2": 197728,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376051339,
+            "node1": 105796,
+            "node2": 245868,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 1076582956,
+            "node1": 105796,
+            "node2": 195522830,
+            "type": 51,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:19.725037",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "perles",
+        "#relations": 5,
+        "max_relation_weight": 35.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003152"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 461745835,
+            "name": "infrastructure de voyage",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 218397350,
+            "name": "liaisons aériennes",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 94262,
+            "name": "aéroport",
+            "type": 1,
+            "w": 3120
+        },
+        {
+            "id": 156403,
+            "name": "vols",
+            "type": 1,
+            "w": 2864
+        },
+        {
+            "id": 396759,
+            "name": "infrastructures",
+            "type": 1,
+            "w": 4642
+        },
+        {
+            "id": 289560428,
+            "name": "infrastructures de sécurité",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 145537842,
+            "name": "services de transport",
+            "type": 1,
+            "w": 130
+        },
+        {
+            "id": 48078,
+            "name": "infrastructure",
+            "type": 1,
+            "w": 5202
+        },
+        {
+            "id": 123408,
+            "name": "vol",
+            "type": 1,
+            "w": 6948
+        },
+        {
+            "id": 205626,
+            "name": "plan de vol",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 391849,
+            "name": "correspondances",
+            "type": 777,
+            "w": 275
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150536822,
+            "node1": 94262,
+            "node2": 48078,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150536807,
+            "node1": 94262,
+            "node2": 123408,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150572834,
+            "node1": 94262,
+            "node2": 156403,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 768930020,
+            "node1": 94262,
+            "node2": 205626,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 1150572846,
+            "node1": 94262,
+            "node2": 391849,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150539218,
+            "node1": 94262,
+            "node2": 396759,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1150536385,
+            "node1": 94262,
+            "node2": 145537842,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150911171,
+            "node1": 94262,
+            "node2": 218397350,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150536407,
+            "node1": 94262,
+            "node2": 289560428,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150911162,
+            "node1": 94262,
+            "node2": 461745835,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:08.972399",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "aéroport",
+        "#relations": 10,
+        "max_relation_weight": 29.0,
+        "#nodes": 11,
+        "duration": "0:00:00.006886"
+    }
+}

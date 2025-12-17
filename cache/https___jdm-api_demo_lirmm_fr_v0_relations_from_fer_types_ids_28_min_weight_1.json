@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 124092,
+            "name": "fer",
+            "type": 1,
+            "w": 6704
+        },
+        {
+            "id": 146358,
+            "name": "acier",
+            "type": 1,
+            "w": 1299
+        },
+        {
+            "id": 214457,
+            "name": "fer>166591",
+            "type": 1,
+            "w": 72
+        }
+    ],
+    "relations": [
+        {
+            "id": 11345525,
+            "node1": 124092,
+            "node2": 146358,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 594576662,
+            "node1": 124092,
+            "node2": 214457,
+            "type": 28,
+            "w": 12.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:04.526280",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fer",
+        "#relations": 2,
+        "max_relation_weight": 39.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004705"
+    }
+}

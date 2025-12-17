@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 8595,
+            "name": "corde",
+            "type": 1,
+            "w": 3415
+        },
+        {
+            "id": 13740376,
+            "name": "résistance à la traction",
+            "type": 1,
+            "w": 30
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139095,
+            "node1": 8595,
+            "node2": 13740376,
+            "type": 153,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:05.845181",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "corde",
+        "#relations": 1,
+        "max_relation_weight": 31.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003345"
+    }
+}

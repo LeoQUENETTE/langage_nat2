@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 402624,
+            "name": "Trône",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 264749,
+            "name": "_INFO-SEM-NAMED-ENTITY",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 540982460,
+            "node1": 402624,
+            "node2": 217817,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 17302649,
+            "node1": 402624,
+            "node2": 223173,
+            "type": 36,
+            "w": 321.0
+        },
+        {
+            "id": 26348363,
+            "node1": 402624,
+            "node2": 241794,
+            "type": 36,
+            "w": 129.0
+        },
+        {
+            "id": 27420010,
+            "node1": 402624,
+            "node2": 254876,
+            "type": 36,
+            "w": 71.0
+        },
+        {
+            "id": 27420011,
+            "node1": 402624,
+            "node2": 254877,
+            "type": 36,
+            "w": 29.0
+        },
+        {
+            "id": 292552211,
+            "node1": 402624,
+            "node2": 264749,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 1025879192,
+            "node1": 402624,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:33.648112",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Trône",
+        "#relations": 7,
+        "max_relation_weight": 321.0,
+        "#nodes": 8,
+        "duration": "0:00:00.008697"
+    }
+}

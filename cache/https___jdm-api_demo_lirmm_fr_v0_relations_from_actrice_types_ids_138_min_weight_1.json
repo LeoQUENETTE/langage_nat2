@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 161726497,
+            "name": "évaluation des performances",
+            "type": 1,
+            "w": 932
+        },
+        {
+            "id": 92149,
+            "name": "actrice",
+            "type": 1,
+            "w": 4333
+        },
+        {
+            "id": 129281,
+            "name": "évaluation",
+            "type": 1,
+            "w": 23388
+        }
+    ],
+    "relations": [
+        {
+            "id": 1160780684,
+            "node1": 92149,
+            "node2": 129281,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1160780694,
+            "node1": 92149,
+            "node2": 161726497,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:33.341110",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "actrice",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.009670"
+    }
+}

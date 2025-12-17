@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 99355,
+            "name": "superficie",
+            "type": 1,
+            "w": 3485
+        },
+        {
+            "id": 73193,
+            "name": "PIB",
+            "type": 1,
+            "w": 2921
+        },
+        {
+            "id": 237088076,
+            "name": "espérance de vie moyenne",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 99647,
+            "name": "produit intérieur brut",
+            "type": 1,
+            "w": 161
+        },
+        {
+            "id": 58732,
+            "name": "population",
+            "type": 1,
+            "w": 15523
+        },
+        {
+            "id": 52119,
+            "name": "langue",
+            "type": 1,
+            "w": 12820
+        },
+        {
+            "id": 22243,
+            "name": "pays",
+            "type": 1,
+            "w": 27457
+        },
+        {
+            "id": 81814,
+            "name": "capitale",
+            "type": 1,
+            "w": 4864
+        },
+        {
+            "id": 25996,
+            "name": "monnaie",
+            "type": 1,
+            "w": 6775
+        },
+        {
+            "id": 286087,
+            "name": "population totale",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 16403,
+            "name": "espérance de vie",
+            "type": 1,
+            "w": 506
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179138955,
+            "node1": 22243,
+            "node2": 16403,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 885447579,
+            "node1": 22243,
+            "node2": 25996,
+            "type": 153,
+            "w": 35.0
+        },
+        {
+            "id": 885447577,
+            "node1": 22243,
+            "node2": 52119,
+            "type": 153,
+            "w": 35.0
+        },
+        {
+            "id": 885447569,
+            "node1": 22243,
+            "node2": 58732,
+            "type": 153,
+            "w": 35.0
+        },
+        {
+            "id": 1179137719,
+            "node1": 22243,
+            "node2": 73193,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 885447575,
+            "node1": 22243,
+            "node2": 81814,
+            "type": 153,
+            "w": 35.0
+        },
+        {
+            "id": 885447572,
+            "node1": 22243,
+            "node2": 99355,
+            "type": 153,
+            "w": 45.0
+        },
+        {
+            "id": 1179139419,
+            "node1": 22243,
+            "node2": 99647,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179142867,
+            "node1": 22243,
+            "node2": 286087,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179142868,
+            "node1": 22243,
+            "node2": 237088076,
+            "type": 153,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:02.385864",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pays",
+        "#relations": 10,
+        "max_relation_weight": 45.0,
+        "#nodes": 11,
+        "duration": "0:00:00.008012"
+    }
+}

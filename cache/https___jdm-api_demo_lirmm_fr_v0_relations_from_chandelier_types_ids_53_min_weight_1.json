@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 127794,
+            "name": "bougie",
+            "type": 1,
+            "w": 1020
+        },
+        {
+            "id": 145792,
+            "name": "lumière",
+            "type": 1,
+            "w": 13461
+        },
+        {
+            "id": 57717,
+            "name": "chandelier",
+            "type": 1,
+            "w": 126
+        }
+    ],
+    "relations": [
+        {
+            "id": 795635677,
+            "node1": 57717,
+            "node2": 127794,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 1156931380,
+            "node1": 57717,
+            "node2": 145792,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:40.435826",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chandelier",
+        "#relations": 2,
+        "max_relation_weight": 35.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003704"
+    }
+}

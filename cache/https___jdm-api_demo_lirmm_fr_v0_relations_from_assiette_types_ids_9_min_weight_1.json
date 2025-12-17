@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 2441702,
+            "name": "ferblanc",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 324730682,
+            "name": "Fer blanc",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 20621,
+            "name": "aliments",
+            "type": 1,
+            "w": 2851
+        },
+        {
+            "id": 124455,
+            "name": "motif",
+            "type": 1,
+            "w": 3159
+        },
+        {
+            "id": 145840,
+            "name": "porcelaine",
+            "type": 1,
+            "w": 411
+        },
+        {
+            "id": 53673,
+            "name": "creux",
+            "type": 1,
+            "w": 1064
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 63985,
+            "name": "bord",
+            "type": 1,
+            "w": 6847
+        },
+        {
+            "id": 14960314,
+            "name": "en:sashimi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15248008,
+            "name": "en:Dauphine potatoes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 34313,
+            "name": "fer-blanc",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 63250,
+            "name": "rebord",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 264357,
+            "name": "shashimi",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 158773,
+            "name": "fer blanc",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 62735,
+            "name": "assiette",
+            "type": 1,
+            "w": 2363
+        },
+        {
+            "id": 217014,
+            "name": "sashimi",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 55572,
+            "name": "steak",
+            "type": 1,
+            "w": 768
+        },
+        {
+            "id": 142246,
+            "name": "faïence",
+            "type": 1,
+            "w": 172
+        },
+        {
+            "id": 228312,
+            "name": "pommes dauphine",
+            "type": 1,
+            "w": 54
+        }
+    ],
+    "relations": [
+        {
+            "id": 769033496,
+            "node1": 62735,
+            "node2": 20621,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 14638766,
+            "node1": 62735,
+            "node2": 34313,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 1882219,
+            "node1": 62735,
+            "node2": 53673,
+            "type": 9,
+            "w": 90.0
+        },
+        {
+            "id": 283117141,
+            "node1": 62735,
+            "node2": 55572,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 1131439689,
+            "node1": 62735,
+            "node2": 63250,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 425666,
+            "node1": 62735,
+            "node2": 63985,
+            "type": 9,
+            "w": 168.0
+        },
+        {
+            "id": 1131446411,
+            "node1": 62735,
+            "node2": 119272,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 961889379,
+            "node1": 62735,
+            "node2": 124455,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 425663,
+            "node1": 62735,
+            "node2": 142246,
+            "type": 9,
+            "w": 90.0
+        },
+        {
+            "id": 1967089,
+            "node1": 62735,
+            "node2": 145840,
+            "type": 9,
+            "w": 90.0
+        },
+        {
+            "id": 9010104,
+            "node1": 62735,
+            "node2": 158773,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 361376725,
+            "node1": 62735,
+            "node2": 217014,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 28472117,
+            "node1": 62735,
+            "node2": 228312,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 940462452,
+            "node1": 62735,
+            "node2": 264357,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 98770821,
+            "node1": 62735,
+            "node2": 2441702,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 723003892,
+            "node1": 62735,
+            "node2": 14960314,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 402840133,
+            "node1": 62735,
+            "node2": 15248008,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 972841306,
+            "node1": 62735,
+            "node2": 324730682,
+            "type": 9,
+            "w": 5.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:15.020411",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "assiette",
+        "#relations": 18,
+        "max_relation_weight": 168.0,
+        "#nodes": 19,
+        "duration": "0:00:00.011864"
+    }
+}

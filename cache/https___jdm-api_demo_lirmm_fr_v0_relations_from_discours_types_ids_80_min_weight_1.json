@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 35352,
+            "name": "discours",
+            "type": 1,
+            "w": 12171
+        },
+        {
+            "id": 124771,
+            "name": "parole",
+            "type": 1,
+            "w": 10235
+        },
+        {
+            "id": 64464,
+            "name": "baptême",
+            "type": 1,
+            "w": 1402
+        }
+    ],
+    "relations": [
+        {
+            "id": 765133530,
+            "node1": 35352,
+            "node2": 64464,
+            "type": 80,
+            "w": 26.0
+        },
+        {
+            "id": 765133905,
+            "node1": 35352,
+            "node2": 124771,
+            "type": 80,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:12.931014",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "discours",
+        "#relations": 2,
+        "max_relation_weight": 26.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005132"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 311895,
+            "name": "évaluation continue",
+            "type": 777,
+            "w": 732
+        },
+        {
+            "id": 140862,
+            "name": "note",
+            "type": 1,
+            "w": 5288
+        },
+        {
+            "id": 67384,
+            "name": "notation",
+            "type": 1,
+            "w": 2929
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158357441,
+            "node1": 140862,
+            "node2": 67384,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1158357462,
+            "node1": 140862,
+            "node2": 311895,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:55.606118",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "note",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005962"
+    }
+}

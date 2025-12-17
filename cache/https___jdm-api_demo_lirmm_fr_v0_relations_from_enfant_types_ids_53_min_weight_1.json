@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 227731896,
+            "name": "dessins naïfs",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 26403,
+            "name": "imagination",
+            "type": 1,
+            "w": 6279
+        },
+        {
+            "id": 15242937,
+            "name": "en:sandpie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 43778,
+            "name": "mensonge",
+            "type": 1,
+            "w": 2392
+        },
+        {
+            "id": 112905,
+            "name": "rire",
+            "type": 1,
+            "w": 9369
+        },
+        {
+            "id": 295229058,
+            "name": "voeu à une étoile filante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4879
+        },
+        {
+            "id": 73295,
+            "name": "créativité",
+            "type": 1,
+            "w": 17483
+        },
+        {
+            "id": 124094,
+            "name": "enfant",
+            "type": 1,
+            "w": 57598
+        },
+        {
+            "id": 230145,
+            "name": "rires",
+            "type": 1,
+            "w": 279
+        },
+        {
+            "id": 130210,
+            "name": "souhait",
+            "type": 1,
+            "w": 1356
+        },
+        {
+            "id": 154450,
+            "name": "château de sable",
+            "type": 1,
+            "w": 323
+        },
+        {
+            "id": 226398,
+            "name": "pipi au lit",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 156052,
+            "name": "pâté de sable",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 15203039,
+            "name": "en:sand castle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15283230,
+            "name": "en:sandcastle",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155487034,
+            "node1": 124094,
+            "node2": 26403,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376990387,
+            "node1": 124094,
+            "node2": 43778,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 1170077373,
+            "node1": 124094,
+            "node2": 73295,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1150578884,
+            "node1": 124094,
+            "node2": 98596,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155487022,
+            "node1": 124094,
+            "node2": 112905,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1008159177,
+            "node1": 124094,
+            "node2": 130210,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 272799472,
+            "node1": 124094,
+            "node2": 154450,
+            "type": 53,
+            "w": 36.0
+        },
+        {
+            "id": 479422301,
+            "node1": 124094,
+            "node2": 156052,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 376989887,
+            "node1": 124094,
+            "node2": 226398,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1170077383,
+            "node1": 124094,
+            "node2": 230145,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 479421929,
+            "node1": 124094,
+            "node2": 15203039,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 479422721,
+            "node1": 124094,
+            "node2": 15242937,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 479421996,
+            "node1": 124094,
+            "node2": 15283230,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 770343160,
+            "node1": 124094,
+            "node2": 227731896,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 769615987,
+            "node1": 124094,
+            "node2": 295229058,
+            "type": 53,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:48.879906",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "enfant",
+        "#relations": 15,
+        "max_relation_weight": 36.0,
+        "#nodes": 16,
+        "duration": "0:00:00.012866"
+    }
+}

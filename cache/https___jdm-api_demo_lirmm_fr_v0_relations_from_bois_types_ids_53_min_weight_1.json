@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 36899,
+            "name": "meuble",
+            "type": 1,
+            "w": 1884
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 103389,
+            "name": "papier",
+            "type": 1,
+            "w": 7597
+        },
+        {
+            "id": 26389,
+            "name": "pâte à papier",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 146056361,
+            "name": "objets décoratifs",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 120728,
+            "name": "planche",
+            "type": 1,
+            "w": 2224
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155323772,
+            "node1": 96256,
+            "node2": 26389,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1158255971,
+            "node1": 96256,
+            "node2": 36899,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155330666,
+            "node1": 96256,
+            "node2": 103389,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 376990710,
+            "node1": 96256,
+            "node2": 120728,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 1158255989,
+            "node1": 96256,
+            "node2": 146056361,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:17.530733",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bois",
+        "#relations": 5,
+        "max_relation_weight": 32.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005534"
+    }
+}

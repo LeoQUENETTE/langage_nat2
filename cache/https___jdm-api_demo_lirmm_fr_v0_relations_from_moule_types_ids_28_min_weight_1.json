@@ -1,0 +1,430 @@
+{
+    "nodes": [
+        {
+            "id": 5828577,
+            "name": "mi-cuit au chocolat",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 331048,
+            "name": "moelleux au chocolat",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 15242565,
+            "name": "en:chocolate fondant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94193951,
+            "name": "Moelleux au chocolat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15421168,
+            "name": "en:chocolate fondant cake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15421170,
+            "name": "en:chocolate sponge cake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94193940,
+            "name": "Fondant au chocolat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228921,
+            "name": "fondant au chocolat",
+            "type": 1,
+            "w": 150
+        },
+        {
+            "id": 143723,
+            "name": "moule",
+            "type": 1,
+            "w": 553
+        },
+        {
+            "id": 94193947,
+            "name": "Gâteau au chocolat",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 331047,
+            "name": "coulant au chocolat",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15420880,
+            "name": "en:chocolate gateau",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15421169,
+            "name": "en:molten chocolate cake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 28945,
+            "name": "cake",
+            "type": 1,
+            "w": 371
+        },
+        {
+            "id": 177321,
+            "name": "préparation culinaire",
+            "type": 1,
+            "w": 618
+        },
+        {
+            "id": 2149,
+            "name": "gâteau",
+            "type": 1,
+            "w": 4462
+        },
+        {
+            "id": 154264,
+            "name": "gâteau au chocolat",
+            "type": 1,
+            "w": 571
+        },
+        {
+            "id": 15242572,
+            "name": "en:chocolate fudge cake",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15047014,
+            "name": "en:devil's food cake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 260099,
+            "name": "soufflé au fromage",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 269994,
+            "name": "cake>2149",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 357214,
+            "name": "gâteau maison",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 8085258,
+            "name": "en:chocolate cake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94193950,
+            "name": "Mi-cuit au chocolat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 249297417,
+            "name": "Préparation culinaire",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 34069,
+            "name": "pâte",
+            "type": 1,
+            "w": 3414
+        },
+        {
+            "id": 15196749,
+            "name": "en:cheese soufflé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15353628,
+            "name": "un soufflé au fromage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15353629,
+            "name": "en:a cheese soufflé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15047013,
+            "name": "en:devil's food",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251391,
+            "name": "oeufs au lait",
+            "type": 1,
+            "w": 56
+        }
+    ],
+    "relations": [
+        {
+            "id": 1181995687,
+            "node1": 143723,
+            "node2": 2149,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 583219247,
+            "node1": 143723,
+            "node2": 28945,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 31823962,
+            "node1": 143723,
+            "node2": 34069,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 525323969,
+            "node1": 143723,
+            "node2": 154264,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 477731328,
+            "node1": 143723,
+            "node2": 177321,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11334222,
+            "node1": 143723,
+            "node2": 228921,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11325737,
+            "node1": 143723,
+            "node2": 251391,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 24419559,
+            "node1": 143723,
+            "node2": 260099,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 602053159,
+            "node1": 143723,
+            "node2": 269994,
+            "type": 28,
+            "w": 24.0
+        },
+        {
+            "id": 534649557,
+            "node1": 143723,
+            "node2": 331047,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470993001,
+            "node1": 143723,
+            "node2": 331048,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 24458858,
+            "node1": 143723,
+            "node2": 357214,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 534649576,
+            "node1": 143723,
+            "node2": 5828577,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 521129667,
+            "node1": 143723,
+            "node2": 8085258,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 1054573570,
+            "node1": 143723,
+            "node2": 15047013,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054569864,
+            "node1": 143723,
+            "node2": 15047014,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 470963522,
+            "node1": 143723,
+            "node2": 15196749,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470993239,
+            "node1": 143723,
+            "node2": 15242565,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1054572173,
+            "node1": 143723,
+            "node2": 15242572,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 484022398,
+            "node1": 143723,
+            "node2": 15353628,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 484022403,
+            "node1": 143723,
+            "node2": 15353629,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 549075842,
+            "node1": 143723,
+            "node2": 15420880,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 521129595,
+            "node1": 143723,
+            "node2": 15421168,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 521129629,
+            "node1": 143723,
+            "node2": 15421169,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 521129646,
+            "node1": 143723,
+            "node2": 15421170,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 937853768,
+            "node1": 143723,
+            "node2": 94193940,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 977742531,
+            "node1": 143723,
+            "node2": 94193947,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977742483,
+            "node1": 143723,
+            "node2": 94193950,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 937853740,
+            "node1": 143723,
+            "node2": 94193951,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 1124414906,
+            "node1": 143723,
+            "node2": 249297417,
+            "type": 28,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:04.421743",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "moule",
+        "#relations": 30,
+        "max_relation_weight": 40.0,
+        "#nodes": 31,
+        "duration": "0:00:00.006718"
+    }
+}

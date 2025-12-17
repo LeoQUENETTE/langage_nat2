@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 309809,
+            "name": "traitement de données",
+            "type": 777,
+            "w": 441
+        },
+        {
+            "id": 210469559,
+            "name": "exécution de programmes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 300290550,
+            "name": "calcul de pi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 249966281,
+            "name": "traitement de données numériques",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9955197,
+            "name": "traitements automatisés de données",
+            "type": 1,
+            "w": 503
+        },
+        {
+            "id": 94978,
+            "name": "ordinateur",
+            "type": 1,
+            "w": 9689
+        },
+        {
+            "id": 234834,
+            "name": "apprentissage automatique",
+            "type": 1,
+            "w": 2391
+        },
+        {
+            "id": 47331,
+            "name": "calcul",
+            "type": 1,
+            "w": 8329
+        },
+        {
+            "id": 120121,
+            "name": "intelligence artificielle",
+            "type": 1,
+            "w": 7929
+        },
+        {
+            "id": 10529,
+            "name": "IA",
+            "type": 1,
+            "w": 10374
+        },
+        {
+            "id": 74419,
+            "name": "traitement",
+            "type": 1,
+            "w": 10131
+        }
+    ],
+    "relations": [
+        {
+            "id": 948448789,
+            "node1": 94978,
+            "node2": 10529,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1180646872,
+            "node1": 94978,
+            "node2": 47331,
+            "type": 137,
+            "w": 75.0
+        },
+        {
+            "id": 1180646911,
+            "node1": 94978,
+            "node2": 74419,
+            "type": 137,
+            "w": 65.0
+        },
+        {
+            "id": 1046576999,
+            "node1": 94978,
+            "node2": 120121,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1046577486,
+            "node1": 94978,
+            "node2": 234834,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1156154567,
+            "node1": 94978,
+            "node2": 309809,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 583305210,
+            "node1": 94978,
+            "node2": 9955197,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 1156154568,
+            "node1": 94978,
+            "node2": 210469559,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 952391379,
+            "node1": 94978,
+            "node2": 249966281,
+            "type": 137,
+            "w": 44.0
+        },
+        {
+            "id": 818594988,
+            "node1": 94978,
+            "node2": 300290550,
+            "type": 137,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:27.399596",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ordinateur",
+        "#relations": 10,
+        "max_relation_weight": 75.0,
+        "#nodes": 11,
+        "duration": "0:00:00.004294"
+    }
+}

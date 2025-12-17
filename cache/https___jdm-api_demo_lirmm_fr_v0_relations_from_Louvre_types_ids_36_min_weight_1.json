@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 117866,
+            "name": "Louvre",
+            "type": 1,
+            "w": 3378
+        },
+        {
+            "id": 2585997,
+            "name": "_INFO-CNRTL-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 667203,
+            "node1": 117866,
+            "node2": 162759,
+            "type": 36,
+            "w": 41.0
+        },
+        {
+            "id": 396061783,
+            "node1": 117866,
+            "node2": 217817,
+            "type": 36,
+            "w": 29.0
+        },
+        {
+            "id": 2006562,
+            "node1": 117866,
+            "node2": 223173,
+            "type": 36,
+            "w": 393.0
+        },
+        {
+            "id": 9214917,
+            "node1": 117866,
+            "node2": 241794,
+            "type": 36,
+            "w": 104.0
+        },
+        {
+            "id": 69012983,
+            "node1": 117866,
+            "node2": 248198,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 2322284,
+            "node1": 117866,
+            "node2": 254876,
+            "type": 36,
+            "w": 79.0
+        },
+        {
+            "id": 9230873,
+            "node1": 117866,
+            "node2": 254877,
+            "type": 36,
+            "w": 21.0
+        },
+        {
+            "id": 374346837,
+            "node1": 117866,
+            "node2": 276096,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 94101878,
+            "node1": 117866,
+            "node2": 2585997,
+            "type": 36,
+            "w": 54.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:30.236495",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Louvre",
+        "#relations": 9,
+        "max_relation_weight": 393.0,
+        "#nodes": 10,
+        "duration": "0:00:00.006176"
+    }
+}

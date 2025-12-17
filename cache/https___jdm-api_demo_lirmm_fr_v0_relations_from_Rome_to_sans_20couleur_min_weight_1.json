@@ -1,0 +1,60 @@
+{
+    "nodes": [
+        {
+            "id": 61281,
+            "name": "Rome",
+            "type": 1,
+            "w": 4653,
+            "c": 0,
+            "level": 52.3393,
+            "infoid": null,
+            "creationdate": "2007-06-21",
+            "touchdate": "2025-12-16T21:43:28"
+        },
+        {
+            "id": 269561,
+            "name": "sans couleur",
+            "type": 1,
+            "w": 56,
+            "c": 0,
+            "level": 199.0,
+            "infoid": null,
+            "creationdate": "2013-07-23",
+            "touchdate": "2025-12-16T19:47:49"
+        }
+    ],
+    "relations": [
+        {
+            "id": 4271465,
+            "node1": 61281,
+            "node2": 269561,
+            "type": 106,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": null,
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:14.273208",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "node1": "Rome",
+        "node2": "sans couleur",
+        "#relations": 1,
+        "max_relation_weight": 2.0,
+        "duration": "0:00:00.003660"
+    }
+}

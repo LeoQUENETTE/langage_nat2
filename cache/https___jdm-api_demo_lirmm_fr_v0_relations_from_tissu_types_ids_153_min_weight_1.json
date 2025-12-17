@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 1378,
+            "name": "absorption",
+            "type": 1,
+            "w": 522
+        },
+        {
+            "id": 81445,
+            "name": "flexibilité",
+            "type": 1,
+            "w": 2376
+        },
+        {
+            "id": 90580,
+            "name": "maillage",
+            "type": 1,
+            "w": 289
+        },
+        {
+            "id": 144666,
+            "name": "résistance",
+            "type": 1,
+            "w": 8977
+        },
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 4910,
+            "name": "texture",
+            "type": 1,
+            "w": 1272
+        },
+        {
+            "id": 88191,
+            "name": "élasticité",
+            "type": 1,
+            "w": 222
+        }
+    ],
+    "relations": [
+        {
+            "id": 765217975,
+            "node1": 63936,
+            "node2": 1378,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179139336,
+            "node1": 63936,
+            "node2": 4910,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 765217961,
+            "node1": 63936,
+            "node2": 81445,
+            "type": 153,
+            "w": 28.0
+        },
+        {
+            "id": 1179139016,
+            "node1": 63936,
+            "node2": 88191,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179139094,
+            "node1": 63936,
+            "node2": 90580,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179139244,
+            "node1": 63936,
+            "node2": 144666,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:26.659355",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tissu",
+        "#relations": 6,
+        "max_relation_weight": 33.0,
+        "#nodes": 7,
+        "duration": "0:00:00.007124"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 71930,
+            "name": "lithographie",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 450427180,
+            "name": "::>66:153168>24:450427175",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 25008,
+            "name": "pierre",
+            "type": 1,
+            "w": 9678
+        },
+        {
+            "id": 237306,
+            "name": "signe>237303",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 79239,
+            "name": "caverne",
+            "type": 1,
+            "w": 466
+        },
+        {
+            "id": 28922,
+            "name": "signe",
+            "type": 1,
+            "w": 7422
+        }
+    ],
+    "relations": [
+        {
+            "id": 635064061,
+            "node1": 25008,
+            "node2": 28922,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 766154488,
+            "node1": 25008,
+            "node2": 71930,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1179877961,
+            "node1": 25008,
+            "node2": 79239,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 375724064,
+            "node1": 25008,
+            "node2": 237306,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 1139646980,
+            "node1": 25008,
+            "node2": 450427180,
+            "type": 28,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:58.256745",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pierre",
+        "#relations": 5,
+        "max_relation_weight": 30.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003804"
+    }
+}

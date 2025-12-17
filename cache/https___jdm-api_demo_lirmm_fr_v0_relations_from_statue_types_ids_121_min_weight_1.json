@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 101285,
+            "name": "musée",
+            "type": 1,
+            "w": 5173
+        },
+        {
+            "id": 123492,
+            "name": "statue",
+            "type": 1,
+            "w": 3045
+        }
+    ],
+    "relations": [
+        {
+            "id": 959324047,
+            "node1": 123492,
+            "node2": 101285,
+            "type": 121,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:53.521923",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "statue",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004587"
+    }
+}

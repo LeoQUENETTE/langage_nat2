@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 134263,
+            "name": "emballage",
+            "type": 1,
+            "w": 1023
+        },
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3469
+        },
+        {
+            "id": 117579,
+            "name": "jouet",
+            "type": 1,
+            "w": 1899
+        },
+        {
+            "id": 170819297,
+            "name": "pièces automobiles",
+            "type": 1,
+            "w": 35
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155363430,
+            "node1": 85406,
+            "node2": 117579,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155363429,
+            "node1": 85406,
+            "node2": 134263,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155363452,
+            "node1": 85406,
+            "node2": 170819297,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:44.555680",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plastique",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004625"
+    }
+}

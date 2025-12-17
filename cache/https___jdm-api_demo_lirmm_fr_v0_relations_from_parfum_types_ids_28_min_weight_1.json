@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2518
+        },
+        {
+            "id": 49098,
+            "name": "muguet",
+            "type": 1,
+            "w": 267
+        },
+        {
+            "id": 109601,
+            "name": "senteur",
+            "type": 1,
+            "w": 903
+        },
+        {
+            "id": 110902,
+            "name": "odorat",
+            "type": 1,
+            "w": 1082
+        }
+    ],
+    "relations": [
+        {
+            "id": 25303483,
+            "node1": 55249,
+            "node2": 49098,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 11336617,
+            "node1": 55249,
+            "node2": 109601,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11345077,
+            "node1": 55249,
+            "node2": 110902,
+            "type": 28,
+            "w": 38.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:22.912621",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "parfum",
+        "#relations": 3,
+        "max_relation_weight": 38.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004352"
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 15323380,
+            "name": "en:pics",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 59993,
+            "name": "réalisateur",
+            "type": 1,
+            "w": 4838
+        },
+        {
+            "id": 217201,
+            "name": "film>217196",
+            "type": 1,
+            "w": 1925
+        },
+        {
+            "id": 260332,
+            "name": "succès commercial",
+            "type": 1,
+            "w": 282
+        },
+        {
+            "id": 20929,
+            "name": "mise en scène",
+            "type": 1,
+            "w": 841
+        },
+        {
+            "id": 14923721,
+            "name": "en:bestseller",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12554
+        },
+        {
+            "id": 15324760,
+            "name": "en:movies",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 42177,
+            "name": "films",
+            "type": 1,
+            "w": 4696
+        },
+        {
+            "id": 15442000,
+            "name": "en:top seller",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442001,
+            "name": "en:successful business",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12369099,
+            "name": "tension narrative",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 214895715,
+            "name": "atmosphère oppressante",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 280579628,
+            "name": "contenus audiovisuels",
+            "type": 1,
+            "w": 76
+        }
+    ],
+    "relations": [
+        {
+            "id": 929580914,
+            "node1": 59993,
+            "node2": 20929,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 275209024,
+            "node1": 59993,
+            "node2": 29592,
+            "type": 53,
+            "w": 162.0
+        },
+        {
+            "id": 308118096,
+            "node1": 59993,
+            "node2": 42177,
+            "type": 53,
+            "w": 48.0
+        },
+        {
+            "id": 275209022,
+            "node1": 59993,
+            "node2": 217201,
+            "type": 53,
+            "w": 57.0
+        },
+        {
+            "id": 376991573,
+            "node1": 59993,
+            "node2": 260332,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 1020630437,
+            "node1": 59993,
+            "node2": 12369099,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 538949922,
+            "node1": 59993,
+            "node2": 14923721,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 594830845,
+            "node1": 59993,
+            "node2": 15323380,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 594830854,
+            "node1": 59993,
+            "node2": 15324760,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 538949916,
+            "node1": 59993,
+            "node2": 15442000,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 538949910,
+            "node1": 59993,
+            "node2": 15442001,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 1020630413,
+            "node1": 59993,
+            "node2": 214895715,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1150543284,
+            "node1": 59993,
+            "node2": 280579628,
+            "type": 53,
+            "w": 69.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:34.310757",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "réalisateur",
+        "#relations": 13,
+        "max_relation_weight": 162.0,
+        "#nodes": 14,
+        "duration": "0:00:00.008958"
+    }
+}

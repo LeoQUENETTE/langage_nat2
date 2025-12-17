@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37804
+        },
+        {
+            "id": 136283,
+            "name": "déménagement",
+            "type": 1,
+            "w": 1290
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7754
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152058607,
+            "node1": 45179,
+            "node2": 55137,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1152058622,
+            "node1": 45179,
+            "node2": 136283,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:02.727458",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maison",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.012691"
+    }
+}

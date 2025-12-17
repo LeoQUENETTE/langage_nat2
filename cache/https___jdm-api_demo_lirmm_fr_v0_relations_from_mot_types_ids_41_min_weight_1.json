@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 32132,
+            "name": "mot",
+            "type": 1,
+            "w": 26370
+        },
+        {
+            "id": 34898,
+            "name": "pied",
+            "type": 1,
+            "w": 21488
+        },
+        {
+            "id": 241137,
+            "name": "pied>112621",
+            "type": 1,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 98401187,
+            "node1": 32132,
+            "node2": 34898,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 27691197,
+            "node1": 32132,
+            "node2": 241137,
+            "type": 41,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:45.930918",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mot",
+        "#relations": 2,
+        "max_relation_weight": 30.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004418"
+    }
+}

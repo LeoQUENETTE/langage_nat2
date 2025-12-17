@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 263315,
+            "name": "photos de vacances",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 339186,
+            "name": "billet aller-retour",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 116162,
+            "name": "valise",
+            "type": 1,
+            "w": 793
+        },
+        {
+            "id": 82003,
+            "name": "voyageur",
+            "type": 1,
+            "w": 1331
+        },
+        {
+            "id": 97756,
+            "name": "avion",
+            "type": 1,
+            "w": 9100
+        },
+        {
+            "id": 6286988,
+            "name": "vaccin contre la fièvre jaune",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 161017,
+            "name": "titre de transport",
+            "type": 1,
+            "w": 140
+        },
+        {
+            "id": 391615,
+            "name": "chaussures de marche",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 11407869,
+            "name": "assurance annulation",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 39607,
+            "name": "sac à dos",
+            "type": 1,
+            "w": 421
+        },
+        {
+            "id": 210553033,
+            "name": "Bagages",
+            "type": 1,
+            "w": 47
+        }
+    ],
+    "relations": [
+        {
+            "id": 775088984,
+            "node1": 82003,
+            "node2": 39607,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 1046570229,
+            "node1": 82003,
+            "node2": 97756,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 775088975,
+            "node1": 82003,
+            "node2": 116162,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 962088069,
+            "node1": 82003,
+            "node2": 161017,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 769627726,
+            "node1": 82003,
+            "node2": 263315,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 1131460555,
+            "node1": 82003,
+            "node2": 339186,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 1152578740,
+            "node1": 82003,
+            "node2": 391615,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 770331438,
+            "node1": 82003,
+            "node2": 6286988,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 793615167,
+            "node1": 82003,
+            "node2": 11407869,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 1046570472,
+            "node1": 82003,
+            "node2": 210553033,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:47.875081",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voyageur",
+        "#relations": 10,
+        "max_relation_weight": 33.0,
+        "#nodes": 11,
+        "duration": "0:00:00.007467"
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 162617,
+            "name": "bouton de chemise",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 197119,
+            "name": "bouton de manchette",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 408177938,
+            "name": "ornement de nacre",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 262036301,
+            "name": "éventail en nacre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39204,
+            "name": "guitare",
+            "type": 1,
+            "w": 3592
+        },
+        {
+            "id": 114783,
+            "name": "bibelot",
+            "type": 1,
+            "w": 179
+        },
+        {
+            "id": 10881,
+            "name": "bouton",
+            "type": 1,
+            "w": 1349
+        },
+        {
+            "id": 214673,
+            "name": "bouton>120949",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 15067892,
+            "name": "en:gaud",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139217,
+            "name": "nacre",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 15067891,
+            "name": "en:gewgaw",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 477942755,
+            "name": "bouton d'instrument",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 127652,
+            "name": "incrustation",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 14922491,
+            "name": "en:bauble",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15059725,
+            "name": "en:curio",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15295897,
+            "name": "en:knick knack",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1683195,
+            "node1": 139217,
+            "node2": 10881,
+            "type": 51,
+            "w": 38.0
+        },
+        {
+            "id": 376052349,
+            "node1": 139217,
+            "node2": 39204,
+            "type": 51,
+            "w": 42.0
+        },
+        {
+            "id": 1859096,
+            "node1": 139217,
+            "node2": 114783,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 1177797621,
+            "node1": 139217,
+            "node2": 127652,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 1177792759,
+            "node1": 139217,
+            "node2": 162617,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 1177797557,
+            "node1": 139217,
+            "node2": 197119,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 1683196,
+            "node1": 139217,
+            "node2": 214673,
+            "type": 51,
+            "w": 65.0
+        },
+        {
+            "id": 720836372,
+            "node1": 139217,
+            "node2": 14922491,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 720836374,
+            "node1": 139217,
+            "node2": 15059725,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 720836370,
+            "node1": 139217,
+            "node2": 15067891,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 594840482,
+            "node1": 139217,
+            "node2": 15067892,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514425135,
+            "node1": 139217,
+            "node2": 15295897,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 1076582984,
+            "node1": 139217,
+            "node2": 262036301,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1076582916,
+            "node1": 139217,
+            "node2": 408177938,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1177795059,
+            "node1": 139217,
+            "node2": 477942755,
+            "type": 51,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:50.950795",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nacre",
+        "#relations": 15,
+        "max_relation_weight": 65.0,
+        "#nodes": 16,
+        "duration": "0:00:00.006865"
+    }
+}

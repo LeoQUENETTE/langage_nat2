@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2518
+        },
+        {
+            "id": 28985,
+            "name": "fleur",
+            "type": 1,
+            "w": 9477
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10717
+        }
+    ],
+    "relations": [
+        {
+            "id": 423719641,
+            "node1": 28985,
+            "node2": 40056,
+            "type": 153,
+            "w": 52.0
+        },
+        {
+            "id": 1179139242,
+            "node1": 28985,
+            "node2": 55249,
+            "type": 153,
+            "w": 43.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:25.231254",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleur",
+        "#relations": 2,
+        "max_relation_weight": 52.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004885"
+    }
+}

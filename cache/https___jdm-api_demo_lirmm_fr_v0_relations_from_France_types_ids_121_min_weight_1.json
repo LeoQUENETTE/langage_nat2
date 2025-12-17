@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 356409439,
+            "name": "chenillette Renault UE",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152264,
+            "name": "arme nucléaire",
+            "type": 1,
+            "w": 410
+        },
+        {
+            "id": 275129,
+            "name": "système juridique",
+            "type": 1,
+            "w": 262
+        },
+        {
+            "id": 224227,
+            "name": "GIGN",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 87987,
+            "name": "France",
+            "type": 1,
+            "w": 25102
+        },
+        {
+            "id": 7282,
+            "name": "Mona Lisa",
+            "type": 1,
+            "w": 357
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046570001,
+            "node1": 87987,
+            "node2": 7282,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1077470897,
+            "node1": 87987,
+            "node2": 152264,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1131460844,
+            "node1": 87987,
+            "node2": 224227,
+            "type": 121,
+            "w": 37.0
+        },
+        {
+            "id": 1025062920,
+            "node1": 87987,
+            "node2": 275129,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1046570278,
+            "node1": 87987,
+            "node2": 356409439,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:08.050980",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "France",
+        "#relations": 5,
+        "max_relation_weight": 37.0,
+        "#nodes": 6,
+        "duration": "0:00:00.035103"
+    }
+}

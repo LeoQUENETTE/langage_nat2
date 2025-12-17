@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 41416,
+            "name": "lissage",
+            "type": 1,
+            "w": 69
+        },
+        {
+            "id": 140516,
+            "name": "plâtre",
+            "type": 1,
+            "w": 342
+        }
+    ],
+    "relations": [
+        {
+            "id": 1180647460,
+            "node1": 140516,
+            "node2": 41416,
+            "type": 138,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:12.576010",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plâtre",
+        "#relations": 1,
+        "max_relation_weight": 33.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003451"
+    }
+}

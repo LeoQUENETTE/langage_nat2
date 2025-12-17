@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 30584,
+            "name": "château",
+            "type": 1,
+            "w": 4222
+        },
+        {
+            "id": 9575,
+            "name": "tourisme",
+            "type": 1,
+            "w": 6908
+        },
+        {
+            "id": 268723,
+            "name": "attraction touristique",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 153704177,
+            "name": "événements culturels",
+            "type": 1,
+            "w": 412
+        }
+    ],
+    "relations": [
+        {
+            "id": 891181051,
+            "node1": 30584,
+            "node2": 9575,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 1152670131,
+            "node1": 30584,
+            "node2": 268723,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1152670139,
+            "node1": 30584,
+            "node2": 153704177,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:16.776580",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "château",
+        "#relations": 3,
+        "max_relation_weight": 34.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005370"
+    }
+}

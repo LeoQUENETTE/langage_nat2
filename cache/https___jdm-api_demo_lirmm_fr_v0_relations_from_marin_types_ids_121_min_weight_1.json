@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 44397,
+            "name": "pantalon",
+            "type": 1,
+            "w": 1813
+        },
+        {
+            "id": 39621,
+            "name": "marin",
+            "type": 1,
+            "w": 2631
+        },
+        {
+            "id": 107150,
+            "name": "bateau",
+            "type": 1,
+            "w": 7792
+        },
+        {
+            "id": 151,
+            "name": "uniforme",
+            "type": 1,
+            "w": 2633
+        },
+        {
+            "id": 143959,
+            "name": "ciré",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 106278,
+            "name": "coutelas",
+            "type": 1,
+            "w": 252
+        },
+        {
+            "id": 378303,
+            "name": "sac de matelot",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 119825,
+            "name": "navire de guerre",
+            "type": 1,
+            "w": 157
+        },
+        {
+            "id": 134712,
+            "name": "boussole",
+            "type": 1,
+            "w": 553
+        }
+    ],
+    "relations": [
+        {
+            "id": 789357094,
+            "node1": 39621,
+            "node2": 151,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 240581455,
+            "node1": 39621,
+            "node2": 44397,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 1157931598,
+            "node1": 39621,
+            "node2": 106278,
+            "type": 121,
+            "w": 45.0
+        },
+        {
+            "id": 1066129795,
+            "node1": 39621,
+            "node2": 107150,
+            "type": 121,
+            "w": 58.0
+        },
+        {
+            "id": 790627665,
+            "node1": 39621,
+            "node2": 119825,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 768713168,
+            "node1": 39621,
+            "node2": 134712,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 789357145,
+            "node1": 39621,
+            "node2": 143959,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 959810231,
+            "node1": 39621,
+            "node2": 378303,
+            "type": 121,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:17.939585",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "marin",
+        "#relations": 8,
+        "max_relation_weight": 58.0,
+        "#nodes": 9,
+        "duration": "0:00:00.005966"
+    }
+}

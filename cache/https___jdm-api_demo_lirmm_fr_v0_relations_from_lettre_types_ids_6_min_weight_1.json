@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 74154,
+            "name": "courriel",
+            "type": 1,
+            "w": 532
+        },
+        {
+            "id": 32132,
+            "name": "mot",
+            "type": 1,
+            "w": 26370
+        },
+        {
+            "id": 114778,
+            "name": "symbole",
+            "type": 1,
+            "w": 5487
+        },
+        {
+            "id": 54770,
+            "name": "document",
+            "type": 1,
+            "w": 5131
+        },
+        {
+            "id": 140862,
+            "name": "note",
+            "type": 1,
+            "w": 5288
+        },
+        {
+            "id": 51253,
+            "name": "message",
+            "type": 1,
+            "w": 8158
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 145994,
+            "name": "lettre",
+            "type": 1,
+            "w": 14711
+        },
+        {
+            "id": 5534962,
+            "name": "message écrit",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 7262873,
+            "name": "en:document",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91664,
+            "name": "caractère",
+            "type": 1,
+            "w": 10283
+        },
+        {
+            "id": 28922,
+            "name": "signe",
+            "type": 1,
+            "w": 7422
+        }
+    ],
+    "relations": [
+        {
+            "id": 9899654,
+            "node1": 145994,
+            "node2": 28922,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 9899042,
+            "node1": 145994,
+            "node2": 32132,
+            "type": 6,
+            "w": 73.0
+        },
+        {
+            "id": 96714135,
+            "node1": 145994,
+            "node2": 51253,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 80652685,
+            "node1": 145994,
+            "node2": 54770,
+            "type": 6,
+            "w": 49.0
+        },
+        {
+            "id": 1156166160,
+            "node1": 145994,
+            "node2": 74154,
+            "type": 6,
+            "w": 77.0
+        },
+        {
+            "id": 9928902,
+            "node1": 145994,
+            "node2": 91664,
+            "type": 6,
+            "w": 22.0
+        },
+        {
+            "id": 96709419,
+            "node1": 145994,
+            "node2": 114778,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 629537,
+            "node1": 145994,
+            "node2": 135190,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 1156166155,
+            "node1": 145994,
+            "node2": 140862,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 1156166170,
+            "node1": 145994,
+            "node2": 5534962,
+            "type": 6,
+            "w": 49.0
+        },
+        {
+            "id": 377343680,
+            "node1": 145994,
+            "node2": 7262873,
+            "type": 6,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:41.254314",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lettre",
+        "#relations": 11,
+        "max_relation_weight": 77.0,
+        "#nodes": 12,
+        "duration": "0:00:00.050209"
+    }
+}

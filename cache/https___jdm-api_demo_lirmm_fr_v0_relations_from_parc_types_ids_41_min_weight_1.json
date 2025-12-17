@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 52611,
+            "name": "zoo",
+            "type": 1,
+            "w": 1467
+        },
+        {
+            "id": 7928,
+            "name": "pelouse",
+            "type": 1,
+            "w": 884
+        },
+        {
+            "id": 52255,
+            "name": "arbre",
+            "type": 1,
+            "w": 13179
+        },
+        {
+            "id": 96163257,
+            "name": "Parc zoologique",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 141990,
+            "name": "jardin d'acclimatation",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 61794,
+            "name": "se promener",
+            "type": 1,
+            "w": 949
+        },
+        {
+            "id": 5955,
+            "name": "parc",
+            "type": 1,
+            "w": 4318
+        },
+        {
+            "id": 133117,
+            "name": "garer",
+            "type": 1,
+            "w": 259
+        },
+        {
+            "id": 202281,
+            "name": "jardin zoologique",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 53314,
+            "name": "jeu",
+            "type": 1,
+            "w": 11936
+        },
+        {
+            "id": 14944747,
+            "name": "en:zoological garden",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14944748,
+            "name": "en:zoo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 60229,
+            "name": "parquer",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 61280,
+            "name": "parc zoologique",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 15417050,
+            "name": "en:zoological gardens",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4653,
+            "name": "courir",
+            "type": 1,
+            "w": 7342
+        },
+        {
+            "id": 50472,
+            "name": "promenade",
+            "type": 1,
+            "w": 986
+        }
+    ],
+    "relations": [
+        {
+            "id": 1832382,
+            "node1": 5955,
+            "node2": 4653,
+            "type": 41,
+            "w": 53.0
+        },
+        {
+            "id": 3208549,
+            "node1": 5955,
+            "node2": 7928,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 2483948,
+            "node1": 5955,
+            "node2": 50472,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 8795000,
+            "node1": 5955,
+            "node2": 52255,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 14654759,
+            "node1": 5955,
+            "node2": 52611,
+            "type": 41,
+            "w": 58.0
+        },
+        {
+            "id": 1804058,
+            "node1": 5955,
+            "node2": 53314,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 1804060,
+            "node1": 5955,
+            "node2": 60229,
+            "type": 41,
+            "w": 58.0
+        },
+        {
+            "id": 599382434,
+            "node1": 5955,
+            "node2": 61280,
+            "type": 41,
+            "w": 22.0
+        },
+        {
+            "id": 3208550,
+            "node1": 5955,
+            "node2": 61794,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 1804061,
+            "node1": 5955,
+            "node2": 133117,
+            "type": 41,
+            "w": 59.0
+        },
+        {
+            "id": 667252172,
+            "node1": 5955,
+            "node2": 141990,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 485394361,
+            "node1": 5955,
+            "node2": 202281,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 594858865,
+            "node1": 5955,
+            "node2": 14944747,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 411504669,
+            "node1": 5955,
+            "node2": 14944748,
+            "type": 41,
+            "w": 58.0
+        },
+        {
+            "id": 492648933,
+            "node1": 5955,
+            "node2": 15417050,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 769592443,
+            "node1": 5955,
+            "node2": 96163257,
+            "type": 41,
+            "w": 1.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:38.206366",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "parc",
+        "#relations": 16,
+        "max_relation_weight": 60.0,
+        "#nodes": 17,
+        "duration": "0:00:00.006625"
+    }
+}

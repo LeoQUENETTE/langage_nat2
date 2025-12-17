@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 40873,
+            "name": "projet",
+            "type": 1,
+            "w": 23962
+        },
+        {
+            "id": 20346,
+            "name": "but",
+            "type": 1,
+            "w": 8100
+        }
+    ],
+    "relations": [
+        {
+            "id": 9902409,
+            "node1": 40873,
+            "node2": 20346,
+            "type": 6,
+            "w": 13.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:33.853498",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "projet",
+        "#relations": 1,
+        "max_relation_weight": 13.0,
+        "#nodes": 2,
+        "duration": "0:00:00.074989"
+    }
+}

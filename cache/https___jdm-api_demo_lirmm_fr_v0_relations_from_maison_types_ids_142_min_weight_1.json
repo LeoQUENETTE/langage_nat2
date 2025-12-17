@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37890
+        },
+        {
+            "id": 143462,
+            "name": "couture",
+            "type": 1,
+            "w": 1417
+        }
+    ],
+    "relations": [
+        {
+            "id": 665151443,
+            "node1": 45179,
+            "node2": 143462,
+            "type": 142,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            142
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:56.121532",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maison",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005474"
+    }
+}

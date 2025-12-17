@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 222943,
+            "name": "genre musical",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 345475,
+            "name": "création musicale",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 132817,
+            "name": "compositeur",
+            "type": 1,
+            "w": 3718
+        },
+        {
+            "id": 302902,
+            "name": "oeuvre musicale",
+            "type": 777,
+            "w": 74
+        },
+        {
+            "id": 26584,
+            "name": "composition",
+            "type": 1,
+            "w": 5344
+        },
+        {
+            "id": 298495,
+            "name": "composition musicale",
+            "type": 1,
+            "w": 93
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046577916,
+            "node1": 132817,
+            "node2": 26584,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1046577080,
+            "node1": 132817,
+            "node2": 222943,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1011670429,
+            "node1": 132817,
+            "node2": 298495,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1046577082,
+            "node1": 132817,
+            "node2": 302902,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 952375006,
+            "node1": 132817,
+            "node2": 345475,
+            "type": 137,
+            "w": 59.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:50.665896",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "compositeur",
+        "#relations": 5,
+        "max_relation_weight": 59.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004595"
+    }
+}

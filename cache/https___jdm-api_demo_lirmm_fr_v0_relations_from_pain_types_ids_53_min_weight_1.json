@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 128482,
+            "name": "baguette",
+            "type": 1,
+            "w": 3040
+        },
+        {
+            "id": 41851,
+            "name": "croûte",
+            "type": 1,
+            "w": 459
+        },
+        {
+            "id": 25337,
+            "name": "tartine",
+            "type": 1,
+            "w": 743
+        },
+        {
+            "id": 61283,
+            "name": "pain",
+            "type": 1,
+            "w": 5782
+        },
+        {
+            "id": 1447,
+            "name": "sandwich",
+            "type": 1,
+            "w": 1117
+        },
+        {
+            "id": 51528,
+            "name": "son",
+            "type": 1,
+            "w": 370155
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177606236,
+            "node1": 61283,
+            "node2": 1447,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1177606231,
+            "node1": 61283,
+            "node2": 25337,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156476119,
+            "node1": 61283,
+            "node2": 41851,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156552864,
+            "node1": 61283,
+            "node2": 51528,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1145099389,
+            "node1": 61283,
+            "node2": 128482,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:41.376599",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pain",
+        "#relations": 5,
+        "max_relation_weight": 25.0,
+        "#nodes": 6,
+        "duration": "0:00:00.006600"
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "nodes": [
+        {
+            "id": 449570507,
+            "name": "attribut de la personnalité",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 294856208,
+            "name": "oeuvre du cinéma",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 16073636,
+            "name": "Nom patronymique",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 14951104,
+            "name": "en:surname",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 166376,
+            "name": "identifiant",
+            "type": 1,
+            "w": 456
+        },
+        {
+            "id": 32132,
+            "name": "mot",
+            "type": 1,
+            "w": 26370
+        },
+        {
+            "id": 15133838,
+            "name": "en:patronymic",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12639
+        },
+        {
+            "id": 122621,
+            "name": "désignation",
+            "type": 1,
+            "w": 2529
+        },
+        {
+            "id": 142152,
+            "name": "nom",
+            "type": 1,
+            "w": 15205
+        },
+        {
+            "id": 246632,
+            "name": "oeuvre de fiction",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 323107,
+            "name": "oeuvre>3695",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 217201,
+            "name": "film>217196",
+            "type": 1,
+            "w": 1925
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4267
+        },
+        {
+            "id": 217196,
+            "name": "oeuvre cinématographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 173863,
+            "name": "catégorie lexicale",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 173913,
+            "name": "partie du discours",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 99896,
+            "name": "anthroponyme",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14926636,
+            "name": "en:part of speech",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 220903,
+            "name": "trait grammatical",
+            "type": 1,
+            "w": 53
+        }
+    ],
+    "relations": [
+        {
+            "id": 581254351,
+            "node1": 142152,
+            "node2": 29592,
+            "type": 6,
+            "w": 70.0
+        },
+        {
+            "id": 9899041,
+            "node1": 142152,
+            "node2": 32132,
+            "type": 6,
+            "w": 65.0
+        },
+        {
+            "id": 1041225065,
+            "node1": 142152,
+            "node2": 99896,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 174108,
+            "node1": 142152,
+            "node2": 122621,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 581254353,
+            "node1": 142152,
+            "node2": 144938,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 1123094337,
+            "node1": 142152,
+            "node2": 166376,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 2376759,
+            "node1": 142152,
+            "node2": 173863,
+            "type": 6,
+            "w": 117.0
+        },
+        {
+            "id": 270960493,
+            "node1": 142152,
+            "node2": 173913,
+            "type": 6,
+            "w": 128.0
+        },
+        {
+            "id": 581418917,
+            "node1": 142152,
+            "node2": 217196,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 581254352,
+            "node1": 142152,
+            "node2": 217201,
+            "type": 6,
+            "w": 66.0
+        },
+        {
+            "id": 9916439,
+            "node1": 142152,
+            "node2": 220903,
+            "type": 6,
+            "w": 99.0
+        },
+        {
+            "id": 581424854,
+            "node1": 142152,
+            "node2": 246632,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 767015822,
+            "node1": 142152,
+            "node2": 323107,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 598701861,
+            "node1": 142152,
+            "node2": 14926636,
+            "type": 6,
+            "w": 104.0
+        },
+        {
+            "id": 598738107,
+            "node1": 142152,
+            "node2": 14951104,
+            "type": 6,
+            "w": 45.0
+        },
+        {
+            "id": 603719291,
+            "node1": 142152,
+            "node2": 15133838,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 618912515,
+            "node1": 142152,
+            "node2": 16073636,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 767131030,
+            "node1": 142152,
+            "node2": 294856208,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 1138426138,
+            "node1": 142152,
+            "node2": 449570507,
+            "type": 6,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:30.950811",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nom",
+        "#relations": 19,
+        "max_relation_weight": 128.0,
+        "#nodes": 20,
+        "duration": "0:00:00.095211"
+    }
+}

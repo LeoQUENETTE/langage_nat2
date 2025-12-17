@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 162760,
+            "name": "_INFO-SEM-EVENT",
+            "type": 36,
+            "w": 230
+        },
+        {
+            "id": 1912917,
+            "name": "_INFO-COUNTABLE-YES",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 144647,
+            "name": "fête",
+            "type": 1,
+            "w": 7516
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 163012,
+            "name": "_INFO-NO-MORE-QUESTION",
+            "type": 36,
+            "w": 6094
+        },
+        {
+            "id": 191672,
+            "name": "_INFO-SEM-ACTION",
+            "type": 36,
+            "w": 36
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248197,
+            "name": "_SEX_YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317323,
+            "name": "_POLIT_2PG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 323621,
+            "name": "_INFO-SEM-EMOTION-RELATED",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 666900,
+            "node1": 144647,
+            "node2": 162759,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 13711998,
+            "node1": 144647,
+            "node2": 162760,
+            "type": 36,
+            "w": 49.0
+        },
+        {
+            "id": 433515,
+            "node1": 144647,
+            "node2": 163012,
+            "type": 36,
+            "w": 52.0
+        },
+        {
+            "id": 11953098,
+            "node1": 144647,
+            "node2": 191672,
+            "type": 36,
+            "w": 41.0
+        },
+        {
+            "id": 739146,
+            "node1": 144647,
+            "node2": 191741,
+            "type": 36,
+            "w": 62.0
+        },
+        {
+            "id": 9590807,
+            "node1": 144647,
+            "node2": 217817,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 1993973,
+            "node1": 144647,
+            "node2": 223173,
+            "type": 36,
+            "w": 764.0
+        },
+        {
+            "id": 9109385,
+            "node1": 144647,
+            "node2": 241794,
+            "type": 36,
+            "w": 57.0
+        },
+        {
+            "id": 2188183,
+            "node1": 144647,
+            "node2": 248197,
+            "type": 36,
+            "w": 29.0
+        },
+        {
+            "id": 2190504,
+            "node1": 144647,
+            "node2": 248198,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 2337074,
+            "node1": 144647,
+            "node2": 254876,
+            "type": 36,
+            "w": 93.0
+        },
+        {
+            "id": 9115902,
+            "node1": 144647,
+            "node2": 254877,
+            "type": 36,
+            "w": 7.0
+        },
+        {
+            "id": 1137418850,
+            "node1": 144647,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 502911522,
+            "node1": 144647,
+            "node2": 317323,
+            "type": 36,
+            "w": 2.0
+        },
+        {
+            "id": 502911521,
+            "node1": 144647,
+            "node2": 317324,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 9099146,
+            "node1": 144647,
+            "node2": 317329,
+            "type": 36,
+            "w": 21.0
+        },
+        {
+            "id": 9279519,
+            "node1": 144647,
+            "node2": 323621,
+            "type": 36,
+            "w": 42.0
+        },
+        {
+            "id": 363947372,
+            "node1": 144647,
+            "node2": 438949,
+            "type": 36,
+            "w": 30.0
+        },
+        {
+            "id": 437075119,
+            "node1": 144647,
+            "node2": 1912917,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 54724040,
+            "node1": 144647,
+            "node2": 2585996,
+            "type": 36,
+            "w": 52.0
+        },
+        {
+            "id": 418102858,
+            "node1": 144647,
+            "node2": 15991432,
+            "type": 36,
+            "w": 32.0
+        },
+        {
+            "id": 499979505,
+            "node1": 144647,
+            "node2": 50233540,
+            "type": 36,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:48.460737",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fête",
+        "#relations": 22,
+        "max_relation_weight": 764.0,
+        "#nodes": 23,
+        "duration": "0:00:00.009618"
+    }
+}

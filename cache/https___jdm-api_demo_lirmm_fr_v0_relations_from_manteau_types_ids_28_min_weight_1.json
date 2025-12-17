@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 253583,
+            "name": "briquet jetable",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 139906,
+            "name": "poche",
+            "type": 1,
+            "w": 3539
+        },
+        {
+            "id": 216182,
+            "name": "pièce>52895",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 215871,
+            "name": "discontinuité de Mohorovicic",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 267132,
+            "name": "Moho",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 36378,
+            "name": "laissé",
+            "type": 1,
+            "w": 2954
+        },
+        {
+            "id": 109638,
+            "name": "fourrure",
+            "type": 1,
+            "w": 585
+        },
+        {
+            "id": 62597,
+            "name": "portefeuille",
+            "type": 1,
+            "w": 821
+        },
+        {
+            "id": 10881,
+            "name": "bouton",
+            "type": 1,
+            "w": 1349
+        },
+        {
+            "id": 45931,
+            "name": "manteau",
+            "type": 1,
+            "w": 1133
+        },
+        {
+            "id": 7548,
+            "name": "col",
+            "type": 1,
+            "w": 2543
+        },
+        {
+            "id": 96851,
+            "name": "pièce",
+            "type": 1,
+            "w": 8445
+        },
+        {
+            "id": 96082298,
+            "name": "laissé>143619",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 267150,
+            "name": "discontinuité>92878",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 39149,
+            "name": "cuir",
+            "type": 1,
+            "w": 1856
+        },
+        {
+            "id": 77953,
+            "name": "discontinuité",
+            "type": 1,
+            "w": 232
+        },
+        {
+            "id": 140770,
+            "name": "laine",
+            "type": 1,
+            "w": 2205
+        }
+    ],
+    "relations": [
+        {
+            "id": 11347387,
+            "node1": 45931,
+            "node2": 7548,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11347793,
+            "node1": 45931,
+            "node2": 10881,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 538802378,
+            "node1": 45931,
+            "node2": 36378,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11344645,
+            "node1": 45931,
+            "node2": 39149,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11342824,
+            "node1": 45931,
+            "node2": 62597,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104939420,
+            "node1": 45931,
+            "node2": 77953,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104940716,
+            "node1": 45931,
+            "node2": 96851,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 766154195,
+            "node1": 45931,
+            "node2": 109638,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 8801071,
+            "node1": 45931,
+            "node2": 139906,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 11345802,
+            "node1": 45931,
+            "node2": 140770,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11317161,
+            "node1": 45931,
+            "node2": 215871,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11332665,
+            "node1": 45931,
+            "node2": 216182,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11308738,
+            "node1": 45931,
+            "node2": 253583,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11317151,
+            "node1": 45931,
+            "node2": 267132,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11317153,
+            "node1": 45931,
+            "node2": 267150,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 525323768,
+            "node1": 45931,
+            "node2": 96082298,
+            "type": 28,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:43.516122",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "manteau",
+        "#relations": 16,
+        "max_relation_weight": 43.0,
+        "#nodes": 17,
+        "duration": "0:00:00.005196"
+    }
+}

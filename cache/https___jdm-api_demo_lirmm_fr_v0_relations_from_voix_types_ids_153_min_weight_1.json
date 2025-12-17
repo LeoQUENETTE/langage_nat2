@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 87709,
+            "name": "tonalité",
+            "type": 1,
+            "w": 1814
+        },
+        {
+            "id": 58170,
+            "name": "hauteur",
+            "type": 1,
+            "w": 5784
+        },
+        {
+            "id": 143989,
+            "name": "timbre",
+            "type": 1,
+            "w": 3259
+        },
+        {
+            "id": 51515,
+            "name": "voix",
+            "type": 1,
+            "w": 29155
+        },
+        {
+            "id": 64060,
+            "name": "puissance",
+            "type": 1,
+            "w": 9436
+        }
+    ],
+    "relations": [
+        {
+            "id": 76567681,
+            "node1": 51515,
+            "node2": 58170,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 76567682,
+            "node1": 51515,
+            "node2": 64060,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179139342,
+            "node1": 51515,
+            "node2": 87709,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 76567683,
+            "node1": 51515,
+            "node2": 143989,
+            "type": 153,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:28.815150",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voix",
+        "#relations": 4,
+        "max_relation_weight": 31.0,
+        "#nodes": 5,
+        "duration": "0:00:00.010247"
+    }
+}

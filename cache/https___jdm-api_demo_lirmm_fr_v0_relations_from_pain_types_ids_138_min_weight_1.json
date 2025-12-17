@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 107364,
+            "name": "dégustation",
+            "type": 1,
+            "w": 888
+        },
+        {
+            "id": 60056,
+            "name": "cuisson",
+            "type": 1,
+            "w": 2629
+        },
+        {
+            "id": 61283,
+            "name": "pain",
+            "type": 1,
+            "w": 5782
+        },
+        {
+            "id": 129468,
+            "name": "pétrissage",
+            "type": 1,
+            "w": 90
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177606230,
+            "node1": 61283,
+            "node2": 60056,
+            "type": 138,
+            "w": 35.0
+        },
+        {
+            "id": 1156476118,
+            "node1": 61283,
+            "node2": 107364,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1157328789,
+            "node1": 61283,
+            "node2": 129468,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:43.229863",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pain",
+        "#relations": 3,
+        "max_relation_weight": 35.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004094"
+    }
+}

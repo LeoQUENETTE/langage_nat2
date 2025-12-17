@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 28291,
+            "name": "voisin",
+            "type": 1,
+            "w": 5351
+        },
+        {
+            "id": 33075,
+            "name": "jardinier",
+            "type": 1,
+            "w": 615
+        },
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8735
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37890
+        },
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 34215
+        },
+        {
+            "id": 13946,
+            "name": "propriétaire",
+            "type": 1,
+            "w": 4409
+        }
+    ],
+    "relations": [
+        {
+            "id": 1009915527,
+            "node1": 139575,
+            "node2": 13946,
+            "type": 122,
+            "w": 45.0
+        },
+        {
+            "id": 375590299,
+            "node1": 139575,
+            "node2": 28291,
+            "type": 122,
+            "w": 31.0
+        },
+        {
+            "id": 1152638976,
+            "node1": 139575,
+            "node2": 33075,
+            "type": 122,
+            "w": 25.0
+        },
+        {
+            "id": 948428250,
+            "node1": 139575,
+            "node2": 45179,
+            "type": 122,
+            "w": 20.0
+        },
+        {
+            "id": 962088302,
+            "node1": 139575,
+            "node2": 116477,
+            "type": 122,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            122
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:06.390704",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 5,
+        "max_relation_weight": 45.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005647"
+    }
+}

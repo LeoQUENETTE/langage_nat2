@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 47907,
+            "name": "petit déjeuner",
+            "type": 1,
+            "w": 798
+        },
+        {
+            "id": 252414,
+            "name": "pâtes à la bolognaise",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 37298,
+            "name": "amour",
+            "type": 1,
+            "w": 32838
+        },
+        {
+            "id": 315901,
+            "name": "::>66:127798>17:71211",
+            "type": 8,
+            "w": 50
+        },
+        {
+            "id": 124094,
+            "name": "enfant",
+            "type": 1,
+            "w": 57598
+        },
+        {
+            "id": 88899,
+            "name": "patient",
+            "type": 1,
+            "w": 3876
+        },
+        {
+            "id": 263325,
+            "name": "spaghettis à la carbonara",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 263323,
+            "name": "spaghettis carbonara",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 122956,
+            "name": "mère",
+            "type": 1,
+            "w": 8492
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152105770,
+            "node1": 122956,
+            "node2": 37298,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1147912425,
+            "node1": 122956,
+            "node2": 47907,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376991800,
+            "node1": 122956,
+            "node2": 88899,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1132435502,
+            "node1": 122956,
+            "node2": 124094,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 376990727,
+            "node1": 122956,
+            "node2": 252414,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 376990866,
+            "node1": 122956,
+            "node2": 263323,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 376991011,
+            "node1": 122956,
+            "node2": 263325,
+            "type": 53,
+            "w": 37.0
+        },
+        {
+            "id": 376990790,
+            "node1": 122956,
+            "node2": 315901,
+            "type": 53,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:41.175466",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mère",
+        "#relations": 8,
+        "max_relation_weight": 37.0,
+        "#nodes": 9,
+        "duration": "0:00:00.009770"
+    }
+}

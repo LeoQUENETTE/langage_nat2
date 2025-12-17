@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 122671,
+            "name": "relecture",
+            "type": 1,
+            "w": 327
+        },
+        {
+            "id": 130920,
+            "name": "socialisation",
+            "type": 1,
+            "w": 777
+        },
+        {
+            "id": 35616,
+            "name": "intégration",
+            "type": 1,
+            "w": 6205
+        },
+        {
+            "id": 127487,
+            "name": "échec",
+            "type": 1,
+            "w": 6590
+        },
+        {
+            "id": 123769,
+            "name": "étudiant",
+            "type": 1,
+            "w": 5544
+        },
+        {
+            "id": 123732,
+            "name": "apprentissage",
+            "type": 1,
+            "w": 17173
+        },
+        {
+            "id": 72281,
+            "name": "étude",
+            "type": 1,
+            "w": 18750
+        },
+        {
+            "id": 140358,
+            "name": "recherche",
+            "type": 1,
+            "w": 34149
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157936329,
+            "node1": 123769,
+            "node2": 35616,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1150603771,
+            "node1": 123769,
+            "node2": 72281,
+            "type": 137,
+            "w": 107.0
+        },
+        {
+            "id": 384630943,
+            "node1": 123769,
+            "node2": 122671,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 801660717,
+            "node1": 123769,
+            "node2": 123732,
+            "type": 137,
+            "w": 45.0
+        },
+        {
+            "id": 1010155449,
+            "node1": 123769,
+            "node2": 127487,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1157936311,
+            "node1": 123769,
+            "node2": 130920,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1142764137,
+            "node1": 123769,
+            "node2": 140358,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:36.119143",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "étudiant",
+        "#relations": 7,
+        "max_relation_weight": 107.0,
+        "#nodes": 8,
+        "duration": "0:00:00.016793"
+    }
+}

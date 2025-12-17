@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 378719,
+            "name": "satisfaction personnelle",
+            "type": 1,
+            "w": 459
+        },
+        {
+            "id": 214820,
+            "name": "talon>75377",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 71626,
+            "name": "illustration",
+            "type": 1,
+            "w": 3661
+        },
+        {
+            "id": 112669,
+            "name": "appréciation",
+            "type": 1,
+            "w": 1135
+        },
+        {
+            "id": 141091,
+            "name": "coupe",
+            "type": 1,
+            "w": 3653
+        },
+        {
+            "id": 52548,
+            "name": "talon",
+            "type": 1,
+            "w": 502
+        },
+        {
+            "id": 14326236,
+            "name": "voir>131333",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 46091,
+            "name": "critique",
+            "type": 1,
+            "w": 11028
+        },
+        {
+            "id": 101711,
+            "name": "bande dessinée",
+            "type": 1,
+            "w": 4693
+        },
+        {
+            "id": 216616,
+            "name": "coupe>143462",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4899
+        },
+        {
+            "id": 123732,
+            "name": "apprentissage",
+            "type": 1,
+            "w": 17267
+        },
+        {
+            "id": 84676,
+            "name": "voir",
+            "type": 1,
+            "w": 94170
+        },
+        {
+            "id": 3170258,
+            "name": "coupe>143462>145500",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 41490,
+            "name": "inspiration",
+            "type": 1,
+            "w": 6792
+        },
+        {
+            "id": 257714,
+            "name": "dessiner à main levée",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 257713,
+            "name": "dessin à main levée",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 146105150,
+            "name": "développement des compétences",
+            "type": 1,
+            "w": 904
+        },
+        {
+            "id": 255783659,
+            "name": "appréciation esthétique",
+            "type": 1,
+            "w": 37
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177214575,
+            "node1": 98596,
+            "node2": 41490,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1177214562,
+            "node1": 98596,
+            "node2": 46091,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 98294708,
+            "node1": 98596,
+            "node2": 52548,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1008394381,
+            "node1": 98596,
+            "node2": 71626,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 364590844,
+            "node1": 98596,
+            "node2": 84676,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 14650819,
+            "node1": 98596,
+            "node2": 101711,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1177214561,
+            "node1": 98596,
+            "node2": 112669,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1177214576,
+            "node1": 98596,
+            "node2": 123732,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 98825341,
+            "node1": 98596,
+            "node2": 141091,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14643855,
+            "node1": 98596,
+            "node2": 214820,
+            "type": 41,
+            "w": 37.0
+        },
+        {
+            "id": 98400995,
+            "node1": 98596,
+            "node2": 216616,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 94077442,
+            "node1": 98596,
+            "node2": 257713,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 94077443,
+            "node1": 98596,
+            "node2": 257714,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1177214623,
+            "node1": 98596,
+            "node2": 378719,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 76312748,
+            "node1": 98596,
+            "node2": 3170258,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 364575372,
+            "node1": 98596,
+            "node2": 14326236,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 1177214607,
+            "node1": 98596,
+            "node2": 146105150,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1177214629,
+            "node1": 98596,
+            "node2": 255783659,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:24.375605",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "dessin",
+        "#relations": 18,
+        "max_relation_weight": 37.0,
+        "#nodes": 19,
+        "duration": "0:00:00.007358"
+    }
+}

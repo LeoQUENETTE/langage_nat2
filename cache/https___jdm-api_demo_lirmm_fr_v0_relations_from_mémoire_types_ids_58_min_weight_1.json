@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 156955,
+            "name": "giga-octet",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 99884,
+            "name": "mémoire",
+            "type": 1,
+            "w": 12721
+        },
+        {
+            "id": 72822,
+            "name": "méga-octet",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 216604,
+            "name": "barrette>104993",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 30248,
+            "name": "octet",
+            "type": 1,
+            "w": 256
+        },
+        {
+            "id": 44222,
+            "name": "barrette",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 129450,
+            "name": "kilo-octet",
+            "type": 1,
+            "w": 136
+        }
+    ],
+    "relations": [
+        {
+            "id": 97136550,
+            "node1": 99884,
+            "node2": 30248,
+            "type": 58,
+            "w": 29.0
+        },
+        {
+            "id": 97136551,
+            "node1": 99884,
+            "node2": 44222,
+            "type": 58,
+            "w": 28.0
+        },
+        {
+            "id": 97136554,
+            "node1": 99884,
+            "node2": 72822,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 97136556,
+            "node1": 99884,
+            "node2": 129450,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 97136559,
+            "node1": 99884,
+            "node2": 156955,
+            "type": 58,
+            "w": 24.0
+        },
+        {
+            "id": 97136562,
+            "node1": 99884,
+            "node2": 216604,
+            "type": 58,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:25.946077",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mémoire",
+        "#relations": 6,
+        "max_relation_weight": 30.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005472"
+    }
+}

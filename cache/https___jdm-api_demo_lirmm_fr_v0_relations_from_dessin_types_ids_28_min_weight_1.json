@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 231928,
+            "name": "lune>16644",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 22120,
+            "name": "carré",
+            "type": 1,
+            "w": 3515
+        },
+        {
+            "id": 81148,
+            "name": "graphe",
+            "type": 1,
+            "w": 1814
+        },
+        {
+            "id": 10756,
+            "name": "personnage",
+            "type": 1,
+            "w": 7569
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4899
+        },
+        {
+            "id": 141367,
+            "name": "lune",
+            "type": 1,
+            "w": 5359
+        },
+        {
+            "id": 320706,
+            "name": "couleur du ciel",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 579526,
+            "name": "personnage>143765",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 109233,
+            "name": "rectangle",
+            "type": 1,
+            "w": 507
+        }
+    ],
+    "relations": [
+        {
+            "id": 478820358,
+            "node1": 98596,
+            "node2": 10756,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 11348910,
+            "node1": 98596,
+            "node2": 22120,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11317697,
+            "node1": 98596,
+            "node2": 81148,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313703,
+            "node1": 98596,
+            "node2": 109233,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104940289,
+            "node1": 98596,
+            "node2": 141367,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 25028122,
+            "node1": 98596,
+            "node2": 231928,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 25720388,
+            "node1": 98596,
+            "node2": 320706,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375723449,
+            "node1": 98596,
+            "node2": 579526,
+            "type": 28,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:25.105544",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "dessin",
+        "#relations": 8,
+        "max_relation_weight": 40.0,
+        "#nodes": 9,
+        "duration": "0:00:00.003755"
+    }
+}

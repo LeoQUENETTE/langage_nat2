@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 146720,
+            "name": "céramique",
+            "type": 1,
+            "w": 897
+        },
+        {
+            "id": 188699367,
+            "name": "objet utile",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 15204213,
+            "name": "en:decorative object",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 27154,
+            "name": "animal domestique",
+            "type": 1,
+            "w": 539
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 142367,
+            "name": "pot",
+            "type": 1,
+            "w": 1131
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 55039,
+            "name": "vase",
+            "type": 1,
+            "w": 1216
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 7620882,
+            "name": "récipient culinaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5672308,
+            "name": "récipient ouvert",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 89628,
+            "name": "récipient",
+            "type": 1,
+            "w": 1305
+        },
+        {
+            "id": 261165,
+            "name": "objet décoratif",
+            "type": 1,
+            "w": 71
+        }
+    ],
+    "relations": [
+        {
+            "id": 98110373,
+            "node1": 55039,
+            "node2": 237,
+            "type": 6,
+            "w": 130.0
+        },
+        {
+            "id": 24930540,
+            "node1": 55039,
+            "node2": 27154,
+            "type": 6,
+            "w": 44.0
+        },
+        {
+            "id": 9898307,
+            "node1": 55039,
+            "node2": 89628,
+            "type": 6,
+            "w": 139.0
+        },
+        {
+            "id": 629512,
+            "node1": 55039,
+            "node2": 135190,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 9902426,
+            "node1": 55039,
+            "node2": 142367,
+            "type": 6,
+            "w": 141.0
+        },
+        {
+            "id": 9916977,
+            "node1": 55039,
+            "node2": 146720,
+            "type": 6,
+            "w": 137.0
+        },
+        {
+            "id": 98110379,
+            "node1": 55039,
+            "node2": 246870,
+            "type": 6,
+            "w": 135.0
+        },
+        {
+            "id": 98110380,
+            "node1": 55039,
+            "node2": 261165,
+            "type": 6,
+            "w": 141.0
+        },
+        {
+            "id": 371178598,
+            "node1": 55039,
+            "node2": 316850,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 114964900,
+            "node1": 55039,
+            "node2": 5672308,
+            "type": 6,
+            "w": 141.0
+        },
+        {
+            "id": 376315152,
+            "node1": 55039,
+            "node2": 7620882,
+            "type": 6,
+            "w": 142.0
+        },
+        {
+            "id": 595662228,
+            "node1": 55039,
+            "node2": 15204213,
+            "type": 6,
+            "w": 136.0
+        },
+        {
+            "id": 987830047,
+            "node1": 55039,
+            "node2": 188699367,
+            "type": 6,
+            "w": 135.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:28.225379",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "vase",
+        "#relations": 13,
+        "max_relation_weight": 142.0,
+        "#nodes": 14,
+        "duration": "0:00:00.004296"
+    }
+}

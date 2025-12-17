@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 126680,
+            "name": "écoulement",
+            "type": 1,
+            "w": 655
+        },
+        {
+            "id": 42001,
+            "name": "bébé",
+            "type": 1,
+            "w": 5490
+        },
+        {
+            "id": 123732,
+            "name": "apprentissage",
+            "type": 1,
+            "w": 17267
+        },
+        {
+            "id": 43207,
+            "name": "développement",
+            "type": 1,
+            "w": 31771
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157921139,
+            "node1": 42001,
+            "node2": 43207,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1177635232,
+            "node1": 42001,
+            "node2": 123732,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 384631153,
+            "node1": 42001,
+            "node2": 126680,
+            "type": 137,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:10.188696",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bébé",
+        "#relations": 3,
+        "max_relation_weight": 34.0,
+        "#nodes": 4,
+        "duration": "0:00:00.009291"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 39204,
+            "name": "guitare",
+            "type": 1,
+            "w": 3592
+        },
+        {
+            "id": 73657,
+            "name": "dissonance",
+            "type": 1,
+            "w": 293
+        },
+        {
+            "id": 51528,
+            "name": "son",
+            "type": 1,
+            "w": 370155
+        },
+        {
+            "id": 216226,
+            "name": "air>2050",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 70527,
+            "name": "musique",
+            "type": 1,
+            "w": 22732
+        },
+        {
+            "id": 140862,
+            "name": "note",
+            "type": 1,
+            "w": 5275
+        },
+        {
+            "id": 102986,
+            "name": "fausse note",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 129447,
+            "name": "couac",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 2050,
+            "name": "mélodie",
+            "type": 1,
+            "w": 3213
+        },
+        {
+            "id": 146025,
+            "name": "air",
+            "type": 1,
+            "w": 24352
+        }
+    ],
+    "relations": [
+        {
+            "id": 2154652,
+            "node1": 39204,
+            "node2": 2050,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 1928733,
+            "node1": 39204,
+            "node2": 51528,
+            "type": 53,
+            "w": 40.0
+        },
+        {
+            "id": 1873950,
+            "node1": 39204,
+            "node2": 70527,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 2046895,
+            "node1": 39204,
+            "node2": 73657,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 2154648,
+            "node1": 39204,
+            "node2": 102986,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 2154650,
+            "node1": 39204,
+            "node2": 129447,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 1928734,
+            "node1": 39204,
+            "node2": 140862,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 2154653,
+            "node1": 39204,
+            "node2": 146025,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 2154651,
+            "node1": 39204,
+            "node2": 216226,
+            "type": 53,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:56.390030",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "guitare",
+        "#relations": 9,
+        "max_relation_weight": 40.0,
+        "#nodes": 10,
+        "duration": "0:00:00.006937"
+    }
+}

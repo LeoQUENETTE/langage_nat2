@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 293943881,
+            "name": "gérer une ville",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 312305577,
+            "name": "inauguration du jardin",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 126686,
+            "name": "conseil municipal",
+            "type": 1,
+            "w": 204
+        },
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4761
+        },
+        {
+            "id": 218753,
+            "name": "aménagement urbain",
+            "type": 1,
+            "w": 270
+        }
+    ],
+    "relations": [
+        {
+            "id": 806338566,
+            "node1": 63462,
+            "node2": 126686,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 1057764253,
+            "node1": 63462,
+            "node2": 218753,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 1011285469,
+            "node1": 63462,
+            "node2": 293943881,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 947614909,
+            "node1": 63462,
+            "node2": 312305577,
+            "type": 137,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:11.275889",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maire",
+        "#relations": 4,
+        "max_relation_weight": 32.0,
+        "#nodes": 5,
+        "duration": "0:00:00.009922"
+    }
+}

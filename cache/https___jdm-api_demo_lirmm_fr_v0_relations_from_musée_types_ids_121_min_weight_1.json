@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 14668621,
+            "name": "monnaie antique",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 258659914,
+            "name": "collection de sculptures",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 158740,
+            "name": "statues",
+            "type": 1,
+            "w": 1837
+        },
+        {
+            "id": 310895505,
+            "name": "squelette de vélociraptor",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251707414,
+            "name": "collections d'art",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 211870579,
+            "name": "guide audio",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 58127,
+            "name": "météorite",
+            "type": 1,
+            "w": 294
+        },
+        {
+            "id": 101285,
+            "name": "musée",
+            "type": 1,
+            "w": 5173
+        },
+        {
+            "id": 154700,
+            "name": "oeuvre d'art",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 75003,
+            "name": "tableau",
+            "type": 1,
+            "w": 5412
+        },
+        {
+            "id": 235794,
+            "name": "oeuvres d'art",
+            "type": 1,
+            "w": 196
+        },
+        {
+            "id": 250674,
+            "name": "collection permanente",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 237646878,
+            "name": "collection d'art",
+            "type": 1,
+            "w": 56
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046570721,
+            "node1": 101285,
+            "node2": 58127,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046569757,
+            "node1": 101285,
+            "node2": 75003,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 948428871,
+            "node1": 101285,
+            "node2": 154700,
+            "type": 121,
+            "w": 40.0
+        },
+        {
+            "id": 959342846,
+            "node1": 101285,
+            "node2": 158740,
+            "type": 121,
+            "w": 38.0
+        },
+        {
+            "id": 959342845,
+            "node1": 101285,
+            "node2": 235794,
+            "type": 121,
+            "w": 52.0
+        },
+        {
+            "id": 991315766,
+            "node1": 101285,
+            "node2": 250674,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1142131617,
+            "node1": 101285,
+            "node2": 14668621,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1046570050,
+            "node1": 101285,
+            "node2": 211870579,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 770910069,
+            "node1": 101285,
+            "node2": 237646878,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1021840189,
+            "node1": 101285,
+            "node2": 251707414,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 959382144,
+            "node1": 101285,
+            "node2": 258659914,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 940485495,
+            "node1": 101285,
+            "node2": 310895505,
+            "type": 121,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:29.770006",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "musée",
+        "#relations": 12,
+        "max_relation_weight": 52.0,
+        "#nodes": 13,
+        "duration": "0:00:00.006067"
+    }
+}

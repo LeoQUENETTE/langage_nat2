@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 143613,
+            "name": "porte",
+            "type": 1,
+            "w": 23845
+        },
+        {
+            "id": 9224938,
+            "name": "objet inanimé",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 5425,
+            "name": "machine",
+            "type": 1,
+            "w": 7846
+        },
+        {
+            "id": 59893,
+            "name": "entrée",
+            "type": 1,
+            "w": 6134
+        },
+        {
+            "id": 58121,
+            "name": "accès",
+            "type": 1,
+            "w": 8440
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5279
+        },
+        {
+            "id": 64862,
+            "name": "passage",
+            "type": 1,
+            "w": 6928
+        },
+        {
+            "id": 36820,
+            "name": "ouverture",
+            "type": 1,
+            "w": 4352
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 45887,
+            "name": "barrière",
+            "type": 1,
+            "w": 2005
+        },
+        {
+            "id": 111740,
+            "name": "menuiserie",
+            "type": 1,
+            "w": 291
+        },
+        {
+            "id": 81771,
+            "name": "fermeture",
+            "type": 1,
+            "w": 2784
+        },
+        {
+            "id": 39716,
+            "name": "huisserie",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 110737,
+            "name": "issue",
+            "type": 1,
+            "w": 3420
+        },
+        {
+            "id": 108952,
+            "name": "baie",
+            "type": 1,
+            "w": 2728
+        }
+    ],
+    "relations": [
+        {
+            "id": 1127191401,
+            "node1": 143613,
+            "node2": 5425,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 180507,
+            "node1": 143613,
+            "node2": 36820,
+            "type": 6,
+            "w": 129.0
+        },
+        {
+            "id": 9903421,
+            "node1": 143613,
+            "node2": 39716,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 235118,
+            "node1": 143613,
+            "node2": 45887,
+            "type": 6,
+            "w": 65.0
+        },
+        {
+            "id": 235120,
+            "node1": 143613,
+            "node2": 58121,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 209538,
+            "node1": 143613,
+            "node2": 59893,
+            "type": 6,
+            "w": 152.0
+        },
+        {
+            "id": 180506,
+            "node1": 143613,
+            "node2": 64862,
+            "type": 6,
+            "w": 122.0
+        },
+        {
+            "id": 195351,
+            "node1": 143613,
+            "node2": 81771,
+            "type": 6,
+            "w": 148.0
+        },
+        {
+            "id": 108355075,
+            "node1": 143613,
+            "node2": 108952,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 9900489,
+            "node1": 143613,
+            "node2": 110737,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 195354,
+            "node1": 143613,
+            "node2": 111740,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 629087,
+            "node1": 143613,
+            "node2": 135190,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 1127191399,
+            "node1": 143613,
+            "node2": 135936,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 909982832,
+            "node1": 143613,
+            "node2": 9224938,
+            "type": 6,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:57.076686",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "porte",
+        "#relations": 14,
+        "max_relation_weight": 152.0,
+        "#nodes": 15,
+        "duration": "0:00:00.061245"
+    }
+}

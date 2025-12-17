@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 2238,
+            "name": "Charles de Gaulle",
+            "type": 1,
+            "w": 190
+        },
+        {
+            "id": 63240,
+            "name": "écolier",
+            "type": 1,
+            "w": 1218
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2791
+        },
+        {
+            "id": 73457,
+            "name": "artiste",
+            "type": 1,
+            "w": 6042
+        },
+        {
+            "id": 12502,
+            "name": "écrivain",
+            "type": 1,
+            "w": 6274
+        },
+        {
+            "id": 123769,
+            "name": "étudiant",
+            "type": 1,
+            "w": 5554
+        },
+        {
+            "id": 68887,
+            "name": "élève",
+            "type": 1,
+            "w": 7701
+        },
+        {
+            "id": 78104,
+            "name": "mathématicien",
+            "type": 1,
+            "w": 5224
+        },
+        {
+            "id": 126357,
+            "name": "professionnel",
+            "type": 1,
+            "w": 7042
+        },
+        {
+            "id": 16059,
+            "name": "serveuse",
+            "type": 1,
+            "w": 411
+        }
+    ],
+    "relations": [
+        {
+            "id": 962088265,
+            "node1": 15509,
+            "node2": 2238,
+            "type": 122,
+            "w": 20.0
+        },
+        {
+            "id": 375590289,
+            "node1": 15509,
+            "node2": 12502,
+            "type": 122,
+            "w": 67.0
+        },
+        {
+            "id": 1046570957,
+            "node1": 15509,
+            "node2": 16059,
+            "type": 122,
+            "w": 20.0
+        },
+        {
+            "id": 901713071,
+            "node1": 15509,
+            "node2": 63240,
+            "type": 122,
+            "w": 74.0
+        },
+        {
+            "id": 375589732,
+            "node1": 15509,
+            "node2": 68887,
+            "type": 122,
+            "w": 51.0
+        },
+        {
+            "id": 1156166299,
+            "node1": 15509,
+            "node2": 73457,
+            "type": 122,
+            "w": 25.0
+        },
+        {
+            "id": 1046571827,
+            "node1": 15509,
+            "node2": 78104,
+            "type": 122,
+            "w": 20.0
+        },
+        {
+            "id": 1152449678,
+            "node1": 15509,
+            "node2": 123769,
+            "type": 122,
+            "w": 27.0
+        },
+        {
+            "id": 1156166308,
+            "node1": 15509,
+            "node2": 126357,
+            "type": 122,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            122
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:04.015693",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 9,
+        "max_relation_weight": 74.0,
+        "#nodes": 10,
+        "duration": "0:00:00.006202"
+    }
+}

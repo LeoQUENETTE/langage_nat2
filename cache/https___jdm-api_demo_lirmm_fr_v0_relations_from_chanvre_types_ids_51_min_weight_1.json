@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 408177973,
+            "name": "ceinture en chanvre",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 211882364,
+            "name": "corde de chanvre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 242949604,
+            "name": "corde en chanvre",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 81046,
+            "name": "tapis",
+            "type": 1,
+            "w": 1328
+        },
+        {
+            "id": 8595,
+            "name": "corde",
+            "type": 1,
+            "w": 3415
+        },
+        {
+            "id": 48825,
+            "name": "sac à main",
+            "type": 1,
+            "w": 483
+        },
+        {
+            "id": 155871,
+            "name": "tee shirt",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 81207,
+            "name": "tee-shirt",
+            "type": 1,
+            "w": 246
+        },
+        {
+            "id": 179504,
+            "name": "ticheurte",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 152369,
+            "name": "T-shirt",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 14959846,
+            "name": "en:handbag",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 124968,
+            "name": "t-shirt",
+            "type": 1,
+            "w": 271
+        },
+        {
+            "id": 130421,
+            "name": "larderasse",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14963915,
+            "name": "en:T-shirt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 252276146,
+            "name": "papier artisanal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 477942728,
+            "name": "toile artistique",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 76392,
+            "name": "chanvre",
+            "type": 1,
+            "w": 206
+        }
+    ],
+    "relations": [
+        {
+            "id": 964312894,
+            "node1": 76392,
+            "node2": 8595,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376053537,
+            "node1": 76392,
+            "node2": 48825,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376055477,
+            "node1": 76392,
+            "node2": 81046,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376051580,
+            "node1": 76392,
+            "node2": 81207,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376051570,
+            "node1": 76392,
+            "node2": 124968,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376054045,
+            "node1": 76392,
+            "node2": 130421,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376051565,
+            "node1": 76392,
+            "node2": 152369,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 720836391,
+            "node1": 76392,
+            "node2": 155871,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376051575,
+            "node1": 76392,
+            "node2": 179504,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514423772,
+            "node1": 76392,
+            "node2": 14959846,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514424142,
+            "node1": 76392,
+            "node2": 14963915,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 1076582881,
+            "node1": 76392,
+            "node2": 211882364,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 775218341,
+            "node1": 76392,
+            "node2": 242949604,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 1177795057,
+            "node1": 76392,
+            "node2": 252276146,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 1076582964,
+            "node1": 76392,
+            "node2": 408177973,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1177794761,
+            "node1": 76392,
+            "node2": 477942728,
+            "type": 51,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:10.490170",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chanvre",
+        "#relations": 16,
+        "max_relation_weight": 34.0,
+        "#nodes": 17,
+        "duration": "0:00:00.004004"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7272
+        },
+        {
+            "id": 293965747,
+            "name": "partie de bâtiment",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 146739,
+            "name": "structure",
+            "type": 1,
+            "w": 11267
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 68439,
+            "name": "individu",
+            "type": 1,
+            "w": 11402
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 84765,
+            "name": "éponte",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 248759,
+            "name": "structure solide",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 41808,
+            "name": "enceinte",
+            "type": 1,
+            "w": 2434
+        },
+        {
+            "id": 39056,
+            "name": "paroi",
+            "type": 1,
+            "w": 1402
+        },
+        {
+            "id": 63281,
+            "name": "maçonnerie",
+            "type": 1,
+            "w": 370
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157922757,
+            "node1": 144936,
+            "node2": 39056,
+            "type": 6,
+            "w": 829.78
+        },
+        {
+            "id": 1157922774,
+            "node1": 144936,
+            "node2": 41808,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 1710726,
+            "node1": 144936,
+            "node2": 55137,
+            "type": 6,
+            "w": 117.0
+        },
+        {
+            "id": 1710725,
+            "node1": 144936,
+            "node2": 63281,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 1127187683,
+            "node1": 144936,
+            "node2": 68439,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 9928344,
+            "node1": 144936,
+            "node2": 84765,
+            "type": 6,
+            "w": 545.79
+        },
+        {
+            "id": 629121,
+            "node1": 144936,
+            "node2": 135190,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 2206541,
+            "node1": 144936,
+            "node2": 146739,
+            "type": 6,
+            "w": 110.0
+        },
+        {
+            "id": 2206542,
+            "node1": 144936,
+            "node2": 248759,
+            "type": 6,
+            "w": 106.0
+        },
+        {
+            "id": 766169516,
+            "node1": 144936,
+            "node2": 293965747,
+            "type": 6,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:16.881435",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mur",
+        "#relations": 10,
+        "max_relation_weight": 1000.0,
+        "#nodes": 11,
+        "duration": "0:00:00.021825"
+    }
+}

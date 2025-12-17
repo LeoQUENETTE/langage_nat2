@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 15082701,
+            "name": "en:table linen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92471,
+            "name": "linge",
+            "type": 1,
+            "w": 1259
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 91043,
+            "name": "nappe",
+            "type": 1,
+            "w": 739
+        },
+        {
+            "id": 15074574,
+            "name": "en:household linen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 240372,
+            "name": "linge de table",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 7224310,
+            "name": "en:linen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152260,
+            "name": "linge de maison",
+            "type": 1,
+            "w": 168
+        },
+        {
+            "id": 45898,
+            "name": "toile de lin",
+            "type": 1,
+            "w": 72
+        }
+    ],
+    "relations": [
+        {
+            "id": 937527823,
+            "node1": 91043,
+            "node2": 237,
+            "type": 6,
+            "w": 71.0
+        },
+        {
+            "id": 603761074,
+            "node1": 91043,
+            "node2": 45898,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 96700075,
+            "node1": 91043,
+            "node2": 92471,
+            "type": 6,
+            "w": 22.0
+        },
+        {
+            "id": 114746216,
+            "node1": 91043,
+            "node2": 152260,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 9909660,
+            "node1": 91043,
+            "node2": 240372,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 937527966,
+            "node1": 91043,
+            "node2": 246870,
+            "type": 6,
+            "w": 88.0
+        },
+        {
+            "id": 597523379,
+            "node1": 91043,
+            "node2": 7224310,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 603721479,
+            "node1": 91043,
+            "node2": 15074574,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 539566768,
+            "node1": 91043,
+            "node2": 15082701,
+            "type": 6,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:22.451783",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nappe",
+        "#relations": 9,
+        "max_relation_weight": 88.0,
+        "#nodes": 10,
+        "duration": "0:00:00.010495"
+    }
+}

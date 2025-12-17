@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 256716741,
+            "name": "recettes secrètes",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 88759,
+            "name": "escalope",
+            "type": 1,
+            "w": 272
+        },
+        {
+            "id": 296227907,
+            "name": "burger primé",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 246996,
+            "name": "recettes",
+            "type": 1,
+            "w": 2773
+        },
+        {
+            "id": 152067,
+            "name": "ustensile de cuisine",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 30030,
+            "name": "entreprise",
+            "type": 1,
+            "w": 8863
+        },
+        {
+            "id": 16033,
+            "name": "cuisine",
+            "type": 1,
+            "w": 16388
+        },
+        {
+            "id": 151,
+            "name": "uniforme",
+            "type": 1,
+            "w": 2633
+        },
+        {
+            "id": 79954,
+            "name": "restaurant",
+            "type": 1,
+            "w": 6195
+        },
+        {
+            "id": 89926,
+            "name": "chef",
+            "type": 1,
+            "w": 9712
+        },
+        {
+            "id": 9124,
+            "name": "toque",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 24670,
+            "name": "chapeau",
+            "type": 1,
+            "w": 2164
+        },
+        {
+            "id": 216120,
+            "name": "recette de cuisine",
+            "type": 1,
+            "w": 170
+        },
+        {
+            "id": 32610,
+            "name": "couteau",
+            "type": 1,
+            "w": 4346
+        },
+        {
+            "id": 7658,
+            "name": "tablier",
+            "type": 1,
+            "w": 240
+        },
+        {
+            "id": 118696,
+            "name": "ustensiles de cuisine",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 263814168,
+            "name": "savoir-faire gastronomique",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 38188,
+            "name": "menu",
+            "type": 1,
+            "w": 1117
+        }
+    ],
+    "relations": [
+        {
+            "id": 240581432,
+            "node1": 89926,
+            "node2": 151,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1046570091,
+            "node1": 89926,
+            "node2": 7658,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 352105699,
+            "node1": 89926,
+            "node2": 9124,
+            "type": 121,
+            "w": 59.0
+        },
+        {
+            "id": 1132463771,
+            "node1": 89926,
+            "node2": 16033,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 240581431,
+            "node1": 89926,
+            "node2": 24670,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1010239721,
+            "node1": 89926,
+            "node2": 30030,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1158407338,
+            "node1": 89926,
+            "node2": 32610,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1132431181,
+            "node1": 89926,
+            "node2": 38188,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1153736094,
+            "node1": 89926,
+            "node2": 79954,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1151544198,
+            "node1": 89926,
+            "node2": 88759,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1046570032,
+            "node1": 89926,
+            "node2": 118696,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1153755006,
+            "node1": 89926,
+            "node2": 152067,
+            "type": 121,
+            "w": 50.0
+        },
+        {
+            "id": 1046569781,
+            "node1": 89926,
+            "node2": 216120,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 962087975,
+            "node1": 89926,
+            "node2": 246996,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 948428825,
+            "node1": 89926,
+            "node2": 256716741,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1150421198,
+            "node1": 89926,
+            "node2": 263814168,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 770327063,
+            "node1": 89926,
+            "node2": 296227907,
+            "type": 121,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:41.335419",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chef",
+        "#relations": 17,
+        "max_relation_weight": 59.0,
+        "#nodes": 18,
+        "duration": "0:00:00.007850"
+    }
+}

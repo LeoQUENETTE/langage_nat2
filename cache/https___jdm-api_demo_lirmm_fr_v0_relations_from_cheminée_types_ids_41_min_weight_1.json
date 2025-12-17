@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 1530,
+            "name": "incendie",
+            "type": 1,
+            "w": 3618
+        },
+        {
+            "id": 110910,
+            "name": "chaleur",
+            "type": 1,
+            "w": 7778
+        },
+        {
+            "id": 143548,
+            "name": "cheminée",
+            "type": 1,
+            "w": 1400
+        }
+    ],
+    "relations": [
+        {
+            "id": 14643021,
+            "node1": 143548,
+            "node2": 1530,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 861545867,
+            "node1": 143548,
+            "node2": 110910,
+            "type": 41,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:09.055648",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cheminée",
+        "#relations": 2,
+        "max_relation_weight": 34.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003680"
+    }
+}

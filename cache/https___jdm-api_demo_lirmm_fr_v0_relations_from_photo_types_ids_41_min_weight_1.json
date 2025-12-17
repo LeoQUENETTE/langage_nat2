@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 365937,
+            "name": "mémoire visuelle",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 15145721,
+            "name": "en:sex drive",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15239206,
+            "name": "en:sexual drive",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 52442,
+            "name": "photo",
+            "type": 1,
+            "w": 4916
+        },
+        {
+            "id": 20429,
+            "name": "bas-ventre",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 243842,
+            "name": "reconnaissance sociale",
+            "type": 1,
+            "w": 160
+        },
+        {
+            "id": 234947,
+            "name": "pulsion sexuelle",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 6935974,
+            "name": "en:lower abdomen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7032140,
+            "name": "en:libido",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 161898,
+            "name": "désir sexuel",
+            "type": 1,
+            "w": 189
+        },
+        {
+            "id": 206537,
+            "name": "pulsions sexuelles",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 21726,
+            "name": "libido",
+            "type": 1,
+            "w": 457
+        },
+        {
+            "id": 358601,
+            "name": "impact émotionnel",
+            "type": 1,
+            "w": 296
+        }
+    ],
+    "relations": [
+        {
+            "id": 411503136,
+            "node1": 52442,
+            "node2": 20429,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14644916,
+            "node1": 52442,
+            "node2": 21726,
+            "type": 41,
+            "w": 136.0
+        },
+        {
+            "id": 806182289,
+            "node1": 52442,
+            "node2": 161898,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 1079375896,
+            "node1": 52442,
+            "node2": 206537,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 431560462,
+            "node1": 52442,
+            "node2": 234947,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 1158175570,
+            "node1": 52442,
+            "node2": 243842,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158175554,
+            "node1": 52442,
+            "node2": 358601,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158175537,
+            "node1": 52442,
+            "node2": 365937,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 411503181,
+            "node1": 52442,
+            "node2": 6935974,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 213784897,
+            "node1": 52442,
+            "node2": 7032140,
+            "type": 41,
+            "w": 49.0
+        },
+        {
+            "id": 411503019,
+            "node1": 52442,
+            "node2": 15145721,
+            "type": 41,
+            "w": 40.0
+        },
+        {
+            "id": 1079346505,
+            "node1": 52442,
+            "node2": 15239206,
+            "type": 41,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:17.417518",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "photo",
+        "#relations": 12,
+        "max_relation_weight": 136.0,
+        "#nodes": 13,
+        "duration": "0:00:00.008724"
+    }
+}

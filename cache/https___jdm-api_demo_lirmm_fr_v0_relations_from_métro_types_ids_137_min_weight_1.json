@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 313698140,
+            "name": "déplacement urbain souterrain",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 10564,
+            "name": "déplacement",
+            "type": 1,
+            "w": 6575
+        },
+        {
+            "id": 134491,
+            "name": "métro",
+            "type": 1,
+            "w": 4058
+        },
+        {
+            "id": 108939,
+            "name": "transit",
+            "type": 1,
+            "w": 289
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154255165,
+            "node1": 134491,
+            "node2": 10564,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1154255189,
+            "node1": 134491,
+            "node2": 108939,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 952476820,
+            "node1": 134491,
+            "node2": 313698140,
+            "type": 137,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:44.856670",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métro",
+        "#relations": 3,
+        "max_relation_weight": 31.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003994"
+    }
+}

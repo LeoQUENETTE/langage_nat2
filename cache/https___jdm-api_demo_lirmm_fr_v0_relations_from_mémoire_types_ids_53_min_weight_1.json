@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 373025667,
+            "name": "voile d'oubli",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 99884,
+            "name": "mémoire",
+            "type": 1,
+            "w": 12721
+        }
+    ],
+    "relations": [
+        {
+            "id": 1040734239,
+            "node1": 99884,
+            "node2": 373025667,
+            "type": 53,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:24.569114",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mémoire",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004796"
+    }
+}

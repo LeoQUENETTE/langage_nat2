@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6925
+        },
+        {
+            "id": 92679,
+            "name": "salon",
+            "type": 1,
+            "w": 3193
+        },
+        {
+            "id": 15449833,
+            "name": "en:goings-on",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91358,
+            "name": "appartement",
+            "type": 1,
+            "w": 4959
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12888
+        },
+        {
+            "id": 37166,
+            "name": "événement",
+            "type": 1,
+            "w": 11240
+        },
+        {
+            "id": 100370,
+            "name": "exposition",
+            "type": 1,
+            "w": 6422
+        },
+        {
+            "id": 28895,
+            "name": "happening",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 14941510,
+            "name": "en:happening",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 96851,
+            "name": "pièce",
+            "type": 1,
+            "w": 8425
+        },
+        {
+            "id": 92053,
+            "name": "foire",
+            "type": 1,
+            "w": 414
+        },
+        {
+            "id": 15252443,
+            "name": "en:business event",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15252444,
+            "name": "en:occurence",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216173,
+            "name": "pièce>139209",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 145186,
+            "name": "évènement",
+            "type": 1,
+            "w": 915
+        }
+    ],
+    "relations": [
+        {
+            "id": 723177339,
+            "node1": 92679,
+            "node2": 28895,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 9901487,
+            "node1": 92679,
+            "node2": 37166,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 98457,
+            "node1": 92679,
+            "node2": 91358,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 268023,
+            "node1": 92679,
+            "node2": 92053,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 98460,
+            "node1": 92679,
+            "node2": 96851,
+            "type": 6,
+            "w": 142.0
+        },
+        {
+            "id": 101647,
+            "node1": 92679,
+            "node2": 100370,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 98456,
+            "node1": 92679,
+            "node2": 134218,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 115802,
+            "node1": 92679,
+            "node2": 135190,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 13529930,
+            "node1": 92679,
+            "node2": 145186,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 9904342,
+            "node1": 92679,
+            "node2": 216173,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 539570267,
+            "node1": 92679,
+            "node2": 14941510,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 597522170,
+            "node1": 92679,
+            "node2": 15252443,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 597522918,
+            "node1": 92679,
+            "node2": 15252444,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 539569530,
+            "node1": 92679,
+            "node2": 15449833,
+            "type": 6,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:02:00.355350",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "salon",
+        "#relations": 14,
+        "max_relation_weight": 142.0,
+        "#nodes": 15,
+        "duration": "0:00:00.023469"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1423
+        },
+        {
+            "id": 156502,
+            "name": "métal précieux",
+            "type": 1,
+            "w": 171
+        },
+        {
+            "id": 80138,
+            "name": "or",
+            "type": 1,
+            "w": 9307
+        },
+        {
+            "id": 15083675,
+            "name": "en:noble metal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102918211,
+            "name": "Métal précieux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141480,
+            "name": "écaille",
+            "type": 1,
+            "w": 489
+        }
+    ],
+    "relations": [
+        {
+            "id": 11332836,
+            "node1": 16912,
+            "node2": 80138,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 766154216,
+            "node1": 16912,
+            "node2": 141480,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11328610,
+            "node1": 16912,
+            "node2": 156502,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 553301574,
+            "node1": 16912,
+            "node2": 15083675,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 534651491,
+            "node1": 16912,
+            "node2": 102918211,
+            "type": 28,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:41.725439",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bijou",
+        "#relations": 5,
+        "max_relation_weight": 39.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004325"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 101913,
+            "name": "président",
+            "type": 1,
+            "w": 13990
+        },
+        {
+            "id": 289821,
+            "name": "Monica Samille Lewinsky",
+            "type": 777,
+            "w": 52
+        },
+        {
+            "id": 165391,
+            "name": "Monica Lewinsky",
+            "type": 1,
+            "w": 75
+        }
+    ],
+    "relations": [
+        {
+            "id": 11338888,
+            "node1": 101913,
+            "node2": 165391,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 13559844,
+            "node1": 101913,
+            "node2": 289821,
+            "type": 28,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:15.352421",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "président",
+        "#relations": 2,
+        "max_relation_weight": 38.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005491"
+    }
+}

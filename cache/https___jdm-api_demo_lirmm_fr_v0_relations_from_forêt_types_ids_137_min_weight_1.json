@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 2400022,
+            "name": "séquestration carbone",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 146632,
+            "name": "forêt",
+            "type": 1,
+            "w": 10610
+        },
+        {
+            "id": 27404,
+            "name": "photosynthèse",
+            "type": 1,
+            "w": 970
+        },
+        {
+            "id": 55319,
+            "name": "régénération",
+            "type": 1,
+            "w": 298
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143667208,
+            "node1": 146632,
+            "node2": 27404,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1143667209,
+            "node1": 146632,
+            "node2": 55319,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 948449142,
+            "node1": 146632,
+            "node2": 2400022,
+            "type": 137,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:32.180644",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "forêt",
+        "#relations": 3,
+        "max_relation_weight": 29.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005056"
+    }
+}

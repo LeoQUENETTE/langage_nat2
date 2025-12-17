@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 43478,
+            "name": "visiteur",
+            "type": 1,
+            "w": 1078
+        },
+        {
+            "id": 101285,
+            "name": "musée",
+            "type": 1,
+            "w": 5173
+        },
+        {
+            "id": 146823,
+            "name": "tableaux",
+            "type": 1,
+            "w": 2732
+        },
+        {
+            "id": 54809,
+            "name": "rétrospective",
+            "type": 1,
+            "w": 137
+        },
+        {
+            "id": 15080402,
+            "name": "en:boards",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 211900991,
+            "name": "enrichissement culturel",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 68393,
+            "name": "collections",
+            "type": 1,
+            "w": 3016
+        },
+        {
+            "id": 30343,
+            "name": "visite",
+            "type": 1,
+            "w": 5706
+        },
+        {
+            "id": 106302,
+            "name": "sensibilisation",
+            "type": 1,
+            "w": 21065
+        },
+        {
+            "id": 9575,
+            "name": "tourisme",
+            "type": 1,
+            "w": 6937
+        },
+        {
+            "id": 100370,
+            "name": "exposition",
+            "type": 1,
+            "w": 6466
+        },
+        {
+            "id": 75003,
+            "name": "tableau",
+            "type": 1,
+            "w": 5412
+        },
+        {
+            "id": 7157445,
+            "name": "en:paintings",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 226117,
+            "name": "développement touristique",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 253481447,
+            "name": "préservation du patrimoine",
+            "type": 1,
+            "w": 106
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155911622,
+            "node1": 101285,
+            "node2": 9575,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1924059,
+            "node1": 101285,
+            "node2": 30343,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 2010543,
+            "node1": 101285,
+            "node2": 43478,
+            "type": 41,
+            "w": 58.0
+        },
+        {
+            "id": 539948190,
+            "node1": 101285,
+            "node2": 54809,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 539948243,
+            "node1": 101285,
+            "node2": 68393,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1924058,
+            "node1": 101285,
+            "node2": 75003,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 2010545,
+            "node1": 101285,
+            "node2": 100370,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 1155914524,
+            "node1": 101285,
+            "node2": 106302,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 2010544,
+            "node1": 101285,
+            "node2": 146823,
+            "type": 41,
+            "w": 55.0
+        },
+        {
+            "id": 1155910382,
+            "node1": 101285,
+            "node2": 226117,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 720843659,
+            "node1": 101285,
+            "node2": 7157445,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 720843662,
+            "node1": 101285,
+            "node2": 15080402,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155910366,
+            "node1": 101285,
+            "node2": 211900991,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 1155916561,
+            "node1": 101285,
+            "node2": 253481447,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:26.680106",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "musée",
+        "#relations": 14,
+        "max_relation_weight": 60.0,
+        "#nodes": 15,
+        "duration": "0:00:00.005098"
+    }
+}

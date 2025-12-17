@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 116708,
+            "name": "corrosion",
+            "type": 1,
+            "w": 236
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 71760,
+            "name": "conductibilité",
+            "type": 1,
+            "w": 62
+        }
+    ],
+    "relations": [
+        {
+            "id": 11337298,
+            "node1": 134927,
+            "node2": 71760,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1066398138,
+            "node1": 134927,
+            "node2": 116708,
+            "type": 28,
+            "w": 7.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:08.070215",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métal",
+        "#relations": 2,
+        "max_relation_weight": 38.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003961"
+    }
+}

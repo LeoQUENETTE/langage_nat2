@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 89466,
+            "name": "parc national",
+            "type": 1,
+            "w": 359
+        },
+        {
+            "id": 40873,
+            "name": "projet",
+            "type": 1,
+            "w": 23967
+        },
+        {
+            "id": 91028,
+            "name": "Yellowstone",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 2952949,
+            "name": "série télévisée américaine",
+            "type": 1,
+            "w": 9
+        }
+    ],
+    "relations": [
+        {
+            "id": 110707713,
+            "node1": 91028,
+            "node2": 40873,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 940272762,
+            "node1": 91028,
+            "node2": 89466,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 535043484,
+            "node1": 91028,
+            "node2": 2952949,
+            "type": 6,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:39.986821",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Yellowstone",
+        "#relations": 3,
+        "max_relation_weight": 36.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005763"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 139655,
+            "name": "roi",
+            "type": 1,
+            "w": 12579
+        },
+        {
+            "id": 146756,
+            "name": "lois",
+            "type": 1,
+            "w": 6437
+        },
+        {
+            "id": 431178,
+            "name": "décrets",
+            "type": 1,
+            "w": 288
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156941263,
+            "node1": 139655,
+            "node2": 146756,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156942039,
+            "node1": 139655,
+            "node2": 431178,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:38.430210",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "roi",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005040"
+    }
+}

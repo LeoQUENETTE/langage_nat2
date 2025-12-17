@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 269965,
+            "name": "_INFO-SEM-COLOR-RELATED",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 144463,
+            "name": "corail",
+            "type": 1,
+            "w": 371
+        },
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991431,
+            "name": "_PROP-ANIME-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 77954027,
+            "node1": 144463,
+            "node2": 162763,
+            "type": 36,
+            "w": 31.0
+        },
+        {
+            "id": 2079165,
+            "node1": 144463,
+            "node2": 191669,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 1628954,
+            "node1": 144463,
+            "node2": 217817,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 9139449,
+            "node1": 144463,
+            "node2": 223173,
+            "type": 36,
+            "w": 206.0
+        },
+        {
+            "id": 9217978,
+            "node1": 144463,
+            "node2": 241794,
+            "type": 36,
+            "w": 265.0
+        },
+        {
+            "id": 97332210,
+            "node1": 144463,
+            "node2": 248198,
+            "type": 36,
+            "w": 10.0
+        },
+        {
+            "id": 9140856,
+            "node1": 144463,
+            "node2": 254876,
+            "type": 36,
+            "w": 44.0
+        },
+        {
+            "id": 9239857,
+            "node1": 144463,
+            "node2": 254877,
+            "type": 36,
+            "w": 56.0
+        },
+        {
+            "id": 3167809,
+            "node1": 144463,
+            "node2": 269965,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 1106906937,
+            "node1": 144463,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 503008887,
+            "node1": 144463,
+            "node2": 317329,
+            "type": 36,
+            "w": 41.0
+        },
+        {
+            "id": 18606808,
+            "node1": 144463,
+            "node2": 438949,
+            "type": 36,
+            "w": 48.0
+        },
+        {
+            "id": 87469647,
+            "node1": 144463,
+            "node2": 2585996,
+            "type": 36,
+            "w": 51.0
+        },
+        {
+            "id": 418028562,
+            "node1": 144463,
+            "node2": 15991431,
+            "type": 36,
+            "w": 34.0
+        },
+        {
+            "id": 417890380,
+            "node1": 144463,
+            "node2": 15991432,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 499978793,
+            "node1": 144463,
+            "node2": 50233540,
+            "type": 36,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:56.322500",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "corail",
+        "#relations": 16,
+        "max_relation_weight": 265.0,
+        "#nodes": 17,
+        "duration": "0:00:00.007770"
+    }
+}

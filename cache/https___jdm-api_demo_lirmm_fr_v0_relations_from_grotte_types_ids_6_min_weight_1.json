@@ -1,0 +1,391 @@
+{
+    "nodes": [
+        {
+            "id": 44155,
+            "name": "grotte",
+            "type": 1,
+            "w": 1543
+        },
+        {
+            "id": 362007,
+            "name": "localisation géographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 10663585,
+            "name": "cavité souterraine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 170057881,
+            "name": "abri naturel",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 84619,
+            "name": "souterrain",
+            "type": 1,
+            "w": 886
+        },
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 146096,
+            "name": "marmite",
+            "type": 1,
+            "w": 206
+        },
+        {
+            "id": 252201,
+            "name": "cavité naturelle",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 289054869,
+            "name": "cavité souterraine naturelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 55504,
+            "name": "cavité",
+            "type": 1,
+            "w": 427
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 7015598,
+            "name": "en:geographic area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14968072,
+            "name": "endroit géographique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14968071,
+            "name": "emplacement géographique",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 7899,
+            "name": "habitation",
+            "type": 1,
+            "w": 1338
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 10987694,
+            "name": "habitat naturel",
+            "type": 1,
+            "w": 1163
+        },
+        {
+            "id": 6861560,
+            "name": "en:hole",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 64116,
+            "name": "nid",
+            "type": 1,
+            "w": 1491
+        },
+        {
+            "id": 160173,
+            "name": "site touristique",
+            "type": 1,
+            "w": 113
+        },
+        {
+            "id": 7278270,
+            "name": "en:hollow",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14920335,
+            "name": "en:cave",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 243646567,
+            "name": "lieu géographique naturel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1655392,
+            "name": "formation géologique",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 115865,
+            "name": "trou",
+            "type": 1,
+            "w": 4655
+        }
+    ],
+    "relations": [
+        {
+            "id": 129426,
+            "node1": 44155,
+            "node2": 7899,
+            "type": 6,
+            "w": 94.0
+        },
+        {
+            "id": 1548842,
+            "node1": 44155,
+            "node2": 55504,
+            "type": 6,
+            "w": 190.0
+        },
+        {
+            "id": 411238982,
+            "node1": 44155,
+            "node2": 64116,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 9901862,
+            "node1": 44155,
+            "node2": 84619,
+            "type": 6,
+            "w": 83.0
+        },
+        {
+            "id": 129428,
+            "node1": 44155,
+            "node2": 115865,
+            "type": 6,
+            "w": 120.0
+        },
+        {
+            "id": 664940273,
+            "node1": 44155,
+            "node2": 134218,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 129394,
+            "node1": 44155,
+            "node2": 135190,
+            "type": 6,
+            "w": 93.0
+        },
+        {
+            "id": 405419620,
+            "node1": 44155,
+            "node2": 146096,
+            "type": 6,
+            "w": 80.0
+        },
+        {
+            "id": 664940277,
+            "node1": 44155,
+            "node2": 157283,
+            "type": 6,
+            "w": 46.0
+        },
+        {
+            "id": 1154346535,
+            "node1": 44155,
+            "node2": 160173,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 2279251,
+            "node1": 44155,
+            "node2": 252201,
+            "type": 6,
+            "w": 168.0
+        },
+        {
+            "id": 776236093,
+            "node1": 44155,
+            "node2": 362007,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1154346511,
+            "node1": 44155,
+            "node2": 1655392,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 636569023,
+            "node1": 44155,
+            "node2": 2785548,
+            "type": 6,
+            "w": 192.0
+        },
+        {
+            "id": 898685696,
+            "node1": 44155,
+            "node2": 6861560,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 776236019,
+            "node1": 44155,
+            "node2": 7015598,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 898685700,
+            "node1": 44155,
+            "node2": 7278270,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 267421810,
+            "node1": 44155,
+            "node2": 10663585,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 1154346534,
+            "node1": 44155,
+            "node2": 10987694,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 665162277,
+            "node1": 44155,
+            "node2": 14094383,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 405757542,
+            "node1": 44155,
+            "node2": 14920335,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 776236066,
+            "node1": 44155,
+            "node2": 14968071,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 776236040,
+            "node1": 44155,
+            "node2": 14968072,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1074625908,
+            "node1": 44155,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 874270446,
+            "node1": 44155,
+            "node2": 170057881,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 636570927,
+            "node1": 44155,
+            "node2": 243646567,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 1130669025,
+            "node1": 44155,
+            "node2": 289054869,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:58.357851",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "grotte",
+        "#relations": 27,
+        "max_relation_weight": 192.0,
+        "#nodes": 28,
+        "duration": "0:00:00.021282"
+    }
+}

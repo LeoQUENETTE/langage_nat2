@@ -1,0 +1,456 @@
+{
+    "nodes": [
+        {
+            "id": 362007,
+            "name": "localisation géographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 294856208,
+            "name": "oeuvre du cinéma",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 15459450,
+            "name": "en:geographical localization",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9003474,
+            "name": "désert chaud",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 276174,
+            "name": "film d'aventure",
+            "type": 777,
+            "w": 68
+        },
+        {
+            "id": 7015598,
+            "name": "en:geographic area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5387750,
+            "name": "long métrage d'animation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4289768,
+            "name": "Localisation géographique",
+            "type": 777,
+            "w": 28
+        },
+        {
+            "id": 8836335,
+            "name": "en:geographic locations",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14968072,
+            "name": "endroit géographique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14968071,
+            "name": "emplacement géographique",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 206810,
+            "name": "région du monde",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 92805223,
+            "name": "Film américain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 144366,
+            "name": "désert",
+            "type": 1,
+            "w": 4834
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 246632,
+            "name": "oeuvre de fiction",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 217201,
+            "name": "film>217196",
+            "type": 1,
+            "w": 1925
+        },
+        {
+            "id": 323107,
+            "name": "oeuvre>3695",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 222470,
+            "name": "ouvrage littéraire",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 684906,
+            "name": "roman>171870",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4269
+        },
+        {
+            "id": 217196,
+            "name": "oeuvre cinématographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 100640,
+            "name": "roman",
+            "type": 1,
+            "w": 8881
+        },
+        {
+            "id": 218298,
+            "name": "roman>38710",
+            "type": 1,
+            "w": 1120
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12639
+        },
+        {
+            "id": 15459451,
+            "name": "en:geographical localisation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 240812247,
+            "name": "désert>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 227106,
+            "name": "film américain",
+            "type": 1,
+            "w": 172
+        },
+        {
+            "id": 221612,
+            "name": "désert>387998",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 90911,
+            "name": "Sahara",
+            "type": 1,
+            "w": 1714
+        },
+        {
+            "id": 267355035,
+            "name": "roman policier américain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 56256,
+            "name": "roman policier",
+            "type": 1,
+            "w": 291
+        }
+    ],
+    "relations": [
+        {
+            "id": 221130140,
+            "node1": 90911,
+            "node2": 29592,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 236516340,
+            "node1": 90911,
+            "node2": 56256,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 219950725,
+            "node1": 90911,
+            "node2": 100640,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 629792,
+            "node1": 90911,
+            "node2": 135190,
+            "type": 6,
+            "w": 292.0
+        },
+        {
+            "id": 1553225,
+            "node1": 90911,
+            "node2": 144366,
+            "type": 6,
+            "w": 154.0
+        },
+        {
+            "id": 221715486,
+            "node1": 90911,
+            "node2": 144938,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 12138722,
+            "node1": 90911,
+            "node2": 206810,
+            "type": 6,
+            "w": 129.0
+        },
+        {
+            "id": 360442607,
+            "node1": 90911,
+            "node2": 217196,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 221130141,
+            "node1": 90911,
+            "node2": 217201,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 219950726,
+            "node1": 90911,
+            "node2": 218298,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 9905625,
+            "node1": 90911,
+            "node2": 221612,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 220446210,
+            "node1": 90911,
+            "node2": 222470,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 236028360,
+            "node1": 90911,
+            "node2": 227106,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 220446247,
+            "node1": 90911,
+            "node2": 246632,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 535043662,
+            "node1": 90911,
+            "node2": 276174,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 766999201,
+            "node1": 90911,
+            "node2": 323107,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 453591314,
+            "node1": 90911,
+            "node2": 362007,
+            "type": 6,
+            "w": 71.0
+        },
+        {
+            "id": 399626216,
+            "node1": 90911,
+            "node2": 684906,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 588184594,
+            "node1": 90911,
+            "node2": 2785548,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 588184595,
+            "node1": 90911,
+            "node2": 4289768,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 309083932,
+            "node1": 90911,
+            "node2": 5387750,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 395046149,
+            "node1": 90911,
+            "node2": 7015598,
+            "type": 6,
+            "w": 106.0
+        },
+        {
+            "id": 486769348,
+            "node1": 90911,
+            "node2": 8836335,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 195175386,
+            "node1": 90911,
+            "node2": 9003474,
+            "type": 6,
+            "w": 99.0
+        },
+        {
+            "id": 453591315,
+            "node1": 90911,
+            "node2": 14968071,
+            "type": 6,
+            "w": 71.0
+        },
+        {
+            "id": 453591313,
+            "node1": 90911,
+            "node2": 14968072,
+            "type": 6,
+            "w": 71.0
+        },
+        {
+            "id": 543188767,
+            "node1": 90911,
+            "node2": 15459450,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 543188768,
+            "node1": 90911,
+            "node2": 15459451,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 774084021,
+            "node1": 90911,
+            "node2": 92805223,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 774084018,
+            "node1": 90911,
+            "node2": 240812247,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1130620859,
+            "node1": 90911,
+            "node2": 267355035,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 767095940,
+            "node1": 90911,
+            "node2": 294856208,
+            "type": 6,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:37.293418",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Sahara",
+        "#relations": 32,
+        "max_relation_weight": 292.0,
+        "#nodes": 33,
+        "duration": "0:00:00.018407"
+    }
+}

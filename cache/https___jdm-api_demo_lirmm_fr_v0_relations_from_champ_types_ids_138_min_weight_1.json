@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 120826,
+            "name": "semis",
+            "type": 1,
+            "w": 443
+        },
+        {
+            "id": 91179,
+            "name": "ensemencement",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 37566,
+            "name": "croissance",
+            "type": 1,
+            "w": 12800
+        },
+        {
+            "id": 95605,
+            "name": "champ",
+            "type": 1,
+            "w": 8235
+        },
+        {
+            "id": 61329,
+            "name": "défrichage",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 101140,
+            "name": "irrigation",
+            "type": 1,
+            "w": 818
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156779725,
+            "node1": 95605,
+            "node2": 37566,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1156779913,
+            "node1": 95605,
+            "node2": 61329,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1155337474,
+            "node1": 95605,
+            "node2": 91179,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1156779630,
+            "node1": 95605,
+            "node2": 101140,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1156787094,
+            "node1": 95605,
+            "node2": 120826,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:23.892135",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "champ",
+        "#relations": 5,
+        "max_relation_weight": 25.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005945"
+    }
+}

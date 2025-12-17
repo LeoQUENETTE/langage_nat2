@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 129834,
+            "name": "durabilité",
+            "type": 1,
+            "w": 14787
+        },
+        {
+            "id": 132961,
+            "name": "béton",
+            "type": 1,
+            "w": 2189
+        }
+    ],
+    "relations": [
+        {
+            "id": 765217948,
+            "node1": 132961,
+            "node2": 129834,
+            "type": 153,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:24.824979",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "béton",
+        "#relations": 1,
+        "max_relation_weight": 31.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004126"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 127940,
+            "name": "culte",
+            "type": 1,
+            "w": 4074
+        },
+        {
+            "id": 30387,
+            "name": "église",
+            "type": 1,
+            "w": 5061
+        },
+        {
+            "id": 34555,
+            "name": "adoration",
+            "type": 1,
+            "w": 370
+        },
+        {
+            "id": 50491,
+            "name": "rassemblement",
+            "type": 1,
+            "w": 1547
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155488826,
+            "node1": 30387,
+            "node2": 34555,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1143119650,
+            "node1": 30387,
+            "node2": 50491,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1143119649,
+            "node1": 30387,
+            "node2": 127940,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:40.392604",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "église",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005705"
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 88095,
+            "name": "grès",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 279021,
+            "name": "Roche sédimentaire",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 119723,
+            "name": "roche sédimentaire",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 137312,
+            "name": "roche",
+            "type": 1,
+            "w": 3287
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 15088936,
+            "name": "en:sedimentary rock",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10942581,
+            "name": "matériau céramique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3474796,
+            "name": "roche sédimentaire détritique",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 82678464,
+            "node1": 88095,
+            "node2": 29208,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 275567133,
+            "node1": 88095,
+            "node2": 97739,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 82809576,
+            "node1": 88095,
+            "node2": 119723,
+            "type": 6,
+            "w": 74.0
+        },
+        {
+            "id": 651524,
+            "node1": 88095,
+            "node2": 137312,
+            "type": 6,
+            "w": 95.0
+        },
+        {
+            "id": 376433461,
+            "node1": 88095,
+            "node2": 279021,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 113870262,
+            "node1": 88095,
+            "node2": 3474796,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 275630583,
+            "node1": 88095,
+            "node2": 10942581,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 704533240,
+            "node1": 88095,
+            "node2": 15088936,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:22.525883",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "grès",
+        "#relations": 8,
+        "max_relation_weight": 95.0,
+        "#nodes": 9,
+        "duration": "0:00:00.007702"
+    }
+}

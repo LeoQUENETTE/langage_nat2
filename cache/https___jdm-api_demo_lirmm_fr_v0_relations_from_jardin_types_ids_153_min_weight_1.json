@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8724
+        },
+        {
+            "id": 263313486,
+            "name": "superficie cultivable",
+            "type": 1,
+            "w": 28
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137899,
+            "node1": 139575,
+            "node2": 263313486,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:43.398768",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.006854"
+    }
+}

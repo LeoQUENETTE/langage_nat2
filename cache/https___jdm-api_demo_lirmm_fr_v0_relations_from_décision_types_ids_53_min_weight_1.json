@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 75998,
+            "name": "décision",
+            "type": 1,
+            "w": 18066
+        },
+        {
+            "id": 112929,
+            "name": "action",
+            "type": 1,
+            "w": 17578
+        }
+    ],
+    "relations": [
+        {
+            "id": 1038385352,
+            "node1": 75998,
+            "node2": 112929,
+            "type": 53,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:13.534590",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "décision",
+        "#relations": 1,
+        "max_relation_weight": 33.0,
+        "#nodes": 2,
+        "duration": "0:00:00.014796"
+    }
+}

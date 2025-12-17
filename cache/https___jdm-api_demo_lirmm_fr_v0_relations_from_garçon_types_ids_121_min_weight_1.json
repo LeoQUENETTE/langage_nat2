@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 66970,
+            "name": "ballon",
+            "type": 1,
+            "w": 3638
+        },
+        {
+            "id": 142124,
+            "name": "garçon",
+            "type": 1,
+            "w": 6988
+        },
+        {
+            "id": 213948,
+            "name": "ballon>36204",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 387896,
+            "name": "vêtement masculin",
+            "type": 1,
+            "w": 57
+        }
+    ],
+    "relations": [
+        {
+            "id": 289195130,
+            "node1": 142124,
+            "node2": 66970,
+            "type": 121,
+            "w": 36.0
+        },
+        {
+            "id": 289195127,
+            "node1": 142124,
+            "node2": 213948,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 102008108,
+            "node1": 142124,
+            "node2": 387896,
+            "type": 121,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:26.898691",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "garçon",
+        "#relations": 3,
+        "max_relation_weight": 36.0,
+        "#nodes": 4,
+        "duration": "0:00:00.007108"
+    }
+}

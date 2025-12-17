@@ -1,0 +1,300 @@
+{
+    "nodes": [
+        {
+            "id": 140902,
+            "name": "étoffe",
+            "type": 1,
+            "w": 464
+        },
+        {
+            "id": 17589314,
+            "name": "technique de représentation visuelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17589315,
+            "name": "technique de représentation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 270215202,
+            "name": "esquisse technique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11237767,
+            "name": "art visuel",
+            "type": 1,
+            "w": 457
+        },
+        {
+            "id": 71626,
+            "name": "illustration",
+            "type": 1,
+            "w": 3661
+        },
+        {
+            "id": 144138,
+            "name": "courbe",
+            "type": 1,
+            "w": 3096
+        },
+        {
+            "id": 302171,
+            "name": "art graphique",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 51970,
+            "name": "représentation",
+            "type": 1,
+            "w": 11814
+        },
+        {
+            "id": 54770,
+            "name": "document",
+            "type": 1,
+            "w": 5131
+        },
+        {
+            "id": 3695,
+            "name": "art",
+            "type": 1,
+            "w": 15220
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4899
+        },
+        {
+            "id": 112929,
+            "name": "action",
+            "type": 1,
+            "w": 17578
+        },
+        {
+            "id": 53314,
+            "name": "jeu",
+            "type": 1,
+            "w": 11936
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 13701,
+            "name": "technique",
+            "type": 1,
+            "w": 10345
+        },
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4267
+        },
+        {
+            "id": 15272923,
+            "name": "en:time killer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 129277,
+            "name": "passe-temps",
+            "type": 1,
+            "w": 246
+        },
+        {
+            "id": 7262873,
+            "name": "en:document",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 123711,
+            "node1": 98596,
+            "node2": 3695,
+            "type": 6,
+            "w": 112.0
+        },
+        {
+            "id": 122594305,
+            "node1": 98596,
+            "node2": 13701,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 1177214631,
+            "node1": 98596,
+            "node2": 51970,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 123712,
+            "node1": 98596,
+            "node2": 53314,
+            "type": 6,
+            "w": 166.0
+        },
+        {
+            "id": 80652656,
+            "node1": 98596,
+            "node2": 54770,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 1177214539,
+            "node1": 98596,
+            "node2": 71626,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 256715,
+            "node1": 98596,
+            "node2": 91240,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 664907553,
+            "node1": 98596,
+            "node2": 112929,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 9926326,
+            "node1": 98596,
+            "node2": 129277,
+            "type": 6,
+            "w": 22.0
+        },
+        {
+            "id": 630799,
+            "node1": 98596,
+            "node2": 135190,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 57982473,
+            "node1": 98596,
+            "node2": 140902,
+            "type": 6,
+            "w": 45.0
+        },
+        {
+            "id": 9901838,
+            "node1": 98596,
+            "node2": 144138,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 776296344,
+            "node1": 98596,
+            "node2": 144938,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 1152006826,
+            "node1": 98596,
+            "node2": 302171,
+            "type": 6,
+            "w": 177.0
+        },
+        {
+            "id": 377343637,
+            "node1": 98596,
+            "node2": 7262873,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 1177214563,
+            "node1": 98596,
+            "node2": 11237767,
+            "type": 6,
+            "w": 205.0
+        },
+        {
+            "id": 704773995,
+            "node1": 98596,
+            "node2": 15272923,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 479772790,
+            "node1": 98596,
+            "node2": 17589314,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 479772792,
+            "node1": 98596,
+            "node2": 17589315,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 1177214626,
+            "node1": 98596,
+            "node2": 270215202,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:23.110664",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "dessin",
+        "#relations": 20,
+        "max_relation_weight": 205.0,
+        "#nodes": 21,
+        "duration": "0:00:00.032018"
+    }
+}

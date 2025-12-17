@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 163103,
+            "name": "sons",
+            "type": 1,
+            "w": 3335
+        },
+        {
+            "id": 50195,
+            "name": "piano",
+            "type": 1,
+            "w": 3500
+        },
+        {
+            "id": 2050,
+            "name": "mélodie",
+            "type": 1,
+            "w": 3227
+        },
+        {
+            "id": 70527,
+            "name": "musique",
+            "type": 1,
+            "w": 22819
+        },
+        {
+            "id": 51528,
+            "name": "son",
+            "type": 1,
+            "w": 370173
+        },
+        {
+            "id": 108530,
+            "name": "harmonie",
+            "type": 1,
+            "w": 8298
+        }
+    ],
+    "relations": [
+        {
+            "id": 1055580668,
+            "node1": 50195,
+            "node2": 2050,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152615050,
+            "node1": 50195,
+            "node2": 51528,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1143292076,
+            "node1": 50195,
+            "node2": 70527,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 1152615064,
+            "node1": 50195,
+            "node2": 108530,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1152616132,
+            "node1": 50195,
+            "node2": 163103,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:47.550309",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "piano",
+        "#relations": 5,
+        "max_relation_weight": 29.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003504"
+    }
+}

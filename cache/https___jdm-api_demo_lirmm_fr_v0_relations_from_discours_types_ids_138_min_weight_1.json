@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 116308,
+            "name": "synthèse",
+            "type": 1,
+            "w": 7357
+        },
+        {
+            "id": 35352,
+            "name": "discours",
+            "type": 1,
+            "w": 12171
+        }
+    ],
+    "relations": [
+        {
+            "id": 720644166,
+            "node1": 35352,
+            "node2": 116308,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:13.115326",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "discours",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003424"
+    }
+}

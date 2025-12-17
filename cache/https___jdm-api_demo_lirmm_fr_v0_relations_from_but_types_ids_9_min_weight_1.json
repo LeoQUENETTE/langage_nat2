@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 42188,
+            "name": "filet",
+            "type": 1,
+            "w": 957
+        },
+        {
+            "id": 26845,
+            "name": "objectif",
+            "type": 1,
+            "w": 12417
+        },
+        {
+            "id": 139243,
+            "name": "ligne",
+            "type": 1,
+            "w": 7557
+        },
+        {
+            "id": 14842,
+            "name": "poteau",
+            "type": 1,
+            "w": 262
+        },
+        {
+            "id": 94586,
+            "name": "poteaux",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 20346,
+            "name": "but",
+            "type": 1,
+            "w": 8100
+        },
+        {
+            "id": 17023,
+            "name": "cage",
+            "type": 1,
+            "w": 1164
+        }
+    ],
+    "relations": [
+        {
+            "id": 213627,
+            "node1": 20346,
+            "node2": 14842,
+            "type": 9,
+            "w": 76.0
+        },
+        {
+            "id": 231624,
+            "node1": 20346,
+            "node2": 17023,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 231623,
+            "node1": 20346,
+            "node2": 26845,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 213626,
+            "node1": 20346,
+            "node2": 42188,
+            "type": 9,
+            "w": 82.0
+        },
+        {
+            "id": 436757,
+            "node1": 20346,
+            "node2": 94586,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 213625,
+            "node1": 20346,
+            "node2": 139243,
+            "type": 9,
+            "w": 60.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:53.210648",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "but",
+        "#relations": 6,
+        "max_relation_weight": 82.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005647"
+    }
+}

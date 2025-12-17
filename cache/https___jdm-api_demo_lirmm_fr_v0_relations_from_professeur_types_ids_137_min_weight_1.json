@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 166758745,
+            "name": "transmission de connaissances",
+            "type": 1,
+            "w": 222
+        },
+        {
+            "id": 108649,
+            "name": "pédagogie",
+            "type": 1,
+            "w": 2757
+        },
+        {
+            "id": 91556,
+            "name": "correction",
+            "type": 1,
+            "w": 1109
+        },
+        {
+            "id": 79255,
+            "name": "enseignement",
+            "type": 1,
+            "w": 6550
+        },
+        {
+            "id": 36568,
+            "name": "professeur",
+            "type": 1,
+            "w": 8475
+        }
+    ],
+    "relations": [
+        {
+            "id": 775109541,
+            "node1": 36568,
+            "node2": 79255,
+            "type": 137,
+            "w": 130.0
+        },
+        {
+            "id": 1150603789,
+            "node1": 36568,
+            "node2": 91556,
+            "type": 137,
+            "w": 85.0
+        },
+        {
+            "id": 384631325,
+            "node1": 36568,
+            "node2": 108649,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1155612521,
+            "node1": 36568,
+            "node2": 166758745,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:01.318998",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "professeur",
+        "#relations": 4,
+        "max_relation_weight": 130.0,
+        "#nodes": 5,
+        "duration": "0:00:00.003880"
+    }
+}

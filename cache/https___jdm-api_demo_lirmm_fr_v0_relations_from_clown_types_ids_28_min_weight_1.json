@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 105872,
+            "name": "éléphant",
+            "type": 1,
+            "w": 1065
+        },
+        {
+            "id": 110261,
+            "name": "clown",
+            "type": 1,
+            "w": 1073
+        },
+        {
+            "id": 152557,
+            "name": "nez rouge",
+            "type": 1,
+            "w": 185
+        }
+    ],
+    "relations": [
+        {
+            "id": 8521059,
+            "node1": 110261,
+            "node2": 105872,
+            "type": 28,
+            "w": 53.0
+        },
+        {
+            "id": 2172717,
+            "node1": 110261,
+            "node2": 152557,
+            "type": 28,
+            "w": 54.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:43.870888",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "clown",
+        "#relations": 2,
+        "max_relation_weight": 54.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003182"
+    }
+}

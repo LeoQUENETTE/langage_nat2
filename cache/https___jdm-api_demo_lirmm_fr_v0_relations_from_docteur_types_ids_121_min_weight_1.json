@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 38842,
+            "name": "stéthoscope",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 16704,
+            "name": "docteur",
+            "type": 1,
+            "w": 5494
+        },
+        {
+            "id": 301491720,
+            "name": "trousse médicale",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 4152,
+            "name": "otoscope",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 159810,
+            "name": "blouse blanche",
+            "type": 1,
+            "w": 132
+        }
+    ],
+    "relations": [
+        {
+            "id": 876055083,
+            "node1": 16704,
+            "node2": 4152,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 876055012,
+            "node1": 16704,
+            "node2": 38842,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 876055048,
+            "node1": 16704,
+            "node2": 159810,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 876055097,
+            "node1": 16704,
+            "node2": 301491720,
+            "type": 121,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:05.039106",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "docteur",
+        "#relations": 4,
+        "max_relation_weight": 31.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006988"
+    }
+}

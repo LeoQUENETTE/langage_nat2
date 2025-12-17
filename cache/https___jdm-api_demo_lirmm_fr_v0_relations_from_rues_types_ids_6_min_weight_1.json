@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 152584,
+            "name": "rues",
+            "type": 1,
+            "w": 3204
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4616
+        }
+    ],
+    "relations": [
+        {
+            "id": 932864114,
+            "node1": 152584,
+            "node2": 135956,
+            "type": 6,
+            "w": 101.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:18.096741",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "rues",
+        "#relations": 1,
+        "max_relation_weight": 101.0,
+        "#nodes": 2,
+        "duration": "0:00:00.009499"
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 251723,
+            "name": "arme>237",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 142707,
+            "name": "hache",
+            "type": 1,
+            "w": 389
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 132542,
+            "name": "arme blanche",
+            "type": 1,
+            "w": 481
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12262
+        },
+        {
+            "id": 145948,
+            "name": "arme",
+            "type": 1,
+            "w": 6544
+        },
+        {
+            "id": 6605,
+            "name": "instrument",
+            "type": 1,
+            "w": 5656
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 243775,
+            "name": "outil de coupe",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 1921949,
+            "name": "arme préhistorique",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 5942878,
+            "name": "arme tranchante",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2801975,
+            "name": "outil>8957302",
+            "type": 1,
+            "w": 79
+        }
+    ],
+    "relations": [
+        {
+            "id": 8800849,
+            "node1": 142707,
+            "node2": 237,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 82361205,
+            "node1": 142707,
+            "node2": 6605,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 655146,
+            "node1": 142707,
+            "node2": 30843,
+            "type": 6,
+            "w": 209.0
+        },
+        {
+            "id": 1746676,
+            "node1": 142707,
+            "node2": 132542,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 1746695,
+            "node1": 142707,
+            "node2": 145948,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 2050423,
+            "node1": 142707,
+            "node2": 243775,
+            "type": 6,
+            "w": 233.0
+        },
+        {
+            "id": 93046760,
+            "node1": 142707,
+            "node2": 246870,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 14193023,
+            "node1": 142707,
+            "node2": 251723,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 371178713,
+            "node1": 142707,
+            "node2": 316850,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 31102349,
+            "node1": 142707,
+            "node2": 1921949,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 73229019,
+            "node1": 142707,
+            "node2": 2801975,
+            "type": 6,
+            "w": 60.0
+        },
+        {
+            "id": 1152864859,
+            "node1": 142707,
+            "node2": 5942878,
+            "type": 6,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:21.721756",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "hache",
+        "#relations": 12,
+        "max_relation_weight": 233.0,
+        "#nodes": 13,
+        "duration": "0:00:00.011753"
+    }
+}

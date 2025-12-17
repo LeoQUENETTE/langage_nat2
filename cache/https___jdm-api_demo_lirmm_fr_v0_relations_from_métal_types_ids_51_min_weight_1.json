@@ -1,0 +1,8009 @@
+{
+    "nodes": [
+        {
+            "id": 74659,
+            "name": "armure",
+            "type": 1,
+            "w": 304
+        },
+        {
+            "id": 129754,
+            "name": "manche de couteau",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 182914,
+            "name": "lampe de bureau",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 214590,
+            "name": "sabre>46401",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 218789,
+            "name": "mèche>67829",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 220908,
+            "name": "gamelle>89628",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 227434,
+            "name": "ninjatô",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 227432,
+            "name": "daisho",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 227430,
+            "name": "kunaï",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 228705,
+            "name": "pitchak",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 236387,
+            "name": "flasque>117423",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 241740,
+            "name": "pointeau>4658",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 251525,
+            "name": "presse-ail",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 290241,
+            "name": "marmite à pression",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 317208,
+            "name": "auto-cuiseur",
+            "type": 777,
+            "w": 72
+        },
+        {
+            "id": 336076,
+            "name": "arbre de couche",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 5910,
+            "name": "épée",
+            "type": 1,
+            "w": 1781
+        },
+        {
+            "id": 8034169,
+            "name": "en:strainer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 589503,
+            "name": "pointeau>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 165295,
+            "name": "katana",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 2366630,
+            "name": "chaussepied",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2399253,
+            "name": "scamasaxe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2485321,
+            "name": "palettier",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 215089,
+            "name": "sardine>143584",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 143378299,
+            "name": "Noix de muscade",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 214080,
+            "name": "Messerschmitt Bf 109",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 1646420,
+            "name": "chasseur>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 130451,
+            "name": "machine à laver",
+            "type": 1,
+            "w": 638
+        },
+        {
+            "id": 249121,
+            "name": "avion>123745",
+            "type": 1,
+            "w": 394
+        },
+        {
+            "id": 251723,
+            "name": "arme>237",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 176844,
+            "name": "petit pont",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 33256,
+            "name": "banc",
+            "type": 1,
+            "w": 1510
+        },
+        {
+            "id": 5333135,
+            "name": "chenille>343306",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215947,
+            "name": "coupe-choux>22710",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 142249,
+            "name": "bague",
+            "type": 1,
+            "w": 877
+        },
+        {
+            "id": 19998,
+            "name": "tire-bouchon",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 261695,
+            "name": "épée>145948",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 214110,
+            "name": "aiguille>161542",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 14926552,
+            "name": "en:stewpan",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14959902,
+            "name": "en:assegai",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14963689,
+            "name": "en:tanto",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14967420,
+            "name": "en:wakizashi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 118211,
+            "name": "escalator",
+            "type": 1,
+            "w": 145
+        },
+        {
+            "id": 15219468,
+            "name": "en:racing cycle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15229592,
+            "name": "en:knitting-pin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2440077,
+            "name": "wakisashi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15284818,
+            "name": "marmite autoclave",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15284822,
+            "name": "en:cooking pot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14923159,
+            "name": "en:pint-sized",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 290516269,
+            "name": "canne en métal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14938188,
+            "name": "en:flat iron",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14893716,
+            "name": "Guitare basse",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 408177949,
+            "name": "stylo de métal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 408177925,
+            "name": "poutre de métal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 179474,
+            "name": "épée bâtarde",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 397082291,
+            "name": "accessoires bondage",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 143206742,
+            "name": "Épée à deux mains",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143206746,
+            "name": "Épée bâtarde",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 214634,
+            "name": "louche>152067",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 154311669,
+            "name": "porte-revues",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2496939,
+            "name": "Jacuzzi",
+            "type": 1,
+            "w": 3
+        },
+        {
+            "id": 213484,
+            "name": "triangle>91594",
+            "type": 1,
+            "w": 21
+        },
+        {
+            "id": 67829,
+            "name": "perceuse",
+            "type": 1,
+            "w": 724
+        },
+        {
+            "id": 191630844,
+            "name": "sondes métalliques",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 191630919,
+            "name": "sonde métallique",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 258956,
+            "name": "chat>258955",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 142707,
+            "name": "hache",
+            "type": 1,
+            "w": 389
+        },
+        {
+            "id": 211558461,
+            "name": "pont en métal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 222808894,
+            "name": "boucle en métal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 236647211,
+            "name": "boîtier PC",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141933,
+            "name": "lance",
+            "type": 1,
+            "w": 3891
+        },
+        {
+            "id": 118092,
+            "name": "tour Eiffel",
+            "type": 1,
+            "w": 1212
+        },
+        {
+            "id": 35671,
+            "name": "quille",
+            "type": 1,
+            "w": 121
+        },
+        {
+            "id": 155271,
+            "name": "caisse à outils",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 216028,
+            "name": "pied>216019>152101",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 243496180,
+            "name": "sabres laser",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 40415,
+            "name": "A380",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 102356,
+            "name": "anneau",
+            "type": 1,
+            "w": 2612
+        },
+        {
+            "id": 155936,
+            "name": "Rafale",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 133799,
+            "name": "tunnel",
+            "type": 1,
+            "w": 2644
+        },
+        {
+            "id": 7110128,
+            "name": "en:myristica fragrans",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15415365,
+            "name": "en:jet aeroplane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15217752,
+            "name": "en:champagne bucket",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 135594,
+            "name": "trompette",
+            "type": 1,
+            "w": 778
+        },
+        {
+            "id": 19412,
+            "name": "chaudière",
+            "type": 1,
+            "w": 390
+        },
+        {
+            "id": 45049,
+            "name": "montre",
+            "type": 1,
+            "w": 5452
+        },
+        {
+            "id": 97718,
+            "name": "planeur",
+            "type": 1,
+            "w": 412
+        },
+        {
+            "id": 141883,
+            "name": "boule",
+            "type": 1,
+            "w": 2350
+        },
+        {
+            "id": 15045761,
+            "name": "en:race car",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 119584,
+            "name": "obus",
+            "type": 1,
+            "w": 228
+        },
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1423
+        },
+        {
+            "id": 7043079,
+            "name": "en:military aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 269973161,
+            "name": "couvercle de pot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8773015,
+            "name": "en:surin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1595,
+            "name": "bouclier",
+            "type": 1,
+            "w": 1396
+        },
+        {
+            "id": 219281,
+            "name": "bombardier>97756",
+            "type": 1,
+            "w": 15
+        },
+        {
+            "id": 239379,
+            "name": "disque dur externe",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 22710,
+            "name": "sabre",
+            "type": 1,
+            "w": 1743
+        },
+        {
+            "id": 216873,
+            "name": "batterie>70527>91594",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 274222009,
+            "name": "châssis de robot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7043098,
+            "name": "en:airliner",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 66951,
+            "name": "avion de chasse",
+            "type": 1,
+            "w": 345
+        },
+        {
+            "id": 141473,
+            "name": "casque",
+            "type": 1,
+            "w": 1303
+        },
+        {
+            "id": 127211,
+            "name": "statuette",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 219287,
+            "name": "F-4",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 15085209,
+            "name": "en:military plane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 145064,
+            "name": "plaque",
+            "type": 1,
+            "w": 2729
+        },
+        {
+            "id": 67093,
+            "name": "collier",
+            "type": 1,
+            "w": 1196
+        },
+        {
+            "id": 104696,
+            "name": "criss",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 93524,
+            "name": "grille-pain",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 280239566,
+            "name": "clé en métal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 259635,
+            "name": "Concorde>97756",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 15254195,
+            "name": "en:steelwork",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 231434,
+            "name": "voiture>95706>117579",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 7420612,
+            "name": "en:lawnmower",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 132716,
+            "name": "baignoire",
+            "type": 1,
+            "w": 1085
+        },
+        {
+            "id": 15069539,
+            "name": "en:bass guitar",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39204,
+            "name": "guitare",
+            "type": 1,
+            "w": 3592
+        },
+        {
+            "id": 227620,
+            "name": "Prince Albert",
+            "type": 666,
+            "w": 52
+        },
+        {
+            "id": 46141,
+            "name": "congélateur",
+            "type": 1,
+            "w": 873
+        },
+        {
+            "id": 90758,
+            "name": "aéronef",
+            "type": 1,
+            "w": 413
+        },
+        {
+            "id": 15078369,
+            "name": "en:automatic weapon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 153270,
+            "name": "flûte traversière",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 293858127,
+            "name": "plume en métal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 36204,
+            "name": "balle",
+            "type": 1,
+            "w": 3201
+        },
+        {
+            "id": 213832,
+            "name": "écu>1595",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 5794029,
+            "name": "boîte à thé",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 99323,
+            "name": "perforeuse",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 394441150,
+            "name": "dry sift screen",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15421311,
+            "name": "en:racing bike",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 225830,
+            "name": "gril>152067",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 219195,
+            "name": "pioche>30843",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 181184,
+            "name": "boite de conserve",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 153055,
+            "name": "vélo de course",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 213331,
+            "name": "marteau>30843",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 156216,
+            "name": "casque militaire",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 240897,
+            "name": "radiateur>230089",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 7015587,
+            "name": "en:staircase",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 269881,
+            "name": "zagaie",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14953379,
+            "name": "en:colander",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 250934,
+            "name": "tête de bergère",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 217137,
+            "name": "gourde>89628",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 176281,
+            "name": "boite à outils",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 97756,
+            "name": "avion",
+            "type": 1,
+            "w": 9100
+        },
+        {
+            "id": 15089398,
+            "name": "en:kitchen utensil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15209588,
+            "name": "armoire de rangement",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15254184,
+            "name": "en:steel structure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 167503,
+            "name": "B-17",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 43966,
+            "name": "autocuiseur",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 143641020,
+            "name": "Guitare Basse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 284906535,
+            "name": "balance digitale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 291337455,
+            "name": "boîte à café",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 397066272,
+            "name": "goupille de grenade",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 152144,
+            "name": "avion à réaction",
+            "type": 1,
+            "w": 119
+        },
+        {
+            "id": 145190,
+            "name": "balance",
+            "type": 1,
+            "w": 1153
+        },
+        {
+            "id": 239800,
+            "name": "échelle>81320",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 120952,
+            "name": "cocotte",
+            "type": 1,
+            "w": 273
+        },
+        {
+            "id": 214111,
+            "name": "aiguille>161541",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 107466129,
+            "name": "Arme d'épaule",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9120920,
+            "name": "en:gas stove",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11991,
+            "name": "menottes",
+            "type": 1,
+            "w": 256
+        },
+        {
+            "id": 14965111,
+            "name": "en:screwdriver",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14959901,
+            "name": "en:assagai",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 227703,
+            "name": "moule à gaufre",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 214677,
+            "name": "bouton>143613>36899",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 219630,
+            "name": "train>25800",
+            "type": 1,
+            "w": 201
+        },
+        {
+            "id": 102246,
+            "name": "essieu",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 142412,
+            "name": "canon",
+            "type": 1,
+            "w": 3118
+        },
+        {
+            "id": 135926,
+            "name": "araignée",
+            "type": 1,
+            "w": 879
+        },
+        {
+            "id": 111358,
+            "name": "rail",
+            "type": 1,
+            "w": 1149
+        },
+        {
+            "id": 187823,
+            "name": "avion militaire",
+            "type": 1,
+            "w": 215
+        },
+        {
+            "id": 179694,
+            "name": "montagnes russes",
+            "type": 1,
+            "w": 41
+        },
+        {
+            "id": 211887559,
+            "name": "poubelle de cuisine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 137475,
+            "name": "fusil d'assaut",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 244371,
+            "name": "bijou>48961",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 37370,
+            "name": "dague",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 231600,
+            "name": "cocotte minute",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 16316322,
+            "name": "en:waffle pan",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 218235,
+            "name": "cocotte>152067",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 16316323,
+            "name": "en:waffle mould",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16316324,
+            "name": "en:waffle mold",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6910662,
+            "name": "en:iron",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 22015,
+            "name": "pince",
+            "type": 1,
+            "w": 833
+        },
+        {
+            "id": 120900,
+            "name": "taloche",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 132398,
+            "name": "moyeu",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 106553,
+            "name": "brouette",
+            "type": 1,
+            "w": 204
+        },
+        {
+            "id": 191164,
+            "name": "crisse",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 144270,
+            "name": "eustache",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 7346254,
+            "name": "en:nutmeg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15424216,
+            "name": "chaise pot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11207,
+            "name": "glaive",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 232000,
+            "name": "bain à remous",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 227427,
+            "name": "arme d'hast",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 232001,
+            "name": "bain bouillonnant",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 14944657,
+            "name": "en:jacuzzi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 302402,
+            "name": "noix muscade",
+            "type": 777,
+            "w": 55
+        },
+        {
+            "id": 157632,
+            "name": "véhicule à moteur",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 37271,
+            "name": "horloge",
+            "type": 1,
+            "w": 1605
+        },
+        {
+            "id": 7575,
+            "name": "boîte",
+            "type": 1,
+            "w": 2849
+        },
+        {
+            "id": 259088,
+            "name": "couteau>152067",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 14918656,
+            "name": "en:knitting needle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 149641,
+            "name": "phalère",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14962497,
+            "name": "en:statuette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 42045,
+            "name": "étagère",
+            "type": 1,
+            "w": 597
+        },
+        {
+            "id": 11054721,
+            "name": "aliment en boîte",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 125143409,
+            "name": "Boîte de conserve",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 210459114,
+            "name": "briquet en métal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15192881,
+            "name": "en:macis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39533,
+            "name": "figurine",
+            "type": 1,
+            "w": 324
+        },
+        {
+            "id": 15429478,
+            "name": "en:tinned food",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 8084545,
+            "name": "en:canned food",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 4331726,
+            "name": "Simca Aronde",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152354,
+            "name": "tour eiffel",
+            "type": 1,
+            "w": 2086
+        },
+        {
+            "id": 15063121,
+            "name": "en:steakhouse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16213,
+            "name": "serrure",
+            "type": 1,
+            "w": 1275
+        },
+        {
+            "id": 56822,
+            "name": "bille",
+            "type": 1,
+            "w": 348
+        },
+        {
+            "id": 11651,
+            "name": "clou",
+            "type": 1,
+            "w": 918
+        },
+        {
+            "id": 220660,
+            "name": "clou>141611",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 2136742,
+            "name": "boîtes de conserve",
+            "type": 2,
+            "w": 18
+        },
+        {
+            "id": 343085,
+            "name": "charpente métallique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15110904,
+            "name": "en:eiffel tower",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15372,
+            "name": "haubert",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 104836007,
+            "name": "Avion à réaction",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 61185,
+            "name": "pelle",
+            "type": 1,
+            "w": 1116
+        },
+        {
+            "id": 220110,
+            "name": "mousqueton>145457",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 2436849,
+            "name": "grinder",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 146051,
+            "name": "ancre",
+            "type": 1,
+            "w": 372
+        },
+        {
+            "id": 3304270,
+            "name": "avion de chasse>187823",
+            "type": 1,
+            "w": 5
+        },
+        {
+            "id": 30678,
+            "name": "briquet",
+            "type": 1,
+            "w": 855
+        },
+        {
+            "id": 90516,
+            "name": "plateau",
+            "type": 1,
+            "w": 3720
+        },
+        {
+            "id": 108483,
+            "name": "baïonnette",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 236897,
+            "name": "Chance Vought F4U Corsair",
+            "type": 1,
+            "w": 43
+        },
+        {
+            "id": 154710,
+            "name": "fer à repasser",
+            "type": 1,
+            "w": 245
+        },
+        {
+            "id": 78397,
+            "name": "arrosoir",
+            "type": 1,
+            "w": 242
+        },
+        {
+            "id": 213329,
+            "name": "clé>83048",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 50195,
+            "name": "piano",
+            "type": 1,
+            "w": 3500
+        },
+        {
+            "id": 13756657,
+            "name": "myristica fragrans",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 75377,
+            "name": "chaussure",
+            "type": 1,
+            "w": 2192
+        },
+        {
+            "id": 138574372,
+            "name": "Arme automatique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14962495,
+            "name": "en:statue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123284,
+            "name": "écu",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 113902,
+            "name": "alimentation",
+            "type": 1,
+            "w": 7010
+        },
+        {
+            "id": 249122,
+            "name": "avion>117579",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 217336,
+            "name": "salade>141473",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 46235,
+            "name": "clef",
+            "type": 1,
+            "w": 2402
+        },
+        {
+            "id": 14950179,
+            "name": "en:munchkin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134670,
+            "name": "fourchette",
+            "type": 1,
+            "w": 1732
+        },
+        {
+            "id": 48825,
+            "name": "sac à main",
+            "type": 1,
+            "w": 483
+        },
+        {
+            "id": 34898,
+            "name": "pied",
+            "type": 1,
+            "w": 21488
+        },
+        {
+            "id": 15461757,
+            "name": "en:Dassault Rafale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1451,
+            "name": "couvert",
+            "type": 1,
+            "w": 2130
+        },
+        {
+            "id": 16072158,
+            "name": "Arme à feu",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 82676,
+            "name": "hameçon",
+            "type": 1,
+            "w": 260
+        },
+        {
+            "id": 68256,
+            "name": "vélo",
+            "type": 1,
+            "w": 4507
+        },
+        {
+            "id": 17570,
+            "name": "Mirage",
+            "type": 1,
+            "w": 368
+        },
+        {
+            "id": 81845,
+            "name": "cheville",
+            "type": 1,
+            "w": 373
+        },
+        {
+            "id": 14945988,
+            "name": "en:washer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 50104,
+            "name": "ciseaux",
+            "type": 1,
+            "w": 644
+        },
+        {
+            "id": 143045,
+            "name": "brosse",
+            "type": 1,
+            "w": 861
+        },
+        {
+            "id": 262328,
+            "name": "Boeing B-17 Flying Fortress",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 57808,
+            "name": "portail",
+            "type": 1,
+            "w": 1403
+        },
+        {
+            "id": 118908,
+            "name": "salade",
+            "type": 1,
+            "w": 1586
+        },
+        {
+            "id": 142553,
+            "name": "alliance",
+            "type": 1,
+            "w": 4065
+        },
+        {
+            "id": 155391,
+            "name": "pince à épiler",
+            "type": 1,
+            "w": 175
+        },
+        {
+            "id": 2561918,
+            "name": "bayonnette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14936364,
+            "name": "en:stairway",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 100222,
+            "name": "faux",
+            "type": 1,
+            "w": 5281
+        },
+        {
+            "id": 133393,
+            "name": "sculpture",
+            "type": 1,
+            "w": 3401
+        },
+        {
+            "id": 119993,
+            "name": "décapsuleur",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 95706,
+            "name": "automobile",
+            "type": 1,
+            "w": 4686
+        },
+        {
+            "id": 218247777,
+            "name": "chasseur>146050",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 81070,
+            "name": "AK-47",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 234651,
+            "name": "machine à laver>92471",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 10881,
+            "name": "bouton",
+            "type": 1,
+            "w": 1349
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19357
+        },
+        {
+            "id": 7096349,
+            "name": "en:freezer",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 135938,
+            "name": "hallebarde",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 136370,
+            "name": "missiles",
+            "type": 1,
+            "w": 2271
+        },
+        {
+            "id": 152067,
+            "name": "ustensile de cuisine",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 117787,
+            "name": "poignée",
+            "type": 1,
+            "w": 1242
+        },
+        {
+            "id": 91594,
+            "name": "instrument de musique",
+            "type": 1,
+            "w": 622
+        },
+        {
+            "id": 15208239,
+            "name": "en:scenic railway",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 298357,
+            "name": "Myristica fragrans",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 168358,
+            "name": "noix de muscade",
+            "type": 1,
+            "w": 113
+        },
+        {
+            "id": 6863493,
+            "name": "en:tunnel",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 52660,
+            "name": "clé",
+            "type": 1,
+            "w": 4120
+        },
+        {
+            "id": 15390266,
+            "name": "en:fighter jet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 88013,
+            "name": "écureuil",
+            "type": 1,
+            "w": 526
+        },
+        {
+            "id": 68620,
+            "name": "moto",
+            "type": 1,
+            "w": 2716
+        },
+        {
+            "id": 15199059,
+            "name": "en:combat aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228071,
+            "name": "bague>16912",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 132542,
+            "name": "arme blanche",
+            "type": 1,
+            "w": 481
+        },
+        {
+            "id": 40635,
+            "name": "sac",
+            "type": 1,
+            "w": 4080
+        },
+        {
+            "id": 26125,
+            "name": "trombone",
+            "type": 1,
+            "w": 129
+        },
+        {
+            "id": 29241,
+            "name": "batteur",
+            "type": 1,
+            "w": 2097
+        },
+        {
+            "id": 9190,
+            "name": "four",
+            "type": 1,
+            "w": 2862
+        },
+        {
+            "id": 156564,
+            "name": "machine à laver la vaisselle",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 156453,
+            "name": "avion de ligne",
+            "type": 1,
+            "w": 143
+        },
+        {
+            "id": 99552,
+            "name": "girouette",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12262
+        },
+        {
+            "id": 14706,
+            "name": "économe",
+            "type": 1,
+            "w": 195
+        },
+        {
+            "id": 46401,
+            "name": "rasoir",
+            "type": 1,
+            "w": 612
+        },
+        {
+            "id": 248245,
+            "name": "avion de guerre",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 14918759,
+            "name": "en:jet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14922272,
+            "name": "en:jet plane",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 14931277,
+            "name": "en:grill",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 89591,
+            "name": "table",
+            "type": 1,
+            "w": 8204
+        },
+        {
+            "id": 2445,
+            "name": "A320",
+            "type": 1,
+            "w": 107
+        },
+        {
+            "id": 104264542,
+            "name": "Avion de ligne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 145948,
+            "name": "arme",
+            "type": 1,
+            "w": 6544
+        },
+        {
+            "id": 115126,
+            "name": "mèche",
+            "type": 1,
+            "w": 289
+        },
+        {
+            "id": 251428,
+            "name": "médaille française",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 134306,
+            "name": "enclume",
+            "type": 1,
+            "w": 171
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 25996,
+            "name": "monnaie",
+            "type": 1,
+            "w": 6775
+        },
+        {
+            "id": 214673,
+            "name": "bouton>120949",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 118461,
+            "name": "agrafe",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 66890,
+            "name": "hanap",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 6605,
+            "name": "instrument",
+            "type": 1,
+            "w": 5656
+        },
+        {
+            "id": 96851,
+            "name": "pièce",
+            "type": 1,
+            "w": 8445
+        },
+        {
+            "id": 55039,
+            "name": "vase",
+            "type": 1,
+            "w": 1216
+        },
+        {
+            "id": 102105,
+            "name": "monument",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 19126,
+            "name": "tamis",
+            "type": 1,
+            "w": 152
+        },
+        {
+            "id": 57717,
+            "name": "chandelier",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 7335134,
+            "name": "en:aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15078370,
+            "name": "en:automatic gun",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 155752,
+            "name": "fourchette à escargots",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 15443973,
+            "name": "en:pétanque ball",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7224379,
+            "name": "en:flask",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 163590,
+            "name": "Tour Eiffel",
+            "type": 1,
+            "w": 2852
+        },
+        {
+            "id": 62866,
+            "name": "gabion",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14960142,
+            "name": "en:samovar",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2400410,
+            "name": "skramasaxe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 181177,
+            "name": "boîte à lettres",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 136560437,
+            "name": "Fer à repasser",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15256803,
+            "name": "en:flat-iron",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15361002,
+            "name": "en:waffle-iron",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 226593,
+            "name": "moule à gaufres",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 177288,
+            "name": "poêle à frire",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 11383476,
+            "name": "voiture de compétition",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 260941,
+            "name": "récipient à boire",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 260250,
+            "name": "moulin à sel",
+            "type": 1,
+            "w": 13
+        },
+        {
+            "id": 14950402,
+            "name": "en:garden gnome",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 217205,
+            "name": "canette>89628",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 215401,
+            "name": "Tupolev Tu-104",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 215403,
+            "name": "Tupolev Tu-154",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14959846,
+            "name": "en:handbag",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 151695,
+            "name": "tondeuse à gazon",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 77752,
+            "name": "chausse-pied",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 15111552,
+            "name": "en:gas cooker",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 283091,
+            "name": "cuisinière à gaz",
+            "type": 777,
+            "w": 79
+        },
+        {
+            "id": 438156,
+            "name": "chasseur monoplace",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 15274624,
+            "name": "en:wine vat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14960468,
+            "name": "en:saxophone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 80591,
+            "name": "grill",
+            "type": 1,
+            "w": 234
+        },
+        {
+            "id": 133660,
+            "name": "étriers",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 213951,
+            "name": "balle>71198",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 154773,
+            "name": "nain de jardin",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 30614,
+            "name": "fait-tout",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 231445,
+            "name": "petite voiture",
+            "type": 1,
+            "w": 127
+        },
+        {
+            "id": 115881,
+            "name": "râteau",
+            "type": 1,
+            "w": 139
+        },
+        {
+            "id": 111172,
+            "name": "rayon",
+            "type": 1,
+            "w": 4833
+        },
+        {
+            "id": 15908,
+            "name": "fleuret",
+            "type": 1,
+            "w": 189
+        },
+        {
+            "id": 3313078,
+            "name": "cuve à vin",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 2459199,
+            "name": "munchkin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213632,
+            "name": "meuble>237",
+            "type": 1,
+            "w": 283
+        },
+        {
+            "id": 163595,
+            "name": "seau à glace",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 65824,
+            "name": "faitout",
+            "type": 1,
+            "w": 130
+        },
+        {
+            "id": 14947176,
+            "name": "en:washing machine",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 233273,
+            "name": "collier>16912",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 227431,
+            "name": "sabre cimeterre",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 227428,
+            "name": "naginata",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1906099,
+            "name": "attaque au couteau",
+            "type": 1,
+            "w": 63
+        },
+        {
+            "id": 235798,
+            "name": "menotte>82823",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 52171,
+            "name": "semi-remorque",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 212758,
+            "name": "machine à laver le linge",
+            "type": 666,
+            "w": 69
+        },
+        {
+            "id": 7096198,
+            "name": "en:commode",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14927162,
+            "name": "en:close stool",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15424215,
+            "name": "en:commode chair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15424217,
+            "name": "chaise-pot",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 276192,
+            "name": "washer",
+            "type": 777,
+            "w": 52
+        },
+        {
+            "id": 217207,
+            "name": "canette>117423>95561",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 213438,
+            "name": "piano>70527",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 216639,
+            "name": "cheville>111740",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 73206,
+            "name": "fermeture éclair",
+            "type": 1,
+            "w": 140
+        },
+        {
+            "id": 29659,
+            "name": "roller",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 105337757,
+            "name": "Avion militaire",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 213366,
+            "name": "chenille>343306>123745",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 79169,
+            "name": "rampe",
+            "type": 1,
+            "w": 352
+        },
+        {
+            "id": 23127,
+            "name": "voie ferrée",
+            "type": 1,
+            "w": 254
+        },
+        {
+            "id": 676912,
+            "name": "marteau>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213500,
+            "name": "pelle>30843",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 227037,
+            "name": "instrument>91594",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 2208,
+            "name": "sagaie",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 21281,
+            "name": "surin",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 89538,
+            "name": "gril",
+            "type": 1,
+            "w": 127
+        },
+        {
+            "id": 28198,
+            "name": "cocotte-minute",
+            "type": 1,
+            "w": 146
+        },
+        {
+            "id": 241380,
+            "name": "cuillère>121002",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 36890,
+            "name": "agrafeuse",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 39716,
+            "name": "huisserie",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 50411,
+            "name": "canne-épée",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 54472,
+            "name": "chaise percée",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 54832,
+            "name": "pointeau",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 130880,
+            "name": "voiture de course",
+            "type": 1,
+            "w": 130
+        },
+        {
+            "id": 59765,
+            "name": "crucifix",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 60623,
+            "name": "chenet",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 61451,
+            "name": "jumbo-jet",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 67604,
+            "name": "scramasaxe",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 51339023,
+            "name": "micro caché",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 70904,
+            "name": "linteau",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 82318,
+            "name": "gond",
+            "type": 1,
+            "w": 235
+        },
+        {
+            "id": 86314,
+            "name": "ouvre-boîte",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 88492,
+            "name": "samovar",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 88669,
+            "name": "coquetier",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 119096,
+            "name": "mousqueton",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 123339,
+            "name": "flasque",
+            "type": 1,
+            "w": 136
+        },
+        {
+            "id": 124144,
+            "name": "louche",
+            "type": 1,
+            "w": 266
+        },
+        {
+            "id": 130284,
+            "name": "jaquemart",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 216453,
+            "name": "rail>23127",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 229272,
+            "name": "baguette>1451",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 143098,
+            "name": "râpe",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 145864,
+            "name": "palot",
+            "type": 1,
+            "w": 140
+        },
+        {
+            "id": 151495,
+            "name": "boule de pétanque",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 152522,
+            "name": "gazinière",
+            "type": 1,
+            "w": 184
+        },
+        {
+            "id": 154468,
+            "name": "épée à deux mains",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 154784,
+            "name": "porte-manteau",
+            "type": 1,
+            "w": 116
+        },
+        {
+            "id": 156119,
+            "name": "boîte de conserve",
+            "type": 1,
+            "w": 175
+        },
+        {
+            "id": 156563,
+            "name": "machine à pain",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 161542,
+            "name": "aiguille à coudre",
+            "type": 1,
+            "w": 107
+        },
+        {
+            "id": 161541,
+            "name": "aiguille à tricoter",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 161820,
+            "name": "escalier roulant",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 163356,
+            "name": "pot de fer",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 166136,
+            "name": "pistolet à barillet",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 168893,
+            "name": "flûte irlandaise",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14924421,
+            "name": "en:toolbox",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213105,
+            "name": "droïde",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 213586,
+            "name": "moule à tarte",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 213767,
+            "name": "pistolet>12716",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 214084,
+            "name": "Me 109",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 214077,
+            "name": "MIG-21",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 214106,
+            "name": "dé>110661",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 216027,
+            "name": "pied>216019>73061",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 216257,
+            "name": "brosse>121002",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 224829,
+            "name": "bombardier lourd",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 224956,
+            "name": "bille>53314",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 227429,
+            "name": "tanto",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 227433,
+            "name": "wakizashi",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 227435,
+            "name": "tachi",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 228980,
+            "name": "boulet>142412",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 229242,
+            "name": "plancha",
+            "type": 666,
+            "w": 52
+        },
+        {
+            "id": 157050,
+            "name": "vase>146885",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 236487,
+            "name": "boule à thé",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 244450,
+            "name": "tiroir>36899",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 246118,
+            "name": "plateau à fromage",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 156982,
+            "name": "canon>146885",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15045760,
+            "name": "en:racing car",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123492,
+            "name": "statue",
+            "type": 1,
+            "w": 3045
+        },
+        {
+            "id": 249173,
+            "name": "grosse boîte",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 312626,
+            "name": "DC-9",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 326375,
+            "name": "avion à hélices",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 139123,
+            "name": "poupée",
+            "type": 1,
+            "w": 499
+        },
+        {
+            "id": 337662,
+            "name": "automobile de course",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 256657,
+            "name": "couteau>121002>16033",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 146017,
+            "name": "peigne",
+            "type": 1,
+            "w": 525
+        },
+        {
+            "id": 99659,
+            "name": "siphon",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 107962225,
+            "name": "Tondeuse à gazon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 223848,
+            "name": "écureuil>6243",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 378995,
+            "name": "seau à champagne",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15334160,
+            "name": "en:passenger aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 217847,
+            "name": "canon>105884",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 437974,
+            "name": "ustensile culinaire",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1890113,
+            "name": "halo>102206",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1975648,
+            "name": "cocote minute",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33552,
+            "name": "tambourin",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 45559,
+            "name": "armature",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 14939431,
+            "name": "en:assault rifle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7322501,
+            "name": "en:whirlpool bath",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15211640,
+            "name": "en:spa bath",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15305358,
+            "name": "whirlpool",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 683509,
+            "name": "piano>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32610,
+            "name": "couteau",
+            "type": 1,
+            "w": 4346
+        },
+        {
+            "id": 36367,
+            "name": "boulet",
+            "type": 1,
+            "w": 248
+        },
+        {
+            "id": 217853,
+            "name": "arme automatique",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 4533,
+            "name": "fauteuil",
+            "type": 1,
+            "w": 3644
+        },
+        {
+            "id": 152386,
+            "name": "sabots",
+            "type": 1,
+            "w": 173
+        },
+        {
+            "id": 234221,
+            "name": "planche à repasser",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 145772,
+            "name": "carabine",
+            "type": 1,
+            "w": 314
+        },
+        {
+            "id": 57253,
+            "name": "casserole",
+            "type": 1,
+            "w": 1107
+        },
+        {
+            "id": 30812,
+            "name": "sardine",
+            "type": 1,
+            "w": 317
+        },
+        {
+            "id": 181055906,
+            "name": "sculpture cinétique",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 477943256,
+            "name": "grille barbecue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 155220,
+            "name": "fil de fer",
+            "type": 1,
+            "w": 172
+        },
+        {
+            "id": 30459,
+            "name": "chasseur",
+            "type": 1,
+            "w": 2013
+        },
+        {
+            "id": 216174,
+            "name": "pièce>28851",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 7420622,
+            "name": "en:stair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7743173,
+            "name": "en:dirk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 114764,
+            "name": "gamelle",
+            "type": 1,
+            "w": 307
+        },
+        {
+            "id": 222272,
+            "name": "table de massage",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 16783,
+            "name": "radiateur",
+            "type": 1,
+            "w": 352
+        },
+        {
+            "id": 9749739,
+            "name": "en:escalator",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15246831,
+            "name": "en:be made of stone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420388,
+            "name": "en:have a heart of stone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 245129,
+            "name": "youpala",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 167740,
+            "name": "avion de combat",
+            "type": 1,
+            "w": 137
+        },
+        {
+            "id": 117423,
+            "name": "bouteille",
+            "type": 1,
+            "w": 2891
+        },
+        {
+            "id": 224893,
+            "name": "faux>30843",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 246438,
+            "name": "moto>123745",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 15193233,
+            "name": "en:propeller aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7043102,
+            "name": "en:jet airplane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15415364,
+            "name": "en:jet aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216834,
+            "name": "sac>42731",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 12077739,
+            "name": "chaise garde-robe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 168928,
+            "name": "guitare basse",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 12875,
+            "name": "robot",
+            "type": 1,
+            "w": 2268
+        },
+        {
+            "id": 119711,
+            "name": "coquemar",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 232995,
+            "name": "Majorette",
+            "type": 1,
+            "w": 3
+        },
+        {
+            "id": 167663,
+            "name": "Spitfire",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 195327,
+            "name": "avion à hélice",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 14160875,
+            "name": "petite caisse en métal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14921991,
+            "name": "en:pressure cooker",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14927455,
+            "name": "en:hinge",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14965080,
+            "name": "en:whirlpool",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15053023,
+            "name": "en:spile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15066914,
+            "name": "en:flatiron",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15206544,
+            "name": "en:tea ball",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15246213,
+            "name": "en:ice bucket",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15334159,
+            "name": "en:passenger jet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420755,
+            "name": "en:pole arm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420754,
+            "name": "en:pole weapon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 133352,
+            "name": "revêtement",
+            "type": 1,
+            "w": 261
+        },
+        {
+            "id": 5338850,
+            "name": "bocal>55039",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 104321,
+            "name": "manège",
+            "type": 1,
+            "w": 296
+        },
+        {
+            "id": 312604,
+            "name": "arme du crime",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 18841876,
+            "name": "étriers>12411",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11272,
+            "name": "marches",
+            "type": 1,
+            "w": 189
+        },
+        {
+            "id": 161819,
+            "name": "escalier mécanique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 122405566,
+            "name": "Aiguille à coudre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 125339130,
+            "name": "Escalier mécanique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 80522,
+            "name": "jacuzzi",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 143199735,
+            "name": "Arme d'hast",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 5538819,
+            "name": "aircraft",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 216042,
+            "name": "table>36899",
+            "type": 1,
+            "w": 252
+        },
+        {
+            "id": 230791,
+            "name": "F14",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 230652835,
+            "name": "Mirage>330300",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 144812,
+            "name": "chenille",
+            "type": 1,
+            "w": 3057
+        },
+        {
+            "id": 47356,
+            "name": "tabouret",
+            "type": 1,
+            "w": 344
+        },
+        {
+            "id": 26140,
+            "name": "dé",
+            "type": 1,
+            "w": 638
+        },
+        {
+            "id": 225908,
+            "name": "boîte>42731",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 49668,
+            "name": "microphone",
+            "type": 1,
+            "w": 156
+        },
+        {
+            "id": 30712,
+            "name": "halo",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 93589,
+            "name": "claymore",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 9537,
+            "name": "engrenages",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 112460,
+            "name": "passoire",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 15083723,
+            "name": "en:motor vehicle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16074615,
+            "name": "Véhicule automobile",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 73061,
+            "name": "lampe",
+            "type": 1,
+            "w": 1547
+        },
+        {
+            "id": 78510,
+            "name": "dirk",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 78973,
+            "name": "harmonica",
+            "type": 1,
+            "w": 169
+        },
+        {
+            "id": 73661,
+            "name": "saxophone",
+            "type": 1,
+            "w": 381
+        },
+        {
+            "id": 213825,
+            "name": "club de golf",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 213839,
+            "name": "couteau>121002",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 139869,
+            "name": "charpente",
+            "type": 1,
+            "w": 414
+        },
+        {
+            "id": 17433770,
+            "name": "C4>95706",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 76784,
+            "name": "pistolet",
+            "type": 1,
+            "w": 2101
+        },
+        {
+            "id": 14962496,
+            "name": "en:figurine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 409094208,
+            "name": "presse à haschich",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14944062,
+            "name": "en:musical instrument",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7420611,
+            "name": "en:firearm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 69646,
+            "name": "révolver",
+            "type": 1,
+            "w": 239
+        },
+        {
+            "id": 7770335,
+            "name": "en:revolver",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 103457,
+            "name": "auto",
+            "type": 1,
+            "w": 1074
+        },
+        {
+            "id": 47638,
+            "name": "véhicule automobile",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 215720,
+            "name": "voiture>95706",
+            "type": 1,
+            "w": 973
+        },
+        {
+            "id": 22762,
+            "name": "lave-linge",
+            "type": 1,
+            "w": 303
+        },
+        {
+            "id": 89628,
+            "name": "récipient",
+            "type": 1,
+            "w": 1305
+        },
+        {
+            "id": 191674,
+            "name": "pièce de mobilier",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 191595,
+            "name": "véhicule motorisé",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 145405,
+            "name": "bol",
+            "type": 1,
+            "w": 991
+        },
+        {
+            "id": 99227,
+            "name": "persienne",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 252355,
+            "name": "automobile>123745",
+            "type": 1,
+            "w": 213
+        },
+        {
+            "id": 146257,
+            "name": "flûte",
+            "type": 1,
+            "w": 481
+        },
+        {
+            "id": 72260,
+            "name": "parapluie",
+            "type": 1,
+            "w": 716
+        },
+        {
+            "id": 73888,
+            "name": "fouet",
+            "type": 1,
+            "w": 729
+        },
+        {
+            "id": 81320,
+            "name": "escalier",
+            "type": 1,
+            "w": 2778
+        },
+        {
+            "id": 95659,
+            "name": "marteau",
+            "type": 1,
+            "w": 2254
+        },
+        {
+            "id": 10677,
+            "name": "gobelet",
+            "type": 1,
+            "w": 232
+        },
+        {
+            "id": 56035,
+            "name": "kriss",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 119035,
+            "name": "heaume",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 150512,
+            "name": "skateboard",
+            "type": 1,
+            "w": 376
+        },
+        {
+            "id": 124858,
+            "name": "poignard",
+            "type": 1,
+            "w": 716
+        },
+        {
+            "id": 7494917,
+            "name": "en:coin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36530,
+            "name": "conserves",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 151933,
+            "name": "boîte à outils",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 255983,
+            "name": "fauteuil>40184",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 132857,
+            "name": "chaise",
+            "type": 1,
+            "w": 3934
+        },
+        {
+            "id": 105884,
+            "name": "arme à feu",
+            "type": 1,
+            "w": 590
+        },
+        {
+            "id": 144950,
+            "name": "revolver",
+            "type": 1,
+            "w": 617
+        },
+        {
+            "id": 88525,
+            "name": "stylet",
+            "type": 1,
+            "w": 140
+        },
+        {
+            "id": 109571,
+            "name": "tournevis",
+            "type": 1,
+            "w": 1762
+        },
+        {
+            "id": 156632,
+            "name": "lampe à huile",
+            "type": 1,
+            "w": 163
+        },
+        {
+            "id": 214231,
+            "name": "chasseur>146050>87925",
+            "type": 1,
+            "w": 45
+        },
+        {
+            "id": 216024,
+            "name": "pied>216019",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 165717,
+            "name": "guitare électrique",
+            "type": 1,
+            "w": 195
+        },
+        {
+            "id": 223444,
+            "name": "coquetier>89628",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 28851,
+            "name": "pièce de monnaie",
+            "type": 1,
+            "w": 201
+        },
+        {
+            "id": 602,
+            "name": "engrenage",
+            "type": 1,
+            "w": 204
+        },
+        {
+            "id": 167742,
+            "name": "F-14",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 255793,
+            "name": "araignée>80970",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 213765,
+            "name": "vase>89628",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 260635,
+            "name": "arme d'épaule",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 213889,
+            "name": "fusil>105884",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 14549171,
+            "name": "Fusil d'assaut",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 221035,
+            "name": "bras>4533",
+            "type": 1,
+            "w": 4
+        }
+    ],
+    "relations": [
+        {
+            "id": 193867572,
+            "node1": 134927,
+            "node2": 237,
+            "type": 51,
+            "w": 37.0
+        },
+        {
+            "id": 1046683118,
+            "node1": 134927,
+            "node2": 602,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 55698177,
+            "node1": 134927,
+            "node2": 1451,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 1046683010,
+            "node1": 134927,
+            "node2": 1595,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376036171,
+            "node1": 134927,
+            "node2": 2208,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376052756,
+            "node1": 134927,
+            "node2": 2445,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376037942,
+            "node1": 134927,
+            "node2": 4533,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376055905,
+            "node1": 134927,
+            "node2": 5910,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 376038016,
+            "node1": 134927,
+            "node2": 6605,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 2010646,
+            "node1": 134927,
+            "node2": 6890,
+            "type": 51,
+            "w": 110.0
+        },
+        {
+            "id": 55698180,
+            "node1": 134927,
+            "node2": 7575,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 964312970,
+            "node1": 134927,
+            "node2": 9190,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1069040444,
+            "node1": 134927,
+            "node2": 9537,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376048742,
+            "node1": 134927,
+            "node2": 10677,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376037801,
+            "node1": 134927,
+            "node2": 10881,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376055677,
+            "node1": 134927,
+            "node2": 11207,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376054140,
+            "node1": 134927,
+            "node2": 11272,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 602112429,
+            "node1": 134927,
+            "node2": 11651,
+            "type": 51,
+            "w": 15.0
+        },
+        {
+            "id": 376055203,
+            "node1": 134927,
+            "node2": 11991,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 1046682918,
+            "node1": 134927,
+            "node2": 12875,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1046682921,
+            "node1": 134927,
+            "node2": 14706,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376053597,
+            "node1": 134927,
+            "node2": 15372,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376055678,
+            "node1": 134927,
+            "node2": 15908,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 964313004,
+            "node1": 134927,
+            "node2": 16213,
+            "type": 51,
+            "w": 22.0
+        },
+        {
+            "id": 376037954,
+            "node1": 134927,
+            "node2": 16783,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376055233,
+            "node1": 134927,
+            "node2": 16912,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376052755,
+            "node1": 134927,
+            "node2": 17570,
+            "type": 51,
+            "w": 39.0
+        },
+        {
+            "id": 1046682931,
+            "node1": 134927,
+            "node2": 19126,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376054675,
+            "node1": 134927,
+            "node2": 19412,
+            "type": 51,
+            "w": 40.0
+        },
+        {
+            "id": 1046682966,
+            "node1": 134927,
+            "node2": 19998,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376052754,
+            "node1": 134927,
+            "node2": 21281,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 1046682926,
+            "node1": 134927,
+            "node2": 22015,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376054686,
+            "node1": 134927,
+            "node2": 22710,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514427898,
+            "node1": 134927,
+            "node2": 22762,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054560,
+            "node1": 134927,
+            "node2": 23127,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 964312925,
+            "node1": 134927,
+            "node2": 25996,
+            "type": 51,
+            "w": 21.0
+        },
+        {
+            "id": 775218462,
+            "node1": 134927,
+            "node2": 26125,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376037808,
+            "node1": 134927,
+            "node2": 26140,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376054606,
+            "node1": 134927,
+            "node2": 28198,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 2446340,
+            "node1": 134927,
+            "node2": 28851,
+            "type": 51,
+            "w": 40.0
+        },
+        {
+            "id": 1046682930,
+            "node1": 134927,
+            "node2": 29241,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376052538,
+            "node1": 134927,
+            "node2": 29659,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376037508,
+            "node1": 134927,
+            "node2": 30459,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 594841217,
+            "node1": 134927,
+            "node2": 30614,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376055823,
+            "node1": 134927,
+            "node2": 30678,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376037641,
+            "node1": 134927,
+            "node2": 30712,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376037363,
+            "node1": 134927,
+            "node2": 30812,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 1156484750,
+            "node1": 134927,
+            "node2": 30843,
+            "type": 51,
+            "w": 40.0
+        },
+        {
+            "id": 2297504,
+            "node1": 134927,
+            "node2": 32610,
+            "type": 51,
+            "w": 67.0
+        },
+        {
+            "id": 775218163,
+            "node1": 134927,
+            "node2": 33256,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376054554,
+            "node1": 134927,
+            "node2": 33552,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376038023,
+            "node1": 134927,
+            "node2": 34898,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054189,
+            "node1": 134927,
+            "node2": 35671,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376037811,
+            "node1": 134927,
+            "node2": 36204,
+            "type": 51,
+            "w": 38.0
+        },
+        {
+            "id": 376037723,
+            "node1": 134927,
+            "node2": 36367,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 594840527,
+            "node1": 134927,
+            "node2": 36530,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 775218463,
+            "node1": 134927,
+            "node2": 36890,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376054551,
+            "node1": 134927,
+            "node2": 37271,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055683,
+            "node1": 134927,
+            "node2": 37370,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 376055833,
+            "node1": 134927,
+            "node2": 39204,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376050684,
+            "node1": 134927,
+            "node2": 39533,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376052584,
+            "node1": 134927,
+            "node2": 39716,
+            "type": 51,
+            "w": 42.0
+        },
+        {
+            "id": 376053150,
+            "node1": 134927,
+            "node2": 40415,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376037925,
+            "node1": 134927,
+            "node2": 40635,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 720838497,
+            "node1": 134927,
+            "node2": 42045,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054574,
+            "node1": 134927,
+            "node2": 43966,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054549,
+            "node1": 134927,
+            "node2": 45049,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054540,
+            "node1": 134927,
+            "node2": 45559,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054653,
+            "node1": 134927,
+            "node2": 46141,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 2446339,
+            "node1": 134927,
+            "node2": 46235,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 964312989,
+            "node1": 134927,
+            "node2": 46401,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376052679,
+            "node1": 134927,
+            "node2": 47356,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514426621,
+            "node1": 134927,
+            "node2": 47638,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376052202,
+            "node1": 134927,
+            "node2": 48825,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 775218475,
+            "node1": 134927,
+            "node2": 49668,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 55698147,
+            "node1": 134927,
+            "node2": 50104,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 376037522,
+            "node1": 134927,
+            "node2": 50195,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376055676,
+            "node1": 134927,
+            "node2": 50411,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 376054665,
+            "node1": 134927,
+            "node2": 52171,
+            "type": 51,
+            "w": 37.0
+        },
+        {
+            "id": 376054121,
+            "node1": 134927,
+            "node2": 52660,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376053001,
+            "node1": 134927,
+            "node2": 54472,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376037280,
+            "node1": 134927,
+            "node2": 54832,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376053733,
+            "node1": 134927,
+            "node2": 55039,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376055682,
+            "node1": 134927,
+            "node2": 56035,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376055884,
+            "node1": 134927,
+            "node2": 56822,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 2010644,
+            "node1": 134927,
+            "node2": 57253,
+            "type": 51,
+            "w": 70.0
+        },
+        {
+            "id": 376054542,
+            "node1": 134927,
+            "node2": 57717,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 289196130,
+            "node1": 134927,
+            "node2": 57808,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376053132,
+            "node1": 134927,
+            "node2": 59765,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 55698152,
+            "node1": 134927,
+            "node2": 60623,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 376054143,
+            "node1": 134927,
+            "node2": 61185,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376053192,
+            "node1": 134927,
+            "node2": 61451,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 254086671,
+            "node1": 134927,
+            "node2": 62866,
+            "type": 51,
+            "w": 40.0
+        },
+        {
+            "id": 55698137,
+            "node1": 134927,
+            "node2": 65824,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 376055902,
+            "node1": 134927,
+            "node2": 66890,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376052962,
+            "node1": 134927,
+            "node2": 66951,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376049473,
+            "node1": 134927,
+            "node2": 67093,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376055686,
+            "node1": 134927,
+            "node2": 67604,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376054544,
+            "node1": 134927,
+            "node2": 67829,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376054555,
+            "node1": 134927,
+            "node2": 68256,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 55698132,
+            "node1": 134927,
+            "node2": 68620,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 376054682,
+            "node1": 134927,
+            "node2": 69646,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054866,
+            "node1": 134927,
+            "node2": 70904,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 775218271,
+            "node1": 134927,
+            "node2": 72260,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 775218171,
+            "node1": 134927,
+            "node2": 73061,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 964312967,
+            "node1": 134927,
+            "node2": 73206,
+            "type": 51,
+            "w": 22.0
+        },
+        {
+            "id": 376054534,
+            "node1": 134927,
+            "node2": 73661,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 1046682910,
+            "node1": 134927,
+            "node2": 73888,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 55698172,
+            "node1": 134927,
+            "node2": 74659,
+            "type": 51,
+            "w": 52.0
+        },
+        {
+            "id": 376051259,
+            "node1": 134927,
+            "node2": 75377,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376054696,
+            "node1": 134927,
+            "node2": 76784,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376055879,
+            "node1": 134927,
+            "node2": 77752,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376054548,
+            "node1": 134927,
+            "node2": 78397,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055681,
+            "node1": 134927,
+            "node2": 78510,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 964312935,
+            "node1": 134927,
+            "node2": 78973,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376054165,
+            "node1": 134927,
+            "node2": 79169,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376052735,
+            "node1": 134927,
+            "node2": 80522,
+            "type": 51,
+            "w": 42.0
+        },
+        {
+            "id": 376049842,
+            "node1": 134927,
+            "node2": 80591,
+            "type": 51,
+            "w": 41.0
+        },
+        {
+            "id": 376052943,
+            "node1": 134927,
+            "node2": 81070,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376054616,
+            "node1": 134927,
+            "node2": 81320,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376037993,
+            "node1": 134927,
+            "node2": 81845,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 55698163,
+            "node1": 134927,
+            "node2": 82318,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 376054561,
+            "node1": 134927,
+            "node2": 82676,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 1046682964,
+            "node1": 134927,
+            "node2": 86314,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376037738,
+            "node1": 134927,
+            "node2": 88013,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376054758,
+            "node1": 134927,
+            "node2": 88492,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376055687,
+            "node1": 134927,
+            "node2": 88525,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376037748,
+            "node1": 134927,
+            "node2": 88669,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376037882,
+            "node1": 134927,
+            "node2": 89538,
+            "type": 51,
+            "w": 41.0
+        },
+        {
+            "id": 376052764,
+            "node1": 134927,
+            "node2": 89591,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 210514349,
+            "node1": 134927,
+            "node2": 89628,
+            "type": 51,
+            "w": 57.0
+        },
+        {
+            "id": 376055569,
+            "node1": 134927,
+            "node2": 90516,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 473517782,
+            "node1": 134927,
+            "node2": 90758,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376053235,
+            "node1": 134927,
+            "node2": 91594,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 964312972,
+            "node1": 134927,
+            "node2": 93524,
+            "type": 51,
+            "w": 22.0
+        },
+        {
+            "id": 376052746,
+            "node1": 134927,
+            "node2": 93589,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054663,
+            "node1": 134927,
+            "node2": 95659,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376038017,
+            "node1": 134927,
+            "node2": 95706,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376037884,
+            "node1": 134927,
+            "node2": 96851,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376052715,
+            "node1": 134927,
+            "node2": 97718,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 2010645,
+            "node1": 134927,
+            "node2": 97756,
+            "type": 51,
+            "w": 64.0
+        },
+        {
+            "id": 376054562,
+            "node1": 134927,
+            "node2": 99227,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 775218464,
+            "node1": 134927,
+            "node2": 99323,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376054556,
+            "node1": 134927,
+            "node2": 99552,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 1046682935,
+            "node1": 134927,
+            "node2": 99659,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376055693,
+            "node1": 134927,
+            "node2": 100222,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 1151951710,
+            "node1": 134927,
+            "node2": 102105,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376036018,
+            "node1": 134927,
+            "node2": 102246,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 55698167,
+            "node1": 134927,
+            "node2": 102356,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 376051444,
+            "node1": 134927,
+            "node2": 103457,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054185,
+            "node1": 134927,
+            "node2": 104321,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376052459,
+            "node1": 134927,
+            "node2": 104696,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376053011,
+            "node1": 134927,
+            "node2": 105884,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055513,
+            "node1": 134927,
+            "node2": 106553,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376055689,
+            "node1": 134927,
+            "node2": 108483,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054676,
+            "node1": 134927,
+            "node2": 109571,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376054124,
+            "node1": 134927,
+            "node2": 111172,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376037788,
+            "node1": 134927,
+            "node2": 111358,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376054550,
+            "node1": 134927,
+            "node2": 112460,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 1046683109,
+            "node1": 134927,
+            "node2": 113902,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376037759,
+            "node1": 134927,
+            "node2": 114764,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376037570,
+            "node1": 134927,
+            "node2": 115126,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 720838559,
+            "node1": 134927,
+            "node2": 115881,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376052731,
+            "node1": 134927,
+            "node2": 117423,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 964313006,
+            "node1": 134927,
+            "node2": 117787,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376055189,
+            "node1": 134927,
+            "node2": 118092,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376052674,
+            "node1": 134927,
+            "node2": 118211,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 964312960,
+            "node1": 134927,
+            "node2": 118461,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 635000612,
+            "node1": 134927,
+            "node2": 118908,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 55698169,
+            "node1": 134927,
+            "node2": 119035,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 376054543,
+            "node1": 134927,
+            "node2": 119096,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 1046683048,
+            "node1": 134927,
+            "node2": 119584,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376053883,
+            "node1": 134927,
+            "node2": 119711,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 1046682965,
+            "node1": 134927,
+            "node2": 119993,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376051164,
+            "node1": 134927,
+            "node2": 120900,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376037548,
+            "node1": 134927,
+            "node2": 120952,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376054539,
+            "node1": 134927,
+            "node2": 123284,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376055141,
+            "node1": 134927,
+            "node2": 123339,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 376054645,
+            "node1": 134927,
+            "node2": 123492,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 370646886,
+            "node1": 134927,
+            "node2": 124144,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055688,
+            "node1": 134927,
+            "node2": 124858,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376053660,
+            "node1": 134927,
+            "node2": 127211,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376054844,
+            "node1": 134927,
+            "node2": 129754,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376053572,
+            "node1": 134927,
+            "node2": 130284,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054673,
+            "node1": 134927,
+            "node2": 130451,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376051388,
+            "node1": 134927,
+            "node2": 130880,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 514426800,
+            "node1": 134927,
+            "node2": 132398,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376053077,
+            "node1": 134927,
+            "node2": 132542,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054497,
+            "node1": 134927,
+            "node2": 132716,
+            "type": 51,
+            "w": 38.0
+        },
+        {
+            "id": 376055401,
+            "node1": 134927,
+            "node2": 132857,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376033999,
+            "node1": 134927,
+            "node2": 133352,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376055789,
+            "node1": 134927,
+            "node2": 133393,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 635000603,
+            "node1": 134927,
+            "node2": 133660,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376053914,
+            "node1": 134927,
+            "node2": 133799,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054175,
+            "node1": 134927,
+            "node2": 134306,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054684,
+            "node1": 134927,
+            "node2": 134670,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054564,
+            "node1": 134927,
+            "node2": 135594,
+            "type": 51,
+            "w": 37.0
+        },
+        {
+            "id": 376037674,
+            "node1": 134927,
+            "node2": 135926,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055691,
+            "node1": 134927,
+            "node2": 135938,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 1046683050,
+            "node1": 134927,
+            "node2": 136370,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376053016,
+            "node1": 134927,
+            "node2": 137475,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376052313,
+            "node1": 134927,
+            "node2": 139123,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054557,
+            "node1": 134927,
+            "node2": 139869,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 775218383,
+            "node1": 134927,
+            "node2": 141473,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376036011,
+            "node1": 134927,
+            "node2": 141883,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376055692,
+            "node1": 134927,
+            "node2": 141933,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376037584,
+            "node1": 134927,
+            "node2": 142249,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376037864,
+            "node1": 134927,
+            "node2": 142412,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376052631,
+            "node1": 134927,
+            "node2": 142553,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376055675,
+            "node1": 134927,
+            "node2": 142707,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376037907,
+            "node1": 134927,
+            "node2": 143045,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376054559,
+            "node1": 134927,
+            "node2": 143098,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376036081,
+            "node1": 134927,
+            "node2": 144270,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376037819,
+            "node1": 134927,
+            "node2": 144812,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376052994,
+            "node1": 134927,
+            "node2": 144950,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376053649,
+            "node1": 134927,
+            "node2": 145064,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 1076583003,
+            "node1": 134927,
+            "node2": 145190,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376049460,
+            "node1": 134927,
+            "node2": 145405,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376054681,
+            "node1": 134927,
+            "node2": 145772,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376055779,
+            "node1": 134927,
+            "node2": 145864,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 55698110,
+            "node1": 134927,
+            "node2": 145948,
+            "type": 51,
+            "w": 61.0
+        },
+        {
+            "id": 376055859,
+            "node1": 134927,
+            "node2": 146017,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 55698150,
+            "node1": 134927,
+            "node2": 146051,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 964312933,
+            "node1": 134927,
+            "node2": 146257,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376055390,
+            "node1": 134927,
+            "node2": 149641,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376034287,
+            "node1": 134927,
+            "node2": 150512,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376052212,
+            "node1": 134927,
+            "node2": 151495,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376055140,
+            "node1": 134927,
+            "node2": 151695,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054531,
+            "node1": 134927,
+            "node2": 151933,
+            "type": 51,
+            "w": 39.0
+        },
+        {
+            "id": 479971801,
+            "node1": 134927,
+            "node2": 152067,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 376053214,
+            "node1": 134927,
+            "node2": 152144,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514423753,
+            "node1": 134927,
+            "node2": 152354,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376054326,
+            "node1": 134927,
+            "node2": 152386,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054674,
+            "node1": 134927,
+            "node2": 152522,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514423660,
+            "node1": 134927,
+            "node2": 153055,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 1046683130,
+            "node1": 134927,
+            "node2": 153270,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376055680,
+            "node1": 134927,
+            "node2": 154468,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054569,
+            "node1": 134927,
+            "node2": 154710,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376055610,
+            "node1": 134927,
+            "node2": 154773,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 775218489,
+            "node1": 134927,
+            "node2": 154784,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 2297505,
+            "node1": 134927,
+            "node2": 155220,
+            "type": 51,
+            "w": 56.0
+        },
+        {
+            "id": 514425895,
+            "node1": 134927,
+            "node2": 155271,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 1046682962,
+            "node1": 134927,
+            "node2": 155391,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376054683,
+            "node1": 134927,
+            "node2": 155752,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 473517781,
+            "node1": 134927,
+            "node2": 155936,
+            "type": 51,
+            "w": 15.0
+        },
+        {
+            "id": 55698118,
+            "node1": 134927,
+            "node2": 156119,
+            "type": 51,
+            "w": 61.0
+        },
+        {
+            "id": 1069040455,
+            "node1": 134927,
+            "node2": 156216,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376049328,
+            "node1": 134927,
+            "node2": 156453,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 1046682944,
+            "node1": 134927,
+            "node2": 156563,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376054552,
+            "node1": 134927,
+            "node2": 156564,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376053563,
+            "node1": 134927,
+            "node2": 156632,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376037656,
+            "node1": 134927,
+            "node2": 156982,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376037964,
+            "node1": 134927,
+            "node2": 157050,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376053098,
+            "node1": 134927,
+            "node2": 157632,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376055647,
+            "node1": 134927,
+            "node2": 161541,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 376054545,
+            "node1": 134927,
+            "node2": 161542,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 385308132,
+            "node1": 134927,
+            "node2": 161819,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376034532,
+            "node1": 134927,
+            "node2": 161820,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376054546,
+            "node1": 134927,
+            "node2": 163356,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376048929,
+            "node1": 134927,
+            "node2": 163590,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054566,
+            "node1": 134927,
+            "node2": 163595,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376055672,
+            "node1": 134927,
+            "node2": 165295,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 1046682998,
+            "node1": 134927,
+            "node2": 165717,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376052623,
+            "node1": 134927,
+            "node2": 166136,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376053006,
+            "node1": 134927,
+            "node2": 167503,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376052923,
+            "node1": 134927,
+            "node2": 167663,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376053120,
+            "node1": 134927,
+            "node2": 167740,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376053090,
+            "node1": 134927,
+            "node2": 167742,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514426194,
+            "node1": 134927,
+            "node2": 168358,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054571,
+            "node1": 134927,
+            "node2": 168893,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376053292,
+            "node1": 134927,
+            "node2": 168928,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054567,
+            "node1": 134927,
+            "node2": 176281,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514423898,
+            "node1": 134927,
+            "node2": 176844,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376055114,
+            "node1": 134927,
+            "node2": 177288,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376055679,
+            "node1": 134927,
+            "node2": 179474,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376054623,
+            "node1": 134927,
+            "node2": 179694,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 775218288,
+            "node1": 134927,
+            "node2": 181177,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 594841214,
+            "node1": 134927,
+            "node2": 181184,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 775218472,
+            "node1": 134927,
+            "node2": 182914,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376051520,
+            "node1": 134927,
+            "node2": 187823,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376051694,
+            "node1": 134927,
+            "node2": 191164,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376051758,
+            "node1": 134927,
+            "node2": 191595,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376051257,
+            "node1": 134927,
+            "node2": 191674,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376053207,
+            "node1": 134927,
+            "node2": 195327,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376054558,
+            "node1": 134927,
+            "node2": 212758,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 1069040468,
+            "node1": 134927,
+            "node2": 213105,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376054793,
+            "node1": 134927,
+            "node2": 213329,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054660,
+            "node1": 134927,
+            "node2": 213331,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054374,
+            "node1": 134927,
+            "node2": 213366,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376053042,
+            "node1": 134927,
+            "node2": 213438,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376054942,
+            "node1": 134927,
+            "node2": 213484,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376054654,
+            "node1": 134927,
+            "node2": 213500,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 1046682969,
+            "node1": 134927,
+            "node2": 213586,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376053181,
+            "node1": 134927,
+            "node2": 213632,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376055209,
+            "node1": 134927,
+            "node2": 213765,
+            "type": 51,
+            "w": 37.0
+        },
+        {
+            "id": 376053778,
+            "node1": 134927,
+            "node2": 213767,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 1046683154,
+            "node1": 134927,
+            "node2": 213825,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376054538,
+            "node1": 134927,
+            "node2": 213832,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376055474,
+            "node1": 134927,
+            "node2": 213839,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054532,
+            "node1": 134927,
+            "node2": 213889,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054695,
+            "node1": 134927,
+            "node2": 213951,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 473517785,
+            "node1": 134927,
+            "node2": 214077,
+            "type": 51,
+            "w": 15.0
+        },
+        {
+            "id": 376052468,
+            "node1": 134927,
+            "node2": 214080,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376052951,
+            "node1": 134927,
+            "node2": 214084,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376054727,
+            "node1": 134927,
+            "node2": 214106,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376054667,
+            "node1": 134927,
+            "node2": 214110,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376054610,
+            "node1": 134927,
+            "node2": 214111,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376051542,
+            "node1": 134927,
+            "node2": 214231,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376052522,
+            "node1": 134927,
+            "node2": 214590,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 370646888,
+            "node1": 134927,
+            "node2": 214634,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376055841,
+            "node1": 134927,
+            "node2": 214673,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376053931,
+            "node1": 134927,
+            "node2": 214677,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376035800,
+            "node1": 134927,
+            "node2": 215089,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 473517784,
+            "node1": 134927,
+            "node2": 215401,
+            "type": 51,
+            "w": 15.0
+        },
+        {
+            "id": 473517786,
+            "node1": 134927,
+            "node2": 215403,
+            "type": 51,
+            "w": 22.0
+        },
+        {
+            "id": 2446338,
+            "node1": 134927,
+            "node2": 215720,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376054685,
+            "node1": 134927,
+            "node2": 215947,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376051214,
+            "node1": 134927,
+            "node2": 216024,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376051209,
+            "node1": 134927,
+            "node2": 216027,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376051198,
+            "node1": 134927,
+            "node2": 216028,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054568,
+            "node1": 134927,
+            "node2": 216042,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055459,
+            "node1": 134927,
+            "node2": 216174,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376055843,
+            "node1": 134927,
+            "node2": 216257,
+            "type": 51,
+            "w": 39.0
+        },
+        {
+            "id": 376054541,
+            "node1": 134927,
+            "node2": 216453,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055572,
+            "node1": 134927,
+            "node2": 216639,
+            "type": 51,
+            "w": 37.0
+        },
+        {
+            "id": 376052323,
+            "node1": 134927,
+            "node2": 216834,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376054604,
+            "node1": 134927,
+            "node2": 216873,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376055325,
+            "node1": 134927,
+            "node2": 217137,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054633,
+            "node1": 134927,
+            "node2": 217205,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054631,
+            "node1": 134927,
+            "node2": 217207,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 497214878,
+            "node1": 134927,
+            "node2": 217336,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 55698140,
+            "node1": 134927,
+            "node2": 217847,
+            "type": 51,
+            "w": 51.0
+        },
+        {
+            "id": 376052571,
+            "node1": 134927,
+            "node2": 217853,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376054572,
+            "node1": 134927,
+            "node2": 218235,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376055708,
+            "node1": 134927,
+            "node2": 218789,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054694,
+            "node1": 134927,
+            "node2": 219195,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376053022,
+            "node1": 134927,
+            "node2": 219281,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376052825,
+            "node1": 134927,
+            "node2": 219287,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054570,
+            "node1": 134927,
+            "node2": 219630,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376055816,
+            "node1": 134927,
+            "node2": 220110,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 430327640,
+            "node1": 134927,
+            "node2": 220660,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376053621,
+            "node1": 134927,
+            "node2": 220908,
+            "type": 51,
+            "w": 37.0
+        },
+        {
+            "id": 376055311,
+            "node1": 134927,
+            "node2": 221035,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 1046683220,
+            "node1": 134927,
+            "node2": 222272,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376055066,
+            "node1": 134927,
+            "node2": 223444,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376054563,
+            "node1": 134927,
+            "node2": 223848,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376051013,
+            "node1": 134927,
+            "node2": 224829,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376054573,
+            "node1": 134927,
+            "node2": 224893,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376055718,
+            "node1": 134927,
+            "node2": 224956,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376049845,
+            "node1": 134927,
+            "node2": 225830,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376055590,
+            "node1": 134927,
+            "node2": 225908,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 381946048,
+            "node1": 134927,
+            "node2": 226593,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376052806,
+            "node1": 134927,
+            "node2": 227037,
+            "type": 51,
+            "w": 42.0
+        },
+        {
+            "id": 376055694,
+            "node1": 134927,
+            "node2": 227427,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376055690,
+            "node1": 134927,
+            "node2": 227428,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376055685,
+            "node1": 134927,
+            "node2": 227429,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376055684,
+            "node1": 134927,
+            "node2": 227430,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376055674,
+            "node1": 134927,
+            "node2": 227431,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376055673,
+            "node1": 134927,
+            "node2": 227432,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055671,
+            "node1": 134927,
+            "node2": 227433,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376055670,
+            "node1": 134927,
+            "node2": 227434,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055669,
+            "node1": 134927,
+            "node2": 227435,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376055668,
+            "node1": 134927,
+            "node2": 227620,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055224,
+            "node1": 134927,
+            "node2": 227703,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376054116,
+            "node1": 134927,
+            "node2": 228071,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376055172,
+            "node1": 134927,
+            "node2": 228705,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376055555,
+            "node1": 134927,
+            "node2": 228980,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376055548,
+            "node1": 134927,
+            "node2": 229242,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376053379,
+            "node1": 134927,
+            "node2": 229272,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376051112,
+            "node1": 134927,
+            "node2": 230791,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376055366,
+            "node1": 134927,
+            "node2": 231434,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054620,
+            "node1": 134927,
+            "node2": 231445,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376051740,
+            "node1": 134927,
+            "node2": 231600,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 514427030,
+            "node1": 134927,
+            "node2": 232000,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514427021,
+            "node1": 134927,
+            "node2": 232001,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376054619,
+            "node1": 134927,
+            "node2": 232995,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054553,
+            "node1": 134927,
+            "node2": 233273,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376054547,
+            "node1": 134927,
+            "node2": 234221,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054666,
+            "node1": 134927,
+            "node2": 234651,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376054691,
+            "node1": 134927,
+            "node2": 235798,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 376054515,
+            "node1": 134927,
+            "node2": 236387,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376054565,
+            "node1": 134927,
+            "node2": 236487,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 473517783,
+            "node1": 134927,
+            "node2": 236897,
+            "type": 51,
+            "w": 15.0
+        },
+        {
+            "id": 775218480,
+            "node1": 134927,
+            "node2": 239379,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376054657,
+            "node1": 134927,
+            "node2": 239800,
+            "type": 51,
+            "w": 41.0
+        },
+        {
+            "id": 376054672,
+            "node1": 134927,
+            "node2": 240897,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376053383,
+            "node1": 134927,
+            "node2": 241380,
+            "type": 51,
+            "w": 41.0
+        },
+        {
+            "id": 376037283,
+            "node1": 134927,
+            "node2": 241740,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 665112702,
+            "node1": 134927,
+            "node2": 244371,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376054038,
+            "node1": 134927,
+            "node2": 244450,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376054051,
+            "node1": 134927,
+            "node2": 245129,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376053780,
+            "node1": 134927,
+            "node2": 246118,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376051538,
+            "node1": 134927,
+            "node2": 246438,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 352310158,
+            "node1": 134927,
+            "node2": 248245,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376053202,
+            "node1": 134927,
+            "node2": 249121,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 473517780,
+            "node1": 134927,
+            "node2": 249122,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376053598,
+            "node1": 134927,
+            "node2": 249173,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376053608,
+            "node1": 134927,
+            "node2": 250934,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376052897,
+            "node1": 134927,
+            "node2": 251428,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 1046682951,
+            "node1": 134927,
+            "node2": 251525,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376053142,
+            "node1": 134927,
+            "node2": 251723,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 2438201,
+            "node1": 134927,
+            "node2": 252355,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376052437,
+            "node1": 134927,
+            "node2": 255793,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376049196,
+            "node1": 134927,
+            "node2": 255983,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376051508,
+            "node1": 134927,
+            "node2": 256657,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376053159,
+            "node1": 134927,
+            "node2": 258956,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376053340,
+            "node1": 134927,
+            "node2": 259088,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376053156,
+            "node1": 134927,
+            "node2": 259635,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376053308,
+            "node1": 134927,
+            "node2": 260250,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376051621,
+            "node1": 134927,
+            "node2": 260635,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376053276,
+            "node1": 134927,
+            "node2": 260941,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376052749,
+            "node1": 134927,
+            "node2": 261695,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376051551,
+            "node1": 134927,
+            "node2": 262328,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376036125,
+            "node1": 134927,
+            "node2": 269881,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 618658537,
+            "node1": 134927,
+            "node2": 276192,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514424393,
+            "node1": 134927,
+            "node2": 283091,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 514427165,
+            "node1": 134927,
+            "node2": 290241,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 618658311,
+            "node1": 134927,
+            "node2": 298357,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 514426905,
+            "node1": 134927,
+            "node2": 302402,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 1046683084,
+            "node1": 134927,
+            "node2": 312604,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 473517779,
+            "node1": 134927,
+            "node2": 312626,
+            "type": 51,
+            "w": 15.0
+        },
+        {
+            "id": 376052362,
+            "node1": 134927,
+            "node2": 317208,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376051454,
+            "node1": 134927,
+            "node2": 326375,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376050025,
+            "node1": 134927,
+            "node2": 336076,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514427057,
+            "node1": 134927,
+            "node2": 337662,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376035971,
+            "node1": 134927,
+            "node2": 343085,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 594840529,
+            "node1": 134927,
+            "node2": 378995,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376051549,
+            "node1": 134927,
+            "node2": 437974,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376049796,
+            "node1": 134927,
+            "node2": 438156,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376037264,
+            "node1": 134927,
+            "node2": 589503,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514427635,
+            "node1": 134927,
+            "node2": 676912,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 594840719,
+            "node1": 134927,
+            "node2": 683509,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 612480857,
+            "node1": 134927,
+            "node2": 1646420,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 376051005,
+            "node1": 134927,
+            "node2": 1890113,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 1069040503,
+            "node1": 134927,
+            "node2": 1906099,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376049795,
+            "node1": 134927,
+            "node2": 1975648,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 858213820,
+            "node1": 134927,
+            "node2": 2136742,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376038126,
+            "node1": 134927,
+            "node2": 2366630,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376050049,
+            "node1": 134927,
+            "node2": 2399253,
+            "type": 51,
+            "w": 41.0
+        },
+        {
+            "id": 376049934,
+            "node1": 134927,
+            "node2": 2400410,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 1069040362,
+            "node1": 134927,
+            "node2": 2436849,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376050001,
+            "node1": 134927,
+            "node2": 2440077,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 618658467,
+            "node1": 134927,
+            "node2": 2459199,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376050024,
+            "node1": 134927,
+            "node2": 2485321,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376049925,
+            "node1": 134927,
+            "node2": 2496939,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 376050019,
+            "node1": 134927,
+            "node2": 2561918,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 514429782,
+            "node1": 134927,
+            "node2": 3304270,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376034155,
+            "node1": 134927,
+            "node2": 3313078,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376037477,
+            "node1": 134927,
+            "node2": 4331726,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376037298,
+            "node1": 134927,
+            "node2": 5333135,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 478899268,
+            "node1": 134927,
+            "node2": 5338850,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 623099159,
+            "node1": 134927,
+            "node2": 5538819,
+            "type": 51,
+            "w": 10.0
+        },
+        {
+            "id": 775218290,
+            "node1": 134927,
+            "node2": 5794029,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376035917,
+            "node1": 134927,
+            "node2": 6863493,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514424765,
+            "node1": 134927,
+            "node2": 6910662,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514429953,
+            "node1": 134927,
+            "node2": 7015587,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514425709,
+            "node1": 134927,
+            "node2": 7043079,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514425247,
+            "node1": 134927,
+            "node2": 7043098,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514424049,
+            "node1": 134927,
+            "node2": 7043102,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 514424469,
+            "node1": 134927,
+            "node2": 7096198,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 376034468,
+            "node1": 134927,
+            "node2": 7096349,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514429646,
+            "node1": 134927,
+            "node2": 7110128,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 395045932,
+            "node1": 134927,
+            "node2": 7224379,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514426828,
+            "node1": 134927,
+            "node2": 7322501,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 602112428,
+            "node1": 134927,
+            "node2": 7335134,
+            "type": 51,
+            "w": 15.0
+        },
+        {
+            "id": 514425981,
+            "node1": 134927,
+            "node2": 7346254,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 385308154,
+            "node1": 134927,
+            "node2": 7420611,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514427798,
+            "node1": 134927,
+            "node2": 7420612,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514429937,
+            "node1": 134927,
+            "node2": 7420622,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514425012,
+            "node1": 134927,
+            "node2": 7494917,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376035834,
+            "node1": 134927,
+            "node2": 7743173,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 376035882,
+            "node1": 134927,
+            "node2": 7770335,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 514424479,
+            "node1": 134927,
+            "node2": 8034169,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514425897,
+            "node1": 134927,
+            "node2": 8084545,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 376035903,
+            "node1": 134927,
+            "node2": 8773015,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 775216881,
+            "node1": 134927,
+            "node2": 9120920,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376035649,
+            "node1": 134927,
+            "node2": 9749739,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514426495,
+            "node1": 134927,
+            "node2": 11054721,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514426494,
+            "node1": 134927,
+            "node2": 11383476,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514426467,
+            "node1": 134927,
+            "node2": 12077739,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 775216899,
+            "node1": 134927,
+            "node2": 13756657,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 359744053,
+            "node1": 134927,
+            "node2": 14160875,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514429634,
+            "node1": 134927,
+            "node2": 14549171,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514427593,
+            "node1": 134927,
+            "node2": 14893716,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514424019,
+            "node1": 134927,
+            "node2": 14918656,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514424065,
+            "node1": 134927,
+            "node2": 14918759,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514424454,
+            "node1": 134927,
+            "node2": 14921991,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514424073,
+            "node1": 134927,
+            "node2": 14922272,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514427813,
+            "node1": 134927,
+            "node2": 14923159,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 392173445,
+            "node1": 134927,
+            "node2": 14924421,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 858213755,
+            "node1": 134927,
+            "node2": 14926552,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 514426564,
+            "node1": 134927,
+            "node2": 14927162,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514424594,
+            "node1": 134927,
+            "node2": 14927455,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 391290127,
+            "node1": 134927,
+            "node2": 14931277,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514429945,
+            "node1": 134927,
+            "node2": 14936364,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 775216807,
+            "node1": 134927,
+            "node2": 14938188,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 514423781,
+            "node1": 134927,
+            "node2": 14939431,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514424955,
+            "node1": 134927,
+            "node2": 14944062,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 514426818,
+            "node1": 134927,
+            "node2": 14944657,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 594841546,
+            "node1": 134927,
+            "node2": 14945988,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 514425815,
+            "node1": 134927,
+            "node2": 14947176,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514427819,
+            "node1": 134927,
+            "node2": 14950179,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514427825,
+            "node1": 134927,
+            "node2": 14950402,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 514424474,
+            "node1": 134927,
+            "node2": 14953379,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 514423776,
+            "node1": 134927,
+            "node2": 14959846,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 594840281,
+            "node1": 134927,
+            "node2": 14959901,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 720836348,
+            "node1": 134927,
+            "node2": 14959902,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 722899448,
+            "node1": 134927,
+            "node2": 14960142,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 514429963,
+            "node1": 134927,
+            "node2": 14960468,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 514425778,
+            "node1": 134927,
+            "node2": 14962495,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 391910855,
+            "node1": 134927,
+            "node2": 14962496,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514426965,
+            "node1": 134927,
+            "node2": 14962497,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 618658507,
+            "node1": 134927,
+            "node2": 14963689,
+            "type": 51,
+            "w": 42.0
+        },
+        {
+            "id": 514426838,
+            "node1": 134927,
+            "node2": 14965080,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514427800,
+            "node1": 134927,
+            "node2": 14965111,
+            "type": 51,
+            "w": 39.0
+        },
+        {
+            "id": 594840400,
+            "node1": 134927,
+            "node2": 14967420,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 514425965,
+            "node1": 134927,
+            "node2": 15045760,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514425970,
+            "node1": 134927,
+            "node2": 15045761,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 618658265,
+            "node1": 134927,
+            "node2": 15053023,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514427072,
+            "node1": 134927,
+            "node2": 15063121,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514427707,
+            "node1": 134927,
+            "node2": 15066914,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 514423900,
+            "node1": 134927,
+            "node2": 15069539,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514425341,
+            "node1": 134927,
+            "node2": 15078369,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 594841627,
+            "node1": 134927,
+            "node2": 15078370,
+            "type": 51,
+            "w": 37.0
+        },
+        {
+            "id": 514425477,
+            "node1": 134927,
+            "node2": 15083723,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514425717,
+            "node1": 134927,
+            "node2": 15085209,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 514429801,
+            "node1": 134927,
+            "node2": 15089398,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 594840352,
+            "node1": 134927,
+            "node2": 15110904,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514424307,
+            "node1": 134927,
+            "node2": 15111552,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 514426906,
+            "node1": 134927,
+            "node2": 15192881,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514424718,
+            "node1": 134927,
+            "node2": 15193233,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514425627,
+            "node1": 134927,
+            "node2": 15199059,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 514424677,
+            "node1": 134927,
+            "node2": 15206544,
+            "type": 51,
+            "w": 36.0
+        },
+        {
+            "id": 594840439,
+            "node1": 134927,
+            "node2": 15208239,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 775218490,
+            "node1": 134927,
+            "node2": 15209588,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 514426848,
+            "node1": 134927,
+            "node2": 15211640,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 594840690,
+            "node1": 134927,
+            "node2": 15217752,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514424402,
+            "node1": 134927,
+            "node2": 15219468,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 594840682,
+            "node1": 134927,
+            "node2": 15229592,
+            "type": 51,
+            "w": 39.0
+        },
+        {
+            "id": 514423886,
+            "node1": 134927,
+            "node2": 15246213,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514426876,
+            "node1": 134927,
+            "node2": 15246831,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 514423840,
+            "node1": 134927,
+            "node2": 15254184,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 594840315,
+            "node1": 134927,
+            "node2": 15254195,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 720836384,
+            "node1": 134927,
+            "node2": 15256803,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 514424906,
+            "node1": 134927,
+            "node2": 15274624,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514427160,
+            "node1": 134927,
+            "node2": 15284818,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 858213754,
+            "node1": 134927,
+            "node2": 15284822,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 514427011,
+            "node1": 134927,
+            "node2": 15305358,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 594840336,
+            "node1": 134927,
+            "node2": 15334159,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514423837,
+            "node1": 134927,
+            "node2": 15334160,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514424122,
+            "node1": 134927,
+            "node2": 15361002,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 521836509,
+            "node1": 134927,
+            "node2": 15390266,
+            "type": 51,
+            "w": 15.0
+        },
+        {
+            "id": 514424041,
+            "node1": 134927,
+            "node2": 15415364,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 514424057,
+            "node1": 134927,
+            "node2": 15415365,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 514426866,
+            "node1": 134927,
+            "node2": 15420388,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514425342,
+            "node1": 134927,
+            "node2": 15420754,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514425343,
+            "node1": 134927,
+            "node2": 15420755,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 514427633,
+            "node1": 134927,
+            "node2": 15421311,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514430062,
+            "node1": 134927,
+            "node2": 15424215,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514430055,
+            "node1": 134927,
+            "node2": 15424216,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514430050,
+            "node1": 134927,
+            "node2": 15424217,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 514425899,
+            "node1": 134927,
+            "node2": 15429478,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514429802,
+            "node1": 134927,
+            "node2": 15443973,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 521836510,
+            "node1": 134927,
+            "node2": 15461757,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 514427382,
+            "node1": 134927,
+            "node2": 16072158,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 514427386,
+            "node1": 134927,
+            "node2": 16074615,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514427765,
+            "node1": 134927,
+            "node2": 16316322,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 514427755,
+            "node1": 134927,
+            "node2": 16316323,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 514427745,
+            "node1": 134927,
+            "node2": 16316324,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 991439661,
+            "node1": 134927,
+            "node2": 17433770,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 514429996,
+            "node1": 134927,
+            "node2": 18841876,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 1069040502,
+            "node1": 134927,
+            "node2": 51339023,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 594841381,
+            "node1": 134927,
+            "node2": 104264542,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 594841343,
+            "node1": 134927,
+            "node2": 104836007,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 594841334,
+            "node1": 134927,
+            "node2": 105337757,
+            "type": 51,
+            "w": 43.0
+        },
+        {
+            "id": 594841230,
+            "node1": 134927,
+            "node2": 107466129,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 594841228,
+            "node1": 134927,
+            "node2": 107962225,
+            "type": 51,
+            "w": 42.0
+        },
+        {
+            "id": 594841752,
+            "node1": 134927,
+            "node2": 122405566,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 594841723,
+            "node1": 134927,
+            "node2": 125143409,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 594841734,
+            "node1": 134927,
+            "node2": 125339130,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 594841616,
+            "node1": 134927,
+            "node2": 136560437,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 594841624,
+            "node1": 134927,
+            "node2": 138574372,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 594841757,
+            "node1": 134927,
+            "node2": 143199735,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 594841758,
+            "node1": 134927,
+            "node2": 143206742,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 594841759,
+            "node1": 134927,
+            "node2": 143206746,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 594841772,
+            "node1": 134927,
+            "node2": 143378299,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 594841786,
+            "node1": 134927,
+            "node2": 143641020,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 1177796842,
+            "node1": 134927,
+            "node2": 154311669,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 1177795052,
+            "node1": 134927,
+            "node2": 181055906,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 587065476,
+            "node1": 134927,
+            "node2": 191630844,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 587065483,
+            "node1": 134927,
+            "node2": 191630919,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 775218310,
+            "node1": 134927,
+            "node2": 210459114,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 1076582943,
+            "node1": 134927,
+            "node2": 211558461,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1046682954,
+            "node1": 134927,
+            "node2": 211887559,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 635000739,
+            "node1": 134927,
+            "node2": 218247777,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 775218344,
+            "node1": 134927,
+            "node2": 222808894,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 618658655,
+            "node1": 134927,
+            "node2": 230652835,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 1177796867,
+            "node1": 134927,
+            "node2": 236647211,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 1069040450,
+            "node1": 134927,
+            "node2": 243496180,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 775218265,
+            "node1": 134927,
+            "node2": 269973161,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 1177794747,
+            "node1": 134927,
+            "node2": 274222009,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 775218304,
+            "node1": 134927,
+            "node2": 280239566,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 1046682943,
+            "node1": 134927,
+            "node2": 284906535,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1069040370,
+            "node1": 134927,
+            "node2": 290516269,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1046682977,
+            "node1": 134927,
+            "node2": 291337455,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 775218373,
+            "node1": 134927,
+            "node2": 293858127,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 1069040355,
+            "node1": 134927,
+            "node2": 394441150,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1069040385,
+            "node1": 134927,
+            "node2": 397066272,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1069040476,
+            "node1": 134927,
+            "node2": 397082291,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1076582888,
+            "node1": 134927,
+            "node2": 408177925,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1076582931,
+            "node1": 134927,
+            "node2": 408177949,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1076583013,
+            "node1": 134927,
+            "node2": 409094208,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1177796879,
+            "node1": 134927,
+            "node2": 477943256,
+            "type": 51,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:08.374937",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métal",
+        "#relations": 613,
+        "max_relation_weight": 110.0,
+        "#nodes": 614,
+        "duration": "0:00:00.045112"
+    }
+}

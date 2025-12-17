@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 123769,
+            "name": "étudiant",
+            "type": 1,
+            "w": 5544
+        },
+        {
+            "id": 480026785,
+            "name": "niveau études",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 250787,
+            "name": "niveau d'études",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 365439,
+            "name": "moyenne générale",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 214049021,
+            "name": "numéro étudiant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 244444,
+            "name": "niveau d'étude",
+            "type": 1,
+            "w": 14
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179138593,
+            "node1": 123769,
+            "node2": 244444,
+            "type": 153,
+            "w": 37.0
+        },
+        {
+            "id": 1179137427,
+            "node1": 123769,
+            "node2": 250787,
+            "type": 153,
+            "w": 39.0
+        },
+        {
+            "id": 1179137627,
+            "node1": 123769,
+            "node2": 365439,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 606858840,
+            "node1": 123769,
+            "node2": 214049021,
+            "type": 153,
+            "w": 45.0
+        },
+        {
+            "id": 1179137418,
+            "node1": 123769,
+            "node2": 480026785,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:36.394271",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "étudiant",
+        "#relations": 5,
+        "max_relation_weight": 45.0,
+        "#nodes": 6,
+        "duration": "0:00:00.008349"
+    }
+}

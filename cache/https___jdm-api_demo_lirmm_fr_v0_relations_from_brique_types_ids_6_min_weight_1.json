@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 106670,
+            "name": "laitage",
+            "type": 1,
+            "w": 535
+        },
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14948048,
+            "name": "en:construction material",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14948047,
+            "name": "en:building material",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7272
+        },
+        {
+            "id": 134263,
+            "name": "emballage",
+            "type": 1,
+            "w": 1023
+        },
+        {
+            "id": 213700,
+            "name": "fromage>106670",
+            "type": 1,
+            "w": 598
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 41894,
+            "name": "brique",
+            "type": 1,
+            "w": 551
+        },
+        {
+            "id": 20965,
+            "name": "nourriture",
+            "type": 1,
+            "w": 6970
+        },
+        {
+            "id": 141687,
+            "name": "fromage",
+            "type": 1,
+            "w": 4864
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 144916,
+            "name": "argent",
+            "type": 1,
+            "w": 18274
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 114637,
+            "name": "aliment",
+            "type": 1,
+            "w": 2447
+        },
+        {
+            "id": 158943,
+            "name": "matériau de construction",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 3762435,
+            "name": "ingrédient de recette de cuisine",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 225291,
+            "name": "couleur>17226",
+            "type": 1,
+            "w": 382
+        },
+        {
+            "id": 3895,
+            "name": "lego",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 133516,
+            "name": "produit laitier",
+            "type": 1,
+            "w": 707
+        },
+        {
+            "id": 6913088,
+            "name": "en:dairy product",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15233537,
+            "name": "en:milk product",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1127228632,
+            "node1": 41894,
+            "node2": 237,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 9901821,
+            "node1": 41894,
+            "node2": 3895,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 97325707,
+            "node1": 41894,
+            "node2": 20965,
+            "type": 6,
+            "w": 212.0
+        },
+        {
+            "id": 3158566,
+            "node1": 41894,
+            "node2": 40056,
+            "type": 6,
+            "w": 839.43
+        },
+        {
+            "id": 96506597,
+            "node1": 41894,
+            "node2": 97739,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 774907487,
+            "node1": 41894,
+            "node2": 106670,
+            "type": 6,
+            "w": 133.0
+        },
+        {
+            "id": 1577283,
+            "node1": 41894,
+            "node2": 114637,
+            "type": 6,
+            "w": 47.0
+        },
+        {
+            "id": 97325708,
+            "node1": 41894,
+            "node2": 133516,
+            "type": 6,
+            "w": 133.0
+        },
+        {
+            "id": 9929517,
+            "node1": 41894,
+            "node2": 134263,
+            "type": 6,
+            "w": 876.78
+        },
+        {
+            "id": 630454,
+            "node1": 41894,
+            "node2": 135190,
+            "type": 6,
+            "w": 382.0
+        },
+        {
+            "id": 97325709,
+            "node1": 41894,
+            "node2": 141687,
+            "type": 6,
+            "w": 916.26
+        },
+        {
+            "id": 9927950,
+            "node1": 41894,
+            "node2": 144916,
+            "type": 6,
+            "w": 563.09
+        },
+        {
+            "id": 9900021,
+            "node1": 41894,
+            "node2": 144936,
+            "type": 6,
+            "w": 500.02
+        },
+        {
+            "id": 13161235,
+            "node1": 41894,
+            "node2": 158943,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 97325710,
+            "node1": 41894,
+            "node2": 213700,
+            "type": 6,
+            "w": 215.0
+        },
+        {
+            "id": 3158910,
+            "node1": 41894,
+            "node2": 225291,
+            "type": 6,
+            "w": 531.7
+        },
+        {
+            "id": 93817812,
+            "node1": 41894,
+            "node2": 3762435,
+            "type": 6,
+            "w": 114.0
+        },
+        {
+            "id": 604604072,
+            "node1": 41894,
+            "node2": 6913088,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 618845537,
+            "node1": 41894,
+            "node2": 14948047,
+            "type": 6,
+            "w": 83.0
+        },
+        {
+            "id": 618845575,
+            "node1": 41894,
+            "node2": 14948048,
+            "type": 6,
+            "w": 82.0
+        },
+        {
+            "id": 604604496,
+            "node1": 41894,
+            "node2": 15233537,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 1074625928,
+            "node1": 41894,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:14.046866",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "brique",
+        "#relations": 22,
+        "max_relation_weight": 1000.0,
+        "#nodes": 23,
+        "duration": "0:00:00.014321"
+    }
+}

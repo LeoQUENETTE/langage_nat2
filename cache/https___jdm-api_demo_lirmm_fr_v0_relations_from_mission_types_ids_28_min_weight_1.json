@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 17500769,
+            "name": "gilet tactique",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 450404077,
+            "name": "::>66:101083>24:450404072",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 15293135,
+            "name": "bonne sœur",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14930216,
+            "name": "en:nun",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15293137,
+            "name": "en:a nun",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 62573,
+            "name": "espion",
+            "type": 1,
+            "w": 637
+        },
+        {
+            "id": 14563,
+            "name": "mission",
+            "type": 1,
+            "w": 9162
+        },
+        {
+            "id": 170004,
+            "name": "nun",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 2401181,
+            "name": "coquillé hollandais",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16574001,
+            "name": "une bonne soeur",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91737,
+            "name": "moniale",
+            "type": 1,
+            "w": 69
+        },
+        {
+            "id": 72477,
+            "name": "bonne soeur",
+            "type": 1,
+            "w": 148
+        },
+        {
+            "id": 15293136,
+            "name": "une bonne sœur",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 11330302,
+            "node1": 14563,
+            "node2": 62573,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11334157,
+            "node1": 14563,
+            "node2": 72477,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 964965814,
+            "node1": 14563,
+            "node2": 91737,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 617034503,
+            "node1": 14563,
+            "node2": 170004,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 738367898,
+            "node1": 14563,
+            "node2": 2401181,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 492104463,
+            "node1": 14563,
+            "node2": 14930216,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 721183405,
+            "node1": 14563,
+            "node2": 15293135,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 738345303,
+            "node1": 14563,
+            "node2": 15293136,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 738345392,
+            "node1": 14563,
+            "node2": 15293137,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 926893968,
+            "node1": 14563,
+            "node2": 16574001,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 766153018,
+            "node1": 14563,
+            "node2": 17500769,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1139639900,
+            "node1": 14563,
+            "node2": 450404077,
+            "type": 28,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:31.710250",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mission",
+        "#relations": 12,
+        "max_relation_weight": 39.0,
+        "#nodes": 13,
+        "duration": "0:00:00.005983"
+    }
+}

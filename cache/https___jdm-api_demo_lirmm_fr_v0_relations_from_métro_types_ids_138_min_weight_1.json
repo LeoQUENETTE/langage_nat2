@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 134491,
+            "name": "métro",
+            "type": 1,
+            "w": 4058
+        },
+        {
+            "id": 9878,
+            "name": "congestion",
+            "type": 1,
+            "w": 137
+        },
+        {
+            "id": 126671,
+            "name": "retard",
+            "type": 1,
+            "w": 3625
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154255166,
+            "node1": 134491,
+            "node2": 9878,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1154255190,
+            "node1": 134491,
+            "node2": 126671,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:47.186123",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métro",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004398"
+    }
+}

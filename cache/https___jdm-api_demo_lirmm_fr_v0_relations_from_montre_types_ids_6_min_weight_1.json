@@ -1,0 +1,664 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 14049831,
+            "name": "organisme vivant pluricellulaire hétérotrophe",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 45049,
+            "name": "montre",
+            "type": 1,
+            "w": 5426
+        },
+        {
+            "id": 246874,
+            "name": "objet>109527>139768",
+            "type": 1,
+            "w": 273
+        },
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1420
+        },
+        {
+            "id": 18843,
+            "name": "artefact",
+            "type": 1,
+            "w": 231
+        },
+        {
+            "id": 36899,
+            "name": "meuble",
+            "type": 1,
+            "w": 1884
+        },
+        {
+            "id": 3905,
+            "name": "durée",
+            "type": 1,
+            "w": 6859
+        },
+        {
+            "id": 139536,
+            "name": "contrôle",
+            "type": 1,
+            "w": 11300
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12888
+        },
+        {
+            "id": 14049844,
+            "name": "organisme vivant hétérotrophe",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 244371,
+            "name": "bijou>48961",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 286465,
+            "name": "appareil électronique",
+            "type": 777,
+            "w": 71
+        },
+        {
+            "id": 141387,
+            "name": "espace",
+            "type": 1,
+            "w": 16605
+        },
+        {
+            "id": 15238007,
+            "name": "en:fashion accessory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 112684,
+            "name": "montre-bracelet",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 267532,
+            "name": "objet manufacturé",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 112929,
+            "name": "action",
+            "type": 1,
+            "w": 17492
+        },
+        {
+            "id": 188699367,
+            "name": "objet utile",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 6605,
+            "name": "instrument",
+            "type": 1,
+            "w": 5646
+        },
+        {
+            "id": 5425,
+            "name": "machine",
+            "type": 1,
+            "w": 7832
+        },
+        {
+            "id": 170155,
+            "name": "jeu d'orgue",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9528
+        },
+        {
+            "id": 240249,
+            "name": "accessoire>237",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 3304283,
+            "name": "objet de tous les jours",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15427475,
+            "name": "en:measuring tool",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 25906320,
+            "name": "passage en revue",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 14049840,
+            "name": "organisme vivant pluricellulaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 109527,
+            "name": "chose",
+            "type": 1,
+            "w": 36831
+        },
+        {
+            "id": 48520,
+            "name": "chronographe",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 229345,
+            "name": "objet ancien",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 214710,
+            "name": "accessoire de mode",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5249
+        },
+        {
+            "id": 14921191,
+            "name": "en:artefact",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14606397,
+            "name": "organisme hétérotrophe",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 112587,
+            "name": "revue",
+            "type": 1,
+            "w": 4334
+        },
+        {
+            "id": 122299,
+            "name": "accessoire",
+            "type": 1,
+            "w": 1045
+        },
+        {
+            "id": 252851,
+            "name": "contrôle>133889",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 298969932,
+            "name": "instrument de mesure du temps",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 14432903,
+            "name": "Accessoire de mode",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 227040,
+            "name": "instrument>34933",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15082459,
+            "name": "en:electronic device",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 48961,
+            "name": "parure",
+            "type": 1,
+            "w": 282
+        },
+        {
+            "id": 257758,
+            "name": "objet de luxe",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 53205,
+            "name": "objet de collection",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 139768,
+            "name": "artéfact",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 151959,
+            "name": "instrument de mesure",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 227036,
+            "name": "instrument>30843",
+            "type": 1,
+            "w": 55
+        }
+    ],
+    "relations": [
+        {
+            "id": 3098627,
+            "node1": 45049,
+            "node2": 237,
+            "type": 6,
+            "w": 206.0
+        },
+        {
+            "id": 9899531,
+            "node1": 45049,
+            "node2": 3905,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 1127192082,
+            "node1": 45049,
+            "node2": 5425,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 626157,
+            "node1": 45049,
+            "node2": 6605,
+            "type": 6,
+            "w": 163.0
+        },
+        {
+            "id": 626158,
+            "node1": 45049,
+            "node2": 16912,
+            "type": 6,
+            "w": 148.0
+        },
+        {
+            "id": 9006011,
+            "node1": 45049,
+            "node2": 18843,
+            "type": 6,
+            "w": 193.0
+        },
+        {
+            "id": 496852712,
+            "node1": 45049,
+            "node2": 36899,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 796585091,
+            "node1": 45049,
+            "node2": 48520,
+            "type": 6,
+            "w": 20.0
+        },
+        {
+            "id": 13008391,
+            "node1": 45049,
+            "node2": 48961,
+            "type": 6,
+            "w": 238.0
+        },
+        {
+            "id": 958900269,
+            "node1": 45049,
+            "node2": 53205,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 9006014,
+            "node1": 45049,
+            "node2": 109527,
+            "type": 6,
+            "w": 178.0
+        },
+        {
+            "id": 271850465,
+            "node1": 45049,
+            "node2": 112587,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 796585089,
+            "node1": 45049,
+            "node2": 112684,
+            "type": 6,
+            "w": 20.0
+        },
+        {
+            "id": 78604800,
+            "node1": 45049,
+            "node2": 112929,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 9006015,
+            "node1": 45049,
+            "node2": 122299,
+            "type": 6,
+            "w": 238.0
+        },
+        {
+            "id": 629462,
+            "node1": 45049,
+            "node2": 135190,
+            "type": 6,
+            "w": 60.0
+        },
+        {
+            "id": 1127192081,
+            "node1": 45049,
+            "node2": 135936,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 496807705,
+            "node1": 45049,
+            "node2": 139536,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 3138335,
+            "node1": 45049,
+            "node2": 139768,
+            "type": 6,
+            "w": 176.0
+        },
+        {
+            "id": 496852713,
+            "node1": 45049,
+            "node2": 141387,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 117444865,
+            "node1": 45049,
+            "node2": 151959,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 268732544,
+            "node1": 45049,
+            "node2": 170155,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 13008392,
+            "node1": 45049,
+            "node2": 214710,
+            "type": 6,
+            "w": 268.0
+        },
+        {
+            "id": 96738935,
+            "node1": 45049,
+            "node2": 227036,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 13028748,
+            "node1": 45049,
+            "node2": 227040,
+            "type": 6,
+            "w": 218.0
+        },
+        {
+            "id": 9906825,
+            "node1": 45049,
+            "node2": 229345,
+            "type": 6,
+            "w": 65.0
+        },
+        {
+            "id": 9020553,
+            "node1": 45049,
+            "node2": 240249,
+            "type": 6,
+            "w": 187.0
+        },
+        {
+            "id": 9020550,
+            "node1": 45049,
+            "node2": 244371,
+            "type": 6,
+            "w": 137.0
+        },
+        {
+            "id": 9020554,
+            "node1": 45049,
+            "node2": 246870,
+            "type": 6,
+            "w": 255.0
+        },
+        {
+            "id": 13008393,
+            "node1": 45049,
+            "node2": 246874,
+            "type": 6,
+            "w": 124.0
+        },
+        {
+            "id": 496807715,
+            "node1": 45049,
+            "node2": 252851,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 9926883,
+            "node1": 45049,
+            "node2": 257758,
+            "type": 6,
+            "w": 149.0
+        },
+        {
+            "id": 13028749,
+            "node1": 45049,
+            "node2": 267532,
+            "type": 6,
+            "w": 218.0
+        },
+        {
+            "id": 76699837,
+            "node1": 45049,
+            "node2": 286465,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 83916091,
+            "node1": 45049,
+            "node2": 316850,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 82840829,
+            "node1": 45049,
+            "node2": 3304283,
+            "type": 6,
+            "w": 73.0
+        },
+        {
+            "id": 357080689,
+            "node1": 45049,
+            "node2": 14049831,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 357245469,
+            "node1": 45049,
+            "node2": 14049840,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 359458651,
+            "node1": 45049,
+            "node2": 14049844,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 376430558,
+            "node1": 45049,
+            "node2": 14432903,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 765911072,
+            "node1": 45049,
+            "node2": 14606397,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 391384884,
+            "node1": 45049,
+            "node2": 14921191,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 539581633,
+            "node1": 45049,
+            "node2": 15082459,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 598741918,
+            "node1": 45049,
+            "node2": 15238007,
+            "type": 6,
+            "w": 42.0
+        },
+        {
+            "id": 603759004,
+            "node1": 45049,
+            "node2": 15427475,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 496807719,
+            "node1": 45049,
+            "node2": 25906320,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 987830035,
+            "node1": 45049,
+            "node2": 188699367,
+            "type": 6,
+            "w": 70.0
+        },
+        {
+            "id": 794485171,
+            "node1": 45049,
+            "node2": 298969932,
+            "type": 6,
+            "w": 246.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:27.309396",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "montre",
+        "#relations": 48,
+        "max_relation_weight": 268.0,
+        "#nodes": 49,
+        "duration": "0:00:00.054004"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 146097,
+            "name": "légèreté",
+            "type": 1,
+            "w": 386
+        },
+        {
+            "id": 143249,
+            "name": "paille",
+            "type": 1,
+            "w": 674
+        }
+    ],
+    "relations": [
+        {
+            "id": 765217972,
+            "node1": 143249,
+            "node2": 146097,
+            "type": 153,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:01.186525",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "paille",
+        "#relations": 1,
+        "max_relation_weight": 28.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003181"
+    }
+}

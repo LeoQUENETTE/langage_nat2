@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 55034,
+            "name": "clitoris",
+            "type": 1,
+            "w": 337
+        },
+        {
+            "id": 105041,
+            "name": "narine",
+            "type": 1,
+            "w": 607
+        },
+        {
+            "id": 42001,
+            "name": "bébé",
+            "type": 1,
+            "w": 5490
+        },
+        {
+            "id": 144791,
+            "name": "duvet",
+            "type": 1,
+            "w": 499
+        },
+        {
+            "id": 15254310,
+            "name": "en:membrum muliebre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15254311,
+            "name": "en:nympha of krause",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15254312,
+            "name": "en:coles feminus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6872508,
+            "name": "en:clitoris",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 260012,
+            "name": "petit kiki",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 38753,
+            "name": "clito",
+            "type": 1,
+            "w": 72
+        }
+    ],
+    "relations": [
+        {
+            "id": 92618806,
+            "node1": 42001,
+            "node2": 38753,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 13098227,
+            "node1": 42001,
+            "node2": 55034,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 13099481,
+            "node1": 42001,
+            "node2": 105041,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 13099623,
+            "node1": 42001,
+            "node2": 144791,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11329121,
+            "node1": 42001,
+            "node2": 260012,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 375979700,
+            "node1": 42001,
+            "node2": 6872508,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 540792908,
+            "node1": 42001,
+            "node2": 15254310,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 635065334,
+            "node1": 42001,
+            "node2": 15254311,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 635065305,
+            "node1": 42001,
+            "node2": 15254312,
+            "type": 28,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:11.472245",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bébé",
+        "#relations": 9,
+        "max_relation_weight": 39.0,
+        "#nodes": 10,
+        "duration": "0:00:00.014101"
+    }
+}

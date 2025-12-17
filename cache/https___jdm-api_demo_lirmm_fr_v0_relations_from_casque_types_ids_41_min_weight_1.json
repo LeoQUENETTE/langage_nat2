@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 141473,
+            "name": "casque",
+            "type": 1,
+            "w": 1303
+        },
+        {
+            "id": 102633,
+            "name": "soldat",
+            "type": 1,
+            "w": 6034
+        },
+        {
+            "id": 146050,
+            "name": "militaire",
+            "type": 1,
+            "w": 8020
+        },
+        {
+            "id": 121505,
+            "name": "écouter",
+            "type": 1,
+            "w": 8850
+        },
+        {
+            "id": 68620,
+            "name": "moto",
+            "type": 1,
+            "w": 2716
+        },
+        {
+            "id": 114455,
+            "name": "protéger",
+            "type": 1,
+            "w": 9496
+        },
+        {
+            "id": 63471,
+            "name": "protection",
+            "type": 1,
+            "w": 15223
+        },
+        {
+            "id": 52598,
+            "name": "chantier",
+            "type": 1,
+            "w": 2207
+        }
+    ],
+    "relations": [
+        {
+            "id": 1972599,
+            "node1": 141473,
+            "node2": 52598,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 1690524,
+            "node1": 141473,
+            "node2": 63471,
+            "type": 41,
+            "w": 190.0
+        },
+        {
+            "id": 1972600,
+            "node1": 141473,
+            "node2": 68620,
+            "type": 41,
+            "w": 73.0
+        },
+        {
+            "id": 1972598,
+            "node1": 141473,
+            "node2": 102633,
+            "type": 41,
+            "w": 72.0
+        },
+        {
+            "id": 1690525,
+            "node1": 141473,
+            "node2": 114455,
+            "type": 41,
+            "w": 120.0
+        },
+        {
+            "id": 1690523,
+            "node1": 141473,
+            "node2": 121505,
+            "type": 41,
+            "w": 110.0
+        },
+        {
+            "id": 1972601,
+            "node1": 141473,
+            "node2": 146050,
+            "type": 41,
+            "w": 71.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:29.896190",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "casque",
+        "#relations": 7,
+        "max_relation_weight": 190.0,
+        "#nodes": 8,
+        "duration": "0:00:00.004662"
+    }
+}

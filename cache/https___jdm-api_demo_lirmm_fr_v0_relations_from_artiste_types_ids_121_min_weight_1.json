@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 146056364,
+            "name": "matériel artistique",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 24934,
+            "name": "pinceaux",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 156196,
+            "name": "propriété intellectuelle",
+            "type": 1,
+            "w": 750
+        },
+        {
+            "id": 136955,
+            "name": "droits d'auteur",
+            "type": 1,
+            "w": 723
+        },
+        {
+            "id": 68976,
+            "name": "instruments de musique",
+            "type": 1,
+            "w": 137
+        },
+        {
+            "id": 316890696,
+            "name": "collection d'outils",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 41822,
+            "name": "discographie",
+            "type": 1,
+            "w": 171
+        },
+        {
+            "id": 79400,
+            "name": "pinceau",
+            "type": 1,
+            "w": 1351
+        },
+        {
+            "id": 73457,
+            "name": "artiste",
+            "type": 1,
+            "w": 6039
+        },
+        {
+            "id": 107902,
+            "name": "chanson",
+            "type": 1,
+            "w": 5596
+        },
+        {
+            "id": 57565,
+            "name": "crayon",
+            "type": 1,
+            "w": 2242
+        },
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5529
+        },
+        {
+            "id": 142914,
+            "name": "image",
+            "type": 1,
+            "w": 11657
+        },
+        {
+            "id": 145738,
+            "name": "atelier",
+            "type": 1,
+            "w": 2066
+        },
+        {
+            "id": 75003,
+            "name": "tableau",
+            "type": 1,
+            "w": 5407
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4267
+        },
+        {
+            "id": 236321920,
+            "name": "signature unique",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 184673398,
+            "name": "performance en direct",
+            "type": 1,
+            "w": 26
+        }
+    ],
+    "relations": [
+        {
+            "id": 1035088935,
+            "node1": 73457,
+            "node2": 24934,
+            "type": 121,
+            "w": 43.0
+        },
+        {
+            "id": 1150463692,
+            "node1": 73457,
+            "node2": 41822,
+            "type": 121,
+            "w": 39.0
+        },
+        {
+            "id": 641953604,
+            "node1": 73457,
+            "node2": 57565,
+            "type": 121,
+            "w": 15.0
+        },
+        {
+            "id": 1066129799,
+            "node1": 73457,
+            "node2": 68976,
+            "type": 121,
+            "w": 36.0
+        },
+        {
+            "id": 1133317779,
+            "node1": 73457,
+            "node2": 75003,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1008166327,
+            "node1": 73457,
+            "node2": 79400,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 1028354136,
+            "node1": 73457,
+            "node2": 107902,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 1028354159,
+            "node1": 73457,
+            "node2": 113672,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 770907506,
+            "node1": 73457,
+            "node2": 136955,
+            "type": 121,
+            "w": 52.0
+        },
+        {
+            "id": 1150463696,
+            "node1": 73457,
+            "node2": 142914,
+            "type": 121,
+            "w": 39.0
+        },
+        {
+            "id": 1046569687,
+            "node1": 73457,
+            "node2": 144938,
+            "type": 121,
+            "w": 21.0
+        },
+        {
+            "id": 770327188,
+            "node1": 73457,
+            "node2": 145738,
+            "type": 121,
+            "w": 52.0
+        },
+        {
+            "id": 818929918,
+            "node1": 73457,
+            "node2": 156196,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 998837892,
+            "node1": 73457,
+            "node2": 146056364,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 1141879835,
+            "node1": 73457,
+            "node2": 184673398,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 980938025,
+            "node1": 73457,
+            "node2": 236321920,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 959382141,
+            "node1": 73457,
+            "node2": 316890696,
+            "type": 121,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:56.690781",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "artiste",
+        "#relations": 17,
+        "max_relation_weight": 52.0,
+        "#nodes": 18,
+        "duration": "0:00:00.009278"
+    }
+}

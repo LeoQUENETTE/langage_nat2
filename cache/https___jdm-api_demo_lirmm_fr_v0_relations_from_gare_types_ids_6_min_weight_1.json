@@ -1,0 +1,365 @@
+{
+    "nodes": [
+        {
+            "id": 35035,
+            "name": "gare",
+            "type": 1,
+            "w": 3496
+        },
+        {
+            "id": 14475460,
+            "name": "Espace public",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 214224,
+            "name": "bâtiment>55137",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 88318,
+            "name": "mise en garde",
+            "type": 1,
+            "w": 168
+        },
+        {
+            "id": 222192,
+            "name": "espace public",
+            "type": 1,
+            "w": 1828
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 106081,
+            "name": "arrêt",
+            "type": 1,
+            "w": 3186
+        },
+        {
+            "id": 359144,
+            "name": "infrastructure de transport",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 6514,
+            "name": "avertissement",
+            "type": 1,
+            "w": 604
+        },
+        {
+            "id": 45109,
+            "name": "édifice",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 127210,
+            "name": "station",
+            "type": 1,
+            "w": 4889
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 65524,
+            "name": "bâtiment",
+            "type": 1,
+            "w": 4892
+        },
+        {
+            "id": 15074121,
+            "name": "en:bus terminal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 108939,
+            "name": "transit",
+            "type": 1,
+            "w": 289
+        },
+        {
+            "id": 239392,
+            "name": "lieu de rendez-vous",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 235123,
+            "name": "station de métro",
+            "type": 1,
+            "w": 381
+        },
+        {
+            "id": 122690,
+            "name": "routière",
+            "type": 1,
+            "w": 237
+        },
+        {
+            "id": 227612,
+            "name": "construction>45109",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 15359306,
+            "name": "en:termini",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15359307,
+            "name": "en:autobus terminal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13159886,
+            "name": "en:public place",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 159210,
+            "name": "lieu public",
+            "type": 1,
+            "w": 152
+        },
+        {
+            "id": 15223218,
+            "name": "en:public space",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15421992,
+            "name": "en:public sphere",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 244584,
+            "node1": 35035,
+            "node2": 6514,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 222235,
+            "node1": 35035,
+            "node2": 45109,
+            "type": 6,
+            "w": 72.0
+        },
+        {
+            "id": 222238,
+            "node1": 35035,
+            "node2": 65524,
+            "type": 6,
+            "w": 120.0
+        },
+        {
+            "id": 244585,
+            "node1": 35035,
+            "node2": 88318,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 2203330,
+            "node1": 35035,
+            "node2": 106081,
+            "type": 6,
+            "w": 107.0
+        },
+        {
+            "id": 273839,
+            "node1": 35035,
+            "node2": 108939,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 370328802,
+            "node1": 35035,
+            "node2": 122690,
+            "type": 6,
+            "w": 1.0
+        },
+        {
+            "id": 233014,
+            "node1": 35035,
+            "node2": 127210,
+            "type": 6,
+            "w": 128.0
+        },
+        {
+            "id": 205448,
+            "node1": 35035,
+            "node2": 134218,
+            "type": 6,
+            "w": 88.0
+        },
+        {
+            "id": 175517,
+            "node1": 35035,
+            "node2": 135190,
+            "type": 6,
+            "w": 66.0
+        },
+        {
+            "id": 766129510,
+            "node1": 35035,
+            "node2": 157283,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 240566,
+            "node1": 35035,
+            "node2": 159210,
+            "type": 6,
+            "w": 92.0
+        },
+        {
+            "id": 96700795,
+            "node1": 35035,
+            "node2": 214224,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 704613903,
+            "node1": 35035,
+            "node2": 222192,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 2518045,
+            "node1": 35035,
+            "node2": 227612,
+            "type": 6,
+            "w": 90.0
+        },
+        {
+            "id": 3220827,
+            "node1": 35035,
+            "node2": 235123,
+            "type": 6,
+            "w": 5.0
+        },
+        {
+            "id": 9909929,
+            "node1": 35035,
+            "node2": 239392,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 1155916477,
+            "node1": 35035,
+            "node2": 359144,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 604612189,
+            "node1": 35035,
+            "node2": 13159886,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 704721442,
+            "node1": 35035,
+            "node2": 14475460,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 612704877,
+            "node1": 35035,
+            "node2": 15074121,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 704722008,
+            "node1": 35035,
+            "node2": 15223218,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 612704871,
+            "node1": 35035,
+            "node2": 15359306,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 612704883,
+            "node1": 35035,
+            "node2": 15359307,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 704721991,
+            "node1": 35035,
+            "node2": 15421992,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:51.376202",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "gare",
+        "#relations": 25,
+        "max_relation_weight": 128.0,
+        "#nodes": 26,
+        "duration": "0:00:00.034009"
+    }
+}

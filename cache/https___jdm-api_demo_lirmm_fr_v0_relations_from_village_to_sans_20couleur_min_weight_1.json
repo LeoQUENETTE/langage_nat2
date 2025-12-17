@@ -1,0 +1,60 @@
+{
+    "nodes": [
+        {
+            "id": 87887,
+            "name": "village",
+            "type": 1,
+            "w": 7445,
+            "c": 0,
+            "level": 39.0616,
+            "infoid": null,
+            "creationdate": "2007-06-21",
+            "touchdate": "2025-12-16T20:19:25"
+        },
+        {
+            "id": 269561,
+            "name": "sans couleur",
+            "type": 1,
+            "w": 56,
+            "c": 0,
+            "level": 199.0,
+            "infoid": null,
+            "creationdate": "2013-07-23",
+            "touchdate": "2025-12-16T19:47:49"
+        }
+    ],
+    "relations": [
+        {
+            "id": 3154433,
+            "node1": 87887,
+            "node2": 269561,
+            "type": 106,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": null,
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:56.831342",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "node1": "village",
+        "node2": "sans couleur",
+        "#relations": 1,
+        "max_relation_weight": 4.0,
+        "duration": "0:00:00.004075"
+    }
+}

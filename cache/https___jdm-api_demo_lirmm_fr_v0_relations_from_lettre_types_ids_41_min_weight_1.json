@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 142231,
+            "name": "D",
+            "type": 1,
+            "w": 3863
+        },
+        {
+            "id": 15755101,
+            "name": "en:to become disenchanted",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 205374,
+            "name": "perdre ses illusions",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 15709225,
+            "name": "en:to become disillusioned",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15755102,
+            "name": "en:become disenchanted",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 233958,
+            "name": "émue",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 23557,
+            "name": "réponse",
+            "type": 1,
+            "w": 16128
+        },
+        {
+            "id": 145994,
+            "name": "lettre",
+            "type": 1,
+            "w": 14711
+        },
+        {
+            "id": 15382247,
+            "name": "en:become disillusioned",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 68574,
+            "name": "correspondance",
+            "type": 1,
+            "w": 3767
+        },
+        {
+            "id": 98268,
+            "name": "consonne",
+            "type": 1,
+            "w": 2707
+        },
+        {
+            "id": 139695,
+            "name": "J",
+            "type": 1,
+            "w": 3888
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156166153,
+            "node1": 145994,
+            "node2": 23557,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1156166163,
+            "node1": 145994,
+            "node2": 68574,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14657710,
+            "node1": 145994,
+            "node2": 98268,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14655130,
+            "node1": 145994,
+            "node2": 139695,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14650716,
+            "node1": 145994,
+            "node2": 142231,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 34682208,
+            "node1": 145994,
+            "node2": 205374,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 14649941,
+            "node1": 145994,
+            "node2": 233958,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 769585128,
+            "node1": 145994,
+            "node2": 15382247,
+            "type": 41,
+            "w": 3.0
+        },
+        {
+            "id": 1079368917,
+            "node1": 145994,
+            "node2": 15709225,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 769585155,
+            "node1": 145994,
+            "node2": 15755101,
+            "type": 41,
+            "w": 3.0
+        },
+        {
+            "id": 1079368957,
+            "node1": 145994,
+            "node2": 15755102,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:42.249937",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lettre",
+        "#relations": 11,
+        "max_relation_weight": 36.0,
+        "#nodes": 12,
+        "duration": "0:00:00.006928"
+    }
+}

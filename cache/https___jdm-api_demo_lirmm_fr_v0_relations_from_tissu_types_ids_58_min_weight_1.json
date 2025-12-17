@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 136935,
+            "name": "mètre",
+            "type": 1,
+            "w": 3007
+        },
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        }
+    ],
+    "relations": [
+        {
+            "id": 665112723,
+            "node1": 63936,
+            "node2": 136935,
+            "type": 58,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:29.545770",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tissu",
+        "#relations": 1,
+        "max_relation_weight": 35.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005081"
+    }
+}

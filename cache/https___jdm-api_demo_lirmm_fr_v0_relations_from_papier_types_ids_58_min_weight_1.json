@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 36852,
+            "name": "ramette",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 241816,
+            "name": "paquet>78869",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 18403,
+            "name": "paquet",
+            "type": 1,
+            "w": 1380
+        },
+        {
+            "id": 56608,
+            "name": "page",
+            "type": 1,
+            "w": 7597
+        },
+        {
+            "id": 103389,
+            "name": "papier",
+            "type": 1,
+            "w": 7597
+        },
+        {
+            "id": 37993,
+            "name": "feuille",
+            "type": 1,
+            "w": 5457
+        },
+        {
+            "id": 36004,
+            "name": "rame",
+            "type": 1,
+            "w": 346
+        },
+        {
+            "id": 217447,
+            "name": "page>155546",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 215773,
+            "name": "rame>155727",
+            "type": 1,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 98272025,
+            "node1": 103389,
+            "node2": 18403,
+            "type": 58,
+            "w": 21.0
+        },
+        {
+            "id": 98272014,
+            "node1": 103389,
+            "node2": 36004,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 98272015,
+            "node1": 103389,
+            "node2": 36852,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 665112729,
+            "node1": 103389,
+            "node2": 37993,
+            "type": 58,
+            "w": 40.0
+        },
+        {
+            "id": 1042422850,
+            "node1": 103389,
+            "node2": 56608,
+            "type": 58,
+            "w": 5.0
+        },
+        {
+            "id": 98272012,
+            "node1": 103389,
+            "node2": 215773,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 97133924,
+            "node1": 103389,
+            "node2": 217447,
+            "type": 58,
+            "w": 15.0
+        },
+        {
+            "id": 98272016,
+            "node1": 103389,
+            "node2": 241816,
+            "type": 58,
+            "w": 15.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:35.920673",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "papier",
+        "#relations": 8,
+        "max_relation_weight": 40.0,
+        "#nodes": 9,
+        "duration": "0:00:00.003602"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 100711,
+            "name": "drone",
+            "type": 1,
+            "w": 835
+        },
+        {
+            "id": 101661,
+            "name": "ingénieur",
+            "type": 1,
+            "w": 3255
+        },
+        {
+            "id": 299942050,
+            "name": "logiciel de prototypage",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 152267,
+            "name": "outils",
+            "type": 1,
+            "w": 7240
+        },
+        {
+            "id": 205626,
+            "name": "plan de vol",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 209867711,
+            "name": "outils de diagnostic",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 191607895,
+            "name": "logiciel de conception",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 235444,
+            "name": "station de travail",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 12875,
+            "name": "robot",
+            "type": 1,
+            "w": 2268
+        },
+        {
+            "id": 5520802,
+            "name": "logiciel de simulation",
+            "type": 1,
+            "w": 27
+        }
+    ],
+    "relations": [
+        {
+            "id": 1035329861,
+            "node1": 101661,
+            "node2": 12875,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1035329639,
+            "node1": 101661,
+            "node2": 100711,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1038385368,
+            "node1": 101661,
+            "node2": 152267,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 1020911376,
+            "node1": 101661,
+            "node2": 205626,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 768468482,
+            "node1": 101661,
+            "node2": 235444,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 770220855,
+            "node1": 101661,
+            "node2": 5520802,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 1040733887,
+            "node1": 101661,
+            "node2": 191607895,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1026441266,
+            "node1": 101661,
+            "node2": 209867711,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 815547997,
+            "node1": 101661,
+            "node2": 299942050,
+            "type": 121,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:36.270900",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ingénieur",
+        "#relations": 9,
+        "max_relation_weight": 33.0,
+        "#nodes": 10,
+        "duration": "0:00:00.008479"
+    }
+}

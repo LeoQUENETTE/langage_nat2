@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 210948909,
+            "name": "couleur d'encre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2782
+        },
+        {
+            "id": 16865,
+            "name": "longueur",
+            "type": 1,
+            "w": 4588
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137771,
+            "node1": 15509,
+            "node2": 16865,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179137772,
+            "node1": 15509,
+            "node2": 210948909,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:41.044213",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005459"
+    }
+}

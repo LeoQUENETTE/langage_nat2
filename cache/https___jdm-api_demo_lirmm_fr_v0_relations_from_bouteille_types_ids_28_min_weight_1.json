@@ -1,0 +1,3589 @@
+{
+    "nodes": [
+        {
+            "id": 139944,
+            "name": "côtes-du-rhône",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 225310,
+            "name": "lie de vin",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 14946513,
+            "name": "en:soda pop",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16837720,
+            "name": "en:source water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 599928,
+            "name": "coca>146881",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 97598,
+            "name": "modèle réduit",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 3159779,
+            "name": "Tequila Sunrise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 180880782,
+            "name": "olive oil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 113386,
+            "name": "mercure",
+            "type": 1,
+            "w": 1962
+        },
+        {
+            "id": 104863694,
+            "name": "Vin rouge",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 216256,
+            "name": "alcool>46728",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 14966985,
+            "name": "en:vin rosé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 128208,
+            "name": "vin rouge",
+            "type": 1,
+            "w": 693
+        },
+        {
+            "id": 237147,
+            "name": "jus de pamplemousse",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 15457926,
+            "name": "en:non-alcoholic beverage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14934354,
+            "name": "en:springwater",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15066530,
+            "name": "en:yoghurt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 167695,
+            "name": "Orangina",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 14934353,
+            "name": "en:spring-water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14934359,
+            "name": "en:fizzy water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1514989,
+            "name": "oxygène>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 69931,
+            "name": "coca",
+            "type": 1,
+            "w": 407
+        },
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2526
+        },
+        {
+            "id": 9244915,
+            "name": "gaz sous pression",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 142226,
+            "name": "gentil",
+            "type": 1,
+            "w": 1074
+        },
+        {
+            "id": 16137355,
+            "name": "en:Pepsi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 140986,
+            "name": "rosé",
+            "type": 1,
+            "w": 336
+        },
+        {
+            "id": 93768,
+            "name": "musc",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 25941,
+            "name": "pastis",
+            "type": 1,
+            "w": 314
+        },
+        {
+            "id": 101435162,
+            "name": "Tequila sunrise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 54034270,
+            "name": "en:Pepsi-Cola",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 110107,
+            "name": "opalescent",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 217116,
+            "name": "gaz>57625",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 94258936,
+            "name": "Huile d'olive",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 163353,
+            "name": "eau gazeuse",
+            "type": 1,
+            "w": 105
+        },
+        {
+            "id": 55975,
+            "name": "limonade",
+            "type": 1,
+            "w": 211
+        },
+        {
+            "id": 1483998,
+            "name": "gros rouge qui tache",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15415516,
+            "name": "en:coarse red wine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 255317457,
+            "name": "Lait pasteurisé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2120940,
+            "name": "rutilante",
+            "type": 2,
+            "w": 0
+        },
+        {
+            "id": 6935502,
+            "name": "en:orange juice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 86356,
+            "name": "rouge",
+            "type": 1,
+            "w": 10788
+        },
+        {
+            "id": 222431,
+            "name": "soupe aux légumes",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 186119369,
+            "name": "Carte en relief",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 165823339,
+            "name": "Jus de pamplemousse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 136559,
+            "name": "produit alimentaire",
+            "type": 1,
+            "w": 210
+        },
+        {
+            "id": 16316709,
+            "name": "un plan en relief",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2393173,
+            "name": "chardenai",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 230102,
+            "name": "cocacola",
+            "type": 666,
+            "w": 50
+        },
+        {
+            "id": 7049585,
+            "name": "en:cider",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123807186,
+            "name": "Thé glacé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9687,
+            "name": "oxygène",
+            "type": 1,
+            "w": 1448
+        },
+        {
+            "id": 7062604,
+            "name": "en:grapefruit juice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9773507,
+            "name": "en:tequila",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 84319,
+            "name": "frégate",
+            "type": 1,
+            "w": 387
+        },
+        {
+            "id": 15068779,
+            "name": "en:Chardonnay",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 189981,
+            "name": "ingrédient de cuisine",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 83653,
+            "name": "vodka",
+            "type": 1,
+            "w": 512
+        },
+        {
+            "id": 15359203,
+            "name": "en:article of food",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15199903,
+            "name": "en:carbonated drink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2559970,
+            "name": "wiskey",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 217708,
+            "name": "coca>138382",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 233056,
+            "name": "eau>389797>113547",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 27724,
+            "name": "vin blanc",
+            "type": 1,
+            "w": 636
+        },
+        {
+            "id": 15079399,
+            "name": "en:nail enamel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15451767,
+            "name": "en:plan-relief",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 28318,
+            "name": "orangeade",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 12410474,
+            "name": "en:varnish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15451766,
+            "name": "en:3D plan",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 138954,
+            "name": "huile d'olive",
+            "type": 1,
+            "w": 772
+        },
+        {
+            "id": 222062,
+            "name": "thé glacé",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 219249,
+            "name": "blonde>106797",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 12077630,
+            "name": "carte en relief",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 106797,
+            "name": "bière",
+            "type": 1,
+            "w": 2922
+        },
+        {
+            "id": 129154,
+            "name": "rhum",
+            "type": 1,
+            "w": 632
+        },
+        {
+            "id": 14967493,
+            "name": "en:whiskey",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104703993,
+            "name": "Ingrédient de cuisine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 239172,
+            "name": "yahourt",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 57266,
+            "name": "champagne",
+            "type": 1,
+            "w": 978
+        },
+        {
+            "id": 14964189,
+            "name": "en:tequila sunrise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 35633,
+            "name": "eau-de-vie",
+            "type": 1,
+            "w": 304
+        },
+        {
+            "id": 145540,
+            "name": "armagnac",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 31056,
+            "name": "Fanta",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 227591,
+            "name": "soupe>93138",
+            "type": 1,
+            "w": 234
+        },
+        {
+            "id": 33452258,
+            "name": "en:also pasteurised milk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 127794,
+            "name": "bougie",
+            "type": 1,
+            "w": 1020
+        },
+        {
+            "id": 125186157,
+            "name": "Eau de source",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 57625,
+            "name": "fluide",
+            "type": 1,
+            "w": 2198
+        },
+        {
+            "id": 145443,
+            "name": "vinaigre",
+            "type": 1,
+            "w": 571
+        },
+        {
+            "id": 108150,
+            "name": "contenu",
+            "type": 1,
+            "w": 10080
+        },
+        {
+            "id": 93528,
+            "name": "raisin",
+            "type": 1,
+            "w": 1415
+        },
+        {
+            "id": 7049645,
+            "name": "en:red wine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 233054,
+            "name": "eau>389797",
+            "type": 1,
+            "w": 340
+        },
+        {
+            "id": 165364,
+            "name": "eau pétillante",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 218051,
+            "name": "boisson>103255",
+            "type": 1,
+            "w": 458
+        },
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6157
+        },
+        {
+            "id": 107150,
+            "name": "bateau",
+            "type": 1,
+            "w": 7792
+        },
+        {
+            "id": 15196,
+            "name": "blanc",
+            "type": 1,
+            "w": 12786
+        },
+        {
+            "id": 145718,
+            "name": "brune",
+            "type": 1,
+            "w": 1207
+        },
+        {
+            "id": 91109,
+            "name": "sirop",
+            "type": 1,
+            "w": 871
+        },
+        {
+            "id": 47597,
+            "name": "alcool",
+            "type": 1,
+            "w": 5941
+        },
+        {
+            "id": 135068,
+            "name": "apéritif",
+            "type": 1,
+            "w": 1298
+        },
+        {
+            "id": 78365,
+            "name": "gaz",
+            "type": 1,
+            "w": 6940
+        },
+        {
+            "id": 161686,
+            "name": "boisson gazeuse",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 65012,
+            "name": "eau",
+            "type": 1,
+            "w": 39833
+        },
+        {
+            "id": 86296,
+            "name": "lait",
+            "type": 1,
+            "w": 4802
+        },
+        {
+            "id": 7251423,
+            "name": "en:food product",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143378,
+            "name": "thé",
+            "type": 1,
+            "w": 2880
+        },
+        {
+            "id": 146105,
+            "name": "mer",
+            "type": 1,
+            "w": 47350
+        },
+        {
+            "id": 14947761,
+            "name": "en:scale model",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15261203,
+            "name": "en:relief map",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 113547,
+            "name": "boisson",
+            "type": 1,
+            "w": 4669
+        },
+        {
+            "id": 47740,
+            "name": "vinaigrette",
+            "type": 1,
+            "w": 356
+        },
+        {
+            "id": 53310,
+            "name": "jus",
+            "type": 1,
+            "w": 1538
+        },
+        {
+            "id": 35798,
+            "name": "vin",
+            "type": 1,
+            "w": 8031
+        },
+        {
+            "id": 152663,
+            "name": "jus d'orange",
+            "type": 1,
+            "w": 175
+        },
+        {
+            "id": 51253,
+            "name": "message",
+            "type": 1,
+            "w": 8158
+        },
+        {
+            "id": 145994,
+            "name": "lettre",
+            "type": 1,
+            "w": 14711
+        },
+        {
+            "id": 141971,
+            "name": "huile",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 140315,
+            "name": "liquide",
+            "type": 1,
+            "w": 3688
+        },
+        {
+            "id": 32667,
+            "name": "produit",
+            "type": 1,
+            "w": 9476
+        },
+        {
+            "id": 14952090,
+            "name": "en:orangeade",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420409,
+            "name": "en:ice tea",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14927827,
+            "name": "en:Chianti",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14934356,
+            "name": "en:brandywine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15306566,
+            "name": "en:mockup",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 247740,
+            "name": "vinaigre de vin blanc",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15686452,
+            "name": "boisson gazeuse non alcoolisée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 55135,
+            "name": "blonde",
+            "type": 1,
+            "w": 1554
+        },
+        {
+            "id": 7049039,
+            "name": "en:whisky",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 308072,
+            "name": "ice tea",
+            "type": 777,
+            "w": 56
+        },
+        {
+            "id": 6935484,
+            "name": "en:olive oil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 370854,
+            "name": "plan en relief",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 3747313,
+            "name": "yogurt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15083905,
+            "name": "en:soft drink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 343941,
+            "name": "cidre bouché",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 15267574,
+            "name": "en:sparkling cider",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1514988,
+            "name": "oxygène>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9773505,
+            "name": "en:schnapps",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 438953,
+            "name": "crème>171869",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 7305896,
+            "name": "en:yogurt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3759497,
+            "name": "Coca Cola",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 157792,
+            "name": "vernis à ongles",
+            "type": 1,
+            "w": 168
+        },
+        {
+            "id": 255097,
+            "name": "boisson sans alcool",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 152715,
+            "name": "pepsi",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 14422,
+            "name": "médoc",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 14726247,
+            "name": "gentil>35798",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215875,
+            "name": "médoc>35798",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 120878,
+            "name": "chianti",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 6628,
+            "name": "cognac",
+            "type": 1,
+            "w": 146
+        },
+        {
+            "id": 51961,
+            "name": "porto",
+            "type": 1,
+            "w": 179
+        },
+        {
+            "id": 14940971,
+            "name": "en:plonk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63221,
+            "name": "brandy",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 2539752,
+            "name": "côtes-du-Rhône",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4182086,
+            "name": "est-est-est",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 54780,
+            "name": "chardonnay",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 158322,
+            "name": "jus de fruits",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 23695,
+            "name": "sos",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 15198337,
+            "name": "produit d'alimentation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3346527,
+            "name": "E944",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6961220,
+            "name": "en:propane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216229,
+            "name": "bougie>48511",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 7048899,
+            "name": "en:vodka",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 161817,
+            "name": "eau de vie",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 3762435,
+            "name": "ingrédient de recette de cuisine",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 131118792,
+            "name": "Modèle réduit",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 1292,
+            "name": "gin",
+            "type": 1,
+            "w": 151
+        },
+        {
+            "id": 11426,
+            "name": "roussette",
+            "type": 1,
+            "w": 89
+        },
+        {
+            "id": 105816352,
+            "name": "Vin blanc",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 6661,
+            "name": "schnaps",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 28204,
+            "name": "moirage",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 71275,
+            "name": "piquette",
+            "type": 1,
+            "w": 116
+        },
+        {
+            "id": 85540,
+            "name": "miroitement",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 141749,
+            "name": "saint-pierre",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 160745,
+            "name": "soupe de légumes",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 162905,
+            "name": "Coca cola",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 163399,
+            "name": "coca cola",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 166350,
+            "name": "téquila",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 171787,
+            "name": "whiskey",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 171775,
+            "name": "pálinka",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 182174,
+            "name": "eau de source",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 214541,
+            "name": "thé>113547",
+            "type": 1,
+            "w": 270
+        },
+        {
+            "id": 216276,
+            "name": "rosé>35798",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 239851,
+            "name": "boisson non alcoolisée",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 247439,
+            "name": "Cynar",
+            "type": 666,
+            "w": 51
+        },
+        {
+            "id": 260450,
+            "name": "lait pasteurisé",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 26418,
+            "name": "jus de fruit",
+            "type": 1,
+            "w": 334
+        },
+        {
+            "id": 15260540,
+            "name": "en:iced tea",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 14936757,
+            "name": "en:sparkling",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 117152,
+            "name": "soupe",
+            "type": 1,
+            "w": 2193
+        },
+        {
+            "id": 676880,
+            "name": "champagne>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8068437,
+            "name": "en:white wine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 103242,
+            "name": "tequila",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 5798472,
+            "name": "cider",
+            "type": 777,
+            "w": 62
+        },
+        {
+            "id": 5802073,
+            "name": "Eau de Vie",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 70094,
+            "name": "yoghourt",
+            "type": 1,
+            "w": 168
+        },
+        {
+            "id": 6825807,
+            "name": "en:carbonated water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 217940,
+            "name": "pastaga",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6967593,
+            "name": "en:vinegar",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7049592,
+            "name": "en:nonalcoholic beverage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 133813,
+            "name": "essence",
+            "type": 1,
+            "w": 4012
+        },
+        {
+            "id": 75142,
+            "name": "cidre",
+            "type": 1,
+            "w": 299
+        },
+        {
+            "id": 7592871,
+            "name": "en:fruit juice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 44001,
+            "name": "crème",
+            "type": 1,
+            "w": 2588
+        },
+        {
+            "id": 599927,
+            "name": "coca>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8515526,
+            "name": "en:lacquer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 239780,
+            "name": "boisson froide",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 216495,
+            "name": "bière>113547",
+            "type": 1,
+            "w": 280
+        },
+        {
+            "id": 8652228,
+            "name": "en:gin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9773627,
+            "name": "en:pink wine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9773499,
+            "name": "en:brandy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9773603,
+            "name": "en:cognac",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 117423,
+            "name": "bouteille",
+            "type": 1,
+            "w": 2891
+        },
+        {
+            "id": 10672363,
+            "name": "Cidre",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 153367,
+            "name": "Pepsi",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 28340,
+            "name": "Coca-Cola",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 171783,
+            "name": "tequila sunrise",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 212818,
+            "name": "rhum blanc",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 14934360,
+            "name": "en:sparkling water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14945643,
+            "name": "en:pasteurised milk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15069833,
+            "name": "en:pasteurized milk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15078789,
+            "name": "en:vegetable soup",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15199905,
+            "name": "boisson rafraîchissante",
+            "type": 1,
+            "w": 43
+        },
+        {
+            "id": 15199902,
+            "name": "en:fizzy drink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15228048,
+            "name": "potage aux légumes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15230023,
+            "name": "en:rosé wine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15239369,
+            "name": "en:nail lacquer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15239370,
+            "name": "en:nail color",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15251928,
+            "name": "en:fruit jus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15289000,
+            "name": "en:a soft drink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15288999,
+            "name": "une boisson non alcoolisée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15304927,
+            "name": "en:fruit brandy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15305317,
+            "name": "en:nail colour",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15334069,
+            "name": "en:aerated water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15417783,
+            "name": "en:alcohol-free drink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15498863,
+            "name": "en:shimmering",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15686520,
+            "name": "boisson gazeuse alcoolisée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16134159,
+            "name": "en:rosÉ wine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 75336115,
+            "name": "en:eau de vie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94267723,
+            "name": "Vernis à ongles",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 99580527,
+            "name": "Jus d'orange",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 107887872,
+            "name": "Eau gazeuse",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 134879668,
+            "name": "Jus de fruits",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 121129,
+            "name": "bouchon",
+            "type": 1,
+            "w": 667
+        },
+        {
+            "id": 155923,
+            "name": "vin rosé",
+            "type": 1,
+            "w": 127
+        },
+        {
+            "id": 141182,
+            "name": "propane",
+            "type": 1,
+            "w": 357
+        },
+        {
+            "id": 41224,
+            "name": "transparent",
+            "type": 1,
+            "w": 1031
+        },
+        {
+            "id": 216722,
+            "name": "rouge>128208",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 17090,
+            "name": "lie",
+            "type": 1,
+            "w": 1862
+        },
+        {
+            "id": 127016,
+            "name": "poison",
+            "type": 1,
+            "w": 1337
+        },
+        {
+            "id": 302161076,
+            "name": "Tequila Sunrise>132548",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 218057,
+            "name": "lait>114637",
+            "type": 1,
+            "w": 304
+        },
+        {
+            "id": 83708,
+            "name": "yogourt",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 82320,
+            "name": "yaourt",
+            "type": 1,
+            "w": 1064
+        },
+        {
+            "id": 2478033,
+            "name": "yoghourth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14967618,
+            "name": "en:yoghourt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216254,
+            "name": "alcool>216253",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 216255,
+            "name": "alcool>155326",
+            "type": 1,
+            "w": 384
+        },
+        {
+            "id": 136742,
+            "name": "eau minérale",
+            "type": 1,
+            "w": 177
+        },
+        {
+            "id": 44287,
+            "name": "whisky",
+            "type": 1,
+            "w": 479
+        },
+        {
+            "id": 18777,
+            "name": "bulle",
+            "type": 1,
+            "w": 1864
+        },
+        {
+            "id": 73848,
+            "name": "miroitant",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 138382,
+            "name": "coca-cola",
+            "type": 1,
+            "w": 205
+        },
+        {
+            "id": 63865,
+            "name": "dépôt",
+            "type": 1,
+            "w": 2553
+        },
+        {
+            "id": 4220703,
+            "name": "rum",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 146025,
+            "name": "air",
+            "type": 1,
+            "w": 24388
+        },
+        {
+            "id": 157791,
+            "name": "vernis à ongle",
+            "type": 1,
+            "w": 148
+        },
+        {
+            "id": 14966702,
+            "name": "en:nail varnish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15239368,
+            "name": "en:nail Polish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9253049,
+            "name": "en:nail polish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 253,
+            "name": "soda",
+            "type": 1,
+            "w": 802
+        },
+        {
+            "id": 106006415,
+            "name": "Vin rosé",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 2490370,
+            "name": "chardenet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 107887871,
+            "name": "Boisson gazeuse",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 156166,
+            "node1": 117423,
+            "node2": 253,
+            "type": 28,
+            "w": 258.0
+        },
+        {
+            "id": 2481879,
+            "node1": 117423,
+            "node2": 1292,
+            "type": 28,
+            "w": 80.0
+        },
+        {
+            "id": 3195131,
+            "node1": 117423,
+            "node2": 6628,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 937854678,
+            "node1": 117423,
+            "node2": 6661,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 169114,
+            "node1": 117423,
+            "node2": 9687,
+            "type": 28,
+            "w": 98.0
+        },
+        {
+            "id": 11314088,
+            "node1": 117423,
+            "node2": 11426,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104939935,
+            "node1": 117423,
+            "node2": 14422,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 372643,
+            "node1": 117423,
+            "node2": 15196,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 96926038,
+            "node1": 117423,
+            "node2": 17090,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1042417308,
+            "node1": 117423,
+            "node2": 18777,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 2319893,
+            "node1": 117423,
+            "node2": 23695,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 254458,
+            "node1": 117423,
+            "node2": 25941,
+            "type": 28,
+            "w": 118.0
+        },
+        {
+            "id": 158096,
+            "node1": 117423,
+            "node2": 26418,
+            "type": 28,
+            "w": 248.0
+        },
+        {
+            "id": 2481877,
+            "node1": 117423,
+            "node2": 27724,
+            "type": 28,
+            "w": 99.0
+        },
+        {
+            "id": 824742887,
+            "node1": 117423,
+            "node2": 28204,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 11327621,
+            "node1": 117423,
+            "node2": 28318,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11325948,
+            "node1": 117423,
+            "node2": 28340,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11327051,
+            "node1": 117423,
+            "node2": 31056,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 372642,
+            "node1": 117423,
+            "node2": 32667,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 96926028,
+            "node1": 117423,
+            "node2": 35633,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 156171,
+            "node1": 117423,
+            "node2": 35798,
+            "type": 28,
+            "w": 899.0
+        },
+        {
+            "id": 11345851,
+            "node1": 117423,
+            "node2": 41224,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 13099873,
+            "node1": 117423,
+            "node2": 44001,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 254459,
+            "node1": 117423,
+            "node2": 44287,
+            "type": 28,
+            "w": 160.0
+        },
+        {
+            "id": 156170,
+            "node1": 117423,
+            "node2": 47597,
+            "type": 28,
+            "w": 588.0
+        },
+        {
+            "id": 96926029,
+            "node1": 117423,
+            "node2": 47740,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 169112,
+            "node1": 117423,
+            "node2": 51253,
+            "type": 28,
+            "w": 219.0
+        },
+        {
+            "id": 9076330,
+            "node1": 117423,
+            "node2": 51961,
+            "type": 28,
+            "w": 80.0
+        },
+        {
+            "id": 3195129,
+            "node1": 117423,
+            "node2": 53310,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11333645,
+            "node1": 117423,
+            "node2": 54780,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104940388,
+            "node1": 117423,
+            "node2": 55135,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 156164,
+            "node1": 117423,
+            "node2": 55249,
+            "type": 28,
+            "w": 188.0
+        },
+        {
+            "id": 260618,
+            "node1": 117423,
+            "node2": 55975,
+            "type": 28,
+            "w": 130.0
+        },
+        {
+            "id": 173219,
+            "node1": 117423,
+            "node2": 57266,
+            "type": 28,
+            "w": 389.0
+        },
+        {
+            "id": 96926030,
+            "node1": 117423,
+            "node2": 57625,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 585212365,
+            "node1": 117423,
+            "node2": 63221,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 96926039,
+            "node1": 117423,
+            "node2": 63865,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 156172,
+            "node1": 117423,
+            "node2": 65012,
+            "type": 28,
+            "w": 908.0
+        },
+        {
+            "id": 213703,
+            "node1": 117423,
+            "node2": 69931,
+            "type": 28,
+            "w": 99.0
+        },
+        {
+            "id": 13559203,
+            "node1": 117423,
+            "node2": 70094,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 96926018,
+            "node1": 117423,
+            "node2": 71275,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 738348554,
+            "node1": 117423,
+            "node2": 73848,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 277169,
+            "node1": 117423,
+            "node2": 75142,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 198841,
+            "node1": 117423,
+            "node2": 78365,
+            "type": 28,
+            "w": 88.0
+        },
+        {
+            "id": 13098184,
+            "node1": 117423,
+            "node2": 82320,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 2290241,
+            "node1": 117423,
+            "node2": 83653,
+            "type": 28,
+            "w": 110.0
+        },
+        {
+            "id": 13559083,
+            "node1": 117423,
+            "node2": 83708,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 11338139,
+            "node1": 117423,
+            "node2": 84319,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 824740465,
+            "node1": 117423,
+            "node2": 85540,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 191785,
+            "node1": 117423,
+            "node2": 86296,
+            "type": 28,
+            "w": 199.0
+        },
+        {
+            "id": 372645,
+            "node1": 117423,
+            "node2": 86356,
+            "type": 28,
+            "w": 88.0
+        },
+        {
+            "id": 213705,
+            "node1": 117423,
+            "node2": 91109,
+            "type": 28,
+            "w": 119.0
+        },
+        {
+            "id": 11346545,
+            "node1": 117423,
+            "node2": 93528,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 96926044,
+            "node1": 117423,
+            "node2": 93768,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 96926043,
+            "node1": 117423,
+            "node2": 97598,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 13559093,
+            "node1": 117423,
+            "node2": 103242,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 173217,
+            "node1": 117423,
+            "node2": 106797,
+            "type": 28,
+            "w": 231.0
+        },
+        {
+            "id": 169110,
+            "node1": 117423,
+            "node2": 107150,
+            "type": 28,
+            "w": 298.0
+        },
+        {
+            "id": 435561106,
+            "node1": 117423,
+            "node2": 108150,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1042417301,
+            "node1": 117423,
+            "node2": 110107,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 11328304,
+            "node1": 117423,
+            "node2": 113386,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 156167,
+            "node1": 117423,
+            "node2": 113547,
+            "type": 28,
+            "w": 255.0
+        },
+        {
+            "id": 256257,
+            "node1": 117423,
+            "node2": 117152,
+            "type": 28,
+            "w": 148.0
+        },
+        {
+            "id": 11326114,
+            "node1": 117423,
+            "node2": 120878,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 199447,
+            "node1": 117423,
+            "node2": 121129,
+            "type": 28,
+            "w": 149.0
+        },
+        {
+            "id": 256256,
+            "node1": 117423,
+            "node2": 127016,
+            "type": 28,
+            "w": 148.0
+        },
+        {
+            "id": 96926037,
+            "node1": 117423,
+            "node2": 127794,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 2481878,
+            "node1": 117423,
+            "node2": 128208,
+            "type": 28,
+            "w": 94.0
+        },
+        {
+            "id": 11326271,
+            "node1": 117423,
+            "node2": 129154,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 96926027,
+            "node1": 117423,
+            "node2": 133813,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 2491901,
+            "node1": 117423,
+            "node2": 135068,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 23110745,
+            "node1": 117423,
+            "node2": 136559,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 389326,
+            "node1": 117423,
+            "node2": 136742,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 13673787,
+            "node1": 117423,
+            "node2": 138382,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11333116,
+            "node1": 117423,
+            "node2": 138954,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 92618758,
+            "node1": 117423,
+            "node2": 139944,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 156169,
+            "node1": 117423,
+            "node2": 140315,
+            "type": 28,
+            "w": 458.0
+        },
+        {
+            "id": 254307,
+            "node1": 117423,
+            "node2": 140986,
+            "type": 28,
+            "w": 98.0
+        },
+        {
+            "id": 2430084,
+            "node1": 117423,
+            "node2": 141182,
+            "type": 28,
+            "w": 65.0
+        },
+        {
+            "id": 96926024,
+            "node1": 117423,
+            "node2": 141749,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 157919,
+            "node1": 117423,
+            "node2": 141971,
+            "type": 28,
+            "w": 448.0
+        },
+        {
+            "id": 635064806,
+            "node1": 117423,
+            "node2": 142226,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 31839597,
+            "node1": 117423,
+            "node2": 143378,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 222181,
+            "node1": 117423,
+            "node2": 144497,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 228961,
+            "node1": 117423,
+            "node2": 145443,
+            "type": 28,
+            "w": 329.0
+        },
+        {
+            "id": 96926023,
+            "node1": 117423,
+            "node2": 145540,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 12327766,
+            "node1": 117423,
+            "node2": 145718,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 169111,
+            "node1": 117423,
+            "node2": 145994,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 227593,
+            "node1": 117423,
+            "node2": 146025,
+            "type": 28,
+            "w": 108.0
+        },
+        {
+            "id": 231717,
+            "node1": 117423,
+            "node2": 146105,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 2319891,
+            "node1": 117423,
+            "node2": 152663,
+            "type": 28,
+            "w": 65.0
+        },
+        {
+            "id": 25239987,
+            "node1": 117423,
+            "node2": 152715,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 25274586,
+            "node1": 117423,
+            "node2": 153367,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11325809,
+            "node1": 117423,
+            "node2": 155923,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 470969818,
+            "node1": 117423,
+            "node2": 157791,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 11334356,
+            "node1": 117423,
+            "node2": 157792,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 473027547,
+            "node1": 117423,
+            "node2": 158322,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 24447823,
+            "node1": 117423,
+            "node2": 160745,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11327659,
+            "node1": 117423,
+            "node2": 161686,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 473027354,
+            "node1": 117423,
+            "node2": 161817,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 92617223,
+            "node1": 117423,
+            "node2": 162905,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 380391,
+            "node1": 117423,
+            "node2": 163353,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 25280915,
+            "node1": 117423,
+            "node2": 163399,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 2491898,
+            "node1": 117423,
+            "node2": 165364,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 3195144,
+            "node1": 117423,
+            "node2": 166350,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11328244,
+            "node1": 117423,
+            "node2": 167695,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 585212314,
+            "node1": 117423,
+            "node2": 171775,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11316027,
+            "node1": 117423,
+            "node2": 171783,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 96926025,
+            "node1": 117423,
+            "node2": 171787,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 2491900,
+            "node1": 117423,
+            "node2": 182174,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11327888,
+            "node1": 117423,
+            "node2": 189981,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1142594937,
+            "node1": 117423,
+            "node2": 212818,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 96926036,
+            "node1": 117423,
+            "node2": 214541,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11318066,
+            "node1": 117423,
+            "node2": 215875,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 96926040,
+            "node1": 117423,
+            "node2": 216229,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378729722,
+            "node1": 117423,
+            "node2": 216254,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 2319894,
+            "node1": 117423,
+            "node2": 216255,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 11336818,
+            "node1": 117423,
+            "node2": 216256,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 2491899,
+            "node1": 117423,
+            "node2": 216276,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 2037987,
+            "node1": 117423,
+            "node2": 216495,
+            "type": 28,
+            "w": 63.0
+        },
+        {
+            "id": 1119065820,
+            "node1": 117423,
+            "node2": 216722,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 533166300,
+            "node1": 117423,
+            "node2": 217116,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 29257105,
+            "node1": 117423,
+            "node2": 217708,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 96926026,
+            "node1": 117423,
+            "node2": 217940,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11337109,
+            "node1": 117423,
+            "node2": 218051,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11332261,
+            "node1": 117423,
+            "node2": 218057,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11326924,
+            "node1": 117423,
+            "node2": 219249,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11317123,
+            "node1": 117423,
+            "node2": 222062,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1054570785,
+            "node1": 117423,
+            "node2": 222431,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 96926042,
+            "node1": 117423,
+            "node2": 225310,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 375972689,
+            "node1": 117423,
+            "node2": 227591,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 25280906,
+            "node1": 117423,
+            "node2": 230102,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 2491897,
+            "node1": 117423,
+            "node2": 233054,
+            "type": 28,
+            "w": 63.0
+        },
+        {
+            "id": 2491896,
+            "node1": 117423,
+            "node2": 233056,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 11335574,
+            "node1": 117423,
+            "node2": 237147,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 13559068,
+            "node1": 117423,
+            "node2": 239172,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 15945171,
+            "node1": 117423,
+            "node2": 239780,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 473027555,
+            "node1": 117423,
+            "node2": 239851,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 11316413,
+            "node1": 117423,
+            "node2": 247439,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 96926022,
+            "node1": 117423,
+            "node2": 247740,
+            "type": 28,
+            "w": 22.0
+        },
+        {
+            "id": 470978627,
+            "node1": 117423,
+            "node2": 255097,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 11328974,
+            "node1": 117423,
+            "node2": 260450,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 515244549,
+            "node1": 117423,
+            "node2": 308072,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470990554,
+            "node1": 117423,
+            "node2": 343941,
+            "type": 28,
+            "w": 22.0
+        },
+        {
+            "id": 496809217,
+            "node1": 117423,
+            "node2": 370854,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 605757766,
+            "node1": 117423,
+            "node2": 438953,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 24952636,
+            "node1": 117423,
+            "node2": 599927,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 605759308,
+            "node1": 117423,
+            "node2": 599928,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 496984143,
+            "node1": 117423,
+            "node2": 676880,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 473704399,
+            "node1": 117423,
+            "node2": 1483998,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 721190356,
+            "node1": 117423,
+            "node2": 1514988,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721190320,
+            "node1": 117423,
+            "node2": 1514989,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 937854772,
+            "node1": 117423,
+            "node2": 2120940,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 61456943,
+            "node1": 117423,
+            "node2": 2393173,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 68503764,
+            "node1": 117423,
+            "node2": 2478033,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 61457112,
+            "node1": 117423,
+            "node2": 2490370,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 92605097,
+            "node1": 117423,
+            "node2": 2539752,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 61457159,
+            "node1": 117423,
+            "node2": 2559970,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1038342091,
+            "node1": 117423,
+            "node2": 3159779,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 470967230,
+            "node1": 117423,
+            "node2": 3346527,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 1137629492,
+            "node1": 117423,
+            "node2": 3747313,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 104935967,
+            "node1": 117423,
+            "node2": 3759497,
+            "type": 28,
+            "w": 11.0
+        },
+        {
+            "id": 568565873,
+            "node1": 117423,
+            "node2": 3762435,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 594578025,
+            "node1": 117423,
+            "node2": 4182086,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 104937236,
+            "node1": 117423,
+            "node2": 4220703,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 617329286,
+            "node1": 117423,
+            "node2": 5798472,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 470993788,
+            "node1": 117423,
+            "node2": 5802073,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470968071,
+            "node1": 117423,
+            "node2": 6825807,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470968861,
+            "node1": 117423,
+            "node2": 6935484,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470968799,
+            "node1": 117423,
+            "node2": 6935502,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 289284244,
+            "node1": 117423,
+            "node2": 6961220,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 253495312,
+            "node1": 117423,
+            "node2": 6967593,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 253514186,
+            "node1": 117423,
+            "node2": 7048899,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 253514183,
+            "node1": 117423,
+            "node2": 7049039,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470992788,
+            "node1": 117423,
+            "node2": 7049585,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 824740003,
+            "node1": 117423,
+            "node2": 7049592,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 470962602,
+            "node1": 117423,
+            "node2": 7049645,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515235874,
+            "node1": 117423,
+            "node2": 7062604,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515249484,
+            "node1": 117423,
+            "node2": 7251423,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515258990,
+            "node1": 117423,
+            "node2": 7305896,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 308212299,
+            "node1": 117423,
+            "node2": 7592871,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470962585,
+            "node1": 117423,
+            "node2": 8068437,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515237648,
+            "node1": 117423,
+            "node2": 8515526,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 375975864,
+            "node1": 117423,
+            "node2": 8652228,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 289246714,
+            "node1": 117423,
+            "node2": 9244915,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 470969809,
+            "node1": 117423,
+            "node2": 9253049,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470993846,
+            "node1": 117423,
+            "node2": 9773499,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 738367329,
+            "node1": 117423,
+            "node2": 9773505,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 391926164,
+            "node1": 117423,
+            "node2": 9773507,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 393721057,
+            "node1": 117423,
+            "node2": 9773603,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 470964538,
+            "node1": 117423,
+            "node2": 9773627,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 721176771,
+            "node1": 117423,
+            "node2": 10672363,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 478447232,
+            "node1": 117423,
+            "node2": 12077630,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515237674,
+            "node1": 117423,
+            "node2": 12410474,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375712940,
+            "node1": 117423,
+            "node2": 14726247,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 738368355,
+            "node1": 117423,
+            "node2": 14927827,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 738367323,
+            "node1": 117423,
+            "node2": 14934353,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 738367324,
+            "node1": 117423,
+            "node2": 14934354,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 738367325,
+            "node1": 117423,
+            "node2": 14934356,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 470968063,
+            "node1": 117423,
+            "node2": 14934359,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470968066,
+            "node1": 117423,
+            "node2": 14934360,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 492335931,
+            "node1": 117423,
+            "node2": 14936757,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 521819622,
+            "node1": 117423,
+            "node2": 14940971,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 492104487,
+            "node1": 117423,
+            "node2": 14945643,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470976391,
+            "node1": 117423,
+            "node2": 14946513,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 521819621,
+            "node1": 117423,
+            "node2": 14947761,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 578607660,
+            "node1": 117423,
+            "node2": 14952090,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 617035332,
+            "node1": 117423,
+            "node2": 14964189,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470968565,
+            "node1": 117423,
+            "node2": 14966702,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 578607546,
+            "node1": 117423,
+            "node2": 14966985,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470968683,
+            "node1": 117423,
+            "node2": 14967493,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515235358,
+            "node1": 117423,
+            "node2": 14967618,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515258982,
+            "node1": 117423,
+            "node2": 15066530,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 824741975,
+            "node1": 117423,
+            "node2": 15068779,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 492104492,
+            "node1": 117423,
+            "node2": 15069833,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470993101,
+            "node1": 117423,
+            "node2": 15078789,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 1054563541,
+            "node1": 117423,
+            "node2": 15079399,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 474311630,
+            "node1": 117423,
+            "node2": 15083905,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470972179,
+            "node1": 117423,
+            "node2": 15198337,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 492335873,
+            "node1": 117423,
+            "node2": 15199902,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 470964624,
+            "node1": 117423,
+            "node2": 15199903,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 547215200,
+            "node1": 117423,
+            "node2": 15199905,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515252367,
+            "node1": 117423,
+            "node2": 15228048,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470964535,
+            "node1": 117423,
+            "node2": 15230023,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 515248785,
+            "node1": 117423,
+            "node2": 15239368,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 1054563478,
+            "node1": 117423,
+            "node2": 15239369,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054563499,
+            "node1": 117423,
+            "node2": 15239370,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054572500,
+            "node1": 117423,
+            "node2": 15251928,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 515244442,
+            "node1": 117423,
+            "node2": 15260540,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 474013923,
+            "node1": 117423,
+            "node2": 15261203,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 515251942,
+            "node1": 117423,
+            "node2": 15267574,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1054569516,
+            "node1": 117423,
+            "node2": 15288999,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054569567,
+            "node1": 117423,
+            "node2": 15289000,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 738356216,
+            "node1": 117423,
+            "node2": 15304927,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1054563520,
+            "node1": 117423,
+            "node2": 15305317,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 474013924,
+            "node1": 117423,
+            "node2": 15306566,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 578605016,
+            "node1": 117423,
+            "node2": 15334069,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 738353211,
+            "node1": 117423,
+            "node2": 15359203,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 474013922,
+            "node1": 117423,
+            "node2": 15415516,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 492335889,
+            "node1": 117423,
+            "node2": 15417783,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470958183,
+            "node1": 117423,
+            "node2": 15420409,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 496809218,
+            "node1": 117423,
+            "node2": 15451766,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 496809219,
+            "node1": 117423,
+            "node2": 15451767,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 824740056,
+            "node1": 117423,
+            "node2": 15457926,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 824742865,
+            "node1": 117423,
+            "node2": 15498863,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 515244739,
+            "node1": 117423,
+            "node2": 15686452,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 515244740,
+            "node1": 117423,
+            "node2": 15686520,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 635064535,
+            "node1": 117423,
+            "node2": 16134159,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 977745005,
+            "node1": 117423,
+            "node2": 16137355,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745844,
+            "node1": 117423,
+            "node2": 16316709,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 630979780,
+            "node1": 117423,
+            "node2": 16837720,
+            "type": 28,
+            "w": 24.0
+        },
+        {
+            "id": 776472860,
+            "node1": 117423,
+            "node2": 33452258,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 977747914,
+            "node1": 117423,
+            "node2": 54034270,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 525323737,
+            "node1": 117423,
+            "node2": 75336115,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 937853635,
+            "node1": 117423,
+            "node2": 94258936,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 937853613,
+            "node1": 117423,
+            "node2": 94267723,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 1066402299,
+            "node1": 117423,
+            "node2": 99580527,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 738372952,
+            "node1": 117423,
+            "node2": 101435162,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 534651553,
+            "node1": 117423,
+            "node2": 104703993,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 534652291,
+            "node1": 117423,
+            "node2": 104863694,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 534652516,
+            "node1": 117423,
+            "node2": 105816352,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 534652445,
+            "node1": 117423,
+            "node2": 106006415,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 534652692,
+            "node1": 117423,
+            "node2": 107887871,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 534652676,
+            "node1": 117423,
+            "node2": 107887872,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 549076125,
+            "node1": 117423,
+            "node2": 123807186,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 549076399,
+            "node1": 117423,
+            "node2": 125186157,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 602022312,
+            "node1": 117423,
+            "node2": 131118792,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 548514877,
+            "node1": 117423,
+            "node2": 134879668,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 561135879,
+            "node1": 117423,
+            "node2": 165823339,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 1124415561,
+            "node1": 117423,
+            "node2": 180880782,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1042485136,
+            "node1": 117423,
+            "node2": 186119369,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 1127464372,
+            "node1": 117423,
+            "node2": 255317457,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977748828,
+            "node1": 117423,
+            "node2": 302161076,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:32.451050",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bouteille",
+        "#relations": 273,
+        "max_relation_weight": 908.0,
+        "#nodes": 274,
+        "duration": "0:00:00.042543"
+    }
+}

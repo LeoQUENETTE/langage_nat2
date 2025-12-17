@@ -1,0 +1,352 @@
+{
+    "nodes": [
+        {
+            "id": 222943,
+            "name": "genre musical",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15084364,
+            "name": "en:music genre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 262347,
+            "name": "style de musique",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 284011,
+            "name": "substances",
+            "type": 777,
+            "w": 3325
+        },
+        {
+            "id": 15084365,
+            "name": "en:musical style",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6529337,
+            "name": "Élément chimique",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 14935049,
+            "name": "en:chemical element",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 221181,
+            "name": "matière>11358",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 223514,
+            "name": "conducteur électrique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 11358,
+            "name": "substance",
+            "type": 1,
+            "w": 4567
+        },
+        {
+            "id": 15413704,
+            "name": "en:style of music",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15084366,
+            "name": "en:musical genre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413675,
+            "name": "en:music style",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 166591,
+            "name": "élément chimique",
+            "type": 1,
+            "w": 312
+        },
+        {
+            "id": 14637455,
+            "name": "Style musical",
+            "type": 777,
+            "w": 31
+        },
+        {
+            "id": 2989439,
+            "name": "style musical",
+            "type": 1,
+            "w": 253
+        },
+        {
+            "id": 231956,
+            "name": "genre de musique",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 9757458,
+            "name": "en:type of music",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413673,
+            "name": "en:kind of music",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413674,
+            "name": "en:sort of music",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 2487901,
+            "node1": 134927,
+            "node2": 11358,
+            "type": 6,
+            "w": 692.0
+        },
+        {
+            "id": 2069261,
+            "node1": 134927,
+            "node2": 29208,
+            "type": 6,
+            "w": 694.0
+        },
+        {
+            "id": 98286735,
+            "node1": 134927,
+            "node2": 40056,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 657628846,
+            "node1": 134927,
+            "node2": 97739,
+            "type": 6,
+            "w": 92.0
+        },
+        {
+            "id": 8915266,
+            "node1": 134927,
+            "node2": 166591,
+            "type": 6,
+            "w": 140.0
+        },
+        {
+            "id": 2069262,
+            "node1": 134927,
+            "node2": 221181,
+            "type": 6,
+            "w": 681.0
+        },
+        {
+            "id": 98286730,
+            "node1": 134927,
+            "node2": 222943,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 992023992,
+            "node1": 134927,
+            "node2": 223514,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 600447888,
+            "node1": 134927,
+            "node2": 231956,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 704521095,
+            "node1": 134927,
+            "node2": 262347,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1047028820,
+            "node1": 134927,
+            "node2": 284011,
+            "type": 6,
+            "w": 20.0
+        },
+        {
+            "id": 704520555,
+            "node1": 134927,
+            "node2": 2989439,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 122905487,
+            "node1": 134927,
+            "node2": 6529337,
+            "type": 6,
+            "w": 8.0
+        },
+        {
+            "id": 600411643,
+            "node1": 134927,
+            "node2": 9757458,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 704602067,
+            "node1": 134927,
+            "node2": 14637455,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 539574573,
+            "node1": 134927,
+            "node2": 14935049,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 600411107,
+            "node1": 134927,
+            "node2": 15084364,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 600413053,
+            "node1": 134927,
+            "node2": 15084365,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 600410135,
+            "node1": 134927,
+            "node2": 15084366,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 600412114,
+            "node1": 134927,
+            "node2": 15413673,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 600412585,
+            "node1": 134927,
+            "node2": 15413674,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 600410639,
+            "node1": 134927,
+            "node2": 15413675,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 704521601,
+            "node1": 134927,
+            "node2": 15413704,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1074625916,
+            "node1": 134927,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:05.834067",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métal",
+        "#relations": 24,
+        "max_relation_weight": 694.0,
+        "#nodes": 25,
+        "duration": "0:00:00.051723"
+    }
+}

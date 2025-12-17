@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 6111,
+            "name": "échouement",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 107150,
+            "name": "bateau",
+            "type": 1,
+            "w": 7792
+        },
+        {
+            "id": 64163,
+            "name": "navigation",
+            "type": 1,
+            "w": 3988
+        },
+        {
+            "id": 34701,
+            "name": "accostage",
+            "type": 1,
+            "w": 68
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154185958,
+            "node1": 107150,
+            "node2": 6111,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1152598273,
+            "node1": 107150,
+            "node2": 34701,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1156583167,
+            "node1": 107150,
+            "node2": 64163,
+            "type": 138,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:21.155798",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bateau",
+        "#relations": 3,
+        "max_relation_weight": 30.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004988"
+    }
+}

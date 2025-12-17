@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 66970,
+            "name": "ballon",
+            "type": 1,
+            "w": 3638
+        },
+        {
+            "id": 7928,
+            "name": "pelouse",
+            "type": 1,
+            "w": 884
+        },
+        {
+            "id": 77731,
+            "name": "tribunes",
+            "type": 1,
+            "w": 188
+        },
+        {
+            "id": 7780,
+            "name": "sportif",
+            "type": 1,
+            "w": 2975
+        },
+        {
+            "id": 8994,
+            "name": "piste",
+            "type": 1,
+            "w": 3369
+        },
+        {
+            "id": 96920,
+            "name": "joueur",
+            "type": 1,
+            "w": 5165
+        },
+        {
+            "id": 134065,
+            "name": "stade",
+            "type": 1,
+            "w": 4126
+        },
+        {
+            "id": 125905,
+            "name": "tribune",
+            "type": 1,
+            "w": 785
+        },
+        {
+            "id": 35925,
+            "name": "terrain",
+            "type": 1,
+            "w": 7251
+        },
+        {
+            "id": 20346,
+            "name": "but",
+            "type": 1,
+            "w": 8100
+        },
+        {
+            "id": 84853,
+            "name": "gradin",
+            "type": 1,
+            "w": 105
+        },
+        {
+            "id": 41766,
+            "name": "gradins",
+            "type": 1,
+            "w": 89
+        }
+    ],
+    "relations": [
+        {
+            "id": 399183,
+            "node1": 134065,
+            "node2": 7780,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 161298,
+            "node1": 134065,
+            "node2": 7928,
+            "type": 9,
+            "w": 84.0
+        },
+        {
+            "id": 399179,
+            "node1": 134065,
+            "node2": 8994,
+            "type": 9,
+            "w": 69.0
+        },
+        {
+            "id": 9974139,
+            "node1": 134065,
+            "node2": 20346,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 161294,
+            "node1": 134065,
+            "node2": 35925,
+            "type": 9,
+            "w": 75.0
+        },
+        {
+            "id": 161295,
+            "node1": 134065,
+            "node2": 41766,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 9974839,
+            "node1": 134065,
+            "node2": 66970,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 770910435,
+            "node1": 134065,
+            "node2": 77731,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 10533635,
+            "node1": 134065,
+            "node2": 84853,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 411797,
+            "node1": 134065,
+            "node2": 96920,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 399180,
+            "node1": 134065,
+            "node2": 125905,
+            "type": 9,
+            "w": 74.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:37.630470",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stade",
+        "#relations": 11,
+        "max_relation_weight": 84.0,
+        "#nodes": 12,
+        "duration": "0:00:00.005759"
+    }
+}

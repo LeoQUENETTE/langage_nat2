@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 123667,
+            "name": "fermentation",
+            "type": 1,
+            "w": 2796
+        },
+        {
+            "id": 60056,
+            "name": "cuisson",
+            "type": 1,
+            "w": 2629
+        },
+        {
+            "id": 61283,
+            "name": "pain",
+            "type": 1,
+            "w": 5782
+        },
+        {
+            "id": 56365,
+            "name": "digestion",
+            "type": 1,
+            "w": 834
+        },
+        {
+            "id": 129468,
+            "name": "pétrissage",
+            "type": 1,
+            "w": 90
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150470968,
+            "node1": 61283,
+            "node2": 56365,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 1145099387,
+            "node1": 61283,
+            "node2": 60056,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1156476117,
+            "node1": 61283,
+            "node2": 123667,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1145099388,
+            "node1": 61283,
+            "node2": 129468,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:41.191284",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pain",
+        "#relations": 4,
+        "max_relation_weight": 35.0,
+        "#nodes": 5,
+        "duration": "0:00:00.008939"
+    }
+}

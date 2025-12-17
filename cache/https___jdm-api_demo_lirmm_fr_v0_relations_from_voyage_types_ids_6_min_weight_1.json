@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 49318,
+            "name": "loisir",
+            "type": 1,
+            "w": 2245
+        },
+        {
+            "id": 14113735,
+            "name": "déplacement dans l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 78573,
+            "name": "exploration",
+            "type": 1,
+            "w": 7578
+        },
+        {
+            "id": 93735,
+            "name": "fantasme",
+            "type": 1,
+            "w": 429
+        },
+        {
+            "id": 112929,
+            "name": "action",
+            "type": 1,
+            "w": 17578
+        },
+        {
+            "id": 143529,
+            "name": "voyage",
+            "type": 1,
+            "w": 11094
+        },
+        {
+            "id": 53688,
+            "name": "activité",
+            "type": 1,
+            "w": 10115
+        },
+        {
+            "id": 10564,
+            "name": "déplacement",
+            "type": 1,
+            "w": 6575
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 36642,
+            "name": "aventure",
+            "type": 1,
+            "w": 6566
+        },
+        {
+            "id": 15272923,
+            "name": "en:time killer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 129277,
+            "name": "passe-temps",
+            "type": 1,
+            "w": 246
+        },
+        {
+            "id": 255954129,
+            "name": "événement positif",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 333856,
+            "name": "activité de loisir",
+            "type": 1,
+            "w": 75
+        }
+    ],
+    "relations": [
+        {
+            "id": 9902915,
+            "node1": 143529,
+            "node2": 10564,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 9898736,
+            "node1": 143529,
+            "node2": 36642,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 9899190,
+            "node1": 143529,
+            "node2": 49318,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 1131548644,
+            "node1": 143529,
+            "node2": 53688,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 960166881,
+            "node1": 143529,
+            "node2": 78573,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 992054701,
+            "node1": 143529,
+            "node2": 93735,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 78608170,
+            "node1": 143529,
+            "node2": 112929,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 149362,
+            "node1": 143529,
+            "node2": 129277,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 629744,
+            "node1": 143529,
+            "node2": 135190,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 960160001,
+            "node1": 143529,
+            "node2": 333856,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 358540068,
+            "node1": 143529,
+            "node2": 14113735,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 704774001,
+            "node1": 143529,
+            "node2": 15272923,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1074661148,
+            "node1": 143529,
+            "node2": 255954129,
+            "type": 6,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:11.410064",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voyage",
+        "#relations": 13,
+        "max_relation_weight": 69.0,
+        "#nodes": 14,
+        "duration": "0:00:00.040314"
+    }
+}

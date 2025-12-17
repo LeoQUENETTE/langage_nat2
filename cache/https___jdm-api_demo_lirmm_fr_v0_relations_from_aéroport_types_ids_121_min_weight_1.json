@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 211520781,
+            "name": "véhicules de service",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 94262,
+            "name": "aéroport",
+            "type": 1,
+            "w": 3120
+        },
+        {
+            "id": 133832,
+            "name": "radar",
+            "type": 1,
+            "w": 1162
+        }
+    ],
+    "relations": [
+        {
+            "id": 768930010,
+            "node1": 94262,
+            "node2": 133832,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 899855699,
+            "node1": 94262,
+            "node2": 211520781,
+            "type": 121,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:15.665925",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "aéroport",
+        "#relations": 2,
+        "max_relation_weight": 31.0,
+        "#nodes": 3,
+        "duration": "0:00:02.627289"
+    }
+}

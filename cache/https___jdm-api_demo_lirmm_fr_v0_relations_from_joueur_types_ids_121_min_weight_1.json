@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 66970,
+            "name": "ballon",
+            "type": 1,
+            "w": 3638
+        },
+        {
+            "id": 87685,
+            "name": "trophée",
+            "type": 1,
+            "w": 740
+        },
+        {
+            "id": 235702,
+            "name": "prise de risque",
+            "type": 1,
+            "w": 186
+        },
+        {
+            "id": 211883298,
+            "name": "boîte de jeu",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 142709,
+            "name": "compte",
+            "type": 1,
+            "w": 12917
+        },
+        {
+            "id": 96920,
+            "name": "joueur",
+            "type": 1,
+            "w": 5165
+        },
+        {
+            "id": 260239,
+            "name": "équipement sportif",
+            "type": 1,
+            "w": 45
+        },
+        {
+            "id": 62676,
+            "name": "manette",
+            "type": 1,
+            "w": 272
+        },
+        {
+            "id": 233445,
+            "name": "skin",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 253522640,
+            "name": "livre de règles",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 213825,
+            "name": "club de golf",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 180029,
+            "name": "manuel du joueur",
+            "type": 1,
+            "w": 51
+        }
+    ],
+    "relations": [
+        {
+            "id": 1010888994,
+            "node1": 96920,
+            "node2": 62676,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 962088051,
+            "node1": 96920,
+            "node2": 66970,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046570532,
+            "node1": 96920,
+            "node2": 87685,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1010888998,
+            "node1": 96920,
+            "node2": 142709,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 768935485,
+            "node1": 96920,
+            "node2": 180029,
+            "type": 121,
+            "w": 46.0
+        },
+        {
+            "id": 1046570679,
+            "node1": 96920,
+            "node2": 213825,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046570531,
+            "node1": 96920,
+            "node2": 233445,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1068907398,
+            "node1": 96920,
+            "node2": 235702,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 876761272,
+            "node1": 96920,
+            "node2": 260239,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1046570337,
+            "node1": 96920,
+            "node2": 211883298,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 768936782,
+            "node1": 96920,
+            "node2": 253522640,
+            "type": 121,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:46.530811",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "joueur",
+        "#relations": 11,
+        "max_relation_weight": 46.0,
+        "#nodes": 12,
+        "duration": "0:00:00.008756"
+    }
+}

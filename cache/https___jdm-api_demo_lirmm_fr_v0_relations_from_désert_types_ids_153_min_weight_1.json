@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 383192,
+            "name": "température moyenne",
+            "type": 1,
+            "w": 650
+        },
+        {
+            "id": 105154,
+            "name": "étendue",
+            "type": 1,
+            "w": 3481
+        },
+        {
+            "id": 134588,
+            "name": "aridité",
+            "type": 1,
+            "w": 557
+        },
+        {
+            "id": 144366,
+            "name": "désert",
+            "type": 1,
+            "w": 4834
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139611,
+            "node1": 144366,
+            "node2": 105154,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179137904,
+            "node1": 144366,
+            "node2": 134588,
+            "type": 153,
+            "w": 53.0
+        },
+        {
+            "id": 1179139282,
+            "node1": 144366,
+            "node2": 383192,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:34.761318",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "désert",
+        "#relations": 3,
+        "max_relation_weight": 53.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004720"
+    }
+}

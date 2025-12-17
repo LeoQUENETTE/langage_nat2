@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 136559,
+            "name": "produit alimentaire",
+            "type": 1,
+            "w": 210
+        },
+        {
+            "id": 396759,
+            "name": "infrastructures",
+            "type": 1,
+            "w": 4642
+        },
+        {
+            "id": 49307,
+            "name": "ressource",
+            "type": 1,
+            "w": 3544
+        },
+        {
+            "id": 141687,
+            "name": "fromage",
+            "type": 1,
+            "w": 4864
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 102105,
+            "name": "monument",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 32667,
+            "name": "produit",
+            "type": 1,
+            "w": 9476
+        },
+        {
+            "id": 391707,
+            "name": "ressource>376625",
+            "type": 1,
+            "w": 67
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177605502,
+            "node1": 136786,
+            "node2": 32667,
+            "type": 53,
+            "w": 40.0
+        },
+        {
+            "id": 1177605598,
+            "node1": 136786,
+            "node2": 49307,
+            "type": 53,
+            "w": 40.0
+        },
+        {
+            "id": 1150460431,
+            "node1": 136786,
+            "node2": 102105,
+            "type": 53,
+            "w": 59.0
+        },
+        {
+            "id": 1177605521,
+            "node1": 136786,
+            "node2": 136559,
+            "type": 53,
+            "w": 42.0
+        },
+        {
+            "id": 1177605493,
+            "node1": 136786,
+            "node2": 141687,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 1177605629,
+            "node1": 136786,
+            "node2": 391707,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 1150589752,
+            "node1": 136786,
+            "node2": 396759,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:55.710699",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ville",
+        "#relations": 7,
+        "max_relation_weight": 59.0,
+        "#nodes": 8,
+        "duration": "0:00:00.011142"
+    }
+}

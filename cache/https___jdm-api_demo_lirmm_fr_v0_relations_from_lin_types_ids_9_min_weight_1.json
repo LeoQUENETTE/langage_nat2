@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 7012425,
+            "name": "en:chlorophyll",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 101176,
+            "name": "chlorophylle",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 151900,
+            "name": "chlorophyle",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 3343,
+            "name": "racine",
+            "type": 1,
+            "w": 3482
+        },
+        {
+            "id": 14917526,
+            "name": "en:deoxyribonucleic acid",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 94230902,
+            "name": "Acide DésoxyriboNucléique",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 6935846,
+            "name": "en:dna",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15297314,
+            "name": "en:deoxyribose nucleoprotein",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 16747,
+            "name": "adn",
+            "type": 1,
+            "w": 908
+        },
+        {
+            "id": 14918011,
+            "name": "en:DNA",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 11008328,
+            "name": "ADN>30051",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 12791689,
+            "name": "acide désoxyribo-nucléique",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 114327,
+            "name": "acide désoxyribonucléique",
+            "type": 1,
+            "w": 214
+        },
+        {
+            "id": 217823,
+            "name": "racine>3674",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 49549,
+            "name": "racines",
+            "type": 1,
+            "w": 3557
+        },
+        {
+            "id": 143379,
+            "name": "lin",
+            "type": 1,
+            "w": 711
+        }
+    ],
+    "relations": [
+        {
+            "id": 2808949,
+            "node1": 143379,
+            "node2": 3343,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 14711297,
+            "node1": 143379,
+            "node2": 16747,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 2951070,
+            "node1": 143379,
+            "node2": 49549,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 11787602,
+            "node1": 143379,
+            "node2": 101176,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 15869741,
+            "node1": 143379,
+            "node2": 114327,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 2890465,
+            "node1": 143379,
+            "node2": 139779,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 11790512,
+            "node1": 143379,
+            "node2": 151900,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 2952136,
+            "node1": 143379,
+            "node2": 217823,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 709649858,
+            "node1": 143379,
+            "node2": 6935846,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 352211548,
+            "node1": 143379,
+            "node2": 7012425,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 479147873,
+            "node1": 143379,
+            "node2": 11008328,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 377679255,
+            "node1": 143379,
+            "node2": 12791689,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 400248794,
+            "node1": 143379,
+            "node2": 14917526,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 436501143,
+            "node1": 143379,
+            "node2": 14918011,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 709792326,
+            "node1": 143379,
+            "node2": 15297314,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 697292317,
+            "node1": 143379,
+            "node2": 94230902,
+            "type": 9,
+            "w": 7.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:11.470340",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lin",
+        "#relations": 16,
+        "max_relation_weight": 43.0,
+        "#nodes": 17,
+        "duration": "0:00:00.007747"
+    }
+}

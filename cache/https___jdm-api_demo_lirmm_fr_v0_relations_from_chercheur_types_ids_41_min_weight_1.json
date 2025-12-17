@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 7331401,
+            "name": "en:medicine",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 12923606,
+            "name": "en:medicinal product",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142229,
+            "name": "Science",
+            "type": 1,
+            "w": 3867
+        },
+        {
+            "id": 24997,
+            "name": "médicament",
+            "type": 1,
+            "w": 4782
+        },
+        {
+            "id": 7062417,
+            "name": "en:medicament",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 129303,
+            "name": "chercheur",
+            "type": 1,
+            "w": 5536
+        },
+        {
+            "id": 146547,
+            "name": "Géométrie",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 373689,
+            "name": "progrès scientifique",
+            "type": 1,
+            "w": 365
+        },
+        {
+            "id": 162593,
+            "name": "medicament",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 80973,
+            "name": "science",
+            "type": 1,
+            "w": 13281
+        },
+        {
+            "id": 117223,
+            "name": "géométrie",
+            "type": 1,
+            "w": 5837
+        },
+        {
+            "id": 15281810,
+            "name": "en:scientific advance",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6847746,
+            "name": "en:medication",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15441419,
+            "name": "en:scientific progress",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7053897,
+            "name": "en:science",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 9212023,
+            "name": "en:tablet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 242996991,
+            "name": "Progrès scientifique",
+            "type": 1,
+            "w": 28
+        }
+    ],
+    "relations": [
+        {
+            "id": 14654970,
+            "node1": 129303,
+            "node2": 24997,
+            "type": 41,
+            "w": 590.5
+        },
+        {
+            "id": 14642729,
+            "node1": 129303,
+            "node2": 80973,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 14658630,
+            "node1": 129303,
+            "node2": 117223,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14641363,
+            "node1": 129303,
+            "node2": 142229,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14641374,
+            "node1": 129303,
+            "node2": 146547,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 213784968,
+            "node1": 129303,
+            "node2": 162593,
+            "type": 41,
+            "w": 113.0
+        },
+        {
+            "id": 28767277,
+            "node1": 129303,
+            "node2": 373689,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 396947582,
+            "node1": 129303,
+            "node2": 6847746,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 213785147,
+            "node1": 129303,
+            "node2": 7053897,
+            "type": 41,
+            "w": 38.0
+        },
+        {
+            "id": 211489813,
+            "node1": 129303,
+            "node2": 7062417,
+            "type": 41,
+            "w": 594.0
+        },
+        {
+            "id": 397442534,
+            "node1": 129303,
+            "node2": 7331401,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 538952002,
+            "node1": 129303,
+            "node2": 9212023,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 720846326,
+            "node1": 129303,
+            "node2": 12923606,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 412453430,
+            "node1": 129303,
+            "node2": 15281810,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 540394266,
+            "node1": 129303,
+            "node2": 15441419,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 1122670016,
+            "node1": 129303,
+            "node2": 242996991,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:15.333993",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chercheur",
+        "#relations": 16,
+        "max_relation_weight": 594.0,
+        "#nodes": 17,
+        "duration": "0:00:00.006561"
+    }
+}

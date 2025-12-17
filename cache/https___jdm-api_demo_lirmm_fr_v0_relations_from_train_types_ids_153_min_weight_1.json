@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 387278,
+            "name": "vitesse maximale",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 112037,
+            "name": "capacité",
+            "type": 1,
+            "w": 10849
+        },
+        {
+            "id": 27120,
+            "name": "train",
+            "type": 1,
+            "w": 7952
+        },
+        {
+            "id": 406275382,
+            "name": "nombre de wagons",
+            "type": 1,
+            "w": 9
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137770,
+            "node1": 27120,
+            "node2": 112037,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179137661,
+            "node1": 27120,
+            "node2": 387278,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179137662,
+            "node1": 27120,
+            "node2": 406275382,
+            "type": 153,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:34.601808",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "train",
+        "#relations": 3,
+        "max_relation_weight": 29.0,
+        "#nodes": 4,
+        "duration": "0:00:00.006202"
+    }
+}

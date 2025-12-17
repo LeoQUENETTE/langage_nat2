@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 157827,
+            "name": "partie du corps",
+            "type": 1,
+            "w": 290
+        },
+        {
+            "id": 225770,
+            "name": "organe>112609",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 6948354,
+            "name": "en:nose",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15307354,
+            "name": "en:part of the body",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 107477,
+            "name": "nez",
+            "type": 1,
+            "w": 4657
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 246207,
+            "name": "partie du visage",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 6798399,
+            "name": "en:body part",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 25792,
+            "name": "postiche",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 234886,
+            "name": "organe sensoriel",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 44335,
+            "name": "organe",
+            "type": 1,
+            "w": 2279
+        },
+        {
+            "id": 236974,
+            "name": "nez>112609",
+            "type": 1,
+            "w": 182
+        },
+        {
+            "id": 152557,
+            "name": "nez rouge",
+            "type": 1,
+            "w": 185
+        },
+        {
+            "id": 9940944,
+            "name": "en:sensory organ",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15083936,
+            "name": "en:sense organ",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 22903470,
+            "node1": 152557,
+            "node2": 25792,
+            "type": 6,
+            "w": 60.0
+        },
+        {
+            "id": 604585270,
+            "node1": 152557,
+            "node2": 44335,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 22903219,
+            "node1": 152557,
+            "node2": 107477,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 98279371,
+            "node1": 152557,
+            "node2": 157827,
+            "type": 6,
+            "w": 22.0
+        },
+        {
+            "id": 98279376,
+            "node1": 152557,
+            "node2": 225770,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 98279378,
+            "node1": 152557,
+            "node2": 234886,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 22903220,
+            "node1": 152557,
+            "node2": 236974,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 22903469,
+            "node1": 152557,
+            "node2": 246207,
+            "type": 6,
+            "w": 95.0
+        },
+        {
+            "id": 605031149,
+            "node1": 152557,
+            "node2": 316850,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 312520637,
+            "node1": 152557,
+            "node2": 6798399,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 377051489,
+            "node1": 152557,
+            "node2": 6948354,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 612672818,
+            "node1": 152557,
+            "node2": 9940944,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 598726929,
+            "node1": 152557,
+            "node2": 15083936,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 598701365,
+            "node1": 152557,
+            "node2": 15307354,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:39.470698",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nez rouge",
+        "#relations": 14,
+        "max_relation_weight": 95.0,
+        "#nodes": 15,
+        "duration": "0:00:00.008215"
+    }
+}

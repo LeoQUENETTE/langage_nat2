@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 134527,
+            "name": "dégradation",
+            "type": 1,
+            "w": 3068
+        },
+        {
+            "id": 68256,
+            "name": "vélo",
+            "type": 1,
+            "w": 4506
+        },
+        {
+            "id": 25983,
+            "name": "gonflage",
+            "type": 1,
+            "w": 60
+        }
+    ],
+    "relations": [
+        {
+            "id": 1180647440,
+            "node1": 68256,
+            "node2": 25983,
+            "type": 138,
+            "w": 33.0
+        },
+        {
+            "id": 1151039885,
+            "node1": 68256,
+            "node2": 134527,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:57.325245",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "vélo",
+        "#relations": 2,
+        "max_relation_weight": 33.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004022"
+    }
+}

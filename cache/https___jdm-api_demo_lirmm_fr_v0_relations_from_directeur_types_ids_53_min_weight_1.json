@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 145648,
+            "name": "directeur",
+            "type": 1,
+            "w": 5239
+        },
+        {
+            "id": 25380,
+            "name": "budget",
+            "type": 1,
+            "w": 8471
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131440445,
+            "node1": 145648,
+            "node2": 25380,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:42.100573",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "directeur",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004653"
+    }
+}

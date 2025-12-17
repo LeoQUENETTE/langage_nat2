@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5520
+        },
+        {
+            "id": 96387,
+            "name": "chanteur",
+            "type": 1,
+            "w": 4822
+        },
+        {
+            "id": 107902,
+            "name": "chanson",
+            "type": 1,
+            "w": 5577
+        },
+        {
+            "id": 101942,
+            "name": "single",
+            "type": 1,
+            "w": 2324
+        },
+        {
+            "id": 134899,
+            "name": "tube",
+            "type": 1,
+            "w": 3380
+        },
+        {
+            "id": 132284,
+            "name": "reprise",
+            "type": 1,
+            "w": 3403
+        }
+    ],
+    "relations": [
+        {
+            "id": 988641485,
+            "node1": 96387,
+            "node2": 101942,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 765218218,
+            "node1": 96387,
+            "node2": 107902,
+            "type": 53,
+            "w": 99.0
+        },
+        {
+            "id": 988641484,
+            "node1": 96387,
+            "node2": 113672,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 1150463665,
+            "node1": 96387,
+            "node2": 132284,
+            "type": 53,
+            "w": 39.0
+        },
+        {
+            "id": 1150469384,
+            "node1": 96387,
+            "node2": 134899,
+            "type": 53,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:27.456257",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chanteur",
+        "#relations": 5,
+        "max_relation_weight": 99.0,
+        "#nodes": 6,
+        "duration": "0:00:00.030156"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 142553,
+            "name": "alliance",
+            "type": 1,
+            "w": 4040
+        },
+        {
+            "id": 26477,
+            "name": "mariage",
+            "type": 1,
+            "w": 7322
+        }
+    ],
+    "relations": [
+        {
+            "id": 765133815,
+            "node1": 26477,
+            "node2": 142553,
+            "type": 80,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:18.465943",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mariage",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003440"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 255901090,
+            "name": "bureau privé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 145648,
+            "name": "directeur",
+            "type": 1,
+            "w": 5239
+        },
+        {
+            "id": 7086,
+            "name": "autorité",
+            "type": 1,
+            "w": 16326
+        }
+    ],
+    "relations": [
+        {
+            "id": 818593815,
+            "node1": 145648,
+            "node2": 7086,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1035088993,
+            "node1": 145648,
+            "node2": 255901090,
+            "type": 121,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:42.851293",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "directeur",
+        "#relations": 2,
+        "max_relation_weight": 30.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004460"
+    }
+}

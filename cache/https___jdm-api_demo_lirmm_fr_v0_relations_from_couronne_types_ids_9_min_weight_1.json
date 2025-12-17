@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 300290264,
+            "name": "joyaux précieux",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 85794,
+            "name": "diamant",
+            "type": 1,
+            "w": 686
+        },
+        {
+            "id": 156502,
+            "name": "métal précieux",
+            "type": 1,
+            "w": 171
+        },
+        {
+            "id": 146720,
+            "name": "céramique",
+            "type": 1,
+            "w": 897
+        },
+        {
+            "id": 144104,
+            "name": "couronne",
+            "type": 1,
+            "w": 3349
+        },
+        {
+            "id": 80138,
+            "name": "or",
+            "type": 1,
+            "w": 9307
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 15083675,
+            "name": "en:noble metal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102918211,
+            "name": "Métal précieux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 27013,
+            "name": "ivoire",
+            "type": 1,
+            "w": 465
+        }
+    ],
+    "relations": [
+        {
+            "id": 1710894,
+            "node1": 144104,
+            "node2": 27013,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 10529849,
+            "node1": 144104,
+            "node2": 80138,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 533017590,
+            "node1": 144104,
+            "node2": 85794,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 98280636,
+            "node1": 144104,
+            "node2": 134927,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 98280624,
+            "node1": 144104,
+            "node2": 146720,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 10535093,
+            "node1": 144104,
+            "node2": 156502,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 554093316,
+            "node1": 144104,
+            "node2": 15083675,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 534703059,
+            "node1": 144104,
+            "node2": 102918211,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 818594755,
+            "node1": 144104,
+            "node2": 300290264,
+            "type": 9,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:45:04.175000",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couronne",
+        "#relations": 9,
+        "max_relation_weight": 30.0,
+        "#nodes": 10,
+        "duration": "0:00:00.005031"
+    }
+}

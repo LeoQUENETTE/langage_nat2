@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 25616,
+            "name": "voûte",
+            "type": 1,
+            "w": 283
+        },
+        {
+            "id": 118146,
+            "name": "plafond",
+            "type": 1,
+            "w": 729
+        },
+        {
+            "id": 44155,
+            "name": "grotte",
+            "type": 1,
+            "w": 1543
+        },
+        {
+            "id": 14962427,
+            "name": "en:stalagmite",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 25008,
+            "name": "pierre",
+            "type": 1,
+            "w": 9680
+        },
+        {
+            "id": 59893,
+            "name": "entrée",
+            "type": 1,
+            "w": 6134
+        },
+        {
+            "id": 37230,
+            "name": "galerie",
+            "type": 1,
+            "w": 2326
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 137312,
+            "name": "roche",
+            "type": 1,
+            "w": 3287
+        },
+        {
+            "id": 62636,
+            "name": "sol",
+            "type": 1,
+            "w": 10969
+        },
+        {
+            "id": 11027,
+            "name": "stalactite",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 117121,
+            "name": "stalagmite",
+            "type": 1,
+            "w": 231
+        },
+        {
+            "id": 407347,
+            "name": "stalactites",
+            "type": 1,
+            "w": 63
+        },
+        {
+            "id": 213325,
+            "name": "sol>25705",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 115865,
+            "name": "trou",
+            "type": 1,
+            "w": 4655
+        }
+    ],
+    "relations": [
+        {
+            "id": 386664,
+            "node1": 44155,
+            "node2": 11027,
+            "type": 9,
+            "w": 94.0
+        },
+        {
+            "id": 405031,
+            "node1": 44155,
+            "node2": 25008,
+            "type": 9,
+            "w": 94.0
+        },
+        {
+            "id": 1706224,
+            "node1": 44155,
+            "node2": 25616,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 1154346538,
+            "node1": 44155,
+            "node2": 37230,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 386662,
+            "node1": 44155,
+            "node2": 59893,
+            "type": 9,
+            "w": 77.0
+        },
+        {
+            "id": 2046407,
+            "node1": 44155,
+            "node2": 62636,
+            "type": 9,
+            "w": 87.0
+        },
+        {
+            "id": 9975368,
+            "node1": 44155,
+            "node2": 115865,
+            "type": 9,
+            "w": 88.0
+        },
+        {
+            "id": 386663,
+            "node1": 44155,
+            "node2": 117121,
+            "type": 9,
+            "w": 92.0
+        },
+        {
+            "id": 9974047,
+            "node1": 44155,
+            "node2": 118146,
+            "type": 9,
+            "w": 92.0
+        },
+        {
+            "id": 405032,
+            "node1": 44155,
+            "node2": 119272,
+            "type": 9,
+            "w": 92.0
+        },
+        {
+            "id": 1709739,
+            "node1": 44155,
+            "node2": 137312,
+            "type": 9,
+            "w": 87.0
+        },
+        {
+            "id": 2053513,
+            "node1": 44155,
+            "node2": 213325,
+            "type": 9,
+            "w": 91.0
+        },
+        {
+            "id": 874270442,
+            "node1": 44155,
+            "node2": 407347,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 740792726,
+            "node1": 44155,
+            "node2": 14962427,
+            "type": 9,
+            "w": 22.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:59.457884",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "grotte",
+        "#relations": 14,
+        "max_relation_weight": 94.0,
+        "#nodes": 15,
+        "duration": "0:00:00.005624"
+    }
+}

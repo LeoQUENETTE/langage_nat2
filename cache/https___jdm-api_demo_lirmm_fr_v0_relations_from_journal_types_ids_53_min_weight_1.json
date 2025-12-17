@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 108150,
+            "name": "contenu",
+            "type": 1,
+            "w": 10079
+        },
+        {
+            "id": 13681,
+            "name": "édition",
+            "type": 1,
+            "w": 5418
+        },
+        {
+            "id": 47201,
+            "name": "information",
+            "type": 1,
+            "w": 23842
+        },
+        {
+            "id": 2026,
+            "name": "journal",
+            "type": 1,
+            "w": 9365
+        },
+        {
+            "id": 2115061,
+            "name": "reportages",
+            "type": 2,
+            "w": 358
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143730769,
+            "node1": 2026,
+            "node2": 13681,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156140177,
+            "node1": 2026,
+            "node2": 47201,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1143644802,
+            "node1": 2026,
+            "node2": 108150,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 1156140186,
+            "node1": 2026,
+            "node2": 2115061,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:06.152947",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "journal",
+        "#relations": 4,
+        "max_relation_weight": 35.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006868"
+    }
+}

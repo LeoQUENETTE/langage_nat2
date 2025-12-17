@@ -1,0 +1,534 @@
+{
+    "nodes": [
+        {
+            "id": 54226,
+            "name": "couette",
+            "type": 1,
+            "w": 965
+        },
+        {
+            "id": 15411242,
+            "name": "en:in this neck of the woods",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15419652,
+            "name": "en:the person sitting across from you",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 388438,
+            "name": "à l'échelon local",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 15770911,
+            "name": "en:the person sitting next to you",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15434189,
+            "name": "en:on a local level",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15290558,
+            "name": "très lié",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 10214,
+            "name": "dans les parages",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 14967222,
+            "name": "en:neighbour",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15648002,
+            "name": "en:closeby",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15201701,
+            "name": "en:very close",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15201704,
+            "name": "en:just a few steps away",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15419653,
+            "name": "voisine de table",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 153484,
+            "name": "voisine",
+            "type": 1,
+            "w": 2377
+        },
+        {
+            "id": 15423306,
+            "name": "en:a stone's throw from here",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15423307,
+            "name": "en:just a short walk from here",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15423308,
+            "name": "en:just up the road",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263937,
+            "name": "en:in the area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 71578,
+            "name": "lit",
+            "type": 1,
+            "w": 10120
+        },
+        {
+            "id": 15770912,
+            "name": "en:the person next to you",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14920657,
+            "name": "en:nearby",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15770915,
+            "name": "en:person opposite you",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15770914,
+            "name": "en:person next to you",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15770913,
+            "name": "en:person sitting next to you",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15279922,
+            "name": "dans le voisinage immédiat",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 209244,
+            "name": "tout près",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 387457,
+            "name": "voisin de table",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 15419651,
+            "name": "en:the person opposite you",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15770916,
+            "name": "en:person sitting across from you",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15313894,
+            "name": "d'à côté",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 15220920,
+            "name": "voisin, voisine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 259378,
+            "name": "dans le coin",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 6904264,
+            "name": "en:locally",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15457345,
+            "name": "en local",
+            "type": 1,
+            "w": 122
+        },
+        {
+            "id": 13946,
+            "name": "propriétaire",
+            "type": 1,
+            "w": 4409
+        },
+        {
+            "id": 15423301,
+            "name": "en:very nearby",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15423302,
+            "name": "en:very close by",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15423305,
+            "name": "à deux pas d'ici",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8193,
+            "name": "à deux pas",
+            "type": 1,
+            "w": 56
+        }
+    ],
+    "relations": [
+        {
+            "id": 594674228,
+            "node1": 71578,
+            "node2": 8193,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 634883649,
+            "node1": 71578,
+            "node2": 10214,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1021838160,
+            "node1": 71578,
+            "node2": 13946,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1046570282,
+            "node1": 71578,
+            "node2": 54226,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 375711774,
+            "node1": 71578,
+            "node2": 153484,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 720595596,
+            "node1": 71578,
+            "node2": 209244,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 594674123,
+            "node1": 71578,
+            "node2": 259378,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 479258499,
+            "node1": 71578,
+            "node2": 387457,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 594674183,
+            "node1": 71578,
+            "node2": 388438,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 594674148,
+            "node1": 71578,
+            "node2": 6904264,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 479258376,
+            "node1": 71578,
+            "node2": 14920657,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 479258474,
+            "node1": 71578,
+            "node2": 14967222,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 594674215,
+            "node1": 71578,
+            "node2": 15201701,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 594674205,
+            "node1": 71578,
+            "node2": 15201704,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 479258629,
+            "node1": 71578,
+            "node2": 15220920,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 594674159,
+            "node1": 71578,
+            "node2": 15263937,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 594674238,
+            "node1": 71578,
+            "node2": 15279922,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 594674248,
+            "node1": 71578,
+            "node2": 15290558,
+            "type": 121,
+            "w": 43.0
+        },
+        {
+            "id": 479258428,
+            "node1": 71578,
+            "node2": 15313894,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 720595616,
+            "node1": 71578,
+            "node2": 15411242,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 479258539,
+            "node1": 71578,
+            "node2": 15419651,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 479258549,
+            "node1": 71578,
+            "node2": 15419652,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 479258529,
+            "node1": 71578,
+            "node2": 15419653,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 538839877,
+            "node1": 71578,
+            "node2": 15423301,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 538839867,
+            "node1": 71578,
+            "node2": 15423302,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 479258665,
+            "node1": 71578,
+            "node2": 15423305,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 538839887,
+            "node1": 71578,
+            "node2": 15423306,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 538839857,
+            "node1": 71578,
+            "node2": 15423307,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 538839847,
+            "node1": 71578,
+            "node2": 15423308,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 594674264,
+            "node1": 71578,
+            "node2": 15434189,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 594674173,
+            "node1": 71578,
+            "node2": 15457345,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 594674195,
+            "node1": 71578,
+            "node2": 15648002,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 479258571,
+            "node1": 71578,
+            "node2": 15770911,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 479258581,
+            "node1": 71578,
+            "node2": 15770912,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 479258464,
+            "node1": 71578,
+            "node2": 15770913,
+            "type": 121,
+            "w": 38.0
+        },
+        {
+            "id": 479258454,
+            "node1": 71578,
+            "node2": 15770914,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 479258509,
+            "node1": 71578,
+            "node2": 15770915,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 479258519,
+            "node1": 71578,
+            "node2": 15770916,
+            "type": 121,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:30.695675",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lit",
+        "#relations": 38,
+        "max_relation_weight": 43.0,
+        "#nodes": 39,
+        "duration": "0:00:00.005638"
+    }
+}

@@ -1,0 +1,2588 @@
+{
+    "nodes": [
+        {
+            "id": 1773803,
+            "name": "w c",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 15499957,
+            "name": "en:premisses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15048148,
+            "name": "en:restroom",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 307463884,
+            "name": "W C",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 33256,
+            "name": "banc",
+            "type": 1,
+            "w": 1510
+        },
+        {
+            "id": 15302558,
+            "name": "en:kids",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 62389,
+            "name": "multiplication",
+            "type": 1,
+            "w": 4088
+        },
+        {
+            "id": 197384,
+            "name": "centre de détention",
+            "type": 1,
+            "w": 122
+        },
+        {
+            "id": 15321695,
+            "name": "parc à jeux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94254,
+            "name": "cartable",
+            "type": 1,
+            "w": 595
+        },
+        {
+            "id": 14960513,
+            "name": "en:scene",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15395091,
+            "name": "en:play area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 180746714,
+            "name": "Cour de récréation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15466741,
+            "name": "en:reception arrangements",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15081181,
+            "name": "en:playing field",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 158961,
+            "name": "salle de cours",
+            "type": 1,
+            "w": 171
+        },
+        {
+            "id": 15254548,
+            "name": "en:elementary teacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15312482,
+            "name": "en:primary school teacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63240,
+            "name": "écolier",
+            "type": 1,
+            "w": 1218
+        },
+        {
+            "id": 15076258,
+            "name": "en:john",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92836,
+            "name": "toilettes",
+            "type": 1,
+            "w": 1050
+        },
+        {
+            "id": 90053,
+            "name": "lavabo",
+            "type": 1,
+            "w": 768
+        },
+        {
+            "id": 15257286,
+            "name": "parc de jeux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15429790,
+            "name": "enseignant du premier degré",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 94978,
+            "name": "ordinateur",
+            "type": 1,
+            "w": 9689
+        },
+        {
+            "id": 15249179,
+            "name": "en:meeting room",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 235604,
+            "name": "salle de conférence",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 27097,
+            "name": "gymnase",
+            "type": 1,
+            "w": 408
+        },
+        {
+            "id": 15212254,
+            "name": "en:school playground",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 352384,
+            "name": "espace de jeu",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 15442387,
+            "name": "en:immigration detention center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15460873,
+            "name": "le secondaire",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 8254,
+            "name": "bureau",
+            "type": 1,
+            "w": 5986
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4616
+        },
+        {
+            "id": 15416755,
+            "name": "en:sports field",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11557,
+            "name": "lycée",
+            "type": 1,
+            "w": 4267
+        },
+        {
+            "id": 15257287,
+            "name": "en:play-ground",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15307499,
+            "name": "en:reception center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14964866,
+            "name": "en:water closet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92636,
+            "name": "bibliothèque",
+            "type": 1,
+            "w": 4652
+        },
+        {
+            "id": 8728457,
+            "name": "en:playground",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33217,
+            "name": "cantine",
+            "type": 1,
+            "w": 1688
+        },
+        {
+            "id": 253972,
+            "name": "centre de rétention",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 57914,
+            "name": "craie",
+            "type": 1,
+            "w": 695
+        },
+        {
+            "id": 161627,
+            "name": "wc",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 139209,
+            "name": "salle",
+            "type": 1,
+            "w": 6578
+        },
+        {
+            "id": 15066209,
+            "name": "en:senior high school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15209659,
+            "name": "en:secondary education",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 8848499,
+            "name": "en:mistress",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 53536792,
+            "name": "en:w/c",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15424374,
+            "name": "en:sixth-form",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 98286,
+            "name": "directrice",
+            "type": 1,
+            "w": 711
+        },
+        {
+            "id": 60866,
+            "name": "cours",
+            "type": 1,
+            "w": 14782
+        },
+        {
+            "id": 15214292,
+            "name": "en:elementary school teacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 144991,
+            "name": "français",
+            "type": 1,
+            "w": 17491
+        },
+        {
+            "id": 11353,
+            "name": "formation",
+            "type": 1,
+            "w": 18063
+        },
+        {
+            "id": 81145,
+            "name": "maîtresse",
+            "type": 1,
+            "w": 2236
+        },
+        {
+            "id": 313433,
+            "name": "maître>46505",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 7236,
+            "name": "études",
+            "type": 1,
+            "w": 10307
+        },
+        {
+            "id": 148961,
+            "name": "locaux",
+            "type": 1,
+            "w": 3681
+        },
+        {
+            "id": 49207,
+            "name": "acteur",
+            "type": 1,
+            "w": 8917
+        },
+        {
+            "id": 142623,
+            "name": "classe",
+            "type": 1,
+            "w": 7142
+        },
+        {
+            "id": 124094,
+            "name": "enfant",
+            "type": 1,
+            "w": 57723
+        },
+        {
+            "id": 155464,
+            "name": "enseignants",
+            "type": 1,
+            "w": 2400
+        },
+        {
+            "id": 145648,
+            "name": "directeur",
+            "type": 1,
+            "w": 5305
+        },
+        {
+            "id": 15435940,
+            "name": "en:studies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 89591,
+            "name": "table",
+            "type": 1,
+            "w": 8204
+        },
+        {
+            "id": 42193,
+            "name": "lavatory",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 75003,
+            "name": "tableau",
+            "type": 1,
+            "w": 5407
+        },
+        {
+            "id": 68887,
+            "name": "élève",
+            "type": 1,
+            "w": 7699
+        },
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 34527,
+            "name": "enfants",
+            "type": 1,
+            "w": 10503
+        },
+        {
+            "id": 15460874,
+            "name": "en:secondary system",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 59340,
+            "name": "sanitaires",
+            "type": 1,
+            "w": 339
+        },
+        {
+            "id": 15303717,
+            "name": "en:secondary sector",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 136771,
+            "name": "WC",
+            "type": 1,
+            "w": 567
+        },
+        {
+            "id": 151638,
+            "name": "élèves",
+            "type": 1,
+            "w": 7582
+        },
+        {
+            "id": 94000852,
+            "name": "Toilettes",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 8027795,
+            "name": "en:morgue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15238846,
+            "name": "en:lecture hall",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15429467,
+            "name": "en:lecture theatre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 68935,
+            "name": "amphi",
+            "type": 1,
+            "w": 372
+        },
+        {
+            "id": 13197154,
+            "name": "en:sports ground",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428104,
+            "name": "en:play park",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15416596,
+            "name": "en:sports area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15081180,
+            "name": "en:playing area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 50646786,
+            "name": "C.R.A",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 123521,
+            "name": "water-closet",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15411101,
+            "name": "en:manufacturing sector",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8794700,
+            "name": "en:detention center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442386,
+            "name": "en:immigration detention centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134962,
+            "name": "C.E.S",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15425135,
+            "name": "C.E.S.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 137925,
+            "name": "maître d'école",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 6959538,
+            "name": "en:teacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15251439,
+            "name": "professeur d'école primaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 46393,
+            "name": "institutrice",
+            "type": 1,
+            "w": 793
+        },
+        {
+            "id": 15084098,
+            "name": "en:lycee",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7809653,
+            "name": "en:classroom",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15437723,
+            "name": "en:playground jibes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 162327,
+            "name": "cour de récréation",
+            "type": 1,
+            "w": 278
+        },
+        {
+            "id": 25384,
+            "name": "préau",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 591331,
+            "name": "w/c",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15448457,
+            "name": "W.-C.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 307459577,
+            "name": "W. - C",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2511898,
+            "name": "W.C.",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 210065,
+            "name": "W. - C.",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 143757712,
+            "name": "École secondaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15057321,
+            "name": "en:schoolyard",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17463379,
+            "name": "salles de classe",
+            "type": 1,
+            "w": 174
+        },
+        {
+            "id": 179783,
+            "name": "secteur secondaire",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 142299,
+            "name": "W.-C",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 253520,
+            "name": "lycée général",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 14925532,
+            "name": "en:loo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925533,
+            "name": "en:toilet",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 14947082,
+            "name": "en:lycée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925534,
+            "name": "en:WC",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 81235,
+            "name": "w.-c",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 10514464,
+            "name": "établissement d'enseignement secondaire",
+            "type": 1,
+            "w": 5
+        },
+        {
+            "id": 30142,
+            "name": "w.c",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 1853960,
+            "name": "children",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 130627,
+            "name": "lavabos",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 145356,
+            "name": "W.C",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 166074,
+            "name": "maison de redressement",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 160568,
+            "name": "terrain de sport",
+            "type": 1,
+            "w": 116
+        },
+        {
+            "id": 84274,
+            "name": "maison de correction",
+            "type": 1,
+            "w": 133
+        },
+        {
+            "id": 233403,
+            "name": "camp de détention",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 239767,
+            "name": "cour de récré",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 228450,
+            "name": "cour d'école",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 15282071,
+            "name": "en:premises",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 179693,
+            "name": "w.-c.",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 30371,
+            "name": "cour",
+            "type": 1,
+            "w": 7459
+        },
+        {
+            "id": 7863247,
+            "name": "en:high school student",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15084096,
+            "name": "en:secondary school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15424375,
+            "name": "en:sixth-form college",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 68115,
+            "name": "waters",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 44864,
+            "name": "irrégulière",
+            "type": 1,
+            "w": 2751
+        },
+        {
+            "id": 15429791,
+            "name": "enseignante du premier degré",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 313684552,
+            "name": "Centre de détention",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 7223171,
+            "name": "en:toilet facilities",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215453,
+            "name": "lycéenne",
+            "type": 1,
+            "w": 199
+        },
+        {
+            "id": 7842445,
+            "name": "en:high school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7849106,
+            "name": "en:sixth form college",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12503947,
+            "name": "en:children",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 161606,
+            "name": "salle de classe",
+            "type": 1,
+            "w": 309
+        },
+        {
+            "id": 92390,
+            "name": "aire de jeu",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 161680,
+            "name": "école secondaire",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 9120871,
+            "name": "en:lavatory",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 12405,
+            "name": "instit",
+            "type": 1,
+            "w": 190
+        },
+        {
+            "id": 46505,
+            "name": "enseignant",
+            "type": 1,
+            "w": 3797
+        },
+        {
+            "id": 36568,
+            "name": "professeur",
+            "type": 1,
+            "w": 8475
+        },
+        {
+            "id": 180823,
+            "name": "aire de jeux",
+            "type": 1,
+            "w": 43
+        },
+        {
+            "id": 144818,
+            "name": "maison d'arrêt",
+            "type": 1,
+            "w": 268
+        },
+        {
+            "id": 212013,
+            "name": "structure d'accueil",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 15441112,
+            "name": "en:facilities",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14947386,
+            "name": "en:house of correction",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15068924,
+            "name": "en:washroom",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15106694,
+            "name": "en:W.C.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15214300,
+            "name": "en:the staff",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15216216,
+            "name": "cabinet d'aisances",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15369664,
+            "name": "centre de rétention administrative",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 15428577,
+            "name": "en:dunny",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15429466,
+            "name": "en:lecture theater",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15441113,
+            "name": "en:toilets",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15787138,
+            "name": "en:loci",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16027030,
+            "name": "w.c.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16321550,
+            "name": "en:second sector",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 47354,
+            "name": "hall",
+            "type": 1,
+            "w": 281
+        },
+        {
+            "id": 150644649,
+            "name": "Secteur Secondaire",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 85068,
+            "name": "dictionnaire",
+            "type": 1,
+            "w": 3493
+        },
+        {
+            "id": 151741,
+            "name": "terrain de jeu",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 351990,
+            "name": "enseignant du primaire",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 153559,
+            "name": "professeur des écoles",
+            "type": 1,
+            "w": 388
+        },
+        {
+            "id": 15045195,
+            "name": "en:schoolteacher",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15419487,
+            "name": "professeure des écoles",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 110311,
+            "name": "soustraction",
+            "type": 1,
+            "w": 1490
+        },
+        {
+            "id": 416601,
+            "name": "Élèves",
+            "type": 1,
+            "w": 255
+        },
+        {
+            "id": 161994,
+            "name": "maîtresse d'école",
+            "type": 1,
+            "w": 208
+        },
+        {
+            "id": 319627771,
+            "name": "écolier>68887",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 70477,
+            "name": "maître",
+            "type": 1,
+            "w": 9204
+        },
+        {
+            "id": 139156,
+            "name": "conte",
+            "type": 1,
+            "w": 4330
+        },
+        {
+            "id": 324862,
+            "name": "high school",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 114318,
+            "name": "pupitre",
+            "type": 1,
+            "w": 190
+        },
+        {
+            "id": 65138,
+            "name": "instituteur",
+            "type": 1,
+            "w": 1373
+        },
+        {
+            "id": 190326,
+            "name": "directeur financier",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 132857,
+            "name": "chaise",
+            "type": 1,
+            "w": 3934
+        },
+        {
+            "id": 2517701,
+            "name": "Secondaire",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 15059447,
+            "name": "en:detention centre",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 13047636,
+            "name": "en:reform school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413560,
+            "name": "en:juvie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413558,
+            "name": "en:juvenile detention centre",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15413559,
+            "name": "en:young offender institution",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15413561,
+            "name": "en:Borstal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15066276,
+            "name": "en:reformatory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 44061,
+            "name": "estrade",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 208953,
+            "name": "terrain de jeux",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 213886,
+            "name": "cantine>11729",
+            "type": 1,
+            "w": 146
+        }
+    ],
+    "relations": [
+        {
+            "id": 10533362,
+            "node1": 91240,
+            "node2": 7236,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 2153496,
+            "node1": 91240,
+            "node2": 8254,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 377641613,
+            "node1": 91240,
+            "node2": 11353,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10527864,
+            "node1": 91240,
+            "node2": 11557,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 10564622,
+            "node1": 91240,
+            "node2": 12405,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 2180327,
+            "node1": 91240,
+            "node2": 25384,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 2152448,
+            "node1": 91240,
+            "node2": 27097,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 585233885,
+            "node1": 91240,
+            "node2": 30142,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 424778,
+            "node1": 91240,
+            "node2": 30371,
+            "type": 9,
+            "w": 151.0
+        },
+        {
+            "id": 10529692,
+            "node1": 91240,
+            "node2": 33217,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 622892,
+            "node1": 91240,
+            "node2": 33256,
+            "type": 9,
+            "w": 89.0
+        },
+        {
+            "id": 10535946,
+            "node1": 91240,
+            "node2": 34527,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 424773,
+            "node1": 91240,
+            "node2": 36568,
+            "type": 9,
+            "w": 95.0
+        },
+        {
+            "id": 618831353,
+            "node1": 91240,
+            "node2": 42193,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 91020989,
+            "node1": 91240,
+            "node2": 44061,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 932755972,
+            "node1": 91240,
+            "node2": 44864,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 2237694,
+            "node1": 91240,
+            "node2": 46393,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 1150486616,
+            "node1": 91240,
+            "node2": 46505,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2244901,
+            "node1": 91240,
+            "node2": 47354,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 14637561,
+            "node1": 91240,
+            "node2": 49207,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 2563761,
+            "node1": 91240,
+            "node2": 57914,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 1055126069,
+            "node1": 91240,
+            "node2": 59340,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 2153630,
+            "node1": 91240,
+            "node2": 60866,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 9972792,
+            "node1": 91240,
+            "node2": 62389,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 962684298,
+            "node1": 91240,
+            "node2": 63240,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 2184185,
+            "node1": 91240,
+            "node2": 65138,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 485634030,
+            "node1": 91240,
+            "node2": 68115,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 424774,
+            "node1": 91240,
+            "node2": 68887,
+            "type": 9,
+            "w": 128.0
+        },
+        {
+            "id": 9973752,
+            "node1": 91240,
+            "node2": 68935,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 2237687,
+            "node1": 91240,
+            "node2": 70477,
+            "type": 9,
+            "w": 71.0
+        },
+        {
+            "id": 1565537,
+            "node1": 91240,
+            "node2": 75003,
+            "type": 9,
+            "w": 130.0
+        },
+        {
+            "id": 2237690,
+            "node1": 91240,
+            "node2": 81145,
+            "type": 9,
+            "w": 81.0
+        },
+        {
+            "id": 585233951,
+            "node1": 91240,
+            "node2": 81235,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 519510930,
+            "node1": 91240,
+            "node2": 84274,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 11364547,
+            "node1": 91240,
+            "node2": 85068,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 1858209,
+            "node1": 91240,
+            "node2": 89591,
+            "type": 9,
+            "w": 109.0
+        },
+        {
+            "id": 10528980,
+            "node1": 91240,
+            "node2": 90053,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 413394935,
+            "node1": 91240,
+            "node2": 92390,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1154241081,
+            "node1": 91240,
+            "node2": 92636,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 10528020,
+            "node1": 91240,
+            "node2": 92836,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 2563754,
+            "node1": 91240,
+            "node2": 94254,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 1072654608,
+            "node1": 91240,
+            "node2": 94978,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 2242825,
+            "node1": 91240,
+            "node2": 98286,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 9974998,
+            "node1": 91240,
+            "node2": 110311,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 2563757,
+            "node1": 91240,
+            "node2": 114318,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 933230098,
+            "node1": 91240,
+            "node2": 123521,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 2563753,
+            "node1": 91240,
+            "node2": 124094,
+            "type": 9,
+            "w": 61.0
+        },
+        {
+            "id": 977079924,
+            "node1": 91240,
+            "node2": 130627,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1858210,
+            "node1": 91240,
+            "node2": 132857,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 534701347,
+            "node1": 91240,
+            "node2": 134962,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 600839346,
+            "node1": 91240,
+            "node2": 135956,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 933180896,
+            "node1": 91240,
+            "node2": 136771,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 10564611,
+            "node1": 91240,
+            "node2": 137925,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 10528515,
+            "node1": 91240,
+            "node2": 139156,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2151233,
+            "node1": 91240,
+            "node2": 139209,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 604990236,
+            "node1": 91240,
+            "node2": 142299,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 424777,
+            "node1": 91240,
+            "node2": 142623,
+            "type": 9,
+            "w": 164.0
+        },
+        {
+            "id": 775517304,
+            "node1": 91240,
+            "node2": 144818,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 10527683,
+            "node1": 91240,
+            "node2": 144991,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 585234039,
+            "node1": 91240,
+            "node2": 145356,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2242824,
+            "node1": 91240,
+            "node2": 145648,
+            "type": 9,
+            "w": 63.0
+        },
+        {
+            "id": 519510274,
+            "node1": 91240,
+            "node2": 148961,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 2197111,
+            "node1": 91240,
+            "node2": 151638,
+            "type": 9,
+            "w": 80.0
+        },
+        {
+            "id": 491495134,
+            "node1": 91240,
+            "node2": 151741,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 10564605,
+            "node1": 91240,
+            "node2": 153559,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 600847592,
+            "node1": 91240,
+            "node2": 155464,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 2242821,
+            "node1": 91240,
+            "node2": 158961,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 551093873,
+            "node1": 91240,
+            "node2": 160568,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 622889,
+            "node1": 91240,
+            "node2": 161606,
+            "type": 9,
+            "w": 143.0
+        },
+        {
+            "id": 580993382,
+            "node1": 91240,
+            "node2": 161627,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 426441234,
+            "node1": 91240,
+            "node2": 161680,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 426441239,
+            "node1": 91240,
+            "node2": 161994,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 2242822,
+            "node1": 91240,
+            "node2": 162327,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 525347171,
+            "node1": 91240,
+            "node2": 166074,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 574103824,
+            "node1": 91240,
+            "node2": 179693,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 534701907,
+            "node1": 91240,
+            "node2": 179783,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 432484005,
+            "node1": 91240,
+            "node2": 180823,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 10564765,
+            "node1": 91240,
+            "node2": 190326,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 525352050,
+            "node1": 91240,
+            "node2": 197384,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 534701379,
+            "node1": 91240,
+            "node2": 208953,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 585234012,
+            "node1": 91240,
+            "node2": 210065,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 468252531,
+            "node1": 91240,
+            "node2": 212013,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 10530100,
+            "node1": 91240,
+            "node2": 213886,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 539458522,
+            "node1": 91240,
+            "node2": 215453,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 2242823,
+            "node1": 91240,
+            "node2": 228450,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 978193000,
+            "node1": 91240,
+            "node2": 233403,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 549537469,
+            "node1": 91240,
+            "node2": 235604,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 10532185,
+            "node1": 91240,
+            "node2": 239767,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 933230099,
+            "node1": 91240,
+            "node2": 253520,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 561357169,
+            "node1": 91240,
+            "node2": 253972,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 10564601,
+            "node1": 91240,
+            "node2": 313433,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 618830391,
+            "node1": 91240,
+            "node2": 324862,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 1055141888,
+            "node1": 91240,
+            "node2": 351990,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 413394969,
+            "node1": 91240,
+            "node2": 352384,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 940468705,
+            "node1": 91240,
+            "node2": 416601,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 933180325,
+            "node1": 91240,
+            "node2": 591331,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 585234024,
+            "node1": 91240,
+            "node2": 1773803,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 1080933661,
+            "node1": 91240,
+            "node2": 1853960,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 604990257,
+            "node1": 91240,
+            "node2": 2511898,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 444976910,
+            "node1": 91240,
+            "node2": 2517701,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 599615059,
+            "node1": 91240,
+            "node2": 6959538,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 1055141843,
+            "node1": 91240,
+            "node2": 7223171,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 431497115,
+            "node1": 91240,
+            "node2": 7809653,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 405556463,
+            "node1": 91240,
+            "node2": 7842445,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1080934292,
+            "node1": 91240,
+            "node2": 7849106,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 599615174,
+            "node1": 91240,
+            "node2": 7863247,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 499867323,
+            "node1": 91240,
+            "node2": 8027795,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 402427219,
+            "node1": 91240,
+            "node2": 8728457,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 561357121,
+            "node1": 91240,
+            "node2": 8794700,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 448519599,
+            "node1": 91240,
+            "node2": 8848499,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 413111993,
+            "node1": 91240,
+            "node2": 9120871,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 547473126,
+            "node1": 91240,
+            "node2": 10514464,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 515266988,
+            "node1": 91240,
+            "node2": 12503947,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 520893766,
+            "node1": 91240,
+            "node2": 13047636,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 561355321,
+            "node1": 91240,
+            "node2": 13197154,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 413111899,
+            "node1": 91240,
+            "node2": 14925532,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 413111963,
+            "node1": 91240,
+            "node2": 14925533,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 709508905,
+            "node1": 91240,
+            "node2": 14925534,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 618830389,
+            "node1": 91240,
+            "node2": 14947082,
+            "type": 9,
+            "w": 42.0
+        },
+        {
+            "id": 1023339335,
+            "node1": 91240,
+            "node2": 14947386,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 600839785,
+            "node1": 91240,
+            "node2": 14960513,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 736701755,
+            "node1": 91240,
+            "node2": 14964866,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 432483735,
+            "node1": 91240,
+            "node2": 15045195,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 413111933,
+            "node1": 91240,
+            "node2": 15048148,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 402427227,
+            "node1": 91240,
+            "node2": 15057321,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 468252484,
+            "node1": 91240,
+            "node2": 15059447,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 618828803,
+            "node1": 91240,
+            "node2": 15066209,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 520893704,
+            "node1": 91240,
+            "node2": 15066276,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 491980038,
+            "node1": 91240,
+            "node2": 15068924,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 413112024,
+            "node1": 91240,
+            "node2": 15076258,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 561355444,
+            "node1": 91240,
+            "node2": 15081180,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 534701388,
+            "node1": 91240,
+            "node2": 15081181,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 426441232,
+            "node1": 91240,
+            "node2": 15084096,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 618828800,
+            "node1": 91240,
+            "node2": 15084098,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 736701820,
+            "node1": 91240,
+            "node2": 15106694,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 593668064,
+            "node1": 91240,
+            "node2": 15209659,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 402427237,
+            "node1": 91240,
+            "node2": 15212254,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 432483731,
+            "node1": 91240,
+            "node2": 15214292,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1055123159,
+            "node1": 91240,
+            "node2": 15214300,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 600849173,
+            "node1": 91240,
+            "node2": 15216216,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 499867305,
+            "node1": 91240,
+            "node2": 15238846,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 551084434,
+            "node1": 91240,
+            "node2": 15249179,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 436518049,
+            "node1": 91240,
+            "node2": 15251439,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 1055145838,
+            "node1": 91240,
+            "node2": 15254548,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 1055145904,
+            "node1": 91240,
+            "node2": 15257286,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 578519349,
+            "node1": 91240,
+            "node2": 15257287,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 426538567,
+            "node1": 91240,
+            "node2": 15282071,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 515266979,
+            "node1": 91240,
+            "node2": 15302558,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 444976907,
+            "node1": 91240,
+            "node2": 15303717,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 486602339,
+            "node1": 91240,
+            "node2": 15307499,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 432483728,
+            "node1": 91240,
+            "node2": 15312482,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1055110536,
+            "node1": 91240,
+            "node2": 15321695,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 561357256,
+            "node1": 91240,
+            "node2": 15369664,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 413394937,
+            "node1": 91240,
+            "node2": 15395091,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 549522997,
+            "node1": 91240,
+            "node2": 15411101,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 520894004,
+            "node1": 91240,
+            "node2": 15413558,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 520894005,
+            "node1": 91240,
+            "node2": 15413559,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 520894006,
+            "node1": 91240,
+            "node2": 15413560,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 520894007,
+            "node1": 91240,
+            "node2": 15413561,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 519511808,
+            "node1": 91240,
+            "node2": 15416596,
+            "type": 9,
+            "w": 24.0
+        },
+        {
+            "id": 561355329,
+            "node1": 91240,
+            "node2": 15416755,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 444977242,
+            "node1": 91240,
+            "node2": 15419487,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 432484204,
+            "node1": 91240,
+            "node2": 15424374,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 432484207,
+            "node1": 91240,
+            "node2": 15424375,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 777274267,
+            "node1": 91240,
+            "node2": 15425135,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 561355311,
+            "node1": 91240,
+            "node2": 15428104,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 600839375,
+            "node1": 91240,
+            "node2": 15428577,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 499867317,
+            "node1": 91240,
+            "node2": 15429466,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 499867311,
+            "node1": 91240,
+            "node2": 15429467,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 432484024,
+            "node1": 91240,
+            "node2": 15429790,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 432484029,
+            "node1": 91240,
+            "node2": 15429791,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 435276788,
+            "node1": 91240,
+            "node2": 15435940,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 547471836,
+            "node1": 91240,
+            "node2": 15437723,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 548191150,
+            "node1": 91240,
+            "node2": 15441112,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 474057630,
+            "node1": 91240,
+            "node2": 15441113,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 561357315,
+            "node1": 91240,
+            "node2": 15442386,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 561357221,
+            "node1": 91240,
+            "node2": 15442387,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 775518377,
+            "node1": 91240,
+            "node2": 15448457,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 534701902,
+            "node1": 91240,
+            "node2": 15460873,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 593668067,
+            "node1": 91240,
+            "node2": 15460874,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 486602354,
+            "node1": 91240,
+            "node2": 15466741,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 1155406406,
+            "node1": 91240,
+            "node2": 15499957,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 1055126243,
+            "node1": 91240,
+            "node2": 15787138,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 721315047,
+            "node1": 91240,
+            "node2": 16027030,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1055123076,
+            "node1": 91240,
+            "node2": 16321550,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 770910438,
+            "node1": 91240,
+            "node2": 17463379,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 561357362,
+            "node1": 91240,
+            "node2": 50646786,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 736701886,
+            "node1": 91240,
+            "node2": 53536792,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 1080941590,
+            "node1": 91240,
+            "node2": 94000852,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 548189737,
+            "node1": 91240,
+            "node2": 143757712,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 978193152,
+            "node1": 91240,
+            "node2": 150644649,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 974517817,
+            "node1": 91240,
+            "node2": 180746714,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 933229595,
+            "node1": 91240,
+            "node2": 307459577,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 969324796,
+            "node1": 91240,
+            "node2": 307463884,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 1155405592,
+            "node1": 91240,
+            "node2": 313684552,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 1010848959,
+            "node1": 91240,
+            "node2": 319627771,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:09.060558",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "école",
+        "#relations": 196,
+        "max_relation_weight": 164.0,
+        "#nodes": 197,
+        "duration": "0:00:00.059343"
+    }
+}

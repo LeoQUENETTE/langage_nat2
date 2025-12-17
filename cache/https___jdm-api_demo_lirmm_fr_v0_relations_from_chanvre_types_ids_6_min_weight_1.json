@@ -1,0 +1,300 @@
+{
+    "nodes": [
+        {
+            "id": 3170886,
+            "name": "cannabacée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14153501,
+            "name": "Fibre naturelle",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 257146,
+            "name": "fibre naturelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15295543,
+            "name": "en:insulating material",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 569361,
+            "name": "plante tinctoriale",
+            "type": 777,
+            "w": 51
+        },
+        {
+            "id": 10885,
+            "name": "fibre textile",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 2785460,
+            "name": "plante hallucinogène",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 145941,
+            "name": "plante",
+            "type": 1,
+            "w": 8021
+        },
+        {
+            "id": 16174915,
+            "name": "Plante herbacée",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 436570,
+            "name": "entité biologique",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 71624,
+            "name": "être vivant",
+            "type": 1,
+            "w": 2588
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 114637,
+            "name": "aliment",
+            "type": 1,
+            "w": 2447
+        },
+        {
+            "id": 108520805,
+            "name": "Fibre textile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 136507,
+            "name": "végétal",
+            "type": 1,
+            "w": 1966
+        },
+        {
+            "id": 228995,
+            "name": "matériau isolant",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 264829,
+            "name": "plante cultivée",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 76392,
+            "name": "chanvre",
+            "type": 1,
+            "w": 206
+        },
+        {
+            "id": 213432,
+            "name": "tissu>94609",
+            "type": 1,
+            "w": 272
+        },
+        {
+            "id": 205634,
+            "name": "plante herbacée",
+            "type": 1,
+            "w": 183
+        }
+    ],
+    "relations": [
+        {
+            "id": 9909209,
+            "node1": 76392,
+            "node2": 10885,
+            "type": 6,
+            "w": 16.0
+        },
+        {
+            "id": 25212315,
+            "node1": 76392,
+            "node2": 63936,
+            "type": 6,
+            "w": 87.0
+        },
+        {
+            "id": 59821181,
+            "node1": 76392,
+            "node2": 71624,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 76031902,
+            "node1": 76392,
+            "node2": 114637,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 59821063,
+            "node1": 76392,
+            "node2": 136507,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 59819540,
+            "node1": 76392,
+            "node2": 145941,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 29057028,
+            "node1": 76392,
+            "node2": 205634,
+            "type": 6,
+            "w": 148.0
+        },
+        {
+            "id": 25212616,
+            "node1": 76392,
+            "node2": 213432,
+            "type": 6,
+            "w": 76.0
+        },
+        {
+            "id": 9906778,
+            "node1": 76392,
+            "node2": 228995,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 9917092,
+            "node1": 76392,
+            "node2": 257146,
+            "type": 6,
+            "w": 19.0
+        },
+        {
+            "id": 108384015,
+            "node1": 76392,
+            "node2": 264829,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 1030518618,
+            "node1": 76392,
+            "node2": 316850,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 1030340991,
+            "node1": 76392,
+            "node2": 436570,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 80592615,
+            "node1": 76392,
+            "node2": 569361,
+            "type": 6,
+            "w": 1.0
+        },
+        {
+            "id": 64605588,
+            "node1": 76392,
+            "node2": 2785460,
+            "type": 6,
+            "w": 4.0
+        },
+        {
+            "id": 76280737,
+            "node1": 76392,
+            "node2": 3170886,
+            "type": 6,
+            "w": 1.0
+        },
+        {
+            "id": 376433214,
+            "node1": 76392,
+            "node2": 14153501,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 597521406,
+            "node1": 76392,
+            "node2": 15295543,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 618928194,
+            "node1": 76392,
+            "node2": 16174915,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 540935083,
+            "node1": 76392,
+            "node2": 108520805,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:08.771064",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chanvre",
+        "#relations": 20,
+        "max_relation_weight": 148.0,
+        "#nodes": 21,
+        "duration": "0:00:00.015340"
+    }
+}

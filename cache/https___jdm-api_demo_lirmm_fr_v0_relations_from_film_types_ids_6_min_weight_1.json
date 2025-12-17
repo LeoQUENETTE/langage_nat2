@@ -1,0 +1,378 @@
+{
+    "nodes": [
+        {
+            "id": 294856208,
+            "name": "oeuvre du cinéma",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 14636927,
+            "name": "oeuvre artistique",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 323107,
+            "name": "oeuvre>3695",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 246632,
+            "name": "oeuvre de fiction",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12888
+        },
+        {
+            "id": 134263,
+            "name": "emballage",
+            "type": 1,
+            "w": 1023
+        },
+        {
+            "id": 7290804,
+            "name": "en:representation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4233
+        },
+        {
+            "id": 44075,
+            "name": "&oelig;uvre",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 124433,
+            "name": "récit",
+            "type": 1,
+            "w": 7380
+        },
+        {
+            "id": 51970,
+            "name": "représentation",
+            "type": 1,
+            "w": 11756
+        },
+        {
+            "id": 13444,
+            "name": "production",
+            "type": 1,
+            "w": 13367
+        },
+        {
+            "id": 217196,
+            "name": "oeuvre cinématographique",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 146367,
+            "name": "histoire",
+            "type": 1,
+            "w": 35702
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12554
+        },
+        {
+            "id": 154700,
+            "name": "oeuvre d'art",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 66909,
+            "name": "spectacle",
+            "type": 1,
+            "w": 6631
+        },
+        {
+            "id": 219545,
+            "name": "pellicule>37993",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9528
+        },
+        {
+            "id": 44386,
+            "name": "support",
+            "type": 1,
+            "w": 5090
+        },
+        {
+            "id": 144306,
+            "name": "pellicule",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 14951751,
+            "name": "en:work of art",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 48189,
+            "name": "bobine",
+            "type": 1,
+            "w": 160
+        },
+        {
+            "id": 219541,
+            "name": "pellicule>1376",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 432323,
+            "name": "representation",
+            "type": 1,
+            "w": 197
+        },
+        {
+            "id": 304423452,
+            "name": "oeuvre culturelle",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 1902109,
+            "name": "oeuvre audiovisuelle",
+            "type": 1,
+            "w": 27
+        }
+    ],
+    "relations": [
+        {
+            "id": 578503685,
+            "node1": 29592,
+            "node2": 237,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 603292181,
+            "node1": 29592,
+            "node2": 13444,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 1130684043,
+            "node1": 29592,
+            "node2": 44075,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 113060803,
+            "node1": 29592,
+            "node2": 44386,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 2376170,
+            "node1": 29592,
+            "node2": 48189,
+            "type": 6,
+            "w": 87.0
+        },
+        {
+            "id": 589455,
+            "node1": 29592,
+            "node2": 51970,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 589459,
+            "node1": 29592,
+            "node2": 66909,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 2376171,
+            "node1": 29592,
+            "node2": 124433,
+            "type": 6,
+            "w": 87.0
+        },
+        {
+            "id": 12438329,
+            "node1": 29592,
+            "node2": 134263,
+            "type": 6,
+            "w": 186.0
+        },
+        {
+            "id": 629388,
+            "node1": 29592,
+            "node2": 135190,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 589456,
+            "node1": 29592,
+            "node2": 144306,
+            "type": 6,
+            "w": 99.0
+        },
+        {
+            "id": 433203,
+            "node1": 29592,
+            "node2": 144938,
+            "type": 6,
+            "w": 106.0
+        },
+        {
+            "id": 578503686,
+            "node1": 29592,
+            "node2": 146367,
+            "type": 6,
+            "w": 89.0
+        },
+        {
+            "id": 8796858,
+            "node1": 29592,
+            "node2": 154700,
+            "type": 6,
+            "w": 136.0
+        },
+        {
+            "id": 96698822,
+            "node1": 29592,
+            "node2": 217196,
+            "type": 6,
+            "w": 269.0
+        },
+        {
+            "id": 97131300,
+            "node1": 29592,
+            "node2": 219541,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 98036597,
+            "node1": 29592,
+            "node2": 219545,
+            "type": 6,
+            "w": 23.0
+        },
+        {
+            "id": 9918980,
+            "node1": 29592,
+            "node2": 246632,
+            "type": 6,
+            "w": 118.0
+        },
+        {
+            "id": 96698816,
+            "node1": 29592,
+            "node2": 323107,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 255907475,
+            "node1": 29592,
+            "node2": 432323,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 879850816,
+            "node1": 29592,
+            "node2": 1902109,
+            "type": 6,
+            "w": 127.0
+        },
+        {
+            "id": 255907193,
+            "node1": 29592,
+            "node2": 7290804,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 1137196894,
+            "node1": 29592,
+            "node2": 14636927,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 595642059,
+            "node1": 29592,
+            "node2": 14951751,
+            "type": 6,
+            "w": 138.0
+        },
+        {
+            "id": 767137461,
+            "node1": 29592,
+            "node2": 294856208,
+            "type": 6,
+            "w": 108.0
+        },
+        {
+            "id": 929858371,
+            "node1": 29592,
+            "node2": 304423452,
+            "type": 6,
+            "w": 108.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:30.295450",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "film",
+        "#relations": 26,
+        "max_relation_weight": 269.0,
+        "#nodes": 27,
+        "duration": "0:00:00.023209"
+    }
+}

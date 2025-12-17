@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 218812,
+            "name": "bout>123981",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 151591,
+            "name": "***",
+            "type": 0,
+            "w": 6588
+        },
+        {
+            "id": 101290,
+            "name": "fibre",
+            "type": 1,
+            "w": 1434
+        },
+        {
+            "id": 35712,
+            "name": "atome",
+            "type": 1,
+            "w": 2598
+        },
+        {
+            "id": 56924,
+            "name": "bout",
+            "type": 1,
+            "w": 8482
+        },
+        {
+            "id": 25437,
+            "name": "tige",
+            "type": 1,
+            "w": 2504
+        },
+        {
+            "id": 117662,
+            "name": "molécule",
+            "type": 1,
+            "w": 3915
+        },
+        {
+            "id": 115865,
+            "name": "trou",
+            "type": 1,
+            "w": 4655
+        },
+        {
+            "id": 142722,
+            "name": "épi",
+            "type": 1,
+            "w": 202
+        },
+        {
+            "id": 143249,
+            "name": "paille",
+            "type": 1,
+            "w": 674
+        },
+        {
+            "id": 48526,
+            "name": "brin",
+            "type": 1,
+            "w": 251
+        }
+    ],
+    "relations": [
+        {
+            "id": 182612,
+            "node1": 143249,
+            "node2": 25437,
+            "type": 9,
+            "w": 80.0
+        },
+        {
+            "id": 172844,
+            "node1": 143249,
+            "node2": 35712,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 267123,
+            "node1": 143249,
+            "node2": 48526,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 97142837,
+            "node1": 143249,
+            "node2": 56924,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 172846,
+            "node1": 143249,
+            "node2": 101290,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 267122,
+            "node1": 143249,
+            "node2": 115865,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 172845,
+            "node1": 143249,
+            "node2": 117662,
+            "type": 9,
+            "w": 54.0
+        },
+        {
+            "id": 222199,
+            "node1": 143249,
+            "node2": 142722,
+            "type": 9,
+            "w": 70.0
+        },
+        {
+            "id": 207288,
+            "node1": 143249,
+            "node2": 151591,
+            "type": 9,
+            "w": 54.0
+        },
+        {
+            "id": 97142845,
+            "node1": 143249,
+            "node2": 218812,
+            "type": 9,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:01.670147",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "paille",
+        "#relations": 10,
+        "max_relation_weight": 80.0,
+        "#nodes": 11,
+        "duration": "0:00:00.002821"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 110910,
+            "name": "chaleur",
+            "type": 1,
+            "w": 7778
+        },
+        {
+            "id": 140770,
+            "name": "laine",
+            "type": 1,
+            "w": 2205
+        }
+    ],
+    "relations": [
+        {
+            "id": 765217957,
+            "node1": 140770,
+            "node2": 110910,
+            "type": 153,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:46.280365",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "laine",
+        "#relations": 1,
+        "max_relation_weight": 31.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003545"
+    }
+}

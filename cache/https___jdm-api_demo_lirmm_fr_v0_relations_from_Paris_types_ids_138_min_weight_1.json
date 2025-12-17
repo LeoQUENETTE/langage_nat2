@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 78573,
+            "name": "exploration",
+            "type": 1,
+            "w": 7581
+        },
+        {
+            "id": 9575,
+            "name": "tourisme",
+            "type": 1,
+            "w": 6937
+        },
+        {
+            "id": 113317,
+            "name": "Paris",
+            "type": 1,
+            "w": 10163
+        },
+        {
+            "id": 37566,
+            "name": "croissance",
+            "type": 1,
+            "w": 12804
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155700602,
+            "node1": 113317,
+            "node2": 9575,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1155700723,
+            "node1": 113317,
+            "node2": 37566,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1158123082,
+            "node1": 113317,
+            "node2": 78573,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:48.466238",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Paris",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.006574"
+    }
+}

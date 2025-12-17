@@ -1,0 +1,573 @@
+{
+    "nodes": [
+        {
+            "id": 141176,
+            "name": "réveil",
+            "type": 1,
+            "w": 1173
+        },
+        {
+            "id": 14951408,
+            "name": "en:all-nighter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 366734,
+            "name": "nuit sans sommeil",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15267784,
+            "name": "en:to have a sleepless night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951409,
+            "name": "en:sleepless night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414890,
+            "name": "en:not sleep a wink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104621,
+            "name": "vision",
+            "type": 1,
+            "w": 17537
+        },
+        {
+            "id": 145792,
+            "name": "lumière",
+            "type": 1,
+            "w": 13394
+        },
+        {
+            "id": 74718,
+            "name": "journée",
+            "type": 1,
+            "w": 6916
+        },
+        {
+            "id": 15267783,
+            "name": "en:spend a sleepless night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15267785,
+            "name": "en:to stay up all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 84676,
+            "name": "voir",
+            "type": 1,
+            "w": 94072
+        },
+        {
+            "id": 88543,
+            "name": "jour",
+            "type": 1,
+            "w": 52682
+        },
+        {
+            "id": 249571,
+            "name": "espèce végétale",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 131514,
+            "name": "reflet",
+            "type": 1,
+            "w": 1632
+        },
+        {
+            "id": 15414891,
+            "name": "en:not sleep a wink all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15267789,
+            "name": "passer une nuit blanche à travailler, faire une charrette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2609199,
+            "name": "ne pas fermer l'oeil de la nuit",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 43153,
+            "name": "fermer les yeux",
+            "type": 1,
+            "w": 274
+        },
+        {
+            "id": 366739,
+            "name": "nuit de veille",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15267790,
+            "name": "en:pull an all-nighter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15687596,
+            "name": "en:not sleep all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15237258,
+            "name": "en:botanical species",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 37160,
+            "name": "nuit blanche",
+            "type": 1,
+            "w": 267
+        },
+        {
+            "id": 205217,
+            "name": "passer une nuit blanche",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 221714,
+            "name": "réveil>19980",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 151749,
+            "name": "plante verte",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 5909485,
+            "name": "Nuit Blanche",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 332877,
+            "name": "voir>102816",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 15267786,
+            "name": "en:wakeful night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414889,
+            "name": "en:have a sleepless night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414888,
+            "name": "ne pas dormir de toute la nuit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420668,
+            "name": "en:not get a wink of sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420669,
+            "name": "en:not get a wink of sleep all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420667,
+            "name": "ne pas fermer l'œil de la nuit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420866,
+            "name": "faire une nuit blanche",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15420864,
+            "name": "en:get no sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420865,
+            "name": "en:stay up all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 250078567,
+            "name": "Espèce végétale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 27157,
+            "name": "se réveiller",
+            "type": 1,
+            "w": 569
+        },
+        {
+            "id": 36940,
+            "name": "étoile",
+            "type": 1,
+            "w": 6070
+        },
+        {
+            "id": 89867,
+            "name": "clair de lune",
+            "type": 1,
+            "w": 123
+        }
+    ],
+    "relations": [
+        {
+            "id": 14653227,
+            "node1": 145792,
+            "node2": 27157,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 14642206,
+            "node1": 145792,
+            "node2": 36940,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 125722998,
+            "node1": 145792,
+            "node2": 37160,
+            "type": 41,
+            "w": 68.0
+        },
+        {
+            "id": 380392869,
+            "node1": 145792,
+            "node2": 43153,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14641784,
+            "node1": 145792,
+            "node2": 74718,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 364578667,
+            "node1": 145792,
+            "node2": 84676,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14658564,
+            "node1": 145792,
+            "node2": 88543,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14657003,
+            "node1": 145792,
+            "node2": 89867,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1042172851,
+            "node1": 145792,
+            "node2": 104621,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14657915,
+            "node1": 145792,
+            "node2": 131514,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 97977358,
+            "node1": 145792,
+            "node2": 141176,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14645383,
+            "node1": 145792,
+            "node2": 151749,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 538956750,
+            "node1": 145792,
+            "node2": 205217,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14657177,
+            "node1": 145792,
+            "node2": 221714,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14645365,
+            "node1": 145792,
+            "node2": 249571,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 364575386,
+            "node1": 145792,
+            "node2": 332877,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1079405476,
+            "node1": 145792,
+            "node2": 366734,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 405626556,
+            "node1": 145792,
+            "node2": 366739,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 538958401,
+            "node1": 145792,
+            "node2": 2609199,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 369739435,
+            "node1": 145792,
+            "node2": 5909485,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 411499653,
+            "node1": 145792,
+            "node2": 14951408,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 402803870,
+            "node1": 145792,
+            "node2": 14951409,
+            "type": 41,
+            "w": 66.0
+        },
+        {
+            "id": 411504675,
+            "node1": 145792,
+            "node2": 15237258,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 929741689,
+            "node1": 145792,
+            "node2": 15267783,
+            "type": 41,
+            "w": 20.0
+        },
+        {
+            "id": 929741796,
+            "node1": 145792,
+            "node2": 15267784,
+            "type": 41,
+            "w": 20.0
+        },
+        {
+            "id": 929741902,
+            "node1": 145792,
+            "node2": 15267785,
+            "type": 41,
+            "w": 20.0
+        },
+        {
+            "id": 1079381410,
+            "node1": 145792,
+            "node2": 15267786,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079381577,
+            "node1": 145792,
+            "node2": 15267789,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 538957586,
+            "node1": 145792,
+            "node2": 15267790,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 538958006,
+            "node1": 145792,
+            "node2": 15414888,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 538957691,
+            "node1": 145792,
+            "node2": 15414889,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 538959167,
+            "node1": 145792,
+            "node2": 15414890,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 538959062,
+            "node1": 145792,
+            "node2": 15414891,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 594859684,
+            "node1": 145792,
+            "node2": 15420667,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 538957796,
+            "node1": 145792,
+            "node2": 15420668,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 540390653,
+            "node1": 145792,
+            "node2": 15420669,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 538957901,
+            "node1": 145792,
+            "node2": 15420864,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 510622105,
+            "node1": 145792,
+            "node2": 15420865,
+            "type": 41,
+            "w": 14.0
+        },
+        {
+            "id": 538956693,
+            "node1": 145792,
+            "node2": 15420866,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 540389405,
+            "node1": 145792,
+            "node2": 15687596,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 1122669953,
+            "node1": 145792,
+            "node2": 250078567,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:28.306783",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lumière",
+        "#relations": 41,
+        "max_relation_weight": 68.0,
+        "#nodes": 42,
+        "duration": "0:00:00.017906"
+    }
+}

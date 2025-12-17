@@ -1,0 +1,365 @@
+{
+    "nodes": [
+        {
+            "id": 100888219,
+            "name": "Jardin à la française",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 273466,
+            "name": "Château de Versailles",
+            "type": 777,
+            "w": 54
+        },
+        {
+            "id": 139655,
+            "name": "roi",
+            "type": 1,
+            "w": 12579
+        },
+        {
+            "id": 595182,
+            "name": "BCBG>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 379661122,
+            "name": "convocation des États généraux",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15354924,
+            "name": "en:Hall of Mirrors",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15354923,
+            "name": "galerie des glaces",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 147760517,
+            "name": "Galerie des Glaces",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2553187,
+            "name": "Versaillaise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 120580,
+            "name": "Louis XIV",
+            "type": 1,
+            "w": 403
+        },
+        {
+            "id": 10589780,
+            "name": "Judith Chemla",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 143800,
+            "name": "palais",
+            "type": 1,
+            "w": 4954
+        },
+        {
+            "id": 2406784,
+            "name": "Yvelinois",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 30584,
+            "name": "château",
+            "type": 1,
+            "w": 4223
+        },
+        {
+            "id": 66375,
+            "name": "Versailles",
+            "type": 1,
+            "w": 3347
+        },
+        {
+            "id": 252881,
+            "name": "galerie des Glaces",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 189024,
+            "name": "Charles Le Brun",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 15385326,
+            "name": "parc à la française",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14944742,
+            "name": "en:formal garden",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17401643,
+            "name": "palais>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 70630,
+            "name": "Satory",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 313998307,
+            "name": "Galerie des glaces",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10032736,
+            "name": "Guillaume Depardieu",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 196904,
+            "name": "BCBG",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 91415748,
+            "name": "Traité de Versailles",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 152448,
+            "name": "jardin à la française",
+            "type": 1,
+            "w": 91
+        }
+    ],
+    "relations": [
+        {
+            "id": 11342808,
+            "node1": 66375,
+            "node2": 30584,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 19071693,
+            "node1": 66375,
+            "node2": 70630,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 824739329,
+            "node1": 66375,
+            "node2": 120580,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 11346468,
+            "node1": 66375,
+            "node2": 139655,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11348860,
+            "node1": 66375,
+            "node2": 143800,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11337896,
+            "node1": 66375,
+            "node2": 152448,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11310757,
+            "node1": 66375,
+            "node2": 189024,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11330268,
+            "node1": 66375,
+            "node2": 196904,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11330118,
+            "node1": 66375,
+            "node2": 252881,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 765902596,
+            "node1": 66375,
+            "node2": 273466,
+            "type": 28,
+            "w": 24.0
+        },
+        {
+            "id": 605758901,
+            "node1": 66375,
+            "node2": 595182,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 1016003425,
+            "node1": 66375,
+            "node2": 2406784,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 92638712,
+            "node1": 66375,
+            "node2": 2553187,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 721200762,
+            "node1": 66375,
+            "node2": 10032736,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721200764,
+            "node1": 66375,
+            "node2": 10589780,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 492773732,
+            "node1": 66375,
+            "node2": 14944742,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 620581643,
+            "node1": 66375,
+            "node2": 15354923,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 978239024,
+            "node1": 66375,
+            "node2": 15354924,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 1054564573,
+            "node1": 66375,
+            "node2": 15385326,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 721190153,
+            "node1": 66375,
+            "node2": 17401643,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 765901271,
+            "node1": 66375,
+            "node2": 91415748,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 738373052,
+            "node1": 66375,
+            "node2": 100888219,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 553301340,
+            "node1": 66375,
+            "node2": 147760517,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 977743298,
+            "node1": 66375,
+            "node2": 313998307,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1040748700,
+            "node1": 66375,
+            "node2": 379661122,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:24.645940",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Versailles",
+        "#relations": 25,
+        "max_relation_weight": 40.0,
+        "#nodes": 26,
+        "duration": "0:00:00.005840"
+    }
+}

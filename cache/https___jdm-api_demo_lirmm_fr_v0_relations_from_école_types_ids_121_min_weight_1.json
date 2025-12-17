@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 51719799,
+            "name": "tableau de multiplication",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92636,
+            "name": "bibliothèque",
+            "type": 1,
+            "w": 4652
+        },
+        {
+            "id": 256820,
+            "name": "programme scolaire",
+            "type": 1,
+            "w": 214
+        },
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 160568,
+            "name": "terrain de sport",
+            "type": 1,
+            "w": 116
+        },
+        {
+            "id": 203478,
+            "name": "matériel pédagogique",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 230335,
+            "name": "manuel scolaire",
+            "type": 1,
+            "w": 90
+        }
+    ],
+    "relations": [
+        {
+            "id": 1022665788,
+            "node1": 91240,
+            "node2": 92636,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 770910070,
+            "node1": 91240,
+            "node2": 160568,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1046570376,
+            "node1": 91240,
+            "node2": 203478,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 962088082,
+            "node1": 91240,
+            "node2": 230335,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1150628485,
+            "node1": 91240,
+            "node2": 256820,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 818594996,
+            "node1": 91240,
+            "node2": 51719799,
+            "type": 121,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:12.554585",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "école",
+        "#relations": 6,
+        "max_relation_weight": 35.0,
+        "#nodes": 7,
+        "duration": "0:00:00.013149"
+    }
+}

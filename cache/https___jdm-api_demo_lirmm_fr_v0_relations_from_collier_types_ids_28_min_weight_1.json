@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 150689,
+            "name": "stras",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 67093,
+            "name": "collier",
+            "type": 1,
+            "w": 1196
+        },
+        {
+            "id": 60902,
+            "name": "dent",
+            "type": 1,
+            "w": 5087
+        },
+        {
+            "id": 103028,
+            "name": "coquillage",
+            "type": 1,
+            "w": 845
+        },
+        {
+            "id": 11651,
+            "name": "clou",
+            "type": 1,
+            "w": 918
+        },
+        {
+            "id": 220660,
+            "name": "clou>141611",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 16289,
+            "name": "adresse",
+            "type": 1,
+            "w": 3575
+        },
+        {
+            "id": 42388,
+            "name": "médaille",
+            "type": 1,
+            "w": 3627
+        },
+        {
+            "id": 223817,
+            "name": "adresse>132647",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 92060,
+            "name": "strass",
+            "type": 1,
+            "w": 70
+        }
+    ],
+    "relations": [
+        {
+            "id": 97054509,
+            "node1": 67093,
+            "node2": 11651,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 97054510,
+            "node1": 67093,
+            "node2": 16289,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 97054511,
+            "node1": 67093,
+            "node2": 42388,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 766154197,
+            "node1": 67093,
+            "node2": 60902,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 97054514,
+            "node1": 67093,
+            "node2": 92060,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 11339940,
+            "node1": 67093,
+            "node2": 103028,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 97054508,
+            "node1": 67093,
+            "node2": 150689,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 97054512,
+            "node1": 67093,
+            "node2": 220660,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 97054513,
+            "node1": 67093,
+            "node2": 223817,
+            "type": 28,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:16.439840",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "collier",
+        "#relations": 9,
+        "max_relation_weight": 43.0,
+        "#nodes": 10,
+        "duration": "0:00:00.003849"
+    }
+}

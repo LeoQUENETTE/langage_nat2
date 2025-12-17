@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 50195,
+            "name": "piano",
+            "type": 1,
+            "w": 3500
+        },
+        {
+            "id": 7401,
+            "name": "interprétation",
+            "type": 1,
+            "w": 11920
+        },
+        {
+            "id": 111867,
+            "name": "enregistrement",
+            "type": 1,
+            "w": 2478
+        },
+        {
+            "id": 372700,
+            "name": "pratique musicale",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 359633,
+            "name": "interprétation musicale",
+            "type": 1,
+            "w": 72
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152616127,
+            "node1": 50195,
+            "node2": 7401,
+            "type": 138,
+            "w": 28.0
+        },
+        {
+            "id": 1152615063,
+            "node1": 50195,
+            "node2": 111867,
+            "type": 138,
+            "w": 27.0
+        },
+        {
+            "id": 1152615049,
+            "node1": 50195,
+            "node2": 359633,
+            "type": 138,
+            "w": 26.0
+        },
+        {
+            "id": 1152616888,
+            "node1": 50195,
+            "node2": 372700,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:49.379961",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "piano",
+        "#relations": 4,
+        "max_relation_weight": 28.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004039"
+    }
+}

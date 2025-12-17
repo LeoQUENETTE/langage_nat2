@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 230348,
+            "name": "scotch>156248",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 293725929,
+            "name": "gros chat roux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134263,
+            "name": "emballage",
+            "type": 1,
+            "w": 1023
+        },
+        {
+            "id": 575,
+            "name": "tarte",
+            "type": 1,
+            "w": 1316
+        },
+        {
+            "id": 150,
+            "name": "chat",
+            "type": 1,
+            "w": 7225
+        },
+        {
+            "id": 213466,
+            "name": "chat>63235",
+            "type": 1,
+            "w": 683
+        },
+        {
+            "id": 15687,
+            "name": "scotch",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 66935,
+            "name": "carton",
+            "type": 1,
+            "w": 692
+        }
+    ],
+    "relations": [
+        {
+            "id": 195504894,
+            "node1": 66935,
+            "node2": 150,
+            "type": 28,
+            "w": 75.0
+        },
+        {
+            "id": 1159083277,
+            "node1": 66935,
+            "node2": 575,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 104939183,
+            "node1": 66935,
+            "node2": 15687,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1066398136,
+            "node1": 66935,
+            "node2": 134263,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 375977120,
+            "node1": 66935,
+            "node2": 213466,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11336010,
+            "node1": 66935,
+            "node2": 230348,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 765900121,
+            "node1": 66935,
+            "node2": 293725929,
+            "type": 28,
+            "w": 6.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:53.137105",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "carton",
+        "#relations": 7,
+        "max_relation_weight": 75.0,
+        "#nodes": 8,
+        "duration": "0:00:00.007999"
+    }
+}

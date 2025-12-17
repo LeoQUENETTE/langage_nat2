@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 9988486,
+            "name": "Leslie Banks",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10591974,
+            "name": "Norman Wooland",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 10100053,
+            "name": "Ann Todd",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 32207,
+            "name": "Madeleine",
+            "type": 1,
+            "w": 2140
+        }
+    ],
+    "relations": [
+        {
+            "id": 280922632,
+            "node1": 32207,
+            "node2": 139779,
+            "type": 28,
+            "w": 942.0
+        },
+        {
+            "id": 253520324,
+            "node1": 32207,
+            "node2": 9988486,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 515256643,
+            "node1": 32207,
+            "node2": 10100053,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 515256644,
+            "node1": 32207,
+            "node2": 10591974,
+            "type": 28,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:44.436455",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Madeleine",
+        "#relations": 4,
+        "max_relation_weight": 942.0,
+        "#nodes": 5,
+        "duration": "0:00:00.005499"
+    }
+}

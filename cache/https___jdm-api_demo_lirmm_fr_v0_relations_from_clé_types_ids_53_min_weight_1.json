@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 16213,
+            "name": "serrure",
+            "type": 1,
+            "w": 1275
+        },
+        {
+            "id": 58121,
+            "name": "accès",
+            "type": 1,
+            "w": 8440
+        },
+        {
+            "id": 52660,
+            "name": "clé",
+            "type": 1,
+            "w": 4120
+        }
+    ],
+    "relations": [
+        {
+            "id": 1181759395,
+            "node1": 52660,
+            "node2": 16213,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1181759417,
+            "node1": 52660,
+            "node2": 58121,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:17.894984",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "clé",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004340"
+    }
+}

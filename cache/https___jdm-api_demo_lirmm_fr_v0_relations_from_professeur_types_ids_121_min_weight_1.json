@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 2248609,
+            "name": "polycopiés",
+            "type": 2,
+            "w": 0
+        },
+        {
+            "id": 20425,
+            "name": "leçon",
+            "type": 1,
+            "w": 1964
+        },
+        {
+            "id": 295019868,
+            "name": "bureau personnel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11993418,
+            "name": "pointeur laser",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 8254,
+            "name": "bureau",
+            "type": 1,
+            "w": 5986
+        },
+        {
+            "id": 156669,
+            "name": "cahier de textes",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 142623,
+            "name": "classe",
+            "type": 1,
+            "w": 7142
+        },
+        {
+            "id": 34025,
+            "name": "savoir",
+            "type": 1,
+            "w": 55066
+        },
+        {
+            "id": 142787,
+            "name": "livre",
+            "type": 1,
+            "w": 18588
+        },
+        {
+            "id": 158778,
+            "name": "clé USB",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 36568,
+            "name": "professeur",
+            "type": 1,
+            "w": 8475
+        },
+        {
+            "id": 230335,
+            "name": "manuel scolaire",
+            "type": 1,
+            "w": 90
+        }
+    ],
+    "relations": [
+        {
+            "id": 1061538219,
+            "node1": 36568,
+            "node2": 8254,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 720595631,
+            "node1": 36568,
+            "node2": 20425,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1010155808,
+            "node1": 36568,
+            "node2": 34025,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1022674766,
+            "node1": 36568,
+            "node2": 142623,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 1061538262,
+            "node1": 36568,
+            "node2": 142787,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1035089000,
+            "node1": 36568,
+            "node2": 156669,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1035089013,
+            "node1": 36568,
+            "node2": 158778,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1035088992,
+            "node1": 36568,
+            "node2": 230335,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1020810457,
+            "node1": 36568,
+            "node2": 2248609,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 963480667,
+            "node1": 36568,
+            "node2": 11993418,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 768999965,
+            "node1": 36568,
+            "node2": 295019868,
+            "type": 121,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:03.839630",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "professeur",
+        "#relations": 11,
+        "max_relation_weight": 37.0,
+        "#nodes": 12,
+        "duration": "0:00:00.006788"
+    }
+}

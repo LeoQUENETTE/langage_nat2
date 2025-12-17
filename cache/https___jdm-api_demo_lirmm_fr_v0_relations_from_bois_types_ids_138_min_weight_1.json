@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 29750,
+            "name": "découpe",
+            "type": 1,
+            "w": 474
+        },
+        {
+            "id": 133393,
+            "name": "sculpture",
+            "type": 1,
+            "w": 3401
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 11742,
+            "name": "vieillissement",
+            "type": 1,
+            "w": 1084
+        },
+        {
+            "id": 19503,
+            "name": "ponçage",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 78660,
+            "name": "sciage",
+            "type": 1,
+            "w": 83
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155002358,
+            "node1": 96256,
+            "node2": 11742,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 962090050,
+            "node1": 96256,
+            "node2": 19503,
+            "type": 138,
+            "w": 20.0
+        },
+        {
+            "id": 376969660,
+            "node1": 96256,
+            "node2": 29750,
+            "type": 138,
+            "w": 29.0
+        },
+        {
+            "id": 1155330665,
+            "node1": 96256,
+            "node2": 78660,
+            "type": 138,
+            "w": 45.0
+        },
+        {
+            "id": 1182069130,
+            "node1": 96256,
+            "node2": 133393,
+            "type": 138,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:20.794948",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bois",
+        "#relations": 5,
+        "max_relation_weight": 45.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005410"
+    }
+}

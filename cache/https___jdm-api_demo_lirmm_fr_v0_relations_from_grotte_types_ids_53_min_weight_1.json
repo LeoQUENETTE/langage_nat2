@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 44155,
+            "name": "grotte",
+            "type": 1,
+            "w": 1543
+        },
+        {
+            "id": 18056,
+            "name": "écho",
+            "type": 1,
+            "w": 939
+        },
+        {
+            "id": 241701,
+            "name": "écho>12690221",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 99810,
+            "name": "échos",
+            "type": 1,
+            "w": 178
+        }
+    ],
+    "relations": [
+        {
+            "id": 2067152,
+            "node1": 44155,
+            "node2": 18056,
+            "type": 53,
+            "w": 86.0
+        },
+        {
+            "id": 1154346517,
+            "node1": 44155,
+            "node2": 99810,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 2114044,
+            "node1": 44155,
+            "node2": 241701,
+            "type": 53,
+            "w": 5.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:58.950222",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "grotte",
+        "#relations": 3,
+        "max_relation_weight": 86.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003962"
+    }
+}

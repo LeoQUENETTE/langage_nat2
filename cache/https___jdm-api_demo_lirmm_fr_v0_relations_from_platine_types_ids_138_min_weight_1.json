@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 135970,
+            "name": "raffinage",
+            "type": 1,
+            "w": 228
+        },
+        {
+            "id": 145641,
+            "name": "platine",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 212555460,
+            "name": "diffusion sonore",
+            "type": 1,
+            "w": 28
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155756660,
+            "node1": 145641,
+            "node2": 135970,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1155756796,
+            "node1": 145641,
+            "node2": 212555460,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:13.106174",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "platine",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003879"
+    }
+}

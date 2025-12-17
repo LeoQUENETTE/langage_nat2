@@ -1,0 +1,5604 @@
+{
+    "nodes": [
+        {
+            "id": 159535,
+            "name": "capote de voiture",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 161335,
+            "name": "toît",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 161672,
+            "name": "gente",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 235617,
+            "name": "plage arrière",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 240898,
+            "name": "radiateur>4658",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 244453,
+            "name": "compartiment>21233",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 270555,
+            "name": "moteur avant",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 1773803,
+            "name": "w c",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 15499957,
+            "name": "en:premisses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 69408,
+            "name": "allume-cigare",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 2194381,
+            "name": "essieux",
+            "type": 2,
+            "w": 2
+        },
+        {
+            "id": 600098,
+            "name": "capot>171870",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15048148,
+            "name": "en:restroom",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 143613,
+            "name": "porte",
+            "type": 1,
+            "w": 23804
+        },
+        {
+            "id": 158197,
+            "name": "carosserie",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 228326,
+            "name": "cabine>81298",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 438828186,
+            "name": "rembourrage sièges",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 2010249,
+            "name": "cardans",
+            "type": 2,
+            "w": 0
+        },
+        {
+            "id": 438828159,
+            "name": "pédale embrayage",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828170,
+            "name": "réservoir carburant",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 438828175,
+            "name": "rotules direction",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828177,
+            "name": "boîte vitesses",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 307463884,
+            "name": "W C",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 4078503,
+            "name": "boite de vitesses automatique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213627,
+            "name": "aileron>5977",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 315184,
+            "name": "banquette arrière",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 8568751,
+            "name": "joints de culasse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10175748,
+            "name": "aile avant",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 10175745,
+            "name": "glace de custode",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 2117705,
+            "name": "rétroviseurs",
+            "type": 2,
+            "w": 1
+        },
+        {
+            "id": 438828173,
+            "name": "ressorts suspension",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828176,
+            "name": "crémaillère direction",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828178,
+            "name": "plaquettes frein",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828174,
+            "name": "barres stabilisation",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6305134,
+            "name": "câblage électrique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 438828163,
+            "name": "pompe eau",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828164,
+            "name": "liquide refroidissement",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 322932141,
+            "name": "Boite de vitesse automatique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14935257,
+            "name": "en:fletching",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15117037,
+            "name": "en:exhaust pipe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15142693,
+            "name": "en:head gasket",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15210119,
+            "name": "vitre de custode",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15210120,
+            "name": "en:quarter glass",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15276590,
+            "name": "en:reversing lights",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15276591,
+            "name": "en:back-up lights",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8738765,
+            "name": "coffre d'une voiture",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15083460,
+            "name": "en:brakes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16576206,
+            "name": "en:screen-wiper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 197384,
+            "name": "centre de détention",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 105337767,
+            "name": "Frein à main",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142232932,
+            "name": "étriers de frein",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 438828182,
+            "name": "serrures portières",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828165,
+            "name": "filtre huile",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15026319,
+            "name": "airbags",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 209716246,
+            "name": "porte-gobelets",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 27120,
+            "name": "train",
+            "type": 1,
+            "w": 7946
+        },
+        {
+            "id": 15207955,
+            "name": "en:gear-box",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 438828188,
+            "name": "mécanisme réglage sièges",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828166,
+            "name": "bougies allumage",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 74546,
+            "name": "GPL",
+            "type": 1,
+            "w": 1256
+        },
+        {
+            "id": 438828161,
+            "name": "filtre air",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828181,
+            "name": "poignées portières",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828185,
+            "name": "housses sièges",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828180,
+            "name": "prétensionneurs",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828160,
+            "name": "levier vitesses",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828162,
+            "name": "ventilateur refroidissement",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828171,
+            "name": "pot échappement",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828172,
+            "name": "tuyau échappement",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 10176027,
+            "name": "carénage avant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 438828167,
+            "name": "bobines allumage",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828168,
+            "name": "injecteurs carburant",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828184,
+            "name": "garnitures intérieures",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828189,
+            "name": "miroirs angles morts",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828190,
+            "name": "dégivreur lunette",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828194,
+            "name": "balais essuie-glaces",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 228633,
+            "name": "plaque>211537",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 6408170,
+            "name": "ceintures de sécurité",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 438828153,
+            "name": "rétroviseur central",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828155,
+            "name": "jauge essence",
+            "type": 1,
+            "w": 3
+        },
+        {
+            "id": 213441,
+            "name": "coque>107150",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 54101,
+            "name": "accélérateur",
+            "type": 1,
+            "w": 420
+        },
+        {
+            "id": 125198,
+            "name": "phare",
+            "type": 1,
+            "w": 1004
+        },
+        {
+            "id": 14960513,
+            "name": "en:scene",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 438828154,
+            "name": "compteur vitesse",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 244695,
+            "name": "cellule>87925",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 261277618,
+            "name": "lève-vitres",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 155990,
+            "name": "marche arrière",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 14922620,
+            "name": "en:wheels",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 438828183,
+            "name": "joints étanchéité",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828157,
+            "name": "pédale accélérateur",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828156,
+            "name": "témoin température",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 151685,
+            "name": "passagers",
+            "type": 1,
+            "w": 3515
+        },
+        {
+            "id": 438828179,
+            "name": "liquide frein",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 1595,
+            "name": "bouclier",
+            "type": 1,
+            "w": 1394
+        },
+        {
+            "id": 438828187,
+            "name": "ressorts sièges",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828158,
+            "name": "pédale frein",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828192,
+            "name": "buses lave-glace",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828191,
+            "name": "réservoir lave-glace",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828193,
+            "name": "moteur essuie-glaces",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 438828169,
+            "name": "pompe essence",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 148961,
+            "name": "locaux",
+            "type": 1,
+            "w": 3675
+        },
+        {
+            "id": 239722,
+            "name": "réservoir>123745",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 215516,
+            "name": "champignon>54101",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 61557,
+            "name": "réservation",
+            "type": 1,
+            "w": 1218
+        },
+        {
+            "id": 15466741,
+            "name": "en:reception arrangements",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146358,
+            "name": "acier",
+            "type": 1,
+            "w": 1295
+        },
+        {
+            "id": 106970,
+            "name": "caisse",
+            "type": 1,
+            "w": 2315
+        },
+        {
+            "id": 148108,
+            "name": "roues",
+            "type": 1,
+            "w": 2550
+        },
+        {
+            "id": 107097,
+            "name": "pneus",
+            "type": 1,
+            "w": 294
+        },
+        {
+            "id": 145064,
+            "name": "plaque",
+            "type": 1,
+            "w": 2724
+        },
+        {
+            "id": 119793,
+            "name": "chambre à air",
+            "type": 1,
+            "w": 444
+        },
+        {
+            "id": 142861,
+            "name": "vitre",
+            "type": 1,
+            "w": 1185
+        },
+        {
+            "id": 148105,
+            "name": "ailes",
+            "type": 1,
+            "w": 3142
+        },
+        {
+            "id": 51979,
+            "name": "quatrième",
+            "type": 1,
+            "w": 3344
+        },
+        {
+            "id": 77315,
+            "name": "vitesse",
+            "type": 1,
+            "w": 6329
+        },
+        {
+            "id": 227624,
+            "name": "frein>67368",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 14936525,
+            "name": "en:windscreen wiper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14936526,
+            "name": "en:windshield wiper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92107,
+            "name": "suspension",
+            "type": 1,
+            "w": 2825
+        },
+        {
+            "id": 222967,
+            "name": "caisse>6890",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 62046,
+            "name": "chauffage",
+            "type": 1,
+            "w": 1811
+        },
+        {
+            "id": 18871,
+            "name": "freins",
+            "type": 1,
+            "w": 364
+        },
+        {
+            "id": 15420417,
+            "name": "en:parcel shelf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420419,
+            "name": "en:package tray",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2077,
+            "name": "réservoir",
+            "type": 1,
+            "w": 2054
+        },
+        {
+            "id": 15076258,
+            "name": "en:john",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92836,
+            "name": "toilettes",
+            "type": 1,
+            "w": 1050
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11006
+        },
+        {
+            "id": 4049424,
+            "name": "boîte de vitesse automatique",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 4245,
+            "name": "batterie",
+            "type": 1,
+            "w": 3879
+        },
+        {
+            "id": 14944897,
+            "name": "en:cylinder head gasket",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 3997557,
+            "name": "boite de vitesse automatique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6910,
+            "name": "coque",
+            "type": 1,
+            "w": 704
+        },
+        {
+            "id": 152961,
+            "name": "pare brise",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 91356,
+            "name": "pont",
+            "type": 1,
+            "w": 5272
+        },
+        {
+            "id": 37068,
+            "name": "roulement",
+            "type": 1,
+            "w": 212
+        },
+        {
+            "id": 15420418,
+            "name": "en:package shelf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8691804,
+            "name": "phare>123745>5558973",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 233115,
+            "name": "suspension>133119",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 9557,
+            "name": "boogie",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 15385119,
+            "name": "en:reverse speed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15102348,
+            "name": "en:seat belt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 340618044,
+            "name": "ailes>155622",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 167734817,
+            "name": "disques de frein",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 43853,
+            "name": "aile",
+            "type": 1,
+            "w": 4253
+        },
+        {
+            "id": 14953137,
+            "name": "en:windscreen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14953138,
+            "name": "en:windshield",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 154119,
+            "name": "boîte de vitesse",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 14924374,
+            "name": "en:bogie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102246,
+            "name": "essieu",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 423668127,
+            "name": "en:Klaxon",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19302
+        },
+        {
+            "id": 218888,
+            "name": "pont>30171",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 15442387,
+            "name": "en:immigration detention center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 140962,
+            "name": "piston",
+            "type": 1,
+            "w": 290
+        },
+        {
+            "id": 234591,
+            "name": "capot>95706",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 55651,
+            "name": "hayon",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 52396,
+            "name": "transmission",
+            "type": 1,
+            "w": 8817
+        },
+        {
+            "id": 132398,
+            "name": "moyeu",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 42769,
+            "name": "diesel",
+            "type": 1,
+            "w": 408
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4604
+        },
+        {
+            "id": 125416,
+            "name": "moquette",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 159525,
+            "name": "vitres",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 16875,
+            "name": "direction",
+            "type": 1,
+            "w": 7636
+        },
+        {
+            "id": 43839,
+            "name": "roue",
+            "type": 1,
+            "w": 2823
+        },
+        {
+            "id": 114237,
+            "name": "ceinture de sécurité",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 161241,
+            "name": "parebrise",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6156
+        },
+        {
+            "id": 21314,
+            "name": "carburant",
+            "type": 1,
+            "w": 2403
+        },
+        {
+            "id": 81298,
+            "name": "habitacle",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 87428,
+            "name": "appuie-tête",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 58482,
+            "name": "tableau de bord",
+            "type": 1,
+            "w": 636
+        },
+        {
+            "id": 26152,
+            "name": "frein",
+            "type": 1,
+            "w": 980
+        },
+        {
+            "id": 332864,
+            "name": "clignotant>123745",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 15307499,
+            "name": "en:reception center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14964866,
+            "name": "en:water closet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7575,
+            "name": "boîte",
+            "type": 1,
+            "w": 2847
+        },
+        {
+            "id": 153632,
+            "name": "pneu crevé",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 64659,
+            "name": "cockpit",
+            "type": 1,
+            "w": 189
+        },
+        {
+            "id": 14920775,
+            "name": "en:camshaft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 117604,
+            "name": "mécanisme",
+            "type": 1,
+            "w": 5227
+        },
+        {
+            "id": 205495,
+            "name": "phare de recul",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 8568732,
+            "name": "feu de recul",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4658,
+            "name": "moteur",
+            "type": 1,
+            "w": 4792
+        },
+        {
+            "id": 71418,
+            "name": "courroie",
+            "type": 1,
+            "w": 69
+        },
+        {
+            "id": 32223,
+            "name": "démarreur",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 253972,
+            "name": "centre de rétention",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 25484,
+            "name": "champignon",
+            "type": 1,
+            "w": 2079
+        },
+        {
+            "id": 48860,
+            "name": "poupe",
+            "type": 1,
+            "w": 181
+        },
+        {
+            "id": 18254,
+            "name": "alternateur",
+            "type": 1,
+            "w": 149
+        },
+        {
+            "id": 108388,
+            "name": "silencieux",
+            "type": 1,
+            "w": 1235
+        },
+        {
+            "id": 15517193,
+            "name": "ESP",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 95256,
+            "name": "queue",
+            "type": 1,
+            "w": 4125
+        },
+        {
+            "id": 209133,
+            "name": "toit ouvrant",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 181176,
+            "name": "boîte à gants",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 435768,
+            "name": "portières",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 14939218,
+            "name": "en:handbrake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 115622,
+            "name": "verrou",
+            "type": 1,
+            "w": 490
+        },
+        {
+            "id": 14932533,
+            "name": "en:U-turn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 153429,
+            "name": "portes",
+            "type": 1,
+            "w": 3454
+        },
+        {
+            "id": 42188,
+            "name": "filet",
+            "type": 1,
+            "w": 955
+        },
+        {
+            "id": 161627,
+            "name": "wc",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 11959,
+            "name": "chauffeur",
+            "type": 1,
+            "w": 997
+        },
+        {
+            "id": 127794,
+            "name": "bougie",
+            "type": 1,
+            "w": 1016
+        },
+        {
+            "id": 95376,
+            "name": "climatisation",
+            "type": 1,
+            "w": 352
+        },
+        {
+            "id": 124863,
+            "name": "pneumatique",
+            "type": 1,
+            "w": 333
+        },
+        {
+            "id": 179188,
+            "name": "boîte de vitesses",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 59085,
+            "name": "empennage",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 136293,
+            "name": "châssis",
+            "type": 1,
+            "w": 283
+        },
+        {
+            "id": 43548,
+            "name": "pneu",
+            "type": 1,
+            "w": 974
+        },
+        {
+            "id": 15279245,
+            "name": "en:backup light",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15419943,
+            "name": "en:reversing light",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15419944,
+            "name": "en:reverse light",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 154510,
+            "name": "sièges",
+            "type": 1,
+            "w": 3298
+        },
+        {
+            "id": 34148,
+            "name": "toit",
+            "type": 1,
+            "w": 3941
+        },
+        {
+            "id": 155932,
+            "name": "pare-choc",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 4096,
+            "name": "relais",
+            "type": 1,
+            "w": 3078
+        },
+        {
+            "id": 40184,
+            "name": "siège",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 120812,
+            "name": "embrayage",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 191791,
+            "name": "chassis",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 219634,
+            "name": "train>95706",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 16942729,
+            "name": "feux arrière",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 94273952,
+            "name": "Ceinture de sécurité",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 53536792,
+            "name": "en:w/c",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4795,
+            "name": "portière",
+            "type": 1,
+            "w": 226
+        },
+        {
+            "id": 142367,
+            "name": "pot",
+            "type": 1,
+            "w": 1131
+        },
+        {
+            "id": 140667,
+            "name": "ampoule",
+            "type": 1,
+            "w": 771
+        },
+        {
+            "id": 62788,
+            "name": "miroir",
+            "type": 1,
+            "w": 2738
+        },
+        {
+            "id": 42588,
+            "name": "pédale",
+            "type": 1,
+            "w": 597
+        },
+        {
+            "id": 144032,
+            "name": "cylindre",
+            "type": 1,
+            "w": 1478
+        },
+        {
+            "id": 378137,
+            "name": "rétroviseur extérieur",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 59340,
+            "name": "sanitaires",
+            "type": 1,
+            "w": 338
+        },
+        {
+            "id": 136771,
+            "name": "WC",
+            "type": 1,
+            "w": 565
+        },
+        {
+            "id": 87994,
+            "name": "bogie",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 236977,
+            "name": "nez>236976",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 74012,
+            "name": "vide-poches",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 15523988,
+            "name": "en:four stroke engine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146265,
+            "name": "carter",
+            "type": 1,
+            "w": 185
+        },
+        {
+            "id": 14936535,
+            "name": "en:wiper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7776691,
+            "name": "en:safety belt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15425261,
+            "name": "moteur essence",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 208193,
+            "name": "siège inclinable",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15426083,
+            "name": "en:four-cycle engine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14922240,
+            "name": "en:klaxon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 103460,
+            "name": "capot",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 116089,
+            "name": "rétroviseur",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 50646786,
+            "name": "C.R.A",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 123521,
+            "name": "water-closet",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 8794700,
+            "name": "en:detention center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442386,
+            "name": "en:immigration detention centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 340164,
+            "name": "boîte de vitesses automatique",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 237688,
+            "name": "transmission>67368",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 213566,
+            "name": "glace>20254",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 28065,
+            "name": "pare-brise",
+            "type": 1,
+            "w": 264
+        },
+        {
+            "id": 25631,
+            "name": "calandre",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 216871,
+            "name": "batterie>27891",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 141964,
+            "name": "glace",
+            "type": 1,
+            "w": 5801
+        },
+        {
+            "id": 15293612,
+            "name": "en:ivories",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 365137,
+            "name": "moteur à essence",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 2601,
+            "name": "auvent",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 1183315,
+            "name": "siège passager",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 591331,
+            "name": "w/c",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15448457,
+            "name": "W.-C.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 307459577,
+            "name": "W. - C",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2511898,
+            "name": "W.C.",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 210065,
+            "name": "W. - C.",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14921665,
+            "name": "en:undercarriage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 31610,
+            "name": "phares",
+            "type": 1,
+            "w": 171
+        },
+        {
+            "id": 22817,
+            "name": "jante",
+            "type": 1,
+            "w": 185
+        },
+        {
+            "id": 142299,
+            "name": "W.-C",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 153684,
+            "name": "tapis de sol",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 14925532,
+            "name": "en:loo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925533,
+            "name": "en:toilet",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 14925534,
+            "name": "en:WC",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 81235,
+            "name": "w.-c",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 29052,
+            "name": "essuie-glace",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 30142,
+            "name": "w.c",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 30443,
+            "name": "enjoliveur",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 42193,
+            "name": "lavatory",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 382440,
+            "name": "système électrique",
+            "type": 1,
+            "w": 165
+        },
+        {
+            "id": 57248,
+            "name": "pare-soleil",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 96125,
+            "name": "clignotant",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 104030,
+            "name": "compte-tours",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 117716,
+            "name": "autoradio",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 120591,
+            "name": "glissière",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 123682,
+            "name": "lave-glace",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 124221,
+            "name": "virement de bord",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 130627,
+            "name": "lavabos",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 145356,
+            "name": "W.C",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 148054,
+            "name": "essuie-glaces",
+            "type": 1,
+            "w": 63
+        },
+        {
+            "id": 153257,
+            "name": "levier de vitesse",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 156350,
+            "name": "accoudoirs",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 158719,
+            "name": "repose-pieds",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 159841,
+            "name": "système de freinage",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 166074,
+            "name": "maison de redressement",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 179187,
+            "name": "boite de vitesses",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 147551,
+            "name": "boggie",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 202357,
+            "name": "joint de culasse",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 84274,
+            "name": "maison de correction",
+            "type": 1,
+            "w": 133
+        },
+        {
+            "id": 214000,
+            "name": "accélérateur>42588",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 222101,
+            "name": "maître-cylindre",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 222964,
+            "name": "coffre>6890",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 225161,
+            "name": "roulement>117604",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 227954,
+            "name": "phare>123745",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 230556,
+            "name": "jantes",
+            "type": 1,
+            "w": 89
+        },
+        {
+            "id": 232379,
+            "name": "pneumatique>43839",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 232377,
+            "name": "pneu>43839",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 233403,
+            "name": "camp de détention",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 233938,
+            "name": "cylindre>204066",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 236145,
+            "name": "moteur à quatre temps",
+            "type": 666,
+            "w": 32
+        },
+        {
+            "id": 236144,
+            "name": "moteur à deux temps",
+            "type": 666,
+            "w": 20
+        },
+        {
+            "id": 87760,
+            "name": "carlingue",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 258674,
+            "name": "virage à 180 degrés",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 259859,
+            "name": "piston>216183",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 362310,
+            "name": "lunette arrière",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 365119,
+            "name": "moteur de voiture",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 378138,
+            "name": "rétroviseur intérieur",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 382340,
+            "name": "système d'injection",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 401235,
+            "name": "fusibles",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 1183314,
+            "name": "siège conducteur",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 104130,
+            "name": "antenne",
+            "type": 1,
+            "w": 1203
+        },
+        {
+            "id": 15282071,
+            "name": "en:premises",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 2148419,
+            "name": "clignotants",
+            "type": 2,
+            "w": 4
+        },
+        {
+            "id": 2412527,
+            "name": "boite de vitesse",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 2419173,
+            "name": "windshield",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 88673,
+            "name": "plafonnier",
+            "type": 1,
+            "w": 89
+        },
+        {
+            "id": 152792,
+            "name": "arbre à cames",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 2038654,
+            "name": "haut-parleurs",
+            "type": 2,
+            "w": 44
+        },
+        {
+            "id": 19796,
+            "name": "klaxon",
+            "type": 1,
+            "w": 143
+        },
+        {
+            "id": 144368,
+            "name": "ABS",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 2487651,
+            "name": "U-turn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 179693,
+            "name": "w.-c.",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 4533,
+            "name": "fauteuil",
+            "type": 1,
+            "w": 3640
+        },
+        {
+            "id": 225215,
+            "name": "moteur>5425",
+            "type": 1,
+            "w": 158
+        },
+        {
+            "id": 187626,
+            "name": "réservoir de carburant",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 141906,
+            "name": "fenêtre",
+            "type": 1,
+            "w": 6151
+        },
+        {
+            "id": 5997235,
+            "name": "wheels",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 68115,
+            "name": "waters",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 130331,
+            "name": "thermostat",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 256781,
+            "name": "toit>219077",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 313684552,
+            "name": "Centre de détention",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 7223171,
+            "name": "en:toilet facilities",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 133813,
+            "name": "essence",
+            "type": 1,
+            "w": 4005
+        },
+        {
+            "id": 14956955,
+            "name": "en:prow",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139467,
+            "name": "cale",
+            "type": 1,
+            "w": 169
+        },
+        {
+            "id": 215898,
+            "name": "aile>95706",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 163052,
+            "name": "frein à main",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 9120871,
+            "name": "en:lavatory",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 212955,
+            "name": "airbag",
+            "type": 666,
+            "w": 39
+        },
+        {
+            "id": 16783,
+            "name": "radiateur",
+            "type": 1,
+            "w": 352
+        },
+        {
+            "id": 10313032,
+            "name": "gearbox",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 76657,
+            "name": "ceinture",
+            "type": 1,
+            "w": 2328
+        },
+        {
+            "id": 139424,
+            "name": "alarme",
+            "type": 1,
+            "w": 733
+        },
+        {
+            "id": 236148,
+            "name": "huile moteur",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 14152451,
+            "name": "Boîte de vitesses",
+            "type": 777,
+            "w": 29
+        },
+        {
+            "id": 2289,
+            "name": "pare-chocs",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 144818,
+            "name": "maison d'arrêt",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 212013,
+            "name": "structure d'accueil",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 15441112,
+            "name": "en:facilities",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 317087,
+            "name": "système de refroidissement",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 14924427,
+            "name": "en:gearbox",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14927509,
+            "name": "en:chassis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14932532,
+            "name": "en:u-turn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14939219,
+            "name": "en:parking brake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14947386,
+            "name": "en:house of correction",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14950059,
+            "name": "en:nave",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14961338,
+            "name": "en:back seat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15053023,
+            "name": "en:spile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15068924,
+            "name": "en:washroom",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15069957,
+            "name": "en:reverse gear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15071693,
+            "name": "en:four-stroke engine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15106694,
+            "name": "en:W.C.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15107861,
+            "name": "en:petrol engine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15216216,
+            "name": "cabinet d'aisances",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15275001,
+            "name": "en:wind screen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15369664,
+            "name": "centre de rétention administrative",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 15419003,
+            "name": "en:four-stroke",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15419004,
+            "name": "en:four-cycle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428577,
+            "name": "en:dunny",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15441113,
+            "name": "en:toilets",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15662904,
+            "name": "en:four-stroke cycle engine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 155840,
+            "name": "pot d'échappement",
+            "type": 1,
+            "w": 105
+        },
+        {
+            "id": 15787138,
+            "name": "en:loci",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16027030,
+            "name": "w.c.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 54969,
+            "name": "catalyseur",
+            "type": 1,
+            "w": 265
+        },
+        {
+            "id": 36811658,
+            "name": "en:also four-cycle engine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104223482,
+            "name": "Toit ouvrant",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 130950747,
+            "name": "Moteur à quatre temps",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 131081136,
+            "name": "Marche arrière",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 121362,
+            "name": "fuselage",
+            "type": 1,
+            "w": 178
+        },
+        {
+            "id": 214625,
+            "name": "queue>59085",
+            "type": 1,
+            "w": 3
+        },
+        {
+            "id": 77579,
+            "name": "gyrophare",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 213853,
+            "name": "volant>6890",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 45216,
+            "name": "coffre",
+            "type": 1,
+            "w": 1084
+        },
+        {
+            "id": 21754,
+            "name": "cendrier",
+            "type": 1,
+            "w": 379
+        },
+        {
+            "id": 237681,
+            "name": "quatre temps",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 124000,
+            "name": "ventilation",
+            "type": 1,
+            "w": 777
+        },
+        {
+            "id": 88989,
+            "name": "cadran",
+            "type": 1,
+            "w": 294
+        },
+        {
+            "id": 109413,
+            "name": "carrosserie",
+            "type": 1,
+            "w": 271
+        },
+        {
+            "id": 134788,
+            "name": "couloir",
+            "type": 1,
+            "w": 670
+        },
+        {
+            "id": 11195,
+            "name": "banquette",
+            "type": 1,
+            "w": 161
+        },
+        {
+            "id": 166060,
+            "name": "roue de secours",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 52141,
+            "name": "proue",
+            "type": 1,
+            "w": 265
+        },
+        {
+            "id": 219628,
+            "name": "moteur diesel",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 213892,
+            "name": "pot>155840",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 11501,
+            "name": "soupapes",
+            "type": 1,
+            "w": 63
+        },
+        {
+            "id": 233261,
+            "name": "roue>123745",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 48976,
+            "name": "immatriculation",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 4508710,
+            "name": "antenne radio",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 95659,
+            "name": "marteau",
+            "type": 1,
+            "w": 2254
+        },
+        {
+            "id": 48572,
+            "name": "différentiel",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 216183,
+            "name": "pièce mécanique",
+            "type": 1,
+            "w": 190
+        },
+        {
+            "id": 147621,
+            "name": "touches",
+            "type": 1,
+            "w": 169
+        },
+        {
+            "id": 131081087,
+            "name": "Arbre à cames",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 15239086,
+            "name": "arbre à came",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 81249,
+            "name": "conducteur",
+            "type": 1,
+            "w": 2533
+        },
+        {
+            "id": 160345,
+            "name": "auto-radio",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15059447,
+            "name": "en:detention centre",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 13047636,
+            "name": "en:reform school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413560,
+            "name": "en:juvie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413558,
+            "name": "en:juvenile detention centre",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15413559,
+            "name": "en:young offender institution",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15413561,
+            "name": "en:Borstal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15066276,
+            "name": "en:reformatory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213625,
+            "name": "siège>36899",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 59282,
+            "name": "soupape",
+            "type": 1,
+            "w": 131
+        },
+        {
+            "id": 91898,
+            "name": "amortisseurs",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 76583,
+            "name": "volant",
+            "type": 1,
+            "w": 2118
+        },
+        {
+            "id": 80863,
+            "name": "carénage",
+            "type": 1,
+            "w": 88
+        }
+    ],
+    "relations": [
+        {
+            "id": 283913927,
+            "node1": 6890,
+            "node2": 1595,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1706275,
+            "node1": 6890,
+            "node2": 2077,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 10530795,
+            "node1": 6890,
+            "node2": 2289,
+            "type": 9,
+            "w": 78.0
+        },
+        {
+            "id": 696814247,
+            "node1": 6890,
+            "node2": 2601,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1131493865,
+            "node1": 6890,
+            "node2": 4096,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 96701184,
+            "node1": 6890,
+            "node2": 4245,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 9975425,
+            "node1": 6890,
+            "node2": 4533,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 68783,
+            "node1": 6890,
+            "node2": 4658,
+            "type": 9,
+            "w": 827.0
+        },
+        {
+            "id": 198652,
+            "node1": 6890,
+            "node2": 4795,
+            "type": 9,
+            "w": 94.0
+        },
+        {
+            "id": 386067457,
+            "node1": 6890,
+            "node2": 6910,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 9971743,
+            "node1": 6890,
+            "node2": 7575,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 97127312,
+            "node1": 6890,
+            "node2": 9557,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2429958,
+            "node1": 6890,
+            "node2": 11195,
+            "type": 9,
+            "w": 44.0
+        },
+        {
+            "id": 149281730,
+            "node1": 6890,
+            "node2": 11501,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 10527557,
+            "node1": 6890,
+            "node2": 11959,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 2429968,
+            "node1": 6890,
+            "node2": 16783,
+            "type": 9,
+            "w": 61.0
+        },
+        {
+            "id": 2318811,
+            "node1": 6890,
+            "node2": 16875,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 1131493862,
+            "node1": 6890,
+            "node2": 18254,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2581540,
+            "node1": 6890,
+            "node2": 18871,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 10530912,
+            "node1": 6890,
+            "node2": 19796,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 2429959,
+            "node1": 6890,
+            "node2": 21314,
+            "type": 9,
+            "w": 46.0
+        },
+        {
+            "id": 1131493906,
+            "node1": 6890,
+            "node2": 21754,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2318807,
+            "node1": 6890,
+            "node2": 22817,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 97849444,
+            "node1": 6890,
+            "node2": 25484,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 283913931,
+            "node1": 6890,
+            "node2": 25631,
+            "type": 9,
+            "w": 42.0
+        },
+        {
+            "id": 197634,
+            "node1": 6890,
+            "node2": 26152,
+            "type": 9,
+            "w": 121.0
+        },
+        {
+            "id": 97846895,
+            "node1": 6890,
+            "node2": 27120,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 197000,
+            "node1": 6890,
+            "node2": 28065,
+            "type": 9,
+            "w": 93.0
+        },
+        {
+            "id": 2581541,
+            "node1": 6890,
+            "node2": 29052,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 585233878,
+            "node1": 6890,
+            "node2": 30142,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 149281395,
+            "node1": 6890,
+            "node2": 30443,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 696814234,
+            "node1": 6890,
+            "node2": 31610,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 1131493863,
+            "node1": 6890,
+            "node2": 32223,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 9974053,
+            "node1": 6890,
+            "node2": 34148,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 2150569,
+            "node1": 6890,
+            "node2": 37068,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 70812,
+            "node1": 6890,
+            "node2": 40184,
+            "type": 9,
+            "w": 368.0
+        },
+        {
+            "id": 98702654,
+            "node1": 6890,
+            "node2": 42188,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 618831367,
+            "node1": 6890,
+            "node2": 42193,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 167313,
+            "node1": 6890,
+            "node2": 42588,
+            "type": 9,
+            "w": 79.0
+        },
+        {
+            "id": 2429960,
+            "node1": 6890,
+            "node2": 42769,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 103968,
+            "node1": 6890,
+            "node2": 43548,
+            "type": 9,
+            "w": 149.0
+        },
+        {
+            "id": 68779,
+            "node1": 6890,
+            "node2": 43839,
+            "type": 9,
+            "w": 572.0
+        },
+        {
+            "id": 9972723,
+            "node1": 6890,
+            "node2": 43853,
+            "type": 9,
+            "w": 45.0
+        },
+        {
+            "id": 197635,
+            "node1": 6890,
+            "node2": 45216,
+            "type": 9,
+            "w": 114.0
+        },
+        {
+            "id": 1131493873,
+            "node1": 6890,
+            "node2": 48572,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 386066726,
+            "node1": 6890,
+            "node2": 48860,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 9974240,
+            "node1": 6890,
+            "node2": 48976,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10527571,
+            "node1": 6890,
+            "node2": 51979,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 387000095,
+            "node1": 6890,
+            "node2": 52141,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 96701233,
+            "node1": 6890,
+            "node2": 52396,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 2318808,
+            "node1": 6890,
+            "node2": 54101,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1131493859,
+            "node1": 6890,
+            "node2": 54969,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 696814248,
+            "node1": 6890,
+            "node2": 55651,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 1131493918,
+            "node1": 6890,
+            "node2": 57248,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2478772,
+            "node1": 6890,
+            "node2": 58482,
+            "type": 9,
+            "w": 48.0
+        },
+        {
+            "id": 387028318,
+            "node1": 6890,
+            "node2": 59085,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 149281734,
+            "node1": 6890,
+            "node2": 59282,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1055126052,
+            "node1": 6890,
+            "node2": 59340,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 97127309,
+            "node1": 6890,
+            "node2": 61557,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 97127315,
+            "node1": 6890,
+            "node2": 62046,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 97127316,
+            "node1": 6890,
+            "node2": 62788,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 386067474,
+            "node1": 6890,
+            "node2": 64659,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 533033393,
+            "node1": 6890,
+            "node2": 68115,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1131493841,
+            "node1": 6890,
+            "node2": 69408,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 9971477,
+            "node1": 6890,
+            "node2": 71418,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1131493903,
+            "node1": 6890,
+            "node2": 74012,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2429962,
+            "node1": 6890,
+            "node2": 74546,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 68782,
+            "node1": 6890,
+            "node2": 76583,
+            "type": 9,
+            "w": 566.0
+        },
+        {
+            "id": 175920,
+            "node1": 6890,
+            "node2": 76657,
+            "type": 9,
+            "w": 84.0
+        },
+        {
+            "id": 10533525,
+            "node1": 6890,
+            "node2": 77315,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 696814245,
+            "node1": 6890,
+            "node2": 77579,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 696814239,
+            "node1": 6890,
+            "node2": 80863,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 585233944,
+            "node1": 6890,
+            "node2": 81235,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 9974891,
+            "node1": 6890,
+            "node2": 81249,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 2150579,
+            "node1": 6890,
+            "node2": 81298,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 519510934,
+            "node1": 6890,
+            "node2": 84274,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 1131493894,
+            "node1": 6890,
+            "node2": 87428,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 387018676,
+            "node1": 6890,
+            "node2": 87760,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 15762585,
+            "node1": 6890,
+            "node2": 87994,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 1131493902,
+            "node1": 6890,
+            "node2": 88673,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 9972271,
+            "node1": 6890,
+            "node2": 88989,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 386965886,
+            "node1": 6890,
+            "node2": 91356,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1131493867,
+            "node1": 6890,
+            "node2": 91898,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 696814229,
+            "node1": 6890,
+            "node2": 92107,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 97127311,
+            "node1": 6890,
+            "node2": 92836,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 386067368,
+            "node1": 6890,
+            "node2": 95256,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1131493844,
+            "node1": 6890,
+            "node2": 95376,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 97127313,
+            "node1": 6890,
+            "node2": 95659,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 192547,
+            "node1": 6890,
+            "node2": 96125,
+            "type": 9,
+            "w": 68.0
+        },
+        {
+            "id": 586203870,
+            "node1": 6890,
+            "node2": 96256,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 1670282,
+            "node1": 6890,
+            "node2": 102246,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 228485,
+            "node1": 6890,
+            "node2": 103460,
+            "type": 9,
+            "w": 88.0
+        },
+        {
+            "id": 1131493834,
+            "node1": 6890,
+            "node2": 104030,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 9971672,
+            "node1": 6890,
+            "node2": 104130,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 2318809,
+            "node1": 6890,
+            "node2": 106970,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 185166,
+            "node1": 6890,
+            "node2": 107097,
+            "type": 9,
+            "w": 61.0
+        },
+        {
+            "id": 1131493860,
+            "node1": 6890,
+            "node2": 108388,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2318810,
+            "node1": 6890,
+            "node2": 109413,
+            "type": 9,
+            "w": 75.0
+        },
+        {
+            "id": 96701295,
+            "node1": 6890,
+            "node2": 114237,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 9972181,
+            "node1": 6890,
+            "node2": 115622,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 193204,
+            "node1": 6890,
+            "node2": 116089,
+            "type": 9,
+            "w": 126.0
+        },
+        {
+            "id": 10528050,
+            "node1": 6890,
+            "node2": 117604,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 2429957,
+            "node1": 6890,
+            "node2": 117716,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 9973764,
+            "node1": 6890,
+            "node2": 119793,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 97127310,
+            "node1": 6890,
+            "node2": 120591,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 2217991,
+            "node1": 6890,
+            "node2": 120812,
+            "type": 9,
+            "w": 75.0
+        },
+        {
+            "id": 386067104,
+            "node1": 6890,
+            "node2": 121362,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 964733329,
+            "node1": 6890,
+            "node2": 123521,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 1131493921,
+            "node1": 6890,
+            "node2": 123682,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 1131493845,
+            "node1": 6890,
+            "node2": 124000,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 929483653,
+            "node1": 6890,
+            "node2": 124221,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 96701245,
+            "node1": 6890,
+            "node2": 124863,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 68774,
+            "node1": 6890,
+            "node2": 125198,
+            "type": 9,
+            "w": 91.0
+        },
+        {
+            "id": 1131493912,
+            "node1": 6890,
+            "node2": 125416,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1715164,
+            "node1": 6890,
+            "node2": 127794,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1131493849,
+            "node1": 6890,
+            "node2": 130331,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 977079945,
+            "node1": 6890,
+            "node2": 130627,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 10563918,
+            "node1": 6890,
+            "node2": 132398,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2429961,
+            "node1": 6890,
+            "node2": 133813,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 97127308,
+            "node1": 6890,
+            "node2": 134788,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 600839339,
+            "node1": 6890,
+            "node2": 135956,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 34657545,
+            "node1": 6890,
+            "node2": 136293,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 933180884,
+            "node1": 6890,
+            "node2": 136771,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 97127314,
+            "node1": 6890,
+            "node2": 139424,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 387031295,
+            "node1": 6890,
+            "node2": 139467,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 9973921,
+            "node1": 6890,
+            "node2": 140667,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 2429967,
+            "node1": 6890,
+            "node2": 140962,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 97127306,
+            "node1": 6890,
+            "node2": 141906,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 283913925,
+            "node1": 6890,
+            "node2": 141964,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 604990243,
+            "node1": 6890,
+            "node2": 142299,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 97846057,
+            "node1": 6890,
+            "node2": 142367,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 213316,
+            "node1": 6890,
+            "node2": 142861,
+            "type": 9,
+            "w": 89.0
+        },
+        {
+            "id": 68777,
+            "node1": 6890,
+            "node2": 143613,
+            "type": 9,
+            "w": 69.0
+        },
+        {
+            "id": 2429965,
+            "node1": 6890,
+            "node2": 144032,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 2429956,
+            "node1": 6890,
+            "node2": 144368,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 948430926,
+            "node1": 6890,
+            "node2": 144497,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 775517281,
+            "node1": 6890,
+            "node2": 144818,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 2478773,
+            "node1": 6890,
+            "node2": 145064,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 602098374,
+            "node1": 6890,
+            "node2": 145356,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 2429963,
+            "node1": 6890,
+            "node2": 146265,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 2150567,
+            "node1": 6890,
+            "node2": 146358,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 15758815,
+            "node1": 6890,
+            "node2": 147551,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 76692618,
+            "node1": 6890,
+            "node2": 147621,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 696814237,
+            "node1": 6890,
+            "node2": 148054,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 9973015,
+            "node1": 6890,
+            "node2": 148105,
+            "type": 9,
+            "w": 103.0
+        },
+        {
+            "id": 96701188,
+            "node1": 6890,
+            "node2": 148108,
+            "type": 9,
+            "w": 120.0
+        },
+        {
+            "id": 534701281,
+            "node1": 6890,
+            "node2": 148961,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 9970688,
+            "node1": 6890,
+            "node2": 151685,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 149281738,
+            "node1": 6890,
+            "node2": 152792,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 398247897,
+            "node1": 6890,
+            "node2": 152961,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 2150623,
+            "node1": 6890,
+            "node2": 153257,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 283913935,
+            "node1": 6890,
+            "node2": 153429,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1131510737,
+            "node1": 6890,
+            "node2": 153632,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 1131493901,
+            "node1": 6890,
+            "node2": 153684,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 159819,
+            "node1": 6890,
+            "node2": 154119,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 185169,
+            "node1": 6890,
+            "node2": 154510,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 10529812,
+            "node1": 6890,
+            "node2": 155840,
+            "type": 9,
+            "w": 70.0
+        },
+        {
+            "id": 200622,
+            "node1": 6890,
+            "node2": 155932,
+            "type": 9,
+            "w": 64.0
+        },
+        {
+            "id": 10530027,
+            "node1": 6890,
+            "node2": 155990,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 1131493897,
+            "node1": 6890,
+            "node2": 156350,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 96701231,
+            "node1": 6890,
+            "node2": 158197,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1131493899,
+            "node1": 6890,
+            "node2": 158719,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493831,
+            "node1": 6890,
+            "node2": 159525,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 10531907,
+            "node1": 6890,
+            "node2": 159535,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 793815455,
+            "node1": 6890,
+            "node2": 159841,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 10531297,
+            "node1": 6890,
+            "node2": 160345,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 2581542,
+            "node1": 6890,
+            "node2": 161241,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 696814244,
+            "node1": 6890,
+            "node2": 161335,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 580993389,
+            "node1": 6890,
+            "node2": 161627,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 2429964,
+            "node1": 6890,
+            "node2": 161672,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 2217994,
+            "node1": 6890,
+            "node2": 163052,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 2478774,
+            "node1": 6890,
+            "node2": 166060,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 525347162,
+            "node1": 6890,
+            "node2": 166074,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 98831918,
+            "node1": 6890,
+            "node2": 179187,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 96701190,
+            "node1": 6890,
+            "node2": 179188,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 574103800,
+            "node1": 6890,
+            "node2": 179693,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1131493904,
+            "node1": 6890,
+            "node2": 181176,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 10561457,
+            "node1": 6890,
+            "node2": 187626,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 2150626,
+            "node1": 6890,
+            "node2": 191791,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 525352041,
+            "node1": 6890,
+            "node2": 197384,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 2429966,
+            "node1": 6890,
+            "node2": 202357,
+            "type": 9,
+            "w": 54.0
+        },
+        {
+            "id": 468251607,
+            "node1": 6890,
+            "node2": 205495,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 956271215,
+            "node1": 6890,
+            "node2": 208193,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 283913926,
+            "node1": 6890,
+            "node2": 209133,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 602098372,
+            "node1": 6890,
+            "node2": 210065,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 468252540,
+            "node1": 6890,
+            "node2": 212013,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 96701201,
+            "node1": 6890,
+            "node2": 212955,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 386066902,
+            "node1": 6890,
+            "node2": 213441,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 283913936,
+            "node1": 6890,
+            "node2": 213566,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 344407995,
+            "node1": 6890,
+            "node2": 213625,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 386067262,
+            "node1": 6890,
+            "node2": 213627,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10529896,
+            "node1": 6890,
+            "node2": 213853,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 10529809,
+            "node1": 6890,
+            "node2": 213892,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 696814224,
+            "node1": 6890,
+            "node2": 214000,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 386066793,
+            "node1": 6890,
+            "node2": 214625,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10530148,
+            "node1": 6890,
+            "node2": 215516,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 10529875,
+            "node1": 6890,
+            "node2": 215898,
+            "type": 9,
+            "w": 65.0
+        },
+        {
+            "id": 477164747,
+            "node1": 6890,
+            "node2": 216183,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 96701185,
+            "node1": 6890,
+            "node2": 216871,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 386067257,
+            "node1": 6890,
+            "node2": 218888,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 696814243,
+            "node1": 6890,
+            "node2": 219628,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10531213,
+            "node1": 6890,
+            "node2": 219634,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 1131493885,
+            "node1": 6890,
+            "node2": 222101,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 2150616,
+            "node1": 6890,
+            "node2": 222964,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 696814233,
+            "node1": 6890,
+            "node2": 222967,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 696814251,
+            "node1": 6890,
+            "node2": 225161,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 2478775,
+            "node1": 6890,
+            "node2": 225215,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 696814238,
+            "node1": 6890,
+            "node2": 227624,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2478776,
+            "node1": 6890,
+            "node2": 227954,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 696814228,
+            "node1": 6890,
+            "node2": 228326,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 696814246,
+            "node1": 6890,
+            "node2": 228633,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 696814249,
+            "node1": 6890,
+            "node2": 230556,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 96701301,
+            "node1": 6890,
+            "node2": 232377,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 98617789,
+            "node1": 6890,
+            "node2": 232379,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 696814240,
+            "node1": 6890,
+            "node2": 233115,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 96701264,
+            "node1": 6890,
+            "node2": 233261,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 978193009,
+            "node1": 6890,
+            "node2": 233403,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 96701290,
+            "node1": 6890,
+            "node2": 233938,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 14625842,
+            "node1": 6890,
+            "node2": 234591,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 10531554,
+            "node1": 6890,
+            "node2": 235617,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 696814241,
+            "node1": 6890,
+            "node2": 236144,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 10536374,
+            "node1": 6890,
+            "node2": 236145,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 1131493851,
+            "node1": 6890,
+            "node2": 236148,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 386954768,
+            "node1": 6890,
+            "node2": 236977,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 932755857,
+            "node1": 6890,
+            "node2": 237681,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 696814231,
+            "node1": 6890,
+            "node2": 237688,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 77793668,
+            "node1": 6890,
+            "node2": 239722,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 696814225,
+            "node1": 6890,
+            "node2": 240898,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 2478777,
+            "node1": 6890,
+            "node2": 244453,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 386932775,
+            "node1": 6890,
+            "node2": 244695,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 561357159,
+            "node1": 6890,
+            "node2": 253972,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 10534443,
+            "node1": 6890,
+            "node2": 256781,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 635388618,
+            "node1": 6890,
+            "node2": 258674,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 696814230,
+            "node1": 6890,
+            "node2": 259859,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10562869,
+            "node1": 6890,
+            "node2": 270555,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 193775224,
+            "node1": 6890,
+            "node2": 315184,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 696814250,
+            "node1": 6890,
+            "node2": 317087,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 696814226,
+            "node1": 6890,
+            "node2": 332864,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 435484485,
+            "node1": 6890,
+            "node2": 340164,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 1131493919,
+            "node1": 6890,
+            "node2": 362310,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 348394554,
+            "node1": 6890,
+            "node2": 365119,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 696814235,
+            "node1": 6890,
+            "node2": 365137,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 283913939,
+            "node1": 6890,
+            "node2": 378137,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 283913937,
+            "node1": 6890,
+            "node2": 378138,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 793824743,
+            "node1": 6890,
+            "node2": 382340,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 793820058,
+            "node1": 6890,
+            "node2": 382440,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 1131493864,
+            "node1": 6890,
+            "node2": 401235,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493830,
+            "node1": 6890,
+            "node2": 435768,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 933180307,
+            "node1": 6890,
+            "node2": 591331,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 97847695,
+            "node1": 6890,
+            "node2": 600098,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 1131493825,
+            "node1": 6890,
+            "node2": 1183314,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 1131493826,
+            "node1": 6890,
+            "node2": 1183315,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 602098373,
+            "node1": 6890,
+            "node2": 1773803,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1131493872,
+            "node1": 6890,
+            "node2": 2010249,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493842,
+            "node1": 6890,
+            "node2": 2038654,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493828,
+            "node1": 6890,
+            "node2": 2117705,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 238093097,
+            "node1": 6890,
+            "node2": 2148419,
+            "type": 9,
+            "w": 49.0
+        },
+        {
+            "id": 149281386,
+            "node1": 6890,
+            "node2": 2194381,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 98720300,
+            "node1": 6890,
+            "node2": 2412527,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 618831486,
+            "node1": 6890,
+            "node2": 2419173,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 618832126,
+            "node1": 6890,
+            "node2": 2487651,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 604990264,
+            "node1": 6890,
+            "node2": 2511898,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 1055074905,
+            "node1": 6890,
+            "node2": 3997557,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 625842731,
+            "node1": 6890,
+            "node2": 4049424,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 625842729,
+            "node1": 6890,
+            "node2": 4078503,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 1131493843,
+            "node1": 6890,
+            "node2": 4508710,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 618832820,
+            "node1": 6890,
+            "node2": 5997235,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1131493866,
+            "node1": 6890,
+            "node2": 6305134,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493827,
+            "node1": 6890,
+            "node2": 6408170,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 1055141831,
+            "node1": 6890,
+            "node2": 7223171,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 561356111,
+            "node1": 6890,
+            "node2": 7776691,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 149281391,
+            "node1": 6890,
+            "node2": 8568732,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 149284512,
+            "node1": 6890,
+            "node2": 8568751,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 696814236,
+            "node1": 6890,
+            "node2": 8691804,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 177322234,
+            "node1": 6890,
+            "node2": 8738765,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 561357139,
+            "node1": 6890,
+            "node2": 8794700,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 413112002,
+            "node1": 6890,
+            "node2": 9120871,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 283913928,
+            "node1": 6890,
+            "node2": 10175745,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 283913932,
+            "node1": 6890,
+            "node2": 10175748,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 696814242,
+            "node1": 6890,
+            "node2": 10176027,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 618836276,
+            "node1": 6890,
+            "node2": 10313032,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 520893779,
+            "node1": 6890,
+            "node2": 13047636,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 478439851,
+            "node1": 6890,
+            "node2": 14152451,
+            "type": 9,
+            "w": 24.0
+        },
+        {
+            "id": 402426529,
+            "node1": 6890,
+            "node2": 14920775,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 496736322,
+            "node1": 6890,
+            "node2": 14921665,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 618830346,
+            "node1": 6890,
+            "node2": 14922240,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 484050421,
+            "node1": 6890,
+            "node2": 14922620,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 647136484,
+            "node1": 6890,
+            "node2": 14924374,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 398349879,
+            "node1": 6890,
+            "node2": 14924427,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 413111914,
+            "node1": 6890,
+            "node2": 14925532,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 413111972,
+            "node1": 6890,
+            "node2": 14925533,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 709508912,
+            "node1": 6890,
+            "node2": 14925534,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 429995468,
+            "node1": 6890,
+            "node2": 14927509,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 1018045053,
+            "node1": 6890,
+            "node2": 14932532,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 598230296,
+            "node1": 6890,
+            "node2": 14932533,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 399949230,
+            "node1": 6890,
+            "node2": 14935257,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 402844962,
+            "node1": 6890,
+            "node2": 14936525,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 402844935,
+            "node1": 6890,
+            "node2": 14936526,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 402844989,
+            "node1": 6890,
+            "node2": 14936535,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 484250956,
+            "node1": 6890,
+            "node2": 14939218,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 574113481,
+            "node1": 6890,
+            "node2": 14939219,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 432483558,
+            "node1": 6890,
+            "node2": 14944897,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 1023339358,
+            "node1": 6890,
+            "node2": 14947386,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 1023340156,
+            "node1": 6890,
+            "node2": 14950059,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 392162585,
+            "node1": 6890,
+            "node2": 14953137,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 392162501,
+            "node1": 6890,
+            "node2": 14953138,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 697772496,
+            "node1": 6890,
+            "node2": 14956955,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 600839775,
+            "node1": 6890,
+            "node2": 14960513,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 539458383,
+            "node1": 6890,
+            "node2": 14961338,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 736701743,
+            "node1": 6890,
+            "node2": 14964866,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 1131493890,
+            "node1": 6890,
+            "node2": 15026319,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 413111947,
+            "node1": 6890,
+            "node2": 15048148,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 618828832,
+            "node1": 6890,
+            "node2": 15053023,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 468252475,
+            "node1": 6890,
+            "node2": 15059447,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 520893727,
+            "node1": 6890,
+            "node2": 15066276,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 491980027,
+            "node1": 6890,
+            "node2": 15068924,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 598230290,
+            "node1": 6890,
+            "node2": 15069957,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 792567954,
+            "node1": 6890,
+            "node2": 15071693,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 413112033,
+            "node1": 6890,
+            "node2": 15076258,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 534705292,
+            "node1": 6890,
+            "node2": 15083460,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 436520148,
+            "node1": 6890,
+            "node2": 15102348,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 736701815,
+            "node1": 6890,
+            "node2": 15106694,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 696814232,
+            "node1": 6890,
+            "node2": 15107861,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 492391314,
+            "node1": 6890,
+            "node2": 15117037,
+            "type": 9,
+            "w": 23.0
+        },
+        {
+            "id": 625868715,
+            "node1": 6890,
+            "node2": 15142693,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 1055141654,
+            "node1": 6890,
+            "node2": 15207955,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 978192776,
+            "node1": 6890,
+            "node2": 15210119,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 489092163,
+            "node1": 6890,
+            "node2": 15210120,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 600849169,
+            "node1": 6890,
+            "node2": 15216216,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 411940617,
+            "node1": 6890,
+            "node2": 15239086,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 515325415,
+            "node1": 6890,
+            "node2": 15275001,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 923635267,
+            "node1": 6890,
+            "node2": 15276590,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 923635273,
+            "node1": 6890,
+            "node2": 15276591,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 468251605,
+            "node1": 6890,
+            "node2": 15279245,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 426538557,
+            "node1": 6890,
+            "node2": 15282071,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 709904546,
+            "node1": 6890,
+            "node2": 15293612,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 486602335,
+            "node1": 6890,
+            "node2": 15307499,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 561357247,
+            "node1": 6890,
+            "node2": 15369664,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 600822564,
+            "node1": 6890,
+            "node2": 15385119,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 525346997,
+            "node1": 6890,
+            "node2": 15413558,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 525347051,
+            "node1": 6890,
+            "node2": 15413559,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 525347071,
+            "node1": 6890,
+            "node2": 15413560,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 525347107,
+            "node1": 6890,
+            "node2": 15413561,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 402844786,
+            "node1": 6890,
+            "node2": 15419003,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 432483338,
+            "node1": 6890,
+            "node2": 15419004,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 468251603,
+            "node1": 6890,
+            "node2": 15419943,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 468251601,
+            "node1": 6890,
+            "node2": 15419944,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 554096244,
+            "node1": 6890,
+            "node2": 15420417,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 554096241,
+            "node1": 6890,
+            "node2": 15420418,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 554096238,
+            "node1": 6890,
+            "node2": 15420419,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 696814227,
+            "node1": 6890,
+            "node2": 15425261,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 402844788,
+            "node1": 6890,
+            "node2": 15426083,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 600839365,
+            "node1": 6890,
+            "node2": 15428577,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 600849204,
+            "node1": 6890,
+            "node2": 15441112,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 474057624,
+            "node1": 6890,
+            "node2": 15441113,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 561357321,
+            "node1": 6890,
+            "node2": 15442386,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 561357236,
+            "node1": 6890,
+            "node2": 15442387,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 775518395,
+            "node1": 6890,
+            "node2": 15448457,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 486602377,
+            "node1": 6890,
+            "node2": 15466741,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 1155406419,
+            "node1": 6890,
+            "node2": 15499957,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 1131493888,
+            "node1": 6890,
+            "node2": 15517193,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 402844791,
+            "node1": 6890,
+            "node2": 15523988,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 402844793,
+            "node1": 6890,
+            "node2": 15662904,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1055126247,
+            "node1": 6890,
+            "node2": 15787138,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 721315040,
+            "node1": 6890,
+            "node2": 16027030,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 436520583,
+            "node1": 6890,
+            "node2": 16576206,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 1131493829,
+            "node1": 6890,
+            "node2": 16942729,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 792567956,
+            "node1": 6890,
+            "node2": 36811658,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 561357338,
+            "node1": 6890,
+            "node2": 50646786,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 736701880,
+            "node1": 6890,
+            "node2": 53536792,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 932754629,
+            "node1": 6890,
+            "node2": 94273952,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 534703259,
+            "node1": 6890,
+            "node2": 104223482,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 534705349,
+            "node1": 6890,
+            "node2": 105337767,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 549525244,
+            "node1": 6890,
+            "node2": 130950747,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 549525206,
+            "node1": 6890,
+            "node2": 131081087,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 549525170,
+            "node1": 6890,
+            "node2": 131081136,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 1131493880,
+            "node1": 6890,
+            "node2": 142232932,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493876,
+            "node1": 6890,
+            "node2": 167734817,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493905,
+            "node1": 6890,
+            "node2": 209716246,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493909,
+            "node1": 6890,
+            "node2": 261277618,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 933229555,
+            "node1": 6890,
+            "node2": 307459577,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 969324727,
+            "node1": 6890,
+            "node2": 307463884,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 1155405600,
+            "node1": 6890,
+            "node2": 313684552,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 1155405519,
+            "node1": 6890,
+            "node2": 322932141,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 1151716504,
+            "node1": 6890,
+            "node2": 340618044,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1163958192,
+            "node1": 6890,
+            "node2": 423668127,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1131493832,
+            "node1": 6890,
+            "node2": 438828153,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493833,
+            "node1": 6890,
+            "node2": 438828154,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493835,
+            "node1": 6890,
+            "node2": 438828155,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493836,
+            "node1": 6890,
+            "node2": 438828156,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493837,
+            "node1": 6890,
+            "node2": 438828157,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493838,
+            "node1": 6890,
+            "node2": 438828158,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493839,
+            "node1": 6890,
+            "node2": 438828159,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493840,
+            "node1": 6890,
+            "node2": 438828160,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493846,
+            "node1": 6890,
+            "node2": 438828161,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493847,
+            "node1": 6890,
+            "node2": 438828162,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493848,
+            "node1": 6890,
+            "node2": 438828163,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493850,
+            "node1": 6890,
+            "node2": 438828164,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493852,
+            "node1": 6890,
+            "node2": 438828165,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493853,
+            "node1": 6890,
+            "node2": 438828166,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493854,
+            "node1": 6890,
+            "node2": 438828167,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493855,
+            "node1": 6890,
+            "node2": 438828168,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493856,
+            "node1": 6890,
+            "node2": 438828169,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493857,
+            "node1": 6890,
+            "node2": 438828170,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493858,
+            "node1": 6890,
+            "node2": 438828171,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493861,
+            "node1": 6890,
+            "node2": 438828172,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493868,
+            "node1": 6890,
+            "node2": 438828173,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493869,
+            "node1": 6890,
+            "node2": 438828174,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493870,
+            "node1": 6890,
+            "node2": 438828175,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493871,
+            "node1": 6890,
+            "node2": 438828176,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493874,
+            "node1": 6890,
+            "node2": 438828177,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493878,
+            "node1": 6890,
+            "node2": 438828178,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493883,
+            "node1": 6890,
+            "node2": 438828179,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493893,
+            "node1": 6890,
+            "node2": 438828180,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493907,
+            "node1": 6890,
+            "node2": 438828181,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493908,
+            "node1": 6890,
+            "node2": 438828182,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493910,
+            "node1": 6890,
+            "node2": 438828183,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493911,
+            "node1": 6890,
+            "node2": 438828184,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493913,
+            "node1": 6890,
+            "node2": 438828185,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493914,
+            "node1": 6890,
+            "node2": 438828186,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493915,
+            "node1": 6890,
+            "node2": 438828187,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493916,
+            "node1": 6890,
+            "node2": 438828188,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493917,
+            "node1": 6890,
+            "node2": 438828189,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493920,
+            "node1": 6890,
+            "node2": 438828190,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493922,
+            "node1": 6890,
+            "node2": 438828191,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493923,
+            "node1": 6890,
+            "node2": 438828192,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493924,
+            "node1": 6890,
+            "node2": 438828193,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131493925,
+            "node1": 6890,
+            "node2": 438828194,
+            "type": 9,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:55.399782",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voiture",
+        "#relations": 428,
+        "max_relation_weight": 827.0,
+        "#nodes": 429,
+        "duration": "0:00:00.203305"
+    }
+}

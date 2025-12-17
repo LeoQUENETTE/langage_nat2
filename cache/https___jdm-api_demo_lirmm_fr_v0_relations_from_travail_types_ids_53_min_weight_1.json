@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 70283,
+            "name": "travail",
+            "type": 1,
+            "w": 25894
+        },
+        {
+            "id": 19504,
+            "name": "valeur",
+            "type": 1,
+            "w": 16032
+        },
+        {
+            "id": 24247,
+            "name": "service",
+            "type": 1,
+            "w": 16237
+        },
+        {
+            "id": 15081713,
+            "name": "en:viva",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 239491,
+            "name": "soutenir sa thèse",
+            "type": 1,
+            "w": 113
+        },
+        {
+            "id": 15081712,
+            "name": "en:viva voce",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15429491,
+            "name": "examen de synthèse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15429492,
+            "name": "en:comprehensive exam",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 229296,
+            "name": "soutenance de thèse",
+            "type": 666,
+            "w": 13
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158039723,
+            "node1": 70283,
+            "node2": 19504,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156515847,
+            "node1": 70283,
+            "node2": 24247,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 376990492,
+            "node1": 70283,
+            "node2": 229296,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 376990482,
+            "node1": 70283,
+            "node2": 239491,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 479421969,
+            "node1": 70283,
+            "node2": 15081712,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 479421976,
+            "node1": 70283,
+            "node2": 15081713,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 594830807,
+            "node1": 70283,
+            "node2": 15429491,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 594830814,
+            "node1": 70283,
+            "node2": 15429492,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:23.512769",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "travail",
+        "#relations": 8,
+        "max_relation_weight": 35.0,
+        "#nodes": 9,
+        "duration": "0:00:00.006950"
+    }
+}

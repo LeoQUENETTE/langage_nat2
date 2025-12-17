@@ -1,0 +1,300 @@
+{
+    "nodes": [
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 101285,
+            "name": "musée",
+            "type": 1,
+            "w": 5173
+        },
+        {
+            "id": 94552870,
+            "name": "Centre culturel",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 45109,
+            "name": "édifice",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 15314736,
+            "name": "en:place of work",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 116178,
+            "name": "collection",
+            "type": 1,
+            "w": 4926
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 87855,
+            "name": "institution",
+            "type": 1,
+            "w": 5604
+        },
+        {
+            "id": 15301672,
+            "name": "en:cultural center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442348,
+            "name": "en:cultural centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 100370,
+            "name": "exposition",
+            "type": 1,
+            "w": 6466
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 6887729,
+            "name": "en:worksite",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 98040,
+            "name": "architecture",
+            "type": 1,
+            "w": 6006
+        },
+        {
+            "id": 124371249,
+            "name": "édifice>65524",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 8843694,
+            "name": "en:workplace",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10577802,
+            "name": "établissement culturel",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 128712,
+            "name": "lieu de travail",
+            "type": 1,
+            "w": 287
+        },
+        {
+            "id": 12731554,
+            "name": "lieu culturel",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 237265,
+            "name": "centre culturel",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 359416,
+            "name": "institution culturelle",
+            "type": 1,
+            "w": 68
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155916159,
+            "node1": 101285,
+            "node2": 45109,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 1155910369,
+            "node1": 101285,
+            "node2": 87855,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 9902689,
+            "node1": 101285,
+            "node2": 98040,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 205017,
+            "node1": 101285,
+            "node2": 100370,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 205016,
+            "node1": 101285,
+            "node2": 116178,
+            "type": 6,
+            "w": 87.0
+        },
+        {
+            "id": 705166099,
+            "node1": 101285,
+            "node2": 128712,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 361910,
+            "node1": 101285,
+            "node2": 134218,
+            "type": 6,
+            "w": 78.0
+        },
+        {
+            "id": 629104,
+            "node1": 101285,
+            "node2": 135190,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 9918063,
+            "node1": 101285,
+            "node2": 237265,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 1150816994,
+            "node1": 101285,
+            "node2": 325138,
+            "type": 6,
+            "w": 50.0
+        },
+        {
+            "id": 1150459011,
+            "node1": 101285,
+            "node2": 359416,
+            "type": 6,
+            "w": 79.0
+        },
+        {
+            "id": 705532805,
+            "node1": 101285,
+            "node2": 6887729,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 705351057,
+            "node1": 101285,
+            "node2": 8843694,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1155910351,
+            "node1": 101285,
+            "node2": 10577802,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 1152006885,
+            "node1": 101285,
+            "node2": 12731554,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 539550108,
+            "node1": 101285,
+            "node2": 15301672,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 705532714,
+            "node1": 101285,
+            "node2": 15314736,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 539550061,
+            "node1": 101285,
+            "node2": 15442348,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 774502413,
+            "node1": 101285,
+            "node2": 94552870,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1155916175,
+            "node1": 101285,
+            "node2": 124371249,
+            "type": 6,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:25.747255",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "musée",
+        "#relations": 20,
+        "max_relation_weight": 87.0,
+        "#nodes": 21,
+        "duration": "0:00:00.036391"
+    }
+}

@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 14029550,
+            "name": "facilité de conduite",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 64265,
+            "name": "largeur",
+            "type": 1,
+            "w": 3060
+        },
+        {
+            "id": 77315,
+            "name": "vitesse",
+            "type": 1,
+            "w": 6329
+        },
+        {
+            "id": 143180,
+            "name": "marque",
+            "type": 1,
+            "w": 6016
+        },
+        {
+            "id": 15441581,
+            "name": "date de première mise en circulation",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 57470,
+            "name": "consommation",
+            "type": 1,
+            "w": 11046
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19302
+        },
+        {
+            "id": 146238,
+            "name": "âge",
+            "type": 1,
+            "w": 10069
+        },
+        {
+            "id": 131040,
+            "name": "prix",
+            "type": 1,
+            "w": 12111
+        },
+        {
+            "id": 112163,
+            "name": "design",
+            "type": 1,
+            "w": 5697
+        },
+        {
+            "id": 39816,
+            "name": "modèle",
+            "type": 1,
+            "w": 9364
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10717
+        },
+        {
+            "id": 9824716,
+            "name": "nombre de places",
+            "type": 1,
+            "w": 43
+        },
+        {
+            "id": 225291,
+            "name": "couleur>17226",
+            "type": 1,
+            "w": 382
+        },
+        {
+            "id": 156895,
+            "name": "vitesse de pointe",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 64060,
+            "name": "puissance",
+            "type": 1,
+            "w": 9387
+        },
+        {
+            "id": 14029547,
+            "name": "espace intérieur",
+            "type": 1,
+            "w": 41
+        },
+        {
+            "id": 16865,
+            "name": "longueur",
+            "type": 1,
+            "w": 4588
+        },
+        {
+            "id": 14029543,
+            "name": "consommation moyenne",
+            "type": 1,
+            "w": 92
+        }
+    ],
+    "relations": [
+        {
+            "id": 355011460,
+            "node1": 6890,
+            "node2": 16865,
+            "type": 153,
+            "w": 35.0
+        },
+        {
+            "id": 766169410,
+            "node1": 6890,
+            "node2": 39816,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 355011453,
+            "node1": 6890,
+            "node2": 40056,
+            "type": 153,
+            "w": 30.0
+        },
+        {
+            "id": 283282812,
+            "node1": 6890,
+            "node2": 57470,
+            "type": 153,
+            "w": 61.0
+        },
+        {
+            "id": 55895263,
+            "node1": 6890,
+            "node2": 64060,
+            "type": 153,
+            "w": 50.0
+        },
+        {
+            "id": 355011458,
+            "node1": 6890,
+            "node2": 64265,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179137703,
+            "node1": 6890,
+            "node2": 77315,
+            "type": 153,
+            "w": 43.0
+        },
+        {
+            "id": 355011454,
+            "node1": 6890,
+            "node2": 112163,
+            "type": 153,
+            "w": 15.0
+        },
+        {
+            "id": 55895651,
+            "node1": 6890,
+            "node2": 131040,
+            "type": 153,
+            "w": 68.0
+        },
+        {
+            "id": 283282811,
+            "node1": 6890,
+            "node2": 143180,
+            "type": 153,
+            "w": 37.0
+        },
+        {
+            "id": 55895667,
+            "node1": 6890,
+            "node2": 146238,
+            "type": 153,
+            "w": 46.0
+        },
+        {
+            "id": 355011452,
+            "node1": 6890,
+            "node2": 156895,
+            "type": 153,
+            "w": 15.0
+        },
+        {
+            "id": 640062206,
+            "node1": 6890,
+            "node2": 225291,
+            "type": 153,
+            "w": 30.0
+        },
+        {
+            "id": 355011461,
+            "node1": 6890,
+            "node2": 9824716,
+            "type": 153,
+            "w": 30.0
+        },
+        {
+            "id": 355011456,
+            "node1": 6890,
+            "node2": 14029543,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 355011459,
+            "node1": 6890,
+            "node2": 14029547,
+            "type": 153,
+            "w": 28.0
+        },
+        {
+            "id": 355011457,
+            "node1": 6890,
+            "node2": 14029550,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 423724810,
+            "node1": 6890,
+            "node2": 15441581,
+            "type": 153,
+            "w": 36.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:54.965255",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voiture",
+        "#relations": 18,
+        "max_relation_weight": 68.0,
+        "#nodes": 19,
+        "duration": "0:00:00.016001"
+    }
+}

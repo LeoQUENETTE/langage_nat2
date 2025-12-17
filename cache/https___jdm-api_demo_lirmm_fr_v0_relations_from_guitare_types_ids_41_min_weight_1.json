@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 372313250,
+            "name": "callositées aux doigts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 265937236,
+            "name": "plaisir musical",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 39204,
+            "name": "guitare",
+            "type": 1,
+            "w": 3592
+        }
+    ],
+    "relations": [
+        {
+            "id": 1035086041,
+            "node1": 39204,
+            "node2": 265937236,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 1035086040,
+            "node1": 39204,
+            "node2": 372313250,
+            "type": 41,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:56.736063",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "guitare",
+        "#relations": 2,
+        "max_relation_weight": 31.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005606"
+    }
+}

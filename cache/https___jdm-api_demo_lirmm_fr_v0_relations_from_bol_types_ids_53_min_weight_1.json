@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 38557,
+            "name": "dessert",
+            "type": 1,
+            "w": 4297
+        },
+        {
+            "id": 20965,
+            "name": "nourriture",
+            "type": 1,
+            "w": 6970
+        },
+        {
+            "id": 145405,
+            "name": "bol",
+            "type": 1,
+            "w": 991
+        }
+    ],
+    "relations": [
+        {
+            "id": 1153742942,
+            "node1": 145405,
+            "node2": 20965,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1153742992,
+            "node1": 145405,
+            "node2": 38557,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:03.250878",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bol",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003917"
+    }
+}

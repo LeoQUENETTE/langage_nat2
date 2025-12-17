@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 82561,
+            "name": "signature",
+            "type": 1,
+            "w": 3857
+        },
+        {
+            "id": 145620,
+            "name": "tracé",
+            "type": 1,
+            "w": 2320
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4879
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2782
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152449693,
+            "node1": 15509,
+            "node2": 82561,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1156166302,
+            "node1": 15509,
+            "node2": 98596,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152449673,
+            "node1": 15509,
+            "node2": 145620,
+            "type": 53,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:40.898506",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 3,
+        "max_relation_weight": 27.0,
+        "#nodes": 4,
+        "duration": "0:00:00.002813"
+    }
+}

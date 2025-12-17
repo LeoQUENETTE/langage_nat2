@@ -1,0 +1,60 @@
+{
+    "nodes": [
+        {
+            "id": 10879,
+            "name": "tour",
+            "type": 1,
+            "w": 10240,
+            "c": 0,
+            "level": 61.6606,
+            "infoid": null,
+            "creationdate": "2007-06-21",
+            "touchdate": "2025-12-16T17:14:28"
+        },
+        {
+            "id": 269561,
+            "name": "sans couleur",
+            "type": 1,
+            "w": 56,
+            "c": 0,
+            "level": 199.0,
+            "infoid": null,
+            "creationdate": "2013-07-23",
+            "touchdate": "2025-12-16T19:47:49"
+        }
+    ],
+    "relations": [
+        {
+            "id": 3170044,
+            "node1": 10879,
+            "node2": 269561,
+            "type": 106,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": null,
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:30.713009",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "node1": "tour",
+        "node2": "sans couleur",
+        "#relations": 1,
+        "max_relation_weight": 2.0,
+        "duration": "0:00:00.008403"
+    }
+}

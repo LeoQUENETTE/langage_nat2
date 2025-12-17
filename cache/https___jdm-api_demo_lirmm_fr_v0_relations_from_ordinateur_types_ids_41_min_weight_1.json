@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 94978,
+            "name": "ordinateur",
+            "type": 1,
+            "w": 9689
+        },
+        {
+            "id": 161195596,
+            "name": "automatisation des tâches",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 254178,
+            "name": "accès à l'information",
+            "type": 1,
+            "w": 828
+        },
+        {
+            "id": 164736250,
+            "name": "amélioration de la communication",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 117739,
+            "name": "clavier",
+            "type": 1,
+            "w": 3527
+        },
+        {
+            "id": 144411047,
+            "name": "amélioration de la productivité",
+            "type": 1,
+            "w": 38
+        }
+    ],
+    "relations": [
+        {
+            "id": 14657168,
+            "node1": 94978,
+            "node2": 117739,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1156154586,
+            "node1": 94978,
+            "node2": 254178,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1156154585,
+            "node1": 94978,
+            "node2": 144411047,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158667801,
+            "node1": 94978,
+            "node2": 161195596,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158667802,
+            "node1": 94978,
+            "node2": 164736250,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:27.940185",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ordinateur",
+        "#relations": 5,
+        "max_relation_weight": 32.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003818"
+    }
+}

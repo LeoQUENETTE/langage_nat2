@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 12948,
+            "name": "manoeuvre",
+            "type": 1,
+            "w": 436
+        },
+        {
+            "id": 39621,
+            "name": "marin",
+            "type": 1,
+            "w": 2631
+        },
+        {
+            "id": 64163,
+            "name": "navigation",
+            "type": 1,
+            "w": 3988
+        },
+        {
+            "id": 14631300,
+            "name": "opération amphibie",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 170112,
+            "name": "navigation à voile",
+            "type": 1,
+            "w": 54
+        }
+    ],
+    "relations": [
+        {
+            "id": 959810220,
+            "node1": 39621,
+            "node2": 12948,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 720644608,
+            "node1": 39621,
+            "node2": 64163,
+            "type": 137,
+            "w": 77.0
+        },
+        {
+            "id": 1136719962,
+            "node1": 39621,
+            "node2": 170112,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 790626243,
+            "node1": 39621,
+            "node2": 14631300,
+            "type": 137,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:15.335098",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "marin",
+        "#relations": 4,
+        "max_relation_weight": 77.0,
+        "#nodes": 5,
+        "duration": "0:00:00.007172"
+    }
+}

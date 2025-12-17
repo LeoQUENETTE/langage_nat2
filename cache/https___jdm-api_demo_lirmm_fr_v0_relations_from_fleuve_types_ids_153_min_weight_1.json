@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 69943,
+            "name": "fleuve",
+            "type": 1,
+            "w": 3979
+        },
+        {
+            "id": 261809965,
+            "name": "débit moyen",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 16865,
+            "name": "longueur",
+            "type": 1,
+            "w": 4589
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139287,
+            "node1": 69943,
+            "node2": 16865,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179142872,
+            "node1": 69943,
+            "node2": 261809965,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:21.160921",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleuve",
+        "#relations": 2,
+        "max_relation_weight": 29.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003540"
+    }
+}

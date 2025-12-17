@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 214330739,
+            "name": "affichage de l'heure",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 45049,
+            "name": "montre",
+            "type": 1,
+            "w": 5426
+        }
+    ],
+    "relations": [
+        {
+            "id": 794508074,
+            "node1": 45049,
+            "node2": 214330739,
+            "type": 137,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:28.272392",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "montre",
+        "#relations": 1,
+        "max_relation_weight": 28.0,
+        "#nodes": 2,
+        "duration": "0:00:00.006409"
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 313095,
+            "name": "ville>43260",
+            "type": 1,
+            "w": 204
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 124310626,
+            "name": "action de porter",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 125410,
+            "name": "affranchissement",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 1628992,
+            "name": "infrastructure portuaire",
+            "type": 1,
+            "w": 63
+        },
+        {
+            "id": 131040,
+            "name": "prix",
+            "type": 1,
+            "w": 12153
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5280
+        },
+        {
+            "id": 48078,
+            "name": "infrastructure",
+            "type": 1,
+            "w": 5202
+        },
+        {
+            "id": 126691,
+            "name": "maintien",
+            "type": 1,
+            "w": 3620
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 373118,
+            "name": "prix de transport",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 5558955,
+            "name": "infrastructure construite par l'homme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 113743,
+            "name": "port",
+            "type": 1,
+            "w": 5626
+        }
+    ],
+    "relations": [
+        {
+            "id": 108399577,
+            "node1": 113743,
+            "node2": 48078,
+            "type": 6,
+            "w": 45.0
+        },
+        {
+            "id": 541554911,
+            "node1": 113743,
+            "node2": 125410,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 541554913,
+            "node1": 113743,
+            "node2": 126691,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 541554907,
+            "node1": 113743,
+            "node2": 131040,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 1127186515,
+            "node1": 113743,
+            "node2": 134218,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 629407,
+            "node1": 113743,
+            "node2": 135190,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 59532503,
+            "node1": 113743,
+            "node2": 135936,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 541554917,
+            "node1": 113743,
+            "node2": 136786,
+            "type": 6,
+            "w": 104.0
+        },
+        {
+            "id": 541582335,
+            "node1": 113743,
+            "node2": 157283,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 601486989,
+            "node1": 113743,
+            "node2": 313095,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 541554909,
+            "node1": 113743,
+            "node2": 373118,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1155921913,
+            "node1": 113743,
+            "node2": 1628992,
+            "type": 6,
+            "w": 45.0
+        },
+        {
+            "id": 661855472,
+            "node1": 113743,
+            "node2": 2785548,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 109964746,
+            "node1": 113743,
+            "node2": 5558955,
+            "type": 6,
+            "w": 76.0
+        },
+        {
+            "id": 541583280,
+            "node1": 113743,
+            "node2": 14094383,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 541554915,
+            "node1": 113743,
+            "node2": 124310626,
+            "type": 6,
+            "w": 45.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:21.310115",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "port",
+        "#relations": 16,
+        "max_relation_weight": 104.0,
+        "#nodes": 17,
+        "duration": "0:00:00.045820"
+    }
+}

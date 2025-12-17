@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 292565050,
+            "name": "gestion de livres",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 313688064,
+            "name": "gestion de collections littéraires",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5325,
+            "name": "bibliothécaire",
+            "type": 1,
+            "w": 205
+        },
+        {
+            "id": 186702900,
+            "name": "prêt de livres",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 91907,
+            "name": "catalogage",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 14636025,
+            "name": "gestion documentaire",
+            "type": 777,
+            "w": 29
+        }
+    ],
+    "relations": [
+        {
+            "id": 952377460,
+            "node1": 5325,
+            "node2": 91907,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 952374970,
+            "node1": 5325,
+            "node2": 14636025,
+            "type": 137,
+            "w": 54.0
+        },
+        {
+            "id": 929999912,
+            "node1": 5325,
+            "node2": 186702900,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 765196476,
+            "node1": 5325,
+            "node2": 292565050,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 952387624,
+            "node1": 5325,
+            "node2": 313688064,
+            "type": 137,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:01.840596",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bibliothécaire",
+        "#relations": 5,
+        "max_relation_weight": 54.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003980"
+    }
+}

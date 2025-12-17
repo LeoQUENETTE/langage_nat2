@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 373503,
+            "name": "produit de première nécessité",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 26608,
+            "name": "savon",
+            "type": 1,
+            "w": 1377
+        },
+        {
+            "id": 188699367,
+            "name": "objet utile",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 15463175,
+            "name": "en:cosmetic product",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 682991,
+            "name": "mousse>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134158,
+            "name": "mousse",
+            "type": 1,
+            "w": 977
+        },
+        {
+            "id": 32667,
+            "name": "produit",
+            "type": 1,
+            "w": 9476
+        },
+        {
+            "id": 3304283,
+            "name": "objet de tous les jours",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216982,
+            "name": "produit cosmétique",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 332667,
+            "name": "produit de lavage",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 373443,
+            "name": "produit d'hygiène",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 11358,
+            "name": "substance",
+            "type": 1,
+            "w": 4567
+        },
+        {
+            "id": 373474,
+            "name": "produit liquide",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 77871,
+            "name": "détergent",
+            "type": 1,
+            "w": 295
+        },
+        {
+            "id": 18777,
+            "name": "bulle",
+            "type": 1,
+            "w": 1864
+        }
+    ],
+    "relations": [
+        {
+            "id": 937527754,
+            "node1": 26608,
+            "node2": 237,
+            "type": 6,
+            "w": 186.0
+        },
+        {
+            "id": 1668344,
+            "node1": 26608,
+            "node2": 11358,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 9899861,
+            "node1": 26608,
+            "node2": 18777,
+            "type": 6,
+            "w": 189.0
+        },
+        {
+            "id": 146501,
+            "node1": 26608,
+            "node2": 32667,
+            "type": 6,
+            "w": 542.9
+        },
+        {
+            "id": 12469327,
+            "node1": 26608,
+            "node2": 77871,
+            "type": 6,
+            "w": 585.56
+        },
+        {
+            "id": 9902858,
+            "node1": 26608,
+            "node2": 134158,
+            "type": 6,
+            "w": 521.59
+        },
+        {
+            "id": 9914703,
+            "node1": 26608,
+            "node2": 216982,
+            "type": 6,
+            "w": 585.55
+        },
+        {
+            "id": 937527882,
+            "node1": 26608,
+            "node2": 246870,
+            "type": 6,
+            "w": 201.0
+        },
+        {
+            "id": 12469384,
+            "node1": 26608,
+            "node2": 332667,
+            "type": 6,
+            "w": 585.58
+        },
+        {
+            "id": 1017978584,
+            "node1": 26608,
+            "node2": 373443,
+            "type": 6,
+            "w": 585.55
+        },
+        {
+            "id": 108380138,
+            "node1": 26608,
+            "node2": 373474,
+            "type": 6,
+            "w": 585.54
+        },
+        {
+            "id": 640891669,
+            "node1": 26608,
+            "node2": 373503,
+            "type": 6,
+            "w": 585.57
+        },
+        {
+            "id": 776172391,
+            "node1": 26608,
+            "node2": 682991,
+            "type": 6,
+            "w": 521.58
+        },
+        {
+            "id": 83042824,
+            "node1": 26608,
+            "node2": 3304283,
+            "type": 6,
+            "w": 188.0
+        },
+        {
+            "id": 604604830,
+            "node1": 26608,
+            "node2": 15463175,
+            "type": 6,
+            "w": 585.55
+        },
+        {
+            "id": 987830041,
+            "node1": 26608,
+            "node2": 188699367,
+            "type": 6,
+            "w": 191.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:00.060647",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "savon",
+        "#relations": 16,
+        "max_relation_weight": 1000.0,
+        "#nodes": 17,
+        "duration": "0:00:00.020620"
+    }
+}

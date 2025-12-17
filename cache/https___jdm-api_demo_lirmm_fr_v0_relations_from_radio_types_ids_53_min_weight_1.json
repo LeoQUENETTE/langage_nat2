@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 8216,
+            "name": "radio",
+            "type": 1,
+            "w": 4728
+        },
+        {
+            "id": 51528,
+            "name": "son",
+            "type": 1,
+            "w": 370173
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131440249,
+            "node1": 8216,
+            "node2": 51528,
+            "type": 53,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:15.975420",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "radio",
+        "#relations": 1,
+        "max_relation_weight": 33.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003550"
+    }
+}

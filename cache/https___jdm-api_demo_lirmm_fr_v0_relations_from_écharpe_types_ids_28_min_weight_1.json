@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 39794,
+            "name": "nourrisson",
+            "type": 1,
+            "w": 978
+        },
+        {
+            "id": 219542,
+            "name": "pellicule>156045",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 240853,
+            "name": "tache>9191",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 141796,
+            "name": "tache",
+            "type": 1,
+            "w": 1671
+        },
+        {
+            "id": 26363,
+            "name": "bras",
+            "type": 1,
+            "w": 11187
+        },
+        {
+            "id": 36389,
+            "name": "poux",
+            "type": 1,
+            "w": 194
+        },
+        {
+            "id": 144306,
+            "name": "pellicule",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 6912949,
+            "name": "en:hair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 405965,
+            "name": "hair",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 146162,
+            "name": "écharpe",
+            "type": 1,
+            "w": 304
+        },
+        {
+            "id": 51126,
+            "name": "cheveux",
+            "type": 1,
+            "w": 3931
+        }
+    ],
+    "relations": [
+        {
+            "id": 236610643,
+            "node1": 146162,
+            "node2": 26363,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 2140246,
+            "node1": 146162,
+            "node2": 36389,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 2342520,
+            "node1": 146162,
+            "node2": 39794,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 2123115,
+            "node1": 146162,
+            "node2": 51126,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 104937557,
+            "node1": 146162,
+            "node2": 141796,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104937793,
+            "node1": 146162,
+            "node2": 144306,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 2304330,
+            "node1": 146162,
+            "node2": 219542,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 12975697,
+            "node1": 146162,
+            "node2": 240853,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 375975895,
+            "node1": 146162,
+            "node2": 405965,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 308216768,
+            "node1": 146162,
+            "node2": 6912949,
+            "type": 28,
+            "w": 1.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:02.416321",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "écharpe",
+        "#relations": 10,
+        "max_relation_weight": 54.0,
+        "#nodes": 11,
+        "duration": "0:00:00.006466"
+    }
+}

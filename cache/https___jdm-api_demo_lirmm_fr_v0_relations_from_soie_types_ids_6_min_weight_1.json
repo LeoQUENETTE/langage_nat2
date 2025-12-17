@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 140902,
+            "name": "étoffe",
+            "type": 1,
+            "w": 464
+        },
+        {
+            "id": 14153501,
+            "name": "Fibre naturelle",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 257146,
+            "name": "fibre naturelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5622964,
+            "name": "fibre protéique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 28937,
+            "name": "soie",
+            "type": 1,
+            "w": 2409
+        },
+        {
+            "id": 94609,
+            "name": "textile",
+            "type": 1,
+            "w": 2027
+        },
+        {
+            "id": 5622963,
+            "name": "fibre protéique naturelle d'origine animale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 354360082,
+            "name": "matière fine",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 10885,
+            "name": "fibre textile",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 101290,
+            "name": "fibre",
+            "type": 1,
+            "w": 1434
+        },
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12262
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 108520805,
+            "name": "Fibre textile",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 128782,
+            "name": "fil",
+            "type": 1,
+            "w": 5593
+        },
+        {
+            "id": 213432,
+            "name": "tissu>94609",
+            "type": 1,
+            "w": 272
+        }
+    ],
+    "relations": [
+        {
+            "id": 9908293,
+            "node1": 28937,
+            "node2": 10885,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 82678460,
+            "node1": 28937,
+            "node2": 29208,
+            "type": 6,
+            "w": 39.0
+        },
+        {
+            "id": 31411869,
+            "node1": 28937,
+            "node2": 30843,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 25212145,
+            "node1": 28937,
+            "node2": 63936,
+            "type": 6,
+            "w": 283.0
+        },
+        {
+            "id": 9912000,
+            "node1": 28937,
+            "node2": 94609,
+            "type": 6,
+            "w": 78.0
+        },
+        {
+            "id": 1134307540,
+            "node1": 28937,
+            "node2": 97739,
+            "type": 6,
+            "w": 47.0
+        },
+        {
+            "id": 82831924,
+            "node1": 28937,
+            "node2": 101290,
+            "type": 6,
+            "w": 50.0
+        },
+        {
+            "id": 1158210211,
+            "node1": 28937,
+            "node2": 128782,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 9899414,
+            "node1": 28937,
+            "node2": 140902,
+            "type": 6,
+            "w": 618.0
+        },
+        {
+            "id": 25212703,
+            "node1": 28937,
+            "node2": 213432,
+            "type": 6,
+            "w": 351.0
+        },
+        {
+            "id": 9917081,
+            "node1": 28937,
+            "node2": 257146,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 110706826,
+            "node1": 28937,
+            "node2": 5622963,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 454508891,
+            "node1": 28937,
+            "node2": 5622964,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 376433215,
+            "node1": 28937,
+            "node2": 14153501,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 705953088,
+            "node1": 28937,
+            "node2": 108520805,
+            "type": 6,
+            "w": 71.0
+        },
+        {
+            "id": 1019097351,
+            "node1": 28937,
+            "node2": 354360082,
+            "type": 6,
+            "w": 61.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:37.091082",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soie",
+        "#relations": 16,
+        "max_relation_weight": 618.0,
+        "#nodes": 17,
+        "duration": "0:00:00.022463"
+    }
+}

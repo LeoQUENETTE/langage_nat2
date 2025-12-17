@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 277491,
+            "name": "palais Farnèse",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 215279,
+            "name": "basilique Saint-Pierre",
+            "type": 666,
+            "w": 25
+        },
+        {
+            "id": 61281,
+            "name": "Rome",
+            "type": 1,
+            "w": 4653
+        },
+        {
+            "id": 14654432,
+            "name": "patrimoine historique",
+            "type": 1,
+            "w": 179
+        }
+    ],
+    "relations": [
+        {
+            "id": 479258587,
+            "node1": 61281,
+            "node2": 215279,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 1150460421,
+            "node1": 61281,
+            "node2": 277491,
+            "type": 121,
+            "w": 59.0
+        },
+        {
+            "id": 1150460423,
+            "node1": 61281,
+            "node2": 14654432,
+            "type": 121,
+            "w": 59.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:14.065298",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Rome",
+        "#relations": 3,
+        "max_relation_weight": 59.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004698"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 112777,
+            "name": "rédaction",
+            "type": 1,
+            "w": 4419
+        },
+        {
+            "id": 51253,
+            "name": "message",
+            "type": 1,
+            "w": 8158
+        },
+        {
+            "id": 52396,
+            "name": "transmission",
+            "type": 1,
+            "w": 8841
+        }
+    ],
+    "relations": [
+        {
+            "id": 1145092491,
+            "node1": 51253,
+            "node2": 52396,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1145092492,
+            "node1": 51253,
+            "node2": 112777,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:25.210452",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "message",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003599"
+    }
+}

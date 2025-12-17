@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 52335,
+            "name": "imprimerie",
+            "type": 1,
+            "w": 562
+        },
+        {
+            "id": 2026,
+            "name": "journal",
+            "type": 1,
+            "w": 9365
+        },
+        {
+            "id": 163190,
+            "name": "faits divers",
+            "type": 1,
+            "w": 219
+        }
+    ],
+    "relations": [
+        {
+            "id": 770910091,
+            "node1": 2026,
+            "node2": 52335,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1046569777,
+            "node1": 2026,
+            "node2": 163190,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:11.505962",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "journal",
+        "#relations": 2,
+        "max_relation_weight": 29.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004766"
+    }
+}

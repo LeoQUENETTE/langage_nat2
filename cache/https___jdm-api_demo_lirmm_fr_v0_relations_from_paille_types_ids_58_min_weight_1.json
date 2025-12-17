@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 33643,
+            "name": "ballot",
+            "type": 1,
+            "w": 152
+        },
+        {
+            "id": 80990,
+            "name": "motte",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 124685,
+            "name": "fétu",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 220198,
+            "name": "meule>65828",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 47052,
+            "name": "meule",
+            "type": 1,
+            "w": 209
+        },
+        {
+            "id": 143249,
+            "name": "paille",
+            "type": 1,
+            "w": 674
+        },
+        {
+            "id": 48526,
+            "name": "brin",
+            "type": 1,
+            "w": 251
+        }
+    ],
+    "relations": [
+        {
+            "id": 1883086,
+            "node1": 143249,
+            "node2": 33643,
+            "type": 58,
+            "w": 35.0
+        },
+        {
+            "id": 98112748,
+            "node1": 143249,
+            "node2": 47052,
+            "type": 58,
+            "w": 30.0
+        },
+        {
+            "id": 1874091,
+            "node1": 143249,
+            "node2": 48526,
+            "type": 58,
+            "w": 35.0
+        },
+        {
+            "id": 98112747,
+            "node1": 143249,
+            "node2": 80990,
+            "type": 58,
+            "w": 26.0
+        },
+        {
+            "id": 1874092,
+            "node1": 143249,
+            "node2": 124685,
+            "type": 58,
+            "w": 34.0
+        },
+        {
+            "id": 98112746,
+            "node1": 143249,
+            "node2": 220198,
+            "type": 58,
+            "w": 15.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:02.436442",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "paille",
+        "#relations": 6,
+        "max_relation_weight": 35.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004578"
+    }
+}

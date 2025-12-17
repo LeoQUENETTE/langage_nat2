@@ -1,0 +1,31 @@
+{
+    "nodes": [],
+    "relations": [],
+    "request": {
+        "types_ids": [
+            113
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:53.471422",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "compositeur",
+        "#relations": 0,
+        "#nodes": 0,
+        "duration": "0:00:00.004955"
+    }
+}

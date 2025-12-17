@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 81046,
+            "name": "tapis",
+            "type": 1,
+            "w": 1328
+        },
+        {
+            "id": 3182295,
+            "name": "faux pas>128551",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39875,
+            "name": "faux pas",
+            "type": 1,
+            "w": 127
+        }
+    ],
+    "relations": [
+        {
+            "id": 97977580,
+            "node1": 81046,
+            "node2": 39875,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 77018685,
+            "node1": 81046,
+            "node2": 3182295,
+            "type": 41,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:13.688834",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tapis",
+        "#relations": 2,
+        "max_relation_weight": 28.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005339"
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 14927215,
+            "name": "en:combustion chamber",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17401616,
+            "name": "pièce habitable",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 90075,
+            "name": "chambre",
+            "type": 1,
+            "w": 13006
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 31112382,
+            "name": "espace personnel",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 139209,
+            "name": "salle",
+            "type": 1,
+            "w": 6578
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 120511,
+            "name": "assemblée",
+            "type": 1,
+            "w": 4062
+        },
+        {
+            "id": 216173,
+            "name": "pièce>139209",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 96851,
+            "name": "pièce",
+            "type": 1,
+            "w": 8445
+        },
+        {
+            "id": 15088757,
+            "name": "en:sleeping room",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 181443,
+            "name": "chambre de combustion",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 14927209,
+            "name": "en:bedroom",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 107434,
+            "name": "om",
+            "type": 1,
+            "w": 182
+        }
+    ],
+    "relations": [
+        {
+            "id": 663010,
+            "node1": 90075,
+            "node2": 96851,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 473419444,
+            "node1": 90075,
+            "node2": 107434,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 82269556,
+            "node1": 90075,
+            "node2": 120511,
+            "type": 6,
+            "w": 64.0
+        },
+        {
+            "id": 9901127,
+            "node1": 90075,
+            "node2": 134218,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 629013,
+            "node1": 90075,
+            "node2": 135190,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 9902451,
+            "node1": 90075,
+            "node2": 139209,
+            "type": 6,
+            "w": 87.0
+        },
+        {
+            "id": 95403392,
+            "node1": 90075,
+            "node2": 157283,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 97320042,
+            "node1": 90075,
+            "node2": 181443,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 1982040,
+            "node1": 90075,
+            "node2": 216173,
+            "type": 6,
+            "w": 76.0
+        },
+        {
+            "id": 775797159,
+            "node1": 90075,
+            "node2": 325138,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 357210332,
+            "node1": 90075,
+            "node2": 14094383,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 599768542,
+            "node1": 90075,
+            "node2": 14927209,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 603731651,
+            "node1": 90075,
+            "node2": 14927215,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 705143227,
+            "node1": 90075,
+            "node2": 15088757,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 473459507,
+            "node1": 90075,
+            "node2": 17401616,
+            "type": 6,
+            "w": 78.0
+        },
+        {
+            "id": 1044124658,
+            "node1": 90075,
+            "node2": 31112382,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:33.762133",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chambre",
+        "#relations": 16,
+        "max_relation_weight": 87.0,
+        "#nodes": 17,
+        "duration": "0:00:00.068409"
+    }
+}

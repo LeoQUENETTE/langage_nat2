@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 15102158,
+            "name": "en:tonic accent",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32132,
+            "name": "mot",
+            "type": 1,
+            "w": 26370
+        },
+        {
+            "id": 145994,
+            "name": "lettre",
+            "type": 1,
+            "w": 14711
+        },
+        {
+            "id": 15332961,
+            "name": "en:stress accent",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332959,
+            "name": "en:tonic stress",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 210200,
+            "name": "accent d'intensité",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14917200,
+            "name": "en:word accent",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251324,
+            "name": "accent tonique",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 91965597,
+            "name": "Accent tonique",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 11345913,
+            "node1": 32132,
+            "node2": 145994,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 470960863,
+            "node1": 32132,
+            "node2": 210200,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 11325840,
+            "node1": 32132,
+            "node2": 251324,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1054580971,
+            "node1": 32132,
+            "node2": 14917200,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 515258110,
+            "node1": 32132,
+            "node2": 15102158,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470982613,
+            "node1": 32132,
+            "node2": 15332959,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470982615,
+            "node1": 32132,
+            "node2": 15332961,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 977744943,
+            "node1": 32132,
+            "node2": 91965597,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:46.525746",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mot",
+        "#relations": 8,
+        "max_relation_weight": 41.0,
+        "#nodes": 9,
+        "duration": "0:00:00.005954"
+    }
+}

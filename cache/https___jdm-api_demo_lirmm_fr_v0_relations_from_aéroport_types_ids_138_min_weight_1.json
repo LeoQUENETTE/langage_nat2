@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 94262,
+            "name": "aéroport",
+            "type": 1,
+            "w": 3120
+        },
+        {
+            "id": 1370,
+            "name": "embarquement",
+            "type": 1,
+            "w": 340
+        },
+        {
+            "id": 111867,
+            "name": "enregistrement",
+            "type": 1,
+            "w": 2478
+        },
+        {
+            "id": 88901,
+            "name": "sécurité",
+            "type": 1,
+            "w": 22048
+        },
+        {
+            "id": 218195374,
+            "name": "contrôle des passagers",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 143582008,
+            "name": "contrôle de sécurité",
+            "type": 1,
+            "w": 43
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150572839,
+            "node1": 94262,
+            "node2": 1370,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150536806,
+            "node1": 94262,
+            "node2": 88901,
+            "type": 138,
+            "w": 27.0
+        },
+        {
+            "id": 1150572833,
+            "node1": 94262,
+            "node2": 111867,
+            "type": 138,
+            "w": 27.0
+        },
+        {
+            "id": 1150536384,
+            "node1": 94262,
+            "node2": 143582008,
+            "type": 138,
+            "w": 29.0
+        },
+        {
+            "id": 1150536821,
+            "node1": 94262,
+            "node2": 218195374,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:15.445723",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "aéroport",
+        "#relations": 5,
+        "max_relation_weight": 29.0,
+        "#nodes": 6,
+        "duration": "0:00:00.005445"
+    }
+}

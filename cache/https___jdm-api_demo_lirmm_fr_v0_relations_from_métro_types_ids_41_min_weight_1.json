@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 158531793,
+            "name": "réduction de la pollution",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 134491,
+            "name": "métro",
+            "type": 1,
+            "w": 4058
+        },
+        {
+            "id": 15477322,
+            "name": "fluidité du trafic",
+            "type": 1,
+            "w": 35
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154255205,
+            "node1": 134491,
+            "node2": 15477322,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1154255180,
+            "node1": 134491,
+            "node2": 158531793,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:45.735035",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métro",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003888"
+    }
+}

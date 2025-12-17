@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 39192,
+            "name": "nuit",
+            "type": 1,
+            "w": 25517
+        },
+        {
+            "id": 13925,
+            "name": "dîner",
+            "type": 1,
+            "w": 1460
+        },
+        {
+            "id": 94053,
+            "name": "soir",
+            "type": 1,
+            "w": 10625
+        },
+        {
+            "id": 97327,
+            "name": "bonsoir",
+            "type": 1,
+            "w": 189
+        }
+    ],
+    "relations": [
+        {
+            "id": 14655772,
+            "node1": 94053,
+            "node2": 13925,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1066280652,
+            "node1": 94053,
+            "node2": 39192,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14658208,
+            "node1": 94053,
+            "node2": 97327,
+            "type": 41,
+            "w": 120.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:38.187115",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soir",
+        "#relations": 3,
+        "max_relation_weight": 120.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003698"
+    }
+}

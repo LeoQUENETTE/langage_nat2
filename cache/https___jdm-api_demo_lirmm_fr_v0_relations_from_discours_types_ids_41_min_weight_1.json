@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 140852,
+            "name": "s'engourdir",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 35352,
+            "name": "discours",
+            "type": 1,
+            "w": 12171
+        },
+        {
+            "id": 38466,
+            "name": "stress",
+            "type": 1,
+            "w": 5085
+        },
+        {
+            "id": 61936,
+            "name": "ennui",
+            "type": 1,
+            "w": 1956
+        },
+        {
+            "id": 124771,
+            "name": "parole",
+            "type": 1,
+            "w": 10235
+        },
+        {
+            "id": 200408,
+            "name": "faire dodo",
+            "type": 1,
+            "w": 140
+        },
+        {
+            "id": 139396,
+            "name": "s'assoupir",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 14961887,
+            "name": "en:nod off",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 138507,
+            "name": "s'endormir",
+            "type": 1,
+            "w": 413
+        },
+        {
+            "id": 14960856,
+            "name": "en:go to sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1990,
+            "name": "somnoler",
+            "type": 1,
+            "w": 189
+        },
+        {
+            "id": 223089,
+            "name": "aller dormir",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 15244077,
+            "name": "en:to get to sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14960855,
+            "name": "en:fall asleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15198999,
+            "name": "en:get to sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15244078,
+            "name": "en:to go off to sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15566895,
+            "name": "en:go off to sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9980436,
+            "name": "trouver le sommeil",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15446328,
+            "name": "se mettre en veille",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1026840446,
+            "node1": 35352,
+            "node2": 1990,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 14654394,
+            "node1": 35352,
+            "node2": 38466,
+            "type": 41,
+            "w": 42.0
+        },
+        {
+            "id": 28499991,
+            "node1": 35352,
+            "node2": 61936,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14657882,
+            "node1": 35352,
+            "node2": 124771,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 372242432,
+            "node1": 35352,
+            "node2": 138507,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 929754415,
+            "node1": 35352,
+            "node2": 139396,
+            "type": 41,
+            "w": 11.0
+        },
+        {
+            "id": 973315998,
+            "node1": 35352,
+            "node2": 140852,
+            "type": 41,
+            "w": 15.0
+        },
+        {
+            "id": 929743213,
+            "node1": 35352,
+            "node2": 200408,
+            "type": 41,
+            "w": 17.0
+        },
+        {
+            "id": 1079357603,
+            "node1": 35352,
+            "node2": 223089,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 431560956,
+            "node1": 35352,
+            "node2": 9980436,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 405624162,
+            "node1": 35352,
+            "node2": 14960855,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 431562679,
+            "node1": 35352,
+            "node2": 14960856,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 431562762,
+            "node1": 35352,
+            "node2": 14961887,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 431562837,
+            "node1": 35352,
+            "node2": 15198999,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 594845137,
+            "node1": 35352,
+            "node2": 15244077,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 594845197,
+            "node1": 35352,
+            "node2": 15244078,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 667253617,
+            "node1": 35352,
+            "node2": 15446328,
+            "type": 41,
+            "w": 15.0
+        },
+        {
+            "id": 594845257,
+            "node1": 35352,
+            "node2": 15566895,
+            "type": 41,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:11.751487",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "discours",
+        "#relations": 18,
+        "max_relation_weight": 42.0,
+        "#nodes": 19,
+        "duration": "0:00:00.007344"
+    }
+}

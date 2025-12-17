@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 144666,
+            "name": "résistance",
+            "type": 1,
+            "w": 8977
+        },
+        {
+            "id": 128782,
+            "name": "fil",
+            "type": 1,
+            "w": 5593
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139358,
+            "node1": 128782,
+            "node2": 144666,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:37.665766",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fil",
+        "#relations": 1,
+        "max_relation_weight": 29.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003348"
+    }
+}

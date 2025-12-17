@@ -1,0 +1,4317 @@
+{
+    "nodes": [
+        {
+            "id": 90789,
+            "name": "Whiteman",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 244430,
+            "name": "enduit>102206",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1665301,
+            "name": "aglossie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1777792,
+            "name": "aponévrose linguale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1777811,
+            "name": "arc palato-glosse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16867137,
+            "name": "glossopharyngée (respiration)",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6321138,
+            "name": "glossite en aire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6275325,
+            "name": "glossopyrosis",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6277840,
+            "name": "glossopathies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6286129,
+            "name": "langue hypertrophique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6287673,
+            "name": "hématome de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6287733,
+            "name": "oedème lingual",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6273820,
+            "name": "hypoglossie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6293244,
+            "name": "adhérences congénitales de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6301000,
+            "name": "névralgie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6301203,
+            "name": "paralysie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6301396,
+            "name": "gonflement de la langue non précisé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6303479,
+            "name": "lésion de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6303871,
+            "name": "affection de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6309341,
+            "name": "gonflement de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6309836,
+            "name": "trouble de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6315328,
+            "name": "perte de sensation de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6315885,
+            "name": "paralysie bilatérale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6316614,
+            "name": "fissure congénitale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6317320,
+            "name": "oedème de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6345686,
+            "name": "hypertrophie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6371135,
+            "name": "ulcération linguale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6372185,
+            "name": "pityriasis lingual",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6372180,
+            "name": "hypo-esthésie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6374570,
+            "name": "plaie ouverte de la langue sans complication",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6375881,
+            "name": "hypoplasie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6383167,
+            "name": "hématome lingual",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6390756,
+            "name": "malocclusion due à des habitudes impliquant la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6390925,
+            "name": "glossite aiguë",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6393493,
+            "name": "leucoplasie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6394049,
+            "name": "langue douloureuse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6394660,
+            "name": "fibrose sous-muqueuse de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6400108,
+            "name": "hyperplasie épithéliale focale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6400112,
+            "name": "engourdissement de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6403046,
+            "name": "dysesthésie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6404146,
+            "name": "brûlure de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6404288,
+            "name": "érythroplasie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6406275,
+            "name": "langue gonflée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6407208,
+            "name": "langue pileuse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6407534,
+            "name": "affection non précisée de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6418299,
+            "name": "adhésions congénitales de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6419514,
+            "name": "langue scarlatineuse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6420014,
+            "name": "tatouage par amalgame",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6423309,
+            "name": "varices sublinguales",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6425625,
+            "name": "paresthésie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6426793,
+            "name": "langue framboise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6430268,
+            "name": "langue qui brûle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6437603,
+            "name": "glossite due à l'huile de cannelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6710804,
+            "name": "en:primary sarcoma of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6714470,
+            "name": "en:macroglossia due to amyloidosis",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6717466,
+            "name": "en:bite to own tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6718120,
+            "name": "en:folate deficiency glossitis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6718119,
+            "name": "en:vitamin b12 deficiency glossitis",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6718121,
+            "name": "en:denervation atrophy of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6719024,
+            "name": "en:second degree burn of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6719023,
+            "name": "en:third degree burn of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6719165,
+            "name": "en:contaminated complex laceration of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6719166,
+            "name": "en:complex laceration of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6719167,
+            "name": "en:contaminated simple laceration of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6719168,
+            "name": "en:simple laceration of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6741030,
+            "name": "en:tongue thrusting when swallowing, abnormal persistence beyond early childhood",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6742443,
+            "name": "en:size of tongue - finding",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6745419,
+            "name": "en:o/e - furred tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6754442,
+            "name": "en:cellulitis of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6762724,
+            "name": "en:tongue symptoms",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6763140,
+            "name": "en:bruise of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6763545,
+            "name": "en:tongue normal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6763546,
+            "name": "en:moist tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6763547,
+            "name": "en:finding of moistness of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6763549,
+            "name": "en:tongue asymmetrical",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6763550,
+            "name": "en:tongue symmetrical",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6763551,
+            "name": "en:finding of appearance of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6766430,
+            "name": "en:overlapping malignant neoplasm of tongue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 4470295,
+            "name": "atrophie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 62924,
+            "name": "Wiedemann",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6425507,
+            "name": "carcinome intra-épithélial des deux tiers antérieurs de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 357693,
+            "name": "hernie ombilicale",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 7756,
+            "name": "hémangiome",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 6302558,
+            "name": "hypesthésie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6361919,
+            "name": "tumeur bénigne linguale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7422071,
+            "name": "en:crenated tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16867125,
+            "name": "glomique (tumeur)",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6718117,
+            "name": "en:traumatic ulcerative granuloma of tongue with stromal eosinophilia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14918482,
+            "name": "en:aglossia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14940359,
+            "name": "en:glossodynia",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15367144,
+            "name": "en:wandering rash",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15367137,
+            "name": "en:mappy tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15367145,
+            "name": "en:lingua dissecta",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15370348,
+            "name": "en:arcus palatoglossus",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6277837,
+            "name": "glossalgies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15490847,
+            "name": "en:sore tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15515105,
+            "name": "en:glossolysis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15515106,
+            "name": "en:glossoplegia",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 16861866,
+            "name": "en:plica anterior faucium",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15367143,
+            "name": "en:glossitis areata exfoliativa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6366207,
+            "name": "tumeur secondaire linguale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6294940,
+            "name": "sensibilité de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6297279,
+            "name": "névralgie linguale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16841789,
+            "name": "en:geographical tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16867136,
+            "name": "glossite losangique (ou rhomboïdale) médiane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6326063,
+            "name": "desquamation épithéliale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6767689,
+            "name": "en:leukedema of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6762456,
+            "name": "en:polyp of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7438716,
+            "name": "en:furred tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6308436,
+            "name": "tumeur secondaire de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1850970,
+            "name": "langue crénelée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6326309,
+            "name": "affections congénitales de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6372600,
+            "name": "malformation sai congénitale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 49098,
+            "name": "muguet",
+            "type": 1,
+            "w": 267
+        },
+        {
+            "id": 6391807,
+            "name": "langue endolorie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7745720,
+            "name": "en:adenoid cystic carcinoma of the tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13783560,
+            "name": "tumeur maligne à localisations contiguës de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6421811,
+            "name": "macroglossie congénitale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6322794,
+            "name": "hypoesthésie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 159145199,
+            "name": "Langue bifide",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6406699,
+            "name": "tumeur bénigne des deux tiers antérieurs de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6766966,
+            "name": "en:malignant neoplasm of midline of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6394793,
+            "name": "tumeur maligne des deux tiers antérieurs de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6406297,
+            "name": "tumeur maligne du tiers moyen de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6427718,
+            "name": "tumeur maligne du frein de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6394162,
+            "name": "tumeur maligne de la pointe et du bord latéral de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2568942,
+            "name": "glossocèle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 293937283,
+            "name": "blotter",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6719025,
+            "name": "en:burn erythema of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16841788,
+            "name": "en:lingual erythema migrans",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7299205,
+            "name": "en:burning tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15369645,
+            "name": "en:forked tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6330638,
+            "name": "hernies ombilicales",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15499023,
+            "name": "en:megaloglossia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15686916,
+            "name": "en:umbilical hiatus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33764506,
+            "name": "en:also canker sore",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6330241,
+            "name": "macroglossie d'origine congénitale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6415675,
+            "name": "langue brûlante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6414103,
+            "name": "congénitale fissure de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6428233,
+            "name": "ulcère de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 24039,
+            "name": "glossodynie",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 121734,
+            "name": "glossoplégie",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 3766494,
+            "name": "glossite migratoire bénigne",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 16831007,
+            "name": "en:tongue cancer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6389922,
+            "name": "langue framboisée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6292882,
+            "name": "secousse musculaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6373736,
+            "name": "contraction clonique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6339298,
+            "name": "fasciculation musculaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6277691,
+            "name": "fasciculations",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6403660,
+            "name": "fasciculation linguale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6331587,
+            "name": "tumeur métastatique des deux tiers antérieurs de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6336645,
+            "name": "tumeur maligne du tiers postérieur de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6336960,
+            "name": "tumeur maligne linguale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6336991,
+            "name": "hyperplasie épithéliale en foyer de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 119233,
+            "name": "goût",
+            "type": 1,
+            "w": 4182
+        },
+        {
+            "id": 1834852,
+            "name": "glossite atrophique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6408158,
+            "name": "affections de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6340395,
+            "name": "tumeur maligne de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6342736,
+            "name": "lésion à localisations contiguës de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6342955,
+            "name": "ulcération traumatique de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 79003,
+            "name": "glossite",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6345166,
+            "name": "maladies de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6345455,
+            "name": "kyste de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6345878,
+            "name": "langue épaisse",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 6337220,
+            "name": "lésion corrosive de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6346711,
+            "name": "tumeur maligne de la face dorsale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 258881085,
+            "name": "Papilles gustatives",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 49085,
+            "name": "glossalgie",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 92958122,
+            "name": "Pronom personnel",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 6804743,
+            "name": "en:canker sore",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6705977,
+            "name": "en:luetic glossitis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6713527,
+            "name": "en:interstitial glossitis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6352745,
+            "name": "maladies linguales",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6352849,
+            "name": "carcinome épidermoïde de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6353256,
+            "name": "tumeur maligne du dos de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6353976,
+            "name": "maladie de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15537248,
+            "name": "en:angioneoplasm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6355846,
+            "name": "tumeurs linguales",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6378741,
+            "name": "tumeur bénigne de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 69896,
+            "name": "fasciculation",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6358224,
+            "name": "tumeurs de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6358741,
+            "name": "fasciculation de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6706692,
+            "name": "en:papilloma of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6363433,
+            "name": "autres malformations congénitales de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6363979,
+            "name": "tumeur métastatique de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6363992,
+            "name": "adhérence congénitale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6365088,
+            "name": "tumeur métastatique linguale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6365405,
+            "name": "langue de bois des bovidés",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32132,
+            "name": "mot",
+            "type": 1,
+            "w": 26370
+        },
+        {
+            "id": 6706874,
+            "name": "en:melanocytic nevus of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 106554,
+            "name": "salive",
+            "type": 1,
+            "w": 507
+        },
+        {
+            "id": 26152,
+            "name": "frein",
+            "type": 1,
+            "w": 983
+        },
+        {
+            "id": 14956810,
+            "name": "en:personal pronoun",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6841867,
+            "name": "en:macroglossia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 227623,
+            "name": "frein>135799",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 9184167,
+            "name": "en:muscle twitch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 158661,
+            "name": "pronom personnel",
+            "type": 1,
+            "w": 309
+        },
+        {
+            "id": 85024,
+            "name": "cheveu",
+            "type": 1,
+            "w": 4271
+        },
+        {
+            "id": 64721,
+            "name": "angiome",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 6766794,
+            "name": "en:carcinoma of midline of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15300910,
+            "name": "tirant d'un coup sec",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 52119,
+            "name": "langue",
+            "type": 1,
+            "w": 12820
+        },
+        {
+            "id": 368356,
+            "name": "papille gustative",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 13763373,
+            "name": "exomphale congénitale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6761328,
+            "name": "en:congenital protrusion of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 74376,
+            "name": "omphalocèle",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 14941898,
+            "name": "en:Umbilical hernia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15526768,
+            "name": "en:hematomphalus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6767893,
+            "name": "en:bifid tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6767892,
+            "name": "en:trifid tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6767891,
+            "name": "en:lethal glossopharyngeal defect",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6710914,
+            "name": "en:fibroma of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 220045,
+            "name": "muguet>28086",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 6372931,
+            "name": "cancer malin de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6412064,
+            "name": "cancer lingual",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 110795,
+            "name": "lichen",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 47913,
+            "name": "glossoptose",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14920421,
+            "name": "en:aphtha",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 331440,
+            "name": "syndrome de Beckwith-Wiedemann",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6377468,
+            "name": "abcès de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6751414,
+            "name": "en:melanoplakia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9144133,
+            "name": "en:malignant neoplasm of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6414143,
+            "name": "tumeur secondaire du dos de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6715591,
+            "name": "en:vascular tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6762186,
+            "name": "en:hanhart's syndrome",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6278664,
+            "name": "macroglossies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6428822,
+            "name": "macroglossie acquise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15392584,
+            "name": "en:aphta",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6394573,
+            "name": "ulcération de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2421832,
+            "name": "aphthe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6417930,
+            "name": "carcinome in situ des deux tiers antérieurs de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6298124,
+            "name": "carcinome mucoépidermoïde de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6391240,
+            "name": "carcinome de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6411632,
+            "name": "carcinome in situ du dos de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33920,
+            "name": "papilles gustatives",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 15519841,
+            "name": "en:mouth ulcer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15500292,
+            "name": "en:geographic tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15500297,
+            "name": "en:median rhomboid glossitis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6328565,
+            "name": "glossite rhomboïde médiane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6407328,
+            "name": "inflammation de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16867594,
+            "name": "en:Hanhart's syndrome",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6444750,
+            "name": "syndrome d'hypertrophie staturale avec macroglossie et hernie ombilicale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2322797,
+            "name": "omphalocèle-macroglossie-gigantisme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6422700,
+            "name": "syndrome omphalocèle-macroglossie-gigantisme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6976154,
+            "name": "en:saliva",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15382465,
+            "name": "en:vascular tumor",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6715594,
+            "name": "en:chronic glossitis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6717162,
+            "name": "en:local recurrence of malignant tumor of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6841783,
+            "name": "en:glossoptosis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 60439,
+            "name": "aphte",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 6820058,
+            "name": "en:fasciculation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7745718,
+            "name": "en:malignant neoplasm of dorsal surface of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7760253,
+            "name": "en:secondary malignant neoplasm of anterior two-thirds of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6822858,
+            "name": "en:twitching",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9001282,
+            "name": "en:muscular fasciculation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15068740,
+            "name": "en:exomphalos",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5787,
+            "name": "grenouillette",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6862151,
+            "name": "en:omphalocele",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6938158,
+            "name": "en:umbilical hernia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6801890,
+            "name": "en:benign migratory glossitis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6715595,
+            "name": "en:acquired anomaly of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6841294,
+            "name": "en:microglossia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6411484,
+            "name": "glossite losangique médiane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6821570,
+            "name": "en:hemangioma",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6821589,
+            "name": "en:blood vessel neoplasm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6410878,
+            "name": "fasciculation d'un muscle squelettique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 255023,
+            "name": "langue chargée",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 341264,
+            "name": "cancer de la langue",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 2079407,
+            "name": "saliva",
+            "type": 2,
+            "w": 0
+        },
+        {
+            "id": 360914,
+            "name": "langue fourrée",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 360957,
+            "name": "langue sèche",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1834856,
+            "name": "glossoptose, micrognathie et fente palatine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1837559,
+            "name": "langue géographique",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 1838914,
+            "name": "microglossie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1845833,
+            "name": "syndrome de Tapia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1850445,
+            "name": "glossite exfoliatrice marginée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2204985,
+            "name": "glossites",
+            "type": 2,
+            "w": 0
+        },
+        {
+            "id": 6912949,
+            "name": "en:hair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 313989,
+            "name": "tumeur vasculaire",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6286364,
+            "name": "non précisée, tumeur maligne de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6287923,
+            "name": "tumeur maligne de la langue stade non précisé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6301541,
+            "name": "tumeur maligne de la pointe et du bord externe de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6303234,
+            "name": "état tigré de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6309272,
+            "name": "cancer métastatique de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6309953,
+            "name": "carcinome in situ de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6317707,
+            "name": "plaie ouverte de la langue avec complication",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6319025,
+            "name": "tumeur secondaire des deux tiers antérieurs de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6345298,
+            "name": "tumeur métastatique du dos de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6366955,
+            "name": "carcinome intra-épithélial lingual",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6378193,
+            "name": "carcinome adénoïde cystique de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6381535,
+            "name": "tumeur de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6392388,
+            "name": "tumeur maligne de la surface dorsale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6408665,
+            "name": "tumeur maligne sous forme de lésion à localisations contiguës de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6417409,
+            "name": "anomalie congénitale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6420471,
+            "name": "tumeur maligne d'autres sites de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6421785,
+            "name": "tumeur bénigne du dos de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1665896,
+            "name": "exomphale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6279128,
+            "name": "omphalocèles",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6310033,
+            "name": "hernie ombilicale congénitale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16844787,
+            "name": "en:ombilical hernia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16845861,
+            "name": "hypertrophie staturale avec macroglossie et omphalocèle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16845862,
+            "name": "en:adrenal cytomegaly",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16845863,
+            "name": "en:gigantism and hyperplastic visceromegaly",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15526769,
+            "name": "en:exumbilication",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6706445,
+            "name": "en:hemangioma of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 74586,
+            "name": "macroglossie",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 6710758,
+            "name": "en:tongue thrusting",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6714028,
+            "name": "en:primary malignant neoplasm of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6718118,
+            "name": "en:iron deficiency glossitis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6718700,
+            "name": "en:dermatosis of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6763548,
+            "name": "en:lesion of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6764718,
+            "name": "en:mass of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6766661,
+            "name": "en:open wound of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6801898,
+            "name": "en:glossitis",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7701957,
+            "name": "en:carcinoma in situ of tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7740684,
+            "name": "en:open wound of tongue with complication",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 405965,
+            "name": "hair",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 264405368,
+            "name": "Syndrome de Beckwith-Wiedemann",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 9247914,
+            "name": "malformation congénitale de la langue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9989398,
+            "name": "tumeur maligne de la langue non précisée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 401833,
+            "name": "Beckwith",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 13742437,
+            "name": "syndrome de tapia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15528565,
+            "name": "en:unclean tongue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16877695,
+            "name": "Tapia (syndrome de)",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16878172,
+            "name": "en:Tapia's syndrome",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 202657,
+            "name": "langue bifide",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 153491,
+            "name": "piercing",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 119895234,
+            "name": "Saliva",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16862386,
+            "name": "en:Beckwith Wiedemann's syndrome",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 51126,
+            "name": "cheveux",
+            "type": 1,
+            "w": 3931
+        }
+    ],
+    "relations": [
+        {
+            "id": 13097649,
+            "node1": 52119,
+            "node2": 5787,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 96708705,
+            "node1": 52119,
+            "node2": 7756,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845480,
+            "node1": 52119,
+            "node2": 24039,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 11330703,
+            "node1": 52119,
+            "node2": 26152,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11344652,
+            "node1": 52119,
+            "node2": 32132,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1046689139,
+            "node1": 52119,
+            "node2": 33920,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 12375702,
+            "node1": 52119,
+            "node2": 47913,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845475,
+            "node1": 52119,
+            "node2": 49085,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 25303509,
+            "node1": 52119,
+            "node2": 49098,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11344504,
+            "node1": 52119,
+            "node2": 51126,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 96708724,
+            "node1": 52119,
+            "node2": 60439,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845426,
+            "node1": 52119,
+            "node2": 62924,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 765161281,
+            "node1": 52119,
+            "node2": 64721,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 378845793,
+            "node1": 52119,
+            "node2": 69896,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 486663157,
+            "node1": 52119,
+            "node2": 74376,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 378845464,
+            "node1": 52119,
+            "node2": 74586,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845514,
+            "node1": 52119,
+            "node2": 79003,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 96708731,
+            "node1": 52119,
+            "node2": 85024,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845951,
+            "node1": 52119,
+            "node2": 90789,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 30675144,
+            "node1": 52119,
+            "node2": 106554,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 96708738,
+            "node1": 52119,
+            "node2": 110795,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11346493,
+            "node1": 52119,
+            "node2": 119233,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 378845751,
+            "node1": 52119,
+            "node2": 121734,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11337928,
+            "node1": 52119,
+            "node2": 153491,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11335652,
+            "node1": 52119,
+            "node2": 158661,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 378846011,
+            "node1": 52119,
+            "node2": 202657,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 96708776,
+            "node1": 52119,
+            "node2": 220045,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11332903,
+            "node1": 52119,
+            "node2": 227623,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 96708787,
+            "node1": 52119,
+            "node2": 244430,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845452,
+            "node1": 52119,
+            "node2": 255023,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 601605836,
+            "node1": 52119,
+            "node2": 313989,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 378845433,
+            "node1": 52119,
+            "node2": 331440,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 253529755,
+            "node1": 52119,
+            "node2": 341264,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 486663159,
+            "node1": 52119,
+            "node2": 357693,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 378845454,
+            "node1": 52119,
+            "node2": 360914,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845946,
+            "node1": 52119,
+            "node2": 360957,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 1137627748,
+            "node1": 52119,
+            "node2": 368356,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 378845424,
+            "node1": 52119,
+            "node2": 401833,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375975890,
+            "node1": 52119,
+            "node2": 405965,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845733,
+            "node1": 52119,
+            "node2": 1665301,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 486663208,
+            "node1": 52119,
+            "node2": 1665896,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 96708804,
+            "node1": 52119,
+            "node2": 1777792,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 30553401,
+            "node1": 52119,
+            "node2": 1777811,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 378845858,
+            "node1": 52119,
+            "node2": 1834852,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 765149575,
+            "node1": 52119,
+            "node2": 1834856,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 378845533,
+            "node1": 52119,
+            "node2": 1837559,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378845577,
+            "node1": 52119,
+            "node2": 1838914,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 104935837,
+            "node1": 52119,
+            "node2": 1845833,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845536,
+            "node1": 52119,
+            "node2": 1850445,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845877,
+            "node1": 52119,
+            "node2": 1850970,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 619175299,
+            "node1": 52119,
+            "node2": 2079407,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 378845516,
+            "node1": 52119,
+            "node2": 2204985,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845431,
+            "node1": 52119,
+            "node2": 2322797,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 96708805,
+            "node1": 52119,
+            "node2": 2421832,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845883,
+            "node1": 52119,
+            "node2": 2568942,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 378845538,
+            "node1": 52119,
+            "node2": 3766494,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845819,
+            "node1": 52119,
+            "node2": 4470295,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378846026,
+            "node1": 52119,
+            "node2": 6273820,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845824,
+            "node1": 52119,
+            "node2": 6275325,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845798,
+            "node1": 52119,
+            "node2": 6277691,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845484,
+            "node1": 52119,
+            "node2": 6277837,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378845583,
+            "node1": 52119,
+            "node2": 6277840,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845567,
+            "node1": 52119,
+            "node2": 6278664,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 486663161,
+            "node1": 52119,
+            "node2": 6279128,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 378845564,
+            "node1": 52119,
+            "node2": 6286129,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845686,
+            "node1": 52119,
+            "node2": 6286364,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 378845960,
+            "node1": 52119,
+            "node2": 6287673,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845669,
+            "node1": 52119,
+            "node2": 6287733,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845690,
+            "node1": 52119,
+            "node2": 6287923,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375968880,
+            "node1": 52119,
+            "node2": 6292882,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845739,
+            "node1": 52119,
+            "node2": 6293244,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845489,
+            "node1": 52119,
+            "node2": 6294940,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 378845482,
+            "node1": 52119,
+            "node2": 6297279,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 253527432,
+            "node1": 52119,
+            "node2": 6298124,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845487,
+            "node1": 52119,
+            "node2": 6301000,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845748,
+            "node1": 52119,
+            "node2": 6301203,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378845775,
+            "node1": 52119,
+            "node2": 6301396,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 308220907,
+            "node1": 52119,
+            "node2": 6301541,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 378845969,
+            "node1": 52119,
+            "node2": 6302558,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 378845541,
+            "node1": 52119,
+            "node2": 6303234,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 253529551,
+            "node1": 52119,
+            "node2": 6303479,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845610,
+            "node1": 52119,
+            "node2": 6303871,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 253514606,
+            "node1": 52119,
+            "node2": 6308436,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 253529724,
+            "node1": 52119,
+            "node2": 6309272,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845780,
+            "node1": 52119,
+            "node2": 6309341,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 378845599,
+            "node1": 52119,
+            "node2": 6309836,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 253529646,
+            "node1": 52119,
+            "node2": 6309953,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 486663250,
+            "node1": 52119,
+            "node2": 6310033,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 378845972,
+            "node1": 52119,
+            "node2": 6315328,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845891,
+            "node1": 52119,
+            "node2": 6315885,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 378846023,
+            "node1": 52119,
+            "node2": 6316614,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845672,
+            "node1": 52119,
+            "node2": 6317320,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 308220528,
+            "node1": 52119,
+            "node2": 6317707,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 253527896,
+            "node1": 52119,
+            "node2": 6319025,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845543,
+            "node1": 52119,
+            "node2": 6321138,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845967,
+            "node1": 52119,
+            "node2": 6322794,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845529,
+            "node1": 52119,
+            "node2": 6326063,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 378845722,
+            "node1": 52119,
+            "node2": 6326309,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378845714,
+            "node1": 52119,
+            "node2": 6328565,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 378845466,
+            "node1": 52119,
+            "node2": 6330241,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 486663154,
+            "node1": 52119,
+            "node2": 6330638,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 253527913,
+            "node1": 52119,
+            "node2": 6331587,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 253527802,
+            "node1": 52119,
+            "node2": 6336645,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253494833,
+            "node1": 52119,
+            "node2": 6336960,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 378845608,
+            "node1": 52119,
+            "node2": 6336991,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 253527416,
+            "node1": 52119,
+            "node2": 6337220,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 578607110,
+            "node1": 52119,
+            "node2": 6339298,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 253529298,
+            "node1": 52119,
+            "node2": 6340395,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 253527570,
+            "node1": 52119,
+            "node2": 6342736,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845855,
+            "node1": 52119,
+            "node2": 6342955,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378845588,
+            "node1": 52119,
+            "node2": 6345166,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 253516078,
+            "node1": 52119,
+            "node2": 6345298,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845923,
+            "node1": 52119,
+            "node2": 6345455,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 378845562,
+            "node1": 52119,
+            "node2": 6345686,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 378845675,
+            "node1": 52119,
+            "node2": 6345878,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 568564096,
+            "node1": 52119,
+            "node2": 6346711,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845591,
+            "node1": 52119,
+            "node2": 6352745,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 253527423,
+            "node1": 52119,
+            "node2": 6352849,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253527816,
+            "node1": 52119,
+            "node2": 6353256,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 253529550,
+            "node1": 52119,
+            "node2": 6353976,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845649,
+            "node1": 52119,
+            "node2": 6355846,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845646,
+            "node1": 52119,
+            "node2": 6358224,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 378845796,
+            "node1": 52119,
+            "node2": 6358741,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845698,
+            "node1": 52119,
+            "node2": 6361919,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378846017,
+            "node1": 52119,
+            "node2": 6363433,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 253514604,
+            "node1": 52119,
+            "node2": 6363979,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 378846014,
+            "node1": 52119,
+            "node2": 6363992,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845993,
+            "node1": 52119,
+            "node2": 6365088,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845912,
+            "node1": 52119,
+            "node2": 6365405,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 253515511,
+            "node1": 52119,
+            "node2": 6366207,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845928,
+            "node1": 52119,
+            "node2": 6366955,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 378845761,
+            "node1": 52119,
+            "node2": 6371135,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 378846054,
+            "node1": 52119,
+            "node2": 6372180,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845531,
+            "node1": 52119,
+            "node2": 6372185,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 253529440,
+            "node1": 52119,
+            "node2": 6372600,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253529722,
+            "node1": 52119,
+            "node2": 6372931,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 375968812,
+            "node1": 52119,
+            "node2": 6373736,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378845902,
+            "node1": 52119,
+            "node2": 6374570,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378846007,
+            "node1": 52119,
+            "node2": 6375881,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845850,
+            "node1": 52119,
+            "node2": 6377468,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 253495122,
+            "node1": 52119,
+            "node2": 6378193,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 253529439,
+            "node1": 52119,
+            "node2": 6378741,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253529296,
+            "node1": 52119,
+            "node2": 6381535,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845957,
+            "node1": 52119,
+            "node2": 6383167,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845810,
+            "node1": 52119,
+            "node2": 6389922,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 378845941,
+            "node1": 52119,
+            "node2": 6390756,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378846001,
+            "node1": 52119,
+            "node2": 6390925,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 253529723,
+            "node1": 52119,
+            "node2": 6391240,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845477,
+            "node1": 52119,
+            "node2": 6391807,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 568563660,
+            "node1": 52119,
+            "node2": 6392388,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845602,
+            "node1": 52119,
+            "node2": 6393493,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845491,
+            "node1": 52119,
+            "node2": 6394049,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 308220904,
+            "node1": 52119,
+            "node2": 6394162,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 378845759,
+            "node1": 52119,
+            "node2": 6394573,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845594,
+            "node1": 52119,
+            "node2": 6394660,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 253527831,
+            "node1": 52119,
+            "node2": 6394793,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845896,
+            "node1": 52119,
+            "node2": 6400108,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845974,
+            "node1": 52119,
+            "node2": 6400112,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378845840,
+            "node1": 52119,
+            "node2": 6403046,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 378845791,
+            "node1": 52119,
+            "node2": 6403660,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845907,
+            "node1": 52119,
+            "node2": 6404146,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 378845605,
+            "node1": 52119,
+            "node2": 6404288,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845777,
+            "node1": 52119,
+            "node2": 6406275,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 253527803,
+            "node1": 52119,
+            "node2": 6406297,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253527738,
+            "node1": 52119,
+            "node2": 6406699,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845664,
+            "node1": 52119,
+            "node2": 6407208,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845519,
+            "node1": 52119,
+            "node2": 6407328,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845597,
+            "node1": 52119,
+            "node2": 6407534,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 378845586,
+            "node1": 52119,
+            "node2": 6408158,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 253527790,
+            "node1": 52119,
+            "node2": 6408665,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 375968795,
+            "node1": 52119,
+            "node2": 6410878,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845711,
+            "node1": 52119,
+            "node2": 6411484,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 253527458,
+            "node1": 52119,
+            "node2": 6411632,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 308218545,
+            "node1": 52119,
+            "node2": 6412064,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 378846020,
+            "node1": 52119,
+            "node2": 6414103,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 253516077,
+            "node1": 52119,
+            "node2": 6414143,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845826,
+            "node1": 52119,
+            "node2": 6415675,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845725,
+            "node1": 52119,
+            "node2": 6417409,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 253527462,
+            "node1": 52119,
+            "node2": 6417930,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845741,
+            "node1": 52119,
+            "node2": 6418299,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 378845812,
+            "node1": 52119,
+            "node2": 6419514,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 378845935,
+            "node1": 52119,
+            "node2": 6420014,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 253527865,
+            "node1": 52119,
+            "node2": 6420471,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253527722,
+            "node1": 52119,
+            "node2": 6421785,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845461,
+            "node1": 52119,
+            "node2": 6421811,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 378845428,
+            "node1": 52119,
+            "node2": 6422700,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845706,
+            "node1": 52119,
+            "node2": 6423309,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 253527439,
+            "node1": 52119,
+            "node2": 6425507,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845838,
+            "node1": 52119,
+            "node2": 6425625,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 378845872,
+            "node1": 52119,
+            "node2": 6426793,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 253527814,
+            "node1": 52119,
+            "node2": 6427718,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 378845764,
+            "node1": 52119,
+            "node2": 6428233,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845917,
+            "node1": 52119,
+            "node2": 6428822,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 378845828,
+            "node1": 52119,
+            "node2": 6430268,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 378845866,
+            "node1": 52119,
+            "node2": 6437603,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 378845435,
+            "node1": 52119,
+            "node2": 6444750,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375985230,
+            "node1": 52119,
+            "node2": 6705977,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375985232,
+            "node1": 52119,
+            "node2": 6706445,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375985234,
+            "node1": 52119,
+            "node2": 6706692,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 375985236,
+            "node1": 52119,
+            "node2": 6706874,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 375985238,
+            "node1": 52119,
+            "node2": 6710758,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 375985240,
+            "node1": 52119,
+            "node2": 6710804,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 375985242,
+            "node1": 52119,
+            "node2": 6710914,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375985246,
+            "node1": 52119,
+            "node2": 6713527,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 375985248,
+            "node1": 52119,
+            "node2": 6714028,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375985250,
+            "node1": 52119,
+            "node2": 6714470,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375985252,
+            "node1": 52119,
+            "node2": 6715591,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375985254,
+            "node1": 52119,
+            "node2": 6715594,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375985256,
+            "node1": 52119,
+            "node2": 6715595,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375985260,
+            "node1": 52119,
+            "node2": 6717162,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375985262,
+            "node1": 52119,
+            "node2": 6717466,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375985264,
+            "node1": 52119,
+            "node2": 6718117,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 375985266,
+            "node1": 52119,
+            "node2": 6718118,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375985268,
+            "node1": 52119,
+            "node2": 6718119,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375985270,
+            "node1": 52119,
+            "node2": 6718120,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 375985272,
+            "node1": 52119,
+            "node2": 6718121,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375985274,
+            "node1": 52119,
+            "node2": 6718700,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 375985276,
+            "node1": 52119,
+            "node2": 6719023,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 375985278,
+            "node1": 52119,
+            "node2": 6719024,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375985280,
+            "node1": 52119,
+            "node2": 6719025,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375985282,
+            "node1": 52119,
+            "node2": 6719165,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375985284,
+            "node1": 52119,
+            "node2": 6719166,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375985286,
+            "node1": 52119,
+            "node2": 6719167,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 375985288,
+            "node1": 52119,
+            "node2": 6719168,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375985244,
+            "node1": 52119,
+            "node2": 6741030,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 375985258,
+            "node1": 52119,
+            "node2": 6742443,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375985324,
+            "node1": 52119,
+            "node2": 6745419,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 375985328,
+            "node1": 52119,
+            "node2": 6751414,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 375985290,
+            "node1": 52119,
+            "node2": 6754442,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 375985292,
+            "node1": 52119,
+            "node2": 6761328,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375985294,
+            "node1": 52119,
+            "node2": 6762186,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375985296,
+            "node1": 52119,
+            "node2": 6762456,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375985298,
+            "node1": 52119,
+            "node2": 6762724,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 375985300,
+            "node1": 52119,
+            "node2": 6763140,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375985302,
+            "node1": 52119,
+            "node2": 6763545,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375985304,
+            "node1": 52119,
+            "node2": 6763546,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375985306,
+            "node1": 52119,
+            "node2": 6763547,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375985308,
+            "node1": 52119,
+            "node2": 6763548,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375985310,
+            "node1": 52119,
+            "node2": 6763549,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375985312,
+            "node1": 52119,
+            "node2": 6763550,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 375985314,
+            "node1": 52119,
+            "node2": 6763551,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 375985336,
+            "node1": 52119,
+            "node2": 6764718,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 375985316,
+            "node1": 52119,
+            "node2": 6766430,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 375985318,
+            "node1": 52119,
+            "node2": 6766661,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375985320,
+            "node1": 52119,
+            "node2": 6766794,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375985322,
+            "node1": 52119,
+            "node2": 6766966,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375985326,
+            "node1": 52119,
+            "node2": 6767689,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375985330,
+            "node1": 52119,
+            "node2": 6767891,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375985332,
+            "node1": 52119,
+            "node2": 6767892,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375985334,
+            "node1": 52119,
+            "node2": 6767893,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 630978383,
+            "node1": 52119,
+            "node2": 6801890,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470983821,
+            "node1": 52119,
+            "node2": 6801898,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 473912181,
+            "node1": 52119,
+            "node2": 6804743,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375975767,
+            "node1": 52119,
+            "node2": 6820058,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 473912184,
+            "node1": 52119,
+            "node2": 6821570,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 601605831,
+            "node1": 52119,
+            "node2": 6821589,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 375968846,
+            "node1": 52119,
+            "node2": 6822858,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 633201518,
+            "node1": 52119,
+            "node2": 6841294,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 630978389,
+            "node1": 52119,
+            "node2": 6841783,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470974207,
+            "node1": 52119,
+            "node2": 6841867,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 475656671,
+            "node1": 52119,
+            "node2": 6862151,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 308216773,
+            "node1": 52119,
+            "node2": 6912949,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 486663206,
+            "node1": 52119,
+            "node2": 6938158,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 308211505,
+            "node1": 52119,
+            "node2": 6976154,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 1054576870,
+            "node1": 52119,
+            "node2": 7299205,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 380295617,
+            "node1": 52119,
+            "node2": 7422071,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1054579927,
+            "node1": 52119,
+            "node2": 7438716,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 375737018,
+            "node1": 52119,
+            "node2": 7701957,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 253526654,
+            "node1": 52119,
+            "node2": 7740684,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 391925049,
+            "node1": 52119,
+            "node2": 7745718,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 253495113,
+            "node1": 52119,
+            "node2": 7745720,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375969179,
+            "node1": 52119,
+            "node2": 7760253,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375968863,
+            "node1": 52119,
+            "node2": 9001282,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 253494832,
+            "node1": 52119,
+            "node2": 9144133,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 375968829,
+            "node1": 52119,
+            "node2": 9184167,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 253523863,
+            "node1": 52119,
+            "node2": 9247914,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 585211781,
+            "node1": 52119,
+            "node2": 9989398,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 380297112,
+            "node1": 52119,
+            "node2": 13742437,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 486663247,
+            "node1": 52119,
+            "node2": 13763373,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 517057794,
+            "node1": 52119,
+            "node2": 13783560,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1054580843,
+            "node1": 52119,
+            "node2": 14918482,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 473912180,
+            "node1": 52119,
+            "node2": 14920421,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 765164417,
+            "node1": 52119,
+            "node2": 14940359,
+            "type": 28,
+            "w": 23.0
+        },
+        {
+            "id": 619174289,
+            "node1": 52119,
+            "node2": 14941898,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 470963924,
+            "node1": 52119,
+            "node2": 14956810,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 765143895,
+            "node1": 52119,
+            "node2": 15068740,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 1054575175,
+            "node1": 52119,
+            "node2": 15300910,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 765164260,
+            "node1": 52119,
+            "node2": 15367137,
+            "type": 28,
+            "w": 23.0
+        },
+        {
+            "id": 738352752,
+            "node1": 52119,
+            "node2": 15367143,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1054570421,
+            "node1": 52119,
+            "node2": 15367144,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 738352753,
+            "node1": 52119,
+            "node2": 15367145,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 880072565,
+            "node1": 52119,
+            "node2": 15369645,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 765160618,
+            "node1": 52119,
+            "node2": 15370348,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 776472450,
+            "node1": 52119,
+            "node2": 15382465,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 473912182,
+            "node1": 52119,
+            "node2": 15392584,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 620581692,
+            "node1": 52119,
+            "node2": 15490847,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 470974205,
+            "node1": 52119,
+            "node2": 15499023,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 635065260,
+            "node1": 52119,
+            "node2": 15500292,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1054579464,
+            "node1": 52119,
+            "node2": 15500297,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 738348144,
+            "node1": 52119,
+            "node2": 15515105,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 765164212,
+            "node1": 52119,
+            "node2": 15515106,
+            "type": 28,
+            "w": 23.0
+        },
+        {
+            "id": 473912183,
+            "node1": 52119,
+            "node2": 15519841,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 738347798,
+            "node1": 52119,
+            "node2": 15526768,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 738347813,
+            "node1": 52119,
+            "node2": 15526769,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1054579925,
+            "node1": 52119,
+            "node2": 15528565,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 1054564217,
+            "node1": 52119,
+            "node2": 15537248,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 880075737,
+            "node1": 52119,
+            "node2": 15686916,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 765154124,
+            "node1": 52119,
+            "node2": 16831007,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 630978385,
+            "node1": 52119,
+            "node2": 16841788,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 630978387,
+            "node1": 52119,
+            "node2": 16841789,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 765149125,
+            "node1": 52119,
+            "node2": 16844787,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 470974151,
+            "node1": 52119,
+            "node2": 16845861,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 475656675,
+            "node1": 52119,
+            "node2": 16845862,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 475656687,
+            "node1": 52119,
+            "node2": 16845863,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 765160611,
+            "node1": 52119,
+            "node2": 16861866,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 765154782,
+            "node1": 52119,
+            "node2": 16862386,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 766148306,
+            "node1": 52119,
+            "node2": 16867125,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 765149576,
+            "node1": 52119,
+            "node2": 16867136,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 766148309,
+            "node1": 52119,
+            "node2": 16867137,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 738373897,
+            "node1": 52119,
+            "node2": 16867594,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 470988406,
+            "node1": 52119,
+            "node2": 16877695,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470988403,
+            "node1": 52119,
+            "node2": 16878172,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 824742064,
+            "node1": 52119,
+            "node2": 33764506,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 977742552,
+            "node1": 52119,
+            "node2": 92958122,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 937857984,
+            "node1": 52119,
+            "node2": 119895234,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 1127465316,
+            "node1": 52119,
+            "node2": 159145199,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1037318219,
+            "node1": 52119,
+            "node2": 258881085,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1047801823,
+            "node1": 52119,
+            "node2": 264405368,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 766155308,
+            "node1": 52119,
+            "node2": 293937283,
+            "type": 28,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:59.986272",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "langue",
+        "#relations": 329,
+        "max_relation_weight": 43.0,
+        "#nodes": 330,
+        "duration": "0:00:00.052605"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 249619,
+            "name": "matière minérale",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 81943,
+            "name": "silice",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 35198,
+            "name": "calcaire",
+            "type": 1,
+            "w": 1713
+        },
+        {
+            "id": 25008,
+            "name": "pierre",
+            "type": 1,
+            "w": 9678
+        },
+        {
+            "id": 15837,
+            "name": "olivine",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 2371363,
+            "name": "apophyge",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9966723,
+            "name": "en:olivine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 59574,
+            "name": "quartz",
+            "type": 1,
+            "w": 171
+        }
+    ],
+    "relations": [
+        {
+            "id": 9970708,
+            "node1": 25008,
+            "node2": 15837,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1715100,
+            "node1": 25008,
+            "node2": 35198,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 176015,
+            "node1": 25008,
+            "node2": 59574,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 9973609,
+            "node1": 25008,
+            "node2": 81943,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1147932657,
+            "node1": 25008,
+            "node2": 249619,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 709956196,
+            "node1": 25008,
+            "node2": 2371363,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 723003835,
+            "node1": 25008,
+            "node2": 9966723,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:57.864643",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pierre",
+        "#relations": 7,
+        "max_relation_weight": 39.0,
+        "#nodes": 8,
+        "duration": "0:00:00.003947"
+    }
+}

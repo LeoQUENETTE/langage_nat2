@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 4331992,
+            "name": "intégration européenne",
+            "type": 1,
+            "w": 439
+        },
+        {
+            "id": 9575,
+            "name": "tourisme",
+            "type": 1,
+            "w": 6937
+        },
+        {
+            "id": 87987,
+            "name": "France",
+            "type": 1,
+            "w": 25102
+        },
+        {
+            "id": 126000,
+            "name": "décentralisation",
+            "type": 1,
+            "w": 898
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150911214,
+            "node1": 87987,
+            "node2": 9575,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150593356,
+            "node1": 87987,
+            "node2": 126000,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150593323,
+            "node1": 87987,
+            "node2": 4331992,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:07.862709",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "France",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.035105"
+    }
+}

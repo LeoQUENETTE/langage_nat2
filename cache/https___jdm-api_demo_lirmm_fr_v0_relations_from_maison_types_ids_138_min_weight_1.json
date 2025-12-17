@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 62046,
+            "name": "chauffage",
+            "type": 1,
+            "w": 1811
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37804
+        },
+        {
+            "id": 134527,
+            "name": "dégradation",
+            "type": 1,
+            "w": 3068
+        },
+        {
+            "id": 107491,
+            "name": "rénovation",
+            "type": 1,
+            "w": 890
+        },
+        {
+            "id": 1346,
+            "name": "décoration",
+            "type": 1,
+            "w": 2176
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157924629,
+            "node1": 45179,
+            "node2": 1346,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150604210,
+            "node1": 45179,
+            "node2": 62046,
+            "type": 138,
+            "w": 79.0
+        },
+        {
+            "id": 376969779,
+            "node1": 45179,
+            "node2": 107491,
+            "type": 138,
+            "w": 37.0
+        },
+        {
+            "id": 1152058623,
+            "node1": 45179,
+            "node2": 134527,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:03.846302",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maison",
+        "#relations": 4,
+        "max_relation_weight": 79.0,
+        "#nodes": 5,
+        "duration": "0:00:00.005856"
+    }
+}

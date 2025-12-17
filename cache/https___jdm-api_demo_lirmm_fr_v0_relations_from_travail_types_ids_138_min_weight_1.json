@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 11353,
+            "name": "formation",
+            "type": 1,
+            "w": 17993
+        },
+        {
+            "id": 70283,
+            "name": "travail",
+            "type": 1,
+            "w": 25894
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150129822,
+            "node1": 70283,
+            "node2": 11353,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:32.897224",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "travail",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005798"
+    }
+}

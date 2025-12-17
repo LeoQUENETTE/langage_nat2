@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 312554707,
+            "name": "boisson alcoolisée effervescente",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 101561,
+            "name": "chou à la crème",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 158389,
+            "name": "ballons",
+            "type": 1,
+            "w": 280
+        },
+        {
+            "id": 56281,
+            "name": "tante",
+            "type": 1,
+            "w": 699
+        },
+        {
+            "id": 107902,
+            "name": "chanson",
+            "type": 1,
+            "w": 5577
+        },
+        {
+            "id": 26477,
+            "name": "mariage",
+            "type": 1,
+            "w": 7322
+        },
+        {
+            "id": 98300,
+            "name": "famille",
+            "type": 1,
+            "w": 26902
+        },
+        {
+            "id": 262020,
+            "name": "viol conjugal",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 183710652,
+            "name": "Chou à la crème",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15088426,
+            "name": "en:cream puff",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 113765,
+            "name": "pompette",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 76641,
+            "name": "trahison",
+            "type": 1,
+            "w": 1803
+        },
+        {
+            "id": 241010,
+            "name": "tante>1912",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 160616,
+            "name": "piste de danse",
+            "type": 1,
+            "w": 100
+        }
+    ],
+    "relations": [
+        {
+            "id": 478441252,
+            "node1": 26477,
+            "node2": 56281,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 766154691,
+            "node1": 26477,
+            "node2": 76641,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11343495,
+            "node1": 26477,
+            "node2": 98300,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11338387,
+            "node1": 26477,
+            "node2": 101561,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11343103,
+            "node1": 26477,
+            "node2": 107902,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 765900231,
+            "node1": 26477,
+            "node2": 113765,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 948434884,
+            "node1": 26477,
+            "node2": 158389,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 8839430,
+            "node1": 26477,
+            "node2": 160616,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 375712863,
+            "node1": 26477,
+            "node2": 241010,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 926897733,
+            "node1": 26477,
+            "node2": 262020,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 515237980,
+            "node1": 26477,
+            "node2": 15088426,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 977742094,
+            "node1": 26477,
+            "node2": 183710652,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 962360515,
+            "node1": 26477,
+            "node2": 312554707,
+            "type": 28,
+            "w": 5.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:18.178353",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mariage",
+        "#relations": 13,
+        "max_relation_weight": 38.0,
+        "#nodes": 14,
+        "duration": "0:00:00.006602"
+    }
+}

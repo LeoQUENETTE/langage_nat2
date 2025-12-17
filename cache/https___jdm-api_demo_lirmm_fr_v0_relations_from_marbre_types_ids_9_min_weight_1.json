@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 2089497,
+            "name": "veinures",
+            "type": 2,
+            "w": 0
+        },
+        {
+            "id": 11692,
+            "name": "bloc",
+            "type": 1,
+            "w": 3190
+        },
+        {
+            "id": 45844,
+            "name": "veine",
+            "type": 1,
+            "w": 862
+        },
+        {
+            "id": 45989,
+            "name": "surface",
+            "type": 1,
+            "w": 5571
+        },
+        {
+            "id": 144565,
+            "name": "sable",
+            "type": 1,
+            "w": 5303
+        },
+        {
+            "id": 141576,
+            "name": "marbre",
+            "type": 1,
+            "w": 1436
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152670905,
+            "node1": 141576,
+            "node2": 11692,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1152670884,
+            "node1": 141576,
+            "node2": 45844,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1152670903,
+            "node1": 141576,
+            "node2": 45989,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1715118,
+            "node1": 141576,
+            "node2": 144565,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 959342285,
+            "node1": 141576,
+            "node2": 2089497,
+            "type": 9,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:25.734753",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "marbre",
+        "#relations": 5,
+        "max_relation_weight": 31.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004225"
+    }
+}

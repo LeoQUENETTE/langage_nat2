@@ -1,0 +1,872 @@
+{
+    "nodes": [
+        {
+            "id": 40380,
+            "name": "car",
+            "type": 1,
+            "w": 27579
+        },
+        {
+            "id": 271151846,
+            "name": "Infection parasitaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15090369,
+            "name": "en:postal card",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 67589,
+            "name": "billet",
+            "type": 1,
+            "w": 3812
+        },
+        {
+            "id": 210010045,
+            "name": "découverte gastronomique",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 366734,
+            "name": "nuit sans sommeil",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 8,
+            "name": "traversée",
+            "type": 1,
+            "w": 2748
+        },
+        {
+            "id": 82925,
+            "name": "bonne humeur",
+            "type": 1,
+            "w": 215
+        },
+        {
+            "id": 17464027,
+            "name": "se faire héberger",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 15056373,
+            "name": "en:motor inn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15267784,
+            "name": "en:to have a sleepless night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951409,
+            "name": "en:sleepless night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414890,
+            "name": "en:not sleep a wink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15267783,
+            "name": "en:spend a sleepless night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15267785,
+            "name": "en:to stay up all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 69182,
+            "name": "partir",
+            "type": 1,
+            "w": 17755
+        },
+        {
+            "id": 7180152,
+            "name": "en:photograph",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9648,
+            "name": "dépaysement",
+            "type": 1,
+            "w": 152
+        },
+        {
+            "id": 15147031,
+            "name": "en:picture postcard",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15250622,
+            "name": "en:post-card",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 72895,
+            "name": "rencontre",
+            "type": 1,
+            "w": 7264
+        },
+        {
+            "id": 144838,
+            "name": "souvenirs",
+            "type": 1,
+            "w": 2671
+        },
+        {
+            "id": 15414891,
+            "name": "en:not sleep a wink all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951408,
+            "name": "en:all-nighter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 40504,
+            "name": "aller-retour",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 73963,
+            "name": "conduire",
+            "type": 1,
+            "w": 7991
+        },
+        {
+            "id": 59303,
+            "name": "se déplacer",
+            "type": 1,
+            "w": 2471
+        },
+        {
+            "id": 15267789,
+            "name": "passer une nuit blanche à travailler, faire une charrette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2609199,
+            "name": "ne pas fermer l'oeil de la nuit",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 61223,
+            "name": "souvenir",
+            "type": 1,
+            "w": 10686
+        },
+        {
+            "id": 187022,
+            "name": "venir de",
+            "type": 1,
+            "w": 4376
+        },
+        {
+            "id": 59241,
+            "name": "revenir",
+            "type": 1,
+            "w": 13385
+        },
+        {
+            "id": 442425734,
+            "name": "venir de>46994",
+            "type": 1,
+            "w": 1
+        },
+        {
+            "id": 143529,
+            "name": "voyage",
+            "type": 1,
+            "w": 11094
+        },
+        {
+            "id": 59022,
+            "name": "carte postale",
+            "type": 1,
+            "w": 353
+        },
+        {
+            "id": 41490,
+            "name": "inspiration",
+            "type": 1,
+            "w": 6792
+        },
+        {
+            "id": 253539,
+            "name": "infection parasitaire",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 366739,
+            "name": "nuit de veille",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15267790,
+            "name": "en:pull an all-nighter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15687596,
+            "name": "en:not sleep all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 597923,
+            "name": "traversée>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1797314,
+            "name": "traversée>161702",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15056375,
+            "name": "en:tourist court",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15315075,
+            "name": "en:autel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 162670350,
+            "name": "découverte culturelle",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 37160,
+            "name": "nuit blanche",
+            "type": 1,
+            "w": 267
+        },
+        {
+            "id": 197052,
+            "name": "bon vent",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 205217,
+            "name": "passer une nuit blanche",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 15429610,
+            "name": "prendre [qch/qqn] en photo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 259285,
+            "name": "être mort de fatigue",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 3183888,
+            "name": "bon vent>197066",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 261762,
+            "name": "prendre en photo",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 5909485,
+            "name": "Nuit Blanche",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 13221044,
+            "name": "en:postcard",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15051204,
+            "name": "en:motel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15267786,
+            "name": "en:wakeful night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414889,
+            "name": "en:have a sleepless night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414888,
+            "name": "ne pas dormir de toute la nuit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420669,
+            "name": "en:not get a wink of sleep all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420668,
+            "name": "en:not get a wink of sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420667,
+            "name": "ne pas fermer l'œil de la nuit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420864,
+            "name": "en:get no sleep",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420865,
+            "name": "en:stay up all night",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420866,
+            "name": "faire une nuit blanche",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 80521,
+            "name": "motel",
+            "type": 1,
+            "w": 120
+        }
+    ],
+    "relations": [
+        {
+            "id": 84320362,
+            "node1": 143529,
+            "node2": 8,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 892420364,
+            "node1": 143529,
+            "node2": 9648,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 26080286,
+            "node1": 143529,
+            "node2": 37160,
+            "type": 41,
+            "w": 72.0
+        },
+        {
+            "id": 14655109,
+            "node1": 143529,
+            "node2": 40380,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14654845,
+            "node1": 143529,
+            "node2": 40504,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 1011660365,
+            "node1": 143529,
+            "node2": 41490,
+            "type": 41,
+            "w": 13.0
+        },
+        {
+            "id": 14657590,
+            "node1": 143529,
+            "node2": 59022,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14653208,
+            "node1": 143529,
+            "node2": 59241,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14657870,
+            "node1": 143529,
+            "node2": 59303,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 1182068881,
+            "node1": 143529,
+            "node2": 61223,
+            "type": 41,
+            "w": 40.0
+        },
+        {
+            "id": 94110659,
+            "node1": 143529,
+            "node2": 67589,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 14658984,
+            "node1": 143529,
+            "node2": 69182,
+            "type": 41,
+            "w": 65.0
+        },
+        {
+            "id": 277883788,
+            "node1": 143529,
+            "node2": 72895,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14656850,
+            "node1": 143529,
+            "node2": 73963,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14657399,
+            "node1": 143529,
+            "node2": 80521,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 765193862,
+            "node1": 143529,
+            "node2": 82925,
+            "type": 41,
+            "w": 89.0
+        },
+        {
+            "id": 1131548662,
+            "node1": 143529,
+            "node2": 144838,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 1143446814,
+            "node1": 143529,
+            "node2": 187022,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 97977543,
+            "node1": 143529,
+            "node2": 197052,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 538956747,
+            "node1": 143529,
+            "node2": 205217,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14650906,
+            "node1": 143529,
+            "node2": 253539,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 23383091,
+            "node1": 143529,
+            "node2": 259285,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 28711220,
+            "node1": 143529,
+            "node2": 261762,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1079405467,
+            "node1": 143529,
+            "node2": 366734,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 405626553,
+            "node1": 143529,
+            "node2": 366739,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 667266684,
+            "node1": 143529,
+            "node2": 597923,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 667266683,
+            "node1": 143529,
+            "node2": 1797314,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 538958398,
+            "node1": 143529,
+            "node2": 2609199,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 77018579,
+            "node1": 143529,
+            "node2": 3183888,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 369739449,
+            "node1": 143529,
+            "node2": 5909485,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 411513557,
+            "node1": 143529,
+            "node2": 7180152,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 411509516,
+            "node1": 143529,
+            "node2": 13221044,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 411499667,
+            "node1": 143529,
+            "node2": 14951408,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 402803884,
+            "node1": 143529,
+            "node2": 14951409,
+            "type": 41,
+            "w": 71.0
+        },
+        {
+            "id": 667265761,
+            "node1": 143529,
+            "node2": 15051204,
+            "type": 41,
+            "w": 10.0
+        },
+        {
+            "id": 620585493,
+            "node1": 143529,
+            "node2": 15056373,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 620585499,
+            "node1": 143529,
+            "node2": 15056375,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079378749,
+            "node1": 143529,
+            "node2": 15090369,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079378752,
+            "node1": 143529,
+            "node2": 15147031,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079378746,
+            "node1": 143529,
+            "node2": 15250622,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 929741692,
+            "node1": 143529,
+            "node2": 15267783,
+            "type": 41,
+            "w": 20.0
+        },
+        {
+            "id": 929741799,
+            "node1": 143529,
+            "node2": 15267784,
+            "type": 41,
+            "w": 20.0
+        },
+        {
+            "id": 929741905,
+            "node1": 143529,
+            "node2": 15267785,
+            "type": 41,
+            "w": 20.0
+        },
+        {
+            "id": 1079381404,
+            "node1": 143529,
+            "node2": 15267786,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079381580,
+            "node1": 143529,
+            "node2": 15267789,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 538957583,
+            "node1": 143529,
+            "node2": 15267790,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 620585496,
+            "node1": 143529,
+            "node2": 15315075,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 538958003,
+            "node1": 143529,
+            "node2": 15414888,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 538957688,
+            "node1": 143529,
+            "node2": 15414889,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 538959164,
+            "node1": 143529,
+            "node2": 15414890,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 538959059,
+            "node1": 143529,
+            "node2": 15414891,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 594859681,
+            "node1": 143529,
+            "node2": 15420667,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 538957793,
+            "node1": 143529,
+            "node2": 15420668,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 540390650,
+            "node1": 143529,
+            "node2": 15420669,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 538957898,
+            "node1": 143529,
+            "node2": 15420864,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 510622111,
+            "node1": 143529,
+            "node2": 15420865,
+            "type": 41,
+            "w": 14.0
+        },
+        {
+            "id": 538956699,
+            "node1": 143529,
+            "node2": 15420866,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 411507924,
+            "node1": 143529,
+            "node2": 15429610,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 540389402,
+            "node1": 143529,
+            "node2": 15687596,
+            "type": 41,
+            "w": 7.0
+        },
+        {
+            "id": 477186392,
+            "node1": 143529,
+            "node2": 17464027,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 992009202,
+            "node1": 143529,
+            "node2": 162670350,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1132458081,
+            "node1": 143529,
+            "node2": 210010045,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 1118006723,
+            "node1": 143529,
+            "node2": 271151846,
+            "type": 41,
+            "w": 3.0
+        },
+        {
+            "id": 1143446906,
+            "node1": 143529,
+            "node2": 442425734,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:12.440417",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voyage",
+        "#relations": 64,
+        "max_relation_weight": 89.0,
+        "#nodes": 65,
+        "duration": "0:00:00.011662"
+    }
+}

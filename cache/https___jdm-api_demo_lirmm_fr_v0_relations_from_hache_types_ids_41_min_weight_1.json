@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 142707,
+            "name": "hache",
+            "type": 1,
+            "w": 389
+        },
+        {
+            "id": 6805609,
+            "name": "en:serious injury",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4315663,
+            "name": "arbre abattu",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 157501,
+            "name": "blessure grave",
+            "type": 1,
+            "w": 86
+        }
+    ],
+    "relations": [
+        {
+            "id": 14642222,
+            "node1": 142707,
+            "node2": 157501,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 1041063133,
+            "node1": 142707,
+            "node2": 4315663,
+            "type": 41,
+            "w": 37.0
+        },
+        {
+            "id": 1079371823,
+            "node1": 142707,
+            "node2": 6805609,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:22.795403",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "hache",
+        "#relations": 3,
+        "max_relation_weight": 37.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003434"
+    }
+}

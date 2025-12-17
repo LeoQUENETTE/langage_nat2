@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 10160401,
+            "name": "Alice Taglioni",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10161380,
+            "name": "Vernon Dobtcheff",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 254100,
+            "name": "forêt>254099",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 146632,
+            "name": "forêt",
+            "type": 1,
+            "w": 10610
+        },
+        {
+            "id": 1681550,
+            "name": "forêt hercynienne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2356055,
+            "name": "André Wilms",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 10043396,
+            "name": "Cylia Malki",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10054906,
+            "name": "Elsa Kikoïne",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 108571,
+            "name": "Brocéliande",
+            "type": 1,
+            "w": 74
+        }
+    ],
+    "relations": [
+        {
+            "id": 104941561,
+            "node1": 108571,
+            "node2": 146632,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 27842485,
+            "node1": 108571,
+            "node2": 254100,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1155485327,
+            "node1": 108571,
+            "node2": 1681550,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 76612272,
+            "node1": 108571,
+            "node2": 2356055,
+            "type": 28,
+            "w": 24.0
+        },
+        {
+            "id": 289275524,
+            "node1": 108571,
+            "node2": 10043396,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 253509195,
+            "node1": 108571,
+            "node2": 10054906,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 289275522,
+            "node1": 108571,
+            "node2": 10160401,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 289275523,
+            "node1": 108571,
+            "node2": 10161380,
+            "type": 28,
+            "w": 13.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:36.186260",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Brocéliande",
+        "#relations": 8,
+        "max_relation_weight": 30.0,
+        "#nodes": 9,
+        "duration": "0:00:00.006756"
+    }
+}

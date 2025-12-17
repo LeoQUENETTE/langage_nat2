@@ -1,0 +1,4915 @@
+{
+    "nodes": [
+        {
+            "id": 219810,
+            "name": "partie de ville",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 81128,
+            "name": "tramway",
+            "type": 1,
+            "w": 1386
+        },
+        {
+            "id": 131717,
+            "name": "centre-ville",
+            "type": 1,
+            "w": 582
+        },
+        {
+            "id": 401052,
+            "name": "hôpitaux",
+            "type": 1,
+            "w": 489
+        },
+        {
+            "id": 164033,
+            "name": "banques",
+            "type": 1,
+            "w": 3125
+        },
+        {
+            "id": 242217,
+            "name": "centre historique",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 15374994,
+            "name": "en:industrial park",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6052,
+            "name": "voies",
+            "type": 1,
+            "w": 3733
+        },
+        {
+            "id": 400739,
+            "name": "constructions",
+            "type": 1,
+            "w": 2518
+        },
+        {
+            "id": 15442432,
+            "name": "en:village center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33256,
+            "name": "banc",
+            "type": 1,
+            "w": 1510
+        },
+        {
+            "id": 291424658,
+            "name": "infrastructures vitales",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 94650,
+            "name": "évier",
+            "type": 1,
+            "w": 877
+        },
+        {
+            "id": 52611,
+            "name": "zoo",
+            "type": 1,
+            "w": 1467
+        },
+        {
+            "id": 15260273,
+            "name": "en:commercial establishment",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 263819,
+            "name": "quartier résidentiel",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 311374707,
+            "name": "en:public entities",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442431,
+            "name": "en:village centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16365132,
+            "name": "boutique érotique",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15232455,
+            "name": "en:boroughs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15331015,
+            "name": "en:shopping street",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15304116,
+            "name": "en:suburbs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15317344,
+            "name": "en:gourmet restaurant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 35035,
+            "name": "gare",
+            "type": 1,
+            "w": 3496
+        },
+        {
+            "id": 15429516,
+            "name": "en:tight ship",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 55448,
+            "name": "distributeur",
+            "type": 1,
+            "w": 526
+        },
+        {
+            "id": 14928904,
+            "name": "en:core business",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15236208,
+            "name": "en:shopping district",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15446151,
+            "name": "en:commercial zone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15446152,
+            "name": "en:business area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15228022,
+            "name": "une cité résidentielle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1991174,
+            "name": "arrondissements",
+            "type": 2,
+            "w": 2300
+        },
+        {
+            "id": 15206604,
+            "name": "en:factory unit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3971273,
+            "name": "centre-bourg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15380282,
+            "name": "en:apartment block",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 242329704,
+            "name": "équipe de football locale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 400330,
+            "name": "banlieues",
+            "type": 1,
+            "w": 191
+        },
+        {
+            "id": 265089,
+            "name": "résistant>7604",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 14926927,
+            "name": "en:shopping centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 190739,
+            "name": "parc industriel",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 15212070,
+            "name": "en:industrial estate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39695,
+            "name": "réseau routier",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 152584,
+            "name": "rues",
+            "type": 1,
+            "w": 3204
+        },
+        {
+            "id": 15263541,
+            "name": "en:shopping development",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 85519,
+            "name": "mosquée",
+            "type": 1,
+            "w": 1682
+        },
+        {
+            "id": 265497,
+            "name": "espaces verts",
+            "type": 1,
+            "w": 572
+        },
+        {
+            "id": 19872,
+            "name": "étage",
+            "type": 1,
+            "w": 2891
+        },
+        {
+            "id": 140533,
+            "name": "usine",
+            "type": 1,
+            "w": 3242
+        },
+        {
+            "id": 214224,
+            "name": "bâtiment>55137",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 104113,
+            "name": "faculté",
+            "type": 1,
+            "w": 3559
+        },
+        {
+            "id": 94262,
+            "name": "aéroport",
+            "type": 1,
+            "w": 3120
+        },
+        {
+            "id": 115880,
+            "name": "commissariat",
+            "type": 1,
+            "w": 607
+        },
+        {
+            "id": 116113,
+            "name": "allée",
+            "type": 1,
+            "w": 416
+        },
+        {
+            "id": 15567533,
+            "name": "cité résidentielle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15271328,
+            "name": "en:council housing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 132995,
+            "name": "immeuble",
+            "type": 1,
+            "w": 2744
+        },
+        {
+            "id": 15448829,
+            "name": "en:hub of activity",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15448830,
+            "name": "en:cluster of activity",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 101083,
+            "name": "policier",
+            "type": 1,
+            "w": 3394
+        },
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7272
+        },
+        {
+            "id": 14931754,
+            "name": "en:INN",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 48556,
+            "name": "boulevard",
+            "type": 1,
+            "w": 2174
+        },
+        {
+            "id": 214792041,
+            "name": "quartiers artistiques",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 235131,
+            "name": "parc d'activité",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 123608,
+            "name": "studio",
+            "type": 1,
+            "w": 3248
+        },
+        {
+            "id": 85667,
+            "name": "habitants",
+            "type": 1,
+            "w": 7150
+        },
+        {
+            "id": 15212074,
+            "name": "parc d'affaires",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 149801,
+            "name": "posada",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 7997626,
+            "name": "en:industrial plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14940755,
+            "name": "en:skyscraper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 231036,
+            "name": "monuments",
+            "type": 1,
+            "w": 4583
+        },
+        {
+            "id": 27097,
+            "name": "gymnase",
+            "type": 1,
+            "w": 408
+        },
+        {
+            "id": 215053,
+            "name": "rue>215052",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 311374706,
+            "name": "en:public unity services",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33080,
+            "name": "bazar",
+            "type": 1,
+            "w": 456
+        },
+        {
+            "id": 28014,
+            "name": "balançoire",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 14926957,
+            "name": "en:downtown",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413799,
+            "name": "en:in the town centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15311815,
+            "name": "en:housing scheme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15460873,
+            "name": "le secondaire",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 11557,
+            "name": "lycée",
+            "type": 1,
+            "w": 4267
+        },
+        {
+            "id": 15302106,
+            "name": "en:industrial area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 225270,
+            "name": "rade>158526",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 13159887,
+            "name": "en:shopping center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 158348,
+            "name": "police municipale",
+            "type": 1,
+            "w": 159
+        },
+        {
+            "id": 101285,
+            "name": "musée",
+            "type": 1,
+            "w": 5173
+        },
+        {
+            "id": 37271,
+            "name": "horloge",
+            "type": 1,
+            "w": 1605
+        },
+        {
+            "id": 7575,
+            "name": "boîte",
+            "type": 1,
+            "w": 2849
+        },
+        {
+            "id": 92636,
+            "name": "bibliothèque",
+            "type": 1,
+            "w": 4653
+        },
+        {
+            "id": 77054,
+            "name": "librairie",
+            "type": 1,
+            "w": 829
+        },
+        {
+            "id": 385909,
+            "name": "usine de production",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 15117569,
+            "name": "en:clockwork",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 225702,
+            "name": "maison>66839",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 158732,
+            "name": "code postal",
+            "type": 1,
+            "w": 211
+        },
+        {
+            "id": 296951,
+            "name": "parc de stationnement",
+            "type": 777,
+            "w": 59
+        },
+        {
+            "id": 116707,
+            "name": "égout",
+            "type": 1,
+            "w": 198
+        },
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4761
+        },
+        {
+            "id": 15343753,
+            "name": "en:airport authority",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 50873,
+            "name": "abords",
+            "type": 1,
+            "w": 97
+        },
+        {
+            "id": 15343752,
+            "name": "autorité portuaire",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 2401205,
+            "name": "coeur de métier",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 14486334,
+            "name": "cité HLM",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9614371,
+            "name": "lieu de fabrication",
+            "type": 1,
+            "w": 5
+        },
+        {
+            "id": 15263543,
+            "name": "en:one-stop department store",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 97173,
+            "name": "magasin",
+            "type": 1,
+            "w": 4335
+        },
+        {
+            "id": 15446150,
+            "name": "en:shopping area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5814,
+            "name": "animalerie",
+            "type": 1,
+            "w": 211
+        },
+        {
+            "id": 78741,
+            "name": "écoles",
+            "type": 1,
+            "w": 4171
+        },
+        {
+            "id": 162172,
+            "name": "places",
+            "type": 1,
+            "w": 3185
+        },
+        {
+            "id": 94608,
+            "name": "pigeons",
+            "type": 1,
+            "w": 123
+        },
+        {
+            "id": 15206605,
+            "name": "en:production plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139209,
+            "name": "salle",
+            "type": 1,
+            "w": 6578
+        },
+        {
+            "id": 231391,
+            "name": "établissement commercial",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 102000,
+            "name": "hôtel",
+            "type": 1,
+            "w": 4450
+        },
+        {
+            "id": 125506,
+            "name": "électricité",
+            "type": 1,
+            "w": 5311
+        },
+        {
+            "id": 15263546,
+            "name": "en:shopping plaza",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263542,
+            "name": "en:shopping complex",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14926928,
+            "name": "en:shopping mall",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15059621,
+            "name": "en:mall",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 101784,
+            "name": "citoyen",
+            "type": 1,
+            "w": 9128
+        },
+        {
+            "id": 45109,
+            "name": "édifice",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 77864,
+            "name": "établissement",
+            "type": 1,
+            "w": 3668
+        },
+        {
+            "id": 15066209,
+            "name": "en:senior high school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14959025,
+            "name": "en:restaurant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17573,
+            "name": "circonscription",
+            "type": 1,
+            "w": 3563
+        },
+        {
+            "id": 166499,
+            "name": "galerie commerciale",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 140856,
+            "name": "juge",
+            "type": 1,
+            "w": 7137
+        },
+        {
+            "id": 133013,
+            "name": "trottoir",
+            "type": 1,
+            "w": 1408
+        },
+        {
+            "id": 14016,
+            "name": "rade",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 15209659,
+            "name": "en:secondary education",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15061344,
+            "name": "en:eatery",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15455137,
+            "name": "en:out for a meal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94596,
+            "name": "logement",
+            "type": 1,
+            "w": 3112
+        },
+        {
+            "id": 15424374,
+            "name": "en:sixth-form",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13367513,
+            "name": "en:housing estate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15096136,
+            "name": "en:outskirts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15237694,
+            "name": "en:burbs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1055,
+            "name": "quartier",
+            "type": 1,
+            "w": 6070
+        },
+        {
+            "id": 45655,
+            "name": "caniveau",
+            "type": 1,
+            "w": 219
+        },
+        {
+            "id": 388082,
+            "name": "zone d'activité",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 5955,
+            "name": "parc",
+            "type": 1,
+            "w": 4318
+        },
+        {
+            "id": 132527,
+            "name": "tribunal",
+            "type": 1,
+            "w": 7238
+        },
+        {
+            "id": 11219764,
+            "name": "poumon>34996",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 107477,
+            "name": "nez",
+            "type": 1,
+            "w": 4657
+        },
+        {
+            "id": 221986,
+            "name": "homme>102633",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 121136,
+            "name": "banlieue",
+            "type": 1,
+            "w": 2917
+        },
+        {
+            "id": 26056,
+            "name": "bus",
+            "type": 1,
+            "w": 3870
+        },
+        {
+            "id": 96930,
+            "name": "quartiers",
+            "type": 1,
+            "w": 3369
+        },
+        {
+            "id": 60866,
+            "name": "cours",
+            "type": 1,
+            "w": 14782
+        },
+        {
+            "id": 241311,
+            "name": "rue commerçante",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 121678,
+            "name": "route",
+            "type": 1,
+            "w": 11202
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 30387,
+            "name": "église",
+            "type": 1,
+            "w": 5061
+        },
+        {
+            "id": 225916,
+            "name": "personne>24956",
+            "type": 1,
+            "w": 865
+        },
+        {
+            "id": 221987,
+            "name": "homme>18302",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 146274,
+            "name": "marché",
+            "type": 1,
+            "w": 13878
+        },
+        {
+            "id": 13943,
+            "name": "place",
+            "type": 1,
+            "w": 15969
+        },
+        {
+            "id": 244620,
+            "name": "être humain>189875",
+            "type": 1,
+            "w": 211
+        },
+        {
+            "id": 55077,
+            "name": "chemin",
+            "type": 1,
+            "w": 9496
+        },
+        {
+            "id": 19654,
+            "name": "bar",
+            "type": 1,
+            "w": 2929
+        },
+        {
+            "id": 91356,
+            "name": "pont",
+            "type": 1,
+            "w": 5273
+        },
+        {
+            "id": 7899,
+            "name": "habitation",
+            "type": 1,
+            "w": 1338
+        },
+        {
+            "id": 64226,
+            "name": "administration",
+            "type": 1,
+            "w": 6697
+        },
+        {
+            "id": 58732,
+            "name": "population",
+            "type": 1,
+            "w": 15523
+        },
+        {
+            "id": 152283,
+            "name": "batiment",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 74860,
+            "name": "homme",
+            "type": 1,
+            "w": 108556
+        },
+        {
+            "id": 229649,
+            "name": "quartier chinois",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 21254,
+            "name": "accueil",
+            "type": 1,
+            "w": 1933
+        },
+        {
+            "id": 63406,
+            "name": "gratte-ciel",
+            "type": 1,
+            "w": 330
+        },
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 34213
+        },
+        {
+            "id": 61016,
+            "name": "prison",
+            "type": 1,
+            "w": 6917
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 221988,
+            "name": "homme>123395",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 24742,
+            "name": "cinéma",
+            "type": 1,
+            "w": 11746
+        },
+        {
+            "id": 134065,
+            "name": "stade",
+            "type": 1,
+            "w": 4125
+        },
+        {
+            "id": 1803620,
+            "name": "restaurant>146885",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 9944121,
+            "name": "airport",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 24956,
+            "name": "être humain",
+            "type": 1,
+            "w": 2850
+        },
+        {
+            "id": 79954,
+            "name": "restaurant",
+            "type": 1,
+            "w": 6195
+        },
+        {
+            "id": 65524,
+            "name": "bâtiment",
+            "type": 1,
+            "w": 4892
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37888
+        },
+        {
+            "id": 100445,
+            "name": "hôpital",
+            "type": 1,
+            "w": 4945
+        },
+        {
+            "id": 68439,
+            "name": "individu",
+            "type": 1,
+            "w": 11402
+        },
+        {
+            "id": 48078,
+            "name": "infrastructure",
+            "type": 1,
+            "w": 5201
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 202281,
+            "name": "jardin zoologique",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 685493,
+            "name": "humain>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 49615,
+            "name": "commerce",
+            "type": 1,
+            "w": 11736
+        },
+        {
+            "id": 213176,
+            "name": "services publics",
+            "type": 1,
+            "w": 1806
+        },
+        {
+            "id": 226083,
+            "name": "humain>46707",
+            "type": 1,
+            "w": 129
+        },
+        {
+            "id": 145662,
+            "name": "communauté",
+            "type": 1,
+            "w": 25086
+        },
+        {
+            "id": 14921757,
+            "name": "en:inn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 396247,
+            "name": "individu>24956",
+            "type": 1,
+            "w": 215
+        },
+        {
+            "id": 221983,
+            "name": "homme>24956",
+            "type": 1,
+            "w": 324
+        },
+        {
+            "id": 62067,
+            "name": "commune",
+            "type": 1,
+            "w": 5263
+        },
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 35925,
+            "name": "terrain",
+            "type": 1,
+            "w": 7251
+        },
+        {
+            "id": 13844,
+            "name": "théâtre",
+            "type": 1,
+            "w": 8263
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 49293,
+            "name": "humain",
+            "type": 1,
+            "w": 10740
+        },
+        {
+            "id": 15460874,
+            "name": "en:secondary system",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15198724,
+            "name": "en:old town",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413831,
+            "name": "en:old part of town",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15303717,
+            "name": "en:secondary sector",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 369214,
+            "name": "patrimoine architectural",
+            "type": 1,
+            "w": 173
+        },
+        {
+            "id": 14926956,
+            "name": "en:city center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15071496,
+            "name": "en:city centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332343,
+            "name": "en:in the city centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332344,
+            "name": "en:town center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332346,
+            "name": "en:midtown",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15332348,
+            "name": "en:town centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15290882,
+            "name": "en:tower building",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33639377,
+            "name": "en:Old Town",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 243797,
+            "name": "restaurant gastronomique",
+            "type": 666,
+            "w": 115
+        },
+        {
+            "id": 454520799,
+            "name": "en:low-income housing",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 10834444,
+            "name": "caractéristique physique",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 14677796,
+            "name": "parc d'activités",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 251904,
+            "name": "Leroy Merlin",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 83502,
+            "name": "résistant",
+            "type": 1,
+            "w": 2389
+        },
+        {
+            "id": 15254209,
+            "name": "en:council house",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263544,
+            "name": "en:centre of commerce",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15263545,
+            "name": "en:center of commerce",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14963854,
+            "name": "en:tavern",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15351073,
+            "name": "en:peg-house",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15411101,
+            "name": "en:manufacturing sector",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134962,
+            "name": "C.E.S",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15425135,
+            "name": "C.E.S.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14944747,
+            "name": "en:zoological garden",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14944748,
+            "name": "en:zoo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10879,
+            "name": "tour",
+            "type": 1,
+            "w": 10240
+        },
+        {
+            "id": 1921585,
+            "name": "spécialités culinaires",
+            "type": 1,
+            "w": 116
+        },
+        {
+            "id": 15446065,
+            "name": "locatif social",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2156825,
+            "name": "consulats",
+            "type": 2,
+            "w": 28
+        },
+        {
+            "id": 15212075,
+            "name": "en:business park",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 150219,
+            "name": "restau",
+            "type": 1,
+            "w": 182
+        },
+        {
+            "id": 15084098,
+            "name": "en:lycee",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 43661,
+            "name": "taverne",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 142636,
+            "name": "ruelle",
+            "type": 1,
+            "w": 432
+        },
+        {
+            "id": 15426683,
+            "name": "immeuble social",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 305157,
+            "name": "immeuble collectif",
+            "type": 777,
+            "w": 53
+        },
+        {
+            "id": 143757712,
+            "name": "École secondaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15066531,
+            "name": "en:housing project",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 133365,
+            "name": "microclimat",
+            "type": 1,
+            "w": 130
+        },
+        {
+            "id": 179783,
+            "name": "secteur secondaire",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 11775009,
+            "name": "Centre historique",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 253520,
+            "name": "lycée général",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 14947082,
+            "name": "en:lycée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 218746,
+            "name": "boucherie>140100",
+            "type": 1,
+            "w": 196
+        },
+        {
+            "id": 190727,
+            "name": "logement social",
+            "type": 1,
+            "w": 139
+        },
+        {
+            "id": 10514464,
+            "name": "établissement d'enseignement secondaire",
+            "type": 1,
+            "w": 5
+        },
+        {
+            "id": 70431,
+            "name": "sex-shop",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 88173,
+            "name": "fruiterie",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 3673617,
+            "name": "lieu dangereux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 116599,
+            "name": "hypermarché",
+            "type": 1,
+            "w": 269
+        },
+        {
+            "id": 156433,
+            "name": "gare routière",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 163006,
+            "name": "zone commerciale",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 152757,
+            "name": "centre commercial",
+            "type": 1,
+            "w": 284
+        },
+        {
+            "id": 226551,
+            "name": "bazar>146274",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 321953,
+            "name": "hôtel>230520",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 358564,
+            "name": "immeuble d'appartements",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 102274,
+            "name": "H.L.M",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15087952,
+            "name": "en:housing development",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15084185,
+            "name": "en:apartment building",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15437411,
+            "name": "parc social",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15426684,
+            "name": "en:social housing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15204410,
+            "name": "en:block of flats",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16320148,
+            "name": "en:block of council flats",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 374771,
+            "name": "pôle d'activité",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 45178,
+            "name": "municipalité",
+            "type": 1,
+            "w": 3756
+        },
+        {
+            "id": 166262,
+            "name": "resto",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 437984,
+            "name": "restaurant tunisien",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 223233,
+            "name": "élections municipales",
+            "type": 1,
+            "w": 335
+        },
+        {
+            "id": 734287,
+            "name": "Coeur de métier",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 225696,
+            "name": "maison>65524",
+            "type": 1,
+            "w": 302
+        },
+        {
+            "id": 131704,
+            "name": "égouts",
+            "type": 1,
+            "w": 150
+        },
+        {
+            "id": 32290,
+            "name": "lieux de culte",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 2499238,
+            "name": "H.L.M.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 81444,
+            "name": "bistrot",
+            "type": 1,
+            "w": 847
+        },
+        {
+            "id": 64437,
+            "name": "boucherie",
+            "type": 1,
+            "w": 1325
+        },
+        {
+            "id": 2571702,
+            "name": "downtown",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 297085,
+            "name": "communautés",
+            "type": 777,
+            "w": 4496
+        },
+        {
+            "id": 7863247,
+            "name": "en:high school student",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3357794,
+            "name": "inn",
+            "type": 777,
+            "w": 32
+        },
+        {
+            "id": 390902,
+            "name": "restaurant>150219",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 15084096,
+            "name": "en:secondary school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15424375,
+            "name": "en:sixth-form college",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14935827,
+            "name": "en:physical feature",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92053,
+            "name": "foire",
+            "type": 1,
+            "w": 415
+        },
+        {
+            "id": 242135,
+            "name": "établissement de commerce",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 225700,
+            "name": "maison>30030",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 57483,
+            "name": "canalisation",
+            "type": 1,
+            "w": 290
+        },
+        {
+            "id": 233346,
+            "name": "route>215052",
+            "type": 1,
+            "w": 260
+        },
+        {
+            "id": 215453,
+            "name": "lycéenne",
+            "type": 1,
+            "w": 199
+        },
+        {
+            "id": 7842445,
+            "name": "en:high school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7849106,
+            "name": "en:sixth form college",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104756,
+            "name": "cave",
+            "type": 1,
+            "w": 1141
+        },
+        {
+            "id": 133314,
+            "name": "mairie",
+            "type": 1,
+            "w": 2749
+        },
+        {
+            "id": 161680,
+            "name": "école secondaire",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 28669,
+            "name": "grand ensemble",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 66847,
+            "name": "HLM",
+            "type": 1,
+            "w": 257
+        },
+        {
+            "id": 15290881,
+            "name": "en:sky-scraper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413800,
+            "name": "en:in the city center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 578417,
+            "name": "rade>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 226758,
+            "name": "office de tourisme",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 36568,
+            "name": "professeur",
+            "type": 1,
+            "w": 8475
+        },
+        {
+            "id": 11923968,
+            "name": "en:mosque",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 34654,
+            "name": "amphithéâtre",
+            "type": 1,
+            "w": 449
+        },
+        {
+            "id": 14928902,
+            "name": "cœur de métier",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14961203,
+            "name": "en:sex shop",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15228023,
+            "name": "en:a housing estate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15250733,
+            "name": "en:shopping gallery",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15317347,
+            "name": "en:fine dining restaurant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442419,
+            "name": "en:historic centre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15442420,
+            "name": "en:historic center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15811274,
+            "name": "Lieux de culte",
+            "type": 777,
+            "w": 29
+        },
+        {
+            "id": 16321550,
+            "name": "en:second sector",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15384693,
+            "name": "coeur d'une ville",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 104321,
+            "name": "manège",
+            "type": 1,
+            "w": 296
+        },
+        {
+            "id": 57724,
+            "name": "lieu de culte",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 15527847,
+            "name": "logements sociaux",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 94552869,
+            "name": "Centre commercial",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91694,
+            "name": "fontaine",
+            "type": 1,
+            "w": 1585
+        },
+        {
+            "id": 52773,
+            "name": "bicyclette",
+            "type": 1,
+            "w": 871
+        },
+        {
+            "id": 125200307,
+            "name": "Restaurant gastronomique",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 143473675,
+            "name": "Grand ensemble",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 143639012,
+            "name": "Vieille ville",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 145233135,
+            "name": "bâtiments historiques",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 150644649,
+            "name": "Secteur Secondaire",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 105246,
+            "name": "fontaines",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 160570961,
+            "name": "fêtes locales",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 107484,
+            "name": "fortifications",
+            "type": 1,
+            "w": 1547
+        },
+        {
+            "id": 76033,
+            "name": "arrondissement",
+            "type": 1,
+            "w": 3564
+        },
+        {
+            "id": 231389,
+            "name": "restaurant>77864",
+            "type": 1,
+            "w": 308
+        },
+        {
+            "id": 14562692,
+            "name": "espaces publics",
+            "type": 1,
+            "w": 285
+        },
+        {
+            "id": 386866,
+            "name": "vie nocturne",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 64530,
+            "name": "bistro",
+            "type": 1,
+            "w": 172
+        },
+        {
+            "id": 60374,
+            "name": "verdure",
+            "type": 1,
+            "w": 230
+        },
+        {
+            "id": 15446985,
+            "name": "en:council estate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 240475,
+            "name": "transports en commun",
+            "type": 1,
+            "w": 705
+        },
+        {
+            "id": 96033,
+            "name": "quai",
+            "type": 1,
+            "w": 600
+        },
+        {
+            "id": 87222,
+            "name": "avenue",
+            "type": 1,
+            "w": 1625
+        },
+        {
+            "id": 61280,
+            "name": "parc zoologique",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 15417050,
+            "name": "en:zoological gardens",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15401934,
+            "name": "autorité aéroportuaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 377936,
+            "name": "réseau de transport",
+            "type": 1,
+            "w": 189
+        },
+        {
+            "id": 164145,
+            "name": "ligne de bus",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 15092377,
+            "name": "en:bus line",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15115499,
+            "name": "en:bus route",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 361557,
+            "name": "ligne d'autobus",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15693612,
+            "name": "Transports en commun",
+            "type": 777,
+            "w": 39
+        },
+        {
+            "id": 14918187,
+            "name": "en:airport",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 163561,
+            "name": "commerces",
+            "type": 1,
+            "w": 403
+        },
+        {
+            "id": 324862,
+            "name": "high school",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 7992106,
+            "name": "en:factory",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 126762,
+            "name": "placard",
+            "type": 1,
+            "w": 1051
+        },
+        {
+            "id": 357391,
+            "name": "habitat social",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 81320,
+            "name": "escalier",
+            "type": 1,
+            "w": 2778
+        },
+        {
+            "id": 262508,
+            "name": "quartier sensible",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 400307,
+            "name": "ruelles",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 213343,
+            "name": "bar>3285",
+            "type": 1,
+            "w": 246
+        },
+        {
+            "id": 15366079,
+            "name": "zone d'activités",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 155430,
+            "name": "sex shop",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 141161,
+            "name": "tuile",
+            "type": 1,
+            "w": 381
+        },
+        {
+            "id": 418857,
+            "name": "bâtiments",
+            "type": 1,
+            "w": 3870
+        },
+        {
+            "id": 153520,
+            "name": "zone industrielle",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 10547510,
+            "name": "centres commerciaux",
+            "type": 777,
+            "w": 58
+        },
+        {
+            "id": 95799456,
+            "name": "Sex shop",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 2517701,
+            "name": "Secondaire",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 2000515,
+            "name": "faubourgs",
+            "type": 2,
+            "w": 9
+        },
+        {
+            "id": 344218,
+            "name": "complexe industriel",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 209841,
+            "name": "vieille ville",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 2974241,
+            "name": "arrondissement>45178",
+            "type": 1,
+            "w": 112
+        }
+    ],
+    "relations": [
+        {
+            "id": 2120535,
+            "node1": 136786,
+            "node2": 1055,
+            "type": 9,
+            "w": 109.0
+        },
+        {
+            "id": 9972741,
+            "node1": 136786,
+            "node2": 5814,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 9970519,
+            "node1": 136786,
+            "node2": 5955,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 642387941,
+            "node1": 136786,
+            "node2": 6052,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 1035743840,
+            "node1": 136786,
+            "node2": 7575,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 9970531,
+            "node1": 136786,
+            "node2": 7899,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9970850,
+            "node1": 136786,
+            "node2": 10879,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10528684,
+            "node1": 136786,
+            "node2": 11557,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 994235200,
+            "node1": 136786,
+            "node2": 13844,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 8556046,
+            "node1": 136786,
+            "node2": 13943,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 602319655,
+            "node1": 136786,
+            "node2": 14016,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 9972996,
+            "node1": 136786,
+            "node2": 17573,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 98431433,
+            "node1": 136786,
+            "node2": 19654,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9971605,
+            "node1": 136786,
+            "node2": 19872,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 3060766,
+            "node1": 136786,
+            "node2": 20564,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 602153730,
+            "node1": 136786,
+            "node2": 21254,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 22061067,
+            "node1": 136786,
+            "node2": 24742,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 584631636,
+            "node1": 136786,
+            "node2": 24956,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 9972129,
+            "node1": 136786,
+            "node2": 26056,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1018176809,
+            "node1": 136786,
+            "node2": 27097,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 9973094,
+            "node1": 136786,
+            "node2": 28014,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 435276895,
+            "node1": 136786,
+            "node2": 28669,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 193129715,
+            "node1": 136786,
+            "node2": 30387,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 193129682,
+            "node1": 136786,
+            "node2": 32290,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 11118357,
+            "node1": 136786,
+            "node2": 33080,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 9975536,
+            "node1": 136786,
+            "node2": 33256,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9973468,
+            "node1": 136786,
+            "node2": 34654,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1057912254,
+            "node1": 136786,
+            "node2": 35035,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 10528709,
+            "node1": 136786,
+            "node2": 35925,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1011917314,
+            "node1": 136786,
+            "node2": 36568,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 10533552,
+            "node1": 136786,
+            "node2": 37271,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 994235196,
+            "node1": 136786,
+            "node2": 39695,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 10561616,
+            "node1": 136786,
+            "node2": 43661,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 9973559,
+            "node1": 136786,
+            "node2": 45109,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9975754,
+            "node1": 136786,
+            "node2": 45178,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 221625,
+            "node1": 136786,
+            "node2": 45179,
+            "type": 9,
+            "w": 69.0
+        },
+        {
+            "id": 10528539,
+            "node1": 136786,
+            "node2": 45655,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 1150628428,
+            "node1": 136786,
+            "node2": 48078,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 221624,
+            "node1": 136786,
+            "node2": 48556,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 515265143,
+            "node1": 136786,
+            "node2": 49293,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 221621,
+            "node1": 136786,
+            "node2": 49615,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 891343933,
+            "node1": 136786,
+            "node2": 50873,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 9972658,
+            "node1": 136786,
+            "node2": 52611,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 8057306,
+            "node1": 136786,
+            "node2": 52773,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 9972287,
+            "node1": 136786,
+            "node2": 55077,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9971613,
+            "node1": 136786,
+            "node2": 55137,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 14636794,
+            "node1": 136786,
+            "node2": 55448,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 9971684,
+            "node1": 136786,
+            "node2": 57483,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 193129673,
+            "node1": 136786,
+            "node2": 57724,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 178700603,
+            "node1": 136786,
+            "node2": 58732,
+            "type": 9,
+            "w": 67.0
+        },
+        {
+            "id": 9971201,
+            "node1": 136786,
+            "node2": 60374,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 619237837,
+            "node1": 136786,
+            "node2": 60866,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 10562477,
+            "node1": 136786,
+            "node2": 61016,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 771544076,
+            "node1": 136786,
+            "node2": 61280,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 9972612,
+            "node1": 136786,
+            "node2": 62067,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 10527387,
+            "node1": 136786,
+            "node2": 63406,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 350688309,
+            "node1": 136786,
+            "node2": 63462,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 193129848,
+            "node1": 136786,
+            "node2": 64226,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 98431521,
+            "node1": 136786,
+            "node2": 64437,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 10561622,
+            "node1": 136786,
+            "node2": 64530,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 9972312,
+            "node1": 136786,
+            "node2": 65524,
+            "type": 9,
+            "w": 67.0
+        },
+        {
+            "id": 10536323,
+            "node1": 136786,
+            "node2": 66847,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 615124442,
+            "node1": 136786,
+            "node2": 68439,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 14631234,
+            "node1": 136786,
+            "node2": 70431,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 9972204,
+            "node1": 136786,
+            "node2": 74860,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2120536,
+            "node1": 136786,
+            "node2": 76033,
+            "type": 9,
+            "w": 62.0
+        },
+        {
+            "id": 9974074,
+            "node1": 136786,
+            "node2": 77054,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10528256,
+            "node1": 136786,
+            "node2": 77864,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 943061162,
+            "node1": 136786,
+            "node2": 78741,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 9971959,
+            "node1": 136786,
+            "node2": 79954,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 9972548,
+            "node1": 136786,
+            "node2": 81128,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 1034993295,
+            "node1": 136786,
+            "node2": 81320,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 14703091,
+            "node1": 136786,
+            "node2": 81444,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 478739609,
+            "node1": 136786,
+            "node2": 83502,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 193129723,
+            "node1": 136786,
+            "node2": 85519,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 943061142,
+            "node1": 136786,
+            "node2": 85667,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 221623,
+            "node1": 136786,
+            "node2": 87222,
+            "type": 9,
+            "w": 61.0
+        },
+        {
+            "id": 10530284,
+            "node1": 136786,
+            "node2": 88173,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9974342,
+            "node1": 136786,
+            "node2": 91240,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 1150612556,
+            "node1": 136786,
+            "node2": 91356,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 193129667,
+            "node1": 136786,
+            "node2": 91694,
+            "type": 9,
+            "w": 48.0
+        },
+        {
+            "id": 10528795,
+            "node1": 136786,
+            "node2": 92053,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 9971252,
+            "node1": 136786,
+            "node2": 92636,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 9973918,
+            "node1": 136786,
+            "node2": 94262,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 9972500,
+            "node1": 136786,
+            "node2": 94596,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1033243183,
+            "node1": 136786,
+            "node2": 94608,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 9972113,
+            "node1": 136786,
+            "node2": 94650,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9970980,
+            "node1": 136786,
+            "node2": 96033,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 709950875,
+            "node1": 136786,
+            "node2": 96930,
+            "type": 9,
+            "w": 46.0
+        },
+        {
+            "id": 2120537,
+            "node1": 136786,
+            "node2": 97173,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 994212008,
+            "node1": 136786,
+            "node2": 100445,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 9971878,
+            "node1": 136786,
+            "node2": 101083,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 994212009,
+            "node1": 136786,
+            "node2": 101285,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 1152252980,
+            "node1": 136786,
+            "node2": 101784,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 10562985,
+            "node1": 136786,
+            "node2": 102000,
+            "type": 9,
+            "w": 23.0
+        },
+        {
+            "id": 499867478,
+            "node1": 136786,
+            "node2": 102274,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 10562480,
+            "node1": 136786,
+            "node2": 104113,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 9971142,
+            "node1": 136786,
+            "node2": 104321,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9970941,
+            "node1": 136786,
+            "node2": 104756,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 193129661,
+            "node1": 136786,
+            "node2": 105246,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 8273095,
+            "node1": 136786,
+            "node2": 107477,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 99019478,
+            "node1": 136786,
+            "node2": 107484,
+            "type": 9,
+            "w": 17.0
+        },
+        {
+            "id": 9973967,
+            "node1": 136786,
+            "node2": 115880,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 9973528,
+            "node1": 136786,
+            "node2": 116113,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 664936938,
+            "node1": 136786,
+            "node2": 116477,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 10527232,
+            "node1": 136786,
+            "node2": 116599,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 10566383,
+            "node1": 136786,
+            "node2": 116707,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 10528738,
+            "node1": 136786,
+            "node2": 121136,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 330932567,
+            "node1": 136786,
+            "node2": 121678,
+            "type": 9,
+            "w": 49.0
+        },
+        {
+            "id": 9972351,
+            "node1": 136786,
+            "node2": 123608,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1148533202,
+            "node1": 136786,
+            "node2": 125506,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 9972161,
+            "node1": 136786,
+            "node2": 126762,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 193129842,
+            "node1": 136786,
+            "node2": 131704,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 10528591,
+            "node1": 136786,
+            "node2": 131717,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 9970700,
+            "node1": 136786,
+            "node2": 132527,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 630999,
+            "node1": 136786,
+            "node2": 132995,
+            "type": 9,
+            "w": 72.0
+        },
+        {
+            "id": 9971024,
+            "node1": 136786,
+            "node2": 133013,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 221622,
+            "node1": 136786,
+            "node2": 133314,
+            "type": 9,
+            "w": 71.0
+        },
+        {
+            "id": 994235224,
+            "node1": 136786,
+            "node2": 133365,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 9972895,
+            "node1": 136786,
+            "node2": 134065,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 10530018,
+            "node1": 136786,
+            "node2": 134218,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 534701346,
+            "node1": 136786,
+            "node2": 134962,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 97581799,
+            "node1": 136786,
+            "node2": 135190,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 1035765501,
+            "node1": 136786,
+            "node2": 139209,
+            "type": 9,
+            "w": 49.0
+        },
+        {
+            "id": 9971522,
+            "node1": 136786,
+            "node2": 140533,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10561600,
+            "node1": 136786,
+            "node2": 140856,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 9975891,
+            "node1": 136786,
+            "node2": 141161,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 193129631,
+            "node1": 136786,
+            "node2": 142636,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 9971770,
+            "node1": 136786,
+            "node2": 144936,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1022894034,
+            "node1": 136786,
+            "node2": 145662,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 193129701,
+            "node1": 136786,
+            "node2": 146274,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 1023149546,
+            "node1": 136786,
+            "node2": 149801,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 15748088,
+            "node1": 136786,
+            "node2": 150219,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 9971451,
+            "node1": 136786,
+            "node2": 152283,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 225332,
+            "node1": 136786,
+            "node2": 152584,
+            "type": 9,
+            "w": 62.0
+        },
+        {
+            "id": 519009251,
+            "node1": 136786,
+            "node2": 152757,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 418887779,
+            "node1": 136786,
+            "node2": 153520,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 10535848,
+            "node1": 136786,
+            "node2": 155430,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 1057912351,
+            "node1": 136786,
+            "node2": 156433,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 22061071,
+            "node1": 136786,
+            "node2": 157283,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 994235207,
+            "node1": 136786,
+            "node2": 158348,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 994235190,
+            "node1": 136786,
+            "node2": 158732,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 426441233,
+            "node1": 136786,
+            "node2": 161680,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 193129648,
+            "node1": 136786,
+            "node2": 162172,
+            "type": 9,
+            "w": 42.0
+        },
+        {
+            "id": 10528124,
+            "node1": 136786,
+            "node2": 163006,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 642387945,
+            "node1": 136786,
+            "node2": 163561,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 642387943,
+            "node1": 136786,
+            "node2": 164033,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 10533902,
+            "node1": 136786,
+            "node2": 164145,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 15749264,
+            "node1": 136786,
+            "node2": 166262,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 604992345,
+            "node1": 136786,
+            "node2": 166499,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 534701906,
+            "node1": 136786,
+            "node2": 179783,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 468252317,
+            "node1": 136786,
+            "node2": 190727,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 426439715,
+            "node1": 136786,
+            "node2": 190739,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 493063329,
+            "node1": 136786,
+            "node2": 202281,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 476499857,
+            "node1": 136786,
+            "node2": 209841,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 943061156,
+            "node1": 136786,
+            "node2": 213176,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 10535976,
+            "node1": 136786,
+            "node2": 213343,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 642387942,
+            "node1": 136786,
+            "node2": 214224,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 10529825,
+            "node1": 136786,
+            "node2": 215053,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 539458521,
+            "node1": 136786,
+            "node2": 215453,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 10535803,
+            "node1": 136786,
+            "node2": 218746,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 10568008,
+            "node1": 136786,
+            "node2": 219810,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 10533488,
+            "node1": 136786,
+            "node2": 221983,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 10531041,
+            "node1": 136786,
+            "node2": 221986,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 10530507,
+            "node1": 136786,
+            "node2": 221987,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 10530982,
+            "node1": 136786,
+            "node2": 221988,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 994235212,
+            "node1": 136786,
+            "node2": 223233,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 479883855,
+            "node1": 136786,
+            "node2": 225270,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 15508584,
+            "node1": 136786,
+            "node2": 225696,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 377381587,
+            "node1": 136786,
+            "node2": 225700,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 10531315,
+            "node1": 136786,
+            "node2": 225702,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 604992587,
+            "node1": 136786,
+            "node2": 225916,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 289963898,
+            "node1": 136786,
+            "node2": 226083,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 10745366,
+            "node1": 136786,
+            "node2": 226551,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 994235204,
+            "node1": 136786,
+            "node2": 226758,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 54864183,
+            "node1": 136786,
+            "node2": 229649,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 943061149,
+            "node1": 136786,
+            "node2": 231036,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 10531020,
+            "node1": 136786,
+            "node2": 231389,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 10535813,
+            "node1": 136786,
+            "node2": 231391,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 330932583,
+            "node1": 136786,
+            "node2": 233346,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 534707045,
+            "node1": 136786,
+            "node2": 235131,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 994235193,
+            "node1": 136786,
+            "node2": 240475,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 10535484,
+            "node1": 136786,
+            "node2": 241311,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 709958606,
+            "node1": 136786,
+            "node2": 242135,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 10532701,
+            "node1": 136786,
+            "node2": 242217,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 10535306,
+            "node1": 136786,
+            "node2": 243797,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 372234790,
+            "node1": 136786,
+            "node2": 244620,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 10561012,
+            "node1": 136786,
+            "node2": 251904,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 1080932861,
+            "node1": 136786,
+            "node2": 253520,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 1156939219,
+            "node1": 136786,
+            "node2": 262508,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 994212041,
+            "node1": 136786,
+            "node2": 263819,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 287990102,
+            "node1": 136786,
+            "node2": 265089,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 943061158,
+            "node1": 136786,
+            "node2": 265497,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1057912343,
+            "node1": 136786,
+            "node2": 296951,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 994235226,
+            "node1": 136786,
+            "node2": 297085,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 491979792,
+            "node1": 136786,
+            "node2": 305157,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 14637409,
+            "node1": 136786,
+            "node2": 316850,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 10567303,
+            "node1": 136786,
+            "node2": 321953,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 635395961,
+            "node1": 136786,
+            "node2": 324862,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 580993691,
+            "node1": 136786,
+            "node2": 325138,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 436507236,
+            "node1": 136786,
+            "node2": 344218,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 468252318,
+            "node1": 136786,
+            "node2": 357391,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 593666096,
+            "node1": 136786,
+            "node2": 358564,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 547473387,
+            "node1": 136786,
+            "node2": 361557,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 994235221,
+            "node1": 136786,
+            "node2": 369214,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 598240792,
+            "node1": 136786,
+            "node2": 374771,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 943061154,
+            "node1": 136786,
+            "node2": 377936,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 411992492,
+            "node1": 136786,
+            "node2": 385909,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 994235215,
+            "node1": 136786,
+            "node2": 386866,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 418887796,
+            "node1": 136786,
+            "node2": 388082,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 709951032,
+            "node1": 136786,
+            "node2": 390902,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 595466967,
+            "node1": 136786,
+            "node2": 396247,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 193129646,
+            "node1": 136786,
+            "node2": 400307,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 1026397520,
+            "node1": 136786,
+            "node2": 400330,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 642387944,
+            "node1": 136786,
+            "node2": 400739,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 943061164,
+            "node1": 136786,
+            "node2": 401052,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 193129654,
+            "node1": 136786,
+            "node2": 418857,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 15745940,
+            "node1": 136786,
+            "node2": 437984,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 522080598,
+            "node1": 136786,
+            "node2": 578417,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 474056864,
+            "node1": 136786,
+            "node2": 685493,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1010704087,
+            "node1": 136786,
+            "node2": 734287,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 97834589,
+            "node1": 136786,
+            "node2": 1803620,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 994235217,
+            "node1": 136786,
+            "node2": 1921585,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 709950878,
+            "node1": 136786,
+            "node2": 1991174,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 709950880,
+            "node1": 136786,
+            "node2": 2000515,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 994235206,
+            "node1": 136786,
+            "node2": 2156825,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 510672815,
+            "node1": 136786,
+            "node2": 2401205,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 69069429,
+            "node1": 136786,
+            "node2": 2499238,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 444976909,
+            "node1": 136786,
+            "node2": 2517701,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 618830180,
+            "node1": 136786,
+            "node2": 2571702,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 350507512,
+            "node1": 136786,
+            "node2": 2974241,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 618831583,
+            "node1": 136786,
+            "node2": 3357794,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 91559725,
+            "node1": 136786,
+            "node2": 3673617,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 600849407,
+            "node1": 136786,
+            "node2": 3971273,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 405556462,
+            "node1": 136786,
+            "node2": 7842445,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 1080934293,
+            "node1": 136786,
+            "node2": 7849106,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 599615173,
+            "node1": 136786,
+            "node2": 7863247,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 404607276,
+            "node1": 136786,
+            "node2": 7992106,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 404607200,
+            "node1": 136786,
+            "node2": 7997626,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 427440266,
+            "node1": 136786,
+            "node2": 9614371,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 618836950,
+            "node1": 136786,
+            "node2": 9944121,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 547473125,
+            "node1": 136786,
+            "node2": 10514464,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 519009247,
+            "node1": 136786,
+            "node2": 10547510,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 923521032,
+            "node1": 136786,
+            "node2": 10834444,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 287686503,
+            "node1": 136786,
+            "node2": 11219764,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 319684288,
+            "node1": 136786,
+            "node2": 11775009,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 549537584,
+            "node1": 136786,
+            "node2": 11923968,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 534702154,
+            "node1": 136786,
+            "node2": 13159887,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 471493443,
+            "node1": 136786,
+            "node2": 13367513,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 635394741,
+            "node1": 136786,
+            "node2": 14486334,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 943061146,
+            "node1": 136786,
+            "node2": 14562692,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 426439705,
+            "node1": 136786,
+            "node2": 14677796,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 600827197,
+            "node1": 136786,
+            "node2": 14918187,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 486601999,
+            "node1": 136786,
+            "node2": 14921757,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 534702156,
+            "node1": 136786,
+            "node2": 14926927,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 534702158,
+            "node1": 136786,
+            "node2": 14926928,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 413208848,
+            "node1": 136786,
+            "node2": 14926956,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 413208858,
+            "node1": 136786,
+            "node2": 14926957,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 1120476229,
+            "node1": 136786,
+            "node2": 14928902,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 413394692,
+            "node1": 136786,
+            "node2": 14928904,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 1018045040,
+            "node1": 136786,
+            "node2": 14931754,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 736731524,
+            "node1": 136786,
+            "node2": 14935827,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 539458303,
+            "node1": 136786,
+            "node2": 14940755,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 574102572,
+            "node1": 136786,
+            "node2": 14944747,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 414017021,
+            "node1": 136786,
+            "node2": 14944748,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 618830390,
+            "node1": 136786,
+            "node2": 14947082,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 491499097,
+            "node1": 136786,
+            "node2": 14959025,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 391504900,
+            "node1": 136786,
+            "node2": 14961203,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 484050127,
+            "node1": 136786,
+            "node2": 14963854,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 534702160,
+            "node1": 136786,
+            "node2": 15059621,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 491499104,
+            "node1": 136786,
+            "node2": 15061344,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 618828802,
+            "node1": 136786,
+            "node2": 15066209,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 468274928,
+            "node1": 136786,
+            "node2": 15066531,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 413208873,
+            "node1": 136786,
+            "node2": 15071496,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 426441231,
+            "node1": 136786,
+            "node2": 15084096,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 618828799,
+            "node1": 136786,
+            "node2": 15084098,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 524278429,
+            "node1": 136786,
+            "node2": 15084185,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 471493405,
+            "node1": 136786,
+            "node2": 15087952,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 404606802,
+            "node1": 136786,
+            "node2": 15092377,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 709951399,
+            "node1": 136786,
+            "node2": 15096136,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 404606807,
+            "node1": 136786,
+            "node2": 15115499,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 599615082,
+            "node1": 136786,
+            "node2": 15117569,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 484250768,
+            "node1": 136786,
+            "node2": 15198724,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 468274955,
+            "node1": 136786,
+            "node2": 15204410,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 404607257,
+            "node1": 136786,
+            "node2": 15206604,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 404607236,
+            "node1": 136786,
+            "node2": 15206605,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 593668062,
+            "node1": 136786,
+            "node2": 15209659,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 426439709,
+            "node1": 136786,
+            "node2": 15212070,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 426439718,
+            "node1": 136786,
+            "node2": 15212074,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 418887792,
+            "node1": 136786,
+            "node2": 15212075,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 1055080289,
+            "node1": 136786,
+            "node2": 15228022,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1080933450,
+            "node1": 136786,
+            "node2": 15228023,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 580994183,
+            "node1": 136786,
+            "node2": 15232455,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 483286948,
+            "node1": 136786,
+            "node2": 15236208,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 1055132328,
+            "node1": 136786,
+            "node2": 15237694,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 978192715,
+            "node1": 136786,
+            "node2": 15250733,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 923648524,
+            "node1": 136786,
+            "node2": 15254209,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 599616040,
+            "node1": 136786,
+            "node2": 15260273,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 929486293,
+            "node1": 136786,
+            "node2": 15263541,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 929486300,
+            "node1": 136786,
+            "node2": 15263542,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 929486306,
+            "node1": 136786,
+            "node2": 15263543,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 929486312,
+            "node1": 136786,
+            "node2": 15263544,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 929486320,
+            "node1": 136786,
+            "node2": 15263545,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 929486327,
+            "node1": 136786,
+            "node2": 15263546,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 519510940,
+            "node1": 136786,
+            "node2": 15271328,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 436520784,
+            "node1": 136786,
+            "node2": 15290881,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 436520794,
+            "node1": 136786,
+            "node2": 15290882,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 450735520,
+            "node1": 136786,
+            "node2": 15302106,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 444976906,
+            "node1": 136786,
+            "node2": 15303717,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 484050064,
+            "node1": 136786,
+            "node2": 15304116,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 1055110752,
+            "node1": 136786,
+            "node2": 15311815,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 397065893,
+            "node1": 136786,
+            "node2": 15317344,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 397065901,
+            "node1": 136786,
+            "node2": 15317347,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 539458335,
+            "node1": 136786,
+            "node2": 15331015,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 600840206,
+            "node1": 136786,
+            "node2": 15332343,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 413208890,
+            "node1": 136786,
+            "node2": 15332344,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 413208883,
+            "node1": 136786,
+            "node2": 15332346,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 413208865,
+            "node1": 136786,
+            "node2": 15332348,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 519526943,
+            "node1": 136786,
+            "node2": 15343752,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 413110824,
+            "node1": 136786,
+            "node2": 15343753,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 580995034,
+            "node1": 136786,
+            "node2": 15351073,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 418887775,
+            "node1": 136786,
+            "node2": 15366079,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 432485289,
+            "node1": 136786,
+            "node2": 15374994,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 524278430,
+            "node1": 136786,
+            "node2": 15380282,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 931773744,
+            "node1": 136786,
+            "node2": 15384693,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1055141001,
+            "node1": 136786,
+            "node2": 15401934,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 549522999,
+            "node1": 136786,
+            "node2": 15411101,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 600840201,
+            "node1": 136786,
+            "node2": 15413799,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 600839882,
+            "node1": 136786,
+            "node2": 15413800,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 484250769,
+            "node1": 136786,
+            "node2": 15413831,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 493063334,
+            "node1": 136786,
+            "node2": 15417050,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 432484203,
+            "node1": 136786,
+            "node2": 15424374,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 432484206,
+            "node1": 136786,
+            "node2": 15424375,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 777274270,
+            "node1": 136786,
+            "node2": 15425135,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 468252316,
+            "node1": 136786,
+            "node2": 15426683,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 468274941,
+            "node1": 136786,
+            "node2": 15426684,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 974518081,
+            "node1": 136786,
+            "node2": 15429516,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 436520693,
+            "node1": 136786,
+            "node2": 15437411,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 468249524,
+            "node1": 136786,
+            "node2": 15442419,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 468249525,
+            "node1": 136786,
+            "node2": 15442420,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 468249535,
+            "node1": 136786,
+            "node2": 15442431,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 468249541,
+            "node1": 136786,
+            "node2": 15442432,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 468252319,
+            "node1": 136786,
+            "node2": 15446065,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 932755983,
+            "node1": 136786,
+            "node2": 15446150,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 932755992,
+            "node1": 136786,
+            "node2": 15446151,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 932756009,
+            "node1": 136786,
+            "node2": 15446152,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 468274942,
+            "node1": 136786,
+            "node2": 15446985,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 444976727,
+            "node1": 136786,
+            "node2": 15448829,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 444976731,
+            "node1": 136786,
+            "node2": 15448830,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 491499110,
+            "node1": 136786,
+            "node2": 15455137,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 534701903,
+            "node1": 136786,
+            "node2": 15460873,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 593668065,
+            "node1": 136786,
+            "node2": 15460874,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 574099261,
+            "node1": 136786,
+            "node2": 15527847,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1055080311,
+            "node1": 136786,
+            "node2": 15567533,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1058759379,
+            "node1": 136786,
+            "node2": 15693612,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 413110909,
+            "node1": 136786,
+            "node2": 15811274,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 468274956,
+            "node1": 136786,
+            "node2": 16320148,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 1055123075,
+            "node1": 136786,
+            "node2": 16321550,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 873585972,
+            "node1": 136786,
+            "node2": 16365132,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 736703067,
+            "node1": 136786,
+            "node2": 33639377,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 775516322,
+            "node1": 136786,
+            "node2": 94552869,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 932754237,
+            "node1": 136786,
+            "node2": 95799456,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 549524643,
+            "node1": 136786,
+            "node2": 125200307,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 548190073,
+            "node1": 136786,
+            "node2": 143473675,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 548190019,
+            "node1": 136786,
+            "node2": 143639012,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 548189736,
+            "node1": 136786,
+            "node2": 143757712,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 943061104,
+            "node1": 136786,
+            "node2": 145233135,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 978193150,
+            "node1": 136786,
+            "node2": 150644649,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 994235214,
+            "node1": 136786,
+            "node2": 160570961,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1025691119,
+            "node1": 136786,
+            "node2": 214792041,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 994235219,
+            "node1": 136786,
+            "node2": 242329704,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 943061150,
+            "node1": 136786,
+            "node2": 291424658,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 1121550664,
+            "node1": 136786,
+            "node2": 311374706,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 1121550665,
+            "node1": 136786,
+            "node2": 311374707,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 1177804204,
+            "node1": 136786,
+            "node2": 454520799,
+            "type": 9,
+            "w": 16.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:56.450246",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ville",
+        "#relations": 375,
+        "max_relation_weight": 109.0,
+        "#nodes": 376,
+        "duration": "0:00:00.086946"
+    }
+}

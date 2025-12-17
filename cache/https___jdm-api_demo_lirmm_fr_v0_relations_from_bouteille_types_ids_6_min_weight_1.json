@@ -1,0 +1,300 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 53472607,
+            "name": "récipient généralement cylindrique",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 123933,
+            "name": "entité",
+            "type": 1,
+            "w": 2063
+        },
+        {
+            "id": 134263,
+            "name": "emballage",
+            "type": 1,
+            "w": 1023
+        },
+        {
+            "id": 42731,
+            "name": "contenant",
+            "type": 1,
+            "w": 3867
+        },
+        {
+            "id": 3172696,
+            "name": "récipient en verre",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 142661,
+            "name": "zone",
+            "type": 1,
+            "w": 5484
+        },
+        {
+            "id": 108150,
+            "name": "contenu",
+            "type": 1,
+            "w": 10080
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 26976,
+            "name": "vert",
+            "type": 1,
+            "w": 6016
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 103105,
+            "name": "conteneur",
+            "type": 1,
+            "w": 301
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 7620882,
+            "name": "récipient culinaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3304283,
+            "name": "objet de tous les jours",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 225291,
+            "name": "couleur>17226",
+            "type": 1,
+            "w": 382
+        },
+        {
+            "id": 121002,
+            "name": "ustensile",
+            "type": 1,
+            "w": 609
+        },
+        {
+            "id": 117423,
+            "name": "bouteille",
+            "type": 1,
+            "w": 2891
+        },
+        {
+            "id": 89628,
+            "name": "récipient",
+            "type": 1,
+            "w": 1305
+        },
+        {
+            "id": 34238815,
+            "name": "zone du terrain",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 171513,
+            "node1": 117423,
+            "node2": 237,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 2379397,
+            "node1": 117423,
+            "node2": 26976,
+            "type": 6,
+            "w": 143.0
+        },
+        {
+            "id": 10732739,
+            "node1": 117423,
+            "node2": 40056,
+            "type": 6,
+            "w": 138.0
+        },
+        {
+            "id": 171512,
+            "node1": 117423,
+            "node2": 42731,
+            "type": 6,
+            "w": 89.0
+        },
+        {
+            "id": 2379396,
+            "node1": 117423,
+            "node2": 89628,
+            "type": 6,
+            "w": 205.0
+        },
+        {
+            "id": 766169509,
+            "node1": 117423,
+            "node2": 103105,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 96926051,
+            "node1": 117423,
+            "node2": 108150,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 96926045,
+            "node1": 117423,
+            "node2": 121002,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 581389311,
+            "node1": 117423,
+            "node2": 123933,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 12438324,
+            "node1": 117423,
+            "node2": 134263,
+            "type": 6,
+            "w": 185.0
+        },
+        {
+            "id": 629383,
+            "node1": 117423,
+            "node2": 135190,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 255741158,
+            "node1": 117423,
+            "node2": 142661,
+            "type": 6,
+            "w": 42.0
+        },
+        {
+            "id": 10732734,
+            "node1": 117423,
+            "node2": 225291,
+            "type": 6,
+            "w": 132.0
+        },
+        {
+            "id": 96926046,
+            "node1": 117423,
+            "node2": 246870,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 371178586,
+            "node1": 117423,
+            "node2": 316850,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 76409150,
+            "node1": 117423,
+            "node2": 3172696,
+            "type": 6,
+            "w": 205.0
+        },
+        {
+            "id": 82840797,
+            "node1": 117423,
+            "node2": 3304283,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 376315047,
+            "node1": 117423,
+            "node2": 7620882,
+            "type": 6,
+            "w": 205.0
+        },
+        {
+            "id": 534956901,
+            "node1": 117423,
+            "node2": 34238815,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 535752760,
+            "node1": 117423,
+            "node2": 53472607,
+            "type": 6,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:30.881043",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bouteille",
+        "#relations": 20,
+        "max_relation_weight": 205.0,
+        "#nodes": 21,
+        "duration": "0:00:00.029206"
+    }
+}

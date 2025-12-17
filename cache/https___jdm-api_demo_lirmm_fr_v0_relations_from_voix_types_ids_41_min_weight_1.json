@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 152414,
+            "name": "chanteur d'opéra",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 15200022,
+            "name": "en:opera singer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 161213,
+            "name": "plasticienne",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 444475940,
+            "name": "retapisser>64963",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 156011,
+            "name": "artiste peintre",
+            "type": 1,
+            "w": 259
+        },
+        {
+            "id": 155222,
+            "name": "dessinatrice",
+            "type": 1,
+            "w": 199
+        },
+        {
+            "id": 103353,
+            "name": "chanteuse",
+            "type": 1,
+            "w": 3278
+        },
+        {
+            "id": 9726944,
+            "name": "artist",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 15066836,
+            "name": "en:songstress",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 51515,
+            "name": "voix",
+            "type": 1,
+            "w": 29155
+        },
+        {
+            "id": 196121,
+            "name": "artiste lyrique",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 150223,
+            "name": "retapisser",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 14927323,
+            "name": "en:vocalist",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 30266,
+            "name": "vocaliste",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 262019,
+            "name": "chanteuse d'opéra",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 251153,
+            "name": "chanteur lyrique",
+            "type": 1,
+            "w": 69
+        },
+        {
+            "id": 12586,
+            "name": "cantatrice",
+            "type": 1,
+            "w": 461
+        },
+        {
+            "id": 7334264,
+            "name": "en:artist",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143344313,
+            "name": "Chanteuse d'opéra",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 318407,
+            "name": "chanteuse lyrique",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 100685716,
+            "name": "Chanteur d'opéra",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143361440,
+            "name": "Chanteur lyrique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92496856,
+            "name": "Artiste peintre",
+            "type": 1,
+            "w": 26
+        }
+    ],
+    "relations": [
+        {
+            "id": 667252834,
+            "node1": 51515,
+            "node2": 12586,
+            "type": 41,
+            "w": 6.0
+        },
+        {
+            "id": 667262805,
+            "node1": 51515,
+            "node2": 30266,
+            "type": 41,
+            "w": 6.0
+        },
+        {
+            "id": 14658884,
+            "node1": 51515,
+            "node2": 103353,
+            "type": 41,
+            "w": 42.0
+        },
+        {
+            "id": 1143446656,
+            "node1": 51515,
+            "node2": 150223,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 413189138,
+            "node1": 51515,
+            "node2": 152414,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 929742615,
+            "node1": 51515,
+            "node2": 155222,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 594853998,
+            "node1": 51515,
+            "node2": 156011,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 929751910,
+            "node1": 51515,
+            "node2": 161213,
+            "type": 41,
+            "w": 13.0
+        },
+        {
+            "id": 411508944,
+            "node1": 51515,
+            "node2": 196121,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 431564381,
+            "node1": 51515,
+            "node2": 251153,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14648115,
+            "node1": 51515,
+            "node2": 262019,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 14648122,
+            "node1": 51515,
+            "node2": 318407,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 540391701,
+            "node1": 51515,
+            "node2": 7334264,
+            "type": 41,
+            "w": 3.0
+        },
+        {
+            "id": 616895838,
+            "node1": 51515,
+            "node2": 9726944,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 413527069,
+            "node1": 51515,
+            "node2": 14927323,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 411508630,
+            "node1": 51515,
+            "node2": 15066836,
+            "type": 41,
+            "w": 40.0
+        },
+        {
+            "id": 399433452,
+            "node1": 51515,
+            "node2": 15200022,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 1048361665,
+            "node1": 51515,
+            "node2": 92496856,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079350976,
+            "node1": 51515,
+            "node2": 100685716,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 594851964,
+            "node1": 51515,
+            "node2": 143344313,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 594851993,
+            "node1": 51515,
+            "node2": 143361440,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1143446719,
+            "node1": 51515,
+            "node2": 444475940,
+            "type": 41,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:28.991763",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voix",
+        "#relations": 22,
+        "max_relation_weight": 42.0,
+        "#nodes": 23,
+        "duration": "0:00:00.017046"
+    }
+}

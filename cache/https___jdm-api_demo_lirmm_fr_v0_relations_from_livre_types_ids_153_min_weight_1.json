@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 280219871,
+            "name": "densité de texte",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251414556,
+            "name": "année de publication",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 43550,
+            "name": "format",
+            "type": 1,
+            "w": 4575
+        },
+        {
+            "id": 45052,
+            "name": "auteur",
+            "type": 1,
+            "w": 10604
+        },
+        {
+            "id": 112576,
+            "name": "genre",
+            "type": 1,
+            "w": 8987
+        },
+        {
+            "id": 142787,
+            "name": "livre",
+            "type": 1,
+            "w": 18444
+        },
+        {
+            "id": 7970,
+            "name": "titre",
+            "type": 1,
+            "w": 8415
+        },
+        {
+            "id": 124785,
+            "name": "éditeur",
+            "type": 1,
+            "w": 3696
+        },
+        {
+            "id": 213078,
+            "name": "genre littéraire",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 13070,
+            "name": "épaisseur",
+            "type": 1,
+            "w": 395
+        },
+        {
+            "id": 14321910,
+            "name": "nombre de pages",
+            "type": 1,
+            "w": 5
+        }
+    ],
+    "relations": [
+        {
+            "id": 885442107,
+            "node1": 142787,
+            "node2": 7970,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179139333,
+            "node1": 142787,
+            "node2": 13070,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179137707,
+            "node1": 142787,
+            "node2": 43550,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 885442106,
+            "node1": 142787,
+            "node2": 45052,
+            "type": 153,
+            "w": 63.0
+        },
+        {
+            "id": 885442108,
+            "node1": 142787,
+            "node2": 112576,
+            "type": 153,
+            "w": 30.0
+        },
+        {
+            "id": 885442109,
+            "node1": 142787,
+            "node2": 124785,
+            "type": 153,
+            "w": 38.0
+        },
+        {
+            "id": 1179137610,
+            "node1": 142787,
+            "node2": 213078,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179137397,
+            "node1": 142787,
+            "node2": 14321910,
+            "type": 153,
+            "w": 69.0
+        },
+        {
+            "id": 1179137609,
+            "node1": 142787,
+            "node2": 251414556,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179139365,
+            "node1": 142787,
+            "node2": 280219871,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:47.566501",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "livre",
+        "#relations": 10,
+        "max_relation_weight": 69.0,
+        "#nodes": 11,
+        "duration": "0:00:00.006678"
+    }
+}

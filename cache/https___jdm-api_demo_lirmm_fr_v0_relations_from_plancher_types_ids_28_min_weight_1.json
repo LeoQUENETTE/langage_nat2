@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 211491,
+            "name": "pédale d'accélérateur",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 15229740,
+            "name": "pédale d'embrayage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234529,
+            "name": "pédale de frein",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 8983930,
+            "name": "chauffage au sol",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 49117,
+            "name": "parquet",
+            "type": 1,
+            "w": 974
+        },
+        {
+            "id": 214309,
+            "name": "parquet>390",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 390,
+            "name": "plancher",
+            "type": 1,
+            "w": 345
+        }
+    ],
+    "relations": [
+        {
+            "id": 104938795,
+            "node1": 390,
+            "node2": 49117,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 766153858,
+            "node1": 390,
+            "node2": 211491,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11330058,
+            "node1": 390,
+            "node2": 214309,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 766153859,
+            "node1": 390,
+            "node2": 234529,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1037316652,
+            "node1": 390,
+            "node2": 8983930,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 766153860,
+            "node1": 390,
+            "node2": 15229740,
+            "type": 28,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:12.070784",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plancher",
+        "#relations": 6,
+        "max_relation_weight": 39.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005518"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 267187,
+            "name": "politique française",
+            "type": 1,
+            "w": 232
+        },
+        {
+            "id": 393724,
+            "name": "Emmanuel Macron",
+            "type": 1,
+            "w": 3506
+        },
+        {
+            "id": 2238,
+            "name": "Charles de Gaulle",
+            "type": 1,
+            "w": 190
+        },
+        {
+            "id": 254326741,
+            "name": "Conseil des Ministres",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141547,
+            "name": "Perséphone",
+            "type": 1,
+            "w": 91
+        },
+        {
+            "id": 11388340,
+            "name": "Macron>393724",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 101913,
+            "name": "président",
+            "type": 1,
+            "w": 14162
+        },
+        {
+            "id": 188477,
+            "name": "René Coty",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 250167647,
+            "name": "Politique française",
+            "type": 1,
+            "w": 43
+        },
+        {
+            "id": 152021,
+            "name": "conseil des ministres",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 140320,
+            "name": "Élysée",
+            "type": 1,
+            "w": 242
+        },
+        {
+            "id": 132526,
+            "name": "Macron",
+            "type": 1,
+            "w": 730
+        }
+    ],
+    "relations": [
+        {
+            "id": 824740254,
+            "node1": 140320,
+            "node2": 2238,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 11339660,
+            "node1": 140320,
+            "node2": 101913,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 380293026,
+            "node1": 140320,
+            "node2": 132526,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 766153986,
+            "node1": 140320,
+            "node2": 141547,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 824738577,
+            "node1": 140320,
+            "node2": 152021,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 1137627383,
+            "node1": 140320,
+            "node2": 188477,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 824738513,
+            "node1": 140320,
+            "node2": 267187,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 283145541,
+            "node1": 140320,
+            "node2": 393724,
+            "type": 28,
+            "w": 75.0
+        },
+        {
+            "id": 375742387,
+            "node1": 140320,
+            "node2": 11388340,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 1124414749,
+            "node1": 140320,
+            "node2": 250167647,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1127464480,
+            "node1": 140320,
+            "node2": 254326741,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:16.097336",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Élysée",
+        "#relations": 11,
+        "max_relation_weight": 75.0,
+        "#nodes": 12,
+        "duration": "0:00:00.005505"
+    }
+}

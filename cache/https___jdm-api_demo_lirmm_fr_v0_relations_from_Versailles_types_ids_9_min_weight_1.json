@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 155348921,
+            "name": "jardins à la française",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 215053,
+            "name": "rue>215052",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 147760517,
+            "name": "Galerie des Glaces",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4767
+        },
+        {
+            "id": 10589780,
+            "name": "Judith Chemla",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 66375,
+            "name": "Versailles",
+            "type": 1,
+            "w": 3347
+        },
+        {
+            "id": 10032736,
+            "name": "Guillaume Depardieu",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 13055188,
+            "node1": 66375,
+            "node2": 20564,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 350712229,
+            "node1": 66375,
+            "node2": 63462,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 350641833,
+            "node1": 66375,
+            "node2": 215053,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 656203003,
+            "node1": 66375,
+            "node2": 10032736,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 656203002,
+            "node1": 66375,
+            "node2": 10589780,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 807636138,
+            "node1": 66375,
+            "node2": 147760517,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 807509121,
+            "node1": 66375,
+            "node2": 155348921,
+            "type": 9,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:24.320654",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Versailles",
+        "#relations": 7,
+        "max_relation_weight": 39.0,
+        "#nodes": 8,
+        "duration": "0:00:00.004004"
+    }
+}

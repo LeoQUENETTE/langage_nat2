@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 54234,
+            "name": "écriture",
+            "type": 1,
+            "w": 6242
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2782
+        },
+        {
+            "id": 56065,
+            "name": "annotation",
+            "type": 1,
+            "w": 305
+        },
+        {
+            "id": 31289,
+            "name": "inscription",
+            "type": 1,
+            "w": 2034
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152449671,
+            "node1": 15509,
+            "node2": 31289,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1156166296,
+            "node1": 15509,
+            "node2": 54234,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1152449691,
+            "node1": 15509,
+            "node2": 56065,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:40.787532",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.002453"
+    }
+}

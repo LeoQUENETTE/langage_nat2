@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 98319,
+            "name": "réparer",
+            "type": 1,
+            "w": 1639
+        },
+        {
+            "id": 143005,
+            "name": "fabrication",
+            "type": 1,
+            "w": 5110
+        },
+        {
+            "id": 22436,
+            "name": "réparation",
+            "type": 1,
+            "w": 2565
+        },
+        {
+            "id": 5707,
+            "name": "jardinage",
+            "type": 1,
+            "w": 762
+        },
+        {
+            "id": 129572,
+            "name": "bricoler",
+            "type": 1,
+            "w": 512
+        },
+        {
+            "id": 54795,
+            "name": "bricolage",
+            "type": 1,
+            "w": 731
+        },
+        {
+            "id": 70283,
+            "name": "travail",
+            "type": 1,
+            "w": 25979
+        },
+        {
+            "id": 106722,
+            "name": "travaux",
+            "type": 1,
+            "w": 7636
+        },
+        {
+            "id": 69550,
+            "name": "travailler",
+            "type": 1,
+            "w": 11206
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12262
+        },
+        {
+            "id": 59921,
+            "name": "amélioration",
+            "type": 1,
+            "w": 5154
+        },
+        {
+            "id": 51683,
+            "name": "lever",
+            "type": 1,
+            "w": 8564
+        },
+        {
+            "id": 7290864,
+            "name": "en:work",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6560,
+            "name": "jardiner",
+            "type": 1,
+            "w": 690
+        },
+        {
+            "id": 34042,
+            "name": "fabriquer",
+            "type": 1,
+            "w": 3913
+        },
+        {
+            "id": 465543593,
+            "name": "amélioration des tâches",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 72823,
+            "name": "usinage",
+            "type": 1,
+            "w": 204
+        },
+        {
+            "id": 23705,
+            "name": "productivité",
+            "type": 1,
+            "w": 2309
+        }
+    ],
+    "relations": [
+        {
+            "id": 3125985,
+            "node1": 30843,
+            "node2": 5707,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 3125984,
+            "node1": 30843,
+            "node2": 6560,
+            "type": 41,
+            "w": 70.0
+        },
+        {
+            "id": 1694933,
+            "node1": 30843,
+            "node2": 22436,
+            "type": 41,
+            "w": 130.0
+        },
+        {
+            "id": 1156484350,
+            "node1": 30843,
+            "node2": 23705,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1694938,
+            "node1": 30843,
+            "node2": 34042,
+            "type": 41,
+            "w": 80.0
+        },
+        {
+            "id": 418850110,
+            "node1": 30843,
+            "node2": 51683,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1690462,
+            "node1": 30843,
+            "node2": 54795,
+            "type": 41,
+            "w": 130.0
+        },
+        {
+            "id": 1821878,
+            "node1": 30843,
+            "node2": 55137,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 1156485673,
+            "node1": 30843,
+            "node2": 59921,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1694937,
+            "node1": 30843,
+            "node2": 69550,
+            "type": 41,
+            "w": 90.0
+        },
+        {
+            "id": 1694936,
+            "node1": 30843,
+            "node2": 70283,
+            "type": 41,
+            "w": 150.0
+        },
+        {
+            "id": 1781484,
+            "node1": 30843,
+            "node2": 72823,
+            "type": 41,
+            "w": 59.0
+        },
+        {
+            "id": 1694934,
+            "node1": 30843,
+            "node2": 98319,
+            "type": 41,
+            "w": 130.0
+        },
+        {
+            "id": 3125986,
+            "node1": 30843,
+            "node2": 106722,
+            "type": 41,
+            "w": 55.0
+        },
+        {
+            "id": 1690463,
+            "node1": 30843,
+            "node2": 129572,
+            "type": 41,
+            "w": 130.0
+        },
+        {
+            "id": 1694935,
+            "node1": 30843,
+            "node2": 143005,
+            "type": 41,
+            "w": 80.0
+        },
+        {
+            "id": 411509224,
+            "node1": 30843,
+            "node2": 7290864,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 1156484366,
+            "node1": 30843,
+            "node2": 465543593,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:20.770494",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "outil",
+        "#relations": 18,
+        "max_relation_weight": 150.0,
+        "#nodes": 19,
+        "duration": "0:00:00.007268"
+    }
+}

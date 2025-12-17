@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 242256,
+            "name": "attractions",
+            "type": 1,
+            "w": 217
+        },
+        {
+            "id": 14926350,
+            "name": "en:carnival",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15309751,
+            "name": "fête à neuneu",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 43839,
+            "name": "roue",
+            "type": 1,
+            "w": 2823
+        },
+        {
+            "id": 14938244,
+            "name": "en:funfair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 270475,
+            "name": "roue>104321",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 36433,
+            "name": "loterie",
+            "type": 1,
+            "w": 438
+        },
+        {
+            "id": 2933805,
+            "name": "Fête Foraine",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 92053,
+            "name": "foire",
+            "type": 1,
+            "w": 415
+        },
+        {
+            "id": 153245,
+            "name": "fête foraine",
+            "type": 1,
+            "w": 288
+        },
+        {
+            "id": 46739,
+            "name": "stand",
+            "type": 1,
+            "w": 389
+        },
+        {
+            "id": 104321,
+            "name": "manège",
+            "type": 1,
+            "w": 296
+        },
+        {
+            "id": 14921110,
+            "name": "en:stand",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1981300,
+            "node1": 92053,
+            "node2": 36433,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 10562716,
+            "node1": 92053,
+            "node2": 43839,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 1981302,
+            "node1": 92053,
+            "node2": 46739,
+            "type": 9,
+            "w": 54.0
+        },
+        {
+            "id": 1981301,
+            "node1": 92053,
+            "node2": 104321,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 9972268,
+            "node1": 92053,
+            "node2": 153245,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 946704364,
+            "node1": 92053,
+            "node2": 242256,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 10562718,
+            "node1": 92053,
+            "node2": 270475,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 369643091,
+            "node1": 92053,
+            "node2": 2933805,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 391504406,
+            "node1": 92053,
+            "node2": 14921110,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 580994163,
+            "node1": 92053,
+            "node2": 14926350,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 470668289,
+            "node1": 92053,
+            "node2": 14938244,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 625804997,
+            "node1": 92053,
+            "node2": 15309751,
+            "type": 9,
+            "w": 5.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:32.006655",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "foire",
+        "#relations": 12,
+        "max_relation_weight": 60.0,
+        "#nodes": 13,
+        "duration": "0:00:00.004759"
+    }
+}

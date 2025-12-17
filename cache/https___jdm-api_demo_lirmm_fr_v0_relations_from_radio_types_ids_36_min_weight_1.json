@@ -1,0 +1,391 @@
+{
+    "nodes": [
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 162761,
+            "name": "_INFO-SEM-PERS",
+            "type": 36,
+            "w": 732
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 162760,
+            "name": "_INFO-SEM-EVENT",
+            "type": 36,
+            "w": 230
+        },
+        {
+            "id": 1912917,
+            "name": "_INFO-COUNTABLE-YES",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 8216,
+            "name": "radio",
+            "type": 1,
+            "w": 4728
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 163012,
+            "name": "_INFO-NO-MORE-QUESTION",
+            "type": 36,
+            "w": 6094
+        },
+        {
+            "id": 191672,
+            "name": "_INFO-SEM-ACTION",
+            "type": 36,
+            "w": 36
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317323,
+            "name": "_POLIT_2PG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 163274,
+            "name": "_INFO-SEM-THING-ABSTR",
+            "type": 36,
+            "w": 578
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 1912988,
+            "name": "_INFO-COUNTABLE-NO",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 162762,
+            "name": "_INFO-SEM-ORGA",
+            "type": 36,
+            "w": 122
+        },
+        {
+            "id": 15991431,
+            "name": "_PROP-ANIME-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191667,
+            "name": "_INFO-SEM-THING-ARTEFACT",
+            "type": 36,
+            "w": 242
+        },
+        {
+            "id": 163151,
+            "name": "_INFO-SEM-SUBST",
+            "type": 36,
+            "w": 286
+        }
+    ],
+    "relations": [
+        {
+            "id": 435741,
+            "node1": 8216,
+            "node2": 162759,
+            "type": 36,
+            "w": 51.0
+        },
+        {
+            "id": 602109182,
+            "node1": 8216,
+            "node2": 162760,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 97131716,
+            "node1": 8216,
+            "node2": 162761,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 1059818308,
+            "node1": 8216,
+            "node2": 162762,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 2151318,
+            "node1": 8216,
+            "node2": 162763,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 431734,
+            "node1": 8216,
+            "node2": 163012,
+            "type": 36,
+            "w": 56.0
+        },
+        {
+            "id": 602109181,
+            "node1": 8216,
+            "node2": 163151,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 602109184,
+            "node1": 8216,
+            "node2": 163274,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 79959455,
+            "node1": 8216,
+            "node2": 191667,
+            "type": 36,
+            "w": 51.0
+        },
+        {
+            "id": 97131714,
+            "node1": 8216,
+            "node2": 191669,
+            "type": 36,
+            "w": 32.0
+        },
+        {
+            "id": 602109183,
+            "node1": 8216,
+            "node2": 191672,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 740846,
+            "node1": 8216,
+            "node2": 191741,
+            "type": 36,
+            "w": 60.0
+        },
+        {
+            "id": 1645983,
+            "node1": 8216,
+            "node2": 217817,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 1998166,
+            "node1": 8216,
+            "node2": 223173,
+            "type": 36,
+            "w": 298.0
+        },
+        {
+            "id": 2004782,
+            "node1": 8216,
+            "node2": 241794,
+            "type": 36,
+            "w": 270.0
+        },
+        {
+            "id": 2326256,
+            "node1": 8216,
+            "node2": 254876,
+            "type": 36,
+            "w": 52.0
+        },
+        {
+            "id": 2326257,
+            "node1": 8216,
+            "node2": 254877,
+            "type": 36,
+            "w": 48.0
+        },
+        {
+            "id": 1170089066,
+            "node1": 8216,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 28146494,
+            "node1": 8216,
+            "node2": 317323,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 8925753,
+            "node1": 8216,
+            "node2": 317324,
+            "type": 36,
+            "w": 17.0
+        },
+        {
+            "id": 19309640,
+            "node1": 8216,
+            "node2": 438949,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 436883224,
+            "node1": 8216,
+            "node2": 1912917,
+            "type": 36,
+            "w": 32.0
+        },
+        {
+            "id": 602109185,
+            "node1": 8216,
+            "node2": 1912988,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 54716598,
+            "node1": 8216,
+            "node2": 2585996,
+            "type": 36,
+            "w": 58.0
+        },
+        {
+            "id": 417298059,
+            "node1": 8216,
+            "node2": 15991431,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 417723038,
+            "node1": 8216,
+            "node2": 15991432,
+            "type": 36,
+            "w": 29.0
+        },
+        {
+            "id": 497939061,
+            "node1": 8216,
+            "node2": 50233540,
+            "type": 36,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:15.245521",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "radio",
+        "#relations": 27,
+        "max_relation_weight": 298.0,
+        "#nodes": 28,
+        "duration": "0:00:00.009597"
+    }
+}

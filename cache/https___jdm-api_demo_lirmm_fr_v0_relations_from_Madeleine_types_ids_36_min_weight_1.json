@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 1900773,
+            "name": "_INFO-SEM-PLACE-ABSTRACT",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 162761,
+            "name": "_INFO-SEM-PERS",
+            "type": 36,
+            "w": 732
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 250117,
+            "name": "_INFO-SEM-PERS-FEM",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 1912917,
+            "name": "_INFO-COUNTABLE-YES",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 243007,
+            "name": "_INFO-LRARE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 264749,
+            "name": "_INFO-SEM-NAMED-ENTITY",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458628,
+            "name": "_INFO-SEM-PLACE-GEO",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 15991431,
+            "name": "_PROP-ANIME-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 16606207,
+            "name": "_INFO-SEM-NODET",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 32207,
+            "name": "Madeleine",
+            "type": 1,
+            "w": 2140
+        }
+    ],
+    "relations": [
+        {
+            "id": 280356705,
+            "node1": 32207,
+            "node2": 162759,
+            "type": 36,
+            "w": 42.0
+        },
+        {
+            "id": 18026873,
+            "node1": 32207,
+            "node2": 162761,
+            "type": 36,
+            "w": 45.0
+        },
+        {
+            "id": 18029367,
+            "node1": 32207,
+            "node2": 191669,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 17981059,
+            "node1": 32207,
+            "node2": 217817,
+            "type": 36,
+            "w": 76.0
+        },
+        {
+            "id": 9121884,
+            "node1": 32207,
+            "node2": 223173,
+            "type": 36,
+            "w": 173.0
+        },
+        {
+            "id": 9205056,
+            "node1": 32207,
+            "node2": 241794,
+            "type": 36,
+            "w": 321.0
+        },
+        {
+            "id": 52532319,
+            "node1": 32207,
+            "node2": 243007,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 56414778,
+            "node1": 32207,
+            "node2": 250117,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 9338809,
+            "node1": 32207,
+            "node2": 254876,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 9338810,
+            "node1": 32207,
+            "node2": 254877,
+            "type": 36,
+            "w": 65.0
+        },
+        {
+            "id": 3137007,
+            "node1": 32207,
+            "node2": 264749,
+            "type": 36,
+            "w": 36.0
+        },
+        {
+            "id": 1151133598,
+            "node1": 32207,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 280282813,
+            "node1": 32207,
+            "node2": 458628,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 30630789,
+            "node1": 32207,
+            "node2": 1900773,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 436854855,
+            "node1": 32207,
+            "node2": 1912917,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 417402417,
+            "node1": 32207,
+            "node2": 15991431,
+            "type": 36,
+            "w": 30.0
+        },
+        {
+            "id": 536255612,
+            "node1": 32207,
+            "node2": 16606207,
+            "type": 36,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:43.132694",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Madeleine",
+        "#relations": 17,
+        "max_relation_weight": 321.0,
+        "#nodes": 18,
+        "duration": "0:00:00.011572"
+    }
+}

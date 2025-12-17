@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 255559,
+            "name": "être overbooké",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 255558,
+            "name": "être débordé",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 15301971,
+            "name": "en:have a hectic time",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15235392,
+            "name": "en:be overwhelmed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 147771,
+            "name": "devoirs",
+            "type": 1,
+            "w": 1499
+        },
+        {
+            "id": 395156,
+            "name": "avoir la tête dans le guidon",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 22316,
+            "name": "pris",
+            "type": 1,
+            "w": 3716
+        },
+        {
+            "id": 20269,
+            "name": "chargé",
+            "type": 1,
+            "w": 4078
+        },
+        {
+            "id": 438965,
+            "name": "avoir trop de choses à faire",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15310526,
+            "name": "en:to be overstretched",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15694129,
+            "name": "en:allow yourself to become overwhelmed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 320858,
+            "name": "pris>92177",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 438925,
+            "name": "ne plus savoir où donner de la tête",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 677177,
+            "name": "chargé>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1757832,
+            "name": "chargé>114800",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1951573,
+            "name": "pris>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2336712,
+            "name": "chargé>161702",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 227765,
+            "name": "être occupé",
+            "type": 1,
+            "w": 243
+        },
+        {
+            "id": 313048,
+            "name": "être occupé>70283",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 255729,
+            "name": "se laisser déborder",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15440370,
+            "name": "en:not know where to start",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15694128,
+            "name": "en:become overwhelmed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 186037,
+            "name": "être à la ramasse",
+            "type": 1,
+            "w": 6
+        }
+    ],
+    "relations": [
+        {
+            "id": 474254638,
+            "node1": 147771,
+            "node2": 20269,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 631743068,
+            "node1": 147771,
+            "node2": 22316,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 667264687,
+            "node1": 147771,
+            "node2": 186037,
+            "type": 41,
+            "w": 15.0
+        },
+        {
+            "id": 97977172,
+            "node1": 147771,
+            "node2": 227765,
+            "type": 41,
+            "w": 56.0
+        },
+        {
+            "id": 15943521,
+            "node1": 147771,
+            "node2": 255558,
+            "type": 41,
+            "w": 52.0
+        },
+        {
+            "id": 15943549,
+            "node1": 147771,
+            "node2": 255559,
+            "type": 41,
+            "w": 49.0
+        },
+        {
+            "id": 411509496,
+            "node1": 147771,
+            "node2": 255729,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 15875222,
+            "node1": 147771,
+            "node2": 313048,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 538959407,
+            "node1": 147771,
+            "node2": 320858,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1079369540,
+            "node1": 147771,
+            "node2": 395156,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 15943494,
+            "node1": 147771,
+            "node2": 438925,
+            "type": 41,
+            "w": 87.0
+        },
+        {
+            "id": 15943475,
+            "node1": 147771,
+            "node2": 438965,
+            "type": 41,
+            "w": 52.0
+        },
+        {
+            "id": 497006935,
+            "node1": 147771,
+            "node2": 677177,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 361504191,
+            "node1": 147771,
+            "node2": 1757832,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 631743121,
+            "node1": 147771,
+            "node2": 1951573,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 497006921,
+            "node1": 147771,
+            "node2": 2336712,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 405622487,
+            "node1": 147771,
+            "node2": 15235392,
+            "type": 41,
+            "w": 83.0
+        },
+        {
+            "id": 1079386949,
+            "node1": 147771,
+            "node2": 15301971,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079388157,
+            "node1": 147771,
+            "node2": 15310526,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 405622507,
+            "node1": 147771,
+            "node2": 15440370,
+            "type": 41,
+            "w": 86.0
+        },
+        {
+            "id": 411509473,
+            "node1": 147771,
+            "node2": 15694128,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 667255854,
+            "node1": 147771,
+            "node2": 15694129,
+            "type": 41,
+            "w": 15.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:08.739069",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "devoirs",
+        "#relations": 22,
+        "max_relation_weight": 87.0,
+        "#nodes": 23,
+        "duration": "0:00:00.004896"
+    }
+}

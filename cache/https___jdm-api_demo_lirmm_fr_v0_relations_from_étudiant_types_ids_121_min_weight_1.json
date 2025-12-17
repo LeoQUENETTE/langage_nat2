@@ -1,0 +1,287 @@
+{
+    "nodes": [
+        {
+            "id": 70206,
+            "name": "cahier",
+            "type": 1,
+            "w": 1411
+        },
+        {
+            "id": 251421602,
+            "name": "notes de terrain",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 135689,
+            "name": "diplômes",
+            "type": 1,
+            "w": 328
+        },
+        {
+            "id": 314078198,
+            "name": "livre sur UML",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 304966377,
+            "name": "compte bancaire à découvert",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 94978,
+            "name": "ordinateur",
+            "type": 1,
+            "w": 9680
+        },
+        {
+            "id": 46393373,
+            "name": "dette étudiante",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 142787,
+            "name": "livre",
+            "type": 1,
+            "w": 18439
+        },
+        {
+            "id": 123769,
+            "name": "étudiant",
+            "type": 1,
+            "w": 5544
+        },
+        {
+            "id": 214553,
+            "name": "carte de téléphone",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 156699,
+            "name": "carte d'étudiant",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 253484679,
+            "name": "livres scolaires",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 27292,
+            "name": "diplôme",
+            "type": 1,
+            "w": 4425
+        },
+        {
+            "id": 334309,
+            "name": "agenda scolaire",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 25051,
+            "name": "pétard",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 164428175,
+            "name": "carte étudiante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 27268,
+            "name": "examen",
+            "type": 1,
+            "w": 4268
+        },
+        {
+            "id": 2463,
+            "name": "ordinateur portable",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 404699,
+            "name": "cahiers",
+            "type": 1,
+            "w": 307
+        },
+        {
+            "id": 39607,
+            "name": "sac à dos",
+            "type": 1,
+            "w": 421
+        }
+    ],
+    "relations": [
+        {
+            "id": 779715529,
+            "node1": 123769,
+            "node2": 2463,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 1046569653,
+            "node1": 123769,
+            "node2": 25051,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1010155483,
+            "node1": 123769,
+            "node2": 27268,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 775089019,
+            "node1": 123769,
+            "node2": 27292,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 775088950,
+            "node1": 123769,
+            "node2": 39607,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 964302759,
+            "node1": 123769,
+            "node2": 70206,
+            "type": 121,
+            "w": 38.0
+        },
+        {
+            "id": 775088981,
+            "node1": 123769,
+            "node2": 94978,
+            "type": 121,
+            "w": 57.0
+        },
+        {
+            "id": 959393463,
+            "node1": 123769,
+            "node2": 135689,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 1008166303,
+            "node1": 123769,
+            "node2": 142787,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 1020810571,
+            "node1": 123769,
+            "node2": 156699,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 807454768,
+            "node1": 123769,
+            "node2": 214553,
+            "type": 121,
+            "w": 38.0
+        },
+        {
+            "id": 769627723,
+            "node1": 123769,
+            "node2": 334309,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 1072382050,
+            "node1": 123769,
+            "node2": 404699,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 929993955,
+            "node1": 123769,
+            "node2": 46393373,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 801660791,
+            "node1": 123769,
+            "node2": 164428175,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 770130342,
+            "node1": 123769,
+            "node2": 251421602,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1066129798,
+            "node1": 123769,
+            "node2": 253484679,
+            "type": 121,
+            "w": 36.0
+        },
+        {
+            "id": 929993997,
+            "node1": 123769,
+            "node2": 304966377,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 956921114,
+            "node1": 123769,
+            "node2": 314078198,
+            "type": 121,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:37.519430",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "étudiant",
+        "#relations": 19,
+        "max_relation_weight": 57.0,
+        "#nodes": 20,
+        "duration": "0:00:00.011587"
+    }
+}

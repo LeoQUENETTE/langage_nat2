@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 180682950,
+            "name": "communauté soudée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 52076,
+            "name": "moine",
+            "type": 1,
+            "w": 2343
+        },
+        {
+            "id": 477486547,
+            "name": "spiritualité accrue",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 268860,
+            "name": "paix intérieure",
+            "type": 1,
+            "w": 288
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155501489,
+            "node1": 52076,
+            "node2": 268860,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1176731242,
+            "node1": 52076,
+            "node2": 180682950,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1177520685,
+            "node1": 52076,
+            "node2": 477486547,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:49.727028",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "moine",
+        "#relations": 3,
+        "max_relation_weight": 27.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003766"
+    }
+}

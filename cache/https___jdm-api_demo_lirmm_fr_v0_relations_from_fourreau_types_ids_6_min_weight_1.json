@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 110160,
+            "name": "robe",
+            "type": 1,
+            "w": 3032
+        },
+        {
+            "id": 140902,
+            "name": "étoffe",
+            "type": 1,
+            "w": 464
+        },
+        {
+            "id": 154364388,
+            "name": "étui de protection",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 214339,
+            "name": "robe>120949",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 14966797,
+            "name": "en:item of clothing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 120949,
+            "name": "vêtement",
+            "type": 1,
+            "w": 5715
+        },
+        {
+            "id": 14941364,
+            "name": "en:garment",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 21094,
+            "name": "habit",
+            "type": 1,
+            "w": 1300
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 244421,
+            "name": "étui>42731",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 15419731,
+            "name": "en:clothing item",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39696,
+            "name": "fourreau",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 33801,
+            "name": "étui",
+            "type": 1,
+            "w": 197
+        }
+    ],
+    "relations": [
+        {
+            "id": 312306431,
+            "node1": 39696,
+            "node2": 21094,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 12369644,
+            "node1": 39696,
+            "node2": 33801,
+            "type": 6,
+            "w": 190.0
+        },
+        {
+            "id": 82961829,
+            "node1": 39696,
+            "node2": 110160,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 97134405,
+            "node1": 39696,
+            "node2": 120949,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 629780,
+            "node1": 39696,
+            "node2": 135190,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 57982375,
+            "node1": 39696,
+            "node2": 140902,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 97134406,
+            "node1": 39696,
+            "node2": 214339,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 9911726,
+            "node1": 39696,
+            "node2": 244421,
+            "type": 6,
+            "w": 17.0
+        },
+        {
+            "id": 597491711,
+            "node1": 39696,
+            "node2": 14941364,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 597473290,
+            "node1": 39696,
+            "node2": 14966797,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 597472119,
+            "node1": 39696,
+            "node2": 15419731,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 590898502,
+            "node1": 39696,
+            "node2": 154364388,
+            "type": 6,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:06.590326",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fourreau",
+        "#relations": 12,
+        "max_relation_weight": 190.0,
+        "#nodes": 13,
+        "duration": "0:00:00.010817"
+    }
+}

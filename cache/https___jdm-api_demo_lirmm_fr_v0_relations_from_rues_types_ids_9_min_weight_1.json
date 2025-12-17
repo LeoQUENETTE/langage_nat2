@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 152584,
+            "name": "rues",
+            "type": 1,
+            "w": 3204
+        },
+        {
+            "id": 155185,
+            "name": "pavés",
+            "type": 1,
+            "w": 133
+        },
+        {
+            "id": 45362,
+            "name": "feux",
+            "type": 1,
+            "w": 3143
+        },
+        {
+            "id": 76045,
+            "name": "bitume",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 133013,
+            "name": "trottoir",
+            "type": 1,
+            "w": 1408
+        },
+        {
+            "id": 45655,
+            "name": "caniveau",
+            "type": 1,
+            "w": 219
+        },
+        {
+            "id": 155622,
+            "name": "voitures",
+            "type": 1,
+            "w": 3337
+        },
+        {
+            "id": 93043,
+            "name": "goudron",
+            "type": 1,
+            "w": 566
+        },
+        {
+            "id": 2469804,
+            "name": "goudran",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2392989,
+            "name": "coudran",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 374527,
+            "node1": 152584,
+            "node2": 45362,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 1589202,
+            "node1": 152584,
+            "node2": 45655,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 1589203,
+            "node1": 152584,
+            "node2": 76045,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 1603515,
+            "node1": 152584,
+            "node2": 93043,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 1589204,
+            "node1": 152584,
+            "node2": 133013,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 366342,
+            "node1": 152584,
+            "node2": 155185,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 1589199,
+            "node1": 152584,
+            "node2": 155622,
+            "type": 9,
+            "w": 45.0
+        },
+        {
+            "id": 98770710,
+            "node1": 152584,
+            "node2": 2392989,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 61557722,
+            "node1": 152584,
+            "node2": 2469804,
+            "type": 9,
+            "w": 24.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:19.045836",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "rues",
+        "#relations": 9,
+        "max_relation_weight": 60.0,
+        "#nodes": 10,
+        "duration": "0:00:00.004793"
+    }
+}

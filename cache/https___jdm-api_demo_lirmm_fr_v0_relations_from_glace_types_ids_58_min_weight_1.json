@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 84087,
+            "name": "cornet",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 141883,
+            "name": "boule",
+            "type": 1,
+            "w": 2350
+        },
+        {
+            "id": 141091,
+            "name": "coupe",
+            "type": 1,
+            "w": 3653
+        },
+        {
+            "id": 142367,
+            "name": "pot",
+            "type": 1,
+            "w": 1131
+        },
+        {
+            "id": 141964,
+            "name": "glace",
+            "type": 1,
+            "w": 5802
+        }
+    ],
+    "relations": [
+        {
+            "id": 96692060,
+            "node1": 141964,
+            "node2": 84087,
+            "type": 58,
+            "w": 29.0
+        },
+        {
+            "id": 96692065,
+            "node1": 141964,
+            "node2": 141091,
+            "type": 58,
+            "w": 30.0
+        },
+        {
+            "id": 96692064,
+            "node1": 141964,
+            "node2": 141883,
+            "type": 58,
+            "w": 33.0
+        },
+        {
+            "id": 96692057,
+            "node1": 141964,
+            "node2": 142367,
+            "type": 58,
+            "w": 17.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:46.180471",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "glace",
+        "#relations": 4,
+        "max_relation_weight": 33.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004571"
+    }
+}

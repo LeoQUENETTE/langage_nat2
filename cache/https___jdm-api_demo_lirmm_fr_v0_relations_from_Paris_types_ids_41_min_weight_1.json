@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 113317,
+            "name": "Paris",
+            "type": 1,
+            "w": 10163
+        },
+        {
+            "id": 212549121,
+            "name": "réputation internationale",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 212284,
+            "name": "développement économique",
+            "type": 1,
+            "w": 2710
+        },
+        {
+            "id": 251342,
+            "name": "accent parigot",
+            "type": 1,
+            "w": 42
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155700669,
+            "node1": 113317,
+            "node2": 212284,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14651413,
+            "node1": 113317,
+            "node2": 251342,
+            "type": 41,
+            "w": 37.0
+        },
+        {
+            "id": 1158123098,
+            "node1": 113317,
+            "node2": 212549121,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:44.262467",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Paris",
+        "#relations": 3,
+        "max_relation_weight": 37.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005430"
+    }
+}

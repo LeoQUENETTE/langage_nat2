@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 45296,
+            "name": "extraction",
+            "type": 1,
+            "w": 1513
+        },
+        {
+            "id": 105269,
+            "name": "polissage",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 141576,
+            "name": "marbre",
+            "type": 1,
+            "w": 1436
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152670907,
+            "node1": 141576,
+            "node2": 45296,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1152670887,
+            "node1": 141576,
+            "node2": 105269,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:24.986006",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "marbre",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004482"
+    }
+}

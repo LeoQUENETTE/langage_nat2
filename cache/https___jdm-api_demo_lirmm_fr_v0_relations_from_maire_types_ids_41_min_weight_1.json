@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4761
+        },
+        {
+            "id": 133314,
+            "name": "mairie",
+            "type": 1,
+            "w": 2749
+        },
+        {
+            "id": 87222,
+            "name": "avenue",
+            "type": 1,
+            "w": 1625
+        }
+    ],
+    "relations": [
+        {
+            "id": 197563337,
+            "node1": 63462,
+            "node2": 87222,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14658633,
+            "node1": 63462,
+            "node2": 133314,
+            "type": 41,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:11.880425",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maire",
+        "#relations": 2,
+        "max_relation_weight": 34.0,
+        "#nodes": 3,
+        "duration": "0:00:00.009081"
+    }
+}

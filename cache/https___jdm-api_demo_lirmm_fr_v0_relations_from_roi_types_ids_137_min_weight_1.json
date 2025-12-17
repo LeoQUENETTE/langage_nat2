@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 128369,
+            "name": "proclamation",
+            "type": 1,
+            "w": 224
+        },
+        {
+            "id": 139655,
+            "name": "roi",
+            "type": 1,
+            "w": 12579
+        },
+        {
+            "id": 136407,
+            "name": "couronnement",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 22758,
+            "name": "règne",
+            "type": 1,
+            "w": 4381
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150603781,
+            "node1": 139655,
+            "node2": 22758,
+            "type": 137,
+            "w": 91.0
+        },
+        {
+            "id": 1156942038,
+            "node1": 139655,
+            "node2": 128369,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1156941260,
+            "node1": 139655,
+            "node2": 136407,
+            "type": 137,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:38.116917",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "roi",
+        "#relations": 3,
+        "max_relation_weight": 91.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005888"
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 94650,
+            "name": "évier",
+            "type": 1,
+            "w": 877
+        },
+        {
+            "id": 271321097,
+            "name": "tâche de graisse",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 118790,
+            "name": "cuisinier",
+            "type": 1,
+            "w": 1349
+        },
+        {
+            "id": 73427,
+            "name": "odeur",
+            "type": 1,
+            "w": 4378
+        },
+        {
+            "id": 16033,
+            "name": "cuisine",
+            "type": 1,
+            "w": 16378
+        },
+        {
+            "id": 261353,
+            "name": "odeur de friture",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 7054137,
+            "name": "en:odor",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 321198,
+            "name": "odeur de graillon",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 202229,
+            "name": "intoxication alimentaire",
+            "type": 1,
+            "w": 268
+        }
+    ],
+    "relations": [
+        {
+            "id": 14642108,
+            "node1": 16033,
+            "node2": 73427,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 14658512,
+            "node1": 16033,
+            "node2": 94650,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14658635,
+            "node1": 16033,
+            "node2": 118790,
+            "type": 41,
+            "w": 65.0
+        },
+        {
+            "id": 1014104211,
+            "node1": 16033,
+            "node2": 202229,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14647501,
+            "node1": 16033,
+            "node2": 261353,
+            "type": 41,
+            "w": 37.0
+        },
+        {
+            "id": 14647482,
+            "node1": 16033,
+            "node2": 321198,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 220698698,
+            "node1": 16033,
+            "node2": 7054137,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 1077573652,
+            "node1": 16033,
+            "node2": 271321097,
+            "type": 41,
+            "w": 23.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:37.952645",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cuisine",
+        "#relations": 8,
+        "max_relation_weight": 65.0,
+        "#nodes": 9,
+        "duration": "0:00:00.016694"
+    }
+}

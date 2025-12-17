@@ -1,0 +1,51 @@
+{
+    "nodes": [
+        {
+            "id": 132817,
+            "name": "compositeur",
+            "type": 1,
+            "w": 3718,
+            "c": 0,
+            "level": 44.5189,
+            "infoid": null,
+            "creationdate": "2007-06-21",
+            "touchdate": "2025-12-16T18:41:52"
+        },
+        {
+            "id": 269561,
+            "name": "sans couleur",
+            "type": 1,
+            "w": 56,
+            "c": 0,
+            "level": 199.0,
+            "infoid": null,
+            "creationdate": "2013-07-23",
+            "touchdate": "2025-12-16T19:47:49"
+        }
+    ],
+    "relations": [],
+    "request": {
+        "types_ids": null,
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:54.808202",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "node1": "compositeur",
+        "node2": "sans couleur",
+        "#relations": 0,
+        "duration": "0:00:00.003328"
+    }
+}

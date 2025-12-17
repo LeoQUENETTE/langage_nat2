@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 92619,
+            "name": "réalisation",
+            "type": 1,
+            "w": 6749
+        },
+        {
+            "id": 49781,
+            "name": "mise en oeuvre",
+            "type": 1,
+            "w": 713
+        },
+        {
+            "id": 40873,
+            "name": "projet",
+            "type": 1,
+            "w": 23962
+        },
+        {
+            "id": 33701,
+            "name": "soutien",
+            "type": 1,
+            "w": 21483
+        },
+        {
+            "id": 129281,
+            "name": "évaluation",
+            "type": 1,
+            "w": 23388
+        },
+        {
+            "id": 48981,
+            "name": "présentation",
+            "type": 1,
+            "w": 4263
+        }
+    ],
+    "relations": [
+        {
+            "id": 720644184,
+            "node1": 40873,
+            "node2": 33701,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 720644162,
+            "node1": 40873,
+            "node2": 48981,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 720644148,
+            "node1": 40873,
+            "node2": 49781,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150604269,
+            "node1": 40873,
+            "node2": 92619,
+            "type": 138,
+            "w": 73.0
+        },
+        {
+            "id": 1150604230,
+            "node1": 40873,
+            "node2": 129281,
+            "type": 138,
+            "w": 75.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:37.270866",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "projet",
+        "#relations": 5,
+        "max_relation_weight": 75.0,
+        "#nodes": 6,
+        "duration": "0:00:00.006200"
+    }
+}

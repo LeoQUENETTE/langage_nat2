@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 143981,
+            "name": "rideau",
+            "type": 1,
+            "w": 1481
+        },
+        {
+            "id": 7368817,
+            "name": "en:rayon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 38473,
+            "name": "rayonne",
+            "type": 1,
+            "w": 66
+        }
+    ],
+    "relations": [
+        {
+            "id": 765133847,
+            "node1": 143981,
+            "node2": 38473,
+            "type": 80,
+            "w": 26.0
+        },
+        {
+            "id": 765134774,
+            "node1": 143981,
+            "node2": 7368817,
+            "type": 80,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:16.949971",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "rideau",
+        "#relations": 2,
+        "max_relation_weight": 26.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003477"
+    }
+}

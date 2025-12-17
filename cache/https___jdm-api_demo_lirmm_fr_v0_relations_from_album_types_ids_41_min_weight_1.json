@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 106639,
+            "name": "Milou",
+            "type": 1,
+            "w": 941
+        },
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5529
+        },
+        {
+            "id": 131314,
+            "name": "tournée",
+            "type": 1,
+            "w": 3613
+        }
+    ],
+    "relations": [
+        {
+            "id": 14650658,
+            "node1": 113672,
+            "node2": 106639,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 1028354152,
+            "node1": 113672,
+            "node2": 131314,
+            "type": 41,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:42.960317",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "album",
+        "#relations": 2,
+        "max_relation_weight": 31.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005455"
+    }
+}

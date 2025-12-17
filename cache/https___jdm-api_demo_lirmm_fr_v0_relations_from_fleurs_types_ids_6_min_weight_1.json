@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 117533,
+            "name": "fleurs",
+            "type": 1,
+            "w": 4178
+        },
+        {
+            "id": 2239086,
+            "name": "pantes",
+            "type": 2,
+            "w": 2
+        },
+        {
+            "id": 152168,
+            "name": "êtres vivants",
+            "type": 1,
+            "w": 404
+        },
+        {
+            "id": 107962236,
+            "name": "Êtres vivants",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 51057,
+            "name": "êtres",
+            "type": 1,
+            "w": 2955
+        }
+    ],
+    "relations": [
+        {
+            "id": 545098299,
+            "node1": 117533,
+            "node2": 51057,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 274742401,
+            "node1": 117533,
+            "node2": 152168,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 603086439,
+            "node1": 117533,
+            "node2": 2239086,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 705886447,
+            "node1": 117533,
+            "node2": 107962236,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:45:05.948528",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleurs",
+        "#relations": 4,
+        "max_relation_weight": 55.0,
+        "#nodes": 5,
+        "duration": "0:00:00.028722"
+    }
+}

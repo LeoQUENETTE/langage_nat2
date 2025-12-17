@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 70206,
+            "name": "cahier",
+            "type": 1,
+            "w": 1411
+        },
+        {
+            "id": 37993,
+            "name": "feuille",
+            "type": 1,
+            "w": 5452
+        },
+        {
+            "id": 49928,
+            "name": "couverture",
+            "type": 1,
+            "w": 3238
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4879
+        },
+        {
+            "id": 56608,
+            "name": "page",
+            "type": 1,
+            "w": 7564
+        },
+        {
+            "id": 153479,
+            "name": "pages",
+            "type": 1,
+            "w": 3980
+        },
+        {
+            "id": 103389,
+            "name": "papier",
+            "type": 1,
+            "w": 7590
+        },
+        {
+            "id": 121687,
+            "name": "feuilles",
+            "type": 1,
+            "w": 5760
+        },
+        {
+            "id": 93523,
+            "name": "reliure",
+            "type": 1,
+            "w": 214
+        },
+        {
+            "id": 30321,
+            "name": "figure",
+            "type": 1,
+            "w": 9674
+        },
+        {
+            "id": 102360,
+            "name": "liste",
+            "type": 1,
+            "w": 9790
+        },
+        {
+            "id": 218065,
+            "name": "papier>155546",
+            "type": 1,
+            "w": 96
+        }
+    ],
+    "relations": [
+        {
+            "id": 10529191,
+            "node1": 70206,
+            "node2": 30321,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 10531336,
+            "node1": 70206,
+            "node2": 37993,
+            "type": 9,
+            "w": 139.0
+        },
+        {
+            "id": 1143719772,
+            "node1": 70206,
+            "node2": 49928,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 10530813,
+            "node1": 70206,
+            "node2": 56608,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 103281241,
+            "node1": 70206,
+            "node2": 93523,
+            "type": 9,
+            "w": 146.0
+        },
+        {
+            "id": 10528525,
+            "node1": 70206,
+            "node2": 98596,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 10528923,
+            "node1": 70206,
+            "node2": 102360,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 98431472,
+            "node1": 70206,
+            "node2": 103389,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 961890352,
+            "node1": 70206,
+            "node2": 121687,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 779715506,
+            "node1": 70206,
+            "node2": 153479,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 10533054,
+            "node1": 70206,
+            "node2": 218065,
+            "type": 9,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:47.767033",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cahier",
+        "#relations": 11,
+        "max_relation_weight": 146.0,
+        "#nodes": 12,
+        "duration": "0:00:00.008036"
+    }
+}

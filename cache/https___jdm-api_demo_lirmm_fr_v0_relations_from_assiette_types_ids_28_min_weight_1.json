@@ -1,0 +1,4928 @@
+{
+    "nodes": [
+        {
+            "id": 64369,
+            "name": "ébréchure",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 273798,
+            "name": "Poire belle Hélène",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 1963376,
+            "name": "togosh",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 3367048,
+            "name": "poireaux à la grecque",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3369554,
+            "name": "soupe 3c - courge, carotte, coco",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3369633,
+            "name": "soupe chinoise à ma façon",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 3371180,
+            "name": "tendron de veau à l'étouffée aux oignons",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3371298,
+            "name": "terrine de saint-jacques au poivre vert",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5619990,
+            "name": "thon mayonnaise",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 5804423,
+            "name": "Gentleman's Relish",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 5804424,
+            "name": "Patum Peperium",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 299587214,
+            "name": "Gratin Dauphinois",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7030637,
+            "name": "en:vegetables",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 261649,
+            "name": "lasagnes bolognaise",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 67179,
+            "name": "morue",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 14940528,
+            "name": "en:goulash",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14927359,
+            "name": "en:breadcrumb",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15195517,
+            "name": "le foie gras",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 306094615,
+            "name": "poire Belle Hélène",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15333068,
+            "name": "en:bread crumbs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14938749,
+            "name": "en:foie gras",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15425550,
+            "name": "en:duck's liver",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 77503,
+            "name": "merguez",
+            "type": 1,
+            "w": 243
+        },
+        {
+            "id": 35814,
+            "name": "couscous",
+            "type": 1,
+            "w": 249
+        },
+        {
+            "id": 10965447,
+            "name": "phad thai",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 252333,
+            "name": "bouillon de légumes",
+            "type": 1,
+            "w": 41
+        },
+        {
+            "id": 22311,
+            "name": "litchi",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 589506,
+            "name": "mille-feuille>146881",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105671491,
+            "name": "Galette de pommes de terre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 239990,
+            "name": "burrito",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 15255963,
+            "name": "le fruit rouge",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15491429,
+            "name": "en:great beanpole",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 275493,
+            "name": "Sauce piquante",
+            "type": 777,
+            "w": 51
+        },
+        {
+            "id": 130831,
+            "name": "camembert",
+            "type": 1,
+            "w": 518
+        },
+        {
+            "id": 246752,
+            "name": "fromage à raclette",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 146033,
+            "name": "poire",
+            "type": 1,
+            "w": 1080
+        },
+        {
+            "id": 15104721,
+            "name": "en:potato pancake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 155985,
+            "name": "riz cantonais",
+            "type": 1,
+            "w": 178
+        },
+        {
+            "id": 183710653,
+            "name": "Chou palmiste",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 118502,
+            "name": "abricot",
+            "type": 1,
+            "w": 668
+        },
+        {
+            "id": 589308,
+            "name": "salade>16033>114839",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 228897,
+            "name": "viande bovine",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 15195959,
+            "name": "en:vegetable broth",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 88759,
+            "name": "escalope",
+            "type": 1,
+            "w": 272
+        },
+        {
+            "id": 3367098,
+            "name": "poisson sauce Dugléré",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16317190,
+            "name": "baie rouge",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15258288,
+            "name": "en:potato gratin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 98133,
+            "name": "brie",
+            "type": 1,
+            "w": 210
+        },
+        {
+            "id": 106607,
+            "name": "crevette",
+            "type": 1,
+            "w": 796
+        },
+        {
+            "id": 8515,
+            "name": "religieuse",
+            "type": 1,
+            "w": 3202
+        },
+        {
+            "id": 240505,
+            "name": "autruche>140100",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 252414,
+            "name": "pâtes à la bolognaise",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 9563213,
+            "name": "soupe chaude",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 14925435,
+            "name": "en:burrito",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 225400,
+            "name": "sauce piquante",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 218979,
+            "name": "sole>68467",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 117156,
+            "name": "cassoulet",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 332533,
+            "name": "poisson en papillote",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 260107,
+            "name": "purée de pommes de terre",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 129645,
+            "name": "andouillette",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 47417,
+            "name": "boeuf",
+            "type": 1,
+            "w": 1688
+        },
+        {
+            "id": 22138,
+            "name": "tomate",
+            "type": 1,
+            "w": 1210
+        },
+        {
+            "id": 15069095,
+            "name": "en:chili sauce",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 86556,
+            "name": "tapas",
+            "type": 1,
+            "w": 175
+        },
+        {
+            "id": 3228524,
+            "name": "aliment moyen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 252415,
+            "name": "fromage râpé",
+            "type": 1,
+            "w": 200
+        },
+        {
+            "id": 10788958,
+            "name": "Burrito",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3369572,
+            "name": "soupe asiatique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6910,
+            "name": "coque",
+            "type": 1,
+            "w": 704
+        },
+        {
+            "id": 92178,
+            "name": "profiterole",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 222431,
+            "name": "soupe aux légumes",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 9563684,
+            "name": "préparation alimentaire froide",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1971942,
+            "name": "râpés",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15144550,
+            "name": "en:grated cheese",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 217334,
+            "name": "salade>16033",
+            "type": 1,
+            "w": 184
+        },
+        {
+            "id": 136559,
+            "name": "produit alimentaire",
+            "type": 1,
+            "w": 210
+        },
+        {
+            "id": 14940752,
+            "name": "en:gratin Dauphinois",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 232574,
+            "name": "poire belle hélène",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 167701687,
+            "name": "::>66:122956>24:167701682",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 14928167,
+            "name": "en:kohlrabi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3176085,
+            "name": "poire belle Hélène",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 114886,
+            "name": "haricot",
+            "type": 1,
+            "w": 436
+        },
+        {
+            "id": 38107,
+            "name": "gaufre",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 461110,
+            "name": "gaufre>146885",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 213809,
+            "name": "lapin>17559",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 189981,
+            "name": "ingrédient de cuisine",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 213841,
+            "name": "fourchette>152067",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 189998,
+            "name": "poisson fumé",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 15359203,
+            "name": "en:article of food",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 312132,
+            "name": "thon>68467>113902",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 14926575,
+            "name": "en:cassoulet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 158591,
+            "name": "pommes de terre",
+            "type": 1,
+            "w": 578
+        },
+        {
+            "id": 109533,
+            "name": "pizza",
+            "type": 1,
+            "w": 821
+        },
+        {
+            "id": 215088,
+            "name": "sardine>68467",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 215666,
+            "name": "carbonara",
+            "type": 1,
+            "w": 152
+        },
+        {
+            "id": 107499,
+            "name": "bavette",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 356512,
+            "name": "grand escogriffe",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 156014,
+            "name": "haricot vert",
+            "type": 1,
+            "w": 185
+        },
+        {
+            "id": 15046813,
+            "name": "en:green bean",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15103386,
+            "name": "en:french bean",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15248696,
+            "name": "haricot vert français",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156800520,
+            "name": "Aliment industriel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 103028,
+            "name": "coquillage",
+            "type": 1,
+            "w": 845
+        },
+        {
+            "id": 15195951,
+            "name": "en:garden-stuff",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15395748,
+            "name": "en:seafood product",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 293708954,
+            "name": "Chili con carne>36327",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15196706,
+            "name": "en:red berry",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 218003,
+            "name": "crêpe>16033",
+            "type": 1,
+            "w": 40
+        },
+        {
+            "id": 223866,
+            "name": "oeuf au bacon",
+            "type": 666,
+            "w": 54
+        },
+        {
+            "id": 2603413,
+            "name": "porc Orloff",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 73445,
+            "name": "chapelure",
+            "type": 1,
+            "w": 224
+        },
+        {
+            "id": 15226265,
+            "name": "chou rave",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14964890,
+            "name": "en:cherry tomato",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 88450,
+            "name": "goulasch",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 104703993,
+            "name": "Ingrédient de cuisine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57980,
+            "name": "jambon",
+            "type": 1,
+            "w": 1192
+        },
+        {
+            "id": 575,
+            "name": "tarte",
+            "type": 1,
+            "w": 1316
+        },
+        {
+            "id": 15195508,
+            "name": "en:hepar adiposum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143723,
+            "name": "moule",
+            "type": 1,
+            "w": 553
+        },
+        {
+            "id": 124455,
+            "name": "motif",
+            "type": 1,
+            "w": 3159
+        },
+        {
+            "id": 250192,
+            "name": "aliment contaminé",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 17186,
+            "name": "crêpe",
+            "type": 1,
+            "w": 291
+        },
+        {
+            "id": 17974,
+            "name": "oursin",
+            "type": 1,
+            "w": 177
+        },
+        {
+            "id": 5295,
+            "name": "compote",
+            "type": 1,
+            "w": 308
+        },
+        {
+            "id": 214434,
+            "name": "plat>20965",
+            "type": 1,
+            "w": 914
+        },
+        {
+            "id": 15414662,
+            "name": "en:fishstick",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 258997,
+            "name": "bâtonnet de poisson",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15361007,
+            "name": "en:fish finger",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134670,
+            "name": "fourchette",
+            "type": 1,
+            "w": 1732
+        },
+        {
+            "id": 120576,
+            "name": "mozzarella",
+            "type": 1,
+            "w": 184
+        },
+        {
+            "id": 87286,
+            "name": "fruit",
+            "type": 1,
+            "w": 8728
+        },
+        {
+            "id": 36378,
+            "name": "laissé",
+            "type": 1,
+            "w": 2954
+        },
+        {
+            "id": 22316,
+            "name": "pris",
+            "type": 1,
+            "w": 3716
+        },
+        {
+            "id": 38557,
+            "name": "dessert",
+            "type": 1,
+            "w": 4297
+        },
+        {
+            "id": 227592,
+            "name": "soupe>74736",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 227591,
+            "name": "soupe>93138",
+            "type": 1,
+            "w": 234
+        },
+        {
+            "id": 152031,
+            "name": "foie gras",
+            "type": 1,
+            "w": 513
+        },
+        {
+            "id": 672546,
+            "name": "allergène>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234904,
+            "name": "nasi goreng",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 163988,
+            "name": "crème fraîche",
+            "type": 1,
+            "w": 226
+        },
+        {
+            "id": 123307,
+            "name": "oignon",
+            "type": 1,
+            "w": 687
+        },
+        {
+            "id": 2609010,
+            "name": "merveilleux>2149",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 237177,
+            "name": "panse de brebis farcie",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 118908,
+            "name": "salade",
+            "type": 1,
+            "w": 1586
+        },
+        {
+            "id": 252445,
+            "name": "spaghettis bolognaise",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 1346,
+            "name": "décoration",
+            "type": 1,
+            "w": 2176
+        },
+        {
+            "id": 147662,
+            "name": "décorations",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 30910,
+            "name": "noix",
+            "type": 1,
+            "w": 1636
+        },
+        {
+            "id": 93528,
+            "name": "raisin",
+            "type": 1,
+            "w": 1415
+        },
+        {
+            "id": 15285907,
+            "name": "en:today's special",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420117,
+            "name": "en:dish of the day",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 26883016,
+            "name": "en:daily special",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 114839,
+            "name": "mets",
+            "type": 1,
+            "w": 2762
+        },
+        {
+            "id": 36327,
+            "name": "plat",
+            "type": 1,
+            "w": 5034
+        },
+        {
+            "id": 19654,
+            "name": "bar",
+            "type": 1,
+            "w": 2929
+        },
+        {
+            "id": 70493,
+            "name": "volaille",
+            "type": 1,
+            "w": 1489
+        },
+        {
+            "id": 140100,
+            "name": "viande",
+            "type": 1,
+            "w": 7063
+        },
+        {
+            "id": 116175,
+            "name": "oeuf",
+            "type": 1,
+            "w": 3267
+        },
+        {
+            "id": 225524,
+            "name": "entrée>74736",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 219719,
+            "name": "oignon>153580",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 134987,
+            "name": "mille-feuille",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 225605,
+            "name": "foie>20965",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 177321,
+            "name": "préparation culinaire",
+            "type": 1,
+            "w": 618
+        },
+        {
+            "id": 20965,
+            "name": "nourriture",
+            "type": 1,
+            "w": 6970
+        },
+        {
+            "id": 141687,
+            "name": "fromage",
+            "type": 1,
+            "w": 4864
+        },
+        {
+            "id": 86754,
+            "name": "thon",
+            "type": 1,
+            "w": 691
+        },
+        {
+            "id": 7251423,
+            "name": "en:food product",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105995,
+            "name": "légumes",
+            "type": 1,
+            "w": 2428
+        },
+        {
+            "id": 120603,
+            "name": "légume",
+            "type": 1,
+            "w": 3161
+        },
+        {
+            "id": 51905,
+            "name": "cuillère",
+            "type": 1,
+            "w": 1535
+        },
+        {
+            "id": 115155,
+            "name": "foie",
+            "type": 1,
+            "w": 1652
+        },
+        {
+            "id": 142350,
+            "name": "meringue",
+            "type": 1,
+            "w": 413
+        },
+        {
+            "id": 61283,
+            "name": "pain",
+            "type": 1,
+            "w": 5784
+        },
+        {
+            "id": 68467,
+            "name": "poisson",
+            "type": 1,
+            "w": 8304
+        },
+        {
+            "id": 2149,
+            "name": "gâteau",
+            "type": 1,
+            "w": 4462
+        },
+        {
+            "id": 261638,
+            "name": "lasagnes à la bolognaise",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 119128,
+            "name": "jardinière",
+            "type": 1,
+            "w": 210
+        },
+        {
+            "id": 58876,
+            "name": "cuisse",
+            "type": 1,
+            "w": 866
+        },
+        {
+            "id": 167701688,
+            "name": "::>66:167701687>15:62735",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 20164,
+            "name": "lapin",
+            "type": 1,
+            "w": 1528
+        },
+        {
+            "id": 114637,
+            "name": "aliment",
+            "type": 1,
+            "w": 2447
+        },
+        {
+            "id": 110153,
+            "name": "sole",
+            "type": 1,
+            "w": 225
+        },
+        {
+            "id": 25966,
+            "name": "pâtisserie",
+            "type": 1,
+            "w": 3462
+        },
+        {
+            "id": 9563683,
+            "name": "préparation alimentaire chaude",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14259068,
+            "name": "préparation alimentaire traditionnelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 266304,
+            "name": "crème fraîche épaisse",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 14930969,
+            "name": "en:crème fraîche",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 43921,
+            "name": "andouille",
+            "type": 1,
+            "w": 178
+        },
+        {
+            "id": 15250133,
+            "name": "en:fried fish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123456998,
+            "name": "Poisson frit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 127629,
+            "name": "farine",
+            "type": 1,
+            "w": 2628
+        },
+        {
+            "id": 8061361,
+            "name": "en:chili con carne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15136376,
+            "name": "en:double cream",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14964892,
+            "name": "en:stuffed tomatoes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 450369306,
+            "name": "::>66:4455>24:16321859",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 15333397,
+            "name": "en:shredded cheese",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15268266,
+            "name": "en:grated cheeses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14941544,
+            "name": "en:French bean",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 169032801,
+            "name": "pad tha&iuml",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15203200,
+            "name": "en:lemon pie",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 152937,
+            "name": "tarte aux fraises",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 261737,
+            "name": "tarte à la fraise",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15316173,
+            "name": "en:strawberry pie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15567767,
+            "name": "barquette aux fraises",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15250136,
+            "name": "en:fried fish in batter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15103882,
+            "name": "en:mozzarella",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32484917,
+            "name": "palmier comestible",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12674,
+            "name": "chou-palmiste",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14928163,
+            "name": "en:heart of palm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14928165,
+            "name": "en:palm heart",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15046121,
+            "name": "en:Japanese plum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14928164,
+            "name": "en:palm cabbage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 417614,
+            "name": "mozza",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 152933,
+            "name": "poisson frit",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 214274,
+            "name": "coeur de palmier",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 216946,
+            "name": "couscous>16033",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 155667,
+            "name": "poisson pané",
+            "type": 1,
+            "w": 168
+        },
+        {
+            "id": 9101917,
+            "name": "poisson sauce dugléré",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15269570,
+            "name": "en:smoked fish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15342251,
+            "name": "en:fish cooked in tinfoil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15139627,
+            "name": "en:fish stick",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15291522,
+            "name": "en:breaded fish",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 115796,
+            "name": "pâtes",
+            "type": 1,
+            "w": 638
+        },
+        {
+            "id": 2603412,
+            "name": "porc orloff",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15058237,
+            "name": "en:stone fruit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951,
+            "name": "zézette",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 589320,
+            "name": "salade>16033>114839>163725",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 219392,
+            "name": "spaghetti à la bolognaise",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 450368753,
+            "name": "::>66:70072>24:450368748",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 15198337,
+            "name": "produit d'alimentation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 197543,
+            "name": "chili con carne",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 228602,
+            "name": "aliment industriel",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 3762435,
+            "name": "ingrédient de recette de cuisine",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 3361,
+            "name": "saumon",
+            "type": 1,
+            "w": 531
+        },
+        {
+            "id": 252416,
+            "name": "gruyère râpé",
+            "type": 1,
+            "w": 124
+        },
+        {
+            "id": 93263,
+            "name": "décapode",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 15248008,
+            "name": "en:Dauphine potatoes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 4332566,
+            "name": "miam aux fruits",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 44078,
+            "name": "drupe",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 241380,
+            "name": "cuillère>121002",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 34857,
+            "name": "mulard",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 47173,
+            "name": "décalcomanie",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 160745,
+            "name": "soupe de légumes",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 170257,
+            "name": "chou palmiste",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 184147,
+            "name": "rouleau de printemps",
+            "type": 1,
+            "w": 176
+        },
+        {
+            "id": 214126,
+            "name": "thon>68467",
+            "type": 1,
+            "w": 270
+        },
+        {
+            "id": 60863,
+            "name": "goulache",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 153658,
+            "name": "poulet rôti",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 189989,
+            "name": "fruit à noyau",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 71439,
+            "name": "tartelette",
+            "type": 1,
+            "w": 184
+        },
+        {
+            "id": 214172,
+            "name": "galette de pommes de terre",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 218941,
+            "name": "poisson>20965",
+            "type": 1,
+            "w": 392
+        },
+        {
+            "id": 214180,
+            "name": "tablier de sapeur",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 216400,
+            "name": "religieuse>2149",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 226613,
+            "name": "mille-feuille>16033",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 232980,
+            "name": "oeuf poché",
+            "type": 1,
+            "w": 97
+        },
+        {
+            "id": 151940,
+            "name": "tomate cerise",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 228677,
+            "name": "tomate>120603",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 240894,
+            "name": "volaille>16033",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 243952,
+            "name": "sauce chili",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 251436,
+            "name": "viande dure",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 260118,
+            "name": "gratin de pommes de terre",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 303010,
+            "name": "mozzarelle",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 320857,
+            "name": "pris>110859",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 146261,
+            "name": "poulet",
+            "type": 1,
+            "w": 2158
+        },
+        {
+            "id": 357214,
+            "name": "gâteau maison",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 117152,
+            "name": "soupe",
+            "type": 1,
+            "w": 2193
+        },
+        {
+            "id": 589505,
+            "name": "mille-feuille>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1372780,
+            "name": "oignon>153580>16033",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 1660297,
+            "name": "tomates farcies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 258954,
+            "name": "poisson comestible",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 1951573,
+            "name": "pris>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1971256,
+            "name": "escalopes de poulet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7030707,
+            "name": "en:string bean",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123343406,
+            "name": "Haricot vert",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213387,
+            "name": "saumon>68467",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 223421,
+            "name": "jardinière>16033",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 224314,
+            "name": "litchi>87286",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 152432,
+            "name": "steack",
+            "type": 1,
+            "w": 162
+        },
+        {
+            "id": 3370155,
+            "name": "tambouille de potimarron, boulghour et chèvre aux épices douces",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3753969,
+            "name": "bloc de foie gras",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 4333482,
+            "name": "miam-Ô-fruits",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13260,
+            "name": "sel",
+            "type": 1,
+            "w": 3119
+        },
+        {
+            "id": 6595671,
+            "name": "plat roboratif",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 7123636,
+            "name": "en:seafood",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 30812,
+            "name": "sardine",
+            "type": 1,
+            "w": 317
+        },
+        {
+            "id": 62735,
+            "name": "assiette",
+            "type": 1,
+            "w": 2363
+        },
+        {
+            "id": 7030648,
+            "name": "en:beef",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 121054,
+            "name": "aphrodisiaque",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 72424,
+            "name": "chou-rave",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 132757,
+            "name": "pomme de terre",
+            "type": 1,
+            "w": 1504
+        },
+        {
+            "id": 141110,
+            "name": "sauce",
+            "type": 1,
+            "w": 1714
+        },
+        {
+            "id": 8052246,
+            "name": "en:egg fried rice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146144,
+            "name": "tasse",
+            "type": 1,
+            "w": 1179
+        },
+        {
+            "id": 155603,
+            "name": "crêpes",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 8936199,
+            "name": "en:poached egg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213782,
+            "name": "tarte>177321",
+            "type": 1,
+            "w": 240
+        },
+        {
+            "id": 311009,
+            "name": "produit de la mer",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 105911435,
+            "name": "Foie gras",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 160927,
+            "name": "morceau de viande",
+            "type": 1,
+            "w": 171
+        },
+        {
+            "id": 15284483,
+            "name": "en:spaghetti bolognese",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16771757,
+            "name": "spaghettis bolognaises",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15284484,
+            "name": "en:spag bol",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14928905,
+            "name": "cœur de palmier",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14930968,
+            "name": "en:creme fraiche",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14934211,
+            "name": "en:drupe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15047009,
+            "name": "en:cabbage tree",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15078789,
+            "name": "en:vegetable soup",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15134802,
+            "name": "en:fried rice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15195950,
+            "name": "en:gardenstuff",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15228048,
+            "name": "potage aux légumes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15258287,
+            "name": "gratin Dauphinois",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15275988,
+            "name": "en:crème fraiche",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15316166,
+            "name": "une barquette aux fraises",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15316167,
+            "name": "en:a strawberry tart",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15316172,
+            "name": "en:strawberry tart",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15356420,
+            "name": "en:tartlet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15450739,
+            "name": "en:dauphinoise potatoes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15450738,
+            "name": "en:gratin dauphinois",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15450740,
+            "name": "en:potatoes dauphinoises",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15457830,
+            "name": "en:chilli con carne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15457831,
+            "name": "en:chile con carne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143291863,
+            "name": "Fruit de mer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2352224,
+            "name": "veau orloff",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16784423,
+            "name": "en:Hungarian stew",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16784422,
+            "name": "Goulash",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 16794388,
+            "name": "en:tartiflette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32484918,
+            "name": "cordyline australe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 96082301,
+            "name": "laissé>14558106",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104863807,
+            "name": "Riz cantonais",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123037944,
+            "name": "Fromage râpé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156800531,
+            "name": "Poisson fumé",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 159422624,
+            "name": "Nasi goreng",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 199660305,
+            "name": "Plat du jour",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 210912050,
+            "name": "Fruit rouge",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213676098,
+            "name": "Gratin dauphinois",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213933937,
+            "name": "Tomate cerise",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 316977,
+            "name": "crustacé décapode",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 101961645,
+            "name": "Viande bovine",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 143123,
+            "name": "tranche",
+            "type": 1,
+            "w": 932
+        },
+        {
+            "id": 177324,
+            "name": "tartiflette",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 191722,
+            "name": "steak haché",
+            "type": 1,
+            "w": 257
+        },
+        {
+            "id": 15316094,
+            "name": "en:hot sauce",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 237518246,
+            "name": "Sauce chili",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 226266,
+            "name": "kébab",
+            "type": 1,
+            "w": 22
+        },
+        {
+            "id": 225762,
+            "name": "fruit>3674",
+            "type": 1,
+            "w": 593
+        },
+        {
+            "id": 249297417,
+            "name": "Préparation culinaire",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 24758,
+            "name": "autruche",
+            "type": 1,
+            "w": 241
+        },
+        {
+            "id": 595072,
+            "name": "crêpe>146881",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 55572,
+            "name": "steak",
+            "type": 1,
+            "w": 768
+        },
+        {
+            "id": 155805,
+            "name": "fraise des bois",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 177326,
+            "name": "gratin dauphinois",
+            "type": 1,
+            "w": 45
+        },
+        {
+            "id": 14724702,
+            "name": "lentilles>85014",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 73114,
+            "name": "fruit de mer",
+            "type": 1,
+            "w": 323
+        },
+        {
+            "id": 151599,
+            "name": "tarte au citron",
+            "type": 1,
+            "w": 178
+        },
+        {
+            "id": 15199021,
+            "name": "en:fish sticks",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15291523,
+            "name": "en:fish in breadcrumbs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15298177,
+            "name": "du poisson pané",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8849876,
+            "name": "en:fish fingers",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15199020,
+            "name": "bâtonnets de poisson",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15298178,
+            "name": "bâtonnets de poisson pané",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14605332,
+            "name": "bâtonnet de poisson pané",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8125649,
+            "name": "en:pizza",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 223507,
+            "name": "carbo",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 156096,
+            "name": "riz cantonnais",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 15422529,
+            "name": "œuf poché",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234618,
+            "name": "pad thaï",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 3365150,
+            "name": "pad thai",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 287820,
+            "name": "phad thaï",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 228312,
+            "name": "pommes dauphine",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 264464,
+            "name": "veau Orloff",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 99693,
+            "name": "pitance",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 214638,
+            "name": "motif>98596",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 248377,
+            "name": "plat du jour",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 158761,
+            "name": "fruit rouge",
+            "type": 1,
+            "w": 293
+        },
+        {
+            "id": 180826164,
+            "name": "hot sauce",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213641704,
+            "name": "Tartiflette",
+            "type": 1,
+            "w": 33
+        }
+    ],
+    "relations": [
+        {
+            "id": 11346562,
+            "node1": 62735,
+            "node2": 575,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 3156097,
+            "node1": 62735,
+            "node2": 1346,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11338709,
+            "node1": 62735,
+            "node2": 2149,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104941698,
+            "node1": 62735,
+            "node2": 3361,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 11337347,
+            "node1": 62735,
+            "node2": 5295,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11328656,
+            "node1": 62735,
+            "node2": 6910,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 104939069,
+            "node1": 62735,
+            "node2": 8515,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 578607227,
+            "node1": 62735,
+            "node2": 12674,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 588329870,
+            "node1": 62735,
+            "node2": 13260,
+            "type": 28,
+            "w": 33.0
+        },
+        {
+            "id": 24758222,
+            "node1": 62735,
+            "node2": 14951,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11336294,
+            "node1": 62735,
+            "node2": 17186,
+            "type": 28,
+            "w": 48.0
+        },
+        {
+            "id": 11333149,
+            "node1": 62735,
+            "node2": 17974,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 13099548,
+            "node1": 62735,
+            "node2": 19654,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 104941205,
+            "node1": 62735,
+            "node2": 20164,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1834811,
+            "node1": 62735,
+            "node2": 20965,
+            "type": 28,
+            "w": 101.0
+        },
+        {
+            "id": 11333959,
+            "node1": 62735,
+            "node2": 22138,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104939204,
+            "node1": 62735,
+            "node2": 22311,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 633205289,
+            "node1": 62735,
+            "node2": 22316,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 11334238,
+            "node1": 62735,
+            "node2": 24758,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 24372330,
+            "node1": 62735,
+            "node2": 25966,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 104927510,
+            "node1": 62735,
+            "node2": 30812,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 13099955,
+            "node1": 62735,
+            "node2": 30910,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 11336705,
+            "node1": 62735,
+            "node2": 34857,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104939059,
+            "node1": 62735,
+            "node2": 35814,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 2358342,
+            "node1": 62735,
+            "node2": 36327,
+            "type": 28,
+            "w": 110.0
+        },
+        {
+            "id": 538802405,
+            "node1": 62735,
+            "node2": 36378,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 11334290,
+            "node1": 62735,
+            "node2": 38107,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 3152742,
+            "node1": 62735,
+            "node2": 38557,
+            "type": 28,
+            "w": 91.0
+        },
+        {
+            "id": 11316865,
+            "node1": 62735,
+            "node2": 43921,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 485364374,
+            "node1": 62735,
+            "node2": 44078,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 2215184,
+            "node1": 62735,
+            "node2": 47173,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 11338847,
+            "node1": 62735,
+            "node2": 47417,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11344088,
+            "node1": 62735,
+            "node2": 51905,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11337194,
+            "node1": 62735,
+            "node2": 55572,
+            "type": 28,
+            "w": 69.0
+        },
+        {
+            "id": 1038917731,
+            "node1": 62735,
+            "node2": 57980,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11310968,
+            "node1": 62735,
+            "node2": 58876,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11333261,
+            "node1": 62735,
+            "node2": 60863,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11333869,
+            "node1": 62735,
+            "node2": 61283,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 2140939,
+            "node1": 62735,
+            "node2": 64369,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 12001840,
+            "node1": 62735,
+            "node2": 67179,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 97130099,
+            "node1": 62735,
+            "node2": 68467,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 104941297,
+            "node1": 62735,
+            "node2": 70493,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11336192,
+            "node1": 62735,
+            "node2": 71439,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 12328284,
+            "node1": 62735,
+            "node2": 72424,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 11328735,
+            "node1": 62735,
+            "node2": 73114,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 57936411,
+            "node1": 62735,
+            "node2": 73445,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1037314429,
+            "node1": 62735,
+            "node2": 77503,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 3191132,
+            "node1": 62735,
+            "node2": 86556,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 104936781,
+            "node1": 62735,
+            "node2": 86754,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104941757,
+            "node1": 62735,
+            "node2": 87286,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 721186646,
+            "node1": 62735,
+            "node2": 88450,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1149673925,
+            "node1": 62735,
+            "node2": 88759,
+            "type": 28,
+            "w": 80.0
+        },
+        {
+            "id": 11316815,
+            "node1": 62735,
+            "node2": 92178,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11312099,
+            "node1": 62735,
+            "node2": 93263,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11339852,
+            "node1": 62735,
+            "node2": 93528,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11336473,
+            "node1": 62735,
+            "node2": 98133,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 3191133,
+            "node1": 62735,
+            "node2": 99693,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 11315949,
+            "node1": 62735,
+            "node2": 103028,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 2358341,
+            "node1": 62735,
+            "node2": 105995,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 11343547,
+            "node1": 62735,
+            "node2": 106607,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 378734168,
+            "node1": 62735,
+            "node2": 107499,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 24494500,
+            "node1": 62735,
+            "node2": 109533,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 104941552,
+            "node1": 62735,
+            "node2": 110153,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11340375,
+            "node1": 62735,
+            "node2": 114637,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 1144161284,
+            "node1": 62735,
+            "node2": 114839,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313643,
+            "node1": 62735,
+            "node2": 114886,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 289221352,
+            "node1": 62735,
+            "node2": 115155,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 937855055,
+            "node1": 62735,
+            "node2": 115796,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 11348728,
+            "node1": 62735,
+            "node2": 116175,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 2358343,
+            "node1": 62735,
+            "node2": 117152,
+            "type": 28,
+            "w": 118.0
+        },
+        {
+            "id": 11315839,
+            "node1": 62735,
+            "node2": 117156,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11327917,
+            "node1": 62735,
+            "node2": 118502,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104941091,
+            "node1": 62735,
+            "node2": 118908,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 104940357,
+            "node1": 62735,
+            "node2": 119128,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11331739,
+            "node1": 62735,
+            "node2": 120576,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11347817,
+            "node1": 62735,
+            "node2": 120603,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 766154539,
+            "node1": 62735,
+            "node2": 121054,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 104941136,
+            "node1": 62735,
+            "node2": 123307,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104937978,
+            "node1": 62735,
+            "node2": 124455,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 515250668,
+            "node1": 62735,
+            "node2": 127629,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 937855053,
+            "node1": 62735,
+            "node2": 129645,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 13098938,
+            "node1": 62735,
+            "node2": 130831,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 314699527,
+            "node1": 62735,
+            "node2": 132757,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11332369,
+            "node1": 62735,
+            "node2": 134670,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 104941651,
+            "node1": 62735,
+            "node2": 134987,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 23110751,
+            "node1": 62735,
+            "node2": 136559,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 1834810,
+            "node1": 62735,
+            "node2": 140100,
+            "type": 28,
+            "w": 105.0
+        },
+        {
+            "id": 31849246,
+            "node1": 62735,
+            "node2": 141110,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 11342681,
+            "node1": 62735,
+            "node2": 141687,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 34300931,
+            "node1": 62735,
+            "node2": 142350,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11332717,
+            "node1": 62735,
+            "node2": 143123,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11348824,
+            "node1": 62735,
+            "node2": 143723,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11341492,
+            "node1": 62735,
+            "node2": 146033,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 2051332,
+            "node1": 62735,
+            "node2": 146144,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11313566,
+            "node1": 62735,
+            "node2": 146261,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 2207669,
+            "node1": 62735,
+            "node2": 147662,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11336189,
+            "node1": 62735,
+            "node2": 151599,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 28442758,
+            "node1": 62735,
+            "node2": 151940,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11337869,
+            "node1": 62735,
+            "node2": 152031,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104919433,
+            "node1": 62735,
+            "node2": 152432,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 97130107,
+            "node1": 62735,
+            "node2": 152933,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 585212123,
+            "node1": 62735,
+            "node2": 152937,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 1037314434,
+            "node1": 62735,
+            "node2": 153658,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 11316631,
+            "node1": 62735,
+            "node2": 155603,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11333695,
+            "node1": 62735,
+            "node2": 155667,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 16459102,
+            "node1": 62735,
+            "node2": 155805,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 34657103,
+            "node1": 62735,
+            "node2": 155985,
+            "type": 28,
+            "w": 50.0
+        },
+        {
+            "id": 11333306,
+            "node1": 62735,
+            "node2": 156014,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11336117,
+            "node1": 62735,
+            "node2": 156096,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 375712348,
+            "node1": 62735,
+            "node2": 158591,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11328152,
+            "node1": 62735,
+            "node2": 158761,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11316080,
+            "node1": 62735,
+            "node2": 160745,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 24458843,
+            "node1": 62735,
+            "node2": 160927,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 19038125,
+            "node1": 62735,
+            "node2": 163988,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470979334,
+            "node1": 62735,
+            "node2": 170257,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 11327514,
+            "node1": 62735,
+            "node2": 177321,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 765139821,
+            "node1": 62735,
+            "node2": 177324,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 11335782,
+            "node1": 62735,
+            "node2": 177326,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11339071,
+            "node1": 62735,
+            "node2": 184147,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11327891,
+            "node1": 62735,
+            "node2": 189981,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11327900,
+            "node1": 62735,
+            "node2": 189989,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 28205537,
+            "node1": 62735,
+            "node2": 189998,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1046689020,
+            "node1": 62735,
+            "node2": 191722,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 11336428,
+            "node1": 62735,
+            "node2": 197543,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 13099566,
+            "node1": 62735,
+            "node2": 213387,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11328763,
+            "node1": 62735,
+            "node2": 213782,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11336711,
+            "node1": 62735,
+            "node2": 213809,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11333983,
+            "node1": 62735,
+            "node2": 213841,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104937719,
+            "node1": 62735,
+            "node2": 214126,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11309206,
+            "node1": 62735,
+            "node2": 214172,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11309126,
+            "node1": 62735,
+            "node2": 214180,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11325367,
+            "node1": 62735,
+            "node2": 214274,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 27694844,
+            "node1": 62735,
+            "node2": 214434,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 2074896,
+            "node1": 62735,
+            "node2": 214638,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 104935648,
+            "node1": 62735,
+            "node2": 215088,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11335885,
+            "node1": 62735,
+            "node2": 215666,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 24728460,
+            "node1": 62735,
+            "node2": 216400,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 31578531,
+            "node1": 62735,
+            "node2": 216946,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 104941414,
+            "node1": 62735,
+            "node2": 217334,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11336253,
+            "node1": 62735,
+            "node2": 218003,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11337093,
+            "node1": 62735,
+            "node2": 218941,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11327293,
+            "node1": 62735,
+            "node2": 218979,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313276,
+            "node1": 62735,
+            "node2": 219392,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104941254,
+            "node1": 62735,
+            "node2": 219719,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1054570783,
+            "node1": 62735,
+            "node2": 222431,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 76611819,
+            "node1": 62735,
+            "node2": 223421,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 13674314,
+            "node1": 62735,
+            "node2": 223507,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470975679,
+            "node1": 62735,
+            "node2": 223866,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11338478,
+            "node1": 62735,
+            "node2": 224314,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 12327323,
+            "node1": 62735,
+            "node2": 225400,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 1177185047,
+            "node1": 62735,
+            "node2": 225524,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 284014083,
+            "node1": 62735,
+            "node2": 225605,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11315791,
+            "node1": 62735,
+            "node2": 225762,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11332683,
+            "node1": 62735,
+            "node2": 226266,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11328987,
+            "node1": 62735,
+            "node2": 226613,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 375972685,
+            "node1": 62735,
+            "node2": 227591,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11334143,
+            "node1": 62735,
+            "node2": 227592,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 28472061,
+            "node1": 62735,
+            "node2": 228312,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 11311386,
+            "node1": 62735,
+            "node2": 228602,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11333956,
+            "node1": 62735,
+            "node2": 228677,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11329000,
+            "node1": 62735,
+            "node2": 228897,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11315501,
+            "node1": 62735,
+            "node2": 232574,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11336847,
+            "node1": 62735,
+            "node2": 232980,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11334169,
+            "node1": 62735,
+            "node2": 234618,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11336201,
+            "node1": 62735,
+            "node2": 234904,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11333590,
+            "node1": 62735,
+            "node2": 237177,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 97130116,
+            "node1": 62735,
+            "node2": 239990,
+            "type": 28,
+            "w": 24.0
+        },
+        {
+            "id": 11331583,
+            "node1": 62735,
+            "node2": 240505,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 76610812,
+            "node1": 62735,
+            "node2": 240894,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 11334566,
+            "node1": 62735,
+            "node2": 241380,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 474311812,
+            "node1": 62735,
+            "node2": 243952,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 97130117,
+            "node1": 62735,
+            "node2": 246752,
+            "type": 28,
+            "w": 24.0
+        },
+        {
+            "id": 3156098,
+            "node1": 62735,
+            "node2": 248377,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11329852,
+            "node1": 62735,
+            "node2": 250192,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11325599,
+            "node1": 62735,
+            "node2": 251436,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11316073,
+            "node1": 62735,
+            "node2": 252333,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313247,
+            "node1": 62735,
+            "node2": 252414,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313440,
+            "node1": 62735,
+            "node2": 252415,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313475,
+            "node1": 62735,
+            "node2": 252416,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313262,
+            "node1": 62735,
+            "node2": 252445,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11329427,
+            "node1": 62735,
+            "node2": 258954,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 470959587,
+            "node1": 62735,
+            "node2": 258997,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 1149677977,
+            "node1": 62735,
+            "node2": 260107,
+            "type": 28,
+            "w": 80.0
+        },
+        {
+            "id": 721187794,
+            "node1": 62735,
+            "node2": 260118,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11313289,
+            "node1": 62735,
+            "node2": 261638,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11313303,
+            "node1": 62735,
+            "node2": 261649,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11327529,
+            "node1": 62735,
+            "node2": 261737,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 58046463,
+            "node1": 62735,
+            "node2": 264464,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 492104194,
+            "node1": 62735,
+            "node2": 266304,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515234336,
+            "node1": 62735,
+            "node2": 273798,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 92604845,
+            "node1": 62735,
+            "node2": 275493,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 23018610,
+            "node1": 62735,
+            "node2": 287820,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 61456895,
+            "node1": 62735,
+            "node2": 303010,
+            "type": 28,
+            "w": 44.0
+        },
+        {
+            "id": 483265278,
+            "node1": 62735,
+            "node2": 311009,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 53175727,
+            "node1": 62735,
+            "node2": 312132,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 11312079,
+            "node1": 62735,
+            "node2": 316977,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 525323160,
+            "node1": 62735,
+            "node2": 320857,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 410012834,
+            "node1": 62735,
+            "node2": 332533,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515239936,
+            "node1": 62735,
+            "node2": 356512,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 24458857,
+            "node1": 62735,
+            "node2": 357214,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 50764006,
+            "node1": 62735,
+            "node2": 417614,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 605758555,
+            "node1": 62735,
+            "node2": 461110,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 18499800,
+            "node1": 62735,
+            "node2": 589308,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 18504542,
+            "node1": 62735,
+            "node2": 589320,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 104941657,
+            "node1": 62735,
+            "node2": 589505,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 605758606,
+            "node1": 62735,
+            "node2": 589506,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 104941817,
+            "node1": 62735,
+            "node2": 595072,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 76610702,
+            "node1": 62735,
+            "node2": 672546,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 23330922,
+            "node1": 62735,
+            "node2": 1372780,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 34391076,
+            "node1": 62735,
+            "node2": 1660297,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 633205457,
+            "node1": 62735,
+            "node2": 1951573,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 515250655,
+            "node1": 62735,
+            "node2": 1963376,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 31841745,
+            "node1": 62735,
+            "node2": 1971256,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 553301402,
+            "node1": 62735,
+            "node2": 1971942,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 58046452,
+            "node1": 62735,
+            "node2": 2352224,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 58046432,
+            "node1": 62735,
+            "node2": 2603412,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 58046488,
+            "node1": 62735,
+            "node2": 2603413,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 97130120,
+            "node1": 62735,
+            "node2": 2609010,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515233339,
+            "node1": 62735,
+            "node2": 3176085,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 78352144,
+            "node1": 62735,
+            "node2": 3228524,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 561136163,
+            "node1": 62735,
+            "node2": 3365150,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 515250667,
+            "node1": 62735,
+            "node2": 3367048,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 92613161,
+            "node1": 62735,
+            "node2": 3367098,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 515250664,
+            "node1": 62735,
+            "node2": 3369554,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 375736529,
+            "node1": 62735,
+            "node2": 3369572,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 515250666,
+            "node1": 62735,
+            "node2": 3369633,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515250662,
+            "node1": 62735,
+            "node2": 3370155,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 515250665,
+            "node1": 62735,
+            "node2": 3371180,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515250663,
+            "node1": 62735,
+            "node2": 3371298,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470983090,
+            "node1": 62735,
+            "node2": 3753969,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 568565870,
+            "node1": 62735,
+            "node2": 3762435,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 104936642,
+            "node1": 62735,
+            "node2": 4332566,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1047801373,
+            "node1": 62735,
+            "node2": 4333482,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 515250656,
+            "node1": 62735,
+            "node2": 5619990,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 515250657,
+            "node1": 62735,
+            "node2": 5804423,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515250658,
+            "node1": 62735,
+            "node2": 5804424,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 376025262,
+            "node1": 62735,
+            "node2": 6595671,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 308217458,
+            "node1": 62735,
+            "node2": 7030637,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 515238343,
+            "node1": 62735,
+            "node2": 7030648,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515239636,
+            "node1": 62735,
+            "node2": 7030707,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470982994,
+            "node1": 62735,
+            "node2": 7123636,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515249475,
+            "node1": 62735,
+            "node2": 7251423,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 474014315,
+            "node1": 62735,
+            "node2": 8052246,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 375975555,
+            "node1": 62735,
+            "node2": 8061361,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 289284015,
+            "node1": 62735,
+            "node2": 8125649,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515251649,
+            "node1": 62735,
+            "node2": 8849876,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 470969884,
+            "node1": 62735,
+            "node2": 8936199,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 380298185,
+            "node1": 62735,
+            "node2": 9101917,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 485364413,
+            "node1": 62735,
+            "node2": 9563213,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515250659,
+            "node1": 62735,
+            "node2": 9563683,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 515250660,
+            "node1": 62735,
+            "node2": 9563684,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 909816197,
+            "node1": 62735,
+            "node2": 10788958,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 561136177,
+            "node1": 62735,
+            "node2": 10965447,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 515250661,
+            "node1": 62735,
+            "node2": 14259068,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 721184994,
+            "node1": 62735,
+            "node2": 14605332,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 375712716,
+            "node1": 62735,
+            "node2": 14724702,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 623013390,
+            "node1": 62735,
+            "node2": 14925435,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 721180981,
+            "node1": 62735,
+            "node2": 14926575,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 738368397,
+            "node1": 62735,
+            "node2": 14927359,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 470979321,
+            "node1": 62735,
+            "node2": 14928163,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 470979346,
+            "node1": 62735,
+            "node2": 14928164,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470979311,
+            "node1": 62735,
+            "node2": 14928165,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515247399,
+            "node1": 62735,
+            "node2": 14928167,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 578606327,
+            "node1": 62735,
+            "node2": 14928905,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 738367572,
+            "node1": 62735,
+            "node2": 14930968,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 470968818,
+            "node1": 62735,
+            "node2": 14930969,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470961336,
+            "node1": 62735,
+            "node2": 14934211,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470969604,
+            "node1": 62735,
+            "node2": 14938749,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 721185234,
+            "node1": 62735,
+            "node2": 14940528,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721181774,
+            "node1": 62735,
+            "node2": 14940752,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470958098,
+            "node1": 62735,
+            "node2": 14941544,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 474014314,
+            "node1": 62735,
+            "node2": 14964890,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470993054,
+            "node1": 62735,
+            "node2": 14964892,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 776473169,
+            "node1": 62735,
+            "node2": 15046121,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 515237429,
+            "node1": 62735,
+            "node2": 15046813,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 515247753,
+            "node1": 62735,
+            "node2": 15047009,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470961313,
+            "node1": 62735,
+            "node2": 15058237,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 474311829,
+            "node1": 62735,
+            "node2": 15069095,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470993104,
+            "node1": 62735,
+            "node2": 15078789,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 515248439,
+            "node1": 62735,
+            "node2": 15103386,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470993152,
+            "node1": 62735,
+            "node2": 15103882,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1054572102,
+            "node1": 62735,
+            "node2": 15104721,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 515249455,
+            "node1": 62735,
+            "node2": 15134802,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 776473057,
+            "node1": 62735,
+            "node2": 15136376,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 496809882,
+            "node1": 62735,
+            "node2": 15139627,
+            "type": 28,
+            "w": 23.0
+        },
+        {
+            "id": 470963485,
+            "node1": 62735,
+            "node2": 15144550,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470969617,
+            "node1": 62735,
+            "node2": 15195508,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 824743496,
+            "node1": 62735,
+            "node2": 15195517,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 1054570637,
+            "node1": 62735,
+            "node2": 15195950,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054570715,
+            "node1": 62735,
+            "node2": 15195951,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 483265704,
+            "node1": 62735,
+            "node2": 15195959,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 470992833,
+            "node1": 62735,
+            "node2": 15196706,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470972174,
+            "node1": 62735,
+            "node2": 15198337,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515250720,
+            "node1": 62735,
+            "node2": 15199020,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470959841,
+            "node1": 62735,
+            "node2": 15199021,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470969073,
+            "node1": 62735,
+            "node2": 15203200,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515249915,
+            "node1": 62735,
+            "node2": 15226265,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515252366,
+            "node1": 62735,
+            "node2": 15228048,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470962802,
+            "node1": 62735,
+            "node2": 15248008,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 721176429,
+            "node1": 62735,
+            "node2": 15248696,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470959683,
+            "node1": 62735,
+            "node2": 15250133,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 937855767,
+            "node1": 62735,
+            "node2": 15250136,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 1054567982,
+            "node1": 62735,
+            "node2": 15255963,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 721185652,
+            "node1": 62735,
+            "node2": 15258287,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721187289,
+            "node1": 62735,
+            "node2": 15258288,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 553301379,
+            "node1": 62735,
+            "node2": 15268266,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470959783,
+            "node1": 62735,
+            "node2": 15269570,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515252036,
+            "node1": 62735,
+            "node2": 15275988,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470993086,
+            "node1": 62735,
+            "node2": 15284483,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 635065432,
+            "node1": 62735,
+            "node2": 15284484,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470983363,
+            "node1": 62735,
+            "node2": 15285907,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470959801,
+            "node1": 62735,
+            "node2": 15291522,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 470959821,
+            "node1": 62735,
+            "node2": 15291523,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 515250200,
+            "node1": 62735,
+            "node2": 15298177,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 515250238,
+            "node1": 62735,
+            "node2": 15298178,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 474311797,
+            "node1": 62735,
+            "node2": 15316094,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 721187752,
+            "node1": 62735,
+            "node2": 15316166,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 765139654,
+            "node1": 62735,
+            "node2": 15316167,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 721185415,
+            "node1": 62735,
+            "node2": 15316172,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470993199,
+            "node1": 62735,
+            "node2": 15316173,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 738354707,
+            "node1": 62735,
+            "node2": 15333068,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 635065008,
+            "node1": 62735,
+            "node2": 15333397,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470959847,
+            "node1": 62735,
+            "node2": 15342251,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 515242453,
+            "node1": 62735,
+            "node2": 15356420,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 738353206,
+            "node1": 62735,
+            "node2": 15359203,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 470959567,
+            "node1": 62735,
+            "node2": 15361007,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 1054578255,
+            "node1": 62735,
+            "node2": 15395748,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 470959619,
+            "node1": 62735,
+            "node2": 15414662,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 518738385,
+            "node1": 62735,
+            "node2": 15420117,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 1054570434,
+            "node1": 62735,
+            "node2": 15422529,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 470983079,
+            "node1": 62735,
+            "node2": 15425550,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 721176708,
+            "node1": 62735,
+            "node2": 15450738,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721176669,
+            "node1": 62735,
+            "node2": 15450739,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721176628,
+            "node1": 62735,
+            "node2": 15450740,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 492103906,
+            "node1": 62735,
+            "node2": 15457830,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 492103911,
+            "node1": 62735,
+            "node2": 15457831,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1054565792,
+            "node1": 62735,
+            "node2": 15491429,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 721187722,
+            "node1": 62735,
+            "node2": 15567767,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 635064969,
+            "node1": 62735,
+            "node2": 16317190,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470993070,
+            "node1": 62735,
+            "node2": 16771757,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721187275,
+            "node1": 62735,
+            "node2": 16784422,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 765139534,
+            "node1": 62735,
+            "node2": 16784423,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 765139802,
+            "node1": 62735,
+            "node2": 16794388,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 721177359,
+            "node1": 62735,
+            "node2": 26883016,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 775469938,
+            "node1": 62735,
+            "node2": 32484917,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 880071605,
+            "node1": 62735,
+            "node2": 32484918,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 525323757,
+            "node1": 62735,
+            "node2": 96082301,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 534651000,
+            "node1": 62735,
+            "node2": 101961645,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 534651550,
+            "node1": 62735,
+            "node2": 104703993,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 534652200,
+            "node1": 62735,
+            "node2": 104863807,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 534652616,
+            "node1": 62735,
+            "node2": 105671491,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 534652496,
+            "node1": 62735,
+            "node2": 105911435,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 549075968,
+            "node1": 62735,
+            "node2": 123037944,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 549076160,
+            "node1": 62735,
+            "node2": 123343406,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 549076145,
+            "node1": 62735,
+            "node2": 123456998,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 548514029,
+            "node1": 62735,
+            "node2": 143291863,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 1124415984,
+            "node1": 62735,
+            "node2": 156800520,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1124415956,
+            "node1": 62735,
+            "node2": 156800531,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 721185847,
+            "node1": 62735,
+            "node2": 159422624,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 556113171,
+            "node1": 62735,
+            "node2": 167701687,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 556163036,
+            "node1": 62735,
+            "node2": 167701688,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 561136137,
+            "node1": 62735,
+            "node2": 169032801,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1124415578,
+            "node1": 62735,
+            "node2": 180826164,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 977742073,
+            "node1": 62735,
+            "node2": 183710653,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 721186266,
+            "node1": 62735,
+            "node2": 199660305,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 977744239,
+            "node1": 62735,
+            "node2": 210912050,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 937856893,
+            "node1": 62735,
+            "node2": 213641704,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 721185908,
+            "node1": 62735,
+            "node2": 213676098,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 977744121,
+            "node1": 62735,
+            "node2": 213933937,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1066400049,
+            "node1": 62735,
+            "node2": 237518246,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 1124414905,
+            "node1": 62735,
+            "node2": 249297417,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 977748899,
+            "node1": 62735,
+            "node2": 293708954,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977748844,
+            "node1": 62735,
+            "node2": 299587214,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977745270,
+            "node1": 62735,
+            "node2": 306094615,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1139598731,
+            "node1": 62735,
+            "node2": 450368753,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1139600264,
+            "node1": 62735,
+            "node2": 450369306,
+            "type": 28,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:15.450823",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "assiette",
+        "#relations": 376,
+        "max_relation_weight": 118.0,
+        "#nodes": 377,
+        "duration": "0:00:00.043102"
+    }
+}

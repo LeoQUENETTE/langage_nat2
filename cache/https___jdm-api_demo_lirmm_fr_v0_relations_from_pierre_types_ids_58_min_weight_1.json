@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 11692,
+            "name": "bloc",
+            "type": 1,
+            "w": 3190
+        },
+        {
+            "id": 25008,
+            "name": "pierre",
+            "type": 1,
+            "w": 9678
+        },
+        {
+            "id": 109419,
+            "name": "tas",
+            "type": 1,
+            "w": 756
+        }
+    ],
+    "relations": [
+        {
+            "id": 96933952,
+            "node1": 25008,
+            "node2": 11692,
+            "type": 58,
+            "w": 39.0
+        },
+        {
+            "id": 96933949,
+            "node1": 25008,
+            "node2": 109419,
+            "type": 58,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:58.830640",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pierre",
+        "#relations": 2,
+        "max_relation_weight": 39.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003842"
+    }
+}

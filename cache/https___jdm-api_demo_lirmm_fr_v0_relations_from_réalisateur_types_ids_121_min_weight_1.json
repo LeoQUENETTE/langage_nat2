@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 153553433,
+            "name": "vision artistique",
+            "type": 1,
+            "w": 333
+        },
+        {
+            "id": 59993,
+            "name": "réalisateur",
+            "type": 1,
+            "w": 4838
+        },
+        {
+            "id": 330714273,
+            "name": "script d'émission",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 23859,
+            "name": "caméra",
+            "type": 1,
+            "w": 3072
+        }
+    ],
+    "relations": [
+        {
+            "id": 1020888491,
+            "node1": 59993,
+            "node2": 23859,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1020888336,
+            "node1": 59993,
+            "node2": 153553433,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 976827931,
+            "node1": 59993,
+            "node2": 330714273,
+            "type": 121,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:36.111145",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "réalisateur",
+        "#relations": 3,
+        "max_relation_weight": 31.0,
+        "#nodes": 4,
+        "duration": "0:00:00.008996"
+    }
+}

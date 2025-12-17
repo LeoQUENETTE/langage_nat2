@@ -1,0 +1,177 @@
+{
+    "nodes": [
+        {
+            "id": 145622,
+            "name": "cordes",
+            "type": 1,
+            "w": 3178
+        },
+        {
+            "id": 101290,
+            "name": "fibre",
+            "type": 1,
+            "w": 1434
+        },
+        {
+            "id": 8595,
+            "name": "corde",
+            "type": 1,
+            "w": 3415
+        },
+        {
+            "id": 146333,
+            "name": "fils",
+            "type": 1,
+            "w": 11238
+        },
+        {
+            "id": 84939,
+            "name": "coton",
+            "type": 1,
+            "w": 1705
+        },
+        {
+            "id": 11964618,
+            "name": "en:nylon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 145712,
+            "name": "nylon",
+            "type": 1,
+            "w": 282
+        },
+        {
+            "id": 128782,
+            "name": "fil",
+            "type": 1,
+            "w": 5593
+        },
+        {
+            "id": 149413,
+            "name": "organes",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 19991,
+            "name": "filament",
+            "type": 1,
+            "w": 367
+        },
+        {
+            "id": 48526,
+            "name": "brin",
+            "type": 1,
+            "w": 251
+        }
+    ],
+    "relations": [
+        {
+            "id": 96928313,
+            "node1": 8595,
+            "node2": 8595,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 9972452,
+            "node1": 8595,
+            "node2": 19991,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 1131439075,
+            "node1": 8595,
+            "node2": 48526,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1711004,
+            "node1": 8595,
+            "node2": 84939,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 1021832204,
+            "node1": 8595,
+            "node2": 101290,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9970498,
+            "node1": 8595,
+            "node2": 128782,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 267474878,
+            "node1": 8595,
+            "node2": 145622,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 9974622,
+            "node1": 8595,
+            "node2": 145712,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 12801025,
+            "node1": 8595,
+            "node2": 146333,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 359753164,
+            "node1": 8595,
+            "node2": 149413,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 585318828,
+            "node1": 8595,
+            "node2": 11964618,
+            "type": 9,
+            "w": 7.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:06.245262",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "corde",
+        "#relations": 11,
+        "max_relation_weight": 30.0,
+        "#nodes": 11,
+        "duration": "0:00:00.005173"
+    }
+}

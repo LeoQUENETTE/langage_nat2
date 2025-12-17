@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 119233,
+            "name": "goût",
+            "type": 1,
+            "w": 4182
+        },
+        {
+            "id": 107364,
+            "name": "dégustation",
+            "type": 1,
+            "w": 893
+        },
+        {
+            "id": 52119,
+            "name": "langue",
+            "type": 1,
+            "w": 12820
+        }
+    ],
+    "relations": [
+        {
+            "id": 1040734725,
+            "node1": 52119,
+            "node2": 107364,
+            "type": 137,
+            "w": 28.0
+        },
+        {
+            "id": 1146005641,
+            "node1": 52119,
+            "node2": 119233,
+            "type": 137,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:58.656941",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "langue",
+        "#relations": 2,
+        "max_relation_weight": 29.0,
+        "#nodes": 3,
+        "duration": "0:00:00.007520"
+    }
+}

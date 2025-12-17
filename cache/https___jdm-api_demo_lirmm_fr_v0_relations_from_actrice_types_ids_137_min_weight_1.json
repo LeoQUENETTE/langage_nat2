@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 316817,
+            "name": "création artistique",
+            "type": 1,
+            "w": 392
+        },
+        {
+            "id": 230150,
+            "name": "jeu d'acteur",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 51970,
+            "name": "représentation",
+            "type": 1,
+            "w": 11814
+        },
+        {
+            "id": 92149,
+            "name": "actrice",
+            "type": 1,
+            "w": 4333
+        },
+        {
+            "id": 7401,
+            "name": "interprétation",
+            "type": 1,
+            "w": 11920
+        },
+        {
+            "id": 60211,
+            "name": "performance",
+            "type": 1,
+            "w": 14777
+        },
+        {
+            "id": 94328,
+            "name": "audition",
+            "type": 1,
+            "w": 636
+        }
+    ],
+    "relations": [
+        {
+            "id": 1020888332,
+            "node1": 92149,
+            "node2": 7401,
+            "type": 137,
+            "w": 41.0
+        },
+        {
+            "id": 1151548731,
+            "node1": 92149,
+            "node2": 51970,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1143292049,
+            "node1": 92149,
+            "node2": 60211,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 1147899555,
+            "node1": 92149,
+            "node2": 94328,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1143292050,
+            "node1": 92149,
+            "node2": 230150,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1160780693,
+            "node1": 92149,
+            "node2": 316817,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:31.459228",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "actrice",
+        "#relations": 6,
+        "max_relation_weight": 41.0,
+        "#nodes": 7,
+        "duration": "0:00:00.011473"
+    }
+}

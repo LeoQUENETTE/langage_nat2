@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 136955,
+            "name": "droits d'auteur",
+            "type": 1,
+            "w": 720
+        },
+        {
+            "id": 57565,
+            "name": "crayon",
+            "type": 1,
+            "w": 2241
+        },
+        {
+            "id": 258887856,
+            "name": "expertise thématique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45052,
+            "name": "auteur",
+            "type": 1,
+            "w": 10604
+        },
+        {
+            "id": 104835,
+            "name": "copyright",
+            "type": 1,
+            "w": 284
+        },
+        {
+            "id": 175799,
+            "name": "nom scientifique",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 249226245,
+            "name": "liberté créative",
+            "type": 1,
+            "w": 39
+        }
+    ],
+    "relations": [
+        {
+            "id": 634883733,
+            "node1": 45052,
+            "node2": 57565,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1077470908,
+            "node1": 45052,
+            "node2": 104835,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 980934500,
+            "node1": 45052,
+            "node2": 136955,
+            "type": 121,
+            "w": 40.0
+        },
+        {
+            "id": 962087953,
+            "node1": 45052,
+            "node2": 175799,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 978454723,
+            "node1": 45052,
+            "node2": 249226245,
+            "type": 121,
+            "w": 37.0
+        },
+        {
+            "id": 1038902677,
+            "node1": 45052,
+            "node2": 258887856,
+            "type": 121,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:53.546072",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "auteur",
+        "#relations": 6,
+        "max_relation_weight": 40.0,
+        "#nodes": 7,
+        "duration": "0:00:00.007808"
+    }
+}

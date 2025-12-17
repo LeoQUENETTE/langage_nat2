@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 240802,
+            "name": "Jacques Dutronc",
+            "type": 1,
+            "w": 49
+        },
+        {
+            "id": 10594514,
+            "name": "Gérard Séty",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 9985791,
+            "name": "Bernard Le Coq",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 5837320,
+            "name": "Claude Dauphin",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 16919888,
+            "name": "Alexandra London",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 9949889,
+            "name": "Elsa Zylberstein",
+            "type": 777,
+            "w": 34
+        },
+        {
+            "id": 83876,
+            "name": "Van Gogh",
+            "type": 1,
+            "w": 115
+        }
+    ],
+    "relations": [
+        {
+            "id": 13369580,
+            "node1": 83876,
+            "node2": 240802,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 253521463,
+            "node1": 83876,
+            "node2": 5837320,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253526513,
+            "node1": 83876,
+            "node2": 9949889,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 253520771,
+            "node1": 83876,
+            "node2": 9985791,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 289268402,
+            "node1": 83876,
+            "node2": 10594514,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 470975642,
+            "node1": 83876,
+            "node2": 16919888,
+            "type": 28,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:06.353198",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Van Gogh",
+        "#relations": 6,
+        "max_relation_weight": 32.0,
+        "#nodes": 7,
+        "duration": "0:00:02.547848"
+    }
+}

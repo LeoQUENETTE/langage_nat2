@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 15109868,
+            "name": "en:Libyan Desert",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 315455,
+            "name": "Penélope Cruz",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 10046322,
+            "name": "Franck Gastambide",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10068426,
+            "name": "Steve Zahn",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 208079561,
+            "name": "Patrick O'Moore",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 208079563,
+            "name": "Pat O'Moore",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 2466294,
+            "name": "Louane",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1633259,
+            "name": "Matthew McConaughey",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 10421303,
+            "name": "Lennie James",
+            "type": 777,
+            "w": 26
+        },
+        {
+            "id": 1548983,
+            "name": "Omar Sy",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 15109867,
+            "name": "en:libyan desert",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 82830,
+            "name": "Lambert Wilson",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 90911,
+            "name": "Sahara",
+            "type": 1,
+            "w": 1714
+        }
+    ],
+    "relations": [
+        {
+            "id": 533634335,
+            "node1": 90911,
+            "node2": 82830,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 533634333,
+            "node1": 90911,
+            "node2": 315455,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 377667401,
+            "node1": 90911,
+            "node2": 1548983,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 533634332,
+            "node1": 90911,
+            "node2": 1633259,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 377667403,
+            "node1": 90911,
+            "node2": 2466294,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 377667404,
+            "node1": 90911,
+            "node2": 10046322,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 533634334,
+            "node1": 90911,
+            "node2": 10068426,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 377631784,
+            "node1": 90911,
+            "node2": 10421303,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 618837147,
+            "node1": 90911,
+            "node2": 15109867,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 775517786,
+            "node1": 90911,
+            "node2": 15109868,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 599398615,
+            "node1": 90911,
+            "node2": 208079561,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 599398617,
+            "node1": 90911,
+            "node2": 208079563,
+            "type": 9,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:38.491536",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Sahara",
+        "#relations": 12,
+        "max_relation_weight": 31.0,
+        "#nodes": 13,
+        "duration": "0:00:00.008316"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8735
+        },
+        {
+            "id": 154971,
+            "name": "roses",
+            "type": 1,
+            "w": 1214
+        }
+    ],
+    "relations": [
+        {
+            "id": 665151420,
+            "node1": 139575,
+            "node2": 154971,
+            "type": 142,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            142
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:05.904903",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003461"
+    }
+}

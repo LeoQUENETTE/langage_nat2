@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 5517703,
+            "name": "argile ocreuse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9224938,
+            "name": "objet inanimé",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 130949,
+            "name": "vaisselle",
+            "type": 1,
+            "w": 1108
+        },
+        {
+            "id": 60109,
+            "name": "pièce de vaisselle",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 188699367,
+            "name": "objet utile",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 14542354,
+            "name": "objet de la vie quotidienne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57791,
+            "name": "position",
+            "type": 1,
+            "w": 8932
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 7620882,
+            "name": "récipient culinaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3304283,
+            "name": "objet de tous les jours",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251565,
+            "name": "vaisselle>60109",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 121002,
+            "name": "ustensile",
+            "type": 1,
+            "w": 609
+        },
+        {
+            "id": 62735,
+            "name": "assiette",
+            "type": 1,
+            "w": 2363
+        },
+        {
+            "id": 284022448,
+            "name": "position de",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 89628,
+            "name": "récipient",
+            "type": 1,
+            "w": 1305
+        }
+    ],
+    "relations": [
+        {
+            "id": 9899450,
+            "node1": 62735,
+            "node2": 237,
+            "type": 6,
+            "w": 188.0
+        },
+        {
+            "id": 116004425,
+            "node1": 62735,
+            "node2": 57791,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 97130097,
+            "node1": 62735,
+            "node2": 60109,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 9903491,
+            "node1": 62735,
+            "node2": 89628,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 1156944261,
+            "node1": 62735,
+            "node2": 121002,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 9902737,
+            "node1": 62735,
+            "node2": 130949,
+            "type": 6,
+            "w": 90.0
+        },
+        {
+            "id": 629090,
+            "node1": 62735,
+            "node2": 135190,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 569406173,
+            "node1": 62735,
+            "node2": 246870,
+            "type": 6,
+            "w": 194.0
+        },
+        {
+            "id": 31504020,
+            "node1": 62735,
+            "node2": 251565,
+            "type": 6,
+            "w": 5.0
+        },
+        {
+            "id": 82858613,
+            "node1": 62735,
+            "node2": 3304283,
+            "type": 6,
+            "w": 5.0
+        },
+        {
+            "id": 361050516,
+            "node1": 62735,
+            "node2": 5517703,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 376428436,
+            "node1": 62735,
+            "node2": 7620882,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 705232143,
+            "node1": 62735,
+            "node2": 9224938,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 376418970,
+            "node1": 62735,
+            "node2": 14542354,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 987830045,
+            "node1": 62735,
+            "node2": 188699367,
+            "type": 6,
+            "w": 71.0
+        },
+        {
+            "id": 1042422955,
+            "node1": 62735,
+            "node2": 284022448,
+            "type": 6,
+            "w": 5.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:13.666765",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "assiette",
+        "#relations": 16,
+        "max_relation_weight": 194.0,
+        "#nodes": 17,
+        "duration": "0:00:00.020814"
+    }
+}

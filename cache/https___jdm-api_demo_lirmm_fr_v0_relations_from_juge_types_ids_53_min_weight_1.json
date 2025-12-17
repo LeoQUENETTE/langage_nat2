@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 83236,
+            "name": "sentence",
+            "type": 1,
+            "w": 351
+        },
+        {
+            "id": 140856,
+            "name": "juge",
+            "type": 1,
+            "w": 7137
+        },
+        {
+            "id": 139731,
+            "name": "peine",
+            "type": 1,
+            "w": 9869
+        },
+        {
+            "id": 348780,
+            "name": "décision judiciaire",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 75998,
+            "name": "décision",
+            "type": 1,
+            "w": 18066
+        },
+        {
+            "id": 139233,
+            "name": "jugement",
+            "type": 1,
+            "w": 7151
+        },
+        {
+            "id": 131139,
+            "name": "verdict",
+            "type": 1,
+            "w": 1010
+        },
+        {
+            "id": 23803,
+            "name": "ordonnance",
+            "type": 1,
+            "w": 1159
+        },
+        {
+            "id": 2588693,
+            "name": "ordonnance de protection",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158232105,
+            "node1": 140856,
+            "node2": 23803,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1151262208,
+            "node1": 140856,
+            "node2": 75998,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1151262610,
+            "node1": 140856,
+            "node2": 83236,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1151262227,
+            "node1": 140856,
+            "node2": 131139,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 940989951,
+            "node1": 140856,
+            "node2": 139233,
+            "type": 53,
+            "w": 47.0
+        },
+        {
+            "id": 1131440484,
+            "node1": 140856,
+            "node2": 139731,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1035347105,
+            "node1": 140856,
+            "node2": 348780,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 957731223,
+            "node1": 140856,
+            "node2": 2588693,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:16.569637",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "juge",
+        "#relations": 8,
+        "max_relation_weight": 47.0,
+        "#nodes": 9,
+        "duration": "0:00:00.019485"
+    }
+}

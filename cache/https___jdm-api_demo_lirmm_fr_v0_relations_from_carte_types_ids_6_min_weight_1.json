@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 15197188,
+            "name": "en:jack of spades",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 256160237,
+            "name": "représentation géographique",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 131196,
+            "name": "carte",
+            "type": 1,
+            "w": 7966
+        },
+        {
+            "id": 67863,
+            "name": "atlas",
+            "type": 1,
+            "w": 442
+        },
+        {
+            "id": 224593,
+            "name": "moyen de paiement",
+            "type": 1,
+            "w": 184
+        },
+        {
+            "id": 14923860,
+            "name": "en:beloved",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15245135,
+            "name": "en:queen of hearts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 69665,
+            "name": "plan",
+            "type": 1,
+            "w": 9418
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 54770,
+            "name": "document",
+            "type": 1,
+            "w": 5131
+        },
+        {
+            "id": 214896,
+            "name": "pièce de jeu",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 302274,
+            "name": "reine de coeur",
+            "type": 777,
+            "w": 52
+        },
+        {
+            "id": 7262873,
+            "name": "en:document",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 66935,
+            "name": "carton",
+            "type": 1,
+            "w": 692
+        }
+    ],
+    "relations": [
+        {
+            "id": 582749818,
+            "node1": 131196,
+            "node2": 237,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 80652620,
+            "node1": 131196,
+            "node2": 54770,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 191721,
+            "node1": 131196,
+            "node2": 66935,
+            "type": 6,
+            "w": 88.0
+        },
+        {
+            "id": 206317,
+            "node1": 131196,
+            "node2": 67863,
+            "type": 6,
+            "w": 78.0
+        },
+        {
+            "id": 191724,
+            "node1": 131196,
+            "node2": 69665,
+            "type": 6,
+            "w": 69.0
+        },
+        {
+            "id": 9904087,
+            "node1": 131196,
+            "node2": 214896,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 793540308,
+            "node1": 131196,
+            "node2": 224593,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 612659924,
+            "node1": 131196,
+            "node2": 302274,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 377343607,
+            "node1": 131196,
+            "node2": 7262873,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 598719199,
+            "node1": 131196,
+            "node2": 14923860,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 595663656,
+            "node1": 131196,
+            "node2": 15197188,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 595659927,
+            "node1": 131196,
+            "node2": 15245135,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 940116709,
+            "node1": 131196,
+            "node2": 256160237,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:18.331799",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "carte",
+        "#relations": 13,
+        "max_relation_weight": 88.0,
+        "#nodes": 14,
+        "duration": "0:00:00.045882"
+    }
+}

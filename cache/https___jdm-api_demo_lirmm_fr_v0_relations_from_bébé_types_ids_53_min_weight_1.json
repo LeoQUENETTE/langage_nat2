@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 209556185,
+            "name": "empreintes de pieds",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251651403,
+            "name": "premiers rires",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 33732,
+            "name": "premiers pas",
+            "type": 1,
+            "w": 158
+        },
+        {
+            "id": 42001,
+            "name": "bébé",
+            "type": 1,
+            "w": 5490
+        },
+        {
+            "id": 230145,
+            "name": "rires",
+            "type": 1,
+            "w": 281
+        },
+        {
+            "id": 44652,
+            "name": "gazouillis",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 209733796,
+            "name": "premiers mots",
+            "type": 1,
+            "w": 41
+        }
+    ],
+    "relations": [
+        {
+            "id": 958785567,
+            "node1": 42001,
+            "node2": 33732,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 958785548,
+            "node1": 42001,
+            "node2": 44652,
+            "type": 53,
+            "w": 39.0
+        },
+        {
+            "id": 1177179078,
+            "node1": 42001,
+            "node2": 230145,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 958785922,
+            "node1": 42001,
+            "node2": 209556185,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 958785874,
+            "node1": 42001,
+            "node2": 209733796,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 958785942,
+            "node1": 42001,
+            "node2": 251651403,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:10.360155",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bébé",
+        "#relations": 6,
+        "max_relation_weight": 39.0,
+        "#nodes": 7,
+        "duration": "0:00:00.011033"
+    }
+}

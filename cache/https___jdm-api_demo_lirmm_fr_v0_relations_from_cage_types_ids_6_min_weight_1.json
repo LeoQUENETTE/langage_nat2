@@ -1,0 +1,404 @@
+{
+    "nodes": [
+        {
+            "id": 15770186,
+            "name": "en:means of getting around",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5526765,
+            "name": "contenant ajouré",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15646160,
+            "name": "Transport urbain",
+            "type": 777,
+            "w": 27
+        },
+        {
+            "id": 123745,
+            "name": "véhicule",
+            "type": 1,
+            "w": 5963
+        },
+        {
+            "id": 42731,
+            "name": "contenant",
+            "type": 1,
+            "w": 3867
+        },
+        {
+            "id": 152778,
+            "name": "moyen de transport",
+            "type": 1,
+            "w": 614
+        },
+        {
+            "id": 2554001,
+            "name": "chymie",
+            "type": 1,
+            "w": 3
+        },
+        {
+            "id": 83208,
+            "name": "cirque",
+            "type": 1,
+            "w": 2001
+        },
+        {
+            "id": 5425,
+            "name": "machine",
+            "type": 1,
+            "w": 7846
+        },
+        {
+            "id": 15233350,
+            "name": "en:means of transport",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 15205057,
+            "name": "en:means of transportation",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 152727,
+            "name": "moyen de locomotion",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 231122,
+            "name": "mode de transport",
+            "type": 1,
+            "w": 206
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19357
+        },
+        {
+            "id": 139257,
+            "name": "discipline",
+            "type": 1,
+            "w": 5317
+        },
+        {
+            "id": 56865,
+            "name": "sport",
+            "type": 1,
+            "w": 9758
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5280
+        },
+        {
+            "id": 43504,
+            "name": "physique",
+            "type": 1,
+            "w": 8830
+        },
+        {
+            "id": 13712,
+            "name": "transport",
+            "type": 1,
+            "w": 8748
+        },
+        {
+            "id": 143712,
+            "name": "marine",
+            "type": 1,
+            "w": 4297
+        },
+        {
+            "id": 46728,
+            "name": "chimie",
+            "type": 1,
+            "w": 5405
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 104264516,
+            "name": "Mode de transport",
+            "type": 1,
+            "w": 5
+        },
+        {
+            "id": 15096116,
+            "name": "en:Transportation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152212,
+            "name": "Chimie",
+            "type": 1,
+            "w": 198
+        },
+        {
+            "id": 15205054,
+            "name": "en:mode of transport",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 17023,
+            "name": "cage",
+            "type": 1,
+            "w": 1164
+        },
+        {
+            "id": 121121,
+            "name": "transportation",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 12530522,
+            "name": "en:transportation",
+            "type": 1,
+            "w": 4
+        }
+    ],
+    "relations": [
+        {
+            "id": 70217808,
+            "node1": 17023,
+            "node2": 5425,
+            "type": 6,
+            "w": 48.0
+        },
+        {
+            "id": 82332624,
+            "node1": 17023,
+            "node2": 6890,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 706243110,
+            "node1": 17023,
+            "node2": 13712,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 109433678,
+            "node1": 17023,
+            "node2": 42731,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 28979519,
+            "node1": 17023,
+            "node2": 43504,
+            "type": 6,
+            "w": 57.0
+        },
+        {
+            "id": 28979518,
+            "node1": 17023,
+            "node2": 46728,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 28979521,
+            "node1": 17023,
+            "node2": 56865,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 28979520,
+            "node1": 17023,
+            "node2": 83208,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 723184833,
+            "node1": 17023,
+            "node2": 121121,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 82345333,
+            "node1": 17023,
+            "node2": 123745,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 629026,
+            "node1": 17023,
+            "node2": 135190,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 59532761,
+            "node1": 17023,
+            "node2": 135936,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 590857674,
+            "node1": 17023,
+            "node2": 139257,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 28979517,
+            "node1": 17023,
+            "node2": 143712,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 28979522,
+            "node1": 17023,
+            "node2": 152212,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 604605292,
+            "node1": 17023,
+            "node2": 152727,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 82345500,
+            "node1": 17023,
+            "node2": 152778,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 603770610,
+            "node1": 17023,
+            "node2": 231122,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 61892835,
+            "node1": 17023,
+            "node2": 2554001,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 109434205,
+            "node1": 17023,
+            "node2": 5526765,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 612647586,
+            "node1": 17023,
+            "node2": 12530522,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 721494765,
+            "node1": 17023,
+            "node2": 15096116,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 612627880,
+            "node1": 17023,
+            "node2": 15205054,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 595654706,
+            "node1": 17023,
+            "node2": 15205057,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 600414814,
+            "node1": 17023,
+            "node2": 15233350,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 618917957,
+            "node1": 17023,
+            "node2": 15646160,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 618902518,
+            "node1": 17023,
+            "node2": 15770186,
+            "type": 6,
+            "w": 39.0
+        },
+        {
+            "id": 705907306,
+            "node1": 17023,
+            "node2": 104264516,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:24.321403",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cage",
+        "#relations": 28,
+        "max_relation_weight": 57.0,
+        "#nodes": 29,
+        "duration": "0:00:00.016345"
+    }
+}

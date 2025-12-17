@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 10564,
+            "name": "déplacement",
+            "type": 1,
+            "w": 6546
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19302
+        },
+        {
+            "id": 143577,
+            "name": "accident",
+            "type": 1,
+            "w": 5815
+        },
+        {
+            "id": 3232648,
+            "name": "transport de passagers",
+            "type": 1,
+            "w": 102
+        }
+    ],
+    "relations": [
+        {
+            "id": 1145099048,
+            "node1": 6890,
+            "node2": 10564,
+            "type": 137,
+            "w": 53.0
+        },
+        {
+            "id": 1066089474,
+            "node1": 6890,
+            "node2": 143577,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 952476812,
+            "node1": 6890,
+            "node2": 3232648,
+            "type": 137,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:53.835445",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voiture",
+        "#relations": 3,
+        "max_relation_weight": 53.0,
+        "#nodes": 4,
+        "duration": "0:00:00.015644"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 8567989,
+            "name": "rein>98040",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 120353,
+            "name": "branches",
+            "type": 1,
+            "w": 3121
+        },
+        {
+            "id": 8595,
+            "name": "corde",
+            "type": 1,
+            "w": 3415
+        },
+        {
+            "id": 117787,
+            "name": "poignée",
+            "type": 1,
+            "w": 1242
+        },
+        {
+            "id": 144402,
+            "name": "arche",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 26062,
+            "name": "branche",
+            "type": 1,
+            "w": 4573
+        },
+        {
+            "id": 142780,
+            "name": "arc",
+            "type": 1,
+            "w": 1452
+        },
+        {
+            "id": 45635,
+            "name": "rein",
+            "type": 1,
+            "w": 441
+        },
+        {
+            "id": 117554,
+            "name": "ogive",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 233721,
+            "name": "corde>98070",
+            "type": 1,
+            "w": 44
+        }
+    ],
+    "relations": [
+        {
+            "id": 8898118,
+            "node1": 142780,
+            "node2": 8595,
+            "type": 9,
+            "w": 76.0
+        },
+        {
+            "id": 4985884,
+            "node1": 142780,
+            "node2": 26062,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 279002056,
+            "node1": 142780,
+            "node2": 45635,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 10528244,
+            "node1": 142780,
+            "node2": 117554,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 765259218,
+            "node1": 142780,
+            "node2": 117787,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 765259219,
+            "node1": 142780,
+            "node2": 120353,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 12802084,
+            "node1": 142780,
+            "node2": 144402,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 98281818,
+            "node1": 142780,
+            "node2": 233721,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 217921858,
+            "node1": 142780,
+            "node2": 8567989,
+            "type": 9,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:57.851870",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "arc",
+        "#relations": 9,
+        "max_relation_weight": 76.0,
+        "#nodes": 10,
+        "duration": "0:00:00.004383"
+    }
+}

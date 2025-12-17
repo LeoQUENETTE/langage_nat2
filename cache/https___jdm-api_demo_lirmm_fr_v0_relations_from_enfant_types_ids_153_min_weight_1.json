@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 97056,
+            "name": "impertinence",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 121436,
+            "name": "curiosité",
+            "type": 1,
+            "w": 6634
+        },
+        {
+            "id": 146238,
+            "name": "âge",
+            "type": 1,
+            "w": 10069
+        },
+        {
+            "id": 37566,
+            "name": "croissance",
+            "type": 1,
+            "w": 12714
+        },
+        {
+            "id": 20006,
+            "name": "intelligence",
+            "type": 1,
+            "w": 10857
+        },
+        {
+            "id": 124094,
+            "name": "enfant",
+            "type": 1,
+            "w": 57598
+        },
+        {
+            "id": 35457,
+            "name": "vivacité",
+            "type": 1,
+            "w": 308
+        }
+    ],
+    "relations": [
+        {
+            "id": 720482637,
+            "node1": 124094,
+            "node2": 20006,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 665004677,
+            "node1": 124094,
+            "node2": 35457,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179138597,
+            "node1": 124094,
+            "node2": 37566,
+            "type": 153,
+            "w": 37.0
+        },
+        {
+            "id": 665004689,
+            "node1": 124094,
+            "node2": 97056,
+            "type": 153,
+            "w": 35.0
+        },
+        {
+            "id": 720482671,
+            "node1": 124094,
+            "node2": 121436,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179139375,
+            "node1": 124094,
+            "node2": 146238,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:49.852604",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "enfant",
+        "#relations": 6,
+        "max_relation_weight": 37.0,
+        "#nodes": 7,
+        "duration": "0:00:00.007591"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 53541,
+            "name": "groupe",
+            "type": 1,
+            "w": 16387
+        },
+        {
+            "id": 124094,
+            "name": "enfant",
+            "type": 1,
+            "w": 57598
+        },
+        {
+            "id": 34390,
+            "name": "ribambelle",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 131399,
+            "name": "tripotée",
+            "type": 1,
+            "w": 60
+        }
+    ],
+    "relations": [
+        {
+            "id": 1908954,
+            "node1": 124094,
+            "node2": 34390,
+            "type": 58,
+            "w": 26.0
+        },
+        {
+            "id": 1907816,
+            "node1": 124094,
+            "node2": 53541,
+            "type": 58,
+            "w": 32.0
+        },
+        {
+            "id": 2053662,
+            "node1": 124094,
+            "node2": 131399,
+            "type": 58,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:52.855067",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "enfant",
+        "#relations": 3,
+        "max_relation_weight": 35.0,
+        "#nodes": 4,
+        "duration": "0:00:00.010059"
+    }
+}

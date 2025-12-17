@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 145360,
+            "name": "race",
+            "type": 1,
+            "w": 4637
+        },
+        {
+            "id": 146238,
+            "name": "âge",
+            "type": 1,
+            "w": 10069
+        },
+        {
+            "id": 71400,
+            "name": "loyauté",
+            "type": 1,
+            "w": 999
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8763
+        }
+    ],
+    "relations": [
+        {
+            "id": 720482666,
+            "node1": 4455,
+            "node2": 71400,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179139577,
+            "node1": 4455,
+            "node2": 145360,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 619714731,
+            "node1": 4455,
+            "node2": 146238,
+            "type": 153,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:58.944258",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chien",
+        "#relations": 3,
+        "max_relation_weight": 30.0,
+        "#nodes": 4,
+        "duration": "0:00:00.011869"
+    }
+}

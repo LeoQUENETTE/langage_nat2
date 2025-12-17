@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 51528,
+            "name": "son",
+            "type": 1,
+            "w": 370155
+        },
+        {
+            "id": 3791557,
+            "name": "son père",
+            "type": 1,
+            "w": 30
+        }
+    ],
+    "relations": [
+        {
+            "id": 679146512,
+            "node1": 3791557,
+            "node2": 51528,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:37.182174",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "son père",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004907"
+    }
+}

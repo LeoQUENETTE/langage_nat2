@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 69012,
+            "name": "statistique",
+            "type": 1,
+            "w": 4032
+        },
+        {
+            "id": 75998,
+            "name": "décision",
+            "type": 1,
+            "w": 18066
+        },
+        {
+            "id": 112929,
+            "name": "action",
+            "type": 1,
+            "w": 17578
+        },
+        {
+            "id": 48513,
+            "name": "qualité",
+            "type": 1,
+            "w": 13342
+        }
+    ],
+    "relations": [
+        {
+            "id": 82565625,
+            "node1": 75998,
+            "node2": 48513,
+            "type": 6,
+            "w": 47.0
+        },
+        {
+            "id": 256371559,
+            "node1": 75998,
+            "node2": 69012,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 78606636,
+            "node1": 75998,
+            "node2": 112929,
+            "type": 6,
+            "w": 57.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:12.969819",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "décision",
+        "#relations": 3,
+        "max_relation_weight": 57.0,
+        "#nodes": 4,
+        "duration": "0:00:00.041451"
+    }
+}

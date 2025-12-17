@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 142861,
+            "name": "vitre",
+            "type": 1,
+            "w": 1185
+        },
+        {
+            "id": 54620,
+            "name": "cadre",
+            "type": 1,
+            "w": 8394
+        },
+        {
+            "id": 1346,
+            "name": "décoration",
+            "type": 1,
+            "w": 2176
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6157
+        },
+        {
+            "id": 62788,
+            "name": "miroir",
+            "type": 1,
+            "w": 2743
+        },
+        {
+            "id": 131514,
+            "name": "reflet",
+            "type": 1,
+            "w": 1636
+        },
+        {
+            "id": 141964,
+            "name": "glace",
+            "type": 1,
+            "w": 5802
+        },
+        {
+            "id": 2160,
+            "name": "tain",
+            "type": 1,
+            "w": 163
+        },
+        {
+            "id": 245146,
+            "name": "reflets",
+            "type": 1,
+            "w": 72
+        }
+    ],
+    "relations": [
+        {
+            "id": 34672575,
+            "node1": 62788,
+            "node2": 1346,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1131439676,
+            "node1": 62788,
+            "node2": 2160,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 124488,
+            "node1": 62788,
+            "node2": 54620,
+            "type": 9,
+            "w": 88.0
+        },
+        {
+            "id": 58150825,
+            "node1": 62788,
+            "node2": 119272,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 124489,
+            "node1": 62788,
+            "node2": 131514,
+            "type": 9,
+            "w": 75.0
+        },
+        {
+            "id": 10535640,
+            "node1": 62788,
+            "node2": 141964,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 9975053,
+            "node1": 62788,
+            "node2": 142861,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 124487,
+            "node1": 62788,
+            "node2": 144497,
+            "type": 9,
+            "w": 64.0
+        },
+        {
+            "id": 1181994703,
+            "node1": 62788,
+            "node2": 245146,
+            "type": 9,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:41.959580",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "miroir",
+        "#relations": 9,
+        "max_relation_weight": 88.0,
+        "#nodes": 10,
+        "duration": "0:00:00.003702"
+    }
+}

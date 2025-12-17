@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 362007,
+            "name": "localisation géographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 15074511,
+            "name": "en:artificial lake",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8751153,
+            "name": "lieu avec de l'eau",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7015598,
+            "name": "en:geographic area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14968072,
+            "name": "endroit géographique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14968071,
+            "name": "emplacement géographique",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 218698,
+            "name": "étendue d'eau",
+            "type": 1,
+            "w": 138
+        },
+        {
+            "id": 65012,
+            "name": "eau",
+            "type": 1,
+            "w": 39833
+        },
+        {
+            "id": 105717,
+            "name": "écosystème",
+            "type": 1,
+            "w": 14557
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 267804,
+            "name": "entité géographique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 144023,
+            "name": "plan d'eau",
+            "type": 1,
+            "w": 97
+        },
+        {
+            "id": 15456792,
+            "name": "en:stretch of water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 243646567,
+            "name": "lieu géographique naturel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33976,
+            "name": "lac",
+            "type": 1,
+            "w": 3851
+        },
+        {
+            "id": 316742,
+            "name": "milieu dulçaquicole",
+            "type": 1,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 2376828,
+            "node1": 33976,
+            "node2": 65012,
+            "type": 6,
+            "w": 88.0
+        },
+        {
+            "id": 642467166,
+            "node1": 33976,
+            "node2": 105717,
+            "type": 6,
+            "w": 346.0
+        },
+        {
+            "id": 629122,
+            "node1": 33976,
+            "node2": 135190,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 76616359,
+            "node1": 33976,
+            "node2": 144023,
+            "type": 6,
+            "w": 106.0
+        },
+        {
+            "id": 1604103,
+            "node1": 33976,
+            "node2": 218698,
+            "type": 6,
+            "w": 226.0
+        },
+        {
+            "id": 1107880288,
+            "node1": 33976,
+            "node2": 267804,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 9929038,
+            "node1": 33976,
+            "node2": 316742,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 776236092,
+            "node1": 33976,
+            "node2": 362007,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 636568663,
+            "node1": 33976,
+            "node2": 2785548,
+            "type": 6,
+            "w": 214.0
+        },
+        {
+            "id": 776236018,
+            "node1": 33976,
+            "node2": 7015598,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 179048618,
+            "node1": 33976,
+            "node2": 8751153,
+            "type": 6,
+            "w": 71.0
+        },
+        {
+            "id": 776236065,
+            "node1": 33976,
+            "node2": 14968071,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 776236039,
+            "node1": 33976,
+            "node2": 14968072,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 600423513,
+            "node1": 33976,
+            "node2": 15074511,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 704637362,
+            "node1": 33976,
+            "node2": 15456792,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1074625895,
+            "node1": 33976,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 636571081,
+            "node1": 33976,
+            "node2": 243646567,
+            "type": 6,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:26.026510",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lac",
+        "#relations": 17,
+        "max_relation_weight": 346.0,
+        "#nodes": 18,
+        "duration": "0:00:00.004941"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 85519,
+            "name": "mosquée",
+            "type": 1,
+            "w": 1682
+        },
+        {
+            "id": 11357,
+            "name": "minaret",
+            "type": 1,
+            "w": 67
+        }
+    ],
+    "relations": [
+        {
+            "id": 1035571989,
+            "node1": 85519,
+            "node2": 11357,
+            "type": 121,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:53.240502",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mosquée",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003358"
+    }
+}

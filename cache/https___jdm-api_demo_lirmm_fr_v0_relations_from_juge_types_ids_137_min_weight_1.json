@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 301588199,
+            "name": "examen des demandes d'asile",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 87674,
+            "name": "détention",
+            "type": 1,
+            "w": 1921
+        },
+        {
+            "id": 142157,
+            "name": "procès",
+            "type": 1,
+            "w": 6408
+        },
+        {
+            "id": 124373,
+            "name": "arbitrage",
+            "type": 1,
+            "w": 1101
+        },
+        {
+            "id": 98402,
+            "name": "condamnation",
+            "type": 1,
+            "w": 3525
+        },
+        {
+            "id": 140856,
+            "name": "juge",
+            "type": 1,
+            "w": 7137
+        },
+        {
+            "id": 348780,
+            "name": "décision judiciaire",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 102391,
+            "name": "juger",
+            "type": 1,
+            "w": 6427
+        },
+        {
+            "id": 139233,
+            "name": "jugement",
+            "type": 1,
+            "w": 7151
+        },
+        {
+            "id": 71637,
+            "name": "justice",
+            "type": 1,
+            "w": 20033
+        },
+        {
+            "id": 284065907,
+            "name": "jugement juridique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14636784,
+            "name": "application de la loi",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 57154,
+            "name": "instruction",
+            "type": 1,
+            "w": 1187
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150441385,
+            "node1": 140856,
+            "node2": 57154,
+            "type": 137,
+            "w": 33.0
+        },
+        {
+            "id": 1116981418,
+            "node1": 140856,
+            "node2": 71637,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1046577275,
+            "node1": 140856,
+            "node2": 87674,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 940989937,
+            "node1": 140856,
+            "node2": 98402,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 1010895492,
+            "node1": 140856,
+            "node2": 102391,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1158231564,
+            "node1": 140856,
+            "node2": 124373,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109901,
+            "node1": 140856,
+            "node2": 139233,
+            "type": 137,
+            "w": 120.0
+        },
+        {
+            "id": 775109908,
+            "node1": 140856,
+            "node2": 142157,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1152121898,
+            "node1": 140856,
+            "node2": 348780,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 959400446,
+            "node1": 140856,
+            "node2": 14636784,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 952383063,
+            "node1": 140856,
+            "node2": 284065907,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 884289497,
+            "node1": 140856,
+            "node2": 301588199,
+            "type": 137,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:16.389887",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "juge",
+        "#relations": 12,
+        "max_relation_weight": 120.0,
+        "#nodes": 13,
+        "duration": "0:00:00.008405"
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 271348928,
+            "name": "fatigue des parents",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 314836524,
+            "name": "joie familiale",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 274071120,
+            "name": "fatigue parentale",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 274286917,
+            "name": "réorganisation familiale",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 180834680,
+            "name": "changements de vie",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 42001,
+            "name": "bébé",
+            "type": 1,
+            "w": 5490
+        },
+        {
+            "id": 57221,
+            "name": "joie",
+            "type": 1,
+            "w": 14312
+        },
+        {
+            "id": 19980,
+            "name": "éveil",
+            "type": 1,
+            "w": 1299
+        },
+        {
+            "id": 123732,
+            "name": "apprentissage",
+            "type": 1,
+            "w": 17267
+        },
+        {
+            "id": 102812,
+            "name": "père",
+            "type": 1,
+            "w": 33011
+        },
+        {
+            "id": 252477,
+            "name": "faire pipi dans sa culotte",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 226398,
+            "name": "pipi au lit",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 259285,
+            "name": "être mort de fatigue",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 11157266,
+            "name": "nuits courtes",
+            "type": 1,
+            "w": 83
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157921175,
+            "node1": 42001,
+            "node2": 19980,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1177635238,
+            "node1": 42001,
+            "node2": 57221,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14654236,
+            "node1": 42001,
+            "node2": 102812,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1177179068,
+            "node1": 42001,
+            "node2": 123732,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14655626,
+            "node1": 42001,
+            "node2": 226398,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 14649925,
+            "node1": 42001,
+            "node2": 252477,
+            "type": 41,
+            "w": 61.0
+        },
+        {
+            "id": 23383099,
+            "node1": 42001,
+            "node2": 259285,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 958785540,
+            "node1": 42001,
+            "node2": 11157266,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 958785576,
+            "node1": 42001,
+            "node2": 180834680,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1177635239,
+            "node1": 42001,
+            "node2": 271348928,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 958785915,
+            "node1": 42001,
+            "node2": 274071120,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 958785933,
+            "node1": 42001,
+            "node2": 274286917,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 958785557,
+            "node1": 42001,
+            "node2": 314836524,
+            "type": 41,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:10.786681",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bébé",
+        "#relations": 13,
+        "max_relation_weight": 61.0,
+        "#nodes": 14,
+        "duration": "0:00:00.013802"
+    }
+}

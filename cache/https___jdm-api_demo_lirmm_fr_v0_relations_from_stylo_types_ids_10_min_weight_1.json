@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 15057430,
+            "name": "en:pickup",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63240,
+            "name": "écolier",
+            "type": 1,
+            "w": 1218
+        },
+        {
+            "id": 7010939,
+            "name": "en:cartridge",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8254,
+            "name": "bureau",
+            "type": 1,
+            "w": 5986
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2791
+        },
+        {
+            "id": 16059,
+            "name": "serveuse",
+            "type": 1,
+            "w": 411
+        }
+    ],
+    "relations": [
+        {
+            "id": 9979856,
+            "node1": 15509,
+            "node2": 8254,
+            "type": 10,
+            "w": 44.0
+        },
+        {
+            "id": 1012914667,
+            "node1": 15509,
+            "node2": 16059,
+            "type": 10,
+            "w": 8.0
+        },
+        {
+            "id": 1143170168,
+            "node1": 15509,
+            "node2": 63240,
+            "type": 10,
+            "w": 20.0
+        },
+        {
+            "id": 405762329,
+            "node1": 15509,
+            "node2": 7010939,
+            "type": 10,
+            "w": 31.0
+        },
+        {
+            "id": 405762330,
+            "node1": 15509,
+            "node2": 15057430,
+            "type": 10,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            10
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:02.610991",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 5,
+        "max_relation_weight": 44.0,
+        "#nodes": 6,
+        "duration": "0:00:00.006034"
+    }
+}

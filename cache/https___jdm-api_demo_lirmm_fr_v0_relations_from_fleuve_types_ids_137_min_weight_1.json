@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 26809,
+            "name": "crue",
+            "type": 1,
+            "w": 471
+        },
+        {
+            "id": 52944,
+            "name": "alluvions",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 19331,
+            "name": "érosion",
+            "type": 1,
+            "w": 941
+        },
+        {
+            "id": 69943,
+            "name": "fleuve",
+            "type": 1,
+            "w": 3979
+        },
+        {
+            "id": 82483,
+            "name": "sédiments",
+            "type": 1,
+            "w": 641
+        },
+        {
+            "id": 58259,
+            "name": "inondation",
+            "type": 1,
+            "w": 1651
+        },
+        {
+            "id": 200551907,
+            "name": "transport de nutriments",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 101140,
+            "name": "irrigation",
+            "type": 1,
+            "w": 818
+        },
+        {
+            "id": 85568,
+            "name": "sédimentation",
+            "type": 1,
+            "w": 169
+        }
+    ],
+    "relations": [
+        {
+            "id": 940314982,
+            "node1": 69943,
+            "node2": 19331,
+            "type": 137,
+            "w": 47.0
+        },
+        {
+            "id": 948449012,
+            "node1": 69943,
+            "node2": 26809,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1046577530,
+            "node1": 69943,
+            "node2": 52944,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1046577528,
+            "node1": 69943,
+            "node2": 58259,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1046577529,
+            "node1": 69943,
+            "node2": 82483,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 948449013,
+            "node1": 69943,
+            "node2": 85568,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 948449010,
+            "node1": 69943,
+            "node2": 101140,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 940314983,
+            "node1": 69943,
+            "node2": 200551907,
+            "type": 137,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:20.808012",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleuve",
+        "#relations": 8,
+        "max_relation_weight": 47.0,
+        "#nodes": 9,
+        "duration": "0:00:00.003991"
+    }
+}

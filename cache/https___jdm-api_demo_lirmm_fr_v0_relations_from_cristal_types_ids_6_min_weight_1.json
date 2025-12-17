@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 85794,
+            "name": "diamant",
+            "type": 1,
+            "w": 686
+        },
+        {
+            "id": 68659,
+            "name": "cristal",
+            "type": 1,
+            "w": 2298
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 221181,
+            "name": "matière>11358",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 11358,
+            "name": "substance",
+            "type": 1,
+            "w": 4567
+        },
+        {
+            "id": 214830,
+            "name": "verre>29208",
+            "type": 1,
+            "w": 160
+        }
+    ],
+    "relations": [
+        {
+            "id": 96459058,
+            "node1": 68659,
+            "node2": 237,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 1146640346,
+            "node1": 68659,
+            "node2": 11358,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 279695851,
+            "node1": 68659,
+            "node2": 29208,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 9898642,
+            "node1": 68659,
+            "node2": 85794,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 97340967,
+            "node1": 68659,
+            "node2": 214830,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 279695861,
+            "node1": 68659,
+            "node2": 221181,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 1074625940,
+            "node1": 68659,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:21.340816",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cristal",
+        "#relations": 7,
+        "max_relation_weight": 51.0,
+        "#nodes": 8,
+        "duration": "0:00:00.014100"
+    }
+}

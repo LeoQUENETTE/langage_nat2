@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 56116,
+            "name": "bijoux",
+            "type": 1,
+            "w": 829
+        },
+        {
+            "id": 13448726,
+            "name": "équipements médicaux",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 145641,
+            "name": "platine",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 51528,
+            "name": "son",
+            "type": 1,
+            "w": 370173
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155756797,
+            "node1": 145641,
+            "node2": 51528,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155756641,
+            "node1": 145641,
+            "node2": 56116,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 1155756667,
+            "node1": 145641,
+            "node2": 13448726,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:09.906761",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "platine",
+        "#relations": 3,
+        "max_relation_weight": 26.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004680"
+    }
+}

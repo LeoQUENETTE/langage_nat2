@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 143723,
+            "name": "moule",
+            "type": 1,
+            "w": 553
+        },
+        {
+            "id": 88491,
+            "name": "reproduction",
+            "type": 1,
+            "w": 5442
+        },
+        {
+            "id": 6426900,
+            "name": "dépollution naturelle",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 237429,
+            "name": "bioaccumulation",
+            "type": 1,
+            "w": 224
+        },
+        {
+            "id": 14319040,
+            "name": "filtration de l'eau",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 42322,
+            "name": "moulage",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 296234356,
+            "name": "production de byssus",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 775109489,
+            "node1": 143723,
+            "node2": 42322,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109885,
+            "node1": 143723,
+            "node2": 88491,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109883,
+            "node1": 143723,
+            "node2": 237429,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109886,
+            "node1": 143723,
+            "node2": 6426900,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109882,
+            "node1": 143723,
+            "node2": 14319040,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109884,
+            "node1": 143723,
+            "node2": 296234356,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:03.220698",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "moule",
+        "#relations": 6,
+        "max_relation_weight": 25.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004860"
+    }
+}

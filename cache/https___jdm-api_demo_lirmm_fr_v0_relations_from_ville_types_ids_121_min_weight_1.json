@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 181000,
+            "name": "banc public",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 92636,
+            "name": "bibliothèque",
+            "type": 1,
+            "w": 4653
+        },
+        {
+            "id": 152476,
+            "name": "salle de concert",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 5955,
+            "name": "parc",
+            "type": 1,
+            "w": 4318
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 37496,
+            "name": "horodateur",
+            "type": 1,
+            "w": 69
+        },
+        {
+            "id": 123492,
+            "name": "statue",
+            "type": 1,
+            "w": 3045
+        },
+        {
+            "id": 133314,
+            "name": "mairie",
+            "type": 1,
+            "w": 2749
+        },
+        {
+            "id": 34996,
+            "name": "espace vert",
+            "type": 1,
+            "w": 383
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046569808,
+            "node1": 136786,
+            "node2": 5955,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 948428899,
+            "node1": 136786,
+            "node2": 34996,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046569765,
+            "node1": 136786,
+            "node2": 37496,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046569873,
+            "node1": 136786,
+            "node2": 92636,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 962088032,
+            "node1": 136786,
+            "node2": 123492,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1150470963,
+            "node1": 136786,
+            "node2": 133314,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 1046570645,
+            "node1": 136786,
+            "node2": 152476,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 948428900,
+            "node1": 136786,
+            "node2": 181000,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:58.665666",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ville",
+        "#relations": 8,
+        "max_relation_weight": 35.0,
+        "#nodes": 9,
+        "duration": "0:00:00.011919"
+    }
+}

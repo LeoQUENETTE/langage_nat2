@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 408177923,
+            "name": "maison de brique",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7272
+        },
+        {
+            "id": 225702,
+            "name": "maison>66839",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 396408,
+            "name": "façade>98040",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 41894,
+            "name": "brique",
+            "type": 1,
+            "w": 551
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37888
+        },
+        {
+            "id": 55716,
+            "name": "maçon",
+            "type": 1,
+            "w": 500
+        },
+        {
+            "id": 225696,
+            "name": "maison>65524",
+            "type": 1,
+            "w": 302
+        },
+        {
+            "id": 102123,
+            "name": "façade",
+            "type": 1,
+            "w": 2639
+        },
+        {
+            "id": 143548,
+            "name": "cheminée",
+            "type": 1,
+            "w": 1400
+        },
+        {
+            "id": 225919,
+            "name": "mur>63281",
+            "type": 1,
+            "w": 62
+        }
+    ],
+    "relations": [
+        {
+            "id": 376055334,
+            "node1": 41894,
+            "node2": 45179,
+            "type": 51,
+            "w": 30.0
+        },
+        {
+            "id": 1069040488,
+            "node1": 41894,
+            "node2": 55716,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 376037592,
+            "node1": 41894,
+            "node2": 102123,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 720838576,
+            "node1": 41894,
+            "node2": 143548,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376055181,
+            "node1": 41894,
+            "node2": 144936,
+            "type": 51,
+            "w": 50.0
+        },
+        {
+            "id": 280207466,
+            "node1": 41894,
+            "node2": 225696,
+            "type": 51,
+            "w": 40.0
+        },
+        {
+            "id": 307602311,
+            "node1": 41894,
+            "node2": 225702,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 661867024,
+            "node1": 41894,
+            "node2": 225919,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376051613,
+            "node1": 41894,
+            "node2": 396408,
+            "type": 51,
+            "w": 28.0
+        },
+        {
+            "id": 1076582885,
+            "node1": 41894,
+            "node2": 408177923,
+            "type": 51,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:15.745353",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "brique",
+        "#relations": 10,
+        "max_relation_weight": 50.0,
+        "#nodes": 11,
+        "duration": "0:00:00.004148"
+    }
+}

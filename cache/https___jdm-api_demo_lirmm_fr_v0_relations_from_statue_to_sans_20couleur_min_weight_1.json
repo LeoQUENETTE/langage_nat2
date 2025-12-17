@@ -1,0 +1,51 @@
+{
+    "nodes": [
+        {
+            "id": 123492,
+            "name": "statue",
+            "type": 1,
+            "w": 3045,
+            "c": 0,
+            "level": 50.0576,
+            "infoid": null,
+            "creationdate": "2007-06-21",
+            "touchdate": "2025-12-16T17:23:11"
+        },
+        {
+            "id": 269561,
+            "name": "sans couleur",
+            "type": 1,
+            "w": 56,
+            "c": 0,
+            "level": 199.0,
+            "infoid": null,
+            "creationdate": "2013-07-23",
+            "touchdate": "2025-12-16T19:47:49"
+        }
+    ],
+    "relations": [],
+    "request": {
+        "types_ids": null,
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:53.817172",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "node1": "statue",
+        "node2": "sans couleur",
+        "#relations": 0,
+        "duration": "0:00:00.004970"
+    }
+}

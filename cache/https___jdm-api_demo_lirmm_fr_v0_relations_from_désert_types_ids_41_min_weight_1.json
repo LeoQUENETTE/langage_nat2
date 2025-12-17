@@ -1,0 +1,378 @@
+{
+    "nodes": [
+        {
+            "id": 15237303,
+            "name": "en:be parched",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15237309,
+            "name": "en:are thirsty",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15537106,
+            "name": "en:to have a raging thirst",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 364201,
+            "name": "migration animale",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 15499600,
+            "name": "en:make sand",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15436243,
+            "name": "en:get stranded",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14922348,
+            "name": "en:be thirsty",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 129829,
+            "name": "sécheresse",
+            "type": 1,
+            "w": 1993
+        },
+        {
+            "id": 144565,
+            "name": "sable",
+            "type": 1,
+            "w": 5303
+        },
+        {
+            "id": 104681,
+            "name": "solitude",
+            "type": 1,
+            "w": 4333
+        },
+        {
+            "id": 122864,
+            "name": "mort",
+            "type": 1,
+            "w": 20389
+        },
+        {
+            "id": 144366,
+            "name": "désert",
+            "type": 1,
+            "w": 4834
+        },
+        {
+            "id": 76068,
+            "name": "avoir la pépie",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15352823,
+            "name": "avoir le palais desséché",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15751481,
+            "name": "en:need watering",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15457661,
+            "name": "en:have an almighty thirst",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15499599,
+            "name": "en:get stuck in the sand",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 136867,
+            "name": "s'ensabler",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 196689,
+            "name": "avoir soif",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 259359,
+            "name": "mourir de soif",
+            "type": 1,
+            "w": 21
+        },
+        {
+            "id": 259400,
+            "name": "crever de soif",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 15237308,
+            "name": "en:to feel thirsty",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15375973,
+            "name": "en:be dying for a drink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15426144,
+            "name": "en:die of thirst",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15491422,
+            "name": "en:am dying for a drink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15491423,
+            "name": "en:are dying for a drink",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15700219,
+            "name": "en:have a raging thirst",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 929750337,
+            "node1": 144366,
+            "node2": 76068,
+            "type": 41,
+            "w": 9.0
+        },
+        {
+            "id": 76566269,
+            "node1": 144366,
+            "node2": 104681,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 2454745,
+            "node1": 144366,
+            "node2": 122864,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 2276101,
+            "node1": 144366,
+            "node2": 129829,
+            "type": 41,
+            "w": 55.0
+        },
+        {
+            "id": 195324517,
+            "node1": 144366,
+            "node2": 136867,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 2454744,
+            "node1": 144366,
+            "node2": 144565,
+            "type": 41,
+            "w": 51.0
+        },
+        {
+            "id": 14640899,
+            "node1": 144366,
+            "node2": 196689,
+            "type": 41,
+            "w": 37.0
+        },
+        {
+            "id": 449453140,
+            "node1": 144366,
+            "node2": 259359,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 28711233,
+            "node1": 144366,
+            "node2": 259400,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 1155344621,
+            "node1": 144366,
+            "node2": 364201,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 667264535,
+            "node1": 144366,
+            "node2": 14922348,
+            "type": 41,
+            "w": 6.0
+        },
+        {
+            "id": 635003653,
+            "node1": 144366,
+            "node2": 15237303,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1079375445,
+            "node1": 144366,
+            "node2": 15237308,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 1079375477,
+            "node1": 144366,
+            "node2": 15237309,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 929734742,
+            "node1": 144366,
+            "node2": 15352823,
+            "type": 41,
+            "w": 19.0
+        },
+        {
+            "id": 1079368673,
+            "node1": 144366,
+            "node2": 15375973,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 438164970,
+            "node1": 144366,
+            "node2": 15426144,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 667265794,
+            "node1": 144366,
+            "node2": 15436243,
+            "type": 41,
+            "w": 10.0
+        },
+        {
+            "id": 438165012,
+            "node1": 144366,
+            "node2": 15457661,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1079368717,
+            "node1": 144366,
+            "node2": 15491422,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079368761,
+            "node1": 144366,
+            "node2": 15491423,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 398286782,
+            "node1": 144366,
+            "node2": 15499599,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 398286780,
+            "node1": 144366,
+            "node2": 15499600,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 1079366722,
+            "node1": 144366,
+            "node2": 15537106,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 1079366766,
+            "node1": 144366,
+            "node2": 15700219,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1011660518,
+            "node1": 144366,
+            "node2": 15751481,
+            "type": 41,
+            "w": 16.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:34.971998",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "désert",
+        "#relations": 26,
+        "max_relation_weight": 55.0,
+        "#nodes": 27,
+        "duration": "0:00:00.091271"
+    }
+}

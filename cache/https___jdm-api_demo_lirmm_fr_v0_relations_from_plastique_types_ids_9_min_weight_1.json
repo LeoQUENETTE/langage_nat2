@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 41004,
+            "name": "pigment",
+            "type": 1,
+            "w": 331
+        },
+        {
+            "id": 110879,
+            "name": "additif",
+            "type": 1,
+            "w": 263
+        },
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3469
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 11964618,
+            "name": "en:nylon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 145712,
+            "name": "nylon",
+            "type": 1,
+            "w": 282
+        }
+    ],
+    "relations": [
+        {
+            "id": 175102,
+            "node1": 85406,
+            "node2": 29208,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 1155363446,
+            "node1": 85406,
+            "node2": 41004,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1155363423,
+            "node1": 85406,
+            "node2": 110879,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 9972336,
+            "node1": 85406,
+            "node2": 145712,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 585318822,
+            "node1": 85406,
+            "node2": 11964618,
+            "type": 9,
+            "w": 7.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:45.204185",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plastique",
+        "#relations": 5,
+        "max_relation_weight": 57.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004388"
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 143613,
+            "name": "porte",
+            "type": 1,
+            "w": 23804
+        },
+        {
+            "id": 2561937,
+            "name": "valorisation immobilière",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 103076,
+            "name": "crédit",
+            "type": 1,
+            "w": 3499
+        },
+        {
+            "id": 158629922,
+            "name": "protection contre les intempéries",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37804
+        },
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7257
+        },
+        {
+            "id": 54974,
+            "name": "confort",
+            "type": 1,
+            "w": 2412
+        },
+        {
+            "id": 16033,
+            "name": "cuisine",
+            "type": 1,
+            "w": 16377
+        },
+        {
+            "id": 88901,
+            "name": "sécurité",
+            "type": 1,
+            "w": 21802
+        },
+        {
+            "id": 34148,
+            "name": "toit",
+            "type": 1,
+            "w": 3941
+        },
+        {
+            "id": 226567,
+            "name": "crédit>120759",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 134362,
+            "name": "sentiment de sécurité",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 1377110,
+            "name": "sentiment d'appartenance",
+            "type": 1,
+            "w": 165
+        },
+        {
+            "id": 52423,
+            "name": "abri",
+            "type": 1,
+            "w": 1926
+        }
+    ],
+    "relations": [
+        {
+            "id": 14658750,
+            "node1": 45179,
+            "node2": 16033,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 14657962,
+            "node1": 45179,
+            "node2": 34148,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1143977706,
+            "node1": 45179,
+            "node2": 52423,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 866455492,
+            "node1": 45179,
+            "node2": 54974,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1152058618,
+            "node1": 45179,
+            "node2": 88901,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 96698892,
+            "node1": 45179,
+            "node2": 103076,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1177796234,
+            "node1": 45179,
+            "node2": 134362,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14657898,
+            "node1": 45179,
+            "node2": 143613,
+            "type": 41,
+            "w": 53.0
+        },
+        {
+            "id": 14652009,
+            "node1": 45179,
+            "node2": 144936,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 96698897,
+            "node1": 45179,
+            "node2": 226567,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 1152058634,
+            "node1": 45179,
+            "node2": 1377110,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1177796243,
+            "node1": 45179,
+            "node2": 2561937,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1018519030,
+            "node1": 45179,
+            "node2": 158629922,
+            "type": 41,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:02.855649",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maison",
+        "#relations": 13,
+        "max_relation_weight": 53.0,
+        "#nodes": 14,
+        "duration": "0:00:00.011947"
+    }
+}

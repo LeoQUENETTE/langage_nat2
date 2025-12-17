@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 249619,
+            "name": "matière minérale",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 152191,
+            "name": "Géologie",
+            "type": 1,
+            "w": 135
+        },
+        {
+            "id": 25008,
+            "name": "pierre",
+            "type": 1,
+            "w": 9678
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 92878,
+            "name": "géologie",
+            "type": 1,
+            "w": 3757
+        },
+        {
+            "id": 7311836,
+            "name": "en:limestone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 164906,
+            "name": "pierre calcaire",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 137312,
+            "name": "roche",
+            "type": 1,
+            "w": 3287
+        },
+        {
+            "id": 86490,
+            "name": "minéral",
+            "type": 1,
+            "w": 1231
+        },
+        {
+            "id": 89591,
+            "name": "table",
+            "type": 1,
+            "w": 8204
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 6927452,
+            "name": "en:mineral",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 165871,
+            "name": "roche métamorphique",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 141576,
+            "name": "marbre",
+            "type": 1,
+            "w": 1436
+        },
+        {
+            "id": 11358,
+            "name": "substance",
+            "type": 1,
+            "w": 4567
+        },
+        {
+            "id": 112155,
+            "name": "minérale",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 15082133,
+            "name": "en:metamorphic rock",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 96163095,
+            "name": "Roche métamorphique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 170542,
+            "name": "minéral organique",
+            "type": 1,
+            "w": 53
+        }
+    ],
+    "relations": [
+        {
+            "id": 425198484,
+            "node1": 141576,
+            "node2": 11358,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 9905696,
+            "node1": 141576,
+            "node2": 25008,
+            "type": 6,
+            "w": 107.0
+        },
+        {
+            "id": 1582190,
+            "node1": 141576,
+            "node2": 29208,
+            "type": 6,
+            "w": 60.0
+        },
+        {
+            "id": 1582191,
+            "node1": 141576,
+            "node2": 86490,
+            "type": 6,
+            "w": 48.0
+        },
+        {
+            "id": 82806062,
+            "node1": 141576,
+            "node2": 89591,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 98399590,
+            "node1": 141576,
+            "node2": 92878,
+            "type": 6,
+            "w": 75.0
+        },
+        {
+            "id": 657628855,
+            "node1": 141576,
+            "node2": 97739,
+            "type": 6,
+            "w": 66.0
+        },
+        {
+            "id": 595651145,
+            "node1": 141576,
+            "node2": 112155,
+            "type": 6,
+            "w": 97.0
+        },
+        {
+            "id": 651535,
+            "node1": 141576,
+            "node2": 137312,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 771084630,
+            "node1": 141576,
+            "node2": 152191,
+            "type": 6,
+            "w": 103.0
+        },
+        {
+            "id": 9929180,
+            "node1": 141576,
+            "node2": 164906,
+            "type": 6,
+            "w": 163.0
+        },
+        {
+            "id": 73893575,
+            "node1": 141576,
+            "node2": 165871,
+            "type": 6,
+            "w": 534.1
+        },
+        {
+            "id": 13606032,
+            "node1": 141576,
+            "node2": 170542,
+            "type": 6,
+            "w": 70.0
+        },
+        {
+            "id": 595651996,
+            "node1": 141576,
+            "node2": 249619,
+            "type": 6,
+            "w": 91.0
+        },
+        {
+            "id": 255911616,
+            "node1": 141576,
+            "node2": 6927452,
+            "type": 6,
+            "w": 93.0
+        },
+        {
+            "id": 703939549,
+            "node1": 141576,
+            "node2": 7311836,
+            "type": 6,
+            "w": 105.0
+        },
+        {
+            "id": 704533301,
+            "node1": 141576,
+            "node2": 15082133,
+            "type": 6,
+            "w": 534.24
+        },
+        {
+            "id": 774502495,
+            "node1": 141576,
+            "node2": 96163095,
+            "type": 6,
+            "w": 534.22
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:24.509744",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "marbre",
+        "#relations": 18,
+        "max_relation_weight": 1000.0,
+        "#nodes": 19,
+        "duration": "0:00:00.011264"
+    }
+}

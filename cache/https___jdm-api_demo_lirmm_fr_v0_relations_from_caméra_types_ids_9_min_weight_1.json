@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 15305333,
+            "name": "point d'image",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15482146,
+            "name": "capteur d'image",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228950,
+            "name": "objectif>103150",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 10881,
+            "name": "bouton",
+            "type": 1,
+            "w": 1349
+        },
+        {
+            "id": 44137,
+            "name": "lentille",
+            "type": 1,
+            "w": 343
+        },
+        {
+            "id": 7053844,
+            "name": "en:pixel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 23859,
+            "name": "caméra",
+            "type": 1,
+            "w": 3086
+        },
+        {
+            "id": 26845,
+            "name": "objectif",
+            "type": 1,
+            "w": 12417
+        },
+        {
+            "id": 82656,
+            "name": "capteur",
+            "type": 1,
+            "w": 480
+        },
+        {
+            "id": 80114,
+            "name": "zoom",
+            "type": 1,
+            "w": 139
+        },
+        {
+            "id": 40584,
+            "name": "viseur",
+            "type": 1,
+            "w": 386
+        },
+        {
+            "id": 111461,
+            "name": "pixel",
+            "type": 1,
+            "w": 334
+        },
+        {
+            "id": 15305330,
+            "name": "point d'écran",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 49668,
+            "name": "microphone",
+            "type": 1,
+            "w": 156
+        }
+    ],
+    "relations": [
+        {
+            "id": 1689489,
+            "node1": 23859,
+            "node2": 10881,
+            "type": 9,
+            "w": 62.0
+        },
+        {
+            "id": 1689490,
+            "node1": 23859,
+            "node2": 26845,
+            "type": 9,
+            "w": 70.0
+        },
+        {
+            "id": 1994678,
+            "node1": 23859,
+            "node2": 40584,
+            "type": 9,
+            "w": 73.0
+        },
+        {
+            "id": 1689488,
+            "node1": 23859,
+            "node2": 44137,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 770910429,
+            "node1": 23859,
+            "node2": 49668,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1131439040,
+            "node1": 23859,
+            "node2": 80114,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 800677398,
+            "node1": 23859,
+            "node2": 82656,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 10532215,
+            "node1": 23859,
+            "node2": 111461,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 10530762,
+            "node1": 23859,
+            "node2": 228950,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 217846276,
+            "node1": 23859,
+            "node2": 7053844,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 931773686,
+            "node1": 23859,
+            "node2": 15305330,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 432483194,
+            "node1": 23859,
+            "node2": 15305333,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 959865080,
+            "node1": 23859,
+            "node2": 15482146,
+            "type": 9,
+            "w": 51.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:34.570485",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "caméra",
+        "#relations": 13,
+        "max_relation_weight": 73.0,
+        "#nodes": 14,
+        "duration": "0:00:00.004372"
+    }
+}

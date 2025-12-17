@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 132184,
+            "name": "Congo",
+            "type": 1,
+            "w": 3616
+        },
+        {
+            "id": 3109951,
+            "name": "Tim Curry",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10833909,
+            "name": "Dylan Walsh",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 9951792,
+            "name": "Ernie Hudson",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 50242882,
+            "name": "Charles Hunter Walsh",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 3313747,
+            "name": "Laura Linney",
+            "type": 1,
+            "w": 2
+        }
+    ],
+    "relations": [
+        {
+            "id": 58150511,
+            "node1": 132184,
+            "node2": 119272,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 88364102,
+            "node1": 132184,
+            "node2": 3109951,
+            "type": 9,
+            "w": 44.0
+        },
+        {
+            "id": 88364100,
+            "node1": 132184,
+            "node2": 3313747,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 232371510,
+            "node1": 132184,
+            "node2": 9951792,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 270852135,
+            "node1": 132184,
+            "node2": 10833909,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 498613890,
+            "node1": 132184,
+            "node2": 50242882,
+            "type": 9,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:24.125759",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Congo",
+        "#relations": 6,
+        "max_relation_weight": 52.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005400"
+    }
+}

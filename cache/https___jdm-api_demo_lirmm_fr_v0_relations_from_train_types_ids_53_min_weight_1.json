@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 24285,
+            "name": "vibration",
+            "type": 1,
+            "w": 576
+        },
+        {
+            "id": 27120,
+            "name": "train",
+            "type": 1,
+            "w": 7952
+        },
+        {
+            "id": 43106,
+            "name": "bruit",
+            "type": 1,
+            "w": 9823
+        },
+        {
+            "id": 99532,
+            "name": "pollution",
+            "type": 1,
+            "w": 12762
+        }
+    ],
+    "relations": [
+        {
+            "id": 1151256139,
+            "node1": 27120,
+            "node2": 24285,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152055505,
+            "node1": 27120,
+            "node2": 43106,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152055489,
+            "node1": 27120,
+            "node2": 99532,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:34.355432",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "train",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004768"
+    }
+}

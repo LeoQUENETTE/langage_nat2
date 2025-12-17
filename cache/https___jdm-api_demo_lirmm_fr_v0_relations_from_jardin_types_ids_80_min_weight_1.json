@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8724
+        },
+        {
+            "id": 78397,
+            "name": "arrosoir",
+            "type": 1,
+            "w": 242
+        }
+    ],
+    "relations": [
+        {
+            "id": 765133732,
+            "node1": 139575,
+            "node2": 78397,
+            "type": 80,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:16.319768",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.007266"
+    }
+}

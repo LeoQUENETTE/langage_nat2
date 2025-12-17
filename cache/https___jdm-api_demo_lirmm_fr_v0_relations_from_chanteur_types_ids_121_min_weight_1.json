@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 40989,
+            "name": "micro",
+            "type": 1,
+            "w": 661
+        },
+        {
+            "id": 96387,
+            "name": "chanteur",
+            "type": 1,
+            "w": 4822
+        },
+        {
+            "id": 51515,
+            "name": "voix",
+            "type": 1,
+            "w": 29093
+        },
+        {
+            "id": 49668,
+            "name": "microphone",
+            "type": 1,
+            "w": 156
+        },
+        {
+            "id": 5921521,
+            "name": "costume de scène",
+            "type": 1,
+            "w": 28
+        }
+    ],
+    "relations": [
+        {
+            "id": 988641480,
+            "node1": 96387,
+            "node2": 40989,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 775088946,
+            "node1": 96387,
+            "node2": 49668,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1150463694,
+            "node1": 96387,
+            "node2": 51515,
+            "type": 121,
+            "w": 39.0
+        },
+        {
+            "id": 988641481,
+            "node1": 96387,
+            "node2": 5921521,
+            "type": 121,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:29.812633",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chanteur",
+        "#relations": 4,
+        "max_relation_weight": 39.0,
+        "#nodes": 5,
+        "duration": "0:00:00.009429"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "nodes": [
+        {
+            "id": 52660,
+            "name": "clé",
+            "type": 1,
+            "w": 4120,
+            "c": 0,
+            "level": 43.5023,
+            "infoid": null,
+            "creationdate": "2007-06-21",
+            "touchdate": "2025-12-16T20:33:54"
+        },
+        {
+            "id": 269561,
+            "name": "sans couleur",
+            "type": 1,
+            "w": 56,
+            "c": 0,
+            "level": 199.0,
+            "infoid": null,
+            "creationdate": "2013-07-23",
+            "touchdate": "2025-12-16T19:47:49"
+        }
+    ],
+    "relations": [
+        {
+            "id": 10655342,
+            "node1": 52660,
+            "node2": 269561,
+            "type": 106,
+            "w": 1.0
+        }
+    ],
+    "request": {
+        "types_ids": null,
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:20.270427",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "node1": "clé",
+        "node2": "sans couleur",
+        "#relations": 1,
+        "max_relation_weight": 1.0,
+        "duration": "0:00:00.003194"
+    }
+}

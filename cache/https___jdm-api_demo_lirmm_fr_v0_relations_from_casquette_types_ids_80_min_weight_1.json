@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 14722653,
+            "name": "drap>140902",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16215,
+            "name": "casquette",
+            "type": 1,
+            "w": 410
+        },
+        {
+            "id": 82414,
+            "name": "drap",
+            "type": 1,
+            "w": 1421
+        }
+    ],
+    "relations": [
+        {
+            "id": 765135700,
+            "node1": 16215,
+            "node2": 82414,
+            "type": 80,
+            "w": 26.0
+        },
+        {
+            "id": 765133559,
+            "node1": 16215,
+            "node2": 14722653,
+            "type": 80,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:42.485184",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "casquette",
+        "#relations": 2,
+        "max_relation_weight": 26.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004285"
+    }
+}

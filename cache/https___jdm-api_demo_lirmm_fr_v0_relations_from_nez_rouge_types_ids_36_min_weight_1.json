@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 1900121,
+            "name": "_INFO-SEM-PLACE-ANATOMICAL",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585997,
+            "name": "_INFO-CNRTL-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317323,
+            "name": "_POLIT_2PG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 152557,
+            "name": "nez rouge",
+            "type": 1,
+            "w": 185
+        }
+    ],
+    "relations": [
+        {
+            "id": 22903459,
+            "node1": 152557,
+            "node2": 217817,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 26406075,
+            "node1": 152557,
+            "node2": 223172,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 2025244,
+            "node1": 152557,
+            "node2": 223173,
+            "type": 36,
+            "w": 361.0
+        },
+        {
+            "id": 2011535,
+            "node1": 152557,
+            "node2": 241794,
+            "type": 36,
+            "w": 78.0
+        },
+        {
+            "id": 2328255,
+            "node1": 152557,
+            "node2": 254876,
+            "type": 36,
+            "w": 75.0
+        },
+        {
+            "id": 2328256,
+            "node1": 152557,
+            "node2": 254877,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 27302987,
+            "node1": 152557,
+            "node2": 254878,
+            "type": 36,
+            "w": 9.0
+        },
+        {
+            "id": 91581895,
+            "node1": 152557,
+            "node2": 276096,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 9008374,
+            "node1": 152557,
+            "node2": 317323,
+            "type": 36,
+            "w": 17.0
+        },
+        {
+            "id": 9008395,
+            "node1": 152557,
+            "node2": 317324,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 98279380,
+            "node1": 152557,
+            "node2": 1900121,
+            "type": 36,
+            "w": 23.0
+        },
+        {
+            "id": 91581481,
+            "node1": 152557,
+            "node2": 2585997,
+            "type": 36,
+            "w": 58.0
+        },
+        {
+            "id": 501125290,
+            "node1": 152557,
+            "node2": 50233540,
+            "type": 36,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:39.690910",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nez rouge",
+        "#relations": 13,
+        "max_relation_weight": 361.0,
+        "#nodes": 14,
+        "duration": "0:00:00.007529"
+    }
+}

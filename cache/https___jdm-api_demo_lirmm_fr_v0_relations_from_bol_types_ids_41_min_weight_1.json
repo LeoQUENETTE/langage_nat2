@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 14330,
+            "name": "satisfaction",
+            "type": 1,
+            "w": 7370
+        },
+        {
+            "id": 257332287,
+            "name": "mélange des saveurs",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 145405,
+            "name": "bol",
+            "type": 1,
+            "w": 991
+        }
+    ],
+    "relations": [
+        {
+            "id": 1153742972,
+            "node1": 145405,
+            "node2": 14330,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1153743004,
+            "node1": 145405,
+            "node2": 257332287,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:03.700131",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bol",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003404"
+    }
+}

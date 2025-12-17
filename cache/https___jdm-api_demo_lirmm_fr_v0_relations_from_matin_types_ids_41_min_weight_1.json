@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 141176,
+            "name": "réveil",
+            "type": 1,
+            "w": 1185
+        },
+        {
+            "id": 79342,
+            "name": "matin",
+            "type": 1,
+            "w": 8817
+        },
+        {
+            "id": 74718,
+            "name": "journée",
+            "type": 1,
+            "w": 6936
+        },
+        {
+            "id": 27157,
+            "name": "se réveiller",
+            "type": 1,
+            "w": 581
+        }
+    ],
+    "relations": [
+        {
+            "id": 14653225,
+            "node1": 79342,
+            "node2": 27157,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14649936,
+            "node1": 79342,
+            "node2": 74718,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 14658197,
+            "node1": 79342,
+            "node2": 141176,
+            "type": 41,
+            "w": 52.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:12.905958",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "matin",
+        "#relations": 3,
+        "max_relation_weight": 52.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004465"
+    }
+}

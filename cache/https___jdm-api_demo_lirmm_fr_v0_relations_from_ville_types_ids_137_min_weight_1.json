@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 92196,
+            "name": "aménagement",
+            "type": 1,
+            "w": 1780
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 212284,
+            "name": "développement économique",
+            "type": 1,
+            "w": 2710
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150589748,
+            "node1": 136786,
+            "node2": 92196,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1150589749,
+            "node1": 136786,
+            "node2": 212284,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:55.477302",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ville",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.010491"
+    }
+}

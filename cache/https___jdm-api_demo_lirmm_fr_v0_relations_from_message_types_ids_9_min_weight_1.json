@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 82561,
+            "name": "signature",
+            "type": 1,
+            "w": 3862
+        },
+        {
+            "id": 139513,
+            "name": "phrase",
+            "type": 1,
+            "w": 6009
+        },
+        {
+            "id": 110638,
+            "name": "expéditeur",
+            "type": 1,
+            "w": 245
+        },
+        {
+            "id": 32132,
+            "name": "mot",
+            "type": 1,
+            "w": 26370
+        },
+        {
+            "id": 108150,
+            "name": "contenu",
+            "type": 1,
+            "w": 10079
+        },
+        {
+            "id": 66372,
+            "name": "texte",
+            "type": 1,
+            "w": 15247
+        },
+        {
+            "id": 51253,
+            "name": "message",
+            "type": 1,
+            "w": 8158
+        },
+        {
+            "id": 10466,
+            "name": "texto",
+            "type": 1,
+            "w": 298
+        }
+    ],
+    "relations": [
+        {
+            "id": 2313392,
+            "node1": 51253,
+            "node2": 10466,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 645279,
+            "node1": 51253,
+            "node2": 32132,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 645280,
+            "node1": 51253,
+            "node2": 66372,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 431692,
+            "node1": 51253,
+            "node2": 82561,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 98978188,
+            "node1": 51253,
+            "node2": 108150,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 1145092486,
+            "node1": 51253,
+            "node2": 110638,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 645278,
+            "node1": 51253,
+            "node2": 139513,
+            "type": 9,
+            "w": 51.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:25.991677",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "message",
+        "#relations": 7,
+        "max_relation_weight": 60.0,
+        "#nodes": 8,
+        "duration": "0:00:00.006126"
+    }
+}

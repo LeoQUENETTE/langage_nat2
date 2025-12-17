@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 132347,
+            "name": "sapin",
+            "type": 1,
+            "w": 1181
+        },
+        {
+            "id": 146632,
+            "name": "forêt",
+            "type": 1,
+            "w": 10610
+        },
+        {
+            "id": 1125,
+            "name": "loup",
+            "type": 1,
+            "w": 3614
+        }
+    ],
+    "relations": [
+        {
+            "id": 1009929052,
+            "node1": 146632,
+            "node2": 1125,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1046570669,
+            "node1": 146632,
+            "node2": 132347,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:34.441788",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "forêt",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005639"
+    }
+}

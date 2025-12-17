@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 246914,
+            "name": "conductivité thermique",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 183748,
+            "name": "point de fusion",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 63069,
+            "name": "densité",
+            "type": 1,
+            "w": 3668
+        },
+        {
+            "id": 2608726,
+            "name": "conductivité électrique",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 144666,
+            "name": "résistance",
+            "type": 1,
+            "w": 8977
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 6381,
+            "name": "conductivité",
+            "type": 1,
+            "w": 168
+        },
+        {
+            "id": 211554,
+            "name": "point d'ébullition",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 65253,
+            "name": "ductilité",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 93751,
+            "name": "malléabilité",
+            "type": 1,
+            "w": 62
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179138645,
+            "node1": 134927,
+            "node2": 6381,
+            "type": 153,
+            "w": 37.0
+        },
+        {
+            "id": 1179139329,
+            "node1": 134927,
+            "node2": 63069,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179139072,
+            "node1": 134927,
+            "node2": 65253,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179139385,
+            "node1": 134927,
+            "node2": 93751,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 720482646,
+            "node1": 134927,
+            "node2": 144666,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179138921,
+            "node1": 134927,
+            "node2": 183748,
+            "type": 153,
+            "w": 45.0
+        },
+        {
+            "id": 1179142849,
+            "node1": 134927,
+            "node2": 211554,
+            "type": 153,
+            "w": 35.0
+        },
+        {
+            "id": 1179139241,
+            "node1": 134927,
+            "node2": 246914,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179139409,
+            "node1": 134927,
+            "node2": 2608726,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:06.990776",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métal",
+        "#relations": 9,
+        "max_relation_weight": 45.0,
+        "#nodes": 10,
+        "duration": "0:00:00.005521"
+    }
+}

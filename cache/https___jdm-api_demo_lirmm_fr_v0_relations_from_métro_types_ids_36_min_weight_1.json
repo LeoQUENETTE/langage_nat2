@@ -1,0 +1,313 @@
+{
+    "nodes": [
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 162761,
+            "name": "_INFO-SEM-PERS",
+            "type": 36,
+            "w": 732
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 1912917,
+            "name": "_INFO-COUNTABLE-YES",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 134491,
+            "name": "métro",
+            "type": 1,
+            "w": 4058
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317323,
+            "name": "_POLIT_2PG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458629,
+            "name": "_INFO-SEM-PLACE-HUMAN",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 15991431,
+            "name": "_PROP-ANIME-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191667,
+            "name": "_INFO-SEM-THING-ARTEFACT",
+            "type": 36,
+            "w": 242
+        }
+    ],
+    "relations": [
+        {
+            "id": 667104,
+            "node1": 134491,
+            "node2": 162759,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 98340439,
+            "node1": 134491,
+            "node2": 162761,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 2164309,
+            "node1": 134491,
+            "node2": 162763,
+            "type": 36,
+            "w": 54.0
+        },
+        {
+            "id": 14402285,
+            "node1": 134491,
+            "node2": 191667,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 98340414,
+            "node1": 134491,
+            "node2": 191669,
+            "type": 36,
+            "w": 10.0
+        },
+        {
+            "id": 61172153,
+            "node1": 134491,
+            "node2": 217817,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 26563352,
+            "node1": 134491,
+            "node2": 223172,
+            "type": 36,
+            "w": 42.0
+        },
+        {
+            "id": 2016080,
+            "node1": 134491,
+            "node2": 223173,
+            "type": 36,
+            "w": 344.0
+        },
+        {
+            "id": 2005091,
+            "node1": 134491,
+            "node2": 241794,
+            "type": 36,
+            "w": 112.0
+        },
+        {
+            "id": 2321853,
+            "node1": 134491,
+            "node2": 254876,
+            "type": 36,
+            "w": 69.0
+        },
+        {
+            "id": 2321854,
+            "node1": 134491,
+            "node2": 254877,
+            "type": 36,
+            "w": 22.0
+        },
+        {
+            "id": 27530021,
+            "node1": 134491,
+            "node2": 254878,
+            "type": 36,
+            "w": 8.0
+        },
+        {
+            "id": 1154625976,
+            "node1": 134491,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 9068698,
+            "node1": 134491,
+            "node2": 317323,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 427413887,
+            "node1": 134491,
+            "node2": 438949,
+            "type": 36,
+            "w": 33.0
+        },
+        {
+            "id": 61646277,
+            "node1": 134491,
+            "node2": 458629,
+            "type": 36,
+            "w": 48.0
+        },
+        {
+            "id": 473517770,
+            "node1": 134491,
+            "node2": 1912917,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 54773513,
+            "node1": 134491,
+            "node2": 2585996,
+            "type": 36,
+            "w": 51.0
+        },
+        {
+            "id": 473517769,
+            "node1": 134491,
+            "node2": 15991431,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 418205814,
+            "node1": 134491,
+            "node2": 15991432,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 499828885,
+            "node1": 134491,
+            "node2": 50233540,
+            "type": 36,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:44.645634",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métro",
+        "#relations": 21,
+        "max_relation_weight": 344.0,
+        "#nodes": 22,
+        "duration": "0:00:00.005674"
+    }
+}

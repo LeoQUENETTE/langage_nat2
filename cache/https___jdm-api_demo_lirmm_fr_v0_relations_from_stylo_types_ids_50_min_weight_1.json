@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3471
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2791
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 143598,
+            "name": "caoutchouc",
+            "type": 1,
+            "w": 1173
+        }
+    ],
+    "relations": [
+        {
+            "id": 765196796,
+            "node1": 15509,
+            "node2": 85406,
+            "type": 50,
+            "w": 96.0
+        },
+        {
+            "id": 1152449669,
+            "node1": 15509,
+            "node2": 134927,
+            "type": 50,
+            "w": 27.0
+        },
+        {
+            "id": 1152449688,
+            "node1": 15509,
+            "node2": 143598,
+            "type": 50,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            50
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:02.951525",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 3,
+        "max_relation_weight": 96.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004658"
+    }
+}

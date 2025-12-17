@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 145078,
+            "name": "clôture",
+            "type": 1,
+            "w": 475
+        },
+        {
+            "id": 143584,
+            "name": "piquet",
+            "type": 1,
+            "w": 288
+        },
+        {
+            "id": 140702,
+            "name": "grillage",
+            "type": 1,
+            "w": 145
+        },
+        {
+            "id": 155220,
+            "name": "fil de fer",
+            "type": 1,
+            "w": 172
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131445330,
+            "node1": 145078,
+            "node2": 140702,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 9971247,
+            "node1": 145078,
+            "node2": 143584,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 1131445329,
+            "node1": 145078,
+            "node2": 155220,
+            "type": 9,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:36.965182",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "clôture",
+        "#relations": 3,
+        "max_relation_weight": 31.0,
+        "#nodes": 4,
+        "duration": "0:00:00.002993"
+    }
+}

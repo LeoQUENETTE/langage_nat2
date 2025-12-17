@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 101285,
+            "name": "musée",
+            "type": 1,
+            "w": 5173
+        },
+        {
+            "id": 144838,
+            "name": "souvenirs",
+            "type": 1,
+            "w": 2671
+        },
+        {
+            "id": 104243,
+            "name": "connaissance",
+            "type": 1,
+            "w": 17103
+        },
+        {
+            "id": 100370,
+            "name": "exposition",
+            "type": 1,
+            "w": 6466
+        },
+        {
+            "id": 34025,
+            "name": "savoir",
+            "type": 1,
+            "w": 55072
+        },
+        {
+            "id": 77487,
+            "name": "connaissances",
+            "type": 1,
+            "w": 7379
+        },
+        {
+            "id": 163973681,
+            "name": "expositions temporaires",
+            "type": 1,
+            "w": 78
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155914519,
+            "node1": 101285,
+            "node2": 34025,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155911617,
+            "node1": 101285,
+            "node2": 77487,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 1155914528,
+            "node1": 101285,
+            "node2": 100370,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1155910357,
+            "node1": 101285,
+            "node2": 104243,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 1155910371,
+            "node1": 101285,
+            "node2": 144838,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155910387,
+            "node1": 101285,
+            "node2": 163973681,
+            "type": 53,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:26.295748",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "musée",
+        "#relations": 6,
+        "max_relation_weight": 27.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004938"
+    }
+}

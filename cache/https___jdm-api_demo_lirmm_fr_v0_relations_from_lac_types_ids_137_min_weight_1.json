@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 42081,
+            "name": "filtration",
+            "type": 1,
+            "w": 388
+        },
+        {
+            "id": 26046,
+            "name": "évaporation",
+            "type": 1,
+            "w": 261
+        },
+        {
+            "id": 33976,
+            "name": "lac",
+            "type": 1,
+            "w": 3851
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157284524,
+            "node1": 33976,
+            "node2": 26046,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1157284545,
+            "node1": 33976,
+            "node2": 42081,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:26.367148",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lac",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004535"
+    }
+}

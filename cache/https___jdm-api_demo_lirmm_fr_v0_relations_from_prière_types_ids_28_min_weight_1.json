@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 96932,
+            "name": "yahvé",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 18252,
+            "name": "yhwh",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 108992,
+            "name": "yahveh",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 63018,
+            "name": "prière",
+            "type": 1,
+            "w": 4102
+        }
+    ],
+    "relations": [
+        {
+            "id": 721179601,
+            "node1": 63018,
+            "node2": 18252,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 375711895,
+            "node1": 63018,
+            "node2": 96932,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 585210906,
+            "node1": 63018,
+            "node2": 108992,
+            "type": 28,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:47.096138",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "prière",
+        "#relations": 3,
+        "max_relation_weight": 37.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004043"
+    }
+}

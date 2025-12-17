@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 44397,
+            "name": "pantalon",
+            "type": 1,
+            "w": 1813
+        },
+        {
+            "id": 1302957,
+            "name": "nez rouge>25792",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 83208,
+            "name": "cirque",
+            "type": 1,
+            "w": 2001
+        },
+        {
+            "id": 75377,
+            "name": "chaussure",
+            "type": 1,
+            "w": 2192
+        },
+        {
+            "id": 142873,
+            "name": "costume",
+            "type": 1,
+            "w": 897
+        },
+        {
+            "id": 24670,
+            "name": "chapeau",
+            "type": 1,
+            "w": 2164
+        },
+        {
+            "id": 110261,
+            "name": "clown",
+            "type": 1,
+            "w": 1073
+        },
+        {
+            "id": 152557,
+            "name": "nez rouge",
+            "type": 1,
+            "w": 185
+        }
+    ],
+    "relations": [
+        {
+            "id": 240581429,
+            "node1": 110261,
+            "node2": 24670,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 240581426,
+            "node1": 110261,
+            "node2": 44397,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 240581424,
+            "node1": 110261,
+            "node2": 75377,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1046569877,
+            "node1": 110261,
+            "node2": 83208,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 240581428,
+            "node1": 110261,
+            "node2": 142873,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 409848403,
+            "node1": 110261,
+            "node2": 152557,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 409848404,
+            "node1": 110261,
+            "node2": 1302957,
+            "type": 121,
+            "w": 23.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:44.795330",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "clown",
+        "#relations": 7,
+        "max_relation_weight": 30.0,
+        "#nodes": 8,
+        "duration": "0:00:00.003911"
+    }
+}

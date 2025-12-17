@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 238986704,
+            "name": "formation de deltas",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 133563,
+            "name": "barque",
+            "type": 1,
+            "w": 721
+        },
+        {
+            "id": 69943,
+            "name": "fleuve",
+            "type": 1,
+            "w": 3979
+        },
+        {
+            "id": 11696927,
+            "name": "fertilité des sols",
+            "type": 777,
+            "w": 162
+        },
+        {
+            "id": 58259,
+            "name": "inondation",
+            "type": 1,
+            "w": 1651
+        },
+        {
+            "id": 101140,
+            "name": "irrigation",
+            "type": 1,
+            "w": 818
+        },
+        {
+            "id": 245719,
+            "name": "transport fluvial",
+            "type": 1,
+            "w": 63
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177604153,
+            "node1": 69943,
+            "node2": 58259,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1035065853,
+            "node1": 69943,
+            "node2": 101140,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 285832865,
+            "node1": 69943,
+            "node2": 133563,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1035065865,
+            "node1": 69943,
+            "node2": 245719,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 940314966,
+            "node1": 69943,
+            "node2": 11696927,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 1035065880,
+            "node1": 69943,
+            "node2": 238986704,
+            "type": 41,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:21.326253",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleuve",
+        "#relations": 6,
+        "max_relation_weight": 36.0,
+        "#nodes": 7,
+        "duration": "0:00:00.003691"
+    }
+}

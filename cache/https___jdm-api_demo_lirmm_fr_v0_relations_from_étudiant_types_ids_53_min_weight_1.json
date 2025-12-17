@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 238104,
+            "name": "thèse>229294",
+            "type": 1,
+            "w": 63
+        },
+        {
+            "id": 132443,
+            "name": "devoir",
+            "type": 1,
+            "w": 72181
+        },
+        {
+            "id": 104243,
+            "name": "connaissance",
+            "type": 1,
+            "w": 17045
+        },
+        {
+            "id": 123769,
+            "name": "étudiant",
+            "type": 1,
+            "w": 5544
+        },
+        {
+            "id": 40873,
+            "name": "projet",
+            "type": 1,
+            "w": 23817
+        },
+        {
+            "id": 221077,
+            "name": "copie>132443",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 99884,
+            "name": "mémoire",
+            "type": 1,
+            "w": 12626
+        },
+        {
+            "id": 140358,
+            "name": "recherche",
+            "type": 1,
+            "w": 34149
+        },
+        {
+            "id": 7626,
+            "name": "copie",
+            "type": 1,
+            "w": 2765
+        },
+        {
+            "id": 219355,
+            "name": "mémoire>67498",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 114800,
+            "name": "emploi du temps",
+            "type": 1,
+            "w": 298
+        }
+    ],
+    "relations": [
+        {
+            "id": 425333628,
+            "node1": 123769,
+            "node2": 7626,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1157936331,
+            "node1": 123769,
+            "node2": 40873,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 479421552,
+            "node1": 123769,
+            "node2": 99884,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 1131440509,
+            "node1": 123769,
+            "node2": 104243,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 769627733,
+            "node1": 123769,
+            "node2": 114800,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 1131440264,
+            "node1": 123769,
+            "node2": 132443,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1157936313,
+            "node1": 123769,
+            "node2": 140358,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376993201,
+            "node1": 123769,
+            "node2": 219355,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 425333630,
+            "node1": 123769,
+            "node2": 221077,
+            "type": 53,
+            "w": 41.0
+        },
+        {
+            "id": 376991548,
+            "node1": 123769,
+            "node2": 238104,
+            "type": 53,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:36.218744",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "étudiant",
+        "#relations": 10,
+        "max_relation_weight": 41.0,
+        "#nodes": 11,
+        "duration": "0:00:00.009983"
+    }
+}

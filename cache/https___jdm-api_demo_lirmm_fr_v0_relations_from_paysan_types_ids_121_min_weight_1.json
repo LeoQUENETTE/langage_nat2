@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 37194,
+            "name": "poule",
+            "type": 1,
+            "w": 2161
+        },
+        {
+            "id": 256974497,
+            "name": "champ de riz",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 58906,
+            "name": "tracteur",
+            "type": 1,
+            "w": 1121
+        },
+        {
+            "id": 19554,
+            "name": "paysan",
+            "type": 1,
+            "w": 2855
+        }
+    ],
+    "relations": [
+        {
+            "id": 1033717950,
+            "node1": 19554,
+            "node2": 37194,
+            "type": 121,
+            "w": 26.0
+        },
+        {
+            "id": 1131462231,
+            "node1": 19554,
+            "node2": 58906,
+            "type": 121,
+            "w": 35.0
+        },
+        {
+            "id": 1132463774,
+            "node1": 19554,
+            "node2": 256974497,
+            "type": 121,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:27.290291",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "paysan",
+        "#relations": 3,
+        "max_relation_weight": 35.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004087"
+    }
+}

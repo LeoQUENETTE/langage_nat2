@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 119299833,
+            "name": "Livre pour enfants",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15071158,
+            "name": "en:piece of music",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 43747,
+            "name": "compilation",
+            "type": 1,
+            "w": 2424
+        },
+        {
+            "id": 216292,
+            "name": "morceau de musique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 214244,
+            "name": "livre>96312",
+            "type": 1,
+            "w": 601
+        },
+        {
+            "id": 302902,
+            "name": "oeuvre musicale",
+            "type": 777,
+            "w": 74
+        },
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5529
+        },
+        {
+            "id": 142787,
+            "name": "livre",
+            "type": 1,
+            "w": 18589
+        },
+        {
+            "id": 54770,
+            "name": "document",
+            "type": 1,
+            "w": 5131
+        },
+        {
+            "id": 111867,
+            "name": "enregistrement",
+            "type": 1,
+            "w": 2478
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 15413678,
+            "name": "en:musical piece",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7262873,
+            "name": "en:document",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 203134,
+            "name": "livre pour enfants",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 110519,
+            "name": "recueil",
+            "type": 1,
+            "w": 3048
+        },
+        {
+            "id": 1762831,
+            "name": "publication>26038>142787",
+            "type": 1,
+            "w": 2
+        }
+    ],
+    "relations": [
+        {
+            "id": 1028354150,
+            "node1": 113672,
+            "node2": 43747,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 80652583,
+            "node1": 113672,
+            "node2": 54770,
+            "type": 6,
+            "w": 47.0
+        },
+        {
+            "id": 110485870,
+            "node1": 113672,
+            "node2": 110519,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 1150463624,
+            "node1": 113672,
+            "node2": 111867,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 629677,
+            "node1": 113672,
+            "node2": 135190,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 9914865,
+            "node1": 113672,
+            "node2": 142787,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 71684582,
+            "node1": 113672,
+            "node2": 203134,
+            "type": 6,
+            "w": 4.0
+        },
+        {
+            "id": 97321894,
+            "node1": 113672,
+            "node2": 214244,
+            "type": 6,
+            "w": 46.0
+        },
+        {
+            "id": 704750857,
+            "node1": 113672,
+            "node2": 216292,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 280269320,
+            "node1": 113672,
+            "node2": 302902,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 28971374,
+            "node1": 113672,
+            "node2": 1762831,
+            "type": 6,
+            "w": 2.0
+        },
+        {
+            "id": 377343808,
+            "node1": 113672,
+            "node2": 7262873,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 598718983,
+            "node1": 113672,
+            "node2": 15071158,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 705218260,
+            "node1": 113672,
+            "node2": 15413678,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 774531281,
+            "node1": 113672,
+            "node2": 119299833,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:41.775360",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "album",
+        "#relations": 15,
+        "max_relation_weight": 59.0,
+        "#nodes": 16,
+        "duration": "0:00:00.093624"
+    }
+}

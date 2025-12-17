@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 67093,
+            "name": "collier",
+            "type": 1,
+            "w": 1194
+        },
+        {
+            "id": 13638050,
+            "name": "::>66:52119>17:398668",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 74558,
+            "name": "os",
+            "type": 1,
+            "w": 3560
+        },
+        {
+            "id": 95256,
+            "name": "queue",
+            "type": 1,
+            "w": 4125
+        },
+        {
+            "id": 87687,
+            "name": "chenil",
+            "type": 1,
+            "w": 217
+        },
+        {
+            "id": 233278,
+            "name": "collier>17559",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 141708,
+            "name": "laisse",
+            "type": 1,
+            "w": 4269
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8763
+        }
+    ],
+    "relations": [
+        {
+            "id": 486386419,
+            "node1": 4455,
+            "node2": 67093,
+            "type": 121,
+            "w": 46.0
+        },
+        {
+            "id": 1040288370,
+            "node1": 4455,
+            "node2": 74558,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1066269520,
+            "node1": 4455,
+            "node2": 87687,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1046570625,
+            "node1": 4455,
+            "node2": 95256,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1131463302,
+            "node1": 4455,
+            "node2": 141708,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 486386477,
+            "node1": 4455,
+            "node2": 233278,
+            "type": 121,
+            "w": 144.0
+        },
+        {
+            "id": 345938813,
+            "node1": 4455,
+            "node2": 13638050,
+            "type": 121,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:59.482020",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chien",
+        "#relations": 7,
+        "max_relation_weight": 144.0,
+        "#nodes": 8,
+        "duration": "0:00:00.007041"
+    }
+}

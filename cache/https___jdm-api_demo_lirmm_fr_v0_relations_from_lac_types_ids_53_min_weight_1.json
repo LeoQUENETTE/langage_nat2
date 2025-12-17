@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 170100353,
+            "name": "loisirs nautiques",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 389456,
+            "name": "écosystème aquatique",
+            "type": 1,
+            "w": 336
+        },
+        {
+            "id": 33976,
+            "name": "lac",
+            "type": 1,
+            "w": 3851
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157284526,
+            "node1": 33976,
+            "node2": 389456,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1157284547,
+            "node1": 33976,
+            "node2": 170100353,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:26.545865",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lac",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003613"
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 15072636,
+            "name": "en:landing field",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15072637,
+            "name": "en:flying field",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 279475452,
+            "name": "hub de transport",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94262,
+            "name": "aéroport",
+            "type": 1,
+            "w": 3120
+        },
+        {
+            "id": 7612736,
+            "name": "en:field",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 34156,
+            "name": "terminal",
+            "type": 1,
+            "w": 1363
+        },
+        {
+            "id": 176390,
+            "name": "hub",
+            "type": 1,
+            "w": 133
+        },
+        {
+            "id": 359144,
+            "name": "infrastructure de transport",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 45109,
+            "name": "édifice",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 7086,
+            "name": "autorité",
+            "type": 1,
+            "w": 16444
+        },
+        {
+            "id": 257828,
+            "name": "zone de transit",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 290786,
+            "name": "hub aérien",
+            "type": 777,
+            "w": 52
+        },
+        {
+            "id": 6978037,
+            "name": "en:air",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14918151,
+            "name": "en:airfield",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5558955,
+            "name": "infrastructure construite par l'homme",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 695182289,
+            "node1": 94262,
+            "node2": 7086,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 1150536373,
+            "node1": 94262,
+            "node2": 34156,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 1155916194,
+            "node1": 94262,
+            "node2": 45109,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 629408,
+            "node1": 94262,
+            "node2": 135190,
+            "type": 6,
+            "w": 99.0
+        },
+        {
+            "id": 1150572836,
+            "node1": 94262,
+            "node2": 176390,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1150770241,
+            "node1": 94262,
+            "node2": 257828,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1150539217,
+            "node1": 94262,
+            "node2": 290786,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 1150536372,
+            "node1": 94262,
+            "node2": 359144,
+            "type": 6,
+            "w": 64.0
+        },
+        {
+            "id": 377056199,
+            "node1": 94262,
+            "node2": 5558955,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 728139858,
+            "node1": 94262,
+            "node2": 6978037,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 412726392,
+            "node1": 94262,
+            "node2": 7612736,
+            "type": 6,
+            "w": 45.0
+        },
+        {
+            "id": 412726395,
+            "node1": 94262,
+            "node2": 14918151,
+            "type": 6,
+            "w": 39.0
+        },
+        {
+            "id": 412726394,
+            "node1": 94262,
+            "node2": 15072636,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 412726393,
+            "node1": 94262,
+            "node2": 15072637,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 1150536817,
+            "node1": 94262,
+            "node2": 279475452,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:08.411397",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "aéroport",
+        "#relations": 15,
+        "max_relation_weight": 99.0,
+        "#nodes": 16,
+        "duration": "0:00:00.056969"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 98471,
+            "name": "Lens",
+            "type": 1,
+            "w": 1467
+        },
+        {
+            "id": 144876,
+            "name": "Béthune",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 63618,
+            "name": "Dunkerque",
+            "type": 1,
+            "w": 1564
+        },
+        {
+            "id": 154394,
+            "name": "Stockolm",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        },
+        {
+            "id": 138334,
+            "name": "Nord",
+            "type": 1,
+            "w": 4821
+        },
+        {
+            "id": 137564,
+            "name": "Cambrai",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 72761,
+            "name": "Saint-Omer",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 19668,
+            "name": "Saint-Aubin",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 24844,
+            "name": "Anzin",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 78115,
+            "name": "Avesnes-sur-Helpe",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 125134,
+            "name": "Lille",
+            "type": 1,
+            "w": 3537
+        },
+        {
+            "id": 140366,
+            "name": "Valenciennes",
+            "type": 1,
+            "w": 903
+        },
+        {
+            "id": 91613,
+            "name": "Calais",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 105214,
+            "name": "Douai",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 48812,
+            "name": "Arras",
+            "type": 1,
+            "w": 179
+        },
+        {
+            "id": 117784,
+            "name": "Boulogne-sur-Mer",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 68557,
+            "name": "Montreuil",
+            "type": 1,
+            "w": 135
+        }
+    ],
+    "relations": [
+        {
+            "id": 12799829,
+            "node1": 138334,
+            "node2": 19668,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 581189480,
+            "node1": 138334,
+            "node2": 20564,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 12799815,
+            "node1": 138334,
+            "node2": 24844,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 2412235,
+            "node1": 138334,
+            "node2": 48812,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2412242,
+            "node1": 138334,
+            "node2": 63618,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2412245,
+            "node1": 138334,
+            "node2": 68557,
+            "type": 9,
+            "w": 24.0
+        },
+        {
+            "id": 2412246,
+            "node1": 138334,
+            "node2": 72761,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 2412236,
+            "node1": 138334,
+            "node2": 78115,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2412239,
+            "node1": 138334,
+            "node2": 91613,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2412243,
+            "node1": 138334,
+            "node2": 98471,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2412241,
+            "node1": 138334,
+            "node2": 105214,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2412238,
+            "node1": 138334,
+            "node2": 117784,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 2412244,
+            "node1": 138334,
+            "node2": 125134,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 2412240,
+            "node1": 138334,
+            "node2": 137564,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 2412247,
+            "node1": 138334,
+            "node2": 140366,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 2412237,
+            "node1": 138334,
+            "node2": 144876,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 10527625,
+            "node1": 138334,
+            "node2": 154394,
+            "type": 9,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:06.261028",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Nord",
+        "#relations": 17,
+        "max_relation_weight": 37.0,
+        "#nodes": 18,
+        "duration": "0:00:00.004989"
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 131521,
+            "name": "fumée",
+            "type": 1,
+            "w": 3156
+        },
+        {
+            "id": 156356,
+            "name": "braises",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 130610,
+            "name": "flammes",
+            "type": 1,
+            "w": 382
+        },
+        {
+            "id": 79750,
+            "name": "tison",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 27184,
+            "name": "foyer",
+            "type": 1,
+            "w": 2825
+        },
+        {
+            "id": 110910,
+            "name": "chaleur",
+            "type": 1,
+            "w": 7778
+        },
+        {
+            "id": 143703,
+            "name": "feu",
+            "type": 1,
+            "w": 10032
+        },
+        {
+            "id": 94788,
+            "name": "combustible",
+            "type": 1,
+            "w": 1266
+        },
+        {
+            "id": 145792,
+            "name": "lumière",
+            "type": 1,
+            "w": 13461
+        },
+        {
+            "id": 81830,
+            "name": "flammèche",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 140777,
+            "name": "flamme",
+            "type": 1,
+            "w": 2730
+        },
+        {
+            "id": 143794,
+            "name": "cendre",
+            "type": 1,
+            "w": 522
+        },
+        {
+            "id": 144437,
+            "name": "étincelle",
+            "type": 1,
+            "w": 309
+        },
+        {
+            "id": 5966153,
+            "name": "Fumée",
+            "type": 1,
+            "w": 26
+        }
+    ],
+    "relations": [
+        {
+            "id": 123276,
+            "node1": 143703,
+            "node2": 27184,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 10533530,
+            "node1": 143703,
+            "node2": 79750,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 2199373,
+            "node1": 143703,
+            "node2": 81830,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1158642786,
+            "node1": 143703,
+            "node2": 94788,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 123277,
+            "node1": 143703,
+            "node2": 110910,
+            "type": 9,
+            "w": 78.0
+        },
+        {
+            "id": 2142547,
+            "node1": 143703,
+            "node2": 130610,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 391048,
+            "node1": 143703,
+            "node2": 131521,
+            "type": 9,
+            "w": 69.0
+        },
+        {
+            "id": 123273,
+            "node1": 143703,
+            "node2": 140777,
+            "type": 9,
+            "w": 138.0
+        },
+        {
+            "id": 391047,
+            "node1": 143703,
+            "node2": 143794,
+            "type": 9,
+            "w": 69.0
+        },
+        {
+            "id": 168712,
+            "node1": 143703,
+            "node2": 144437,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 158998,
+            "node1": 143703,
+            "node2": 145792,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 2199374,
+            "node1": 143703,
+            "node2": 156356,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 226760681,
+            "node1": 143703,
+            "node2": 5966153,
+            "type": 9,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:05.861085",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "feu",
+        "#relations": 13,
+        "max_relation_weight": 138.0,
+        "#nodes": 14,
+        "duration": "0:00:00.005847"
+    }
+}

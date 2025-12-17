@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 481209002,
+            "name": "annonce de l'heure",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 101886,
+            "name": "cloche",
+            "type": 1,
+            "w": 556
+        },
+        {
+            "id": 14025635,
+            "name": "rassemblement de personnes",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 480996589,
+            "name": "fin de la messe",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 480996588,
+            "name": "rassemblement des personnes",
+            "type": 1,
+            "w": 0
+        }
+    ],
+    "relations": [
+        {
+            "id": 1180259331,
+            "node1": 101886,
+            "node2": 14025635,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1180141071,
+            "node1": 101886,
+            "node2": 480996588,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1180141091,
+            "node1": 101886,
+            "node2": 480996589,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1180259343,
+            "node1": 101886,
+            "node2": 481209002,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:44.271199",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cloche",
+        "#relations": 4,
+        "max_relation_weight": 25.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004096"
+    }
+}

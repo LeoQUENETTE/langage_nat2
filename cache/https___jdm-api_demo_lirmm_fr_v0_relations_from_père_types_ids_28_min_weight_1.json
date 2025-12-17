@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 12146987,
+            "name": "détermination de la présence d'échantillon du père reçu",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 12190174,
+            "name": "mesure de taille du patient",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 12242786,
+            "name": "mesure de taille du patient | technique indéterminée | père | ponctuel | résultat numérique | longueur",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 102812,
+            "name": "père",
+            "type": 1,
+            "w": 32980
+        },
+        {
+            "id": 12107090,
+            "name": "taille du patient",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12209339,
+            "name": "technique indéterminée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12095405,
+            "name": "échantillon du père reçu",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 375920024,
+            "node1": 102812,
+            "node2": 12095405,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375843458,
+            "node1": 102812,
+            "node2": 12107090,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 375951917,
+            "node1": 102812,
+            "node2": 12146987,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375931674,
+            "node1": 102812,
+            "node2": 12190174,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375853759,
+            "node1": 102812,
+            "node2": 12209339,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375872061,
+            "node1": 102812,
+            "node2": 12242786,
+            "type": 28,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:31.908307",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "père",
+        "#relations": 6,
+        "max_relation_weight": 34.0,
+        "#nodes": 7,
+        "duration": "0:00:00.011512"
+    }
+}

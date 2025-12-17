@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 162341,
+            "name": "légo",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 61185,
+            "name": "pelle",
+            "type": 1,
+            "w": 1115
+        },
+        {
+            "id": 96851,
+            "name": "pièce",
+            "type": 1,
+            "w": 8424
+        },
+        {
+            "id": 139123,
+            "name": "poupée",
+            "type": 1,
+            "w": 499
+        },
+        {
+            "id": 160023,
+            "name": "piles",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 117579,
+            "name": "jouet",
+            "type": 1,
+            "w": 1894
+        }
+    ],
+    "relations": [
+        {
+            "id": 9974774,
+            "node1": 117579,
+            "node2": 61185,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 961890342,
+            "node1": 117579,
+            "node2": 96851,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1811676,
+            "node1": 117579,
+            "node2": 139123,
+            "type": 9,
+            "w": 56.0
+        },
+        {
+            "id": 1146672995,
+            "node1": 117579,
+            "node2": 139779,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1035087720,
+            "node1": 117579,
+            "node2": 160023,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 1811673,
+            "node1": 117579,
+            "node2": 162341,
+            "type": 9,
+            "w": 51.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:46.482188",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jouet",
+        "#relations": 6,
+        "max_relation_weight": 56.0,
+        "#nodes": 7,
+        "duration": "0:00:00.008885"
+    }
+}

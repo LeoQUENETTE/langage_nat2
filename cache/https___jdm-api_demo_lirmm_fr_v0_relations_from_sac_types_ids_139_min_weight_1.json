@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 15339527,
+            "name": "en:buffet launch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 40635,
+            "name": "sac",
+            "type": 1,
+            "w": 4080
+        },
+        {
+            "id": 676954,
+            "name": "porter>171870",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 775106646,
+            "node1": 40635,
+            "node2": 676954,
+            "type": 139,
+            "w": 25.0
+        },
+        {
+            "id": 775104663,
+            "node1": 40635,
+            "node2": 15339527,
+            "type": 139,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            139
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:58.820958",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sac",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004789"
+    }
+}

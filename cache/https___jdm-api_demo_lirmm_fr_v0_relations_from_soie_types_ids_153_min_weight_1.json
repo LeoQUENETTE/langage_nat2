@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 28937,
+            "name": "soie",
+            "type": 1,
+            "w": 2409
+        },
+        {
+            "id": 57216,
+            "name": "délicatesse",
+            "type": 1,
+            "w": 370
+        }
+    ],
+    "relations": [
+        {
+            "id": 765217942,
+            "node1": 28937,
+            "node2": 57216,
+            "type": 153,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:39.596109",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soie",
+        "#relations": 1,
+        "max_relation_weight": 31.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004036"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 16704,
+            "name": "docteur",
+            "type": 1,
+            "w": 5494
+        },
+        {
+            "id": 74419,
+            "name": "traitement",
+            "type": 1,
+            "w": 10084
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177179349,
+            "node1": 16704,
+            "node2": 74419,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:04.929960",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "docteur",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003716"
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 261228795,
+            "name": "expression de la différence",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 316817,
+            "name": "création artistique",
+            "type": 1,
+            "w": 392
+        },
+        {
+            "id": 83208,
+            "name": "cirque",
+            "type": 1,
+            "w": 2001
+        },
+        {
+            "id": 73457,
+            "name": "artiste",
+            "type": 1,
+            "w": 6039
+        },
+        {
+            "id": 133393,
+            "name": "sculpture",
+            "type": 1,
+            "w": 3401
+        },
+        {
+            "id": 51970,
+            "name": "représentation",
+            "type": 1,
+            "w": 11814
+        },
+        {
+            "id": 143497,
+            "name": "création",
+            "type": 1,
+            "w": 9807
+        },
+        {
+            "id": 35841,
+            "name": "peinture",
+            "type": 1,
+            "w": 6991
+        },
+        {
+            "id": 66909,
+            "name": "spectacle",
+            "type": 1,
+            "w": 6674
+        },
+        {
+            "id": 257713,
+            "name": "dessin à main levée",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 411325,
+            "name": "Promotion",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 15414802,
+            "name": "en:freehand drawing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 137522315,
+            "name": "influence culturelle",
+            "type": 1,
+            "w": 537
+        }
+    ],
+    "relations": [
+        {
+            "id": 720644619,
+            "node1": 73457,
+            "node2": 35841,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 671431926,
+            "node1": 73457,
+            "node2": 51970,
+            "type": 137,
+            "w": 75.0
+        },
+        {
+            "id": 948448576,
+            "node1": 73457,
+            "node2": 66909,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 787873989,
+            "node1": 73457,
+            "node2": 83208,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 720644627,
+            "node1": 73457,
+            "node2": 133393,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 720644584,
+            "node1": 73457,
+            "node2": 143497,
+            "type": 137,
+            "w": 164.0
+        },
+        {
+            "id": 384631066,
+            "node1": 73457,
+            "node2": 257713,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 1011178371,
+            "node1": 73457,
+            "node2": 316817,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 948448720,
+            "node1": 73457,
+            "node2": 411325,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 479289399,
+            "node1": 73457,
+            "node2": 15414802,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 775109732,
+            "node1": 73457,
+            "node2": 137522315,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 810987396,
+            "node1": 73457,
+            "node2": 261228795,
+            "type": 137,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:53.502576",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "artiste",
+        "#relations": 12,
+        "max_relation_weight": 164.0,
+        "#nodes": 13,
+        "duration": "0:00:00.010189"
+    }
+}

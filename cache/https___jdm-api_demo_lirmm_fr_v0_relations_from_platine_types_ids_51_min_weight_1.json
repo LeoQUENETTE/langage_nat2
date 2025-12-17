@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 261224870,
+            "name": "bague en platine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 396160615,
+            "name": "anneau de platine",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 45049,
+            "name": "montre",
+            "type": 1,
+            "w": 5452
+        },
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1423
+        },
+        {
+            "id": 67093,
+            "name": "collier",
+            "type": 1,
+            "w": 1196
+        },
+        {
+            "id": 145641,
+            "name": "platine",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 142553,
+            "name": "alliance",
+            "type": 1,
+            "w": 4065
+        },
+        {
+            "id": 69271,
+            "name": "électrode",
+            "type": 1,
+            "w": 84
+        }
+    ],
+    "relations": [
+        {
+            "id": 376055236,
+            "node1": 145641,
+            "node2": 16912,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 1177797518,
+            "node1": 145641,
+            "node2": 45049,
+            "type": 51,
+            "w": 39.0
+        },
+        {
+            "id": 76659448,
+            "node1": 145641,
+            "node2": 67093,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 1177792877,
+            "node1": 145641,
+            "node2": 69271,
+            "type": 51,
+            "w": 29.0
+        },
+        {
+            "id": 376052622,
+            "node1": 145641,
+            "node2": 142553,
+            "type": 51,
+            "w": 34.0
+        },
+        {
+            "id": 1076582950,
+            "node1": 145641,
+            "node2": 261224870,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1076582836,
+            "node1": 145641,
+            "node2": 396160615,
+            "type": 51,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:12.085615",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "platine",
+        "#relations": 7,
+        "max_relation_weight": 39.0,
+        "#nodes": 8,
+        "duration": "0:00:00.004424"
+    }
+}

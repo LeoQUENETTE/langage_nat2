@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 11155633,
+            "name": "production textile",
+            "type": 1,
+            "w": 45
+        },
+        {
+            "id": 44472,
+            "name": "luxe",
+            "type": 1,
+            "w": 2006
+        },
+        {
+            "id": 28937,
+            "name": "soie",
+            "type": 1,
+            "w": 2409
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158210208,
+            "node1": 28937,
+            "node2": 44472,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158210232,
+            "node1": 28937,
+            "node2": 11155633,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:39.785298",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soie",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003361"
+    }
+}

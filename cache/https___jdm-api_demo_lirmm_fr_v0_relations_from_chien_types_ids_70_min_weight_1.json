@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 14227,
+            "name": "dressage",
+            "type": 1,
+            "w": 205
+        },
+        {
+            "id": 44547,
+            "name": "garde",
+            "type": 1,
+            "w": 6617
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8765
+        }
+    ],
+    "relations": [
+        {
+            "id": 1021809784,
+            "node1": 4455,
+            "node2": 14227,
+            "type": 70,
+            "w": 29.0
+        },
+        {
+            "id": 1032938074,
+            "node1": 4455,
+            "node2": 44547,
+            "type": 70,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            70
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:42:51.779683",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chien",
+        "#relations": 2,
+        "max_relation_weight": 29.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005460"
+    }
+}

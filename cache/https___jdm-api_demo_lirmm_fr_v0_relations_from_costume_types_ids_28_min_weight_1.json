@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 293937266,
+            "name": "noeud papillon tournant",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 216182,
+            "name": "pièce>52895",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 143281,
+            "name": "manche",
+            "type": 1,
+            "w": 2460
+        },
+        {
+            "id": 142873,
+            "name": "costume",
+            "type": 1,
+            "w": 897
+        },
+        {
+            "id": 96851,
+            "name": "pièce",
+            "type": 1,
+            "w": 8445
+        }
+    ],
+    "relations": [
+        {
+            "id": 104940720,
+            "node1": 142873,
+            "node2": 96851,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 8795264,
+            "node1": 142873,
+            "node2": 143281,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 11330915,
+            "node1": 142873,
+            "node2": 216182,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 766155203,
+            "node1": 142873,
+            "node2": 293937266,
+            "type": 28,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:23.915837",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "costume",
+        "#relations": 4,
+        "max_relation_weight": 39.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006217"
+    }
+}

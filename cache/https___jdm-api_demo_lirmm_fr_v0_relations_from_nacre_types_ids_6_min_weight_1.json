@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 183880,
+            "name": "produit chimique",
+            "type": 1,
+            "w": 757
+        },
+        {
+            "id": 139217,
+            "name": "nacre",
+            "type": 1,
+            "w": 83
+        },
+        {
+            "id": 6978073,
+            "name": "en:organic chemical",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11358,
+            "name": "substance",
+            "type": 1,
+            "w": 4567
+        },
+        {
+            "id": 6306125,
+            "name": "produit chimique organique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6905800,
+            "name": "en:chemical",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 133352,
+            "name": "revêtement",
+            "type": 1,
+            "w": 261
+        },
+        {
+            "id": 15288037,
+            "name": "revêtement intérieur",
+            "type": 1,
+            "w": 26
+        }
+    ],
+    "relations": [
+        {
+            "id": 59818704,
+            "node1": 139217,
+            "node2": 237,
+            "type": 6,
+            "w": 46.0
+        },
+        {
+            "id": 80432786,
+            "node1": 139217,
+            "node2": 11358,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 108787597,
+            "node1": 139217,
+            "node2": 133352,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 332830118,
+            "node1": 139217,
+            "node2": 183880,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 332830117,
+            "node1": 139217,
+            "node2": 6306125,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 332830119,
+            "node1": 139217,
+            "node2": 6905800,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 332830067,
+            "node1": 139217,
+            "node2": 6978073,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 535757361,
+            "node1": 139217,
+            "node2": 15288037,
+            "type": 6,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:48.000798",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nacre",
+        "#relations": 8,
+        "max_relation_weight": 62.0,
+        "#nodes": 9,
+        "duration": "0:00:00.007417"
+    }
+}

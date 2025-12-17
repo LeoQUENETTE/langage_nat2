@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 66970,
+            "name": "ballon",
+            "type": 1,
+            "w": 3638
+        },
+        {
+            "id": 15295543,
+            "name": "en:insulating material",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 119873100,
+            "name": "entité non vivante",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 180584,
+            "name": "composé chimique",
+            "type": 1,
+            "w": 149
+        },
+        {
+            "id": 284011,
+            "name": "substances",
+            "type": 777,
+            "w": 3325
+        },
+        {
+            "id": 6798656,
+            "name": "en:substance",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3469
+        },
+        {
+            "id": 72946,
+            "name": "matériau composite",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 14800,
+            "name": "mélange",
+            "type": 1,
+            "w": 4129
+        },
+        {
+            "id": 3695,
+            "name": "art",
+            "type": 1,
+            "w": 15220
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 221181,
+            "name": "matière>11358",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 121960,
+            "name": "polymère",
+            "type": 1,
+            "w": 280
+        },
+        {
+            "id": 237488,
+            "name": "carton>29208",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 228995,
+            "name": "matériau isolant",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 11358,
+            "name": "substance",
+            "type": 1,
+            "w": 4567
+        },
+        {
+            "id": 164997,
+            "name": "composé organique",
+            "type": 1,
+            "w": 170
+        },
+        {
+            "id": 392739,
+            "name": "substance>29208",
+            "type": 1,
+            "w": 70
+        }
+    ],
+    "relations": [
+        {
+            "id": 83468615,
+            "node1": 85406,
+            "node2": 3695,
+            "type": 6,
+            "w": 771.28
+        },
+        {
+            "id": 1554534,
+            "node1": 85406,
+            "node2": 11358,
+            "type": 6,
+            "w": 334.0
+        },
+        {
+            "id": 108375603,
+            "node1": 85406,
+            "node2": 14800,
+            "type": 6,
+            "w": 500.0
+        },
+        {
+            "id": 96712835,
+            "node1": 85406,
+            "node2": 29208,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 9898695,
+            "node1": 85406,
+            "node2": 66970,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 1155363444,
+            "node1": 85406,
+            "node2": 72946,
+            "type": 6,
+            "w": 500.28
+        },
+        {
+            "id": 1554535,
+            "node1": 85406,
+            "node2": 97739,
+            "type": 6,
+            "w": 544.94
+        },
+        {
+            "id": 943308835,
+            "node1": 85406,
+            "node2": 121960,
+            "type": 6,
+            "w": 500.02
+        },
+        {
+            "id": 943358251,
+            "node1": 85406,
+            "node2": 164997,
+            "type": 6,
+            "w": 500.04
+        },
+        {
+            "id": 943359140,
+            "node1": 85406,
+            "node2": 180584,
+            "type": 6,
+            "w": 500.0
+        },
+        {
+            "id": 96712836,
+            "node1": 85406,
+            "node2": 221181,
+            "type": 6,
+            "w": 500.0
+        },
+        {
+            "id": 9906947,
+            "node1": 85406,
+            "node2": 228995,
+            "type": 6,
+            "w": 500.26
+        },
+        {
+            "id": 1052109572,
+            "node1": 85406,
+            "node2": 237488,
+            "type": 6,
+            "w": 5.0
+        },
+        {
+            "id": 1047028816,
+            "node1": 85406,
+            "node2": 284011,
+            "type": 6,
+            "w": 20.0
+        },
+        {
+            "id": 274656352,
+            "node1": 85406,
+            "node2": 392739,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 377472578,
+            "node1": 85406,
+            "node2": 6798656,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 597521407,
+            "node1": 85406,
+            "node2": 15295543,
+            "type": 6,
+            "w": 500.27
+        },
+        {
+            "id": 1074625925,
+            "node1": 85406,
+            "node2": 119873100,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:42.726016",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plastique",
+        "#relations": 18,
+        "max_relation_weight": 1000.0,
+        "#nodes": 19,
+        "duration": "0:00:00.018959"
+    }
+}

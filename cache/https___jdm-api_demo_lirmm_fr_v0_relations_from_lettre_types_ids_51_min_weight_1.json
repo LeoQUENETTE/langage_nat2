@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 177408,
+            "name": "figure de style",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 145994,
+            "name": "lettre",
+            "type": 1,
+            "w": 14711
+        },
+        {
+            "id": 15324195,
+            "name": "en:rhetorical figure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 8084,
+            "name": "figure de rhétorique",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 5516930,
+            "name": "procédé littéraire",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 252487,
+            "name": "procédé stylistique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 112787598,
+            "name": "Figure de style",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14938377,
+            "name": "en:figure of speech",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15219689,
+            "name": "en:stylistic device",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15443224,
+            "name": "en:literary device",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 720836927,
+            "node1": 145994,
+            "node2": 8084,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 376052609,
+            "node1": 145994,
+            "node2": 177408,
+            "type": 51,
+            "w": 31.0
+        },
+        {
+            "id": 376052606,
+            "node1": 145994,
+            "node2": 252487,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514427661,
+            "node1": 145994,
+            "node2": 5516930,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 514426688,
+            "node1": 145994,
+            "node2": 14938377,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 514425517,
+            "node1": 145994,
+            "node2": 15219689,
+            "type": 51,
+            "w": 26.0
+        },
+        {
+            "id": 720839567,
+            "node1": 145994,
+            "node2": 15324195,
+            "type": 51,
+            "w": 25.0
+        },
+        {
+            "id": 514426685,
+            "node1": 145994,
+            "node2": 15443224,
+            "type": 51,
+            "w": 27.0
+        },
+        {
+            "id": 594841487,
+            "node1": 145994,
+            "node2": 112787598,
+            "type": 51,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:43.186182",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lettre",
+        "#relations": 9,
+        "max_relation_weight": 35.0,
+        "#nodes": 10,
+        "duration": "0:00:00.005757"
+    }
+}

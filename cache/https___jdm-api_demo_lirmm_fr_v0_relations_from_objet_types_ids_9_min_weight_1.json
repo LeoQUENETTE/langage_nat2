@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 140514,
+            "name": "lustre",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 20534,
+            "name": "ressort",
+            "type": 1,
+            "w": 2619
+        },
+        {
+            "id": 33163,
+            "name": "composant",
+            "type": 1,
+            "w": 2874
+        },
+        {
+            "id": 24112,
+            "name": "contour",
+            "type": 1,
+            "w": 591
+        },
+        {
+            "id": 15127,
+            "name": "particule",
+            "type": 1,
+            "w": 3327
+        },
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3469
+        },
+        {
+            "id": 403781,
+            "name": "méthodes",
+            "type": 1,
+            "w": 5963
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 156479,
+            "name": "valeurs",
+            "type": 1,
+            "w": 16548
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 11964618,
+            "name": "en:nylon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141678,
+            "name": "assise",
+            "type": 1,
+            "w": 296
+        },
+        {
+            "id": 145712,
+            "name": "nylon",
+            "type": 1,
+            "w": 282
+        },
+        {
+            "id": 21754,
+            "name": "cendrier",
+            "type": 1,
+            "w": 379
+        },
+        {
+            "id": 21988,
+            "name": "moulin",
+            "type": 1,
+            "w": 1831
+        },
+        {
+            "id": 392237,
+            "name": "structure interne",
+            "type": 1,
+            "w": 209
+        }
+    ],
+    "relations": [
+        {
+            "id": 9971030,
+            "node1": 237,
+            "node2": 15127,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9970903,
+            "node1": 237,
+            "node2": 20534,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9973066,
+            "node1": 237,
+            "node2": 21754,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 10561673,
+            "node1": 237,
+            "node2": 21988,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 613682180,
+            "node1": 237,
+            "node2": 24112,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 288425782,
+            "node1": 237,
+            "node2": 29208,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 1131462633,
+            "node1": 237,
+            "node2": 33163,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 9973875,
+            "node1": 237,
+            "node2": 85406,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9972932,
+            "node1": 237,
+            "node2": 140514,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 10533875,
+            "node1": 237,
+            "node2": 141678,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9972375,
+            "node1": 237,
+            "node2": 145712,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 603580128,
+            "node1": 237,
+            "node2": 156479,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 372654900,
+            "node1": 237,
+            "node2": 392237,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 885401129,
+            "node1": 237,
+            "node2": 403781,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 585318826,
+            "node1": 237,
+            "node2": 11964618,
+            "type": 9,
+            "w": 7.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:19.930294",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "objet",
+        "#relations": 15,
+        "max_relation_weight": 36.0,
+        "#nodes": 16,
+        "duration": "0:00:00.006268"
+    }
+}

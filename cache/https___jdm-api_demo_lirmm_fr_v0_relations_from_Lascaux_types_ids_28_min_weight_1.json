@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 2554526,
+            "name": "Lascautoise",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2562211,
+            "name": "Lascautois",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 132653,
+            "name": "Lascaux",
+            "type": 1,
+            "w": 111
+        }
+    ],
+    "relations": [
+        {
+            "id": 92638637,
+            "node1": 132653,
+            "node2": 2554526,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 92660056,
+            "node1": 132653,
+            "node2": 2562211,
+            "type": 28,
+            "w": 1.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:02.336488",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Lascaux",
+        "#relations": 2,
+        "max_relation_weight": 4.0,
+        "#nodes": 3,
+        "duration": "0:00:00.006029"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 45049,
+            "name": "montre",
+            "type": 1,
+            "w": 5426
+        },
+        {
+            "id": 82823,
+            "name": "bracelet",
+            "type": 1,
+            "w": 499
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154151407,
+            "node1": 45049,
+            "node2": 82823,
+            "type": 121,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:33.523244",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "montre",
+        "#relations": 1,
+        "max_relation_weight": 31.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003230"
+    }
+}

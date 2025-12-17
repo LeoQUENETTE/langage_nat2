@@ -1,0 +1,2809 @@
+{
+    "nodes": [
+        {
+            "id": 33639390,
+            "name": "en:tourist town",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 307463884,
+            "name": "W C",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 2024365,
+            "name": "emplacements",
+            "type": 2,
+            "w": 56
+        },
+        {
+            "id": 10665980,
+            "name": "station du métro de Paris",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 93021829,
+            "name": "Empereur romain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 362007,
+            "name": "localisation géographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 15363625,
+            "name": "en:main platoon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216666,
+            "name": "ouvrage>142787",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 15363624,
+            "name": "en:leading group",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 205340,
+            "name": "peloton de tête",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 313095,
+            "name": "ville>43260",
+            "type": 1,
+            "w": 204
+        },
+        {
+            "id": 123933,
+            "name": "entité",
+            "type": 1,
+            "w": 2063
+        },
+        {
+            "id": 14951103,
+            "name": "en:patronym",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 294856208,
+            "name": "oeuvre du cinéma",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 394290,
+            "name": "portion de l'espace",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 95689,
+            "name": "personnalité morale",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 3322090,
+            "name": "Organisme",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 3291232,
+            "name": "être pensant",
+            "type": 1,
+            "w": 21
+        },
+        {
+            "id": 251663,
+            "name": "espace>134218",
+            "type": 1,
+            "w": 41
+        },
+        {
+            "id": 145971,
+            "name": "antiquité",
+            "type": 1,
+            "w": 1377
+        },
+        {
+            "id": 183629,
+            "name": "personne physique",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 608381,
+            "name": "espace>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 124698178,
+            "name": "partie de quelque chose",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 183628,
+            "name": "personne juridique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 224895,
+            "name": "entreprise>146272",
+            "type": 1,
+            "w": 244
+        },
+        {
+            "id": 683864,
+            "name": "entreprise>171870",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 2378057,
+            "name": "municipalité locale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15070698,
+            "name": "en:holy place",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3491102,
+            "name": "groupe d'habitations",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 233272,
+            "name": "être organisé",
+            "type": 1,
+            "w": 396
+        },
+        {
+            "id": 3245947,
+            "name": "reptiliomorphe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10852638,
+            "name": "station de la ligne 2 du métro de Paris",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428605,
+            "name": "en:sacred place",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 162376535,
+            "name": "Lieu saint",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 223197,
+            "name": "ville antique",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4616
+        },
+        {
+            "id": 24939,
+            "name": "lieu Saint",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 282367361,
+            "name": "ville de Géorgie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 140801,
+            "name": "Homo sapiens",
+            "type": 1,
+            "w": 308
+        },
+        {
+            "id": 366482,
+            "name": "nom de personne",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 11152663,
+            "name": "organisation>87855",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 214508422,
+            "name": "capitale de l'Italie",
+            "type": 777,
+            "w": 27
+        },
+        {
+            "id": 15781381,
+            "name": "vrai métazoaire",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 242216,
+            "name": "ville touristique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 217344,
+            "name": "société>30030",
+            "type": 1,
+            "w": 122
+        },
+        {
+            "id": 123203527,
+            "name": "ville de Belgique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 263322462,
+            "name": "nom de",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 7015598,
+            "name": "en:geographic area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215068,
+            "name": "capitale>136786",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 9949665,
+            "name": "siège de comté",
+            "type": 777,
+            "w": 31
+        },
+        {
+            "id": 264908,
+            "name": "eumétazoaire",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 33840,
+            "name": "primate",
+            "type": 1,
+            "w": 452
+        },
+        {
+            "id": 87789,
+            "name": "coelomate",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 396042,
+            "name": "tétrapode>86640",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 142602,
+            "name": "cordé",
+            "type": 1,
+            "w": 122
+        },
+        {
+            "id": 101689,
+            "name": "être animé",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 54794,
+            "name": "eucaryote",
+            "type": 1,
+            "w": 268
+        },
+        {
+            "id": 61281,
+            "name": "Rome",
+            "type": 1,
+            "w": 4653
+        },
+        {
+            "id": 38303,
+            "name": "nom propre",
+            "type": 1,
+            "w": 1748
+        },
+        {
+            "id": 40184,
+            "name": "siège",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 8836335,
+            "name": "en:geographic locations",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 391009,
+            "name": "célomate",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 225916,
+            "name": "personne>24956",
+            "type": 1,
+            "w": 865
+        },
+        {
+            "id": 14968072,
+            "name": "endroit géographique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14968071,
+            "name": "emplacement géographique",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 103416,
+            "name": "euthérien",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 2461482,
+            "name": "métazoaire supérieur",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 3233,
+            "name": "partie",
+            "type": 1,
+            "w": 12326
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 51575,
+            "name": "homo sapiens",
+            "type": 1,
+            "w": 227
+        },
+        {
+            "id": 143762329,
+            "name": "Organisme vivant",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 51970,
+            "name": "représentation",
+            "type": 1,
+            "w": 11822
+        },
+        {
+            "id": 264881,
+            "name": "crânié",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 65081,
+            "name": "organisme vivant",
+            "type": 1,
+            "w": 264
+        },
+        {
+            "id": 248081,
+            "name": "chordé",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 74860,
+            "name": "homme",
+            "type": 1,
+            "w": 108559
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 15363622,
+            "name": "en:front runners",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15363623,
+            "name": "en:group of leaders",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 127210,
+            "name": "station",
+            "type": 1,
+            "w": 4889
+        },
+        {
+            "id": 21520,
+            "name": "hameau",
+            "type": 1,
+            "w": 940
+        },
+        {
+            "id": 15193607,
+            "name": "en:dorp",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141387,
+            "name": "espace",
+            "type": 1,
+            "w": 16664
+        },
+        {
+            "id": 81814,
+            "name": "capitale",
+            "type": 1,
+            "w": 4864
+        },
+        {
+            "id": 325736,
+            "name": "holozoaire",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 62067,
+            "name": "commune",
+            "type": 1,
+            "w": 5263
+        },
+        {
+            "id": 105185,
+            "name": "émission",
+            "type": 1,
+            "w": 4377
+        },
+        {
+            "id": 264880,
+            "name": "bilatérien",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 146785,
+            "name": "nom de famille",
+            "type": 1,
+            "w": 267
+        },
+        {
+            "id": 55823,
+            "name": "métazoaire",
+            "type": 1,
+            "w": 212
+        },
+        {
+            "id": 3378472,
+            "name": "animal mâle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3374075,
+            "name": "simiforme",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 325728,
+            "name": "uniconte",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 436570,
+            "name": "entité biologique",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 14049840,
+            "name": "organisme vivant pluricellulaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 157007,
+            "name": "être>146885",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 71624,
+            "name": "être vivant",
+            "type": 1,
+            "w": 2588
+        },
+        {
+            "id": 685493,
+            "name": "humain>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146272,
+            "name": "société",
+            "type": 1,
+            "w": 31152
+        },
+        {
+            "id": 86627,
+            "name": "organisation",
+            "type": 1,
+            "w": 11360
+        },
+        {
+            "id": 142152,
+            "name": "nom",
+            "type": 1,
+            "w": 15206
+        },
+        {
+            "id": 14049831,
+            "name": "organisme vivant pluricellulaire hétérotrophe",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 136786,
+            "name": "ville",
+            "type": 1,
+            "w": 21659
+        },
+        {
+            "id": 110773,
+            "name": "amniote",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 265226,
+            "name": "thérien",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 68439,
+            "name": "individu",
+            "type": 1,
+            "w": 11403
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 396247,
+            "name": "individu>24956",
+            "type": 1,
+            "w": 215
+        },
+        {
+            "id": 26038,
+            "name": "ouvrage",
+            "type": 1,
+            "w": 6597
+        },
+        {
+            "id": 330964,
+            "name": "cordé>117095",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 265839,
+            "name": "synapside",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 221983,
+            "name": "homme>24956",
+            "type": 1,
+            "w": 324
+        },
+        {
+            "id": 189875,
+            "name": "personne humaine",
+            "type": 1,
+            "w": 755
+        },
+        {
+            "id": 435814,
+            "name": "Hameau",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 7610275,
+            "name": "en:township",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 246632,
+            "name": "oeuvre de fiction",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 139431,
+            "name": "Être",
+            "type": 1,
+            "w": 1042
+        },
+        {
+            "id": 87887,
+            "name": "village",
+            "type": 1,
+            "w": 7445
+        },
+        {
+            "id": 86640,
+            "name": "vertébré",
+            "type": 1,
+            "w": 1079
+        },
+        {
+            "id": 96032,
+            "name": "personne morale",
+            "type": 1,
+            "w": 137
+        },
+        {
+            "id": 80373,
+            "name": "province",
+            "type": 1,
+            "w": 4206
+        },
+        {
+            "id": 323107,
+            "name": "oeuvre>3695",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 217201,
+            "name": "film>217196",
+            "type": 1,
+            "w": 1925
+        },
+        {
+            "id": 222470,
+            "name": "ouvrage littéraire",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 684906,
+            "name": "roman>171870",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4269
+        },
+        {
+            "id": 217196,
+            "name": "oeuvre cinématographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 68807,
+            "name": "série télévisée",
+            "type": 1,
+            "w": 535
+        },
+        {
+            "id": 13369,
+            "name": "être",
+            "type": 1,
+            "w": 908396
+        },
+        {
+            "id": 17559,
+            "name": "animal",
+            "type": 1,
+            "w": 18621
+        },
+        {
+            "id": 58768,
+            "name": "organisme",
+            "type": 1,
+            "w": 5022
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 234036,
+            "name": "être vivant>123933",
+            "type": 1,
+            "w": 325
+        },
+        {
+            "id": 91794,
+            "name": "tétrapode",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 325738,
+            "name": "filozoaire",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 225847,
+            "name": "organisme>71624",
+            "type": 1,
+            "w": 134
+        },
+        {
+            "id": 14049844,
+            "name": "organisme vivant hétérotrophe",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 325741,
+            "name": "choanobionte",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 100640,
+            "name": "roman",
+            "type": 1,
+            "w": 8881
+        },
+        {
+            "id": 218298,
+            "name": "roman>38710",
+            "type": 1,
+            "w": 1120
+        },
+        {
+            "id": 237445,
+            "name": "être>68439",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 329657,
+            "name": "choano-organisme",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 101018,
+            "name": "gnathostome",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 63235,
+            "name": "mammifère",
+            "type": 1,
+            "w": 4157
+        },
+        {
+            "id": 396146,
+            "name": "thérapside",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 391010,
+            "name": "coelomé",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 265220,
+            "name": "épineurien",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 325731,
+            "name": "opisthoconte",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 49293,
+            "name": "humain",
+            "type": 1,
+            "w": 10743
+        },
+        {
+            "id": 260820,
+            "name": "entité vivante",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 265277,
+            "name": "crâniate",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 226083,
+            "name": "humain>46707",
+            "type": 1,
+            "w": 129
+        },
+        {
+            "id": 440709,
+            "name": "partie de",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 317929,
+            "name": "olfactorien",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 115304,
+            "name": "deutérostomien",
+            "type": 1,
+            "w": 123
+        },
+        {
+            "id": 244620,
+            "name": "être humain>189875",
+            "type": 1,
+            "w": 211
+        },
+        {
+            "id": 98630,
+            "name": "divertissement",
+            "type": 1,
+            "w": 3790
+        },
+        {
+            "id": 24956,
+            "name": "être humain",
+            "type": 1,
+            "w": 2850
+        },
+        {
+            "id": 233133,
+            "name": "animal>117095",
+            "type": 1,
+            "w": 953
+        },
+        {
+            "id": 30030,
+            "name": "entreprise",
+            "type": 1,
+            "w": 8864
+        },
+        {
+            "id": 3292062,
+            "name": "personne>3291232",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 27969,
+            "name": "cité",
+            "type": 1,
+            "w": 4350
+        },
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 34214
+        },
+        {
+            "id": 146367,
+            "name": "histoire",
+            "type": 1,
+            "w": 36010
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12639
+        },
+        {
+            "id": 56720,
+            "name": "destination",
+            "type": 1,
+            "w": 3403
+        },
+        {
+            "id": 307459577,
+            "name": "W. - C",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 246153024,
+            "name": "être humain>74860",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 53774,
+            "name": "borough",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 105621,
+            "name": "vivipare",
+            "type": 1,
+            "w": 89
+        },
+        {
+            "id": 37664,
+            "name": "bipède",
+            "type": 1,
+            "w": 141
+        },
+        {
+            "id": 6422204,
+            "name": "emplacements géographiques",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 244209,
+            "name": "destination>135190",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 385800,
+            "name": "unité institutionnelle",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 4333488,
+            "name": "être humain de sexe masculin",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 85276,
+            "name": "feuilleton",
+            "type": 1,
+            "w": 2973
+        },
+        {
+            "id": 1739663,
+            "name": "point d'arrêt",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 20528,
+            "name": "hominidé",
+            "type": 1,
+            "w": 233
+        },
+        {
+            "id": 99896,
+            "name": "anthroponyme",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 318965,
+            "name": "petit village",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 14606397,
+            "name": "organisme hétérotrophe",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 260830,
+            "name": "primate>117095",
+            "type": 1,
+            "w": 31
+        },
+        {
+            "id": 235123,
+            "name": "station de métro",
+            "type": 1,
+            "w": 381
+        },
+        {
+            "id": 1395235,
+            "name": "être>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1027579,
+            "name": "euarchontoglire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 21402,
+            "name": "colloque",
+            "type": 1,
+            "w": 503
+        },
+        {
+            "id": 15198721,
+            "name": "en:tourist area",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57724,
+            "name": "lieu de culte",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 126415125,
+            "name": "Unité institutionnelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17487,
+            "name": "Empereur",
+            "type": 1,
+            "w": 1921
+        },
+        {
+            "id": 414688,
+            "name": "Destination",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 2949525,
+            "name": "ville de",
+            "type": 777,
+            "w": 33
+        },
+        {
+            "id": 304423452,
+            "name": "oeuvre culturelle",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 16788813,
+            "name": "serie",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 436468,
+            "name": "feuilleton radiodiffusé",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 373380,
+            "name": "production audiovisuelle",
+            "type": 1,
+            "w": 109
+        },
+        {
+            "id": 14573184,
+            "name": "oeuvre de fiction télévisuelle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 227987,
+            "name": "ville américaine",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 1574958,
+            "name": "station de métro de Paris",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14117997,
+            "name": "en:underground railway station",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14538042,
+            "name": "Station de métro",
+            "type": 777,
+            "w": 27
+        },
+        {
+            "id": 275610,
+            "name": "ville italienne",
+            "type": 777,
+            "w": 70
+        },
+        {
+            "id": 160828,
+            "name": "ville d'Italie",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 597346,
+            "name": "capitale>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228040,
+            "name": "lieu saint",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 7994473,
+            "name": "en:last name",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951102,
+            "name": "en:family name",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 232358,
+            "name": "personnalité juridique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 406039,
+            "name": "Lieu",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 256557,
+            "name": "destination touristique",
+            "type": 1,
+            "w": 112
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157940335,
+            "node1": 61281,
+            "node2": 237,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 622915483,
+            "node1": 61281,
+            "node2": 3233,
+            "type": 6,
+            "w": 510.91
+        },
+        {
+            "id": 1157940378,
+            "node1": 61281,
+            "node2": 13369,
+            "type": 6,
+            "w": 49.0
+        },
+        {
+            "id": 1157940384,
+            "node1": 61281,
+            "node2": 17487,
+            "type": 6,
+            "w": 536.81
+        },
+        {
+            "id": 1158449518,
+            "node1": 61281,
+            "node2": 17559,
+            "type": 6,
+            "w": 504.43
+        },
+        {
+            "id": 1157940407,
+            "node1": 61281,
+            "node2": 20528,
+            "type": 6,
+            "w": 802.63
+        },
+        {
+            "id": 451949078,
+            "node1": 61281,
+            "node2": 21402,
+            "type": 6,
+            "w": 501.62
+        },
+        {
+            "id": 60383830,
+            "node1": 61281,
+            "node2": 21520,
+            "type": 6,
+            "w": 581.6
+        },
+        {
+            "id": 769992136,
+            "node1": 61281,
+            "node2": 24939,
+            "type": 6,
+            "w": 501.65
+        },
+        {
+            "id": 1047012792,
+            "node1": 61281,
+            "node2": 24956,
+            "type": 6,
+            "w": 516.31
+        },
+        {
+            "id": 1157940349,
+            "node1": 61281,
+            "node2": 26038,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 1157940328,
+            "node1": 61281,
+            "node2": 27969,
+            "type": 6,
+            "w": 657.72
+        },
+        {
+            "id": 1040735406,
+            "node1": 61281,
+            "node2": 29592,
+            "type": 6,
+            "w": 501.76
+        },
+        {
+            "id": 423625995,
+            "node1": 61281,
+            "node2": 30030,
+            "type": 6,
+            "w": 575.11
+        },
+        {
+            "id": 1157940408,
+            "node1": 61281,
+            "node2": 33840,
+            "type": 6,
+            "w": 608.06
+        },
+        {
+            "id": 1157940425,
+            "node1": 61281,
+            "node2": 37664,
+            "type": 6,
+            "w": 515.08
+        },
+        {
+            "id": 1157940386,
+            "node1": 61281,
+            "node2": 38303,
+            "type": 6,
+            "w": 503.34
+        },
+        {
+            "id": 662478970,
+            "node1": 61281,
+            "node2": 40184,
+            "type": 6,
+            "w": 562.78
+        },
+        {
+            "id": 1157940355,
+            "node1": 61281,
+            "node2": 49293,
+            "type": 6,
+            "w": 516.77
+        },
+        {
+            "id": 1157940437,
+            "node1": 61281,
+            "node2": 51575,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 1157940336,
+            "node1": 61281,
+            "node2": 51970,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 980069894,
+            "node1": 61281,
+            "node2": 53774,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 1160875248,
+            "node1": 61281,
+            "node2": 54794,
+            "type": 6,
+            "w": 443.552
+        },
+        {
+            "id": 1157940399,
+            "node1": 61281,
+            "node2": 55823,
+            "type": 6,
+            "w": 502.46
+        },
+        {
+            "id": 1157940330,
+            "node1": 61281,
+            "node2": 56720,
+            "type": 6,
+            "w": 617.93
+        },
+        {
+            "id": 1157940308,
+            "node1": 61281,
+            "node2": 57724,
+            "type": 6,
+            "w": 568.61
+        },
+        {
+            "id": 1157940415,
+            "node1": 61281,
+            "node2": 58768,
+            "type": 6,
+            "w": 97.0
+        },
+        {
+            "id": 55953786,
+            "node1": 61281,
+            "node2": 62067,
+            "type": 6,
+            "w": 627.11
+        },
+        {
+            "id": 1157940373,
+            "node1": 61281,
+            "node2": 63235,
+            "type": 6,
+            "w": 562.88
+        },
+        {
+            "id": 1157940401,
+            "node1": 61281,
+            "node2": 65081,
+            "type": 6,
+            "w": 149.914
+        },
+        {
+            "id": 1157940365,
+            "node1": 61281,
+            "node2": 68439,
+            "type": 6,
+            "w": 402.6
+        },
+        {
+            "id": 116481058,
+            "node1": 61281,
+            "node2": 68807,
+            "type": 6,
+            "w": 780.57
+        },
+        {
+            "id": 1157940377,
+            "node1": 61281,
+            "node2": 71624,
+            "type": 6,
+            "w": 127.2
+        },
+        {
+            "id": 1157940357,
+            "node1": 61281,
+            "node2": 74860,
+            "type": 6,
+            "w": 522.56
+        },
+        {
+            "id": 61187245,
+            "node1": 61281,
+            "node2": 80373,
+            "type": 6,
+            "w": 501.37
+        },
+        {
+            "id": 483758,
+            "node1": 61281,
+            "node2": 81814,
+            "type": 6,
+            "w": 568.78
+        },
+        {
+            "id": 1157940343,
+            "node1": 61281,
+            "node2": 85276,
+            "type": 6,
+            "w": 616.53
+        },
+        {
+            "id": 1157940312,
+            "node1": 61281,
+            "node2": 86627,
+            "type": 6,
+            "w": 617.89
+        },
+        {
+            "id": 1157940367,
+            "node1": 61281,
+            "node2": 86640,
+            "type": 6,
+            "w": 501.66
+        },
+        {
+            "id": 1157940414,
+            "node1": 61281,
+            "node2": 87789,
+            "type": 6,
+            "w": 512.59
+        },
+        {
+            "id": 323113667,
+            "node1": 61281,
+            "node2": 87887,
+            "type": 6,
+            "w": 568.64
+        },
+        {
+            "id": 1157940368,
+            "node1": 61281,
+            "node2": 91794,
+            "type": 6,
+            "w": 510.24
+        },
+        {
+            "id": 1157940316,
+            "node1": 61281,
+            "node2": 95689,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1157940313,
+            "node1": 61281,
+            "node2": 96032,
+            "type": 6,
+            "w": 506.73
+        },
+        {
+            "id": 1157940347,
+            "node1": 61281,
+            "node2": 98630,
+            "type": 6,
+            "w": 524.9
+        },
+        {
+            "id": 1157940387,
+            "node1": 61281,
+            "node2": 99896,
+            "type": 6,
+            "w": 505.98
+        },
+        {
+            "id": 220419208,
+            "node1": 61281,
+            "node2": 100640,
+            "type": 6,
+            "w": 501.74
+        },
+        {
+            "id": 1157940393,
+            "node1": 61281,
+            "node2": 101018,
+            "type": 6,
+            "w": 514.46
+        },
+        {
+            "id": 1157940376,
+            "node1": 61281,
+            "node2": 101689,
+            "type": 6,
+            "w": 113.0
+        },
+        {
+            "id": 1157940353,
+            "node1": 61281,
+            "node2": 103416,
+            "type": 6,
+            "w": 501.44
+        },
+        {
+            "id": 1157940344,
+            "node1": 61281,
+            "node2": 105185,
+            "type": 6,
+            "w": 617.94
+        },
+        {
+            "id": 1157940426,
+            "node1": 61281,
+            "node2": 105621,
+            "type": 6,
+            "w": 509.04
+        },
+        {
+            "id": 1157940398,
+            "node1": 61281,
+            "node2": 110773,
+            "type": 6,
+            "w": 509.07
+        },
+        {
+            "id": 1158542286,
+            "node1": 61281,
+            "node2": 115304,
+            "type": 6,
+            "w": 418.711
+        },
+        {
+            "id": 1157940364,
+            "node1": 61281,
+            "node2": 116477,
+            "type": 6,
+            "w": 500.35
+        },
+        {
+            "id": 1157940436,
+            "node1": 61281,
+            "node2": 123933,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940325,
+            "node1": 61281,
+            "node2": 127210,
+            "type": 6,
+            "w": 567.32
+        },
+        {
+            "id": 607834493,
+            "node1": 61281,
+            "node2": 134218,
+            "type": 6,
+            "w": 524.83
+        },
+        {
+            "id": 629247,
+            "node1": 61281,
+            "node2": 135190,
+            "type": 6,
+            "w": 559.2
+        },
+        {
+            "id": 1157940441,
+            "node1": 61281,
+            "node2": 135956,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 483861,
+            "node1": 61281,
+            "node2": 136786,
+            "type": 6,
+            "w": 629.58
+        },
+        {
+            "id": 1157940439,
+            "node1": 61281,
+            "node2": 139431,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940438,
+            "node1": 61281,
+            "node2": 140801,
+            "type": 6,
+            "w": 839.36
+        },
+        {
+            "id": 1157940339,
+            "node1": 61281,
+            "node2": 141387,
+            "type": 6,
+            "w": 549.81
+        },
+        {
+            "id": 1157940385,
+            "node1": 61281,
+            "node2": 142152,
+            "type": 6,
+            "w": 501.84
+        },
+        {
+            "id": 1157940391,
+            "node1": 61281,
+            "node2": 142602,
+            "type": 6,
+            "w": 506.54
+        },
+        {
+            "id": 221772740,
+            "node1": 61281,
+            "node2": 144938,
+            "type": 6,
+            "w": 86.0
+        },
+        {
+            "id": 1157940307,
+            "node1": 61281,
+            "node2": 145971,
+            "type": 6,
+            "w": 617.9
+        },
+        {
+            "id": 977677217,
+            "node1": 61281,
+            "node2": 146272,
+            "type": 6,
+            "w": 569.87
+        },
+        {
+            "id": 1157940351,
+            "node1": 61281,
+            "node2": 146367,
+            "type": 6,
+            "w": 598.34
+        },
+        {
+            "id": 556993694,
+            "node1": 61281,
+            "node2": 146785,
+            "type": 6,
+            "w": 518.55
+        },
+        {
+            "id": 1157940381,
+            "node1": 61281,
+            "node2": 157007,
+            "type": 6,
+            "w": 78.0
+        },
+        {
+            "id": 13290005,
+            "node1": 61281,
+            "node2": 157283,
+            "type": 6,
+            "w": 549.38
+        },
+        {
+            "id": 664945915,
+            "node1": 61281,
+            "node2": 160828,
+            "type": 6,
+            "w": 568.63
+        },
+        {
+            "id": 1157940317,
+            "node1": 61281,
+            "node2": 183628,
+            "type": 6,
+            "w": 514.33
+        },
+        {
+            "id": 1157940389,
+            "node1": 61281,
+            "node2": 183629,
+            "type": 6,
+            "w": 580.21
+        },
+        {
+            "id": 1157940370,
+            "node1": 61281,
+            "node2": 189875,
+            "type": 6,
+            "w": 525.15
+        },
+        {
+            "id": 784617089,
+            "node1": 61281,
+            "node2": 205340,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1687248,
+            "node1": 61281,
+            "node2": 215068,
+            "type": 6,
+            "w": 568.68
+        },
+        {
+            "id": 1157940350,
+            "node1": 61281,
+            "node2": 216666,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940332,
+            "node1": 61281,
+            "node2": 217196,
+            "type": 6,
+            "w": 153.0
+        },
+        {
+            "id": 1040735407,
+            "node1": 61281,
+            "node2": 217201,
+            "type": 6,
+            "w": 501.75
+        },
+        {
+            "id": 977704460,
+            "node1": 61281,
+            "node2": 217344,
+            "type": 6,
+            "w": 520.67
+        },
+        {
+            "id": 220419209,
+            "node1": 61281,
+            "node2": 218298,
+            "type": 6,
+            "w": 501.78
+        },
+        {
+            "id": 1157940352,
+            "node1": 61281,
+            "node2": 221983,
+            "type": 6,
+            "w": 513.88
+        },
+        {
+            "id": 220446208,
+            "node1": 61281,
+            "node2": 222470,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 8980191,
+            "node1": 61281,
+            "node2": 223197,
+            "type": 6,
+            "w": 568.64
+        },
+        {
+            "id": 423625996,
+            "node1": 61281,
+            "node2": 224895,
+            "type": 6,
+            "w": 572.8
+        },
+        {
+            "id": 1157940371,
+            "node1": 61281,
+            "node2": 225847,
+            "type": 6,
+            "w": 87.0
+        },
+        {
+            "id": 1157940380,
+            "node1": 61281,
+            "node2": 225916,
+            "type": 6,
+            "w": 648.8
+        },
+        {
+            "id": 1157940358,
+            "node1": 61281,
+            "node2": 226083,
+            "type": 6,
+            "w": 519.96
+        },
+        {
+            "id": 980069889,
+            "node1": 61281,
+            "node2": 227987,
+            "type": 6,
+            "w": 568.67
+        },
+        {
+            "id": 8980195,
+            "node1": 61281,
+            "node2": 228040,
+            "type": 6,
+            "w": 501.28
+        },
+        {
+            "id": 1157940315,
+            "node1": 61281,
+            "node2": 232358,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940375,
+            "node1": 61281,
+            "node2": 233133,
+            "type": 6,
+            "w": 501.44
+        },
+        {
+            "id": 1157940406,
+            "node1": 61281,
+            "node2": 233272,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 1157940361,
+            "node1": 61281,
+            "node2": 234036,
+            "type": 6,
+            "w": 93.0
+        },
+        {
+            "id": 25357300,
+            "node1": 61281,
+            "node2": 235123,
+            "type": 6,
+            "w": 500.59
+        },
+        {
+            "id": 1077577721,
+            "node1": 61281,
+            "node2": 237445,
+            "type": 6,
+            "w": 88.0
+        },
+        {
+            "id": 8980193,
+            "node1": 61281,
+            "node2": 242216,
+            "type": 6,
+            "w": 568.65
+        },
+        {
+            "id": 1157940329,
+            "node1": 61281,
+            "node2": 244209,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 1131026780,
+            "node1": 61281,
+            "node2": 244620,
+            "type": 6,
+            "w": 509.43
+        },
+        {
+            "id": 220446240,
+            "node1": 61281,
+            "node2": 246632,
+            "type": 6,
+            "w": 500.94
+        },
+        {
+            "id": 1157940392,
+            "node1": 61281,
+            "node2": 248081,
+            "type": 6,
+            "w": 506.58
+        },
+        {
+            "id": 622915480,
+            "node1": 61281,
+            "node2": 251663,
+            "type": 6,
+            "w": 549.4
+        },
+        {
+            "id": 3137300,
+            "node1": 61281,
+            "node2": 256557,
+            "type": 6,
+            "w": 627.95
+        },
+        {
+            "id": 1157940374,
+            "node1": 61281,
+            "node2": 260820,
+            "type": 6,
+            "w": 91.5008
+        },
+        {
+            "id": 1157940413,
+            "node1": 61281,
+            "node2": 260830,
+            "type": 6,
+            "w": 708.13
+        },
+        {
+            "id": 1157940390,
+            "node1": 61281,
+            "node2": 264880,
+            "type": 6,
+            "w": 508.86
+        },
+        {
+            "id": 1157940397,
+            "node1": 61281,
+            "node2": 264881,
+            "type": 6,
+            "w": 506.65
+        },
+        {
+            "id": 1158213941,
+            "node1": 61281,
+            "node2": 264908,
+            "type": 6,
+            "w": 379.378
+        },
+        {
+            "id": 1157940394,
+            "node1": 61281,
+            "node2": 265220,
+            "type": 6,
+            "w": 508.52
+        },
+        {
+            "id": 1157940410,
+            "node1": 61281,
+            "node2": 265226,
+            "type": 6,
+            "w": 560.95
+        },
+        {
+            "id": 1157940362,
+            "node1": 61281,
+            "node2": 265277,
+            "type": 6,
+            "w": 501.39
+        },
+        {
+            "id": 1157940369,
+            "node1": 61281,
+            "node2": 265839,
+            "type": 6,
+            "w": 508.52
+        },
+        {
+            "id": 21542640,
+            "node1": 61281,
+            "node2": 275610,
+            "type": 6,
+            "w": 685.89
+        },
+        {
+            "id": 1157940311,
+            "node1": 61281,
+            "node2": 313095,
+            "type": 6,
+            "w": 574.43
+        },
+        {
+            "id": 1077577720,
+            "node1": 61281,
+            "node2": 316850,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 1157940395,
+            "node1": 61281,
+            "node2": 317929,
+            "type": 6,
+            "w": 506.6
+        },
+        {
+            "id": 1157940327,
+            "node1": 61281,
+            "node2": 318965,
+            "type": 6,
+            "w": 587.77
+        },
+        {
+            "id": 1157940334,
+            "node1": 61281,
+            "node2": 323107,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 607834491,
+            "node1": 61281,
+            "node2": 325138,
+            "type": 6,
+            "w": 549.59
+        },
+        {
+            "id": 1157940402,
+            "node1": 61281,
+            "node2": 325728,
+            "type": 6,
+            "w": 501.32
+        },
+        {
+            "id": 1160878120,
+            "node1": 61281,
+            "node2": 325731,
+            "type": 6,
+            "w": 500.3
+        },
+        {
+            "id": 1160875733,
+            "node1": 61281,
+            "node2": 325736,
+            "type": 6,
+            "w": 500.11
+        },
+        {
+            "id": 1157940366,
+            "node1": 61281,
+            "node2": 325738,
+            "type": 6,
+            "w": 501.4
+        },
+        {
+            "id": 1157940396,
+            "node1": 61281,
+            "node2": 325741,
+            "type": 6,
+            "w": 501.65
+        },
+        {
+            "id": 1157940400,
+            "node1": 61281,
+            "node2": 329657,
+            "type": 6,
+            "w": 503.25
+        },
+        {
+            "id": 1158542274,
+            "node1": 61281,
+            "node2": 330964,
+            "type": 6,
+            "w": 423.522
+        },
+        {
+            "id": 429037056,
+            "node1": 61281,
+            "node2": 362007,
+            "type": 6,
+            "w": 549.84
+        },
+        {
+            "id": 1157940388,
+            "node1": 61281,
+            "node2": 366482,
+            "type": 6,
+            "w": 503.41
+        },
+        {
+            "id": 1157940346,
+            "node1": 61281,
+            "node2": 373380,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940444,
+            "node1": 61281,
+            "node2": 385800,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940417,
+            "node1": 61281,
+            "node2": 391009,
+            "type": 6,
+            "w": 506.67
+        },
+        {
+            "id": 1157940416,
+            "node1": 61281,
+            "node2": 391010,
+            "type": 6,
+            "w": 506.65
+        },
+        {
+            "id": 622915479,
+            "node1": 61281,
+            "node2": 394290,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 1157940372,
+            "node1": 61281,
+            "node2": 396042,
+            "type": 6,
+            "w": 510.4
+        },
+        {
+            "id": 1158255691,
+            "node1": 61281,
+            "node2": 396146,
+            "type": 6,
+            "w": 424.622
+        },
+        {
+            "id": 1157940359,
+            "node1": 61281,
+            "node2": 396247,
+            "type": 6,
+            "w": 513.78
+        },
+        {
+            "id": 1157940309,
+            "node1": 61281,
+            "node2": 406039,
+            "type": 6,
+            "w": 736.24
+        },
+        {
+            "id": 1157940331,
+            "node1": 61281,
+            "node2": 414688,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 769992144,
+            "node1": 61281,
+            "node2": 435814,
+            "type": 6,
+            "w": 581.57
+        },
+        {
+            "id": 1157940345,
+            "node1": 61281,
+            "node2": 436468,
+            "type": 6,
+            "w": 732.5
+        },
+        {
+            "id": 1077577719,
+            "node1": 61281,
+            "node2": 436570,
+            "type": 6,
+            "w": 88.8
+        },
+        {
+            "id": 1157940319,
+            "node1": 61281,
+            "node2": 440709,
+            "type": 6,
+            "w": 526.7
+        },
+        {
+            "id": 97888380,
+            "node1": 61281,
+            "node2": 597346,
+            "type": 6,
+            "w": 568.76
+        },
+        {
+            "id": 1157940340,
+            "node1": 61281,
+            "node2": 608381,
+            "type": 6,
+            "w": 549.76
+        },
+        {
+            "id": 769992137,
+            "node1": 61281,
+            "node2": 683864,
+            "type": 6,
+            "w": 668.49
+        },
+        {
+            "id": 392455993,
+            "node1": 61281,
+            "node2": 684906,
+            "type": 6,
+            "w": 501.79
+        },
+        {
+            "id": 1157940356,
+            "node1": 61281,
+            "node2": 685493,
+            "type": 6,
+            "w": 514.9
+        },
+        {
+            "id": 1157940354,
+            "node1": 61281,
+            "node2": 1027579,
+            "type": 6,
+            "w": 502.83
+        },
+        {
+            "id": 1157940404,
+            "node1": 61281,
+            "node2": 1395235,
+            "type": 6,
+            "w": 49.0
+        },
+        {
+            "id": 25358135,
+            "node1": 61281,
+            "node2": 1574958,
+            "type": 6,
+            "w": 501.13
+        },
+        {
+            "id": 1157940341,
+            "node1": 61281,
+            "node2": 1739663,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940440,
+            "node1": 61281,
+            "node2": 2024365,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940446,
+            "node1": 61281,
+            "node2": 2378057,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940424,
+            "node1": 61281,
+            "node2": 2461482,
+            "type": 6,
+            "w": 506.34
+        },
+        {
+            "id": 331028556,
+            "node1": 61281,
+            "node2": 2785548,
+            "type": 6,
+            "w": 568.61
+        },
+        {
+            "id": 1157940306,
+            "node1": 61281,
+            "node2": 2949525,
+            "type": 6,
+            "w": 685.88
+        },
+        {
+            "id": 1177173852,
+            "node1": 61281,
+            "node2": 3245947,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 1157940423,
+            "node1": 61281,
+            "node2": 3291232,
+            "type": 6,
+            "w": 103.0
+        },
+        {
+            "id": 1157940435,
+            "node1": 61281,
+            "node2": 3292062,
+            "type": 6,
+            "w": 609.05
+        },
+        {
+            "id": 1157940405,
+            "node1": 61281,
+            "node2": 3322090,
+            "type": 6,
+            "w": 73.0
+        },
+        {
+            "id": 1157940409,
+            "node1": 61281,
+            "node2": 3374075,
+            "type": 6,
+            "w": 761.52
+        },
+        {
+            "id": 1157940360,
+            "node1": 61281,
+            "node2": 3378472,
+            "type": 6,
+            "w": 516.91
+        },
+        {
+            "id": 1157940310,
+            "node1": 61281,
+            "node2": 3491102,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1047012793,
+            "node1": 61281,
+            "node2": 4333488,
+            "type": 6,
+            "w": 517.66
+        },
+        {
+            "id": 769992138,
+            "node1": 61281,
+            "node2": 6422204,
+            "type": 6,
+            "w": 500.89
+        },
+        {
+            "id": 769992133,
+            "node1": 61281,
+            "node2": 7015598,
+            "type": 6,
+            "w": 598.3
+        },
+        {
+            "id": 769992142,
+            "node1": 61281,
+            "node2": 7610275,
+            "type": 6,
+            "w": 524.7
+        },
+        {
+            "id": 607834499,
+            "node1": 61281,
+            "node2": 7994473,
+            "type": 6,
+            "w": 518.72
+        },
+        {
+            "id": 769992145,
+            "node1": 61281,
+            "node2": 8836335,
+            "type": 6,
+            "w": 500.9
+        },
+        {
+            "id": 537331277,
+            "node1": 61281,
+            "node2": 9949665,
+            "type": 6,
+            "w": 568.75
+        },
+        {
+            "id": 1157940320,
+            "node1": 61281,
+            "node2": 10665980,
+            "type": 6,
+            "w": 500.58
+        },
+        {
+            "id": 323113668,
+            "node1": 61281,
+            "node2": 10852638,
+            "type": 6,
+            "w": 501.13
+        },
+        {
+            "id": 1157940314,
+            "node1": 61281,
+            "node2": 11152663,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940427,
+            "node1": 61281,
+            "node2": 14049831,
+            "type": 6,
+            "w": 501.86
+        },
+        {
+            "id": 1157940434,
+            "node1": 61281,
+            "node2": 14049840,
+            "type": 6,
+            "w": 329.08
+        },
+        {
+            "id": 1157940379,
+            "node1": 61281,
+            "node2": 14049844,
+            "type": 6,
+            "w": 500.3
+        },
+        {
+            "id": 357218191,
+            "node1": 61281,
+            "node2": 14094383,
+            "type": 6,
+            "w": 524.83
+        },
+        {
+            "id": 769992141,
+            "node1": 61281,
+            "node2": 14117997,
+            "type": 6,
+            "w": 500.59
+        },
+        {
+            "id": 1157940326,
+            "node1": 61281,
+            "node2": 14538042,
+            "type": 6,
+            "w": 634.1
+        },
+        {
+            "id": 1157940342,
+            "node1": 61281,
+            "node2": 14573184,
+            "type": 6,
+            "w": 501.78
+        },
+        {
+            "id": 1157940382,
+            "node1": 61281,
+            "node2": 14606397,
+            "type": 6,
+            "w": 329.08
+        },
+        {
+            "id": 607834497,
+            "node1": 61281,
+            "node2": 14951102,
+            "type": 6,
+            "w": 518.71
+        },
+        {
+            "id": 607834495,
+            "node1": 61281,
+            "node2": 14951103,
+            "type": 6,
+            "w": 518.64
+        },
+        {
+            "id": 769992132,
+            "node1": 61281,
+            "node2": 14968071,
+            "type": 6,
+            "w": 568.6
+        },
+        {
+            "id": 769992135,
+            "node1": 61281,
+            "node2": 14968072,
+            "type": 6,
+            "w": 568.63
+        },
+        {
+            "id": 439695494,
+            "node1": 61281,
+            "node2": 15070698,
+            "type": 6,
+            "w": 501.6
+        },
+        {
+            "id": 1010844806,
+            "node1": 61281,
+            "node2": 15193607,
+            "type": 6,
+            "w": 502.2
+        },
+        {
+            "id": 607834492,
+            "node1": 61281,
+            "node2": 15198721,
+            "type": 6,
+            "w": 569.06
+        },
+        {
+            "id": 784617090,
+            "node1": 61281,
+            "node2": 15363622,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 784617093,
+            "node1": 61281,
+            "node2": 15363623,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 784617092,
+            "node1": 61281,
+            "node2": 15363624,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 784617091,
+            "node1": 61281,
+            "node2": 15363625,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 607834490,
+            "node1": 61281,
+            "node2": 15428605,
+            "type": 6,
+            "w": 501.58
+        },
+        {
+            "id": 1157940411,
+            "node1": 61281,
+            "node2": 15781381,
+            "type": 6,
+            "w": 506.54
+        },
+        {
+            "id": 1157940348,
+            "node1": 61281,
+            "node2": 16788813,
+            "type": 6,
+            "w": 536.81
+        },
+        {
+            "id": 769992140,
+            "node1": 61281,
+            "node2": 33639390,
+            "type": 6,
+            "w": 569.05
+        },
+        {
+            "id": 769992131,
+            "node1": 61281,
+            "node2": 93021829,
+            "type": 6,
+            "w": 512.17
+        },
+        {
+            "id": 728877135,
+            "node1": 61281,
+            "node2": 123203527,
+            "type": 6,
+            "w": 568.68
+        },
+        {
+            "id": 622915482,
+            "node1": 61281,
+            "node2": 124698178,
+            "type": 6,
+            "w": 530.77
+        },
+        {
+            "id": 1157940445,
+            "node1": 61281,
+            "node2": 126415125,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940412,
+            "node1": 61281,
+            "node2": 143762329,
+            "type": 6,
+            "w": 117.0
+        },
+        {
+            "id": 769992143,
+            "node1": 61281,
+            "node2": 162376535,
+            "type": 6,
+            "w": 501.53
+        },
+        {
+            "id": 1130652982,
+            "node1": 61281,
+            "node2": 214508422,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1157940383,
+            "node1": 61281,
+            "node2": 246153024,
+            "type": 6,
+            "w": 113.0
+        },
+        {
+            "id": 1157940403,
+            "node1": 61281,
+            "node2": 263322462,
+            "type": 6,
+            "w": 505.33
+        },
+        {
+            "id": 1010844800,
+            "node1": 61281,
+            "node2": 282367361,
+            "type": 6,
+            "w": 569.04
+        },
+        {
+            "id": 1157940337,
+            "node1": 61281,
+            "node2": 294856208,
+            "type": 6,
+            "w": 157.0
+        },
+        {
+            "id": 1157940333,
+            "node1": 61281,
+            "node2": 304423452,
+            "type": 6,
+            "w": 155.0
+        },
+        {
+            "id": 1157940442,
+            "node1": 61281,
+            "node2": 307459577,
+            "type": 6,
+            "w": 567.62
+        },
+        {
+            "id": 1157940443,
+            "node1": 61281,
+            "node2": 307463884,
+            "type": 6,
+            "w": 562.82
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:11.682292",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Rome",
+        "#relations": 213,
+        "max_relation_weight": 1000.0,
+        "#nodes": 214,
+        "duration": "0:00:00.065959"
+    }
+}

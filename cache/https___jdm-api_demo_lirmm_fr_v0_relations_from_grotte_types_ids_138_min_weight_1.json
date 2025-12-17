@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 44155,
+            "name": "grotte",
+            "type": 1,
+            "w": 1543
+        },
+        {
+            "id": 78573,
+            "name": "exploration",
+            "type": 1,
+            "w": 7581
+        },
+        {
+            "id": 11353,
+            "name": "formation",
+            "type": 1,
+            "w": 18064
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154346516,
+            "node1": 44155,
+            "node2": 11353,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 720644188,
+            "node1": 44155,
+            "node2": 78573,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:00.475919",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "grotte",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005104"
+    }
+}

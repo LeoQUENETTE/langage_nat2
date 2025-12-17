@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 47918,
+            "name": "boire",
+            "type": 1,
+            "w": 8736
+        },
+        {
+            "id": 146144,
+            "name": "tasse",
+            "type": 1,
+            "w": 1179
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143234961,
+            "node1": 146144,
+            "node2": 47918,
+            "type": 137,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:03.515754",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tasse",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003283"
+    }
+}

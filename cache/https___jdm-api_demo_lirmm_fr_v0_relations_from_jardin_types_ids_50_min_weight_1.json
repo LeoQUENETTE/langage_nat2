@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8735
+        },
+        {
+            "id": 65012,
+            "name": "eau",
+            "type": 1,
+            "w": 39833
+        },
+        {
+            "id": 25705,
+            "name": "terre",
+            "type": 1,
+            "w": 29970
+        },
+        {
+            "id": 83612,
+            "name": "terreau",
+            "type": 1,
+            "w": 499
+        },
+        {
+            "id": 103201,
+            "name": "gravier",
+            "type": 1,
+            "w": 357
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152638951,
+            "node1": 139575,
+            "node2": 25705,
+            "type": 50,
+            "w": 25.0
+        },
+        {
+            "id": 1154162853,
+            "node1": 139575,
+            "node2": 65012,
+            "type": 50,
+            "w": 25.0
+        },
+        {
+            "id": 1154162852,
+            "node1": 139575,
+            "node2": 83612,
+            "type": 50,
+            "w": 25.0
+        },
+        {
+            "id": 1152638952,
+            "node1": 139575,
+            "node2": 103201,
+            "type": 50,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            50
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:05.416341",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 4,
+        "max_relation_weight": 25.0,
+        "#nodes": 5,
+        "duration": "0:00:00.005773"
+    }
+}

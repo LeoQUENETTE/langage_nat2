@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 61909,
+            "name": "séchage",
+            "type": 1,
+            "w": 225
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 27890,
+            "name": "transformation",
+            "type": 1,
+            "w": 15466
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158255982,
+            "node1": 96256,
+            "node2": 27890,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1155002352,
+            "node1": 96256,
+            "node2": 61909,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:17.350557",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bois",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005484"
+    }
+}

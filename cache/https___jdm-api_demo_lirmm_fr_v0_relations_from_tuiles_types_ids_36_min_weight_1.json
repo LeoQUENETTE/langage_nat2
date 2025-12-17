@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 317327,
+            "name": "_POLIT_6FN",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 1912917,
+            "name": "_INFO-COUNTABLE-YES",
+            "type": 36,
+            "w": 10
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 152568,
+            "name": "tuiles",
+            "type": 1,
+            "w": 200
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 273221,
+            "name": "_INFO-WIKI-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317322,
+            "name": "_POLIT_1ECO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317325,
+            "name": "_POLIT_4MD",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 27423214,
+            "node1": 152568,
+            "node2": 223172,
+            "type": 36,
+            "w": 30.0
+        },
+        {
+            "id": 18646983,
+            "node1": 152568,
+            "node2": 223173,
+            "type": 36,
+            "w": 286.0
+        },
+        {
+            "id": 26159742,
+            "node1": 152568,
+            "node2": 241794,
+            "type": 36,
+            "w": 102.0
+        },
+        {
+            "id": 27140030,
+            "node1": 152568,
+            "node2": 254876,
+            "type": 36,
+            "w": 68.0
+        },
+        {
+            "id": 27140031,
+            "node1": 152568,
+            "node2": 254877,
+            "type": 36,
+            "w": 24.0
+        },
+        {
+            "id": 27459932,
+            "node1": 152568,
+            "node2": 254878,
+            "type": 36,
+            "w": 7.0
+        },
+        {
+            "id": 83412687,
+            "node1": 152568,
+            "node2": 273221,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 503671829,
+            "node1": 152568,
+            "node2": 317322,
+            "type": 36,
+            "w": 1.28
+        },
+        {
+            "id": 503671830,
+            "node1": 152568,
+            "node2": 317324,
+            "type": 36,
+            "w": 1.28
+        },
+        {
+            "id": 503671831,
+            "node1": 152568,
+            "node2": 317325,
+            "type": 36,
+            "w": 1.23
+        },
+        {
+            "id": 505130029,
+            "node1": 152568,
+            "node2": 317327,
+            "type": 36,
+            "w": 2.02
+        },
+        {
+            "id": 503671827,
+            "node1": 152568,
+            "node2": 317329,
+            "type": 36,
+            "w": 2.1
+        },
+        {
+            "id": 363928170,
+            "node1": 152568,
+            "node2": 438949,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 30784461,
+            "node1": 152568,
+            "node2": 1912917,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 500256862,
+            "node1": 152568,
+            "node2": 50233540,
+            "type": 36,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:31.280317",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tuiles",
+        "#relations": 15,
+        "max_relation_weight": 286.0,
+        "#nodes": 16,
+        "duration": "0:00:00.008040"
+    }
+}

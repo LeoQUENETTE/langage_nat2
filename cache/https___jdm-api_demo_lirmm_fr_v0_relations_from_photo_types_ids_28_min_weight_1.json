@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 242661,
+            "name": "trace de doigt",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 153637,
+            "name": "empreinte digitale",
+            "type": 1,
+            "w": 176
+        },
+        {
+            "id": 231928,
+            "name": "lune>16644",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 15201110,
+            "name": "empreinte de doigt",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 206087,
+            "name": "premier plan",
+            "type": 1,
+            "w": 334
+        },
+        {
+            "id": 363445,
+            "name": "marque de doigt",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15231935,
+            "name": "en:finger mark",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 43466,
+            "name": "passé",
+            "type": 1,
+            "w": 8103
+        },
+        {
+            "id": 145953,
+            "name": "visage",
+            "type": 1,
+            "w": 10242
+        },
+        {
+            "id": 52442,
+            "name": "photo",
+            "type": 1,
+            "w": 4916
+        },
+        {
+            "id": 7500198,
+            "name": "en:fingerprint",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 79853,
+            "name": "regard",
+            "type": 1,
+            "w": 13600
+        },
+        {
+            "id": 141367,
+            "name": "lune",
+            "type": 1,
+            "w": 5358
+        },
+        {
+            "id": 1593905,
+            "name": "passé>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15050439,
+            "name": "en:fingermark",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 11332892,
+            "node1": 52442,
+            "node2": 43466,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11344060,
+            "node1": 52442,
+            "node2": 79853,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104940288,
+            "node1": 52442,
+            "node2": 141367,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11346786,
+            "node1": 52442,
+            "node2": 145953,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 926896858,
+            "node1": 52442,
+            "node2": 153637,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 77461142,
+            "node1": 52442,
+            "node2": 206087,
+            "type": 28,
+            "w": 22.0
+        },
+        {
+            "id": 25028121,
+            "node1": 52442,
+            "node2": 231928,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 11334350,
+            "node1": 52442,
+            "node2": 242661,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 553334416,
+            "node1": 52442,
+            "node2": 363445,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 721190460,
+            "node1": 52442,
+            "node2": 1593905,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 470982637,
+            "node1": 52442,
+            "node2": 7500198,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470982624,
+            "node1": 52442,
+            "node2": 15050439,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 1054570857,
+            "node1": 52442,
+            "node2": 15201110,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 594577218,
+            "node1": 52442,
+            "node2": 15231935,
+            "type": 28,
+            "w": 9.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:17.513909",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "photo",
+        "#relations": 14,
+        "max_relation_weight": 41.0,
+        "#nodes": 15,
+        "duration": "0:00:00.008002"
+    }
+}

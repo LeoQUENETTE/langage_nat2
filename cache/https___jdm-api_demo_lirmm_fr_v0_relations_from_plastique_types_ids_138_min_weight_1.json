@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3469
+        },
+        {
+            "id": 123385,
+            "name": "incinération",
+            "type": 1,
+            "w": 277
+        },
+        {
+            "id": 102268,
+            "name": "recyclage",
+            "type": 1,
+            "w": 4432
+        },
+        {
+            "id": 77286,
+            "name": "extrusion",
+            "type": 1,
+            "w": 70
+        }
+    ],
+    "relations": [
+        {
+            "id": 962090053,
+            "node1": 85406,
+            "node2": 77286,
+            "type": 138,
+            "w": 20.0
+        },
+        {
+            "id": 1155363428,
+            "node1": 85406,
+            "node2": 102268,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1155363451,
+            "node1": 85406,
+            "node2": 123385,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:46.554853",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plastique",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003176"
+    }
+}

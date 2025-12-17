@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 68291,
+            "name": "Genève",
+            "type": 1,
+            "w": 3454
+        },
+        {
+            "id": 48556,
+            "name": "boulevard",
+            "type": 1,
+            "w": 2174
+        },
+        {
+            "id": 215053,
+            "name": "rue>215052",
+            "type": 1,
+            "w": 318
+        },
+        {
+            "id": 143960,
+            "name": "jet d'eau",
+            "type": 1,
+            "w": 113
+        },
+        {
+            "id": 20564,
+            "name": "rue",
+            "type": 1,
+            "w": 15170
+        }
+    ],
+    "relations": [
+        {
+            "id": 350624006,
+            "node1": 68291,
+            "node2": 20564,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 8794093,
+            "node1": 68291,
+            "node2": 48556,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 1766289,
+            "node1": 68291,
+            "node2": 143960,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 350641757,
+            "node1": 68291,
+            "node2": 215053,
+            "type": 9,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:29.754935",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Genève",
+        "#relations": 4,
+        "max_relation_weight": 34.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006633"
+    }
+}

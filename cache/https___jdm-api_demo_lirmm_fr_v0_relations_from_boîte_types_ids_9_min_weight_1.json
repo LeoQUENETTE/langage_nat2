@@ -1,0 +1,339 @@
+{
+    "nodes": [
+        {
+            "id": 131692,
+            "name": "PDG",
+            "type": 1,
+            "w": 560
+        },
+        {
+            "id": 35238,
+            "name": "patron",
+            "type": 1,
+            "w": 4142
+        },
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1423
+        },
+        {
+            "id": 69914,
+            "name": "charnière",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 73518,
+            "name": "chaussures",
+            "type": 1,
+            "w": 1517
+        },
+        {
+            "id": 138419,
+            "name": "côté",
+            "type": 1,
+            "w": 11511
+        },
+        {
+            "id": 7575,
+            "name": "boîte",
+            "type": 1,
+            "w": 2849
+        },
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3469
+        },
+        {
+            "id": 11651,
+            "name": "clou",
+            "type": 1,
+            "w": 918
+        },
+        {
+            "id": 94200613,
+            "name": "Président directeur général",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15216107,
+            "name": "en:Chairman and Chief Executive Officer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 124092,
+            "name": "fer",
+            "type": 1,
+            "w": 6704
+        },
+        {
+            "id": 108150,
+            "name": "contenu",
+            "type": 1,
+            "w": 10080
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 75170,
+            "name": "coin",
+            "type": 1,
+            "w": 3578
+        },
+        {
+            "id": 116175,
+            "name": "oeuf",
+            "type": 1,
+            "w": 3267
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 2121494,
+            "name": "Président Directeur Général",
+            "type": 2,
+            "w": 4
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 89523,
+            "name": "couvercle",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 39056,
+            "name": "paroi",
+            "type": 1,
+            "w": 1402
+        },
+        {
+            "id": 66935,
+            "name": "carton",
+            "type": 1,
+            "w": 692
+        },
+        {
+            "id": 183849,
+            "name": "président directeur général",
+            "type": 1,
+            "w": 198
+        }
+    ],
+    "relations": [
+        {
+            "id": 9973985,
+            "node1": 7575,
+            "node2": 11651,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9974639,
+            "node1": 7575,
+            "node2": 16912,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10533137,
+            "node1": 7575,
+            "node2": 35238,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 167831,
+            "node1": 7575,
+            "node2": 39056,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 10528621,
+            "node1": 7575,
+            "node2": 40056,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 167802,
+            "node1": 7575,
+            "node2": 66935,
+            "type": 9,
+            "w": 70.0
+        },
+        {
+            "id": 160982,
+            "node1": 7575,
+            "node2": 69914,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 10533098,
+            "node1": 7575,
+            "node2": 73518,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 167834,
+            "node1": 7575,
+            "node2": 75170,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 10527705,
+            "node1": 7575,
+            "node2": 85406,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 123107,
+            "node1": 7575,
+            "node2": 89523,
+            "type": 9,
+            "w": 147.0
+        },
+        {
+            "id": 167830,
+            "node1": 7575,
+            "node2": 96256,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 10529704,
+            "node1": 7575,
+            "node2": 108150,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 9970825,
+            "node1": 7575,
+            "node2": 116175,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 123110,
+            "node1": 7575,
+            "node2": 119272,
+            "type": 9,
+            "w": 110.0
+        },
+        {
+            "id": 181014,
+            "node1": 7575,
+            "node2": 124092,
+            "type": 9,
+            "w": 49.0
+        },
+        {
+            "id": 10536043,
+            "node1": 7575,
+            "node2": 131692,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10563761,
+            "node1": 7575,
+            "node2": 135190,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 123104,
+            "node1": 7575,
+            "node2": 138419,
+            "type": 9,
+            "w": 78.0
+        },
+        {
+            "id": 14714943,
+            "node1": 7575,
+            "node2": 183849,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 369642364,
+            "node1": 7575,
+            "node2": 2121494,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1055141915,
+            "node1": 7575,
+            "node2": 15216107,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 932755412,
+            "node1": 7575,
+            "node2": 94200613,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:49.411150",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "boîte",
+        "#relations": 23,
+        "max_relation_weight": 147.0,
+        "#nodes": 24,
+        "duration": "0:00:00.005997"
+    }
+}

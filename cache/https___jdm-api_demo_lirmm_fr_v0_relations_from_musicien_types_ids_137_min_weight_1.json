@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 222943,
+            "name": "genre musical",
+            "type": 1,
+            "w": 223
+        },
+        {
+            "id": 313688059,
+            "name": "composition de morceaux musicaux",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 7401,
+            "name": "interprétation",
+            "type": 1,
+            "w": 11893
+        },
+        {
+            "id": 70527,
+            "name": "musique",
+            "type": 1,
+            "w": 22732
+        },
+        {
+            "id": 60211,
+            "name": "performance",
+            "type": 1,
+            "w": 14704
+        },
+        {
+            "id": 146227,
+            "name": "concert",
+            "type": 1,
+            "w": 4370
+        },
+        {
+            "id": 53314,
+            "name": "jeu",
+            "type": 1,
+            "w": 11916
+        },
+        {
+            "id": 75334,
+            "name": "musicien",
+            "type": 1,
+            "w": 3626
+        },
+        {
+            "id": 143497,
+            "name": "création",
+            "type": 1,
+            "w": 9764
+        },
+        {
+            "id": 302902,
+            "name": "oeuvre musicale",
+            "type": 777,
+            "w": 72
+        },
+        {
+            "id": 26584,
+            "name": "composition",
+            "type": 1,
+            "w": 5333
+        },
+        {
+            "id": 298495,
+            "name": "composition musicale",
+            "type": 1,
+            "w": 93
+        },
+        {
+            "id": 359633,
+            "name": "interprétation musicale",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 15009451,
+            "name": "musique>163103",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 111867,
+            "name": "enregistrement",
+            "type": 1,
+            "w": 2473
+        },
+        {
+            "id": 8224,
+            "name": "exécution",
+            "type": 1,
+            "w": 3585
+        }
+    ],
+    "relations": [
+        {
+            "id": 1046577917,
+            "node1": 75334,
+            "node2": 7401,
+            "type": 137,
+            "w": 36.0
+        },
+        {
+            "id": 720644603,
+            "node1": 75334,
+            "node2": 8224,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 952377438,
+            "node1": 75334,
+            "node2": 26584,
+            "type": 137,
+            "w": 148.0
+        },
+        {
+            "id": 1150603773,
+            "node1": 75334,
+            "node2": 53314,
+            "type": 137,
+            "w": 107.0
+        },
+        {
+            "id": 1040736255,
+            "node1": 75334,
+            "node2": 60211,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 423716827,
+            "node1": 75334,
+            "node2": 70527,
+            "type": 137,
+            "w": 50.0
+        },
+        {
+            "id": 1150463658,
+            "node1": 75334,
+            "node2": 111867,
+            "type": 137,
+            "w": 39.0
+        },
+        {
+            "id": 1150469382,
+            "node1": 75334,
+            "node2": 143497,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 775109515,
+            "node1": 75334,
+            "node2": 146227,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1046577079,
+            "node1": 75334,
+            "node2": 222943,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 998837886,
+            "node1": 75334,
+            "node2": 298495,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1046577083,
+            "node1": 75334,
+            "node2": 302902,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 952383035,
+            "node1": 75334,
+            "node2": 359633,
+            "type": 137,
+            "w": 41.0
+        },
+        {
+            "id": 423716829,
+            "node1": 75334,
+            "node2": 15009451,
+            "type": 137,
+            "w": 45.0
+        },
+        {
+            "id": 952387614,
+            "node1": 75334,
+            "node2": 313688059,
+            "type": 137,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:58.962786",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "musicien",
+        "#relations": 15,
+        "max_relation_weight": 148.0,
+        "#nodes": 16,
+        "duration": "0:00:00.008071"
+    }
+}

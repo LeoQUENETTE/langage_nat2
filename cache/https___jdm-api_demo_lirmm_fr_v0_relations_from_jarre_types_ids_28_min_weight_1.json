@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 65012,
+            "name": "eau",
+            "type": 1,
+            "w": 39833
+        },
+        {
+            "id": 141971,
+            "name": "huile",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 249571,
+            "name": "espèce végétale",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 238,
+            "name": "olive",
+            "type": 1,
+            "w": 611
+        },
+        {
+            "id": 15237258,
+            "name": "en:botanical species",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45100,
+            "name": "jarre",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 151749,
+            "name": "plante verte",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 149389,
+            "name": "olives",
+            "type": 1,
+            "w": 293
+        },
+        {
+            "id": 250078567,
+            "name": "Espèce végétale",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 98282280,
+            "node1": 45100,
+            "node2": 238,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 98282282,
+            "node1": 45100,
+            "node2": 65012,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 98282279,
+            "node1": 45100,
+            "node2": 141971,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 98282281,
+            "node1": 45100,
+            "node2": 149389,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 11308830,
+            "node1": 45100,
+            "node2": 151749,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 11308798,
+            "node1": 45100,
+            "node2": 249571,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 515245619,
+            "node1": 45100,
+            "node2": 15237258,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1124414783,
+            "node1": 45100,
+            "node2": 250078567,
+            "type": 28,
+            "w": 4.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:47.345362",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jarre",
+        "#relations": 8,
+        "max_relation_weight": 55.0,
+        "#nodes": 9,
+        "duration": "0:00:00.004802"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 142000,
+            "name": "forme",
+            "type": 1,
+            "w": 14796
+        },
+        {
+            "id": 16642,
+            "name": "symétrie",
+            "type": 1,
+            "w": 1959
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179138970,
+            "node1": 142000,
+            "node2": 16642,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:04.816020",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "forme",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005608"
+    }
+}

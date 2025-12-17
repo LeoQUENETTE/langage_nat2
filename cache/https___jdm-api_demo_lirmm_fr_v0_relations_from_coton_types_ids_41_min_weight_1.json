@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 466633690,
+            "name": "emploi dans l'industrie textile",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 99532,
+            "name": "pollution",
+            "type": 1,
+            "w": 12762
+        },
+        {
+            "id": 134536,
+            "name": "économie",
+            "type": 1,
+            "w": 31718
+        },
+        {
+            "id": 84939,
+            "name": "coton",
+            "type": 1,
+            "w": 1705
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158212927,
+            "node1": 84939,
+            "node2": 99532,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158212940,
+            "node1": 84939,
+            "node2": 134536,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1158213625,
+            "node1": 84939,
+            "node2": 466633690,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:54.260525",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "coton",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003970"
+    }
+}

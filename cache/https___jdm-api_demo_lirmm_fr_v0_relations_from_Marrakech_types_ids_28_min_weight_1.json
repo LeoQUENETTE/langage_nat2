@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 35814,
+            "name": "couscous",
+            "type": 1,
+            "w": 249
+        },
+        {
+            "id": 143800,
+            "name": "palais",
+            "type": 1,
+            "w": 4954
+        },
+        {
+            "id": 109860,
+            "name": "souk",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 39149,
+            "name": "cuir",
+            "type": 1,
+            "w": 1856
+        },
+        {
+            "id": 6249,
+            "name": "Marrakech",
+            "type": 1,
+            "w": 121
+        },
+        {
+            "id": 68090,
+            "name": "tajine",
+            "type": 1,
+            "w": 246
+        }
+    ],
+    "relations": [
+        {
+            "id": 765902931,
+            "node1": 6249,
+            "node2": 35814,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765900801,
+            "node1": 6249,
+            "node2": 39149,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 765902862,
+            "node1": 6249,
+            "node2": 68090,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 1016003164,
+            "node1": 6249,
+            "node2": 109860,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 1016003167,
+            "node1": 6249,
+            "node2": 143800,
+            "type": 28,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:50.395961",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Marrakech",
+        "#relations": 5,
+        "max_relation_weight": 20.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003651"
+    }
+}

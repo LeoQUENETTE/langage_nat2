@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 137520566,
+            "name": "soutien émotionnel",
+            "type": 1,
+            "w": 580
+        },
+        {
+            "id": 66535,
+            "name": "ami",
+            "type": 1,
+            "w": 22293
+        },
+        {
+            "id": 18162,
+            "name": "invitation",
+            "type": 1,
+            "w": 1207
+        },
+        {
+            "id": 60333,
+            "name": "réconciliation",
+            "type": 1,
+            "w": 1950
+        },
+        {
+            "id": 33701,
+            "name": "soutien",
+            "type": 1,
+            "w": 21483
+        },
+        {
+            "id": 76641,
+            "name": "trahison",
+            "type": 1,
+            "w": 1805
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131549458,
+            "node1": 66535,
+            "node2": 18162,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 1150459607,
+            "node1": 66535,
+            "node2": 33701,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 1046577109,
+            "node1": 66535,
+            "node2": 60333,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1010155450,
+            "node1": 66535,
+            "node2": 76641,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1009555245,
+            "node1": 66535,
+            "node2": 137520566,
+            "type": 137,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:27.909811",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ami",
+        "#relations": 5,
+        "max_relation_weight": 35.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004504"
+    }
+}

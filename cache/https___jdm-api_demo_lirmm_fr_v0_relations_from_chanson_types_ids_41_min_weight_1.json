@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 15066836,
+            "name": "en:songstress",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6918,
+            "name": "calmer",
+            "type": 1,
+            "w": 1375
+        },
+        {
+            "id": 103365,
+            "name": "chant",
+            "type": 1,
+            "w": 5110
+        },
+        {
+            "id": 107902,
+            "name": "chanson",
+            "type": 1,
+            "w": 5577
+        },
+        {
+            "id": 145664,
+            "name": "émotion",
+            "type": 1,
+            "w": 9593
+        },
+        {
+            "id": 103353,
+            "name": "chanteuse",
+            "type": 1,
+            "w": 3267
+        },
+        {
+            "id": 233958,
+            "name": "émue",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 14927323,
+            "name": "en:vocalist",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 30266,
+            "name": "vocaliste",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 28720,
+            "name": "fredonner",
+            "type": 1,
+            "w": 109
+        },
+        {
+            "id": 58135,
+            "name": "chanter",
+            "type": 1,
+            "w": 4691
+        },
+        {
+            "id": 325166,
+            "name": "accompagner>70527",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 146025,
+            "name": "air",
+            "type": 1,
+            "w": 24352
+        }
+    ],
+    "relations": [
+        {
+            "id": 76282525,
+            "node1": 107902,
+            "node2": 6918,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 15800661,
+            "node1": 107902,
+            "node2": 28720,
+            "type": 41,
+            "w": 52.0
+        },
+        {
+            "id": 667262800,
+            "node1": 107902,
+            "node2": 30266,
+            "type": 41,
+            "w": 6.0
+        },
+        {
+            "id": 1624408,
+            "node1": 107902,
+            "node2": 58135,
+            "type": 41,
+            "w": 59.0
+        },
+        {
+            "id": 14658887,
+            "node1": 107902,
+            "node2": 103353,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 14643728,
+            "node1": 107902,
+            "node2": 103365,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1028354130,
+            "node1": 107902,
+            "node2": 145664,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14651832,
+            "node1": 107902,
+            "node2": 146025,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14655213,
+            "node1": 107902,
+            "node2": 233958,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 1179097324,
+            "node1": 107902,
+            "node2": 325166,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 413527068,
+            "node1": 107902,
+            "node2": 14927323,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 411508621,
+            "node1": 107902,
+            "node2": 15066836,
+            "type": 41,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:24.752537",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chanson",
+        "#relations": 12,
+        "max_relation_weight": 59.0,
+        "#nodes": 13,
+        "duration": "0:00:00.014501"
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 42490,
+            "name": "élément",
+            "type": 1,
+            "w": 8794
+        },
+        {
+            "id": 246874,
+            "name": "objet>109527>139768",
+            "type": 1,
+            "w": 273
+        },
+        {
+            "id": 123933,
+            "name": "entité",
+            "type": 1,
+            "w": 2063
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 109527,
+            "name": "chose",
+            "type": 1,
+            "w": 36838
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 1483852,
+            "name": "non humain",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 17029140,
+            "name": "chose matérielle",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 1167229031,
+            "node1": 237,
+            "node2": 42490,
+            "type": 6,
+            "w": 9.0
+        },
+        {
+            "id": 211974,
+            "node1": 237,
+            "node2": 109527,
+            "type": 6,
+            "w": 246.0
+        },
+        {
+            "id": 1150471374,
+            "node1": 237,
+            "node2": 123933,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 614522339,
+            "node1": 237,
+            "node2": 246874,
+            "type": 6,
+            "w": 33.0
+        },
+        {
+            "id": 140203891,
+            "node1": 237,
+            "node2": 316850,
+            "type": 6,
+            "w": 153.0
+        },
+        {
+            "id": 374009195,
+            "node1": 237,
+            "node2": 1483852,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 1131462632,
+            "node1": 237,
+            "node2": 17029140,
+            "type": 6,
+            "w": 469.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:18.190415",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "objet",
+        "#relations": 7,
+        "max_relation_weight": 469.0,
+        "#nodes": 8,
+        "duration": "0:00:00.091102"
+    }
+}

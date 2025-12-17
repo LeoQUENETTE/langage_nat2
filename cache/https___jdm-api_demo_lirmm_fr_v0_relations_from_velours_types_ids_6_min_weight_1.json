@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 140902,
+            "name": "étoffe",
+            "type": 1,
+            "w": 464
+        },
+        {
+            "id": 132097,
+            "name": "velours",
+            "type": 1,
+            "w": 181
+        },
+        {
+            "id": 94609,
+            "name": "textile",
+            "type": 1,
+            "w": 2027
+        },
+        {
+            "id": 249854,
+            "name": "maladie>102206",
+            "type": 1,
+            "w": 842
+        },
+        {
+            "id": 14624,
+            "name": "affection",
+            "type": 1,
+            "w": 2161
+        },
+        {
+            "id": 5663,
+            "name": "processus",
+            "type": 1,
+            "w": 10909
+        },
+        {
+            "id": 3233,
+            "name": "partie",
+            "type": 1,
+            "w": 12326
+        },
+        {
+            "id": 63936,
+            "name": "tissu",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 113547,
+            "name": "boisson",
+            "type": 1,
+            "w": 4669
+        },
+        {
+            "id": 130400,
+            "name": "maladie",
+            "type": 1,
+            "w": 15843
+        },
+        {
+            "id": 111166,
+            "name": "pathologie",
+            "type": 1,
+            "w": 1760
+        },
+        {
+            "id": 319694,
+            "name": "processus pathologique",
+            "type": 1,
+            "w": 15
+        },
+        {
+            "id": 140315,
+            "name": "liquide",
+            "type": 1,
+            "w": 3688
+        },
+        {
+            "id": 11358,
+            "name": "substance",
+            "type": 1,
+            "w": 4567
+        },
+        {
+            "id": 213432,
+            "name": "tissu>94609",
+            "type": 1,
+            "w": 272
+        }
+    ],
+    "relations": [
+        {
+            "id": 108787314,
+            "node1": 132097,
+            "node2": 3233,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 371490012,
+            "node1": 132097,
+            "node2": 5663,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 84309794,
+            "node1": 132097,
+            "node2": 11358,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1144239747,
+            "node1": 132097,
+            "node2": 14624,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 25212413,
+            "node1": 132097,
+            "node2": 63936,
+            "type": 6,
+            "w": 67.0
+        },
+        {
+            "id": 9908099,
+            "node1": 132097,
+            "node2": 94609,
+            "type": 6,
+            "w": 14.0
+        },
+        {
+            "id": 371410401,
+            "node1": 132097,
+            "node2": 111166,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 84308536,
+            "node1": 132097,
+            "node2": 113547,
+            "type": 6,
+            "w": 45.0
+        },
+        {
+            "id": 97351681,
+            "node1": 132097,
+            "node2": 130400,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 84309790,
+            "node1": 132097,
+            "node2": 140315,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 56399163,
+            "node1": 132097,
+            "node2": 140902,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 25212719,
+            "node1": 132097,
+            "node2": 213432,
+            "type": 6,
+            "w": 116.0
+        },
+        {
+            "id": 97351685,
+            "node1": 132097,
+            "node2": 249854,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 97351686,
+            "node1": 132097,
+            "node2": 319694,
+            "type": 6,
+            "w": 15.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:17.802094",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "velours",
+        "#relations": 14,
+        "max_relation_weight": 116.0,
+        "#nodes": 15,
+        "duration": "0:00:01.417418"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 95379,
+            "name": "émigration",
+            "type": 1,
+            "w": 450
+        },
+        {
+            "id": 11254029,
+            "name": "attractivité touristique",
+            "type": 1,
+            "w": 86
+        },
+        {
+            "id": 87987,
+            "name": "France",
+            "type": 1,
+            "w": 25102
+        },
+        {
+            "id": 212284,
+            "name": "développement économique",
+            "type": 1,
+            "w": 2710
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150593347,
+            "node1": 87987,
+            "node2": 95379,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1150911219,
+            "node1": 87987,
+            "node2": 212284,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1150593346,
+            "node1": 87987,
+            "node2": 11254029,
+            "type": 41,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:45.416100",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "France",
+        "#relations": 3,
+        "max_relation_weight": 27.0,
+        "#nodes": 4,
+        "duration": "0:00:00.038381"
+    }
+}

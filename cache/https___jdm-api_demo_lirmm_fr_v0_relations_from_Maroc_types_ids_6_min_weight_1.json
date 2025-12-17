@@ -1,0 +1,378 @@
+{
+    "nodes": [
+        {
+            "id": 31849457,
+            "name": "en:Arab State",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951103,
+            "name": "en:patronym",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 280058558,
+            "name": "État unitaire régionalisé",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12734018,
+            "name": "État unitaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 50709408,
+            "name": "Pays en Voie de Développement",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 241988,
+            "name": "pays>145735",
+            "type": 1,
+            "w": 232
+        },
+        {
+            "id": 542,
+            "name": "État",
+            "type": 1,
+            "w": 10699
+        },
+        {
+            "id": 2785548,
+            "name": "lieu géographique",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 146785,
+            "name": "nom de famille",
+            "type": 1,
+            "w": 267
+        },
+        {
+            "id": 36344,
+            "name": "Maroc",
+            "type": 1,
+            "w": 3713
+        },
+        {
+            "id": 22243,
+            "name": "pays",
+            "type": 1,
+            "w": 27461
+        },
+        {
+            "id": 145735,
+            "name": "nation",
+            "type": 1,
+            "w": 5558
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 29930,
+            "name": "localité",
+            "type": 1,
+            "w": 1225
+        },
+        {
+            "id": 261419,
+            "name": "::>66:22243>17:133328",
+            "type": 8,
+            "w": 50
+        },
+        {
+            "id": 231349,
+            "name": "pays arabe",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 7053340,
+            "name": "en:north african country",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156510459,
+            "name": "Pays en voie de développement",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10424014,
+            "name": "pays d'Afrique du Nord",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15379336,
+            "name": "en:developing world",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15379337,
+            "name": "en:developing nation",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 180590199,
+            "name": "en:Arab country",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7994473,
+            "name": "en:last name",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14951102,
+            "name": "en:family name",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 161138,
+            "name": "pays en voie de développement",
+            "type": 1,
+            "w": 152
+        }
+    ],
+    "relations": [
+        {
+            "id": 108394560,
+            "node1": 36344,
+            "node2": 542,
+            "type": 6,
+            "w": 48.0
+        },
+        {
+            "id": 654916,
+            "node1": 36344,
+            "node2": 22243,
+            "type": 6,
+            "w": 203.0
+        },
+        {
+            "id": 312717641,
+            "node1": 36344,
+            "node2": 29930,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 630820,
+            "node1": 36344,
+            "node2": 135190,
+            "type": 6,
+            "w": 72.0
+        },
+        {
+            "id": 281897778,
+            "node1": 36344,
+            "node2": 145735,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 556970878,
+            "node1": 36344,
+            "node2": 146785,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 331138933,
+            "node1": 36344,
+            "node2": 157283,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 8980313,
+            "node1": 36344,
+            "node2": 161138,
+            "type": 6,
+            "w": 190.0
+        },
+        {
+            "id": 9931877,
+            "node1": 36344,
+            "node2": 231349,
+            "type": 6,
+            "w": 260.0
+        },
+        {
+            "id": 2121819,
+            "node1": 36344,
+            "node2": 241988,
+            "type": 6,
+            "w": 93.0
+        },
+        {
+            "id": 12077834,
+            "node1": 36344,
+            "node2": 261419,
+            "type": 6,
+            "w": 338.0
+        },
+        {
+            "id": 659548023,
+            "node1": 36344,
+            "node2": 2785548,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 320894313,
+            "node1": 36344,
+            "node2": 7053340,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 607390201,
+            "node1": 36344,
+            "node2": 7994473,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 320894311,
+            "node1": 36344,
+            "node2": 10424014,
+            "type": 6,
+            "w": 70.0
+        },
+        {
+            "id": 327109700,
+            "node1": 36344,
+            "node2": 12734018,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 357209255,
+            "node1": 36344,
+            "node2": 14094383,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 607390199,
+            "node1": 36344,
+            "node2": 14951102,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 607390197,
+            "node1": 36344,
+            "node2": 14951103,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 774081869,
+            "node1": 36344,
+            "node2": 15379336,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 774081866,
+            "node1": 36344,
+            "node2": 15379337,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 774081865,
+            "node1": 36344,
+            "node2": 31849457,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 774081868,
+            "node1": 36344,
+            "node2": 50709408,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 774081867,
+            "node1": 36344,
+            "node2": 156510459,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 774081864,
+            "node1": 36344,
+            "node2": 180590199,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1130677254,
+            "node1": 36344,
+            "node2": 280058558,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:08.795947",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Maroc",
+        "#relations": 26,
+        "max_relation_weight": 338.0,
+        "#nodes": 27,
+        "duration": "0:00:00.030094"
+    }
+}

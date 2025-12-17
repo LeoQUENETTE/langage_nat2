@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 91494,
+            "name": "jury",
+            "type": 1,
+            "w": 2353
+        },
+        {
+            "id": 67900,
+            "name": "accusé",
+            "type": 1,
+            "w": 3107
+        },
+        {
+            "id": 14807,
+            "name": "juré",
+            "type": 1,
+            "w": 638
+        },
+        {
+            "id": 140856,
+            "name": "juge",
+            "type": 1,
+            "w": 7137
+        },
+        {
+            "id": 146145,
+            "name": "divorce",
+            "type": 1,
+            "w": 1904
+        },
+        {
+            "id": 104789,
+            "name": "avocat",
+            "type": 1,
+            "w": 5259
+        },
+        {
+            "id": 9374,
+            "name": "greffier",
+            "type": 1,
+            "w": 154
+        }
+    ],
+    "relations": [
+        {
+            "id": 3093670,
+            "node1": 140856,
+            "node2": 9374,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 3093667,
+            "node1": 140856,
+            "node2": 14807,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 3093691,
+            "node1": 140856,
+            "node2": 67900,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 3093676,
+            "node1": 140856,
+            "node2": 91494,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 3093693,
+            "node1": 140856,
+            "node2": 104789,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 11310834,
+            "node1": 140856,
+            "node2": 146145,
+            "type": 28,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:17.620155",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "juge",
+        "#relations": 6,
+        "max_relation_weight": 54.0,
+        "#nodes": 7,
+        "duration": "0:00:00.003057"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 143981,
+            "name": "rideau",
+            "type": 1,
+            "w": 1481
+        },
+        {
+            "id": 49790,
+            "name": "opacité",
+            "type": 1,
+            "w": 316
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137821,
+            "node1": 143981,
+            "node2": 49790,
+            "type": 153,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:15.315653",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "rideau",
+        "#relations": 1,
+        "max_relation_weight": 39.0,
+        "#nodes": 2,
+        "duration": "0:00:00.002756"
+    }
+}

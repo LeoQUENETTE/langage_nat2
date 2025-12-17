@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 110160,
+            "name": "robe",
+            "type": 1,
+            "w": 3024
+        },
+        {
+            "id": 7368817,
+            "name": "en:rayon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 38473,
+            "name": "rayonne",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 14722653,
+            "name": "drap>140902",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 82414,
+            "name": "drap",
+            "type": 1,
+            "w": 1421
+        }
+    ],
+    "relations": [
+        {
+            "id": 765133832,
+            "node1": 110160,
+            "node2": 38473,
+            "type": 80,
+            "w": 26.0
+        },
+        {
+            "id": 765136041,
+            "node1": 110160,
+            "node2": 82414,
+            "type": 80,
+            "w": 26.0
+        },
+        {
+            "id": 765134775,
+            "node1": 110160,
+            "node2": 7368817,
+            "type": 80,
+            "w": 26.0
+        },
+        {
+            "id": 765133558,
+            "node1": 110160,
+            "node2": 14722653,
+            "type": 80,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:39.289714",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "robe",
+        "#relations": 4,
+        "max_relation_weight": 26.0,
+        "#nodes": 5,
+        "duration": "0:00:00.009885"
+    }
+}

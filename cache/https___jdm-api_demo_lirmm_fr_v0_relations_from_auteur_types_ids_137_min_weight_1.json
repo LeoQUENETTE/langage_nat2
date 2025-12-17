@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 122671,
+            "name": "relecture",
+            "type": 1,
+            "w": 327
+        },
+        {
+            "id": 45052,
+            "name": "auteur",
+            "type": 1,
+            "w": 10604
+        },
+        {
+            "id": 36177,
+            "name": "narration",
+            "type": 1,
+            "w": 5017
+        },
+        {
+            "id": 54234,
+            "name": "écriture",
+            "type": 1,
+            "w": 6243
+        },
+        {
+            "id": 112777,
+            "name": "rédaction",
+            "type": 1,
+            "w": 4384
+        },
+        {
+            "id": 16956297,
+            "name": "worldbuilding",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 345473,
+            "name": "création littéraire",
+            "type": 1,
+            "w": 113
+        }
+    ],
+    "relations": [
+        {
+            "id": 816117320,
+            "node1": 45052,
+            "node2": 36177,
+            "type": 137,
+            "w": 36.0
+        },
+        {
+            "id": 962090169,
+            "node1": 45052,
+            "node2": 54234,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1150603810,
+            "node1": 45052,
+            "node2": 112777,
+            "type": 137,
+            "w": 75.0
+        },
+        {
+            "id": 384630944,
+            "node1": 45052,
+            "node2": 122671,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 950744819,
+            "node1": 45052,
+            "node2": 345473,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 816119349,
+            "node1": 45052,
+            "node2": 16956297,
+            "type": 137,
+            "w": 36.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:50.441378",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "auteur",
+        "#relations": 6,
+        "max_relation_weight": 75.0,
+        "#nodes": 7,
+        "duration": "0:00:00.008991"
+    }
+}

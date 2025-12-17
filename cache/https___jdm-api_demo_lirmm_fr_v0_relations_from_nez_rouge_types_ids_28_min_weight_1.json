@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 15528706,
+            "name": "en:fidicinale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 62706,
+            "name": "doigt",
+            "type": 1,
+            "w": 5598
+        },
+        {
+            "id": 122824,
+            "name": "phalange",
+            "type": 1,
+            "w": 660
+        },
+        {
+            "id": 315765189,
+            "name": "Muscle fléchisseur commun superficiel des doigts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105041,
+            "name": "narine",
+            "type": 1,
+            "w": 607
+        },
+        {
+            "id": 6848215,
+            "name": "en:ulnar nerve",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1780870,
+            "name": "finger",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 234322,
+            "name": "nerf cubital",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 14139849,
+            "name": "Muscle lombrical de la main",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 315765206,
+            "name": "Nerf cubital",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16871688,
+            "name": "en:nervus medianus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6848191,
+            "name": "en:median nerve",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6803337,
+            "name": "en:finger",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 221652,
+            "name": "nerf ulnaire",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 94184,
+            "name": "morve",
+            "type": 1,
+            "w": 246
+        },
+        {
+            "id": 220521,
+            "name": "doigt>112609",
+            "type": 1,
+            "w": 306
+        },
+        {
+            "id": 2348241,
+            "name": "muscle lombrical de la main",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 1820876,
+            "name": "muscle fléchisseur commun superficiel des doigts",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 61147,
+            "name": "blessure",
+            "type": 1,
+            "w": 3491
+        },
+        {
+            "id": 120766,
+            "name": "craquement",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 286005,
+            "name": "nerf médian",
+            "type": 777,
+            "w": 55
+        },
+        {
+            "id": 152557,
+            "name": "nez rouge",
+            "type": 1,
+            "w": 185
+        },
+        {
+            "id": 215612,
+            "name": "phalange>62706",
+            "type": 1,
+            "w": 59
+        }
+    ],
+    "relations": [
+        {
+            "id": 375736477,
+            "node1": 152557,
+            "node2": 61147,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 121361264,
+            "node1": 152557,
+            "node2": 62706,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 98279361,
+            "node1": 152557,
+            "node2": 94184,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 22903538,
+            "node1": 152557,
+            "node2": 105041,
+            "type": 28,
+            "w": 52.0
+        },
+        {
+            "id": 1011680319,
+            "node1": 152557,
+            "node2": 120766,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 121361973,
+            "node1": 152557,
+            "node2": 122824,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 121361975,
+            "node1": 152557,
+            "node2": 215612,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 121361266,
+            "node1": 152557,
+            "node2": 220521,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 360537899,
+            "node1": 152557,
+            "node2": 221652,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470978096,
+            "node1": 152557,
+            "node2": 234322,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 121363620,
+            "node1": 152557,
+            "node2": 286005,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 375975807,
+            "node1": 152557,
+            "node2": 1780870,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 121361971,
+            "node1": 152557,
+            "node2": 1820876,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 337366114,
+            "node1": 152557,
+            "node2": 2348241,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 253532429,
+            "node1": 152557,
+            "node2": 6803337,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 308217847,
+            "node1": 152557,
+            "node2": 6848191,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 470979805,
+            "node1": 152557,
+            "node2": 6848215,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375724822,
+            "node1": 152557,
+            "node2": 14139849,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 1054564436,
+            "node1": 152557,
+            "node2": 15528706,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 633200456,
+            "node1": 152557,
+            "node2": 16871688,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 977746256,
+            "node1": 152557,
+            "node2": 315765189,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977746397,
+            "node1": 152557,
+            "node2": 315765206,
+            "type": 28,
+            "w": 3.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:41.014801",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nez rouge",
+        "#relations": 22,
+        "max_relation_weight": 52.0,
+        "#nodes": 23,
+        "duration": "0:00:00.008876"
+    }
+}

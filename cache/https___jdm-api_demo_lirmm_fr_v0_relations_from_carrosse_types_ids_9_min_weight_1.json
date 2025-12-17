@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 143132,
+            "name": "cochet",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 143613,
+            "name": "porte",
+            "type": 1,
+            "w": 23845
+        },
+        {
+            "id": 144217,
+            "name": "cocher",
+            "type": 1,
+            "w": 467
+        },
+        {
+            "id": 148108,
+            "name": "roues",
+            "type": 1,
+            "w": 2550
+        },
+        {
+            "id": 300290263,
+            "name": "roues dorées",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 43839,
+            "name": "roue",
+            "type": 1,
+            "w": 2823
+        },
+        {
+            "id": 133534,
+            "name": "marchepied",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 47541,
+            "name": "carrosse",
+            "type": 1,
+            "w": 165
+        },
+        {
+            "id": 139779,
+            "name": "ADN",
+            "type": 1,
+            "w": 2786
+        },
+        {
+            "id": 104460,
+            "name": "chevaux",
+            "type": 1,
+            "w": 2907
+        },
+        {
+            "id": 40184,
+            "name": "siège",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 145246,
+            "name": "cheval",
+            "type": 1,
+            "w": 7425
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 11195,
+            "name": "banquette",
+            "type": 1,
+            "w": 161
+        }
+    ],
+    "relations": [
+        {
+            "id": 180516,
+            "node1": 47541,
+            "node2": 11195,
+            "type": 9,
+            "w": 140.0
+        },
+        {
+            "id": 197387,
+            "node1": 47541,
+            "node2": 40184,
+            "type": 9,
+            "w": 130.0
+        },
+        {
+            "id": 178756,
+            "node1": 47541,
+            "node2": 43839,
+            "type": 9,
+            "w": 479.0
+        },
+        {
+            "id": 426777,
+            "node1": 47541,
+            "node2": 96256,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 426057,
+            "node1": 47541,
+            "node2": 104460,
+            "type": 9,
+            "w": 70.0
+        },
+        {
+            "id": 370883584,
+            "node1": 47541,
+            "node2": 133534,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 578635766,
+            "node1": 47541,
+            "node2": 139779,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 403114,
+            "node1": 47541,
+            "node2": 143132,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 204050,
+            "node1": 47541,
+            "node2": 143613,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 197388,
+            "node1": 47541,
+            "node2": 144217,
+            "type": 9,
+            "w": 60.0
+        },
+        {
+            "id": 178755,
+            "node1": 47541,
+            "node2": 145246,
+            "type": 9,
+            "w": 180.0
+        },
+        {
+            "id": 197391,
+            "node1": 47541,
+            "node2": 148108,
+            "type": 9,
+            "w": 90.0
+        },
+        {
+            "id": 818594754,
+            "node1": 47541,
+            "node2": 300290263,
+            "type": 9,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:14.522609",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "carrosse",
+        "#relations": 13,
+        "max_relation_weight": 479.0,
+        "#nodes": 14,
+        "duration": "0:00:00.003969"
+    }
+}

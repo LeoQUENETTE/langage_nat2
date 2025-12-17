@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 9699,
+            "name": "basse",
+            "type": 1,
+            "w": 3807
+        },
+        {
+            "id": 51515,
+            "name": "voix",
+            "type": 1,
+            "w": 29155
+        },
+        {
+            "id": 92487,
+            "name": "soprano",
+            "type": 1,
+            "w": 936
+        }
+    ],
+    "relations": [
+        {
+            "id": 10567193,
+            "node1": 51515,
+            "node2": 9699,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 10532322,
+            "node1": 51515,
+            "node2": 92487,
+            "type": 9,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:29.165622",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voix",
+        "#relations": 2,
+        "max_relation_weight": 30.0,
+        "#nodes": 3,
+        "duration": "0:00:00.008212"
+    }
+}

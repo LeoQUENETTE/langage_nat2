@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 341418,
+            "name": "capacité de stockage",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 99884,
+            "name": "mémoire",
+            "type": 1,
+            "w": 12721
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139148,
+            "node1": 99884,
+            "node2": 341418,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:24.781124",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mémoire",
+        "#relations": 1,
+        "max_relation_weight": 29.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003897"
+    }
+}

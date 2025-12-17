@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 153607,
+            "name": "film d'horreur",
+            "type": 1,
+            "w": 312
+        },
+        {
+            "id": 257494541,
+            "name": "forêt mythique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 294856208,
+            "name": "oeuvre du cinéma",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 264473,
+            "name": "film d'épouvante",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 14938429,
+            "name": "en:horror film",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14938430,
+            "name": "en:horror movie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 254100,
+            "name": "forêt>254099",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 51638482,
+            "name": "en:spine-chiller",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146632,
+            "name": "forêt",
+            "type": 1,
+            "w": 10610
+        },
+        {
+            "id": 246632,
+            "name": "oeuvre de fiction",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 323107,
+            "name": "oeuvre>3695",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 217201,
+            "name": "film>217196",
+            "type": 1,
+            "w": 1925
+        },
+        {
+            "id": 144938,
+            "name": "oeuvre",
+            "type": 1,
+            "w": 4269
+        },
+        {
+            "id": 217196,
+            "name": "oeuvre cinématographique",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12639
+        },
+        {
+            "id": 108571,
+            "name": "Brocéliande",
+            "type": 1,
+            "w": 74
+        }
+    ],
+    "relations": [
+        {
+            "id": 18458151,
+            "node1": 108571,
+            "node2": 29592,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 18458153,
+            "node1": 108571,
+            "node2": 144938,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 2423709,
+            "node1": 108571,
+            "node2": 146632,
+            "type": 6,
+            "w": 141.0
+        },
+        {
+            "id": 263209738,
+            "node1": 108571,
+            "node2": 153607,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 360464400,
+            "node1": 108571,
+            "node2": 217196,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 18458152,
+            "node1": 108571,
+            "node2": 217201,
+            "type": 6,
+            "w": 63.0
+        },
+        {
+            "id": 18465753,
+            "node1": 108571,
+            "node2": 246632,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 2423710,
+            "node1": 108571,
+            "node2": 254100,
+            "type": 6,
+            "w": 111.0
+        },
+        {
+            "id": 413916621,
+            "node1": 108571,
+            "node2": 264473,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 767024341,
+            "node1": 108571,
+            "node2": 323107,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 413916620,
+            "node1": 108571,
+            "node2": 14938429,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 413916619,
+            "node1": 108571,
+            "node2": 14938430,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 891627226,
+            "node1": 108571,
+            "node2": 51638482,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 1130601858,
+            "node1": 108571,
+            "node2": 257494541,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 767136015,
+            "node1": 108571,
+            "node2": 294856208,
+            "type": 6,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:34.806997",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Brocéliande",
+        "#relations": 15,
+        "max_relation_weight": 141.0,
+        "#nodes": 16,
+        "duration": "0:00:00.011041"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 42188,
+            "name": "filet",
+            "type": 1,
+            "w": 957
+        },
+        {
+            "id": 19654,
+            "name": "bar",
+            "type": 1,
+            "w": 2929
+        },
+        {
+            "id": 155236,
+            "name": "filets",
+            "type": 1,
+            "w": 183
+        }
+    ],
+    "relations": [
+        {
+            "id": 31839981,
+            "node1": 19654,
+            "node2": 42188,
+            "type": 58,
+            "w": 52.0
+        },
+        {
+            "id": 31839980,
+            "node1": 19654,
+            "node2": 155236,
+            "type": 58,
+            "w": 57.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:32.200687",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bar",
+        "#relations": 2,
+        "max_relation_weight": 57.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005060"
+    }
+}

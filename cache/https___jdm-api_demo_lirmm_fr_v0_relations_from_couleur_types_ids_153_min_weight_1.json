@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 40056,
+            "name": "couleur",
+            "type": 1,
+            "w": 10747
+        },
+        {
+            "id": 183060,
+            "name": "longueur d'onde",
+            "type": 1,
+            "w": 216
+        },
+        {
+            "id": 123965,
+            "name": "saturation",
+            "type": 1,
+            "w": 281
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179138971,
+            "node1": 40056,
+            "node2": 123965,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179139415,
+            "node1": 40056,
+            "node2": 183060,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:52.199941",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couleur",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004807"
+    }
+}

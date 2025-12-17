@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 45989,
+            "name": "surface",
+            "type": 1,
+            "w": 5571
+        },
+        {
+            "id": 223816,
+            "name": "volume d'eau",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 27982,
+            "name": "profondeur",
+            "type": 1,
+            "w": 4081
+        },
+        {
+            "id": 40111,
+            "name": "salinité",
+            "type": 1,
+            "w": 835
+        },
+        {
+            "id": 33976,
+            "name": "lac",
+            "type": 1,
+            "w": 3851
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137725,
+            "node1": 33976,
+            "node2": 27982,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179138940,
+            "node1": 33976,
+            "node2": 40111,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179137726,
+            "node1": 33976,
+            "node2": 45989,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179142873,
+            "node1": 33976,
+            "node2": 223816,
+            "type": 153,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:26.720978",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lac",
+        "#relations": 4,
+        "max_relation_weight": 33.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004178"
+    }
+}

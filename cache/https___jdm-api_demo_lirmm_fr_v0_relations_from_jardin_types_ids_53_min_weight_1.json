@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 105995,
+            "name": "légumes",
+            "type": 1,
+            "w": 2428
+        },
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8724
+        },
+        {
+            "id": 306607,
+            "name": "herbes aromatiques",
+            "type": 777,
+            "w": 88
+        },
+        {
+            "id": 117533,
+            "name": "fleurs",
+            "type": 1,
+            "w": 4175
+        },
+        {
+            "id": 89760,
+            "name": "fruits",
+            "type": 1,
+            "w": 4127
+        }
+    ],
+    "relations": [
+        {
+            "id": 1154162856,
+            "node1": 139575,
+            "node2": 89760,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152638958,
+            "node1": 139575,
+            "node2": 105995,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152638959,
+            "node1": 139575,
+            "node2": 117533,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152638983,
+            "node1": 139575,
+            "node2": 306607,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:43.319408",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 4,
+        "max_relation_weight": 25.0,
+        "#nodes": 5,
+        "duration": "0:00:00.040521"
+    }
+}

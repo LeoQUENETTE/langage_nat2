@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 251723,
+            "name": "arme>237",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 251573924,
+            "name": "arme à distance",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15193194,
+            "name": "en:throwing weapon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 280230032,
+            "name": "arme de jet antique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 145948,
+            "name": "arme",
+            "type": 1,
+            "w": 6544
+        },
+        {
+            "id": 1921949,
+            "name": "arme préhistorique",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 1921987,
+            "name": "arme antique",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 12310,
+            "name": "arme de jet",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 142780,
+            "name": "arc",
+            "type": 1,
+            "w": 1452
+        },
+        {
+            "id": 139768,
+            "name": "artéfact",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 143208605,
+            "name": "Arme de jet",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 11729328,
+            "node1": 142780,
+            "node2": 237,
+            "type": 6,
+            "w": 114.0
+        },
+        {
+            "id": 9907337,
+            "node1": 142780,
+            "node2": 12310,
+            "type": 6,
+            "w": 696.1
+        },
+        {
+            "id": 98281815,
+            "node1": 142780,
+            "node2": 139768,
+            "type": 6,
+            "w": 365.0
+        },
+        {
+            "id": 1647158,
+            "node1": 142780,
+            "node2": 145948,
+            "type": 6,
+            "w": 715.96
+        },
+        {
+            "id": 937532584,
+            "node1": 142780,
+            "node2": 246870,
+            "type": 6,
+            "w": 204.0
+        },
+        {
+            "id": 12077684,
+            "node1": 142780,
+            "node2": 251723,
+            "type": 6,
+            "w": 621.99
+        },
+        {
+            "id": 31102344,
+            "node1": 142780,
+            "node2": 1921949,
+            "type": 6,
+            "w": 669.5
+        },
+        {
+            "id": 31102814,
+            "node1": 142780,
+            "node2": 1921987,
+            "type": 6,
+            "w": 660.99
+        },
+        {
+            "id": 597525457,
+            "node1": 142780,
+            "node2": 15193194,
+            "type": 6,
+            "w": 667.02
+        },
+        {
+            "id": 706043346,
+            "node1": 142780,
+            "node2": 143208605,
+            "type": 6,
+            "w": 664.18
+        },
+        {
+            "id": 1152864868,
+            "node1": 142780,
+            "node2": 251573924,
+            "type": 6,
+            "w": 667.73
+        },
+        {
+            "id": 1035127514,
+            "node1": 142780,
+            "node2": 280230032,
+            "type": 6,
+            "w": 1000.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:56.516200",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "arc",
+        "#relations": 12,
+        "max_relation_weight": 1000.0,
+        "#nodes": 13,
+        "duration": "0:00:00.003860"
+    }
+}

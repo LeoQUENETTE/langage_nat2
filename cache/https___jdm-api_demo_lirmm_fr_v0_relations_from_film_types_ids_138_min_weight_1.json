@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 92619,
+            "name": "réalisation",
+            "type": 1,
+            "w": 6729
+        },
+        {
+            "id": 49390,
+            "name": "diffusion",
+            "type": 1,
+            "w": 6262
+        },
+        {
+            "id": 29592,
+            "name": "film",
+            "type": 1,
+            "w": 12554
+        },
+        {
+            "id": 119173,
+            "name": "visionnage",
+            "type": 1,
+            "w": 390
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158223391,
+            "node1": 29592,
+            "node2": 49390,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 720644153,
+            "node1": 29592,
+            "node2": 92619,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1158223392,
+            "node1": 29592,
+            "node2": 119173,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:33.029665",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "film",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.017158"
+    }
+}

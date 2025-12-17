@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 30307,
+            "name": "joint",
+            "type": 1,
+            "w": 1715
+        },
+        {
+            "id": 107896,
+            "name": "carreau",
+            "type": 1,
+            "w": 264
+        },
+        {
+            "id": 15193261,
+            "name": "émail des dents",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 6912686,
+            "name": "en:enamel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 114386,
+            "name": "émail",
+            "type": 1,
+            "w": 885
+        },
+        {
+            "id": 74762,
+            "name": "carrelage",
+            "type": 1,
+            "w": 333
+        },
+        {
+            "id": 214487,
+            "name": "émail dentaire",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 15103094,
+            "name": "en:tooth enamel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6352883,
+            "name": "Émail dentaire",
+            "type": 1,
+            "w": 27
+        }
+    ],
+    "relations": [
+        {
+            "id": 9972780,
+            "node1": 74762,
+            "node2": 30307,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 9971869,
+            "node1": 74762,
+            "node2": 107896,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10527877,
+            "node1": 74762,
+            "node2": 114386,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 145773822,
+            "node1": 74762,
+            "node2": 214487,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 360473838,
+            "node1": 74762,
+            "node2": 6352883,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 145773773,
+            "node1": 74762,
+            "node2": 6912686,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 402047873,
+            "node1": 74762,
+            "node2": 15103094,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 411810121,
+            "node1": 74762,
+            "node2": 15193261,
+            "type": 9,
+            "w": 19.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:55.811319",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "carrelage",
+        "#relations": 8,
+        "max_relation_weight": 35.0,
+        "#nodes": 9,
+        "duration": "0:00:00.004751"
+    }
+}

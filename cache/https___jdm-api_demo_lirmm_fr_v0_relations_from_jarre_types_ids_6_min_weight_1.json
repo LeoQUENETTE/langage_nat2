@@ -1,0 +1,287 @@
+{
+    "nodes": [
+        {
+            "id": 249619,
+            "name": "matière minérale",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 15089398,
+            "name": "en:kitchen utensil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 42731,
+            "name": "contenant",
+            "type": 1,
+            "w": 3867
+        },
+        {
+            "id": 135591,
+            "name": "poil",
+            "type": 1,
+            "w": 2877
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 152067,
+            "name": "ustensile de cuisine",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 91594,
+            "name": "instrument de musique",
+            "type": 1,
+            "w": 622
+        },
+        {
+            "id": 142367,
+            "name": "pot",
+            "type": 1,
+            "w": 1131
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 6605,
+            "name": "instrument",
+            "type": 1,
+            "w": 5656
+        },
+        {
+            "id": 55039,
+            "name": "vase",
+            "type": 1,
+            "w": 1216
+        },
+        {
+            "id": 7620882,
+            "name": "récipient culinaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 34994,
+            "name": "poterie",
+            "type": 1,
+            "w": 460
+        },
+        {
+            "id": 6927452,
+            "name": "en:mineral",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45100,
+            "name": "jarre",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 157050,
+            "name": "vase>146885",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 121002,
+            "name": "ustensile",
+            "type": 1,
+            "w": 609
+        },
+        {
+            "id": 112155,
+            "name": "minérale",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 89628,
+            "name": "récipient",
+            "type": 1,
+            "w": 1305
+        },
+        {
+            "id": 213765,
+            "name": "vase>89628",
+            "type": 1,
+            "w": 87
+        }
+    ],
+    "relations": [
+        {
+            "id": 11763738,
+            "node1": 45100,
+            "node2": 237,
+            "type": 6,
+            "w": 162.0
+        },
+        {
+            "id": 591573172,
+            "node1": 45100,
+            "node2": 6605,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 169953,
+            "node1": 45100,
+            "node2": 34994,
+            "type": 6,
+            "w": 177.0
+        },
+        {
+            "id": 169958,
+            "node1": 45100,
+            "node2": 42731,
+            "type": 6,
+            "w": 177.0
+        },
+        {
+            "id": 169952,
+            "node1": 45100,
+            "node2": 55039,
+            "type": 6,
+            "w": 210.0
+        },
+        {
+            "id": 175473,
+            "node1": 45100,
+            "node2": 89628,
+            "type": 6,
+            "w": 210.0
+        },
+        {
+            "id": 590898601,
+            "node1": 45100,
+            "node2": 91594,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 595651080,
+            "node1": 45100,
+            "node2": 112155,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 1706402,
+            "node1": 45100,
+            "node2": 121002,
+            "type": 6,
+            "w": 180.0
+        },
+        {
+            "id": 630754,
+            "node1": 45100,
+            "node2": 135190,
+            "type": 6,
+            "w": 161.0
+        },
+        {
+            "id": 301551953,
+            "node1": 45100,
+            "node2": 135591,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 169956,
+            "node1": 45100,
+            "node2": 142367,
+            "type": 6,
+            "w": 209.0
+        },
+        {
+            "id": 77374288,
+            "node1": 45100,
+            "node2": 152067,
+            "type": 6,
+            "w": 1.0
+        },
+        {
+            "id": 97384789,
+            "node1": 45100,
+            "node2": 157050,
+            "type": 6,
+            "w": 2.0
+        },
+        {
+            "id": 1936721,
+            "node1": 45100,
+            "node2": 213765,
+            "type": 6,
+            "w": 225.0
+        },
+        {
+            "id": 595651931,
+            "node1": 45100,
+            "node2": 249619,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 255911828,
+            "node1": 45100,
+            "node2": 6927452,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 376428420,
+            "node1": 45100,
+            "node2": 7620882,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 597536475,
+            "node1": 45100,
+            "node2": 15089398,
+            "type": 6,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:45.371087",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jarre",
+        "#relations": 19,
+        "max_relation_weight": 225.0,
+        "#nodes": 20,
+        "duration": "0:00:00.010590"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 143969,
+            "name": "Séléné",
+            "type": 1,
+            "w": 89
+        },
+        {
+            "id": 152520,
+            "name": "Tournesol",
+            "type": 1,
+            "w": 758
+        },
+        {
+            "id": 241127,
+            "name": "Tryphon Tournesol",
+            "type": 666,
+            "w": 6
+        },
+        {
+            "id": 141367,
+            "name": "lune",
+            "type": 1,
+            "w": 5359
+        },
+        {
+            "id": 212886,
+            "name": "Professeur Tournesol",
+            "type": 1,
+            "w": 357
+        },
+        {
+            "id": 15828,
+            "name": "mare",
+            "type": 1,
+            "w": 434
+        }
+    ],
+    "relations": [
+        {
+            "id": 766156249,
+            "node1": 141367,
+            "node2": 15828,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 766153984,
+            "node1": 141367,
+            "node2": 143969,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 13674293,
+            "node1": 141367,
+            "node2": 152520,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 11333596,
+            "node1": 141367,
+            "node2": 212886,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 13674309,
+            "node1": 141367,
+            "node2": 241127,
+            "type": 28,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:09.941507",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lune",
+        "#relations": 5,
+        "max_relation_weight": 38.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004169"
+    }
+}

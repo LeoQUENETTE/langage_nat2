@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 234393,
+            "name": "corne>106100",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15065787,
+            "name": "en:fictitious character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 110821,
+            "name": "cannibale",
+            "type": 1,
+            "w": 188
+        },
+        {
+            "id": 579524,
+            "name": "personnage>188188",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 212940,
+            "name": "frères Dalton",
+            "type": 666,
+            "w": 83
+        },
+        {
+            "id": 104472,
+            "name": "mot-valise",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 223825,
+            "name": "histoire>124433",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 107902,
+            "name": "chanson",
+            "type": 1,
+            "w": 5596
+        },
+        {
+            "id": 52442,
+            "name": "photo",
+            "type": 1,
+            "w": 4923
+        },
+        {
+            "id": 10756,
+            "name": "personnage",
+            "type": 1,
+            "w": 7569
+        },
+        {
+            "id": 113672,
+            "name": "album",
+            "type": 1,
+            "w": 5529
+        },
+        {
+            "id": 146367,
+            "name": "histoire",
+            "type": 1,
+            "w": 35999
+        },
+        {
+            "id": 143989,
+            "name": "timbre",
+            "type": 1,
+            "w": 3259
+        },
+        {
+            "id": 140039,
+            "name": "corne",
+            "type": 1,
+            "w": 510
+        },
+        {
+            "id": 15065788,
+            "name": "en:fictional character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 188188,
+            "name": "personnage de fiction",
+            "type": 1,
+            "w": 259
+        },
+        {
+            "id": 5518464,
+            "name": "personnage imaginaire",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 579526,
+            "name": "personnage>143765",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 158711,
+            "name": "mot valise",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 276397,
+            "name": "personnage fictif",
+            "type": 777,
+            "w": 107
+        },
+        {
+            "id": 15424349,
+            "name": "en:imaginary character",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 96170595,
+            "name": "Personnage fictif",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2934521,
+            "name": "Personnage de fiction",
+            "type": 777,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 473768886,
+            "node1": 113672,
+            "node2": 10756,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 631064,
+            "node1": 113672,
+            "node2": 52442,
+            "type": 28,
+            "w": 98.0
+        },
+        {
+            "id": 25677015,
+            "node1": 113672,
+            "node2": 104472,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 1016001271,
+            "node1": 113672,
+            "node2": 107902,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 23141792,
+            "node1": 113672,
+            "node2": 110821,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 478820486,
+            "node1": 113672,
+            "node2": 140039,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 631063,
+            "node1": 113672,
+            "node2": 143989,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 478820047,
+            "node1": 113672,
+            "node2": 146367,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 25725822,
+            "node1": 113672,
+            "node2": 158711,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 13801254,
+            "node1": 113672,
+            "node2": 188188,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 11316812,
+            "node1": 113672,
+            "node2": 212940,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 375713103,
+            "node1": 113672,
+            "node2": 223825,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375723637,
+            "node1": 113672,
+            "node2": 234393,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 18818439,
+            "node1": 113672,
+            "node2": 276397,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 375723475,
+            "node1": 113672,
+            "node2": 579524,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375723445,
+            "node1": 113672,
+            "node2": 579526,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 92616950,
+            "node1": 113672,
+            "node2": 2934521,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 515249875,
+            "node1": 113672,
+            "node2": 5518464,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515242008,
+            "node1": 113672,
+            "node2": 15065787,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515242036,
+            "node1": 113672,
+            "node2": 15065788,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 510786433,
+            "node1": 113672,
+            "node2": 15424349,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 937853439,
+            "node1": 113672,
+            "node2": 96170595,
+            "type": 28,
+            "w": 17.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:43.550798",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "album",
+        "#relations": 22,
+        "max_relation_weight": 98.0,
+        "#nodes": 23,
+        "duration": "0:00:00.007488"
+    }
+}

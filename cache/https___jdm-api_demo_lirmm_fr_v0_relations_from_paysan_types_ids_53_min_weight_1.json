@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 40470,
+            "name": "récolte",
+            "type": 1,
+            "w": 3467
+        },
+        {
+            "id": 19554,
+            "name": "paysan",
+            "type": 1,
+            "w": 2855
+        },
+        {
+            "id": 271189,
+            "name": "récoltes",
+            "type": 1,
+            "w": 331
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150470160,
+            "node1": 19554,
+            "node2": 40470,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 1150543145,
+            "node1": 19554,
+            "node2": 271189,
+            "type": 53,
+            "w": 39.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:25.398450",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "paysan",
+        "#relations": 2,
+        "max_relation_weight": 39.0,
+        "#nodes": 3,
+        "duration": "0:00:00.007586"
+    }
+}

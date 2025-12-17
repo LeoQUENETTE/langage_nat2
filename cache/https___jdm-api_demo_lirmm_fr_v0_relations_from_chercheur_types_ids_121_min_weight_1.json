@@ -1,0 +1,443 @@
+{
+    "nodes": [
+        {
+            "id": 372230070,
+            "name": "théorie ontologique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 185695217,
+            "name": "données de recherche",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 257094884,
+            "name": "échantillon d'ADN",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 271194355,
+            "name": "laboratoire de biosécurité",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 295964183,
+            "name": "données d'entraînement de ChatGPT",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 296238019,
+            "name": "échantillon de khat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 296589980,
+            "name": "données sur le frottement",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 340583756,
+            "name": "algorithmes innovants",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 265946981,
+            "name": "séquenceur ADN",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 322917353,
+            "name": "badge d'accès au laboratoire",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15012915,
+            "name": "données scientifiques",
+            "type": 1,
+            "w": 350
+        },
+        {
+            "id": 212001469,
+            "name": "données d'entraînement",
+            "type": 1,
+            "w": 151
+        },
+        {
+            "id": 79846,
+            "name": "théorie",
+            "type": 1,
+            "w": 9429
+        },
+        {
+            "id": 171269054,
+            "name": "compétences spécialisées",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 5710388,
+            "name": "sources primaires",
+            "type": 777,
+            "w": 31
+        },
+        {
+            "id": 299814811,
+            "name": "algorithme d'IA",
+            "type": 1,
+            "w": 41
+        },
+        {
+            "id": 295019803,
+            "name": "laboratoire d'IA",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 344324,
+            "name": "connaissance scientifique",
+            "type": 1,
+            "w": 285
+        },
+        {
+            "id": 13458,
+            "name": "algorithme",
+            "type": 1,
+            "w": 6194
+        },
+        {
+            "id": 129303,
+            "name": "chercheur",
+            "type": 1,
+            "w": 5536
+        },
+        {
+            "id": 61230,
+            "name": "brevets",
+            "type": 1,
+            "w": 988
+        },
+        {
+            "id": 84897,
+            "name": "laboratoire",
+            "type": 1,
+            "w": 5626
+        },
+        {
+            "id": 214789083,
+            "name": "techniques de méditation",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 1832287,
+            "name": "données brutes",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 129491,
+            "name": "pipette",
+            "type": 1,
+            "w": 216
+        },
+        {
+            "id": 6513,
+            "name": "microscope",
+            "type": 1,
+            "w": 466
+        },
+        {
+            "id": 3175292,
+            "name": "badge d'accès",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 2463,
+            "name": "ordinateur portable",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 188575603,
+            "name": "responsabilité éthique",
+            "type": 1,
+            "w": 209
+        },
+        {
+            "id": 187978,
+            "name": "microscope électronique",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 195094461,
+            "name": "données épidémiologiques",
+            "type": 1,
+            "w": 231
+        },
+        {
+            "id": 21087,
+            "name": "notes",
+            "type": 1,
+            "w": 3761
+        }
+    ],
+    "relations": [
+        {
+            "id": 930129037,
+            "node1": 129303,
+            "node2": 2463,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 998427615,
+            "node1": 129303,
+            "node2": 6513,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 987834289,
+            "node1": 129303,
+            "node2": 13458,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1157031376,
+            "node1": 129303,
+            "node2": 21087,
+            "type": 121,
+            "w": 41.0
+        },
+        {
+            "id": 959393462,
+            "node1": 129303,
+            "node2": 61230,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 1009920950,
+            "node1": 129303,
+            "node2": 79846,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1006483436,
+            "node1": 129303,
+            "node2": 84897,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 786523383,
+            "node1": 129303,
+            "node2": 129491,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1022556955,
+            "node1": 129303,
+            "node2": 187978,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1022558095,
+            "node1": 129303,
+            "node2": 344324,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 770130340,
+            "node1": 129303,
+            "node2": 1832287,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 768999960,
+            "node1": 129303,
+            "node2": 3175292,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 1019073587,
+            "node1": 129303,
+            "node2": 5710388,
+            "type": 121,
+            "w": 36.0
+        },
+        {
+            "id": 1025684990,
+            "node1": 129303,
+            "node2": 15012915,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 809194421,
+            "node1": 129303,
+            "node2": 171269054,
+            "type": 121,
+            "w": 37.0
+        },
+        {
+            "id": 1038902631,
+            "node1": 129303,
+            "node2": 185695217,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1019546410,
+            "node1": 129303,
+            "node2": 188575603,
+            "type": 121,
+            "w": 31.0
+        },
+        {
+            "id": 770331528,
+            "node1": 129303,
+            "node2": 195094461,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 1035142379,
+            "node1": 129303,
+            "node2": 212001469,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 769568391,
+            "node1": 129303,
+            "node2": 214789083,
+            "type": 121,
+            "w": 30.0
+        },
+        {
+            "id": 1038902575,
+            "node1": 129303,
+            "node2": 257094884,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 951145842,
+            "node1": 129303,
+            "node2": 265946981,
+            "type": 121,
+            "w": 41.0
+        },
+        {
+            "id": 770331436,
+            "node1": 129303,
+            "node2": 271194355,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1035570524,
+            "node1": 129303,
+            "node2": 295019803,
+            "type": 121,
+            "w": 27.0
+        },
+        {
+            "id": 770221068,
+            "node1": 129303,
+            "node2": 295964183,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 770342324,
+            "node1": 129303,
+            "node2": 296238019,
+            "type": 121,
+            "w": 33.0
+        },
+        {
+            "id": 770553082,
+            "node1": 129303,
+            "node2": 296589980,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 946367133,
+            "node1": 129303,
+            "node2": 299814811,
+            "type": 121,
+            "w": 34.0
+        },
+        {
+            "id": 962168829,
+            "node1": 129303,
+            "node2": 322917353,
+            "type": 121,
+            "w": 29.0
+        },
+        {
+            "id": 989021225,
+            "node1": 129303,
+            "node2": 340583756,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 1035058010,
+            "node1": 129303,
+            "node2": 372230070,
+            "type": 121,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:16.844008",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chercheur",
+        "#relations": 31,
+        "max_relation_weight": 41.0,
+        "#nodes": 32,
+        "duration": "0:00:00.014986"
+    }
+}

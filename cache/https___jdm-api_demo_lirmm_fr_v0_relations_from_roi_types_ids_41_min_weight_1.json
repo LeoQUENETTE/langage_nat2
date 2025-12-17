@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 146728,
+            "name": "prince",
+            "type": 1,
+            "w": 5817
+        },
+        {
+            "id": 77344,
+            "name": "guerre civile",
+            "type": 1,
+            "w": 584
+        },
+        {
+            "id": 139655,
+            "name": "roi",
+            "type": 1,
+            "w": 12579
+        },
+        {
+            "id": 30584,
+            "name": "château",
+            "type": 1,
+            "w": 4223
+        },
+        {
+            "id": 57933,
+            "name": "guerre",
+            "type": 1,
+            "w": 22082
+        },
+        {
+            "id": 5205,
+            "name": "paix",
+            "type": 1,
+            "w": 11571
+        },
+        {
+            "id": 324690,
+            "name": "épée légendaire",
+            "type": 1,
+            "w": 54
+        }
+    ],
+    "relations": [
+        {
+            "id": 1156941282,
+            "node1": 139655,
+            "node2": 5205,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14655804,
+            "node1": 139655,
+            "node2": 30584,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 1156941289,
+            "node1": 139655,
+            "node2": 57933,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1156942049,
+            "node1": 139655,
+            "node2": 77344,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 14655400,
+            "node1": 139655,
+            "node2": 146728,
+            "type": 41,
+            "w": 37.0
+        },
+        {
+            "id": 14641970,
+            "node1": 139655,
+            "node2": 324690,
+            "type": 41,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:38.975060",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "roi",
+        "#relations": 6,
+        "max_relation_weight": 37.0,
+        "#nodes": 7,
+        "duration": "0:00:00.004356"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 103791,
+            "name": "poumon",
+            "type": 1,
+            "w": 1313
+        },
+        {
+            "id": 60866,
+            "name": "cours",
+            "type": 1,
+            "w": 14782
+        },
+        {
+            "id": 36568,
+            "name": "professeur",
+            "type": 1,
+            "w": 8475
+        }
+    ],
+    "relations": [
+        {
+            "id": 1019117740,
+            "node1": 36568,
+            "node2": 60866,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 998245641,
+            "node1": 36568,
+            "node2": 103791,
+            "type": 28,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:02.608450",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "professeur",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005219"
+    }
+}

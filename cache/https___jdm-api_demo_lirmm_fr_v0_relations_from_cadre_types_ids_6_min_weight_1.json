@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 41191,
+            "name": "salarié",
+            "type": 1,
+            "w": 797
+        },
+        {
+            "id": 54620,
+            "name": "cadre",
+            "type": 1,
+            "w": 8394
+        },
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 34213
+        },
+        {
+            "id": 39345,
+            "name": "agrès",
+            "type": 1,
+            "w": 91
+        },
+        {
+            "id": 86490,
+            "name": "minéral",
+            "type": 1,
+            "w": 1231
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 11502505,
+            "name": "agrès de cirque",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 191674,
+            "name": "pièce de mobilier",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 261165,
+            "name": "objet décoratif",
+            "type": 1,
+            "w": 71
+        }
+    ],
+    "relations": [
+        {
+            "id": 364203130,
+            "node1": 54620,
+            "node2": 39345,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 1150446186,
+            "node1": 54620,
+            "node2": 41191,
+            "type": 6,
+            "w": 39.0
+        },
+        {
+            "id": 601606661,
+            "node1": 54620,
+            "node2": 86490,
+            "type": 6,
+            "w": 24.0
+        },
+        {
+            "id": 695671168,
+            "node1": 54620,
+            "node2": 116477,
+            "type": 6,
+            "w": 70.0
+        },
+        {
+            "id": 629927,
+            "node1": 54620,
+            "node2": 135190,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 25412683,
+            "node1": 54620,
+            "node2": 191674,
+            "type": 6,
+            "w": 2.0
+        },
+        {
+            "id": 1017978595,
+            "node1": 54620,
+            "node2": 261165,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 306078665,
+            "node1": 54620,
+            "node2": 11502505,
+            "type": 6,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:47.166268",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cadre",
+        "#relations": 8,
+        "max_relation_weight": 70.0,
+        "#nodes": 9,
+        "duration": "0:00:00.004742"
+    }
+}

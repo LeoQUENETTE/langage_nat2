@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 131040,
+            "name": "prix",
+            "type": 1,
+            "w": 12152
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 123836,
+            "name": "poids",
+            "type": 1,
+            "w": 7301
+        },
+        {
+            "id": 19504,
+            "name": "valeur",
+            "type": 1,
+            "w": 16088
+        },
+        {
+            "id": 16865,
+            "name": "longueur",
+            "type": 1,
+            "w": 4589
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179138918,
+            "node1": 237,
+            "node2": 16865,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 665004858,
+            "node1": 237,
+            "node2": 19504,
+            "type": 153,
+            "w": 30.0
+        },
+        {
+            "id": 1131434859,
+            "node1": 237,
+            "node2": 123836,
+            "type": 153,
+            "w": 52.0
+        },
+        {
+            "id": 619740134,
+            "node1": 237,
+            "node2": 131040,
+            "type": 153,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:19.341315",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "objet",
+        "#relations": 4,
+        "max_relation_weight": 52.0,
+        "#nodes": 5,
+        "duration": "0:00:00.007933"
+    }
+}

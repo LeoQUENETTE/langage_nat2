@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 77315,
+            "name": "vitesse",
+            "type": 1,
+            "w": 6329
+        },
+        {
+            "id": 68256,
+            "name": "vélo",
+            "type": 1,
+            "w": 4506
+        }
+    ],
+    "relations": [
+        {
+            "id": 1164027160,
+            "node1": 68256,
+            "node2": 77315,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:54.376524",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "vélo",
+        "#relations": 1,
+        "max_relation_weight": 25.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003885"
+    }
+}

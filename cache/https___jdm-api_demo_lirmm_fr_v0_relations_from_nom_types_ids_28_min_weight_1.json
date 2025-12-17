@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 118538,
+            "name": "prénom",
+            "type": 1,
+            "w": 3550
+        },
+        {
+            "id": 142152,
+            "name": "nom",
+            "type": 1,
+            "w": 15205
+        }
+    ],
+    "relations": [
+        {
+            "id": 11343890,
+            "node1": 142152,
+            "node2": 118538,
+            "type": 28,
+            "w": 38.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:33.080682",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "nom",
+        "#relations": 1,
+        "max_relation_weight": 38.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004599"
+    }
+}

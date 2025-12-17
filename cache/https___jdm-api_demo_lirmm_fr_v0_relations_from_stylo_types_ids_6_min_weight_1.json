@@ -1,0 +1,365 @@
+{
+    "nodes": [
+        {
+            "id": 465249526,
+            "name": "outil scolaire",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 9224938,
+            "name": "objet inanimé",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 4898719,
+            "name": "instrument d'écriture",
+            "type": 1,
+            "w": 5
+        },
+        {
+            "id": 11033579,
+            "name": "outil servant à écrire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15201567,
+            "name": "articles de bureau",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 30843,
+            "name": "outil",
+            "type": 1,
+            "w": 12246
+        },
+        {
+            "id": 14925733,
+            "name": "en:pen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 237253,
+            "name": "matériel de bureau",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 8967759,
+            "name": "instrument pour écrire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 188699367,
+            "name": "objet utile",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 6605,
+            "name": "instrument",
+            "type": 1,
+            "w": 5646
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2782
+        },
+        {
+            "id": 14542354,
+            "name": "objet de la vie quotidienne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9528
+        },
+        {
+            "id": 15201568,
+            "name": "en:office equipment",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14935595,
+            "name": "en:tool",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 333140,
+            "name": "accessoire de bureau",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 118113,
+            "name": "fourniture",
+            "type": 1,
+            "w": 723
+        },
+        {
+            "id": 14960244,
+            "name": "en:stylus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15204749,
+            "name": "en:fountainpen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 212121100,
+            "name": "outil d'écriture",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 2801975,
+            "name": "outil>8957302",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 238303,
+            "name": "objet précieux",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 11054315,
+            "name": "outil de dessin",
+            "type": 1,
+            "w": 29
+        }
+    ],
+    "relations": [
+        {
+            "id": 9898804,
+            "node1": 15509,
+            "node2": 237,
+            "type": 6,
+            "w": 209.0
+        },
+        {
+            "id": 28093407,
+            "node1": 15509,
+            "node2": 6605,
+            "type": 6,
+            "w": 80.0
+        },
+        {
+            "id": 28093411,
+            "node1": 15509,
+            "node2": 30843,
+            "type": 6,
+            "w": 230.0
+        },
+        {
+            "id": 572530160,
+            "node1": 15509,
+            "node2": 118113,
+            "type": 6,
+            "w": 21.0
+        },
+        {
+            "id": 9908713,
+            "node1": 15509,
+            "node2": 237253,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 195276600,
+            "node1": 15509,
+            "node2": 238303,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 28093404,
+            "node1": 15509,
+            "node2": 246870,
+            "type": 6,
+            "w": 222.0
+        },
+        {
+            "id": 371178542,
+            "node1": 15509,
+            "node2": 316850,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 1156166305,
+            "node1": 15509,
+            "node2": 333140,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 73229080,
+            "node1": 15509,
+            "node2": 2801975,
+            "type": 6,
+            "w": 42.0
+        },
+        {
+            "id": 329354416,
+            "node1": 15509,
+            "node2": 4898719,
+            "type": 6,
+            "w": 70.0
+        },
+        {
+            "id": 193845915,
+            "node1": 15509,
+            "node2": 8967759,
+            "type": 6,
+            "w": 46.0
+        },
+        {
+            "id": 665687133,
+            "node1": 15509,
+            "node2": 9224938,
+            "type": 6,
+            "w": 50.0
+        },
+        {
+            "id": 279695584,
+            "node1": 15509,
+            "node2": 11033579,
+            "type": 6,
+            "w": 48.0
+        },
+        {
+            "id": 1152449667,
+            "node1": 15509,
+            "node2": 11054315,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 376418947,
+            "node1": 15509,
+            "node2": 14542354,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 572529063,
+            "node1": 15509,
+            "node2": 14925733,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 405762327,
+            "node1": 15509,
+            "node2": 14935595,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 725931510,
+            "node1": 15509,
+            "node2": 14960244,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 706395265,
+            "node1": 15509,
+            "node2": 15201567,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 603750688,
+            "node1": 15509,
+            "node2": 15201568,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 725931511,
+            "node1": 15509,
+            "node2": 15204749,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 987830013,
+            "node1": 15509,
+            "node2": 188699367,
+            "type": 6,
+            "w": 73.0
+        },
+        {
+            "id": 1151276325,
+            "node1": 15509,
+            "node2": 212121100,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1156166304,
+            "node1": 15509,
+            "node2": 465249526,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:40.673252",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 25,
+        "max_relation_weight": 230.0,
+        "#nodes": 26,
+        "duration": "0:00:00.024318"
+    }
+}

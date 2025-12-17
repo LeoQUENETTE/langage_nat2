@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 117409,
+            "name": "tonne",
+            "type": 1,
+            "w": 955
+        },
+        {
+            "id": 144565,
+            "name": "sable",
+            "type": 1,
+            "w": 5303
+        },
+        {
+            "id": 117787,
+            "name": "poignée",
+            "type": 1,
+            "w": 1242
+        },
+        {
+            "id": 111655,
+            "name": "seau",
+            "type": 1,
+            "w": 379
+        }
+    ],
+    "relations": [
+        {
+            "id": 765218108,
+            "node1": 144565,
+            "node2": 111655,
+            "type": 58,
+            "w": 27.0
+        },
+        {
+            "id": 765218040,
+            "node1": 144565,
+            "node2": 117409,
+            "type": 58,
+            "w": 27.0
+        },
+        {
+            "id": 665112743,
+            "node1": 144565,
+            "node2": 117787,
+            "type": 58,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:57.049370",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sable",
+        "#relations": 3,
+        "max_relation_weight": 30.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004631"
+    }
+}

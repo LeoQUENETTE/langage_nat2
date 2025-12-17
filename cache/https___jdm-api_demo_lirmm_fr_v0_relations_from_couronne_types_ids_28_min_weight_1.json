@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 144104,
+            "name": "couronne",
+            "type": 1,
+            "w": 3349
+        },
+        {
+            "id": 114386,
+            "name": "émail",
+            "type": 1,
+            "w": 885
+        }
+    ],
+    "relations": [
+        {
+            "id": 8798431,
+            "node1": 144104,
+            "node2": 114386,
+            "type": 28,
+            "w": 10.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:45:04.540783",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "couronne",
+        "#relations": 1,
+        "max_relation_weight": 10.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003546"
+    }
+}

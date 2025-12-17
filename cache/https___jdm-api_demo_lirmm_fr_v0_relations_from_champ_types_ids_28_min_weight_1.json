@@ -1,0 +1,4096 @@
+{
+    "nodes": [
+        {
+            "id": 450368515,
+            "name": "::>66:46057>24:450368510",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 102711,
+            "name": "colza",
+            "type": 1,
+            "w": 164
+        },
+        {
+            "id": 238201,
+            "name": "fleur des champs",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 7464484,
+            "name": "en:crop production",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14957189,
+            "name": "en:muck-water",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 249121,
+            "name": "avion>123745",
+            "type": 1,
+            "w": 394
+        },
+        {
+            "id": 1797469,
+            "name": "qqun",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 9536,
+            "name": "dehors",
+            "type": 1,
+            "w": 5795
+        },
+        {
+            "id": 15100571,
+            "name": "en:canola",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9212,
+            "name": "rosée",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 14922234,
+            "name": "en:downpour",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 238139,
+            "name": "coquelicot>145941",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 7291030,
+            "name": "en:nap",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146071,
+            "name": "selle",
+            "type": 1,
+            "w": 867
+        },
+        {
+            "id": 146273,
+            "name": "caille",
+            "type": 1,
+            "w": 287
+        },
+        {
+            "id": 15083708,
+            "name": "en:farming",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146328,
+            "name": "Diptères",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 97718,
+            "name": "planeur",
+            "type": 1,
+            "w": 412
+        },
+        {
+            "id": 114896,
+            "name": "fantassin",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 137506,
+            "name": "quelqu'un",
+            "type": 1,
+            "w": 6527
+        },
+        {
+            "id": 2376365,
+            "name": "buisart",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 24372,
+            "name": "riz",
+            "type": 1,
+            "w": 2525
+        },
+        {
+            "id": 7043079,
+            "name": "en:military aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15221682,
+            "name": "en:gust of rain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2165883,
+            "name": "cultivation",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 13284,
+            "name": "abeille",
+            "type": 1,
+            "w": 1952
+        },
+        {
+            "id": 15049204,
+            "name": "en:Penicillium",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 37194,
+            "name": "poule",
+            "type": 1,
+            "w": 2161
+        },
+        {
+            "id": 75686,
+            "name": "éolienne",
+            "type": 1,
+            "w": 523
+        },
+        {
+            "id": 66951,
+            "name": "avion de chasse",
+            "type": 1,
+            "w": 345
+        },
+        {
+            "id": 450692959,
+            "name": "::>66:244167>24:450692954",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 450403532,
+            "name": "::>66:124094>24:450403527",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 135985,
+            "name": "sieste",
+            "type": 1,
+            "w": 1107
+        },
+        {
+            "id": 15085209,
+            "name": "en:military plane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 139942,
+            "name": "botte",
+            "type": 1,
+            "w": 690
+        },
+        {
+            "id": 105689,
+            "name": "moutons",
+            "type": 1,
+            "w": 736
+        },
+        {
+            "id": 143334,
+            "name": "Mammifères",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 47417,
+            "name": "boeuf",
+            "type": 1,
+            "w": 1688
+        },
+        {
+            "id": 79073,
+            "name": "oie",
+            "type": 1,
+            "w": 870
+        },
+        {
+            "id": 14927501,
+            "name": "en:fighter-bomber",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 191766,
+            "name": "chasseur-bombardier",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 1590,
+            "name": "pioche",
+            "type": 1,
+            "w": 623
+        },
+        {
+            "id": 90758,
+            "name": "aéronef",
+            "type": 1,
+            "w": 413
+        },
+        {
+            "id": 139790,
+            "name": "maïs",
+            "type": 1,
+            "w": 2174
+        },
+        {
+            "id": 36204,
+            "name": "balle",
+            "type": 1,
+            "w": 3201
+        },
+        {
+            "id": 28985,
+            "name": "fleur",
+            "type": 1,
+            "w": 9479
+        },
+        {
+            "id": 142832,
+            "name": "souris",
+            "type": 1,
+            "w": 3169
+        },
+        {
+            "id": 97756,
+            "name": "avion",
+            "type": 1,
+            "w": 9100
+        },
+        {
+            "id": 15117218,
+            "name": "en:lucerne",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 18285,
+            "name": "papillon",
+            "type": 1,
+            "w": 3432
+        },
+        {
+            "id": 14928167,
+            "name": "en:kohlrabi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 450370049,
+            "name": "::>66:510>24:16531106",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 214232,
+            "name": "chasseur>103453",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 216248,
+            "name": "corbeau>140176",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 450368761,
+            "name": "::>66:270631>24:450368758",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 275910846,
+            "name": "tomate Coeur de Boeuf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 314137,
+            "name": "b&oelig;uf>17559",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 392059,
+            "name": "oie rieuse",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 168141,
+            "name": "tityre",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1731870,
+            "name": "tomate ananas",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1754476,
+            "name": "tomate coeur-de-boeuf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 450369309,
+            "name": "::>66:46057>24:16531106",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 187823,
+            "name": "avion militaire",
+            "type": 1,
+            "w": 215
+        },
+        {
+            "id": 599588,
+            "name": "sylvain>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14919459,
+            "name": "en:admiral",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123745,
+            "name": "véhicule",
+            "type": 1,
+            "w": 5963
+        },
+        {
+            "id": 5531,
+            "name": "patate",
+            "type": 1,
+            "w": 517
+        },
+        {
+            "id": 48795,
+            "name": "âne",
+            "type": 1,
+            "w": 954
+        },
+        {
+            "id": 15634650,
+            "name": "en:a somebody",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 158591,
+            "name": "pommes de terre",
+            "type": 1,
+            "w": 578
+        },
+        {
+            "id": 15306918,
+            "name": "en:flying machine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1985339,
+            "name": "agriculteurs",
+            "type": 2,
+            "w": 2438
+        },
+        {
+            "id": 601498,
+            "name": "blé>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57809,
+            "name": "labyrinthe",
+            "type": 1,
+            "w": 356
+        },
+        {
+            "id": 64885,
+            "name": "qqn",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 15093266,
+            "name": "en:beefsteak tomato",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16110715,
+            "name": "en:beef tomato",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14918543,
+            "name": "en:agriculturist",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 90534,
+            "name": "fauchage",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 74556,
+            "name": "OGM",
+            "type": 1,
+            "w": 3460
+        },
+        {
+            "id": 450655732,
+            "name": "::>66:34527>24:450403527",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 162825,
+            "name": "trèfle à quatre feuilles",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 68363,
+            "name": "cacao",
+            "type": 1,
+            "w": 1075
+        },
+        {
+            "id": 265071,
+            "name": "rosacée>145941",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 91370,
+            "name": "pommier",
+            "type": 1,
+            "w": 939
+        },
+        {
+            "id": 15226265,
+            "name": "chou rave",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7610067,
+            "name": "en:are",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3304270,
+            "name": "avion de chasse>187823",
+            "type": 1,
+            "w": 5
+        },
+        {
+            "id": 14641,
+            "name": "Hémiptères",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 92497007,
+            "name": "Mammifère",
+            "type": 1,
+            "w": 47
+        },
+        {
+            "id": 6913155,
+            "name": "en:diptera",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 58573,
+            "name": "foot",
+            "type": 1,
+            "w": 1034
+        },
+        {
+            "id": 71684,
+            "name": "buse",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 15592540,
+            "name": "qn",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 46333,
+            "name": "sauterelle",
+            "type": 1,
+            "w": 1205
+        },
+        {
+            "id": 17571673,
+            "name": "::>66:111194>24:17571671",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17571676,
+            "name": "::>66:17571673>15:95605",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 15397150,
+            "name": "la mise en culture",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 92496899,
+            "name": "Maladie cryptogamique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 18688414,
+            "name": "::>66:17636069>15:95605",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 135311,
+            "name": "busard",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 175828,
+            "name": "orthoptère",
+            "type": 1,
+            "w": 19
+        },
+        {
+            "id": 32606936,
+            "name": "plant de tomate coeur de boeuf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 18818,
+            "name": "charrue",
+            "type": 1,
+            "w": 219
+        },
+        {
+            "id": 136597,
+            "name": "duel",
+            "type": 1,
+            "w": 1372
+        },
+        {
+            "id": 1731868,
+            "name": "tomate roma",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15205477,
+            "name": "en:dumb animals",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 597270,
+            "name": "F1>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 597271,
+            "name": "F1>146881",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143156,
+            "name": "reptiles",
+            "type": 1,
+            "w": 771
+        },
+        {
+            "id": 268159,
+            "name": "F1>118027",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 34970,
+            "name": "attaque",
+            "type": 1,
+            "w": 5834
+        },
+        {
+            "id": 2490155,
+            "name": "buisard",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33377,
+            "name": "matériel",
+            "type": 1,
+            "w": 5555
+        },
+        {
+            "id": 138874,
+            "name": "herbe",
+            "type": 1,
+            "w": 4099
+        },
+        {
+            "id": 218247777,
+            "name": "chasseur>146050",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6890,
+            "name": "voiture",
+            "type": 1,
+            "w": 19357
+        },
+        {
+            "id": 55077,
+            "name": "chemin",
+            "type": 1,
+            "w": 9496
+        },
+        {
+            "id": 50567,
+            "name": "agriculture",
+            "type": 1,
+            "w": 11213
+        },
+        {
+            "id": 80820,
+            "name": "cannabis",
+            "type": 1,
+            "w": 883
+        },
+        {
+            "id": 49210,
+            "name": "vipère",
+            "type": 1,
+            "w": 472
+        },
+        {
+            "id": 62636,
+            "name": "sol",
+            "type": 1,
+            "w": 10969
+        },
+        {
+            "id": 677749,
+            "name": "herbe>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15055290,
+            "name": "en:wildflower",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14929130,
+            "name": "en:colza",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15055289,
+            "name": "en:wild flower",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7336113,
+            "name": "en:agriculture",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 152311,
+            "name": "avion civil",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 15390266,
+            "name": "en:fighter jet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 301227126,
+            "name": "Hélicoptère militaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15199059,
+            "name": "en:combat aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 175720,
+            "name": "Mammalia",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 34213
+        },
+        {
+            "id": 87367,
+            "name": "are",
+            "type": 1,
+            "w": 3245
+        },
+        {
+            "id": 58906,
+            "name": "tracteur",
+            "type": 1,
+            "w": 1121
+        },
+        {
+            "id": 18283,
+            "name": "céréale",
+            "type": 1,
+            "w": 721
+        },
+        {
+            "id": 71115,
+            "name": "rongeur",
+            "type": 1,
+            "w": 1248
+        },
+        {
+            "id": 14961349,
+            "name": "en:siesta",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 54956,
+            "name": "football",
+            "type": 1,
+            "w": 5215
+        },
+        {
+            "id": 145941,
+            "name": "plante",
+            "type": 1,
+            "w": 8021
+        },
+        {
+            "id": 684450,
+            "name": "paysan>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 71539,
+            "name": "animaux",
+            "type": 1,
+            "w": 6445
+        },
+        {
+            "id": 15208,
+            "name": "corbeau",
+            "type": 1,
+            "w": 342
+        },
+        {
+            "id": 71926,
+            "name": "insecte",
+            "type": 1,
+            "w": 8240
+        },
+        {
+            "id": 40470,
+            "name": "récolte",
+            "type": 1,
+            "w": 3467
+        },
+        {
+            "id": 145246,
+            "name": "cheval",
+            "type": 1,
+            "w": 7425
+        },
+        {
+            "id": 65526,
+            "name": "bataille",
+            "type": 1,
+            "w": 6266
+        },
+        {
+            "id": 25705,
+            "name": "terre",
+            "type": 1,
+            "w": 29969
+        },
+        {
+            "id": 220337,
+            "name": "oiseau>17559",
+            "type": 1,
+            "w": 930
+        },
+        {
+            "id": 63309,
+            "name": "rat",
+            "type": 1,
+            "w": 1632
+        },
+        {
+            "id": 84939,
+            "name": "coton",
+            "type": 1,
+            "w": 1705
+        },
+        {
+            "id": 145948,
+            "name": "arme",
+            "type": 1,
+            "w": 6544
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 8008,
+            "name": "agriculteur",
+            "type": 1,
+            "w": 2600
+        },
+        {
+            "id": 63235,
+            "name": "mammifère",
+            "type": 1,
+            "w": 4157
+        },
+        {
+            "id": 20164,
+            "name": "lapin",
+            "type": 1,
+            "w": 1528
+        },
+        {
+            "id": 19554,
+            "name": "paysan",
+            "type": 1,
+            "w": 2855
+        },
+        {
+            "id": 140176,
+            "name": "oiseau",
+            "type": 1,
+            "w": 11161
+        },
+        {
+            "id": 22885,
+            "name": "culture",
+            "type": 1,
+            "w": 48707
+        },
+        {
+            "id": 32851,
+            "name": "mammifères",
+            "type": 1,
+            "w": 2459
+        },
+        {
+            "id": 14954010,
+            "name": "en:somebody",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 142137,
+            "name": "trèfle",
+            "type": 1,
+            "w": 222
+        },
+        {
+            "id": 26026,
+            "name": "tournesol",
+            "type": 1,
+            "w": 344
+        },
+        {
+            "id": 7335134,
+            "name": "en:aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 452341,
+            "name": "tracteur>171869",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 215036,
+            "name": "boeuf>17559",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 15047650,
+            "name": "en:kine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 301469662,
+            "name": "Avion à hélice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14919014,
+            "name": "méthode de production agricole",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15147132,
+            "name": "en:vanessa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 121223581,
+            "name": "Alouette des champs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 261998,
+            "name": "caille>140176",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 1880868,
+            "name": "essaim d'abeilles",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32071,
+            "name": "blé",
+            "type": 1,
+            "w": 2829
+        },
+        {
+            "id": 232302,
+            "name": "sauterelle>71926",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 56883,
+            "name": "lisier",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 383986,
+            "name": "tomate verte",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 1754475,
+            "name": "tomate Roma",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 88398,
+            "name": "purin",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 237068,
+            "name": "coeur de boeuf",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 1731943,
+            "name": "tomate coeur de boeuf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228793,
+            "name": "Roundup",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 7091608,
+            "name": "en:glyphosate",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15367818,
+            "name": "en:liquid manure",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 24474,
+            "name": "galliforme",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 255175,
+            "name": "esclave noir",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 127089,
+            "name": "angiosperme",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 88767,
+            "name": "fermier",
+            "type": 1,
+            "w": 925
+        },
+        {
+            "id": 14936215,
+            "name": "en:equid",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15448526,
+            "name": "en:equine animal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15523841,
+            "name": "en:member of the horse family",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102926,
+            "name": "agronome",
+            "type": 1,
+            "w": 123
+        },
+        {
+            "id": 683089,
+            "name": "chèvre>146885",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142894,
+            "name": "pie",
+            "type": 1,
+            "w": 381
+        },
+        {
+            "id": 14959642,
+            "name": "en:snooze",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15366425,
+            "name": "ouvriers agricoles",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 14965429,
+            "name": "en:four-leaf clover",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36811660,
+            "name": "en:lucky clover",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105337757,
+            "name": "Avion militaire",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15218758,
+            "name": "chasseur bombardier",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 168216,
+            "name": "bœuf",
+            "type": 1,
+            "w": 1065
+        },
+        {
+            "id": 6948258,
+            "name": "en:mammalia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32484991,
+            "name": "en:wild-flower",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 35885,
+            "name": "luzerne",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 56988,
+            "name": "alouette des champs",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 6801604,
+            "name": "en:foot",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 71502,
+            "name": "épouvantail",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 104082,
+            "name": "vanesse",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 142947,
+            "name": "sillon",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 86102,
+            "name": "punaise",
+            "type": 1,
+            "w": 207
+        },
+        {
+            "id": 166425,
+            "name": "fosse commune",
+            "type": 1,
+            "w": 103
+        },
+        {
+            "id": 169471,
+            "name": "maladie cryptogamique",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 225671,
+            "name": "vipère>91153",
+            "type": 1,
+            "w": 24
+        },
+        {
+            "id": 241396,
+            "name": "appareil agricole",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 68015,
+            "name": "campeur",
+            "type": 1,
+            "w": 390
+        },
+        {
+            "id": 268190,
+            "name": "symbiose rhizobium-légumineuse",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14929131,
+            "name": "en:rapeseed",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213940,
+            "name": "rat>71115",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 146261,
+            "name": "poulet",
+            "type": 1,
+            "w": 2158
+        },
+        {
+            "id": 15082250,
+            "name": "en:flowering plant",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15192843,
+            "name": "fleur champêtre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251494783,
+            "name": "Plante à fleurs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228792,
+            "name": "glyphosate",
+            "type": 1,
+            "w": 248
+        },
+        {
+            "id": 151749,
+            "name": "plante verte",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 1696411,
+            "name": "Diptera",
+            "type": 777,
+            "w": 75
+        },
+        {
+            "id": 65828,
+            "name": "foin",
+            "type": 1,
+            "w": 598
+        },
+        {
+            "id": 677137,
+            "name": "duel>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 89801,
+            "name": "poney",
+            "type": 1,
+            "w": 315
+        },
+        {
+            "id": 216205,
+            "name": "blé>145941",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 213710,
+            "name": "âne>38295",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 95605,
+            "name": "champ",
+            "type": 1,
+            "w": 8235
+        },
+        {
+            "id": 119222,
+            "name": "éclaircissement",
+            "type": 1,
+            "w": 936
+        },
+        {
+            "id": 72424,
+            "name": "chou-rave",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 132757,
+            "name": "pomme de terre",
+            "type": 1,
+            "w": 1504
+        },
+        {
+            "id": 105872,
+            "name": "éléphant",
+            "type": 1,
+            "w": 1065
+        },
+        {
+            "id": 7110048,
+            "name": "en:hemiptera",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 30459,
+            "name": "chasseur",
+            "type": 1,
+            "w": 2013
+        },
+        {
+            "id": 54538,
+            "name": "orge",
+            "type": 1,
+            "w": 390
+        },
+        {
+            "id": 15107136,
+            "name": "en:Mammalia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 449771605,
+            "name": "::>66:13494>24:449771600",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 449749608,
+            "name": "::>66:1985339>24:17542024",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 117242,
+            "name": "gallinacé",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 273434,
+            "name": "reptilia",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 72319,
+            "name": "sylvain",
+            "type": 1,
+            "w": 215
+        },
+        {
+            "id": 64074,
+            "name": "F1",
+            "type": 1,
+            "w": 393
+        },
+        {
+            "id": 7817,
+            "name": "cultivateur",
+            "type": 1,
+            "w": 427
+        },
+        {
+            "id": 167740,
+            "name": "avion de combat",
+            "type": 1,
+            "w": 137
+        },
+        {
+            "id": 251734,
+            "name": "plante à fleurs",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 12111572,
+            "name": "penicillium",
+            "type": 1,
+            "w": 23
+        },
+        {
+            "id": 146440,
+            "name": "Penicillium",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 75805,
+            "name": "avoine",
+            "type": 1,
+            "w": 215
+        },
+        {
+            "id": 150302,
+            "name": "rosacée",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 212946,
+            "name": "plante à fleur",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 14931347,
+            "name": "en:cultivation",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15193233,
+            "name": "en:propeller aircraft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 122787,
+            "name": "solipède",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 35064726,
+            "name": "huile de Canola",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 116152,
+            "name": "narcisse",
+            "type": 1,
+            "w": 139
+        },
+        {
+            "id": 60454,
+            "name": "pavot",
+            "type": 1,
+            "w": 197
+        },
+        {
+            "id": 156718,
+            "name": "vaches",
+            "type": 1,
+            "w": 569
+        },
+        {
+            "id": 195327,
+            "name": "avion à hélice",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 14537659,
+            "name": "moutons>125360",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 15468293,
+            "name": "Est-ce que...?",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 145900,
+            "name": "bourdon",
+            "type": 1,
+            "w": 273
+        },
+        {
+            "id": 94722144,
+            "name": "Agriculteur",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 144705,
+            "name": "coccinelle",
+            "type": 1,
+            "w": 597
+        },
+        {
+            "id": 17636069,
+            "name": "::>66:124094>24:14412127",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 6948521,
+            "name": "en:reptiles",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 233298,
+            "name": "fermier>8008",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 93872,
+            "name": "chèvre",
+            "type": 1,
+            "w": 977
+        },
+        {
+            "id": 5538819,
+            "name": "aircraft",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 246703,
+            "name": "trombes d'eau",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 169134339,
+            "name": "::>66:156718>24:14324425",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 169134340,
+            "name": "::>66:169134339>15:95605",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 186108411,
+            "name": "Avion civil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 124572,
+            "name": "criquet",
+            "type": 1,
+            "w": 163
+        },
+        {
+            "id": 144812,
+            "name": "chenille",
+            "type": 1,
+            "w": 3057
+        },
+        {
+            "id": 196135,
+            "name": "asilidés",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 138501,
+            "name": "vache",
+            "type": 1,
+            "w": 3325
+        },
+        {
+            "id": 175174,
+            "name": "hémiptère",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 141344,
+            "name": "hémiptères",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 110902,
+            "name": "odorat",
+            "type": 1,
+            "w": 1082
+        },
+        {
+            "id": 325590,
+            "name": "hélicoptère militaire",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 214446,
+            "name": "poulet>70493",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 14730188,
+            "name": "éclaircissement>63069",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 83196,
+            "name": "coquelicot",
+            "type": 1,
+            "w": 172
+        },
+        {
+            "id": 25345,
+            "name": "quidam",
+            "type": 1,
+            "w": 553
+        },
+        {
+            "id": 235502,
+            "name": "alfalfa",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6826149,
+            "name": "en:alfalfa",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143301958,
+            "name": "Sauterelle>71926",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 324750161,
+            "name": "Blé>145941",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 214304,
+            "name": "vache>17559",
+            "type": 1,
+            "w": 250
+        },
+        {
+            "id": 21988,
+            "name": "moulin",
+            "type": 1,
+            "w": 1831
+        },
+        {
+            "id": 6070,
+            "name": "jument",
+            "type": 1,
+            "w": 530
+        },
+        {
+            "id": 215720,
+            "name": "voiture>95706",
+            "type": 1,
+            "w": 973
+        },
+        {
+            "id": 38295,
+            "name": "équidé",
+            "type": 1,
+            "w": 373
+        },
+        {
+            "id": 225959,
+            "name": "chiffre>18285",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 251937,
+            "name": "diptère>71926",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 218224,
+            "name": "pie>140176",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 101001,
+            "name": "Reptiles",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 14954011,
+            "name": "en:someone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1731944,
+            "name": "noire de Crimée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 3186373,
+            "name": "Noire de Crimée",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 143249,
+            "name": "paille",
+            "type": 1,
+            "w": 674
+        },
+        {
+            "id": 114428,
+            "name": "diptère",
+            "type": 1,
+            "w": 160
+        },
+        {
+            "id": 44406,
+            "name": "fertilisant",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 452637,
+            "name": "diptère>171869",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 206692,
+            "name": "rapports sexuels",
+            "type": 1,
+            "w": 202
+        },
+        {
+            "id": 264538,
+            "name": "fleur sauvage",
+            "type": 1,
+            "w": 75
+        },
+        {
+            "id": 131127,
+            "name": "diptères",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 214231,
+            "name": "chasseur>146050>87925",
+            "type": 1,
+            "w": 45
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8765
+        },
+        {
+            "id": 266662,
+            "name": "mise en culture",
+            "type": 1,
+            "w": 15
+        }
+    ],
+    "relations": [
+        {
+            "id": 11346924,
+            "node1": 95605,
+            "node2": 1590,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 24372368,
+            "node1": 95605,
+            "node2": 4455,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11336499,
+            "node1": 95605,
+            "node2": 5531,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11328450,
+            "node1": 95605,
+            "node2": 6070,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 104941879,
+            "node1": 95605,
+            "node2": 6890,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1593705,
+            "node1": 95605,
+            "node2": 7817,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 261801,
+            "node1": 95605,
+            "node2": 8008,
+            "type": 28,
+            "w": 108.0
+        },
+        {
+            "id": 765902235,
+            "node1": 95605,
+            "node2": 9212,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 11346313,
+            "node1": 95605,
+            "node2": 9536,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 765902161,
+            "node1": 95605,
+            "node2": 13284,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 11314829,
+            "node1": 95605,
+            "node2": 14641,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104938448,
+            "node1": 95605,
+            "node2": 15208,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 384542,
+            "node1": 95605,
+            "node2": 18283,
+            "type": 28,
+            "w": 128.0
+        },
+        {
+            "id": 1911815,
+            "node1": 95605,
+            "node2": 18285,
+            "type": 28,
+            "w": 91.0
+        },
+        {
+            "id": 263996,
+            "node1": 95605,
+            "node2": 18818,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 240624,
+            "node1": 95605,
+            "node2": 19554,
+            "type": 28,
+            "w": 99.0
+        },
+        {
+            "id": 11339766,
+            "node1": 95605,
+            "node2": 20164,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11348656,
+            "node1": 95605,
+            "node2": 21988,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 245357,
+            "node1": 95605,
+            "node2": 22885,
+            "type": 28,
+            "w": 158.0
+        },
+        {
+            "id": 1042485592,
+            "node1": 95605,
+            "node2": 24372,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 92599639,
+            "node1": 95605,
+            "node2": 24474,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 378772013,
+            "node1": 95605,
+            "node2": 25345,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 268647,
+            "node1": 95605,
+            "node2": 25705,
+            "type": 28,
+            "w": 179.0
+        },
+        {
+            "id": 390065,
+            "node1": 95605,
+            "node2": 26026,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 384727,
+            "node1": 95605,
+            "node2": 28985,
+            "type": 28,
+            "w": 138.0
+        },
+        {
+            "id": 104925707,
+            "node1": 95605,
+            "node2": 30459,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 240626,
+            "node1": 95605,
+            "node2": 32071,
+            "type": 28,
+            "w": 348.0
+        },
+        {
+            "id": 11317719,
+            "node1": 95605,
+            "node2": 32851,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1046688822,
+            "node1": 95605,
+            "node2": 33377,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 11347512,
+            "node1": 95605,
+            "node2": 34970,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 245104,
+            "node1": 95605,
+            "node2": 35885,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 11346519,
+            "node1": 95605,
+            "node2": 36204,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 2304334,
+            "node1": 95605,
+            "node2": 37194,
+            "type": 28,
+            "w": 63.0
+        },
+        {
+            "id": 11328437,
+            "node1": 95605,
+            "node2": 38295,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 1182060700,
+            "node1": 95605,
+            "node2": 40470,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1180619786,
+            "node1": 95605,
+            "node2": 44406,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 104941666,
+            "node1": 95605,
+            "node2": 46333,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 11343663,
+            "node1": 95605,
+            "node2": 47417,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 104940615,
+            "node1": 95605,
+            "node2": 48795,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 765145926,
+            "node1": 95605,
+            "node2": 49210,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11346298,
+            "node1": 95605,
+            "node2": 50567,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 243460,
+            "node1": 95605,
+            "node2": 54538,
+            "type": 28,
+            "w": 109.0
+        },
+        {
+            "id": 13673914,
+            "node1": 95605,
+            "node2": 54956,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11348620,
+            "node1": 95605,
+            "node2": 55077,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 964964829,
+            "node1": 95605,
+            "node2": 56883,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 11326972,
+            "node1": 95605,
+            "node2": 56988,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11344793,
+            "node1": 95605,
+            "node2": 57809,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11346717,
+            "node1": 95605,
+            "node2": 58573,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 240623,
+            "node1": 95605,
+            "node2": 58906,
+            "type": 28,
+            "w": 219.0
+        },
+        {
+            "id": 766155271,
+            "node1": 95605,
+            "node2": 60454,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1046689426,
+            "node1": 95605,
+            "node2": 62636,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 15953549,
+            "node1": 95605,
+            "node2": 63235,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 104941497,
+            "node1": 95605,
+            "node2": 63309,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104938809,
+            "node1": 95605,
+            "node2": 64074,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 13674334,
+            "node1": 95605,
+            "node2": 64885,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 11348713,
+            "node1": 95605,
+            "node2": 65526,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1593706,
+            "node1": 95605,
+            "node2": 65828,
+            "type": 28,
+            "w": 102.0
+        },
+        {
+            "id": 11328543,
+            "node1": 95605,
+            "node2": 66951,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11339228,
+            "node1": 95605,
+            "node2": 68015,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11340211,
+            "node1": 95605,
+            "node2": 68363,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11345018,
+            "node1": 95605,
+            "node2": 71115,
+            "type": 28,
+            "w": 48.0
+        },
+        {
+            "id": 766153522,
+            "node1": 95605,
+            "node2": 71502,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 2214898,
+            "node1": 95605,
+            "node2": 71539,
+            "type": 28,
+            "w": 88.0
+        },
+        {
+            "id": 766154771,
+            "node1": 95605,
+            "node2": 71684,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 399755,
+            "node1": 95605,
+            "node2": 71926,
+            "type": 28,
+            "w": 139.0
+        },
+        {
+            "id": 28884837,
+            "node1": 95605,
+            "node2": 72319,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 12001746,
+            "node1": 95605,
+            "node2": 72424,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 104935814,
+            "node1": 95605,
+            "node2": 74556,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1046688980,
+            "node1": 95605,
+            "node2": 75686,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 268646,
+            "node1": 95605,
+            "node2": 75805,
+            "type": 28,
+            "w": 99.0
+        },
+        {
+            "id": 478743965,
+            "node1": 95605,
+            "node2": 79073,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 1073710672,
+            "node1": 95605,
+            "node2": 80820,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 1592922,
+            "node1": 95605,
+            "node2": 83196,
+            "type": 28,
+            "w": 88.0
+        },
+        {
+            "id": 11340493,
+            "node1": 95605,
+            "node2": 84939,
+            "type": 28,
+            "w": 48.0
+        },
+        {
+            "id": 765902152,
+            "node1": 95605,
+            "node2": 86102,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 11333872,
+            "node1": 95605,
+            "node2": 87367,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11335607,
+            "node1": 95605,
+            "node2": 88398,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104941719,
+            "node1": 95605,
+            "node2": 88767,
+            "type": 28,
+            "w": 11.0
+        },
+        {
+            "id": 13098701,
+            "node1": 95605,
+            "node2": 89801,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11348983,
+            "node1": 95605,
+            "node2": 90534,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11316358,
+            "node1": 95605,
+            "node2": 90758,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11347701,
+            "node1": 95605,
+            "node2": 91370,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11347451,
+            "node1": 95605,
+            "node2": 93872,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11315622,
+            "node1": 95605,
+            "node2": 97718,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11346045,
+            "node1": 95605,
+            "node2": 97756,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 766985679,
+            "node1": 95605,
+            "node2": 101001,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 245106,
+            "node1": 95605,
+            "node2": 102711,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 766985677,
+            "node1": 95605,
+            "node2": 102926,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 27929867,
+            "node1": 95605,
+            "node2": 104082,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 371522,
+            "node1": 95605,
+            "node2": 105689,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 11314028,
+            "node1": 95605,
+            "node2": 105872,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11347340,
+            "node1": 95605,
+            "node2": 110902,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104938754,
+            "node1": 95605,
+            "node2": 114428,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 798652389,
+            "node1": 95605,
+            "node2": 114896,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11313955,
+            "node1": 95605,
+            "node2": 116152,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 588329877,
+            "node1": 95605,
+            "node2": 116477,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 77943387,
+            "node1": 95605,
+            "node2": 117242,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 635064779,
+            "node1": 95605,
+            "node2": 119222,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 14031599,
+            "node1": 95605,
+            "node2": 122787,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11316230,
+            "node1": 95605,
+            "node2": 123745,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 765902148,
+            "node1": 95605,
+            "node2": 124572,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 13559303,
+            "node1": 95605,
+            "node2": 127089,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11314888,
+            "node1": 95605,
+            "node2": 131127,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 375731222,
+            "node1": 95605,
+            "node2": 132757,
+            "type": 28,
+            "w": 76.0
+        },
+        {
+            "id": 11346775,
+            "node1": 95605,
+            "node2": 135190,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 23511060,
+            "node1": 95605,
+            "node2": 135311,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 11332018,
+            "node1": 95605,
+            "node2": 135985,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11338461,
+            "node1": 95605,
+            "node2": 136597,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11339388,
+            "node1": 95605,
+            "node2": 137506,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 259790,
+            "node1": 95605,
+            "node2": 138501,
+            "type": 28,
+            "w": 98.0
+        },
+        {
+            "id": 245105,
+            "node1": 95605,
+            "node2": 138874,
+            "type": 28,
+            "w": 238.0
+        },
+        {
+            "id": 243458,
+            "node1": 95605,
+            "node2": 139790,
+            "type": 28,
+            "w": 229.0
+        },
+        {
+            "id": 11339901,
+            "node1": 95605,
+            "node2": 139942,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104941823,
+            "node1": 95605,
+            "node2": 140176,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 11314812,
+            "node1": 95605,
+            "node2": 141344,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11338920,
+            "node1": 95605,
+            "node2": 142137,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11345880,
+            "node1": 95605,
+            "node2": 142832,
+            "type": 28,
+            "w": 68.0
+        },
+        {
+            "id": 104941020,
+            "node1": 95605,
+            "node2": 142894,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 394542,
+            "node1": 95605,
+            "node2": 142947,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 11316967,
+            "node1": 95605,
+            "node2": 143156,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 245569,
+            "node1": 95605,
+            "node2": 143249,
+            "type": 28,
+            "w": 99.0
+        },
+        {
+            "id": 11317665,
+            "node1": 95605,
+            "node2": 143334,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 765902132,
+            "node1": 95605,
+            "node2": 144705,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 11348068,
+            "node1": 95605,
+            "node2": 144812,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11345983,
+            "node1": 95605,
+            "node2": 145246,
+            "type": 28,
+            "w": 49.0
+        },
+        {
+            "id": 765902157,
+            "node1": 95605,
+            "node2": 145900,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 1690423,
+            "node1": 95605,
+            "node2": 145941,
+            "type": 28,
+            "w": 119.0
+        },
+        {
+            "id": 611946649,
+            "node1": 95605,
+            "node2": 145948,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 568561336,
+            "node1": 95605,
+            "node2": 146071,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 104941725,
+            "node1": 95605,
+            "node2": 146261,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 104935483,
+            "node1": 95605,
+            "node2": 146273,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 11314879,
+            "node1": 95605,
+            "node2": 146328,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1117949171,
+            "node1": 95605,
+            "node2": 146440,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104941615,
+            "node1": 95605,
+            "node2": 150302,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11308823,
+            "node1": 95605,
+            "node2": 151749,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11328456,
+            "node1": 95605,
+            "node2": 152311,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 375714449,
+            "node1": 95605,
+            "node2": 156718,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 375725121,
+            "node1": 95605,
+            "node2": 158591,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11330195,
+            "node1": 95605,
+            "node2": 162825,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 795753517,
+            "node1": 95605,
+            "node2": 166425,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11327738,
+            "node1": 95605,
+            "node2": 167740,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 28667002,
+            "node1": 95605,
+            "node2": 168141,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 473768991,
+            "node1": 95605,
+            "node2": 168216,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 26101374,
+            "node1": 95605,
+            "node2": 169471,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 11314818,
+            "node1": 95605,
+            "node2": 175174,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 253512632,
+            "node1": 95605,
+            "node2": 175720,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11314451,
+            "node1": 95605,
+            "node2": 175828,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11328534,
+            "node1": 95605,
+            "node2": 187823,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11328526,
+            "node1": 95605,
+            "node2": 191766,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11328486,
+            "node1": 95605,
+            "node2": 195327,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11314861,
+            "node1": 95605,
+            "node2": 196135,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1029196873,
+            "node1": 95605,
+            "node2": 206692,
+            "type": 28,
+            "w": 65.0
+        },
+        {
+            "id": 11325456,
+            "node1": 95605,
+            "node2": 212946,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11328024,
+            "node1": 95605,
+            "node2": 213710,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11328208,
+            "node1": 95605,
+            "node2": 213940,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 15768320,
+            "node1": 95605,
+            "node2": 214231,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 104925708,
+            "node1": 95605,
+            "node2": 214232,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11331231,
+            "node1": 95605,
+            "node2": 214304,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11327554,
+            "node1": 95605,
+            "node2": 214446,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11329155,
+            "node1": 95605,
+            "node2": 215036,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 15767674,
+            "node1": 95605,
+            "node2": 215720,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 2214899,
+            "node1": 95605,
+            "node2": 216205,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 72537745,
+            "node1": 95605,
+            "node2": 216248,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 29419454,
+            "node1": 95605,
+            "node2": 218224,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 11329438,
+            "node1": 95605,
+            "node2": 220337,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 766149955,
+            "node1": 95605,
+            "node2": 225671,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11328901,
+            "node1": 95605,
+            "node2": 225959,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11309772,
+            "node1": 95605,
+            "node2": 228792,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11309786,
+            "node1": 95605,
+            "node2": 228793,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11314466,
+            "node1": 95605,
+            "node2": 232302,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11335257,
+            "node1": 95605,
+            "node2": 233298,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 619175070,
+            "node1": 95605,
+            "node2": 235502,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 28864355,
+            "node1": 95605,
+            "node2": 237068,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11335800,
+            "node1": 95605,
+            "node2": 238139,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11335615,
+            "node1": 95605,
+            "node2": 238201,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11317940,
+            "node1": 95605,
+            "node2": 241396,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 766985678,
+            "node1": 95605,
+            "node2": 246703,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 11328477,
+            "node1": 95605,
+            "node2": 249121,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11325421,
+            "node1": 95605,
+            "node2": 251734,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11314869,
+            "node1": 95605,
+            "node2": 251937,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11330504,
+            "node1": 95605,
+            "node2": 255175,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 104935486,
+            "node1": 95605,
+            "node2": 261998,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 515244225,
+            "node1": 95605,
+            "node2": 264538,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11318315,
+            "node1": 95605,
+            "node2": 265071,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 486662992,
+            "node1": 95605,
+            "node2": 266662,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 11316367,
+            "node1": 95605,
+            "node2": 268159,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11316500,
+            "node1": 95605,
+            "node2": 268190,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 289263280,
+            "node1": 95605,
+            "node2": 273434,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 375979388,
+            "node1": 95605,
+            "node2": 314137,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 824744140,
+            "node1": 95605,
+            "node2": 325590,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 28871082,
+            "node1": 95605,
+            "node2": 383986,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 766154586,
+            "node1": 95605,
+            "node2": 392059,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 605759325,
+            "node1": 95605,
+            "node2": 452341,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 104940698,
+            "node1": 95605,
+            "node2": 452637,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104940016,
+            "node1": 95605,
+            "node2": 597270,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 496984136,
+            "node1": 95605,
+            "node2": 597271,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 605759137,
+            "node1": 95605,
+            "node2": 599588,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 605759245,
+            "node1": 95605,
+            "node2": 601498,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 721190286,
+            "node1": 95605,
+            "node2": 677137,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721190246,
+            "node1": 95605,
+            "node2": 677749,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721190473,
+            "node1": 95605,
+            "node2": 683089,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721190512,
+            "node1": 95605,
+            "node2": 684450,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 721184009,
+            "node1": 95605,
+            "node2": 1696411,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 380297937,
+            "node1": 95605,
+            "node2": 1731868,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 28871065,
+            "node1": 95605,
+            "node2": 1731870,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 28871101,
+            "node1": 95605,
+            "node2": 1731943,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 28864347,
+            "node1": 95605,
+            "node2": 1731944,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 28871129,
+            "node1": 95605,
+            "node2": 1754475,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 28871113,
+            "node1": 95605,
+            "node2": 1754476,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 29451856,
+            "node1": 95605,
+            "node2": 1797469,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 1016001427,
+            "node1": 95605,
+            "node2": 1880868,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 1066398163,
+            "node1": 95605,
+            "node2": 1985339,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 578607854,
+            "node1": 95605,
+            "node2": 2165883,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 61884473,
+            "node1": 95605,
+            "node2": 2376365,
+            "type": 28,
+            "w": 47.0
+        },
+        {
+            "id": 61457061,
+            "node1": 95605,
+            "node2": 2490155,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 92618634,
+            "node1": 95605,
+            "node2": 3186373,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 481377622,
+            "node1": 95605,
+            "node2": 3304270,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 617329633,
+            "node1": 95605,
+            "node2": 5538819,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 375975758,
+            "node1": 95605,
+            "node2": 6801604,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 483263729,
+            "node1": 95605,
+            "node2": 6826149,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 617035498,
+            "node1": 95605,
+            "node2": 6913155,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 308224414,
+            "node1": 95605,
+            "node2": 6948258,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 289284265,
+            "node1": 95605,
+            "node2": 6948521,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 470958562,
+            "node1": 95605,
+            "node2": 7043079,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 375975933,
+            "node1": 95605,
+            "node2": 7091608,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 738347909,
+            "node1": 95605,
+            "node2": 7110048,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 515245927,
+            "node1": 95605,
+            "node2": 7291030,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 534649166,
+            "node1": 95605,
+            "node2": 7335134,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 375975407,
+            "node1": 95605,
+            "node2": 7336113,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 1054565759,
+            "node1": 95605,
+            "node2": 7464484,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 375975460,
+            "node1": 95605,
+            "node2": 7610067,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1124417642,
+            "node1": 95605,
+            "node2": 12111572,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 375713215,
+            "node1": 95605,
+            "node2": 14537659,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 375712555,
+            "node1": 95605,
+            "node2": 14730188,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1054580833,
+            "node1": 95605,
+            "node2": 14918543,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 1046688844,
+            "node1": 95605,
+            "node2": 14919014,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 738358158,
+            "node1": 95605,
+            "node2": 14919459,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 483263780,
+            "node1": 95605,
+            "node2": 14922234,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 561135795,
+            "node1": 95605,
+            "node2": 14927501,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 515247401,
+            "node1": 95605,
+            "node2": 14928167,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 617034450,
+            "node1": 95605,
+            "node2": 14929130,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 926898268,
+            "node1": 95605,
+            "node2": 14929131,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 515238225,
+            "node1": 95605,
+            "node2": 14931347,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 880075831,
+            "node1": 95605,
+            "node2": 14936215,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 515242025,
+            "node1": 95605,
+            "node2": 14954010,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515243553,
+            "node1": 95605,
+            "node2": 14954011,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 738361711,
+            "node1": 95605,
+            "node2": 14957189,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 594577952,
+            "node1": 95605,
+            "node2": 14959642,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 515245948,
+            "node1": 95605,
+            "node2": 14961349,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 765148628,
+            "node1": 95605,
+            "node2": 14965429,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1054576185,
+            "node1": 95605,
+            "node2": 15047650,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 1124417701,
+            "node1": 95605,
+            "node2": 15049204,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 470983456,
+            "node1": 95605,
+            "node2": 15055289,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 776473222,
+            "node1": 95605,
+            "node2": 15055290,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 721176369,
+            "node1": 95605,
+            "node2": 15082250,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 515238239,
+            "node1": 95605,
+            "node2": 15083708,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 470958586,
+            "node1": 95605,
+            "node2": 15085209,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 824743171,
+            "node1": 95605,
+            "node2": 15093266,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 937855538,
+            "node1": 95605,
+            "node2": 15100571,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 738373792,
+            "node1": 95605,
+            "node2": 15107136,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 824742653,
+            "node1": 95605,
+            "node2": 15117218,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 926897398,
+            "node1": 95605,
+            "node2": 15147132,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 824740510,
+            "node1": 95605,
+            "node2": 15192843,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 470965182,
+            "node1": 95605,
+            "node2": 15193233,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515245543,
+            "node1": 95605,
+            "node2": 15199059,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1054571255,
+            "node1": 95605,
+            "node2": 15205477,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 561136522,
+            "node1": 95605,
+            "node2": 15218758,
+            "type": 28,
+            "w": 23.0
+        },
+        {
+            "id": 776473125,
+            "node1": 95605,
+            "node2": 15221682,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 515249917,
+            "node1": 95605,
+            "node2": 15226265,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 977748995,
+            "node1": 95605,
+            "node2": 15306918,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1137629070,
+            "node1": 95605,
+            "node2": 15366425,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 721175298,
+            "node1": 95605,
+            "node2": 15367818,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1054578628,
+            "node1": 95605,
+            "node2": 15390266,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 486662982,
+            "node1": 95605,
+            "node2": 15397150,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 880075918,
+            "node1": 95605,
+            "node2": 15448526,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 937855480,
+            "node1": 95605,
+            "node2": 15468293,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 1054579705,
+            "node1": 95605,
+            "node2": 15523841,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 540792604,
+            "node1": 95605,
+            "node2": 15592540,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 510784714,
+            "node1": 95605,
+            "node2": 15634650,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 824743193,
+            "node1": 95605,
+            "node2": 16110715,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 478684996,
+            "node1": 95605,
+            "node2": 17571673,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 478819202,
+            "node1": 95605,
+            "node2": 17571676,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 485029306,
+            "node1": 95605,
+            "node2": 17636069,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 485365066,
+            "node1": 95605,
+            "node2": 18688414,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 775469875,
+            "node1": 95605,
+            "node2": 32484991,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 824743149,
+            "node1": 95605,
+            "node2": 32606936,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 977745814,
+            "node1": 95605,
+            "node2": 35064726,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 824743817,
+            "node1": 95605,
+            "node2": 36811660,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 1038976880,
+            "node1": 95605,
+            "node2": 92496899,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 1127465991,
+            "node1": 95605,
+            "node2": 92497007,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1127466688,
+            "node1": 95605,
+            "node2": 94722144,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 534652117,
+            "node1": 95605,
+            "node2": 105337757,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 1066400870,
+            "node1": 95605,
+            "node2": 121223581,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 937857929,
+            "node1": 95605,
+            "node2": 143301958,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 556424080,
+            "node1": 95605,
+            "node2": 169134339,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 556459991,
+            "node1": 95605,
+            "node2": 169134340,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1042485149,
+            "node1": 95605,
+            "node2": 186108411,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 633205799,
+            "node1": 95605,
+            "node2": 218247777,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 1124414606,
+            "node1": 95605,
+            "node2": 251494783,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1137627924,
+            "node1": 95605,
+            "node2": 275910846,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 977748229,
+            "node1": 95605,
+            "node2": 301227126,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 977745437,
+            "node1": 95605,
+            "node2": 301469662,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 977741571,
+            "node1": 95605,
+            "node2": 324750161,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 1138856927,
+            "node1": 95605,
+            "node2": 449749608,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1138924644,
+            "node1": 95605,
+            "node2": 449771605,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1139595996,
+            "node1": 95605,
+            "node2": 450368515,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1139598847,
+            "node1": 95605,
+            "node2": 450368761,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1139600338,
+            "node1": 95605,
+            "node2": 450369309,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1139604230,
+            "node1": 95605,
+            "node2": 450370049,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1139638772,
+            "node1": 95605,
+            "node2": 450403532,
+            "type": 28,
+            "w": 33.0
+        },
+        {
+            "id": 1139802246,
+            "node1": 95605,
+            "node2": 450655732,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1139932287,
+            "node1": 95605,
+            "node2": 450692959,
+            "type": 28,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:22.515209",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "champ",
+        "#relations": 312,
+        "max_relation_weight": 348.0,
+        "#nodes": 313,
+        "duration": "0:00:00.154898"
+    }
+}

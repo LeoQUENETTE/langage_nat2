@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 22710,
+            "name": "sabre",
+            "type": 1,
+            "w": 1743
+        },
+        {
+            "id": 191669,
+            "name": "_INFO-SEM-LIVING-BEING",
+            "type": 36,
+            "w": 160
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248197,
+            "name": "_SEX_YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 438949,
+            "name": "_INFO-POLYMORPHIC",
+            "type": 36,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 2176932,
+            "node1": 22710,
+            "node2": 162763,
+            "type": 36,
+            "w": 51.0
+        },
+        {
+            "id": 2079424,
+            "node1": 22710,
+            "node2": 191669,
+            "type": 36,
+            "w": 46.0
+        },
+        {
+            "id": 741180,
+            "node1": 22710,
+            "node2": 191741,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 1639986,
+            "node1": 22710,
+            "node2": 217817,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 2007513,
+            "node1": 22710,
+            "node2": 223172,
+            "type": 36,
+            "w": 159.0
+        },
+        {
+            "id": 1995864,
+            "node1": 22710,
+            "node2": 223173,
+            "type": 36,
+            "w": 105.0
+        },
+        {
+            "id": 1994621,
+            "node1": 22710,
+            "node2": 241794,
+            "type": 36,
+            "w": 337.0
+        },
+        {
+            "id": 105713633,
+            "node1": 22710,
+            "node2": 248197,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 106694494,
+            "node1": 22710,
+            "node2": 248198,
+            "type": 36,
+            "w": 36.0
+        },
+        {
+            "id": 2322296,
+            "node1": 22710,
+            "node2": 254876,
+            "type": 36,
+            "w": 17.0
+        },
+        {
+            "id": 2322297,
+            "node1": 22710,
+            "node2": 254877,
+            "type": 36,
+            "w": 56.0
+        },
+        {
+            "id": 2322298,
+            "node1": 22710,
+            "node2": 254878,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 1049130997,
+            "node1": 22710,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 8932697,
+            "node1": 22710,
+            "node2": 317329,
+            "type": 36,
+            "w": 18.0
+        },
+        {
+            "id": 363926201,
+            "node1": 22710,
+            "node2": 438949,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 92947251,
+            "node1": 22710,
+            "node2": 2585996,
+            "type": 36,
+            "w": 56.0
+        },
+        {
+            "id": 417740699,
+            "node1": 22710,
+            "node2": 15991432,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 498197629,
+            "node1": 22710,
+            "node2": 50233540,
+            "type": 36,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:22.434340",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sabre",
+        "#relations": 18,
+        "max_relation_weight": 337.0,
+        "#nodes": 19,
+        "duration": "0:00:00.006402"
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 12037,
+            "name": "enseigner",
+            "type": 1,
+            "w": 2444
+        },
+        {
+            "id": 9206,
+            "name": "classement",
+            "type": 1,
+            "w": 4184
+        },
+        {
+            "id": 60866,
+            "name": "cours",
+            "type": 1,
+            "w": 14782
+        },
+        {
+            "id": 70283,
+            "name": "travail",
+            "type": 1,
+            "w": 25977
+        },
+        {
+            "id": 139352,
+            "name": "beauté",
+            "type": 1,
+            "w": 6509
+        },
+        {
+            "id": 142623,
+            "name": "classe",
+            "type": 1,
+            "w": 7142
+        },
+        {
+            "id": 79255,
+            "name": "enseignement",
+            "type": 1,
+            "w": 6550
+        },
+        {
+            "id": 68887,
+            "name": "élève",
+            "type": 1,
+            "w": 7699
+        },
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 151638,
+            "name": "élèves",
+            "type": 1,
+            "w": 7582
+        },
+        {
+            "id": 36568,
+            "name": "professeur",
+            "type": 1,
+            "w": 8475
+        },
+        {
+            "id": 416601,
+            "name": "Élèves",
+            "type": 1,
+            "w": 255
+        }
+    ],
+    "relations": [
+        {
+            "id": 1849689,
+            "node1": 142623,
+            "node2": 9206,
+            "type": 41,
+            "w": 90.0
+        },
+        {
+            "id": 1849691,
+            "node1": 142623,
+            "node2": 12037,
+            "type": 41,
+            "w": 80.0
+        },
+        {
+            "id": 1849688,
+            "node1": 142623,
+            "node2": 36568,
+            "type": 41,
+            "w": 102.0
+        },
+        {
+            "id": 1693015,
+            "node1": 142623,
+            "node2": 60866,
+            "type": 41,
+            "w": 60.0
+        },
+        {
+            "id": 2305805,
+            "node1": 142623,
+            "node2": 68887,
+            "type": 41,
+            "w": 90.0
+        },
+        {
+            "id": 1849690,
+            "node1": 142623,
+            "node2": 70283,
+            "type": 41,
+            "w": 80.0
+        },
+        {
+            "id": 1692668,
+            "node1": 142623,
+            "node2": 79255,
+            "type": 41,
+            "w": 200.0
+        },
+        {
+            "id": 1864159,
+            "node1": 142623,
+            "node2": 91240,
+            "type": 41,
+            "w": 110.0
+        },
+        {
+            "id": 8543520,
+            "node1": 142623,
+            "node2": 139352,
+            "type": 41,
+            "w": 5.0
+        },
+        {
+            "id": 2013703,
+            "node1": 142623,
+            "node2": 151638,
+            "type": 41,
+            "w": 107.0
+        },
+        {
+            "id": 769590810,
+            "node1": 142623,
+            "node2": 416601,
+            "type": 41,
+            "w": 17.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:05.290668",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "classe",
+        "#relations": 11,
+        "max_relation_weight": 200.0,
+        "#nodes": 12,
+        "duration": "0:00:00.006880"
+    }
+}

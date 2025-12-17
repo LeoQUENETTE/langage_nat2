@@ -1,0 +1,209 @@
+{
+    "nodes": [
+        {
+            "id": 14926655,
+            "name": "en:cathedral",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 214224,
+            "name": "bâtiment>55137",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 224651,
+            "name": "édifice religieux",
+            "type": 1,
+            "w": 38
+        },
+        {
+            "id": 45109,
+            "name": "édifice",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 74818,
+            "name": "bâtisse",
+            "type": 1,
+            "w": 118
+        },
+        {
+            "id": 30387,
+            "name": "église",
+            "type": 1,
+            "w": 5061
+        },
+        {
+            "id": 15230890,
+            "name": "en:cathedral church",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 86627,
+            "name": "organisation",
+            "type": 1,
+            "w": 11360
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 5945,
+            "name": "temple",
+            "type": 1,
+            "w": 3494
+        },
+        {
+            "id": 102105,
+            "name": "monument",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 65524,
+            "name": "bâtiment",
+            "type": 1,
+            "w": 4892
+        },
+        {
+            "id": 16314249,
+            "name": "édifice religieux chrétien",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57724,
+            "name": "lieu de culte",
+            "type": 1,
+            "w": 142
+        }
+    ],
+    "relations": [
+        {
+            "id": 9923076,
+            "node1": 30387,
+            "node2": 5945,
+            "type": 6,
+            "w": 121.0
+        },
+        {
+            "id": 239298,
+            "node1": 30387,
+            "node2": 45109,
+            "type": 6,
+            "w": 95.0
+        },
+        {
+            "id": 268191,
+            "node1": 30387,
+            "node2": 57724,
+            "type": 6,
+            "w": 141.0
+        },
+        {
+            "id": 239299,
+            "node1": 30387,
+            "node2": 65524,
+            "type": 6,
+            "w": 90.0
+        },
+        {
+            "id": 253520,
+            "node1": 30387,
+            "node2": 74818,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 693781012,
+            "node1": 30387,
+            "node2": 86627,
+            "type": 6,
+            "w": 444.0
+        },
+        {
+            "id": 9905862,
+            "node1": 30387,
+            "node2": 102105,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 629034,
+            "node1": 30387,
+            "node2": 135190,
+            "type": 6,
+            "w": 59.0
+        },
+        {
+            "id": 2443447,
+            "node1": 30387,
+            "node2": 214224,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 9905836,
+            "node1": 30387,
+            "node2": 224651,
+            "type": 6,
+            "w": 112.0
+        },
+        {
+            "id": 598743383,
+            "node1": 30387,
+            "node2": 14926655,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 618840500,
+            "node1": 30387,
+            "node2": 15230890,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 1130683494,
+            "node1": 30387,
+            "node2": 16314249,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:35.416545",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "église",
+        "#relations": 13,
+        "max_relation_weight": 444.0,
+        "#nodes": 14,
+        "duration": "0:00:00.043648"
+    }
+}

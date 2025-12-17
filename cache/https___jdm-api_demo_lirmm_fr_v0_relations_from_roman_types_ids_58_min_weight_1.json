@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 100640,
+            "name": "roman",
+            "type": 1,
+            "w": 8875
+        },
+        {
+            "id": 141917,
+            "name": "tome",
+            "type": 1,
+            "w": 2634
+        }
+    ],
+    "relations": [
+        {
+            "id": 96707791,
+            "node1": 100640,
+            "node2": 141917,
+            "type": 58,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:15.296828",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "roman",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005632"
+    }
+}

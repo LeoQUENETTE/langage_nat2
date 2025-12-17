@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 92619,
+            "name": "réalisation",
+            "type": 1,
+            "w": 6749
+        },
+        {
+            "id": 143497,
+            "name": "création",
+            "type": 1,
+            "w": 9807
+        },
+        {
+            "id": 98596,
+            "name": "dessin",
+            "type": 1,
+            "w": 4899
+        },
+        {
+            "id": 129281,
+            "name": "évaluation",
+            "type": 1,
+            "w": 23388
+        },
+        {
+            "id": 42139,
+            "name": "visualisation",
+            "type": 1,
+            "w": 924
+        },
+        {
+            "id": 191655,
+            "name": "être créé",
+            "type": 1,
+            "w": 394
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177214546,
+            "node1": 98596,
+            "node2": 42139,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 720644196,
+            "node1": 98596,
+            "node2": 92619,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1177214611,
+            "node1": 98596,
+            "node2": 129281,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1177214545,
+            "node1": 98596,
+            "node2": 143497,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1177214599,
+            "node1": 98596,
+            "node2": 191655,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:26.106391",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "dessin",
+        "#relations": 5,
+        "max_relation_weight": 25.0,
+        "#nodes": 6,
+        "duration": "0:00:00.003968"
+    }
+}

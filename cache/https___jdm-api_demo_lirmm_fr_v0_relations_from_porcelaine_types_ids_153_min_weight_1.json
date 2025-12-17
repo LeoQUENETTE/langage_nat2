@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 57216,
+            "name": "délicatesse",
+            "type": 1,
+            "w": 370
+        },
+        {
+            "id": 145840,
+            "name": "porcelaine",
+            "type": 1,
+            "w": 411
+        }
+    ],
+    "relations": [
+        {
+            "id": 765217977,
+            "node1": 145840,
+            "node2": 57216,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:34.706005",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "porcelaine",
+        "#relations": 1,
+        "max_relation_weight": 27.0,
+        "#nodes": 2,
+        "duration": "0:00:00.003921"
+    }
+}

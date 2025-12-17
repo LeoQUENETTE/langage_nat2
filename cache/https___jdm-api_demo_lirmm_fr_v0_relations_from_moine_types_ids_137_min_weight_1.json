@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 242922233,
+            "name": "prière matinale",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 103910,
+            "name": "méditation",
+            "type": 1,
+            "w": 1710
+        },
+        {
+            "id": 52076,
+            "name": "moine",
+            "type": 1,
+            "w": 2343
+        },
+        {
+            "id": 209825,
+            "name": "vie monastique",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 63018,
+            "name": "prière",
+            "type": 1,
+            "w": 4102
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155501465,
+            "node1": 52076,
+            "node2": 63018,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1155501466,
+            "node1": 52076,
+            "node2": 103910,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1176731192,
+            "node1": 52076,
+            "node2": 209825,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 1068908946,
+            "node1": 52076,
+            "node2": 242922233,
+            "type": 137,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:49.060547",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "moine",
+        "#relations": 4,
+        "max_relation_weight": 27.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004158"
+    }
+}

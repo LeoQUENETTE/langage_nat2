@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 213407,
+            "name": "anse>117787",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 45100,
+            "name": "jarre",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 144244,
+            "name": "anse",
+            "type": 1,
+            "w": 154
+        }
+    ],
+    "relations": [
+        {
+            "id": 58151008,
+            "node1": 45100,
+            "node2": 119272,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 86534302,
+            "node1": 45100,
+            "node2": 144244,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 86534303,
+            "node1": 45100,
+            "node2": 213407,
+            "type": 9,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:46.765782",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jarre",
+        "#relations": 3,
+        "max_relation_weight": 32.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004404"
+    }
+}

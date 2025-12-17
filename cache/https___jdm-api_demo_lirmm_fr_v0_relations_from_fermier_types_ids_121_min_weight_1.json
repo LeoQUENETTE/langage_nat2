@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 37194,
+            "name": "poule",
+            "type": 1,
+            "w": 2161
+        },
+        {
+            "id": 58906,
+            "name": "tracteur",
+            "type": 1,
+            "w": 1118
+        },
+        {
+            "id": 75609,
+            "name": "pâturage",
+            "type": 1,
+            "w": 818
+        },
+        {
+            "id": 143741,
+            "name": "piège",
+            "type": 1,
+            "w": 1199
+        },
+        {
+            "id": 91311,
+            "name": "veau",
+            "type": 1,
+            "w": 768
+        },
+        {
+            "id": 14919014,
+            "name": "méthode de production agricole",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 88767,
+            "name": "fermier",
+            "type": 1,
+            "w": 925
+        },
+        {
+            "id": 24577,
+            "name": "tas de fumier",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 79477,
+            "name": "pulvérisateur",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 88493,
+            "name": "fumier",
+            "type": 1,
+            "w": 526
+        },
+        {
+            "id": 214325,
+            "name": "outil agricole",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 138501,
+            "name": "vache",
+            "type": 1,
+            "w": 3313
+        }
+    ],
+    "relations": [
+        {
+            "id": 1033717774,
+            "node1": 88767,
+            "node2": 24577,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 1141929763,
+            "node1": 88767,
+            "node2": 37194,
+            "type": 121,
+            "w": 25.0
+        },
+        {
+            "id": 780084003,
+            "node1": 88767,
+            "node2": 58906,
+            "type": 121,
+            "w": 46.0
+        },
+        {
+            "id": 1046570628,
+            "node1": 88767,
+            "node2": 75609,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1019546019,
+            "node1": 88767,
+            "node2": 79477,
+            "type": 121,
+            "w": 32.0
+        },
+        {
+            "id": 1046570629,
+            "node1": 88767,
+            "node2": 88493,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046570627,
+            "node1": 88767,
+            "node2": 91311,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046570624,
+            "node1": 88767,
+            "node2": 138501,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046570139,
+            "node1": 88767,
+            "node2": 143741,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046570149,
+            "node1": 88767,
+            "node2": 214325,
+            "type": 121,
+            "w": 20.0
+        },
+        {
+            "id": 1046570071,
+            "node1": 88767,
+            "node2": 14919014,
+            "type": 121,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:02.434395",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fermier",
+        "#relations": 11,
+        "max_relation_weight": 46.0,
+        "#nodes": 12,
+        "duration": "0:00:00.009641"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 228773,
+            "name": "four>382343>61283",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 145285,
+            "name": "boulanger",
+            "type": 1,
+            "w": 1213
+        },
+        {
+            "id": 25797,
+            "name": "pétrin",
+            "type": 1,
+            "w": 179
+        },
+        {
+            "id": 9190,
+            "name": "four",
+            "type": 1,
+            "w": 2862
+        },
+        {
+            "id": 5304379,
+            "name": "four>382343",
+            "type": 1,
+            "w": 28
+        }
+    ],
+    "relations": [
+        {
+            "id": 241386865,
+            "node1": 145285,
+            "node2": 9190,
+            "type": 121,
+            "w": 80.0
+        },
+        {
+            "id": 788654121,
+            "node1": 145285,
+            "node2": 25797,
+            "type": 121,
+            "w": 28.0
+        },
+        {
+            "id": 241386881,
+            "node1": 145285,
+            "node2": 228773,
+            "type": 121,
+            "w": 77.0
+        },
+        {
+            "id": 241386869,
+            "node1": 145285,
+            "node2": 5304379,
+            "type": 121,
+            "w": 56.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            121
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:09:46.334886",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "boulanger",
+        "#relations": 4,
+        "max_relation_weight": 80.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006279"
+    }
+}

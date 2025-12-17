@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 29750,
+            "name": "découpe",
+            "type": 1,
+            "w": 474
+        },
+        {
+            "id": 116708,
+            "name": "corrosion",
+            "type": 1,
+            "w": 236
+        },
+        {
+            "id": 50727,
+            "name": "gravure",
+            "type": 1,
+            "w": 1271
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 105269,
+            "name": "polissage",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 104666,
+            "name": "galvanisation",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 74339,
+            "name": "oxydation",
+            "type": 1,
+            "w": 364
+        },
+        {
+            "id": 63490,
+            "name": "laminage",
+            "type": 1,
+            "w": 72
+        }
+    ],
+    "relations": [
+        {
+            "id": 1180647458,
+            "node1": 134927,
+            "node2": 29750,
+            "type": 138,
+            "w": 33.0
+        },
+        {
+            "id": 720644195,
+            "node1": 134927,
+            "node2": 50727,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 962090052,
+            "node1": 134927,
+            "node2": 63490,
+            "type": 138,
+            "w": 20.0
+        },
+        {
+            "id": 962090037,
+            "node1": 134927,
+            "node2": 74339,
+            "type": 138,
+            "w": 24.0
+        },
+        {
+            "id": 962090057,
+            "node1": 134927,
+            "node2": 104666,
+            "type": 138,
+            "w": 20.0
+        },
+        {
+            "id": 1182095314,
+            "node1": 134927,
+            "node2": 105269,
+            "type": 138,
+            "w": 40.0
+        },
+        {
+            "id": 1150414081,
+            "node1": 134927,
+            "node2": 116708,
+            "type": 138,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:09.254572",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métal",
+        "#relations": 7,
+        "max_relation_weight": 40.0,
+        "#nodes": 8,
+        "duration": "0:00:00.004040"
+    }
+}

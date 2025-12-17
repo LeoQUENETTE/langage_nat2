@@ -1,0 +1,261 @@
+{
+    "nodes": [
+        {
+            "id": 15073221,
+            "name": "en:dog shit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14721837,
+            "name": "crottes de chien",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 135544,
+            "name": "morsure",
+            "type": 1,
+            "w": 395
+        },
+        {
+            "id": 56572,
+            "name": "caca",
+            "type": 1,
+            "w": 871
+        },
+        {
+            "id": 153034,
+            "name": "crottes",
+            "type": 1,
+            "w": 142
+        },
+        {
+            "id": 39009,
+            "name": "excréments",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 100646,
+            "name": "aucun",
+            "type": 1,
+            "w": 11452
+        },
+        {
+            "id": 139383,
+            "name": "crotte",
+            "type": 1,
+            "w": 476
+        },
+        {
+            "id": 224272,
+            "name": "déjection canine",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 232851,
+            "name": "crotte de chien",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 161196,
+            "name": "merde de chien",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 1980548,
+            "name": "aboiements",
+            "type": 2,
+            "w": 9
+        },
+        {
+            "id": 15073220,
+            "name": "en:dog turd",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15216903,
+            "name": "en:dog mess",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15412755,
+            "name": "en:dog doings",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 127024,
+            "name": "aboiement",
+            "type": 1,
+            "w": 148
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8763
+        },
+        {
+            "id": 52423,
+            "name": "abri",
+            "type": 1,
+            "w": 1926
+        }
+    ],
+    "relations": [
+        {
+            "id": 1021809786,
+            "node1": 4455,
+            "node2": 39009,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 1150387276,
+            "node1": 4455,
+            "node2": 52423,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 283258619,
+            "node1": 4455,
+            "node2": 56572,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1143977872,
+            "node1": 4455,
+            "node2": 100646,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1032938050,
+            "node1": 4455,
+            "node2": 127024,
+            "type": 53,
+            "w": 68.0
+        },
+        {
+            "id": 1147915319,
+            "node1": 4455,
+            "node2": 135544,
+            "type": 53,
+            "w": 33.0
+        },
+        {
+            "id": 193794654,
+            "node1": 4455,
+            "node2": 139383,
+            "type": 53,
+            "w": 46.0
+        },
+        {
+            "id": 488264480,
+            "node1": 4455,
+            "node2": 153034,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 197538236,
+            "node1": 4455,
+            "node2": 161196,
+            "type": 53,
+            "w": 39.0
+        },
+        {
+            "id": 514412919,
+            "node1": 4455,
+            "node2": 224272,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 193794675,
+            "node1": 4455,
+            "node2": 232851,
+            "type": 53,
+            "w": 51.0
+        },
+        {
+            "id": 770221572,
+            "node1": 4455,
+            "node2": 1980548,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 634997276,
+            "node1": 4455,
+            "node2": 14721837,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 514412770,
+            "node1": 4455,
+            "node2": 15073220,
+            "type": 53,
+            "w": 35.0
+        },
+        {
+            "id": 479422157,
+            "node1": 4455,
+            "node2": 15073221,
+            "type": 53,
+            "w": 39.0
+        },
+        {
+            "id": 479421767,
+            "node1": 4455,
+            "node2": 15216903,
+            "type": 53,
+            "w": 34.0
+        },
+        {
+            "id": 594831111,
+            "node1": 4455,
+            "node2": 15412755,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:58.891283",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chien",
+        "#relations": 17,
+        "max_relation_weight": 68.0,
+        "#nodes": 18,
+        "duration": "0:00:00.012416"
+    }
+}

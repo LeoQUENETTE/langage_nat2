@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 66970,
+            "name": "ballon",
+            "type": 1,
+            "w": 3638
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 109785,
+            "name": "peau",
+            "type": 1,
+            "w": 7474
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 221181,
+            "name": "matière>11358",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 39149,
+            "name": "cuir",
+            "type": 1,
+            "w": 1856
+        }
+    ],
+    "relations": [
+        {
+            "id": 59818694,
+            "node1": 39149,
+            "node2": 237,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 279695857,
+            "node1": 39149,
+            "node2": 29208,
+            "type": 6,
+            "w": 79.0
+        },
+        {
+            "id": 9902563,
+            "node1": 39149,
+            "node2": 66970,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 108379867,
+            "node1": 39149,
+            "node2": 97739,
+            "type": 6,
+            "w": 241.0
+        },
+        {
+            "id": 82637253,
+            "node1": 39149,
+            "node2": 109785,
+            "type": 6,
+            "w": 78.0
+        },
+        {
+            "id": 279695867,
+            "node1": 39149,
+            "node2": 221181,
+            "type": 6,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:30.795569",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cuir",
+        "#relations": 6,
+        "max_relation_weight": 241.0,
+        "#nodes": 7,
+        "duration": "0:00:00.017542"
+    }
+}

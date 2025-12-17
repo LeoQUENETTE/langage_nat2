@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 52184,
+            "name": "peintures",
+            "type": 1,
+            "w": 2537
+        },
+        {
+            "id": 63462,
+            "name": "maire",
+            "type": 1,
+            "w": 4767
+        },
+        {
+            "id": 25008,
+            "name": "pierre",
+            "type": 1,
+            "w": 9680
+        },
+        {
+            "id": 132653,
+            "name": "Lascaux",
+            "type": 1,
+            "w": 111
+        },
+        {
+            "id": 10937224,
+            "name": "peintures rupestres",
+            "type": 1,
+            "w": 36
+        }
+    ],
+    "relations": [
+        {
+            "id": 8840964,
+            "node1": 132653,
+            "node2": 25008,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 367264767,
+            "node1": 132653,
+            "node2": 52184,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 350661049,
+            "node1": 132653,
+            "node2": 63462,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 807509130,
+            "node1": 132653,
+            "node2": 10937224,
+            "type": 9,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:30:02.003913",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Lascaux",
+        "#relations": 4,
+        "max_relation_weight": 34.0,
+        "#nodes": 5,
+        "duration": "0:00:00.007186"
+    }
+}

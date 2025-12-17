@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 15241001,
+            "name": "création d'emplois",
+            "type": 1,
+            "w": 281
+        },
+        {
+            "id": 190412718,
+            "name": "augmentation du trafic aérien",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 209953991,
+            "name": "augmentation du trafic",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94262,
+            "name": "aéroport",
+            "type": 1,
+            "w": 3120
+        },
+        {
+            "id": 248442,
+            "name": "nuisance sonore",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 15211341,
+            "name": "en:noise pollution",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 114812,
+            "name": "pollution sonore",
+            "type": 1,
+            "w": 203
+        },
+        {
+            "id": 43106,
+            "name": "bruit",
+            "type": 1,
+            "w": 9823
+        },
+        {
+            "id": 99532,
+            "name": "pollution",
+            "type": 1,
+            "w": 12762
+        },
+        {
+            "id": 14606888,
+            "name": "nuisances sonores",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 212284,
+            "name": "développement économique",
+            "type": 1,
+            "w": 2710
+        },
+        {
+            "id": 16076122,
+            "name": "Pollution sonore",
+            "type": 777,
+            "w": 32
+        }
+    ],
+    "relations": [
+        {
+            "id": 14651866,
+            "node1": 94262,
+            "node2": 43106,
+            "type": 41,
+            "w": 87.0
+        },
+        {
+            "id": 1150536815,
+            "node1": 94262,
+            "node2": 99532,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 448364023,
+            "node1": 94262,
+            "node2": 114812,
+            "type": 41,
+            "w": 36.0
+        },
+        {
+            "id": 1150536835,
+            "node1": 94262,
+            "node2": 212284,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14654030,
+            "node1": 94262,
+            "node2": 248442,
+            "type": 41,
+            "w": 89.0
+        },
+        {
+            "id": 411505117,
+            "node1": 94262,
+            "node2": 14606888,
+            "type": 41,
+            "w": 86.0
+        },
+        {
+            "id": 411511779,
+            "node1": 94262,
+            "node2": 15211341,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 1150536411,
+            "node1": 94262,
+            "node2": 15241001,
+            "type": 41,
+            "w": 29.0
+        },
+        {
+            "id": 449536221,
+            "node1": 94262,
+            "node2": 16076122,
+            "type": 41,
+            "w": 43.0
+        },
+        {
+            "id": 1150536397,
+            "node1": 94262,
+            "node2": 190412718,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 1150539214,
+            "node1": 94262,
+            "node2": 209953991,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:31:09.305983",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "aéroport",
+        "#relations": 11,
+        "max_relation_weight": 89.0,
+        "#nodes": 12,
+        "duration": "0:00:00.007348"
+    }
+}

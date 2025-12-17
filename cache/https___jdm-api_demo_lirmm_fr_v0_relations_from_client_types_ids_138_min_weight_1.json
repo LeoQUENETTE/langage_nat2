@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 142153,
+            "name": "vente",
+            "type": 1,
+            "w": 5990
+        },
+        {
+            "id": 14330,
+            "name": "satisfaction",
+            "type": 1,
+            "w": 7370
+        },
+        {
+            "id": 24247,
+            "name": "service",
+            "type": 1,
+            "w": 16291
+        },
+        {
+            "id": 115243,
+            "name": "livraison",
+            "type": 1,
+            "w": 1186
+        },
+        {
+            "id": 20082,
+            "name": "client",
+            "type": 1,
+            "w": 7823
+        },
+        {
+            "id": 59052,
+            "name": "retour",
+            "type": 1,
+            "w": 8732
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155624035,
+            "node1": 20082,
+            "node2": 14330,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150604180,
+            "node1": 20082,
+            "node2": 24247,
+            "type": 138,
+            "w": 105.0
+        },
+        {
+            "id": 1155624057,
+            "node1": 20082,
+            "node2": 59052,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1150604179,
+            "node1": 20082,
+            "node2": 115243,
+            "type": 138,
+            "w": 105.0
+        },
+        {
+            "id": 1150604181,
+            "node1": 20082,
+            "node2": 142153,
+            "type": 138,
+            "w": 105.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:34.601843",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "client",
+        "#relations": 5,
+        "max_relation_weight": 105.0,
+        "#nodes": 6,
+        "duration": "0:00:00.009058"
+    }
+}

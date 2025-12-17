@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 68659,
+            "name": "cristal",
+            "type": 1,
+            "w": 2298
+        },
+        {
+            "id": 103738,
+            "name": "transparence",
+            "type": 1,
+            "w": 11447
+        },
+        {
+            "id": 143061,
+            "name": "clarté",
+            "type": 1,
+            "w": 2141
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179138927,
+            "node1": 68659,
+            "node2": 103738,
+            "type": 153,
+            "w": 39.0
+        },
+        {
+            "id": 765217969,
+            "node1": 68659,
+            "node2": 143061,
+            "type": 153,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:22.170775",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cristal",
+        "#relations": 2,
+        "max_relation_weight": 39.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003419"
+    }
+}

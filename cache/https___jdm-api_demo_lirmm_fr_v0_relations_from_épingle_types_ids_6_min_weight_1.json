@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1423
+        },
+        {
+            "id": 139867,
+            "name": "épingle",
+            "type": 1,
+            "w": 263
+        },
+        {
+            "id": 188699367,
+            "name": "objet utile",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 53145,
+            "name": "aiguille",
+            "type": 1,
+            "w": 1409
+        }
+    ],
+    "relations": [
+        {
+            "id": 115531251,
+            "node1": 139867,
+            "node2": 237,
+            "type": 6,
+            "w": 62.0
+        },
+        {
+            "id": 83123418,
+            "node1": 139867,
+            "node2": 16912,
+            "type": 6,
+            "w": 101.0
+        },
+        {
+            "id": 9901595,
+            "node1": 139867,
+            "node2": 53145,
+            "type": 6,
+            "w": 13.0
+        },
+        {
+            "id": 987830079,
+            "node1": 139867,
+            "node2": 188699367,
+            "type": 6,
+            "w": 71.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:49.337020",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "épingle",
+        "#relations": 4,
+        "max_relation_weight": 101.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006510"
+    }
+}

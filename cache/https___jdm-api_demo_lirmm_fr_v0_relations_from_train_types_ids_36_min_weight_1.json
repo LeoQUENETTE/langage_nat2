@@ -1,0 +1,365 @@
+{
+    "nodes": [
+        {
+            "id": 4389319,
+            "name": "_INFO-SEM-ISA-CONCEPT",
+            "type": 36,
+            "w": 30
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 27120,
+            "name": "train",
+            "type": 1,
+            "w": 7952
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 50233540,
+            "name": "_INFO-WORDREF-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162763,
+            "name": "_INFO-SEM-THING-CONCRETE",
+            "type": 36,
+            "w": 1238
+        },
+        {
+            "id": 191672,
+            "name": "_INFO-SEM-ACTION",
+            "type": 36,
+            "w": 36
+        },
+        {
+            "id": 191741,
+            "name": "_INFO-VOC-COMMON",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 214534,
+            "name": "_INFO-MEANING-FIGURED",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248197,
+            "name": "_SEX_YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 248198,
+            "name": "_SEX_NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317322,
+            "name": "_POLIT_1ECO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317323,
+            "name": "_POLIT_2PG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 2585996,
+            "name": "_INFO-CNRTL-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458629,
+            "name": "_INFO-SEM-PLACE-HUMAN",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 15991432,
+            "name": "_PROP-ANIME-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 191667,
+            "name": "_INFO-SEM-THING-ARTEFACT",
+            "type": 36,
+            "w": 242
+        }
+    ],
+    "relations": [
+        {
+            "id": 667105,
+            "node1": 27120,
+            "node2": 162759,
+            "type": 36,
+            "w": 47.0
+        },
+        {
+            "id": 1572905,
+            "node1": 27120,
+            "node2": 162763,
+            "type": 36,
+            "w": 62.0
+        },
+        {
+            "id": 1578101,
+            "node1": 27120,
+            "node2": 191667,
+            "type": 36,
+            "w": 66.0
+        },
+        {
+            "id": 61274345,
+            "node1": 27120,
+            "node2": 191672,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 741675,
+            "node1": 27120,
+            "node2": 191741,
+            "type": 36,
+            "w": 48.0
+        },
+        {
+            "id": 52631580,
+            "node1": 27120,
+            "node2": 214534,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 1623877,
+            "node1": 27120,
+            "node2": 217817,
+            "type": 36,
+            "w": 45.0
+        },
+        {
+            "id": 2017293,
+            "node1": 27120,
+            "node2": 223172,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 2003843,
+            "node1": 27120,
+            "node2": 223173,
+            "type": 36,
+            "w": 240.0
+        },
+        {
+            "id": 2000559,
+            "node1": 27120,
+            "node2": 241794,
+            "type": 36,
+            "w": 477.0
+        },
+        {
+            "id": 14199830,
+            "node1": 27120,
+            "node2": 248197,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 2192230,
+            "node1": 27120,
+            "node2": 248198,
+            "type": 36,
+            "w": 28.0
+        },
+        {
+            "id": 2325952,
+            "node1": 27120,
+            "node2": 254876,
+            "type": 36,
+            "w": 32.0
+        },
+        {
+            "id": 2325953,
+            "node1": 27120,
+            "node2": 254877,
+            "type": 36,
+            "w": 64.0
+        },
+        {
+            "id": 2325954,
+            "node1": 27120,
+            "node2": 254878,
+            "type": 36,
+            "w": 4.0
+        },
+        {
+            "id": 1175209361,
+            "node1": 27120,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 98292236,
+            "node1": 27120,
+            "node2": 317322,
+            "type": 36,
+            "w": 11.0
+        },
+        {
+            "id": 502906098,
+            "node1": 27120,
+            "node2": 317323,
+            "type": 36,
+            "w": 1.0
+        },
+        {
+            "id": 98292237,
+            "node1": 27120,
+            "node2": 317324,
+            "type": 36,
+            "w": 11.0
+        },
+        {
+            "id": 9116213,
+            "node1": 27120,
+            "node2": 317329,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 23416140,
+            "node1": 27120,
+            "node2": 458629,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 54601269,
+            "node1": 27120,
+            "node2": 2585996,
+            "type": 36,
+            "w": 53.0
+        },
+        {
+            "id": 99334601,
+            "node1": 27120,
+            "node2": 4389319,
+            "type": 36,
+            "w": 43.0
+        },
+        {
+            "id": 417749510,
+            "node1": 27120,
+            "node2": 15991432,
+            "type": 36,
+            "w": 27.0
+        },
+        {
+            "id": 498236948,
+            "node1": 27120,
+            "node2": 50233540,
+            "type": 36,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:33.844015",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "train",
+        "#relations": 25,
+        "max_relation_weight": 477.0,
+        "#nodes": 26,
+        "duration": "0:00:00.012679"
+    }
+}

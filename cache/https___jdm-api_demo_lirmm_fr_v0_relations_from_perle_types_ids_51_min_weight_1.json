@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 245868,
+            "name": "oeuf de Fabergé",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 139228,
+            "name": "perle",
+            "type": 1,
+            "w": 207
+        },
+        {
+            "id": 191802,
+            "name": "&oelig;uf de Fabergé",
+            "type": 1,
+            "w": 14
+        }
+    ],
+    "relations": [
+        {
+            "id": 376051321,
+            "node1": 139228,
+            "node2": 191802,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 376051338,
+            "node1": 139228,
+            "node2": 245868,
+            "type": 51,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:54.978764",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "perle",
+        "#relations": 2,
+        "max_relation_weight": 35.0,
+        "#nodes": 3,
+        "duration": "0:00:00.002662"
+    }
+}

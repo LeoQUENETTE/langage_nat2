@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 122489,
+            "name": "paragraphe",
+            "type": 1,
+            "w": 642
+        },
+        {
+            "id": 18239,
+            "name": "introduction",
+            "type": 1,
+            "w": 2267
+        },
+        {
+            "id": 139513,
+            "name": "phrase",
+            "type": 1,
+            "w": 6000
+        },
+        {
+            "id": 144991,
+            "name": "français",
+            "type": 1,
+            "w": 17419
+        },
+        {
+            "id": 35352,
+            "name": "discours",
+            "type": 1,
+            "w": 12171
+        },
+        {
+            "id": 129874,
+            "name": "conclusion",
+            "type": 1,
+            "w": 5779
+        },
+        {
+            "id": 7054031,
+            "name": "en:conclusion",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92972,
+            "name": "locution",
+            "type": 1,
+            "w": 514
+        }
+    ],
+    "relations": [
+        {
+            "id": 1603956,
+            "node1": 35352,
+            "node2": 18239,
+            "type": 9,
+            "w": 57.0
+        },
+        {
+            "id": 9970507,
+            "node1": 35352,
+            "node2": 92972,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 1684165,
+            "node1": 35352,
+            "node2": 122489,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 1684167,
+            "node1": 35352,
+            "node2": 129874,
+            "type": 9,
+            "w": 59.0
+        },
+        {
+            "id": 1684166,
+            "node1": 35352,
+            "node2": 139513,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 9972434,
+            "node1": 35352,
+            "node2": 144991,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 213790527,
+            "node1": 35352,
+            "node2": 7054031,
+            "type": 9,
+            "w": 9.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:12.015788",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "discours",
+        "#relations": 7,
+        "max_relation_weight": 59.0,
+        "#nodes": 8,
+        "duration": "0:00:00.004581"
+    }
+}

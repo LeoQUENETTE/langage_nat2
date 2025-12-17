@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 3179512,
+            "name": "travail écrit",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15088592,
+            "name": "en:school assignment",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15082083,
+            "name": "en:transferred possession",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15082082,
+            "name": "en:transferred property",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15088591,
+            "name": "en:schoolwork",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7992020,
+            "name": "en:task",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 242950,
+            "name": "devoir>89409",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 147771,
+            "name": "devoirs",
+            "type": 1,
+            "w": 1499
+        },
+        {
+            "id": 112929,
+            "name": "action",
+            "type": 1,
+            "w": 17578
+        },
+        {
+            "id": 7053862,
+            "name": "en:project",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 240121,
+            "name": "loi fondamentale",
+            "type": 1,
+            "w": 184
+        },
+        {
+            "id": 14965410,
+            "name": "en:labor",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14955825,
+            "name": "en:undertaking",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 534962539,
+            "node1": 147771,
+            "node2": 112929,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 535758369,
+            "node1": 147771,
+            "node2": 240121,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 406757635,
+            "node1": 147771,
+            "node2": 242950,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 406757650,
+            "node1": 147771,
+            "node2": 3179512,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 406757617,
+            "node1": 147771,
+            "node2": 7053862,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 406757615,
+            "node1": 147771,
+            "node2": 7992020,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 406757616,
+            "node1": 147771,
+            "node2": 14955825,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 406757614,
+            "node1": 147771,
+            "node2": 14965410,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 406757619,
+            "node1": 147771,
+            "node2": 15082082,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 406757618,
+            "node1": 147771,
+            "node2": 15082083,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 404509259,
+            "node1": 147771,
+            "node2": 15088591,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 404509258,
+            "node1": 147771,
+            "node2": 15088592,
+            "type": 6,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:38:07.656573",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "devoirs",
+        "#relations": 12,
+        "max_relation_weight": 54.0,
+        "#nodes": 13,
+        "duration": "0:00:00.010736"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 15379196,
+            "name": "en:artificial light",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 71346,
+            "name": "éclairage",
+            "type": 1,
+            "w": 1414
+        },
+        {
+            "id": 166343,
+            "name": "lumière artificielle",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 145792,
+            "name": "lumière",
+            "type": 1,
+            "w": 13461
+        },
+        {
+            "id": 73061,
+            "name": "lampe",
+            "type": 1,
+            "w": 1547
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150459553,
+            "node1": 73061,
+            "node2": 71346,
+            "type": 53,
+            "w": 41.0
+        },
+        {
+            "id": 98115162,
+            "node1": 73061,
+            "node2": 145792,
+            "type": 53,
+            "w": 61.0
+        },
+        {
+            "id": 376989705,
+            "node1": 73061,
+            "node2": 166343,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 479421595,
+            "node1": 73061,
+            "node2": 15379196,
+            "type": 53,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:34.976100",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lampe",
+        "#relations": 4,
+        "max_relation_weight": 61.0,
+        "#nodes": 5,
+        "duration": "0:00:00.003855"
+    }
+}

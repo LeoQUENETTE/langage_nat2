@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 66535,
+            "name": "ami",
+            "type": 1,
+            "w": 22293
+        },
+        {
+            "id": 315901,
+            "name": "::>66:127798>17:71211",
+            "type": 8,
+            "w": 50
+        },
+        {
+            "id": 216442,
+            "name": "ligne de coke",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 14232462,
+            "name": "souvenirs communs",
+            "type": 1,
+            "w": 12
+        }
+    ],
+    "relations": [
+        {
+            "id": 376991385,
+            "node1": 66535,
+            "node2": 216442,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 376990776,
+            "node1": 66535,
+            "node2": 315901,
+            "type": 53,
+            "w": 32.0
+        },
+        {
+            "id": 1150459613,
+            "node1": 66535,
+            "node2": 14232462,
+            "type": 53,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:28.502172",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ami",
+        "#relations": 3,
+        "max_relation_weight": 32.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004948"
+    }
+}

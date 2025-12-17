@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 4552,
+            "name": "inquiétude",
+            "type": 1,
+            "w": 3505
+        },
+        {
+            "id": 26173,
+            "name": "douceur",
+            "type": 1,
+            "w": 2228
+        },
+        {
+            "id": 122956,
+            "name": "mère",
+            "type": 1,
+            "w": 8492
+        }
+    ],
+    "relations": [
+        {
+            "id": 720482727,
+            "node1": 122956,
+            "node2": 4552,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 664976213,
+            "node1": 122956,
+            "node2": 26173,
+            "type": 153,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:41.388000",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mère",
+        "#relations": 2,
+        "max_relation_weight": 30.0,
+        "#nodes": 3,
+        "duration": "0:00:00.009815"
+    }
+}

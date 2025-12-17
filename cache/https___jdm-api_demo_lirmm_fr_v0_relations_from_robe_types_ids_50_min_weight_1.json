@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 110160,
+            "name": "robe",
+            "type": 1,
+            "w": 3032
+        },
+        {
+            "id": 28937,
+            "name": "soie",
+            "type": 1,
+            "w": 2409
+        },
+        {
+            "id": 2619,
+            "name": "taffetas",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 84939,
+            "name": "coton",
+            "type": 1,
+            "w": 1705
+        },
+        {
+            "id": 88594,
+            "name": "polyester",
+            "type": 1,
+            "w": 169
+        }
+    ],
+    "relations": [
+        {
+            "id": 376056683,
+            "node1": 110160,
+            "node2": 2619,
+            "type": 50,
+            "w": 43.0
+        },
+        {
+            "id": 665152389,
+            "node1": 110160,
+            "node2": 28937,
+            "type": 50,
+            "w": 44.0
+        },
+        {
+            "id": 1155778014,
+            "node1": 110160,
+            "node2": 84939,
+            "type": 50,
+            "w": 28.0
+        },
+        {
+            "id": 1155778038,
+            "node1": 110160,
+            "node2": 88594,
+            "type": 50,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            50
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:00.485820",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "robe",
+        "#relations": 4,
+        "max_relation_weight": 44.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004181"
+    }
+}

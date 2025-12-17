@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 113902,
+            "name": "alimentation",
+            "type": 1,
+            "w": 7010
+        },
+        {
+            "id": 42001,
+            "name": "bébé",
+            "type": 1,
+            "w": 5490
+        },
+        {
+            "id": 37566,
+            "name": "croissance",
+            "type": 1,
+            "w": 12800
+        },
+        {
+            "id": 49888,
+            "name": "endormissement",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 596275,
+            "name": "syndrome du bébé secoué",
+            "type": 777,
+            "w": 30
+        }
+    ],
+    "relations": [
+        {
+            "id": 1177179061,
+            "node1": 42001,
+            "node2": 37566,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1157921141,
+            "node1": 42001,
+            "node2": 49888,
+            "type": 138,
+            "w": 27.0
+        },
+        {
+            "id": 1177635233,
+            "node1": 42001,
+            "node2": 113902,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 376969683,
+            "node1": 42001,
+            "node2": 596275,
+            "type": 138,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:12.364616",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bébé",
+        "#relations": 4,
+        "max_relation_weight": 28.0,
+        "#nodes": 5,
+        "duration": "0:00:00.003631"
+    }
+}

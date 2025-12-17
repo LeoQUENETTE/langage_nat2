@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 16704,
+            "name": "docteur",
+            "type": 1,
+            "w": 5494
+        },
+        {
+            "id": 6816707,
+            "name": "en:tibia",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 61044,
+            "name": "tibial",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 135496,
+            "name": "tibia",
+            "type": 1,
+            "w": 618
+        }
+    ],
+    "relations": [
+        {
+            "id": 962358628,
+            "node1": 16704,
+            "node2": 61044,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 11347677,
+            "node1": 16704,
+            "node2": 135496,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 289284633,
+            "node1": 16704,
+            "node2": 6816707,
+            "type": 28,
+            "w": 2.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:04.388289",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "docteur",
+        "#relations": 3,
+        "max_relation_weight": 38.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004898"
+    }
+}

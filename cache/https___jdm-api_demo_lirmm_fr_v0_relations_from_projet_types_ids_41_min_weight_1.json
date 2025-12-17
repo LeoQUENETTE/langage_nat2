@@ -1,0 +1,326 @@
+{
+    "nodes": [
+        {
+            "id": 15280524,
+            "name": "en:to pack it all in",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 255838,
+            "name": "tout plaquer",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15701282,
+            "name": "en:pack it all in",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 86571,
+            "name": "construire",
+            "type": 1,
+            "w": 9441
+        },
+        {
+            "id": 73061816,
+            "name": "changement>80069>34821",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 267830,
+            "name": "changement>80069",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 40873,
+            "name": "projet",
+            "type": 1,
+            "w": 23962
+        },
+        {
+            "id": 124897902,
+            "name": "Jeu sérieux",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 257714,
+            "name": "dessiner à main levée",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 257713,
+            "name": "dessin à main levée",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15280516,
+            "name": "en:dump everything, run away and join the circus, leave off everything, quit everything, pack it all in",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 197052,
+            "name": "bon vent",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 252070,
+            "name": "user de son charme",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 256254,
+            "name": "quitter le domicile conjugal",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 258736,
+            "name": "tout quitter",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 3183888,
+            "name": "bon vent>197066",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15399859,
+            "name": "en:free-hand drawing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414802,
+            "name": "en:freehand drawing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16391589,
+            "name": "en:serious game",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 100713,
+            "name": "prototype",
+            "type": 1,
+            "w": 2807
+        },
+        {
+            "id": 236632,
+            "name": "serious game",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 230612,
+            "name": "jeu sérieux",
+            "type": 1,
+            "w": 326
+        },
+        {
+            "id": 264680,
+            "name": "Histoire naturelle et sociale d'une famille sous le Second Empire",
+            "type": 1,
+            "w": 22
+        }
+    ],
+    "relations": [
+        {
+            "id": 769570322,
+            "node1": 40873,
+            "node2": 86571,
+            "type": 41,
+            "w": 4.0
+        },
+        {
+            "id": 1181109870,
+            "node1": 40873,
+            "node2": 100713,
+            "type": 41,
+            "w": 30.0
+        },
+        {
+            "id": 97977628,
+            "node1": 40873,
+            "node2": 197052,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 14648832,
+            "node1": 40873,
+            "node2": 230612,
+            "type": 41,
+            "w": 41.0
+        },
+        {
+            "id": 14648826,
+            "node1": 40873,
+            "node2": 236632,
+            "type": 41,
+            "w": 32.0
+        },
+        {
+            "id": 14650833,
+            "node1": 40873,
+            "node2": 252070,
+            "type": 41,
+            "w": 27.0
+        },
+        {
+            "id": 14650384,
+            "node1": 40873,
+            "node2": 255838,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 15766605,
+            "node1": 40873,
+            "node2": 256254,
+            "type": 41,
+            "w": 28.0
+        },
+        {
+            "id": 14645924,
+            "node1": 40873,
+            "node2": 257713,
+            "type": 41,
+            "w": 57.0
+        },
+        {
+            "id": 14645930,
+            "node1": 40873,
+            "node2": 257714,
+            "type": 41,
+            "w": 38.0
+        },
+        {
+            "id": 14650449,
+            "node1": 40873,
+            "node2": 258736,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14651131,
+            "node1": 40873,
+            "node2": 264680,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 540387466,
+            "node1": 40873,
+            "node2": 267830,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 77018581,
+            "node1": 40873,
+            "node2": 3183888,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 667263113,
+            "node1": 40873,
+            "node2": 15280516,
+            "type": 41,
+            "w": 18.0
+        },
+        {
+            "id": 1079368379,
+            "node1": 40873,
+            "node2": 15280524,
+            "type": 41,
+            "w": 2.0
+        },
+        {
+            "id": 1079399266,
+            "node1": 40873,
+            "node2": 15399859,
+            "type": 41,
+            "w": 1.0
+        },
+        {
+            "id": 411510126,
+            "node1": 40873,
+            "node2": 15414802,
+            "type": 41,
+            "w": 56.0
+        },
+        {
+            "id": 1079348519,
+            "node1": 40873,
+            "node2": 15701282,
+            "type": 41,
+            "w": 3.0
+        },
+        {
+            "id": 438165601,
+            "node1": 40873,
+            "node2": 16391589,
+            "type": 41,
+            "w": 35.0
+        },
+        {
+            "id": 512962707,
+            "node1": 40873,
+            "node2": 73061816,
+            "type": 41,
+            "w": 8.0
+        },
+        {
+            "id": 594851352,
+            "node1": 40873,
+            "node2": 124897902,
+            "type": 41,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:34.904206",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "projet",
+        "#relations": 22,
+        "max_relation_weight": 57.0,
+        "#nodes": 23,
+        "duration": "0:00:00.011210"
+    }
+}

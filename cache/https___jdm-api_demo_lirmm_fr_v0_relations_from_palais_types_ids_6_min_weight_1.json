@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 157827,
+            "name": "partie du corps",
+            "type": 1,
+            "w": 291
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 18309,
+            "name": "résidence",
+            "type": 1,
+            "w": 3224
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4616
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 143800,
+            "name": "palais",
+            "type": 1,
+            "w": 4954
+        },
+        {
+            "id": 45109,
+            "name": "édifice",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 139115,
+            "name": "demeure",
+            "type": 1,
+            "w": 4033
+        },
+        {
+            "id": 7899,
+            "name": "habitation",
+            "type": 1,
+            "w": 1338
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 30584,
+            "name": "château",
+            "type": 1,
+            "w": 4223
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 102105,
+            "name": "monument",
+            "type": 1,
+            "w": 3233
+        },
+        {
+            "id": 65524,
+            "name": "bâtiment",
+            "type": 1,
+            "w": 4892
+        },
+        {
+            "id": 1667825,
+            "name": "partie du corps humain",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 220867646,
+            "node1": 143800,
+            "node2": 7899,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 1849172,
+            "node1": 143800,
+            "node2": 18309,
+            "type": 6,
+            "w": 77.0
+        },
+        {
+            "id": 2073796,
+            "node1": 143800,
+            "node2": 30584,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 220867658,
+            "node1": 143800,
+            "node2": 45109,
+            "type": 6,
+            "w": 112.0
+        },
+        {
+            "id": 96350075,
+            "node1": 143800,
+            "node2": 55137,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 2073797,
+            "node1": 143800,
+            "node2": 65524,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 9906287,
+            "node1": 143800,
+            "node2": 102105,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 629063,
+            "node1": 143800,
+            "node2": 135190,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 932864158,
+            "node1": 143800,
+            "node2": 135956,
+            "type": 6,
+            "w": 99.0
+        },
+        {
+            "id": 220867665,
+            "node1": 143800,
+            "node2": 139115,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 220867667,
+            "node1": 143800,
+            "node2": 157283,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 594518463,
+            "node1": 143800,
+            "node2": 157827,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 775797191,
+            "node1": 143800,
+            "node2": 325138,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 594518879,
+            "node1": 143800,
+            "node2": 1667825,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 473406218,
+            "node1": 143800,
+            "node2": 14094383,
+            "type": 6,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:32:08.624298",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "palais",
+        "#relations": 15,
+        "max_relation_weight": 112.0,
+        "#nodes": 16,
+        "duration": "0:00:00.033547"
+    }
+}

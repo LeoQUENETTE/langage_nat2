@@ -1,0 +1,196 @@
+{
+    "nodes": [
+        {
+            "id": 159317,
+            "name": "mémoire vive",
+            "type": 1,
+            "w": 173
+        },
+        {
+            "id": 261644502,
+            "name": "fréquence du processeur",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94978,
+            "name": "ordinateur",
+            "type": 1,
+            "w": 9689
+        },
+        {
+            "id": 341418,
+            "name": "capacité de stockage",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 59236,
+            "name": "disque dur",
+            "type": 1,
+            "w": 882
+        },
+        {
+            "id": 79122,
+            "name": "autonomie",
+            "type": 1,
+            "w": 10641
+        },
+        {
+            "id": 64060,
+            "name": "puissance",
+            "type": 1,
+            "w": 9436
+        },
+        {
+            "id": 60742,
+            "name": "fiabilité",
+            "type": 1,
+            "w": 2702
+        },
+        {
+            "id": 99884,
+            "name": "mémoire",
+            "type": 1,
+            "w": 12721
+        },
+        {
+            "id": 15394189,
+            "name": "température de fonctionnement",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 250408240,
+            "name": "capacité de mémoire",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 29761,
+            "name": "processeur",
+            "type": 1,
+            "w": 3439
+        },
+        {
+            "id": 250915,
+            "name": "vitesse de calcul",
+            "type": 1,
+            "w": 62
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179137652,
+            "node1": 94978,
+            "node2": 29761,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179137654,
+            "node1": 94978,
+            "node2": 59236,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179139378,
+            "node1": 94978,
+            "node2": 60742,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 354331574,
+            "node1": 94978,
+            "node2": 64060,
+            "type": 153,
+            "w": 40.0
+        },
+        {
+            "id": 1179139344,
+            "node1": 94978,
+            "node2": 79122,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179139334,
+            "node1": 94978,
+            "node2": 99884,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179137653,
+            "node1": 94978,
+            "node2": 159317,
+            "type": 153,
+            "w": 25.0
+        },
+        {
+            "id": 1179139346,
+            "node1": 94978,
+            "node2": 250915,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 1179137710,
+            "node1": 94978,
+            "node2": 341418,
+            "type": 153,
+            "w": 35.0
+        },
+        {
+            "id": 1179139361,
+            "node1": 94978,
+            "node2": 15394189,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 1179139422,
+            "node1": 94978,
+            "node2": 250408240,
+            "type": 153,
+            "w": 27.0
+        },
+        {
+            "id": 1179142904,
+            "node1": 94978,
+            "node2": 261644502,
+            "type": 153,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:35:27.775009",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "ordinateur",
+        "#relations": 12,
+        "max_relation_weight": 40.0,
+        "#nodes": 13,
+        "duration": "0:00:00.005117"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 40635,
+            "name": "sac",
+            "type": 1,
+            "w": 4080
+        },
+        {
+            "id": 140516,
+            "name": "plâtre",
+            "type": 1,
+            "w": 342
+        }
+    ],
+    "relations": [
+        {
+            "id": 765218120,
+            "node1": 140516,
+            "node2": 40635,
+            "type": 58,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            58
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:10.415821",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plâtre",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:01.806093"
+    }
+}

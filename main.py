@@ -1,24 +1,22 @@
 from calcul_vectoriel import *
-import api
 
-DATA_DIR = "./data/json/"
-RELATIONS_FILES_NAME = {"Agent":"70",
-                        "AuteurCréateur":"54",
-                        "Caractérisation":"173",
-                        "Conséquence":"42",
-                        "Despiction":"172",
-                        "Holonymie":"10",
-                        "LienSocial":"113",
-                        "Lieu":"15",
-                        "Matière":"50",
-                        "Origine":"171",
-                        "Quantification":"58",
-                        "Topic":"142",
-                        "Instrument":"139",
-                        "Patient":"76",
-                        "Possession" : "122"}
+DATA_DIR = "./data/"
+RELATIONS_FILES_NAME = {"Agent":"70",           #r_processus>agent
+                        "AuteurCréateur":"54",  #r_product_of
+                        "Caractérisation":"173",#r_has_prop-1
+                        "Conséquence":"42",     #r_has_causatif
+                        "Despiction":"172",     #r_depict
+                        "Holonymie":"10",       #r_holo
+                        "LienSocial":"113",     #r_has_social_ties_with
+                        "Lieu":"15",            #r_lieu
+                        "Matière":"50",         #r_object>mater
+                        "Origine":"171",        #r_lieu>origin
+                        "Quantification":"174", #r_quantificateur-1
+                        "Topic":"142",          #r_has_topic
+                        "Instrument":"139",     #r_processus>instr-1
+                        "Patient":"76",         #r_processus>agent
+                        "Possession" : "122"}   #r_own-1
+
+
 if __name__ == "__main__":
-    # api.getNodeById("465544042")
-    generateVector(DATA_DIR + "Agent" + ".json")
-    
-    
+    generateVector(DATA_DIR + "dataset2" + ".json")

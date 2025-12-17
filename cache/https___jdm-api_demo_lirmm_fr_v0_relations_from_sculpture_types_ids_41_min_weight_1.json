@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 133393,
+            "name": "sculpture",
+            "type": 1,
+            "w": 3401
+        },
+        {
+            "id": 3695,
+            "name": "art",
+            "type": 1,
+            "w": 15220
+        }
+    ],
+    "relations": [
+        {
+            "id": 14650822,
+            "node1": 133393,
+            "node2": 3695,
+            "type": 41,
+            "w": 34.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:50.584668",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sculpture",
+        "#relations": 1,
+        "max_relation_weight": 34.0,
+        "#nodes": 2,
+        "duration": "0:00:00.002875"
+    }
+}

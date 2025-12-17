@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 78900,
+            "name": "congélation",
+            "type": 1,
+            "w": 229
+        },
+        {
+            "id": 141964,
+            "name": "glace",
+            "type": 1,
+            "w": 5802
+        }
+    ],
+    "relations": [
+        {
+            "id": 1143079001,
+            "node1": 141964,
+            "node2": 78900,
+            "type": 137,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:44.340579",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "glace",
+        "#relations": 1,
+        "max_relation_weight": 28.0,
+        "#nodes": 2,
+        "duration": "0:00:00.004670"
+    }
+}

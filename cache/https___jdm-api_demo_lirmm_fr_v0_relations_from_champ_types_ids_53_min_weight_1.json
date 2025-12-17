@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 117533,
+            "name": "fleurs",
+            "type": 1,
+            "w": 4178
+        },
+        {
+            "id": 8165,
+            "name": "cocaïne",
+            "type": 1,
+            "w": 848
+        },
+        {
+            "id": 89760,
+            "name": "fruits",
+            "type": 1,
+            "w": 4127
+        },
+        {
+            "id": 40470,
+            "name": "récolte",
+            "type": 1,
+            "w": 3467
+        },
+        {
+            "id": 105995,
+            "name": "légumes",
+            "type": 1,
+            "w": 2428
+        },
+        {
+            "id": 62278,
+            "name": "céréales",
+            "type": 1,
+            "w": 2232
+        },
+        {
+            "id": 95605,
+            "name": "champ",
+            "type": 1,
+            "w": 8235
+        }
+    ],
+    "relations": [
+        {
+            "id": 1066168009,
+            "node1": 95605,
+            "node2": 8165,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 1155337475,
+            "node1": 95605,
+            "node2": 40470,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1156787096,
+            "node1": 95605,
+            "node2": 62278,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156779915,
+            "node1": 95605,
+            "node2": 89760,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1156787095,
+            "node1": 95605,
+            "node2": 105995,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156779914,
+            "node1": 95605,
+            "node2": 117533,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:20.770568",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "champ",
+        "#relations": 6,
+        "max_relation_weight": 28.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005022"
+    }
+}

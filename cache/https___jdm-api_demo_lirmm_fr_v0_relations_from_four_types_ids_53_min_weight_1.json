@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 5115,
+            "name": "cuire",
+            "type": 1,
+            "w": 2023
+        },
+        {
+            "id": 156028,
+            "name": "oeuf dur",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 110910,
+            "name": "chaleur",
+            "type": 1,
+            "w": 7778
+        },
+        {
+            "id": 9190,
+            "name": "four",
+            "type": 1,
+            "w": 2862
+        },
+        {
+            "id": 61283,
+            "name": "pain",
+            "type": 1,
+            "w": 5784
+        },
+        {
+            "id": 25966,
+            "name": "pâtisserie",
+            "type": 1,
+            "w": 3462
+        },
+        {
+            "id": 14951746,
+            "name": "en:hard-boiled egg",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 67780,
+            "name": "gratiner",
+            "type": 1,
+            "w": 158
+        },
+        {
+            "id": 236550,
+            "name": "chaleur>40531",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 132551,
+            "name": "rôtir",
+            "type": 1,
+            "w": 319
+        },
+        {
+            "id": 228566,
+            "name": "plat cuisiné",
+            "type": 1,
+            "w": 243
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150830700,
+            "node1": 9190,
+            "node2": 5115,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 1156451822,
+            "node1": 9190,
+            "node2": 25966,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 765218214,
+            "node1": 9190,
+            "node2": 61283,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1150830718,
+            "node1": 9190,
+            "node2": 67780,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376989617,
+            "node1": 9190,
+            "node2": 110910,
+            "type": 53,
+            "w": 44.0
+        },
+        {
+            "id": 1150830701,
+            "node1": 9190,
+            "node2": 132551,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 376991082,
+            "node1": 9190,
+            "node2": 156028,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 1156451814,
+            "node1": 9190,
+            "node2": 228566,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 376989679,
+            "node1": 9190,
+            "node2": 236550,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 479422098,
+            "node1": 9190,
+            "node2": 14951746,
+            "type": 53,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:30.302040",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "four",
+        "#relations": 10,
+        "max_relation_weight": 44.0,
+        "#nodes": 11,
+        "duration": "0:00:00.006207"
+    }
+}

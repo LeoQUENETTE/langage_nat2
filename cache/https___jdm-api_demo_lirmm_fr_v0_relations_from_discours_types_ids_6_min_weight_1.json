@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 5953695,
+            "name": "développement oral",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12888
+        },
+        {
+            "id": 75266,
+            "name": "langage",
+            "type": 1,
+            "w": 10700
+        },
+        {
+            "id": 35352,
+            "name": "discours",
+            "type": 1,
+            "w": 12171
+        },
+        {
+            "id": 112929,
+            "name": "action",
+            "type": 1,
+            "w": 17494
+        },
+        {
+            "id": 43207,
+            "name": "développement",
+            "type": 1,
+            "w": 31581
+        },
+        {
+            "id": 124771,
+            "name": "parole",
+            "type": 1,
+            "w": 10235
+        },
+        {
+            "id": 12105,
+            "name": "communication",
+            "type": 1,
+            "w": 38730
+        }
+    ],
+    "relations": [
+        {
+            "id": 107684,
+            "node1": 35352,
+            "node2": 12105,
+            "type": 6,
+            "w": 64.0
+        },
+        {
+            "id": 116347299,
+            "node1": 35352,
+            "node2": 43207,
+            "type": 6,
+            "w": 39.0
+        },
+        {
+            "id": 257732,
+            "node1": 35352,
+            "node2": 75266,
+            "type": 6,
+            "w": 74.0
+        },
+        {
+            "id": 664907601,
+            "node1": 35352,
+            "node2": 112929,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 257733,
+            "node1": 35352,
+            "node2": 124771,
+            "type": 6,
+            "w": 61.0
+        },
+        {
+            "id": 629519,
+            "node1": 35352,
+            "node2": 135190,
+            "type": 6,
+            "w": 58.0
+        },
+        {
+            "id": 116373320,
+            "node1": 35352,
+            "node2": 5953695,
+            "type": 6,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:10:10.696048",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "discours",
+        "#relations": 7,
+        "max_relation_weight": 74.0,
+        "#nodes": 8,
+        "duration": "0:00:00.045540"
+    }
+}

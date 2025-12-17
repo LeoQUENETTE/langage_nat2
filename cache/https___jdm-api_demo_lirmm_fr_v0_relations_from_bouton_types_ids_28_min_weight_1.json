@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 275080,
+            "name": "bacteria",
+            "type": 777,
+            "w": 55
+        },
+        {
+            "id": 162897,
+            "name": "bétadine",
+            "type": 1,
+            "w": 73
+        },
+        {
+            "id": 19061,
+            "name": "bactéries",
+            "type": 1,
+            "w": 3571
+        },
+        {
+            "id": 10881,
+            "name": "bouton",
+            "type": 1,
+            "w": 1349
+        },
+        {
+            "id": 6976094,
+            "name": "en:pus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39407,
+            "name": "pus",
+            "type": 1,
+            "w": 122
+        },
+        {
+            "id": 55329,
+            "name": "éosine",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 394216,
+            "name": "eosine",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15104473,
+            "name": "en:Pus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6336831,
+            "name": "acide rouge 87",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17630501,
+            "name": "en:tetrabromofluorescein",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6826373,
+            "name": "en:bacteria",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 97125625,
+            "node1": 10881,
+            "node2": 19061,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 97125623,
+            "node1": 10881,
+            "node2": 39407,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 97125626,
+            "node1": 10881,
+            "node2": 55329,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 97125624,
+            "node1": 10881,
+            "node2": 162897,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 601605436,
+            "node1": 10881,
+            "node2": 275080,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 97125586,
+            "node1": 10881,
+            "node2": 394216,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 473911942,
+            "node1": 10881,
+            "node2": 6336831,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 496782506,
+            "node1": 10881,
+            "node2": 6826373,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 473911941,
+            "node1": 10881,
+            "node2": 6976094,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 738373667,
+            "node1": 10881,
+            "node2": 15104473,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 484022617,
+            "node1": 10881,
+            "node2": 17630501,
+            "type": 28,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:46.712154",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bouton",
+        "#relations": 11,
+        "max_relation_weight": 32.0,
+        "#nodes": 12,
+        "duration": "0:00:00.003703"
+    }
+}

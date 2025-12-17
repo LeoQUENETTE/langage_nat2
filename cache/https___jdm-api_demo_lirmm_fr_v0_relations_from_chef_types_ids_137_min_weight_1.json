@@ -1,0 +1,235 @@
+{
+    "nodes": [
+        {
+            "id": 10821758,
+            "name": "dresser une assiette",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 440364706,
+            "name": "créer des saveurs",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 82608,
+            "name": "flambage",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 452665197,
+            "name": "élaboration de plats",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 162663126,
+            "name": "innovation culinaire",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 251082,
+            "name": "repas gastronomique",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 196479044,
+            "name": "création culinaire",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 34659,
+            "name": "gestion",
+            "type": 1,
+            "w": 10165
+        },
+        {
+            "id": 228125,
+            "name": "prise de décision",
+            "type": 1,
+            "w": 1508
+        },
+        {
+            "id": 16033,
+            "name": "cuisine",
+            "type": 1,
+            "w": 16388
+        },
+        {
+            "id": 60056,
+            "name": "cuisson",
+            "type": 1,
+            "w": 2629
+        },
+        {
+            "id": 126742,
+            "name": "leadership",
+            "type": 1,
+            "w": 6573
+        },
+        {
+            "id": 89926,
+            "name": "chef",
+            "type": 1,
+            "w": 9712
+        },
+        {
+            "id": 33634,
+            "name": "préparation",
+            "type": 1,
+            "w": 6939
+        },
+        {
+            "id": 2708115,
+            "name": "cuisson au barbecue",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 38662,
+            "name": "commandement",
+            "type": 1,
+            "w": 3867
+        }
+    ],
+    "relations": [
+        {
+            "id": 775109502,
+            "node1": 89926,
+            "node2": 16033,
+            "type": 137,
+            "w": 37.0
+        },
+        {
+            "id": 1046577434,
+            "node1": 89926,
+            "node2": 33634,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1143961502,
+            "node1": 89926,
+            "node2": 34659,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 1150603809,
+            "node1": 89926,
+            "node2": 38662,
+            "type": 137,
+            "w": 77.0
+        },
+        {
+            "id": 1014127409,
+            "node1": 89926,
+            "node2": 60056,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 948448592,
+            "node1": 89926,
+            "node2": 82608,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1150117109,
+            "node1": 89926,
+            "node2": 126742,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1143961503,
+            "node1": 89926,
+            "node2": 228125,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 384630952,
+            "node1": 89926,
+            "node2": 251082,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 809099342,
+            "node1": 89926,
+            "node2": 2708115,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 1132463763,
+            "node1": 89926,
+            "node2": 10821758,
+            "type": 137,
+            "w": 33.0
+        },
+        {
+            "id": 800620464,
+            "node1": 89926,
+            "node2": 162663126,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 800620366,
+            "node1": 89926,
+            "node2": 196479044,
+            "type": 137,
+            "w": 36.0
+        },
+        {
+            "id": 1132431165,
+            "node1": 89926,
+            "node2": 440364706,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 1153772377,
+            "node1": 89926,
+            "node2": 452665197,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:32:38.325370",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chef",
+        "#relations": 15,
+        "max_relation_weight": 77.0,
+        "#nodes": 16,
+        "duration": "0:00:00.008135"
+    }
+}

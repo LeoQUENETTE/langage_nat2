@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 450693793,
+            "name": "::>66:34527>24:327347",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 102633,
+            "name": "soldat",
+            "type": 1,
+            "w": 6034
+        },
+        {
+            "id": 153623,
+            "name": "peau de bête",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 68015,
+            "name": "campeur",
+            "type": 1,
+            "w": 390
+        },
+        {
+            "id": 166921,
+            "name": "générateur électrique",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 52423,
+            "name": "abri",
+            "type": 1,
+            "w": 1931
+        }
+    ],
+    "relations": [
+        {
+            "id": 13099499,
+            "node1": 52423,
+            "node2": 68015,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 61884911,
+            "node1": 52423,
+            "node2": 102633,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1058085892,
+            "node1": 52423,
+            "node2": 153623,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 766153378,
+            "node1": 52423,
+            "node2": 166921,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 1139942640,
+            "node1": 52423,
+            "node2": 450693793,
+            "type": 28,
+            "w": 33.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:54.746964",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "abri",
+        "#relations": 5,
+        "max_relation_weight": 33.0,
+        "#nodes": 6,
+        "duration": "0:00:00.008067"
+    }
+}

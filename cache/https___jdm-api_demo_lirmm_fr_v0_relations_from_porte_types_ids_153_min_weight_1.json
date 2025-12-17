@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 143613,
+            "name": "porte",
+            "type": 1,
+            "w": 23845
+        },
+        {
+            "id": 64265,
+            "name": "largeur",
+            "type": 1,
+            "w": 3060
+        },
+        {
+            "id": 480027839,
+            "name": "largeur d'ouverture",
+            "type": 1,
+            "w": 0
+        }
+    ],
+    "relations": [
+        {
+            "id": 1179139337,
+            "node1": 143613,
+            "node2": 64265,
+            "type": 153,
+            "w": 33.0
+        },
+        {
+            "id": 1179137817,
+            "node1": 143613,
+            "node2": 480027839,
+            "type": 153,
+            "w": 41.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:59.780185",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "porte",
+        "#relations": 2,
+        "max_relation_weight": 41.0,
+        "#nodes": 3,
+        "duration": "0:00:00.005126"
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 341418,
+            "name": "capacité de stockage",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 61576,
+            "name": "résolution",
+            "type": 1,
+            "w": 5348
+        },
+        {
+            "id": 131040,
+            "name": "prix",
+            "type": 1,
+            "w": 12152
+        },
+        {
+            "id": 23859,
+            "name": "caméra",
+            "type": 1,
+            "w": 3086
+        },
+        {
+            "id": 26845,
+            "name": "objectif",
+            "type": 1,
+            "w": 12417
+        },
+        {
+            "id": 180868,
+            "name": "angle de prise de vue",
+            "type": 1,
+            "w": 52
+        }
+    ],
+    "relations": [
+        {
+            "id": 766169424,
+            "node1": 23859,
+            "node2": 26845,
+            "type": 153,
+            "w": 34.0
+        },
+        {
+            "id": 766169423,
+            "node1": 23859,
+            "node2": 61576,
+            "type": 153,
+            "w": 32.0
+        },
+        {
+            "id": 766169426,
+            "node1": 23859,
+            "node2": 131040,
+            "type": 153,
+            "w": 32.0
+        },
+        {
+            "id": 1179137851,
+            "node1": 23859,
+            "node2": 180868,
+            "type": 153,
+            "w": 31.0
+        },
+        {
+            "id": 766169425,
+            "node1": 23859,
+            "node2": 341418,
+            "type": 153,
+            "w": 32.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:37:34.181543",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "caméra",
+        "#relations": 5,
+        "max_relation_weight": 34.0,
+        "#nodes": 6,
+        "duration": "0:00:00.006883"
+    }
+}

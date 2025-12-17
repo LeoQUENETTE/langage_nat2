@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 60026,
+            "name": "prescription",
+            "type": 1,
+            "w": 903
+        },
+        {
+            "id": 57084,
+            "name": "consultation",
+            "type": 1,
+            "w": 2953
+        },
+        {
+            "id": 16704,
+            "name": "docteur",
+            "type": 1,
+            "w": 5494
+        },
+        {
+            "id": 1476337,
+            "name": "prescription de médicaments",
+            "type": 777,
+            "w": 28
+        },
+        {
+            "id": 259917,
+            "name": "consultation médicale",
+            "type": 1,
+            "w": 256
+        }
+    ],
+    "relations": [
+        {
+            "id": 948448773,
+            "node1": 16704,
+            "node2": 57084,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 948449105,
+            "node1": 16704,
+            "node2": 60026,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 876055029,
+            "node1": 16704,
+            "node2": 259917,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 1177179348,
+            "node1": 16704,
+            "node2": 1476337,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:04.107710",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "docteur",
+        "#relations": 4,
+        "max_relation_weight": 31.0,
+        "#nodes": 5,
+        "duration": "0:00:00.009410"
+    }
+}

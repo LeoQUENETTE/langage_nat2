@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7272
+        },
+        {
+            "id": 107846,
+            "name": "ombre",
+            "type": 1,
+            "w": 6509
+        },
+        {
+            "id": 71709,
+            "name": "acoustique",
+            "type": 1,
+            "w": 659
+        }
+    ],
+    "relations": [
+        {
+            "id": 1157922779,
+            "node1": 144936,
+            "node2": 71709,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1157922761,
+            "node1": 144936,
+            "node2": 107846,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:17.491261",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "mur",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003312"
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "nodes": [
+        {
+            "id": 124455,
+            "name": "motif",
+            "type": 1,
+            "w": 3159
+        },
+        {
+            "id": 143281,
+            "name": "manche",
+            "type": 1,
+            "w": 2460
+        },
+        {
+            "id": 67448,
+            "name": "pull",
+            "type": 1,
+            "w": 1264
+        },
+        {
+            "id": 7548,
+            "name": "col",
+            "type": 1,
+            "w": 2543
+        },
+        {
+            "id": 153039,
+            "name": "col roulé",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 213973,
+            "name": "col>120949",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 128782,
+            "name": "fil",
+            "type": 1,
+            "w": 5593
+        },
+        {
+            "id": 115865,
+            "name": "trou",
+            "type": 1,
+            "w": 4655
+        },
+        {
+            "id": 140770,
+            "name": "laine",
+            "type": 1,
+            "w": 2205
+        },
+        {
+            "id": 214638,
+            "name": "motif>98596",
+            "type": 1,
+            "w": 74
+        }
+    ],
+    "relations": [
+        {
+            "id": 11348149,
+            "node1": 67448,
+            "node2": 7548,
+            "type": 28,
+            "w": 66.0
+        },
+        {
+            "id": 11348280,
+            "node1": 67448,
+            "node2": 115865,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104937599,
+            "node1": 67448,
+            "node2": 124455,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11347675,
+            "node1": 67448,
+            "node2": 128782,
+            "type": 28,
+            "w": 66.0
+        },
+        {
+            "id": 11347089,
+            "node1": 67448,
+            "node2": 140770,
+            "type": 28,
+            "w": 71.0
+        },
+        {
+            "id": 11344767,
+            "node1": 67448,
+            "node2": 143281,
+            "type": 28,
+            "w": 77.0
+        },
+        {
+            "id": 2580572,
+            "node1": 67448,
+            "node2": 153039,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 11335595,
+            "node1": 67448,
+            "node2": 213973,
+            "type": 28,
+            "w": 66.0
+        },
+        {
+            "id": 2521345,
+            "node1": 67448,
+            "node2": 214638,
+            "type": 28,
+            "w": 55.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:07.531766",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "pull",
+        "#relations": 9,
+        "max_relation_weight": 77.0,
+        "#nodes": 10,
+        "duration": "0:00:00.004956"
+    }
+}

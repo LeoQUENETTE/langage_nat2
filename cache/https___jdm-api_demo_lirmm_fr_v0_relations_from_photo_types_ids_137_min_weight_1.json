@@ -1,0 +1,53 @@
+{
+    "nodes": [
+        {
+            "id": 52442,
+            "name": "photo",
+            "type": 1,
+            "w": 4916
+        },
+        {
+            "id": 206376,
+            "name": "prise de vue",
+            "type": 1,
+            "w": 80
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158175523,
+            "node1": 52442,
+            "node2": 206376,
+            "type": 137,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:17.319207",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "photo",
+        "#relations": 1,
+        "max_relation_weight": 26.0,
+        "#nodes": 2,
+        "duration": "0:00:00.005898"
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 72257,
+            "name": "base",
+            "type": 1,
+            "w": 6437
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 63985,
+            "name": "bord",
+            "type": 1,
+            "w": 6847
+        },
+        {
+            "id": 145405,
+            "name": "bol",
+            "type": 1,
+            "w": 991
+        }
+    ],
+    "relations": [
+        {
+            "id": 72802210,
+            "node1": 145405,
+            "node2": 63985,
+            "type": 9,
+            "w": 33.0
+        },
+        {
+            "id": 1153742985,
+            "node1": 145405,
+            "node2": 72257,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 72802231,
+            "node1": 145405,
+            "node2": 119272,
+            "type": 9,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:03.955229",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "bol",
+        "#relations": 3,
+        "max_relation_weight": 37.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003763"
+    }
+}

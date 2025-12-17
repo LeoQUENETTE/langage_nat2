@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 15235,
+            "name": "type",
+            "type": 1,
+            "w": 7679
+        },
+        {
+            "id": 218312114,
+            "name": "taille du cadre",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 68256,
+            "name": "vélo",
+            "type": 1,
+            "w": 4506
+        },
+        {
+            "id": 123836,
+            "name": "poids",
+            "type": 1,
+            "w": 7289
+        },
+        {
+            "id": 293965716,
+            "name": "nombre de vitesses",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 766169406,
+            "node1": 68256,
+            "node2": 15235,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 766169407,
+            "node1": 68256,
+            "node2": 123836,
+            "type": 153,
+            "w": 45.0
+        },
+        {
+            "id": 766169408,
+            "node1": 68256,
+            "node2": 218312114,
+            "type": 153,
+            "w": 29.0
+        },
+        {
+            "id": 766169409,
+            "node1": 68256,
+            "node2": 293965716,
+            "type": 153,
+            "w": 37.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            153
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:54.474367",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "vélo",
+        "#relations": 4,
+        "max_relation_weight": 45.0,
+        "#nodes": 5,
+        "duration": "0:00:00.004548"
+    }
+}

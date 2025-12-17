@@ -1,0 +1,222 @@
+{
+    "nodes": [
+        {
+            "id": 15338773,
+            "name": "en:payment by cheque",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15448040,
+            "name": "en:check payment",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17822,
+            "name": "paiement",
+            "type": 1,
+            "w": 3973
+        },
+        {
+            "id": 61557,
+            "name": "réservation",
+            "type": 1,
+            "w": 1219
+        },
+        {
+            "id": 15226385,
+            "name": "payement par chèque",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15226386,
+            "name": "en:payment by check",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15448039,
+            "name": "en:cheque payment",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 52934,
+            "name": "commande",
+            "type": 1,
+            "w": 3706
+        },
+        {
+            "id": 107364,
+            "name": "dégustation",
+            "type": 1,
+            "w": 893
+        },
+        {
+            "id": 57470,
+            "name": "consommation",
+            "type": 1,
+            "w": 11101
+        },
+        {
+            "id": 20082,
+            "name": "client",
+            "type": 1,
+            "w": 7823
+        },
+        {
+            "id": 90734,
+            "name": "achat",
+            "type": 1,
+            "w": 3121
+        },
+        {
+            "id": 121729,
+            "name": "fidélisation",
+            "type": 1,
+            "w": 1315
+        },
+        {
+            "id": 321896,
+            "name": "paiement par chèque",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 268958,
+            "name": "règlement par chèque",
+            "type": 1,
+            "w": 57
+        }
+    ],
+    "relations": [
+        {
+            "id": 1150603787,
+            "node1": 20082,
+            "node2": 17822,
+            "type": 137,
+            "w": 87.0
+        },
+        {
+            "id": 720644611,
+            "node1": 20082,
+            "node2": 52934,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1026754019,
+            "node1": 20082,
+            "node2": 57470,
+            "type": 137,
+            "w": 30.0
+        },
+        {
+            "id": 720644610,
+            "node1": 20082,
+            "node2": 61557,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 474009859,
+            "node1": 20082,
+            "node2": 90734,
+            "type": 137,
+            "w": 23.0
+        },
+        {
+            "id": 1150416714,
+            "node1": 20082,
+            "node2": 107364,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1155624034,
+            "node1": 20082,
+            "node2": 121729,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 384631054,
+            "node1": 20082,
+            "node2": 268958,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 384631131,
+            "node1": 20082,
+            "node2": 321896,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 479289326,
+            "node1": 20082,
+            "node2": 15226385,
+            "type": 137,
+            "w": 27.0
+        },
+        {
+            "id": 479289322,
+            "node1": 20082,
+            "node2": 15226386,
+            "type": 137,
+            "w": 32.0
+        },
+        {
+            "id": 479289417,
+            "node1": 20082,
+            "node2": 15338773,
+            "type": 137,
+            "w": 34.0
+        },
+        {
+            "id": 479289413,
+            "node1": 20082,
+            "node2": 15448039,
+            "type": 137,
+            "w": 35.0
+        },
+        {
+            "id": 479289409,
+            "node1": 20082,
+            "node2": 15448040,
+            "type": 137,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:32.255290",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "client",
+        "#relations": 14,
+        "max_relation_weight": 87.0,
+        "#nodes": 15,
+        "duration": "0:00:00.007156"
+    }
+}

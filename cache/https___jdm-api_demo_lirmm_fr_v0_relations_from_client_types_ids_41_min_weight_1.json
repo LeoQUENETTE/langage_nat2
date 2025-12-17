@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 353973,
+            "name": "fidélisation des clients",
+            "type": 1,
+            "w": 129
+        },
+        {
+            "id": 20082,
+            "name": "client",
+            "type": 1,
+            "w": 7823
+        },
+        {
+            "id": 15625147,
+            "name": "retour de produit",
+            "type": 1,
+            "w": 33
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155624071,
+            "node1": 20082,
+            "node2": 353973,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1155624047,
+            "node1": 20082,
+            "node2": 15625147,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:32.898564",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "client",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.002893"
+    }
+}

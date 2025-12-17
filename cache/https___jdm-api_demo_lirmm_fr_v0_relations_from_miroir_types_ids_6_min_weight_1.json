@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 246870,
+            "name": "objet>109527",
+            "type": 1,
+            "w": 247
+        },
+        {
+            "id": 5425,
+            "name": "machine",
+            "type": 1,
+            "w": 7846
+        },
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6157
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9534
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5279
+        },
+        {
+            "id": 62788,
+            "name": "miroir",
+            "type": 1,
+            "w": 2743
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 6605,
+            "name": "instrument",
+            "type": 1,
+            "w": 5656
+        },
+        {
+            "id": 141964,
+            "name": "glace",
+            "type": 1,
+            "w": 5802
+        },
+        {
+            "id": 191674,
+            "name": "pièce de mobilier",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 261165,
+            "name": "objet décoratif",
+            "type": 1,
+            "w": 71
+        }
+    ],
+    "relations": [
+        {
+            "id": 937527738,
+            "node1": 62788,
+            "node2": 237,
+            "type": 6,
+            "w": 219.0
+        },
+        {
+            "id": 1127191938,
+            "node1": 62788,
+            "node2": 5425,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 600573,
+            "node1": 62788,
+            "node2": 6605,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 629194,
+            "node1": 62788,
+            "node2": 135190,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 1127191936,
+            "node1": 62788,
+            "node2": 135936,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 9901771,
+            "node1": 62788,
+            "node2": 141964,
+            "type": 6,
+            "w": 612.0
+        },
+        {
+            "id": 9901653,
+            "node1": 62788,
+            "node2": 144497,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 25428179,
+            "node1": 62788,
+            "node2": 191674,
+            "type": 6,
+            "w": 1.0
+        },
+        {
+            "id": 937527846,
+            "node1": 62788,
+            "node2": 246870,
+            "type": 6,
+            "w": 206.0
+        },
+        {
+            "id": 1017978572,
+            "node1": 62788,
+            "node2": 261165,
+            "type": 6,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:40:40.651089",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "miroir",
+        "#relations": 10,
+        "max_relation_weight": 612.0,
+        "#nodes": 11,
+        "duration": "0:00:00.015967"
+    }
+}

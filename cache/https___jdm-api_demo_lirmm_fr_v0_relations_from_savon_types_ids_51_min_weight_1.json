@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 15209049,
+            "name": "en:bar of soap",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 26608,
+            "name": "savon",
+            "type": 1,
+            "w": 1377
+        },
+        {
+            "id": 158745,
+            "name": "pain de savon",
+            "type": 1,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 376054719,
+            "node1": 26608,
+            "node2": 158745,
+            "type": 51,
+            "w": 32.0
+        },
+        {
+            "id": 514424483,
+            "node1": 26608,
+            "node2": 15209049,
+            "type": 51,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:02.264814",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "savon",
+        "#relations": 2,
+        "max_relation_weight": 32.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003425"
+    }
+}

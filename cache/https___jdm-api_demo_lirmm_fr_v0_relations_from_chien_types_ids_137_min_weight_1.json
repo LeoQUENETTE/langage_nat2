@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 103080,
+            "name": "gardien",
+            "type": 1,
+            "w": 2300
+        },
+        {
+            "id": 135544,
+            "name": "morsure",
+            "type": 1,
+            "w": 395
+        },
+        {
+            "id": 24773,
+            "name": "jappement",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 74558,
+            "name": "os",
+            "type": 1,
+            "w": 3560
+        },
+        {
+            "id": 246293899,
+            "name": "aboiement de garde",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 45543,
+            "name": "fidélité",
+            "type": 1,
+            "w": 1876
+        },
+        {
+            "id": 61085,
+            "name": "défécation",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 53455,
+            "name": "déféquer",
+            "type": 1,
+            "w": 164
+        },
+        {
+            "id": 16087,
+            "name": "garder",
+            "type": 1,
+            "w": 8190
+        },
+        {
+            "id": 44547,
+            "name": "garde",
+            "type": 1,
+            "w": 6612
+        },
+        {
+            "id": 127024,
+            "name": "aboiement",
+            "type": 1,
+            "w": 148
+        },
+        {
+            "id": 4455,
+            "name": "chien",
+            "type": 1,
+            "w": 8763
+        }
+    ],
+    "relations": [
+        {
+            "id": 1040288371,
+            "node1": 4455,
+            "node2": 16087,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 384631213,
+            "node1": 4455,
+            "node2": 24773,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1021809785,
+            "node1": 4455,
+            "node2": 44547,
+            "type": 137,
+            "w": 31.0
+        },
+        {
+            "id": 1150387273,
+            "node1": 4455,
+            "node2": 45543,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1033594365,
+            "node1": 4455,
+            "node2": 53455,
+            "type": 137,
+            "w": 29.0
+        },
+        {
+            "id": 1035037999,
+            "node1": 4455,
+            "node2": 61085,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1046577888,
+            "node1": 4455,
+            "node2": 74558,
+            "type": 137,
+            "w": 20.0
+        },
+        {
+            "id": 1032938084,
+            "node1": 4455,
+            "node2": 103080,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 384631203,
+            "node1": 4455,
+            "node2": 127024,
+            "type": 137,
+            "w": 104.0
+        },
+        {
+            "id": 1147915317,
+            "node1": 4455,
+            "node2": 135544,
+            "type": 137,
+            "w": 33.0
+        },
+        {
+            "id": 952391804,
+            "node1": 4455,
+            "node2": 246293899,
+            "type": 137,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:58.839198",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chien",
+        "#relations": 11,
+        "max_relation_weight": 104.0,
+        "#nodes": 12,
+        "duration": "0:00:00.020587"
+    }
+}

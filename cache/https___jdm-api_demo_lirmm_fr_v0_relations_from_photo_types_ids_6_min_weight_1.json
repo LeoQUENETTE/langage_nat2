@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 115857,
+            "name": "photojournalisme",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 142914,
+            "name": "image",
+            "type": 1,
+            "w": 11598
+        },
+        {
+            "id": 15361457,
+            "name": "en:attached document",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 65681,
+            "name": "PJ",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 26733181,
+            "name": "image>103150",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12888
+        },
+        {
+            "id": 5663,
+            "name": "processus",
+            "type": 1,
+            "w": 10872
+        },
+        {
+            "id": 1376,
+            "name": "photographie",
+            "type": 1,
+            "w": 5532
+        },
+        {
+            "id": 52442,
+            "name": "photo",
+            "type": 1,
+            "w": 4916
+        },
+        {
+            "id": 15420736,
+            "name": "en:enclosed document",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15272923,
+            "name": "en:time killer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 129277,
+            "name": "passe-temps",
+            "type": 1,
+            "w": 246
+        },
+        {
+            "id": 39383,
+            "name": "portrait",
+            "type": 1,
+            "w": 2784
+        },
+        {
+            "id": 6156,
+            "name": "pièce jointe",
+            "type": 1,
+            "w": 97
+        },
+        {
+            "id": 15203856,
+            "name": "en:Criminal Investigation Department",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15445981,
+            "name": "document joint",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 17387103,
+            "name": "PJ>6156",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 26733488,
+            "name": "image>103150>146545",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 294148,
+            "name": "macrophoto",
+            "type": 777,
+            "w": 50
+        }
+    ],
+    "relations": [
+        {
+            "id": 29332210,
+            "node1": 52442,
+            "node2": 1376,
+            "type": 6,
+            "w": 120.0
+        },
+        {
+            "id": 8814507,
+            "node1": 52442,
+            "node2": 5663,
+            "type": 6,
+            "w": 146.0
+        },
+        {
+            "id": 12392724,
+            "node1": 52442,
+            "node2": 6156,
+            "type": 6,
+            "w": 118.0
+        },
+        {
+            "id": 8814506,
+            "node1": 52442,
+            "node2": 39383,
+            "type": 6,
+            "w": 174.0
+        },
+        {
+            "id": 13603358,
+            "node1": 52442,
+            "node2": 65681,
+            "type": 6,
+            "w": 78.0
+        },
+        {
+            "id": 1158175556,
+            "node1": 52442,
+            "node2": 115857,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 8814508,
+            "node1": 52442,
+            "node2": 129277,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 629585,
+            "node1": 52442,
+            "node2": 135190,
+            "type": 6,
+            "w": 60.0
+        },
+        {
+            "id": 8814505,
+            "node1": 52442,
+            "node2": 142914,
+            "type": 6,
+            "w": 172.0
+        },
+        {
+            "id": 1158175557,
+            "node1": 52442,
+            "node2": 294148,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 597537165,
+            "node1": 52442,
+            "node2": 15203856,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 704773999,
+            "node1": 52442,
+            "node2": 15272923,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 600428440,
+            "node1": 52442,
+            "node2": 15361457,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 600428392,
+            "node1": 52442,
+            "node2": 15420736,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 612674290,
+            "node1": 52442,
+            "node2": 15445981,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 705239965,
+            "node1": 52442,
+            "node2": 17387103,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 542431315,
+            "node1": 52442,
+            "node2": 26733181,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 705383562,
+            "node1": 52442,
+            "node2": 26733488,
+            "type": 6,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:23:17.215467",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "photo",
+        "#relations": 18,
+        "max_relation_weight": 174.0,
+        "#nodes": 19,
+        "duration": "0:00:00.011208"
+    }
+}

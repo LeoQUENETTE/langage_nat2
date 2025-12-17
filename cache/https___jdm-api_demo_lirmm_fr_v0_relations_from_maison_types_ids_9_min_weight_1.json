@@ -1,0 +1,4447 @@
+{
+    "nodes": [
+        {
+            "id": 15527608,
+            "name": "en:glassdoor",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 158653,
+            "name": "horloge solaire",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 160862,
+            "name": "chambre d'ami",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 161335,
+            "name": "toît",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 162435,
+            "name": "tuile ronde",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 1773803,
+            "name": "w c",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 15499957,
+            "name": "en:premisses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15048148,
+            "name": "en:restroom",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 9432,
+            "name": "balais",
+            "type": 1,
+            "w": 102
+        },
+        {
+            "id": 2398458,
+            "name": "vagistas",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 143613,
+            "name": "porte",
+            "type": 1,
+            "w": 23804
+        },
+        {
+            "id": 140514,
+            "name": "lustre",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 307463884,
+            "name": "W C",
+            "type": 1,
+            "w": 33
+        },
+        {
+            "id": 113878,
+            "name": "colombage",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 118146,
+            "name": "plafond",
+            "type": 1,
+            "w": 728
+        },
+        {
+            "id": 94650,
+            "name": "évier",
+            "type": 1,
+            "w": 877
+        },
+        {
+            "id": 104250,
+            "name": "comptoir",
+            "type": 1,
+            "w": 340
+        },
+        {
+            "id": 15096173,
+            "name": "en:glass fiber",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14927214,
+            "name": "en:guestroom",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15072462,
+            "name": "en:crawl space",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15232090,
+            "name": "en:spare bedroom",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15232091,
+            "name": "en:spare room",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15316477,
+            "name": "en:wall papers",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 54226,
+            "name": "couette",
+            "type": 1,
+            "w": 965
+        },
+        {
+            "id": 94546371,
+            "name": "Horloge solaire",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 371971,
+            "name": "porte vitrée",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 2496939,
+            "name": "Jacuzzi",
+            "type": 1,
+            "w": 3
+        },
+        {
+            "id": 105302,
+            "name": "meubles",
+            "type": 1,
+            "w": 310
+        },
+        {
+            "id": 213555,
+            "name": "tuile>34148",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 314132,
+            "name": "petit coin>92836",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 213441,
+            "name": "coque>107150",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 149240,
+            "name": "murs",
+            "type": 1,
+            "w": 3194
+        },
+        {
+            "id": 14927213,
+            "name": "en:guest room",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14960513,
+            "name": "en:scene",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 127021,
+            "name": "débarras",
+            "type": 1,
+            "w": 178
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6925
+        },
+        {
+            "id": 130949,
+            "name": "vaisselle",
+            "type": 1,
+            "w": 1108
+        },
+        {
+            "id": 11568,
+            "name": "sanitaire",
+            "type": 1,
+            "w": 429
+        },
+        {
+            "id": 92679,
+            "name": "salon",
+            "type": 1,
+            "w": 3193
+        },
+        {
+            "id": 128721,
+            "name": "réfrigérateur",
+            "type": 1,
+            "w": 767
+        },
+        {
+            "id": 15068990,
+            "name": "en:Windows",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15418038,
+            "name": "en:glazed door",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15418039,
+            "name": "en:glass door",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 63455,
+            "name": "parpaing",
+            "type": 1,
+            "w": 138
+        },
+        {
+            "id": 267888,
+            "name": "chambre>152217>102000",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 45624,
+            "name": "frigo",
+            "type": 1,
+            "w": 1119
+        },
+        {
+            "id": 148961,
+            "name": "locaux",
+            "type": 1,
+            "w": 3675
+        },
+        {
+            "id": 45705,
+            "name": "marche",
+            "type": 1,
+            "w": 6387
+        },
+        {
+            "id": 19872,
+            "name": "étage",
+            "type": 1,
+            "w": 2883
+        },
+        {
+            "id": 213916,
+            "name": "bureau>96851",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 15466741,
+            "name": "en:reception arrangements",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5129,
+            "name": "abat-jour",
+            "type": 1,
+            "w": 147
+        },
+        {
+            "id": 43751,
+            "name": "armoire",
+            "type": 1,
+            "w": 1253
+        },
+        {
+            "id": 153920,
+            "name": "papier peint",
+            "type": 1,
+            "w": 105
+        },
+        {
+            "id": 142861,
+            "name": "vitre",
+            "type": 1,
+            "w": 1185
+        },
+        {
+            "id": 15228975,
+            "name": "en:cooking utensils",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 26597,
+            "name": "séjour",
+            "type": 1,
+            "w": 2902
+        },
+        {
+            "id": 36899,
+            "name": "meuble",
+            "type": 1,
+            "w": 1884
+        },
+        {
+            "id": 13727,
+            "name": "pavillon",
+            "type": 1,
+            "w": 1809
+        },
+        {
+            "id": 217715,
+            "name": "cuisinière>154055",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 132716,
+            "name": "baignoire",
+            "type": 1,
+            "w": 1085
+        },
+        {
+            "id": 115700,
+            "name": "poutre",
+            "type": 1,
+            "w": 310
+        },
+        {
+            "id": 154006,
+            "name": "chambre d'amis",
+            "type": 1,
+            "w": 134
+        },
+        {
+            "id": 7899,
+            "name": "habitation",
+            "type": 1,
+            "w": 1330
+        },
+        {
+            "id": 116113,
+            "name": "allée",
+            "type": 1,
+            "w": 415
+        },
+        {
+            "id": 62046,
+            "name": "chauffage",
+            "type": 1,
+            "w": 1811
+        },
+        {
+            "id": 15076258,
+            "name": "en:john",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 45179,
+            "name": "maison",
+            "type": 1,
+            "w": 37804
+        },
+        {
+            "id": 92836,
+            "name": "toilettes",
+            "type": 1,
+            "w": 1050
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11006
+        },
+        {
+            "id": 26585,
+            "name": "rez-de-chaussée",
+            "type": 1,
+            "w": 146
+        },
+        {
+            "id": 14938803,
+            "name": "en:wallpaper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 62868,
+            "name": "volet",
+            "type": 1,
+            "w": 567
+        },
+        {
+            "id": 15096174,
+            "name": "en:glass fibre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 6910,
+            "name": "coque",
+            "type": 1,
+            "w": 704
+        },
+        {
+            "id": 90053,
+            "name": "lavabo",
+            "type": 1,
+            "w": 768
+        },
+        {
+            "id": 91356,
+            "name": "pont",
+            "type": 1,
+            "w": 5272
+        },
+        {
+            "id": 41413,
+            "name": "parents",
+            "type": 1,
+            "w": 6741
+        },
+        {
+            "id": 238455,
+            "name": "porte>36820",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 7015587,
+            "name": "en:staircase",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142832,
+            "name": "souris",
+            "type": 1,
+            "w": 3164
+        },
+        {
+            "id": 144936,
+            "name": "mur",
+            "type": 1,
+            "w": 7257
+        },
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8723
+        },
+        {
+            "id": 14929059,
+            "name": "en:timber framing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15209969,
+            "name": "en:shower-room",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152329,
+            "name": "velux",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 62636,
+            "name": "sol",
+            "type": 1,
+            "w": 10945
+        },
+        {
+            "id": 15280058,
+            "name": "en:laundry room",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15352513,
+            "name": "en:harsh stone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14927212,
+            "name": "en:guest bedroom",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15198648,
+            "name": "en:kitchenware",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36911,
+            "name": "fondation",
+            "type": 1,
+            "w": 3753
+        },
+        {
+            "id": 2444765,
+            "name": "salle de douches",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 161823,
+            "name": "marche d'escalier",
+            "type": 1,
+            "w": 84
+        },
+        {
+            "id": 107896,
+            "name": "carreau",
+            "type": 1,
+            "w": 264
+        },
+        {
+            "id": 218888,
+            "name": "pont>30171",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 35676,
+            "name": "canapé",
+            "type": 1,
+            "w": 1309
+        },
+        {
+            "id": 15277480,
+            "name": "en:the can",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 215504,
+            "name": "lit>36899",
+            "type": 1,
+            "w": 280
+        },
+        {
+            "id": 71467,
+            "name": "télévision",
+            "type": 1,
+            "w": 6386
+        },
+        {
+            "id": 8254,
+            "name": "bureau",
+            "type": 1,
+            "w": 5973
+        },
+        {
+            "id": 90075,
+            "name": "chambre",
+            "type": 1,
+            "w": 12997
+        },
+        {
+            "id": 49928,
+            "name": "couverture",
+            "type": 1,
+            "w": 3238
+        },
+        {
+            "id": 135956,
+            "name": "lieux",
+            "type": 1,
+            "w": 4604
+        },
+        {
+            "id": 138419,
+            "name": "côté",
+            "type": 1,
+            "w": 11508
+        },
+        {
+            "id": 23235,
+            "name": "case",
+            "type": 1,
+            "w": 1678
+        },
+        {
+            "id": 232000,
+            "name": "bain à remous",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 144497,
+            "name": "verre",
+            "type": 1,
+            "w": 6156
+        },
+        {
+            "id": 71578,
+            "name": "lit",
+            "type": 1,
+            "w": 10116
+        },
+        {
+            "id": 232001,
+            "name": "bain bouillonnant",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 14944657,
+            "name": "en:jacuzzi",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 37271,
+            "name": "horloge",
+            "type": 1,
+            "w": 1596
+        },
+        {
+            "id": 15307499,
+            "name": "en:reception center",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14964866,
+            "name": "en:water closet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7575,
+            "name": "boîte",
+            "type": 1,
+            "w": 2847
+        },
+        {
+            "id": 92636,
+            "name": "bibliothèque",
+            "type": 1,
+            "w": 4638
+        },
+        {
+            "id": 50668257,
+            "name": "en:sh*tter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94596,
+            "name": "logement",
+            "type": 1,
+            "w": 3083
+        },
+        {
+            "id": 134886,
+            "name": "plomberie",
+            "type": 1,
+            "w": 456
+        },
+        {
+            "id": 125506,
+            "name": "électricité",
+            "type": 1,
+            "w": 5295
+        },
+        {
+            "id": 153200,
+            "name": "pierre ponce",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 109908,
+            "name": "sous-sol",
+            "type": 1,
+            "w": 572
+        },
+        {
+            "id": 151975,
+            "name": "appartements",
+            "type": 1,
+            "w": 241
+        },
+        {
+            "id": 46123,
+            "name": "combles",
+            "type": 1,
+            "w": 116
+        },
+        {
+            "id": 120416,
+            "name": "grenier",
+            "type": 1,
+            "w": 709
+        },
+        {
+            "id": 150,
+            "name": "chat",
+            "type": 1,
+            "w": 7223
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 22885,
+            "name": "culture",
+            "type": 1,
+            "w": 48307
+        },
+        {
+            "id": 216464,
+            "name": "couverture>51196",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 98300,
+            "name": "famille",
+            "type": 1,
+            "w": 26902
+        },
+        {
+            "id": 152945,
+            "name": "salle d'eau",
+            "type": 1,
+            "w": 182
+        },
+        {
+            "id": 41894,
+            "name": "brique",
+            "type": 1,
+            "w": 549
+        },
+        {
+            "id": 11651,
+            "name": "clou",
+            "type": 1,
+            "w": 918
+        },
+        {
+            "id": 48860,
+            "name": "poupe",
+            "type": 1,
+            "w": 181
+        },
+        {
+            "id": 217664,
+            "name": "pierre>29208",
+            "type": 1,
+            "w": 116
+        },
+        {
+            "id": 16033,
+            "name": "cuisine",
+            "type": 1,
+            "w": 16377
+        },
+        {
+            "id": 7329837,
+            "name": "en:dressing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 43922,
+            "name": "buffet",
+            "type": 1,
+            "w": 449
+        },
+        {
+            "id": 35925,
+            "name": "terrain",
+            "type": 1,
+            "w": 7227
+        },
+        {
+            "id": 61208,
+            "name": "valet",
+            "type": 1,
+            "w": 306
+        },
+        {
+            "id": 396408,
+            "name": "façade>98040",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 130361,
+            "name": "garage",
+            "type": 1,
+            "w": 1406
+        },
+        {
+            "id": 133172,
+            "name": "poulailler",
+            "type": 1,
+            "w": 425
+        },
+        {
+            "id": 115622,
+            "name": "verrou",
+            "type": 1,
+            "w": 490
+        },
+        {
+            "id": 119686,
+            "name": "poêle",
+            "type": 1,
+            "w": 394
+        },
+        {
+            "id": 153429,
+            "name": "portes",
+            "type": 1,
+            "w": 3454
+        },
+        {
+            "id": 161627,
+            "name": "wc",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 139209,
+            "name": "salle",
+            "type": 1,
+            "w": 6566
+        },
+        {
+            "id": 16813,
+            "name": "trône",
+            "type": 1,
+            "w": 3492
+        },
+        {
+            "id": 136293,
+            "name": "châssis",
+            "type": 1,
+            "w": 283
+        },
+        {
+            "id": 223607,
+            "name": "fondation>98040",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 34148,
+            "name": "toit",
+            "type": 1,
+            "w": 3941
+        },
+        {
+            "id": 116350,
+            "name": "euro",
+            "type": 1,
+            "w": 5551
+        },
+        {
+            "id": 40184,
+            "name": "siège",
+            "type": 1,
+            "w": 5052
+        },
+        {
+            "id": 68596,
+            "name": "taule",
+            "type": 1,
+            "w": 99
+        },
+        {
+            "id": 58561,
+            "name": "affaires",
+            "type": 1,
+            "w": 5329
+        },
+        {
+            "id": 15082432,
+            "name": "en:cookware",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15335060,
+            "name": "en:set of kitchen utensils",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 53536792,
+            "name": "en:w/c",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57808,
+            "name": "portail",
+            "type": 1,
+            "w": 1394
+        },
+        {
+            "id": 87005,
+            "name": "étages",
+            "type": 1,
+            "w": 1793
+        },
+        {
+            "id": 101747,
+            "name": "buanderie",
+            "type": 1,
+            "w": 185
+        },
+        {
+            "id": 14936364,
+            "name": "en:stairway",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 26530,
+            "name": "cloison",
+            "type": 1,
+            "w": 383
+        },
+        {
+            "id": 12079134,
+            "name": "frigo américain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 96851,
+            "name": "pièce",
+            "type": 1,
+            "w": 8424
+        },
+        {
+            "id": 9190,
+            "name": "four",
+            "type": 1,
+            "w": 2862
+        },
+        {
+            "id": 48943,
+            "name": "aspirateur",
+            "type": 1,
+            "w": 647
+        },
+        {
+            "id": 152733,
+            "name": "salle de bain",
+            "type": 1,
+            "w": 1479
+        },
+        {
+            "id": 59340,
+            "name": "sanitaires",
+            "type": 1,
+            "w": 338
+        },
+        {
+            "id": 152034,
+            "name": "laine de verre",
+            "type": 1,
+            "w": 182
+        },
+        {
+            "id": 136771,
+            "name": "WC",
+            "type": 1,
+            "w": 565
+        },
+        {
+            "id": 153945,
+            "name": "échaffaudage",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 10834444,
+            "name": "caractéristique physique",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 14960076,
+            "name": "en:shower room",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 50646786,
+            "name": "C.R.A",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 123521,
+            "name": "water-closet",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15416533,
+            "name": "en:chambers",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7606647,
+            "name": "en:roof",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 159829,
+            "name": "cage d'escalier",
+            "type": 1,
+            "w": 186
+        },
+        {
+            "id": 80604,
+            "name": "batterie de cuisine",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 213466,
+            "name": "chat>63235",
+            "type": 1,
+            "w": 683
+        },
+        {
+            "id": 213632,
+            "name": "meuble>237",
+            "type": 1,
+            "w": 283
+        },
+        {
+            "id": 26519,
+            "name": "robinet",
+            "type": 1,
+            "w": 802
+        },
+        {
+            "id": 591105,
+            "name": "grenier>46123",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 14925618,
+            "name": "en:sundial",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152217,
+            "name": "chambre à coucher",
+            "type": 1,
+            "w": 373
+        },
+        {
+            "id": 591331,
+            "name": "w/c",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15448457,
+            "name": "W.-C.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 307459577,
+            "name": "W. - C",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15251537,
+            "name": "en:shit house",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2511898,
+            "name": "W.C.",
+            "type": 1,
+            "w": 7
+        },
+        {
+            "id": 210065,
+            "name": "W. - C.",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 159983,
+            "name": "chambres",
+            "type": 1,
+            "w": 2252
+        },
+        {
+            "id": 220674,
+            "name": "cave>109908",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 79169,
+            "name": "rampe",
+            "type": 1,
+            "w": 349
+        },
+        {
+            "id": 142299,
+            "name": "W.-C",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 77771,
+            "name": "petit coin",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 14925532,
+            "name": "en:loo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925533,
+            "name": "en:toilet",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 14925534,
+            "name": "en:WC",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 81235,
+            "name": "w.-c",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 563,
+            "name": "grille",
+            "type": 1,
+            "w": 1851
+        },
+        {
+            "id": 7929,
+            "name": "cadran solaire",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 25428,
+            "name": "vasistas",
+            "type": 1,
+            "w": 131
+        },
+        {
+            "id": 26291,
+            "name": "commode",
+            "type": 1,
+            "w": 459
+        },
+        {
+            "id": 30142,
+            "name": "w.c",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 37321,
+            "name": "véranda",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 42193,
+            "name": "lavatory",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 252387,
+            "name": "pièce climatisée",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 152568,
+            "name": "tuiles",
+            "type": 1,
+            "w": 200
+        },
+        {
+            "id": 94560,
+            "name": "cellier",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 94933,
+            "name": "chiottes",
+            "type": 1,
+            "w": 342
+        },
+        {
+            "id": 98529,
+            "name": "contrevent",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 107932,
+            "name": "living-room",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 117149,
+            "name": "loquet",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 7076624,
+            "name": "en:pumice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15352511,
+            "name": "en:pumice stone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 130627,
+            "name": "lavabos",
+            "type": 1,
+            "w": 77
+        },
+        {
+            "id": 145356,
+            "name": "W.C",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 153879,
+            "name": "poele",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 162772,
+            "name": "armoire frigorifique",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 166074,
+            "name": "maison de redressement",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 213414,
+            "name": "fenêtre>36820",
+            "type": 1,
+            "w": 92
+        },
+        {
+            "id": 217880,
+            "name": "garage>145738",
+            "type": 1,
+            "w": 96
+        },
+        {
+            "id": 224901,
+            "name": "vide sanitaire",
+            "type": 666,
+            "w": 9
+        },
+        {
+            "id": 233403,
+            "name": "camp de détention",
+            "type": 1,
+            "w": 61
+        },
+        {
+            "id": 256780,
+            "name": "toit>51196",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 82414,
+            "name": "drap",
+            "type": 1,
+            "w": 1421
+        },
+        {
+            "id": 218671,
+            "name": "antenne>8216",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 341232,
+            "name": "canalisation en plastique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 7096384,
+            "name": "en:refrigerator",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428333,
+            "name": "en:side by side fridge-freezer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428332,
+            "name": "en:American-style fridge-freezer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428334,
+            "name": "en:American fridge-freezer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104130,
+            "name": "antenne",
+            "type": 1,
+            "w": 1203
+        },
+        {
+            "id": 15282071,
+            "name": "en:premises",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 2079548,
+            "name": "parpaings",
+            "type": 2,
+            "w": 4
+        },
+        {
+            "id": 100432,
+            "name": "intérieur",
+            "type": 1,
+            "w": 8650
+        },
+        {
+            "id": 7322501,
+            "name": "en:whirlpool bath",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15211640,
+            "name": "en:spa bath",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15305358,
+            "name": "whirlpool",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 179693,
+            "name": "w.-c.",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 30371,
+            "name": "cour",
+            "type": 1,
+            "w": 7436
+        },
+        {
+            "id": 5246874,
+            "name": "réfrigérateur américain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 98305,
+            "name": "cagibi",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 141906,
+            "name": "fenêtre",
+            "type": 1,
+            "w": 6151
+        },
+        {
+            "id": 12717,
+            "name": "balcon",
+            "type": 1,
+            "w": 424
+        },
+        {
+            "id": 89591,
+            "name": "table",
+            "type": 1,
+            "w": 8198
+        },
+        {
+            "id": 14935827,
+            "name": "en:physical feature",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 25008,
+            "name": "pierre",
+            "type": 1,
+            "w": 9642
+        },
+        {
+            "id": 214276,
+            "name": "cuisine>96851",
+            "type": 1,
+            "w": 432
+        },
+        {
+            "id": 68115,
+            "name": "waters",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 151541,
+            "name": "rideaux",
+            "type": 1,
+            "w": 131
+        },
+        {
+            "id": 59893,
+            "name": "entrée",
+            "type": 1,
+            "w": 6115
+        },
+        {
+            "id": 7223171,
+            "name": "en:toilet facilities",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7420622,
+            "name": "en:stair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 57483,
+            "name": "canalisation",
+            "type": 1,
+            "w": 289
+        },
+        {
+            "id": 133795,
+            "name": "mobilier",
+            "type": 1,
+            "w": 672
+        },
+        {
+            "id": 104756,
+            "name": "cave",
+            "type": 1,
+            "w": 1141
+        },
+        {
+            "id": 216173,
+            "name": "pièce>139209",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 10561,
+            "name": "douche",
+            "type": 1,
+            "w": 1588
+        },
+        {
+            "id": 139467,
+            "name": "cale",
+            "type": 1,
+            "w": 169
+        },
+        {
+            "id": 146144,
+            "name": "tasse",
+            "type": 1,
+            "w": 1179
+        },
+        {
+            "id": 9120871,
+            "name": "en:lavatory",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 218910,
+            "name": "système de sécurité",
+            "type": 1,
+            "w": 164
+        },
+        {
+            "id": 9755164,
+            "name": "Étages",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 42842,
+            "name": "gaine",
+            "type": 1,
+            "w": 143
+        },
+        {
+            "id": 78345,
+            "name": "sortie",
+            "type": 1,
+            "w": 4995
+        },
+        {
+            "id": 112545,
+            "name": "locataire",
+            "type": 1,
+            "w": 1730
+        },
+        {
+            "id": 154803,
+            "name": "briques",
+            "type": 1,
+            "w": 721
+        },
+        {
+            "id": 24107,
+            "name": "échafaudage",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 4328076,
+            "name": "salle>96851",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 144818,
+            "name": "maison d'arrêt",
+            "type": 1,
+            "w": 258
+        },
+        {
+            "id": 212013,
+            "name": "structure d'accueil",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 15441112,
+            "name": "en:facilities",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14928034,
+            "name": "en:shithouse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14936365,
+            "name": "en:steps",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14946841,
+            "name": "en:door latch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14947386,
+            "name": "en:house of correction",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14965080,
+            "name": "en:whirlpool",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15050128,
+            "name": "en:fibreglass",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15050129,
+            "name": "en:fiberglass",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15068924,
+            "name": "en:washroom",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15073451,
+            "name": "en:french window",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15073452,
+            "name": "en:French window",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15088479,
+            "name": "en:French door",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15093081,
+            "name": "en:glass wool",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15106694,
+            "name": "en:W.C.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15216216,
+            "name": "cabinet d'aisances",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 15310407,
+            "name": "en:sash door",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134141,
+            "name": "dressing",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 139194,
+            "name": "toilette",
+            "type": 1,
+            "w": 497
+        },
+        {
+            "id": 15428577,
+            "name": "en:dunny",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15441113,
+            "name": "en:toilets",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 155683,
+            "name": "salle de bains",
+            "type": 1,
+            "w": 324
+        },
+        {
+            "id": 158275,
+            "name": "porte d'entrée",
+            "type": 1,
+            "w": 228
+        },
+        {
+            "id": 15787138,
+            "name": "en:loci",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16027030,
+            "name": "w.c.",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 61285,
+            "name": "interrupteur",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 80488,
+            "name": "porte-fenêtre",
+            "type": 1,
+            "w": 135
+        },
+        {
+            "id": 47354,
+            "name": "hall",
+            "type": 1,
+            "w": 279
+        },
+        {
+            "id": 207418,
+            "name": "Salon",
+            "type": 1,
+            "w": 1815
+        },
+        {
+            "id": 11272,
+            "name": "marches",
+            "type": 1,
+            "w": 189
+        },
+        {
+            "id": 95628944,
+            "name": "Fibre de verre",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102123,
+            "name": "façade",
+            "type": 1,
+            "w": 2627
+        },
+        {
+            "id": 80522,
+            "name": "jacuzzi",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 36816,
+            "name": "fibre de verre",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 8763,
+            "name": "salle à manger",
+            "type": 1,
+            "w": 1163
+        },
+        {
+            "id": 157511,
+            "name": "chaises",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 173777766,
+            "name": "Papier peint",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 216042,
+            "name": "table>36899",
+            "type": 1,
+            "w": 252
+        },
+        {
+            "id": 118696,
+            "name": "ustensiles de cuisine",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 21754,
+            "name": "cendrier",
+            "type": 1,
+            "w": 379
+        },
+        {
+            "id": 25769,
+            "name": "bordel",
+            "type": 1,
+            "w": 1022
+        },
+        {
+            "id": 155908,
+            "name": "fenêtres",
+            "type": 1,
+            "w": 1574
+        },
+        {
+            "id": 73061,
+            "name": "lampe",
+            "type": 1,
+            "w": 1546
+        },
+        {
+            "id": 134788,
+            "name": "couloir",
+            "type": 1,
+            "w": 670
+        },
+        {
+            "id": 11195,
+            "name": "banquette",
+            "type": 1,
+            "w": 161
+        },
+        {
+            "id": 143548,
+            "name": "cheminée",
+            "type": 1,
+            "w": 1400
+        },
+        {
+            "id": 139869,
+            "name": "charpente",
+            "type": 1,
+            "w": 414
+        },
+        {
+            "id": 51196,
+            "name": "toiture",
+            "type": 1,
+            "w": 516
+        },
+        {
+            "id": 21988,
+            "name": "moulin",
+            "type": 1,
+            "w": 1831
+        },
+        {
+            "id": 146155,
+            "name": "granit",
+            "type": 1,
+            "w": 183
+        },
+        {
+            "id": 52141,
+            "name": "proue",
+            "type": 1,
+            "w": 265
+        },
+        {
+            "id": 126762,
+            "name": "placard",
+            "type": 1,
+            "w": 1051
+        },
+        {
+            "id": 226984,
+            "name": "chambre>152217",
+            "type": 1,
+            "w": 196
+        },
+        {
+            "id": 108952,
+            "name": "baie",
+            "type": 1,
+            "w": 2728
+        },
+        {
+            "id": 19653,
+            "name": "frigidaire",
+            "type": 1,
+            "w": 414
+        },
+        {
+            "id": 81320,
+            "name": "escalier",
+            "type": 1,
+            "w": 2777
+        },
+        {
+            "id": 152301,
+            "name": "plan de travail",
+            "type": 1,
+            "w": 146
+        },
+        {
+            "id": 141161,
+            "name": "tuile",
+            "type": 1,
+            "w": 381
+        },
+        {
+            "id": 258687,
+            "name": "chaise>40184",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 225919,
+            "name": "mur>63281",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 140583,
+            "name": "parent",
+            "type": 1,
+            "w": 4644
+        },
+        {
+            "id": 132857,
+            "name": "chaise",
+            "type": 1,
+            "w": 3934
+        },
+        {
+            "id": 13047636,
+            "name": "en:reform school",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413560,
+            "name": "en:juvie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 36820,
+            "name": "ouverture",
+            "type": 1,
+            "w": 4335
+        },
+        {
+            "id": 125533,
+            "name": "terrasse",
+            "type": 1,
+            "w": 703
+        }
+    ],
+    "relations": [
+        {
+            "id": 10534042,
+            "node1": 45179,
+            "node2": 150,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24932249,
+            "node1": 45179,
+            "node2": 563,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 9971533,
+            "node1": 45179,
+            "node2": 5129,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24932271,
+            "node1": 45179,
+            "node2": 6910,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 9971694,
+            "node1": 45179,
+            "node2": 7575,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9974637,
+            "node1": 45179,
+            "node2": 7899,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10533365,
+            "node1": 45179,
+            "node2": 7929,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 8996602,
+            "node1": 45179,
+            "node2": 8254,
+            "type": 9,
+            "w": 245.0
+        },
+        {
+            "id": 230999,
+            "node1": 45179,
+            "node2": 8763,
+            "type": 9,
+            "w": 126.0
+        },
+        {
+            "id": 9971214,
+            "node1": 45179,
+            "node2": 9190,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 24920345,
+            "node1": 45179,
+            "node2": 9432,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 2069000,
+            "node1": 45179,
+            "node2": 10561,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 10529145,
+            "node1": 45179,
+            "node2": 11195,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 288425788,
+            "node1": 45179,
+            "node2": 11272,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 9975693,
+            "node1": 45179,
+            "node2": 11568,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9970982,
+            "node1": 45179,
+            "node2": 11651,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10530852,
+            "node1": 45179,
+            "node2": 12717,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 24932229,
+            "node1": 45179,
+            "node2": 13727,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 80050,
+            "node1": 45179,
+            "node2": 16033,
+            "type": 9,
+            "w": 438.0
+        },
+        {
+            "id": 24932253,
+            "node1": 45179,
+            "node2": 16813,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 14714966,
+            "node1": 45179,
+            "node2": 19653,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 9970788,
+            "node1": 45179,
+            "node2": 19872,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 9972734,
+            "node1": 45179,
+            "node2": 21754,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9974730,
+            "node1": 45179,
+            "node2": 21988,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9972817,
+            "node1": 45179,
+            "node2": 22885,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24932247,
+            "node1": 45179,
+            "node2": 23235,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 10561938,
+            "node1": 45179,
+            "node2": 24107,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 9970734,
+            "node1": 45179,
+            "node2": 25008,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9974469,
+            "node1": 45179,
+            "node2": 25428,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24932235,
+            "node1": 45179,
+            "node2": 25769,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 10528874,
+            "node1": 45179,
+            "node2": 26291,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 9973447,
+            "node1": 45179,
+            "node2": 26519,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 9971265,
+            "node1": 45179,
+            "node2": 26530,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 24932215,
+            "node1": 45179,
+            "node2": 26585,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 24930686,
+            "node1": 45179,
+            "node2": 26597,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 29217539,
+            "node1": 45179,
+            "node2": 30142,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 9975570,
+            "node1": 45179,
+            "node2": 30371,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 103044,
+            "node1": 45179,
+            "node2": 34148,
+            "type": 9,
+            "w": 667.0
+        },
+        {
+            "id": 24931302,
+            "node1": 45179,
+            "node2": 35676,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 24932248,
+            "node1": 45179,
+            "node2": 35925,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 436506966,
+            "node1": 45179,
+            "node2": 36816,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 10529585,
+            "node1": 45179,
+            "node2": 36820,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 9971969,
+            "node1": 45179,
+            "node2": 36899,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 97835579,
+            "node1": 45179,
+            "node2": 36911,
+            "type": 9,
+            "w": 45.0
+        },
+        {
+            "id": 10529055,
+            "node1": 45179,
+            "node2": 37271,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 1057912358,
+            "node1": 45179,
+            "node2": 37321,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 9974485,
+            "node1": 45179,
+            "node2": 40184,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24932225,
+            "node1": 45179,
+            "node2": 41413,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 9970861,
+            "node1": 45179,
+            "node2": 41894,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 618831360,
+            "node1": 45179,
+            "node2": 42193,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 9971318,
+            "node1": 45179,
+            "node2": 42842,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9973997,
+            "node1": 45179,
+            "node2": 43751,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 24932617,
+            "node1": 45179,
+            "node2": 43922,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 9973159,
+            "node1": 45179,
+            "node2": 45624,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 9970969,
+            "node1": 45179,
+            "node2": 45705,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24920350,
+            "node1": 45179,
+            "node2": 46123,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 24930057,
+            "node1": 45179,
+            "node2": 47354,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 108420915,
+            "node1": 45179,
+            "node2": 48860,
+            "type": 9,
+            "w": 23.0
+        },
+        {
+            "id": 24920344,
+            "node1": 45179,
+            "node2": 48943,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 10528316,
+            "node1": 45179,
+            "node2": 49928,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 9973231,
+            "node1": 45179,
+            "node2": 51196,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 108420938,
+            "node1": 45179,
+            "node2": 52141,
+            "type": 9,
+            "w": 24.0
+        },
+        {
+            "id": 10528215,
+            "node1": 45179,
+            "node2": 54226,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 9971410,
+            "node1": 45179,
+            "node2": 57483,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10528663,
+            "node1": 45179,
+            "node2": 57808,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 10567448,
+            "node1": 45179,
+            "node2": 58561,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 1055126059,
+            "node1": 45179,
+            "node2": 59340,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 155573,
+            "node1": 45179,
+            "node2": 59893,
+            "type": 9,
+            "w": 124.0
+        },
+        {
+            "id": 9973820,
+            "node1": 45179,
+            "node2": 61208,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9975169,
+            "node1": 45179,
+            "node2": 61285,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24930693,
+            "node1": 45179,
+            "node2": 62046,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 12801676,
+            "node1": 45179,
+            "node2": 62636,
+            "type": 9,
+            "w": 49.0
+        },
+        {
+            "id": 9974273,
+            "node1": 45179,
+            "node2": 62868,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 260054529,
+            "node1": 45179,
+            "node2": 63455,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 473076991,
+            "node1": 45179,
+            "node2": 68115,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 24932217,
+            "node1": 45179,
+            "node2": 68596,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 24930692,
+            "node1": 45179,
+            "node2": 71467,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 9970821,
+            "node1": 45179,
+            "node2": 71578,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 10536211,
+            "node1": 45179,
+            "node2": 73061,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 11933100,
+            "node1": 45179,
+            "node2": 77771,
+            "type": 9,
+            "w": 71.0
+        },
+        {
+            "id": 24932209,
+            "node1": 45179,
+            "node2": 78345,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 9971244,
+            "node1": 45179,
+            "node2": 79169,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9972875,
+            "node1": 45179,
+            "node2": 80488,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10562696,
+            "node1": 45179,
+            "node2": 80522,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 10533910,
+            "node1": 45179,
+            "node2": 80604,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24965097,
+            "node1": 45179,
+            "node2": 81235,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 103042,
+            "node1": 45179,
+            "node2": 81320,
+            "type": 9,
+            "w": 109.0
+        },
+        {
+            "id": 9970759,
+            "node1": 45179,
+            "node2": 82414,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10527271,
+            "node1": 45179,
+            "node2": 87005,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24920460,
+            "node1": 45179,
+            "node2": 89591,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 9972528,
+            "node1": 45179,
+            "node2": 90053,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 79910,
+            "node1": 45179,
+            "node2": 90075,
+            "type": 9,
+            "w": 517.0
+        },
+        {
+            "id": 108420839,
+            "node1": 45179,
+            "node2": 91356,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 9971385,
+            "node1": 45179,
+            "node2": 92636,
+            "type": 9,
+            "w": 122.0
+        },
+        {
+            "id": 80053,
+            "node1": 45179,
+            "node2": 92679,
+            "type": 9,
+            "w": 410.0
+        },
+        {
+            "id": 390694,
+            "node1": 45179,
+            "node2": 92836,
+            "type": 9,
+            "w": 314.0
+        },
+        {
+            "id": 24920190,
+            "node1": 45179,
+            "node2": 94560,
+            "type": 9,
+            "w": 148.0
+        },
+        {
+            "id": 9972496,
+            "node1": 45179,
+            "node2": 94596,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9970798,
+            "node1": 45179,
+            "node2": 94650,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 11933359,
+            "node1": 45179,
+            "node2": 94933,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 9970528,
+            "node1": 45179,
+            "node2": 96256,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 79906,
+            "node1": 45179,
+            "node2": 96851,
+            "type": 9,
+            "w": 192.0
+        },
+        {
+            "id": 24932233,
+            "node1": 45179,
+            "node2": 98300,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 24920505,
+            "node1": 45179,
+            "node2": 98305,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 24932237,
+            "node1": 45179,
+            "node2": 98529,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 10526981,
+            "node1": 45179,
+            "node2": 100432,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 24919952,
+            "node1": 45179,
+            "node2": 101747,
+            "type": 9,
+            "w": 133.0
+        },
+        {
+            "id": 24932250,
+            "node1": 45179,
+            "node2": 102123,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 9971909,
+            "node1": 45179,
+            "node2": 104130,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 24932254,
+            "node1": 45179,
+            "node2": 104250,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 105890,
+            "node1": 45179,
+            "node2": 104756,
+            "type": 9,
+            "w": 195.0
+        },
+        {
+            "id": 24920449,
+            "node1": 45179,
+            "node2": 105302,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 9972057,
+            "node1": 45179,
+            "node2": 107896,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 255917249,
+            "node1": 45179,
+            "node2": 107932,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 10533889,
+            "node1": 45179,
+            "node2": 108952,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 426714741,
+            "node1": 45179,
+            "node2": 109908,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10536334,
+            "node1": 45179,
+            "node2": 112545,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 98593046,
+            "node1": 45179,
+            "node2": 113878,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 9972072,
+            "node1": 45179,
+            "node2": 115622,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9970761,
+            "node1": 45179,
+            "node2": 115700,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10527552,
+            "node1": 45179,
+            "node2": 116113,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 10563891,
+            "node1": 45179,
+            "node2": 116350,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 9971794,
+            "node1": 45179,
+            "node2": 117149,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9973617,
+            "node1": 45179,
+            "node2": 118146,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 413563423,
+            "node1": 45179,
+            "node2": 118696,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 34657434,
+            "node1": 45179,
+            "node2": 119686,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 105893,
+            "node1": 45179,
+            "node2": 120416,
+            "type": 9,
+            "w": 198.0
+        },
+        {
+            "id": 873593528,
+            "node1": 45179,
+            "node2": 123521,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 9971055,
+            "node1": 45179,
+            "node2": 125506,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24920521,
+            "node1": 45179,
+            "node2": 125533,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 9971911,
+            "node1": 45179,
+            "node2": 126762,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 10562644,
+            "node1": 45179,
+            "node2": 127021,
+            "type": 9,
+            "w": 123.0
+        },
+        {
+            "id": 14714974,
+            "node1": 45179,
+            "node2": 128721,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 155574,
+            "node1": 45179,
+            "node2": 130361,
+            "type": 9,
+            "w": 202.0
+        },
+        {
+            "id": 977079925,
+            "node1": 45179,
+            "node2": 130627,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 9975382,
+            "node1": 45179,
+            "node2": 130949,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 255917248,
+            "node1": 45179,
+            "node2": 132716,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 9970463,
+            "node1": 45179,
+            "node2": 132857,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 9971288,
+            "node1": 45179,
+            "node2": 133172,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 427555,
+            "node1": 45179,
+            "node2": 133795,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 24933209,
+            "node1": 45179,
+            "node2": 134141,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 10530019,
+            "node1": 45179,
+            "node2": 134218,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 24920068,
+            "node1": 45179,
+            "node2": 134788,
+            "type": 9,
+            "w": 140.0
+        },
+        {
+            "id": 10530956,
+            "node1": 45179,
+            "node2": 134886,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 600839331,
+            "node1": 45179,
+            "node2": 135956,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 277768334,
+            "node1": 45179,
+            "node2": 136293,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 207848,
+            "node1": 45179,
+            "node2": 136771,
+            "type": 9,
+            "w": 71.0
+        },
+        {
+            "id": 10533208,
+            "node1": 45179,
+            "node2": 138419,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 9972016,
+            "node1": 45179,
+            "node2": 139194,
+            "type": 9,
+            "w": 38.0
+        },
+        {
+            "id": 9971781,
+            "node1": 45179,
+            "node2": 139209,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 108420752,
+            "node1": 45179,
+            "node2": 139467,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 80056,
+            "node1": 45179,
+            "node2": 139575,
+            "type": 9,
+            "w": 67.0
+        },
+        {
+            "id": 9970541,
+            "node1": 45179,
+            "node2": 139869,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 9972571,
+            "node1": 45179,
+            "node2": 140514,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 24932226,
+            "node1": 45179,
+            "node2": 140583,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 9972634,
+            "node1": 45179,
+            "node2": 141161,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 155575,
+            "node1": 45179,
+            "node2": 141906,
+            "type": 9,
+            "w": 443.0
+        },
+        {
+            "id": 54455761,
+            "node1": 45179,
+            "node2": 142299,
+            "type": 9,
+            "w": 45.0
+        },
+        {
+            "id": 10527978,
+            "node1": 45179,
+            "node2": 142832,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 9971132,
+            "node1": 45179,
+            "node2": 142861,
+            "type": 9,
+            "w": 21.0
+        },
+        {
+            "id": 105888,
+            "node1": 45179,
+            "node2": 143548,
+            "type": 9,
+            "w": 118.0
+        },
+        {
+            "id": 79909,
+            "node1": 45179,
+            "node2": 143613,
+            "type": 9,
+            "w": 290.0
+        },
+        {
+            "id": 948430927,
+            "node1": 45179,
+            "node2": 144497,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 775517282,
+            "node1": 45179,
+            "node2": 144818,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 79903,
+            "node1": 45179,
+            "node2": 144936,
+            "type": 9,
+            "w": 183.0
+        },
+        {
+            "id": 29217534,
+            "node1": 45179,
+            "node2": 145356,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 9974409,
+            "node1": 45179,
+            "node2": 146144,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 10564246,
+            "node1": 45179,
+            "node2": 146155,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 534701274,
+            "node1": 45179,
+            "node2": 148961,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 20034303,
+            "node1": 45179,
+            "node2": 149240,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 10528400,
+            "node1": 45179,
+            "node2": 151541,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 299576071,
+            "node1": 45179,
+            "node2": 151975,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 429605,
+            "node1": 45179,
+            "node2": 152034,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 11933102,
+            "node1": 45179,
+            "node2": 152217,
+            "type": 9,
+            "w": 58.0
+        },
+        {
+            "id": 9970752,
+            "node1": 45179,
+            "node2": 152301,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 9971998,
+            "node1": 45179,
+            "node2": 152329,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 260055144,
+            "node1": 45179,
+            "node2": 152568,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 123560,
+            "node1": 45179,
+            "node2": 152733,
+            "type": 9,
+            "w": 313.0
+        },
+        {
+            "id": 361507465,
+            "node1": 45179,
+            "node2": 152945,
+            "type": 9,
+            "w": 61.0
+        },
+        {
+            "id": 10564131,
+            "node1": 45179,
+            "node2": 153200,
+            "type": 9,
+            "w": 31.0
+        },
+        {
+            "id": 1131446328,
+            "node1": 45179,
+            "node2": 153429,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 10533076,
+            "node1": 45179,
+            "node2": 153879,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 9974173,
+            "node1": 45179,
+            "node2": 153920,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 98430845,
+            "node1": 45179,
+            "node2": 153945,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 24919957,
+            "node1": 45179,
+            "node2": 154006,
+            "type": 9,
+            "w": 96.0
+        },
+        {
+            "id": 260053735,
+            "node1": 45179,
+            "node2": 154803,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 2277263,
+            "node1": 45179,
+            "node2": 155683,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 11933101,
+            "node1": 45179,
+            "node2": 155908,
+            "type": 9,
+            "w": 91.0
+        },
+        {
+            "id": 255917476,
+            "node1": 45179,
+            "node2": 157511,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 779654355,
+            "node1": 45179,
+            "node2": 158275,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 524279091,
+            "node1": 45179,
+            "node2": 158653,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 1018617568,
+            "node1": 45179,
+            "node2": 159829,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 11363790,
+            "node1": 45179,
+            "node2": 159983,
+            "type": 9,
+            "w": 83.0
+        },
+        {
+            "id": 436520441,
+            "node1": 45179,
+            "node2": 160862,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 24920525,
+            "node1": 45179,
+            "node2": 161335,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 24920485,
+            "node1": 45179,
+            "node2": 161627,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 771544654,
+            "node1": 45179,
+            "node2": 161823,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 1037759082,
+            "node1": 45179,
+            "node2": 162435,
+            "type": 9,
+            "w": 15.0
+        },
+        {
+            "id": 1055110700,
+            "node1": 45179,
+            "node2": 162772,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 525347166,
+            "node1": 45179,
+            "node2": 166074,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 54219035,
+            "node1": 45179,
+            "node2": 179693,
+            "type": 9,
+            "w": 43.0
+        },
+        {
+            "id": 24930059,
+            "node1": 45179,
+            "node2": 207418,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 54455755,
+            "node1": 45179,
+            "node2": 210065,
+            "type": 9,
+            "w": 36.0
+        },
+        {
+            "id": 468252519,
+            "node1": 45179,
+            "node2": 212013,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 260287477,
+            "node1": 45179,
+            "node2": 213414,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 108420797,
+            "node1": 45179,
+            "node2": 213441,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 10535318,
+            "node1": 45179,
+            "node2": 213466,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 260287487,
+            "node1": 45179,
+            "node2": 213555,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 472418730,
+            "node1": 45179,
+            "node2": 213632,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 11933099,
+            "node1": 45179,
+            "node2": 213916,
+            "type": 9,
+            "w": 82.0
+        },
+        {
+            "id": 8996604,
+            "node1": 45179,
+            "node2": 214276,
+            "type": 9,
+            "w": 117.0
+        },
+        {
+            "id": 10530688,
+            "node1": 45179,
+            "node2": 215504,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 255917484,
+            "node1": 45179,
+            "node2": 216042,
+            "type": 9,
+            "w": 71.0
+        },
+        {
+            "id": 8996603,
+            "node1": 45179,
+            "node2": 216173,
+            "type": 9,
+            "w": 69.0
+        },
+        {
+            "id": 10531203,
+            "node1": 45179,
+            "node2": 216464,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10530455,
+            "node1": 45179,
+            "node2": 217664,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 255917254,
+            "node1": 45179,
+            "node2": 217715,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 426714742,
+            "node1": 45179,
+            "node2": 217880,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 96698899,
+            "node1": 45179,
+            "node2": 218671,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 108420862,
+            "node1": 45179,
+            "node2": 218888,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 779695604,
+            "node1": 45179,
+            "node2": 218910,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 255917257,
+            "node1": 45179,
+            "node2": 220674,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 10530313,
+            "node1": 45179,
+            "node2": 223607,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 10535080,
+            "node1": 45179,
+            "node2": 224901,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 475707076,
+            "node1": 45179,
+            "node2": 225919,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 10530730,
+            "node1": 45179,
+            "node2": 226984,
+            "type": 9,
+            "w": 51.0
+        },
+        {
+            "id": 413570774,
+            "node1": 45179,
+            "node2": 232000,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 413570775,
+            "node1": 45179,
+            "node2": 232001,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 978193005,
+            "node1": 45179,
+            "node2": 233403,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 11231645,
+            "node1": 45179,
+            "node2": 238455,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 10563602,
+            "node1": 45179,
+            "node2": 252387,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 426714744,
+            "node1": 45179,
+            "node2": 256780,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 10535235,
+            "node1": 45179,
+            "node2": 258687,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 307558301,
+            "node1": 45179,
+            "node2": 267888,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 11363789,
+            "node1": 45179,
+            "node2": 314132,
+            "type": 9,
+            "w": 53.0
+        },
+        {
+            "id": 14637411,
+            "node1": 45179,
+            "node2": 316850,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 377390696,
+            "node1": 45179,
+            "node2": 341232,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 397057100,
+            "node1": 45179,
+            "node2": 371971,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 277768333,
+            "node1": 45179,
+            "node2": 396408,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 260287481,
+            "node1": 45179,
+            "node2": 591105,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 933180296,
+            "node1": 45179,
+            "node2": 591331,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 29162504,
+            "node1": 45179,
+            "node2": 1773803,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 260054423,
+            "node1": 45179,
+            "node2": 2079548,
+            "type": 9,
+            "w": 46.0
+        },
+        {
+            "id": 61885892,
+            "node1": 45179,
+            "node2": 2398458,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 1023150320,
+            "node1": 45179,
+            "node2": 2444765,
+            "type": 9,
+            "w": 14.0
+        },
+        {
+            "id": 69069462,
+            "node1": 45179,
+            "node2": 2496939,
+            "type": 9,
+            "w": 46.0
+        },
+        {
+            "id": 90073190,
+            "node1": 45179,
+            "node2": 2511898,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 426714743,
+            "node1": 45179,
+            "node2": 4328076,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 534791866,
+            "node1": 45179,
+            "node2": 5246874,
+            "type": 9,
+            "w": 24.0
+        },
+        {
+            "id": 484049898,
+            "node1": 45179,
+            "node2": 7015587,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 397057030,
+            "node1": 45179,
+            "node2": 7076624,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 334422523,
+            "node1": 45179,
+            "node2": 7096384,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1055141834,
+            "node1": 45179,
+            "node2": 7223171,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 413570783,
+            "node1": 45179,
+            "node2": 7322501,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 618836933,
+            "node1": 45179,
+            "node2": 7329837,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 484049986,
+            "node1": 45179,
+            "node2": 7420622,
+            "type": 9,
+            "w": 12.0
+        },
+        {
+            "id": 595468041,
+            "node1": 45179,
+            "node2": 7606647,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 413112011,
+            "node1": 45179,
+            "node2": 9120871,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 940468813,
+            "node1": 45179,
+            "node2": 9755164,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 923520696,
+            "node1": 45179,
+            "node2": 10834444,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 534791885,
+            "node1": 45179,
+            "node2": 12079134,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 520893774,
+            "node1": 45179,
+            "node2": 13047636,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 413111905,
+            "node1": 45179,
+            "node2": 14925532,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 413111974,
+            "node1": 45179,
+            "node2": 14925533,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 534701838,
+            "node1": 45179,
+            "node2": 14925534,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 484050067,
+            "node1": 45179,
+            "node2": 14925618,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1018618224,
+            "node1": 45179,
+            "node2": 14927212,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 436520523,
+            "node1": 45179,
+            "node2": 14927213,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 593666135,
+            "node1": 45179,
+            "node2": 14927214,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 413208680,
+            "node1": 45179,
+            "node2": 14928034,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 574112667,
+            "node1": 45179,
+            "node2": 14929059,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 736731525,
+            "node1": 45179,
+            "node2": 14935827,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 484049937,
+            "node1": 45179,
+            "node2": 14936364,
+            "type": 9,
+            "w": 11.0
+        },
+        {
+            "id": 1018042106,
+            "node1": 45179,
+            "node2": 14936365,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 402844774,
+            "node1": 45179,
+            "node2": 14938803,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 413570120,
+            "node1": 45179,
+            "node2": 14944657,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 1023339220,
+            "node1": 45179,
+            "node2": 14946841,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 1023339357,
+            "node1": 45179,
+            "node2": 14947386,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 431497099,
+            "node1": 45179,
+            "node2": 14960076,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 600839766,
+            "node1": 45179,
+            "node2": 14960513,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 736701778,
+            "node1": 45179,
+            "node2": 14964866,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 413570680,
+            "node1": 45179,
+            "node2": 14965080,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 413111938,
+            "node1": 45179,
+            "node2": 15048148,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 397064335,
+            "node1": 45179,
+            "node2": 15050128,
+            "type": 9,
+            "w": 41.0
+        },
+        {
+            "id": 397064347,
+            "node1": 45179,
+            "node2": 15050129,
+            "type": 9,
+            "w": 37.0
+        },
+        {
+            "id": 491980024,
+            "node1": 45179,
+            "node2": 15068924,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 595467720,
+            "node1": 45179,
+            "node2": 15068990,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 436520080,
+            "node1": 45179,
+            "node2": 15072462,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 598232541,
+            "node1": 45179,
+            "node2": 15073451,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 397057294,
+            "node1": 45179,
+            "node2": 15073452,
+            "type": 9,
+            "w": 10.0
+        },
+        {
+            "id": 413112040,
+            "node1": 45179,
+            "node2": 15076258,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 402840139,
+            "node1": 45179,
+            "node2": 15082432,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 397057178,
+            "node1": 45179,
+            "node2": 15088479,
+            "type": 9,
+            "w": 19.0
+        },
+        {
+            "id": 397064360,
+            "node1": 45179,
+            "node2": 15093081,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 436506979,
+            "node1": 45179,
+            "node2": 15096173,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 436506987,
+            "node1": 45179,
+            "node2": 15096174,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 736701843,
+            "node1": 45179,
+            "node2": 15106694,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 413110905,
+            "node1": 45179,
+            "node2": 15198648,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 539459305,
+            "node1": 45179,
+            "node2": 15209969,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 413570784,
+            "node1": 45179,
+            "node2": 15211640,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 600849156,
+            "node1": 45179,
+            "node2": 15216216,
+            "type": 9,
+            "w": 32.0
+        },
+        {
+            "id": 1055142317,
+            "node1": 45179,
+            "node2": 15228975,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 1055142372,
+            "node1": 45179,
+            "node2": 15232090,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 1055142373,
+            "node1": 45179,
+            "node2": 15232091,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 413208679,
+            "node1": 45179,
+            "node2": 15251537,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 985982311,
+            "node1": 45179,
+            "node2": 15277480,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 435318972,
+            "node1": 45179,
+            "node2": 15280058,
+            "type": 9,
+            "w": 6.0
+        },
+        {
+            "id": 426538548,
+            "node1": 45179,
+            "node2": 15282071,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 413570782,
+            "node1": 45179,
+            "node2": 15305358,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 486602322,
+            "node1": 45179,
+            "node2": 15307499,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 397057234,
+            "node1": 45179,
+            "node2": 15310407,
+            "type": 9,
+            "w": 23.0
+        },
+        {
+            "id": 622597318,
+            "node1": 45179,
+            "node2": 15316477,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 402840146,
+            "node1": 45179,
+            "node2": 15335060,
+            "type": 9,
+            "w": 4.0
+        },
+        {
+            "id": 547471672,
+            "node1": 45179,
+            "node2": 15352511,
+            "type": 9,
+            "w": 39.0
+        },
+        {
+            "id": 411494309,
+            "node1": 45179,
+            "node2": 15352513,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 525347075,
+            "node1": 45179,
+            "node2": 15413560,
+            "type": 9,
+            "w": 13.0
+        },
+        {
+            "id": 775516070,
+            "node1": 45179,
+            "node2": 15416533,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 491979866,
+            "node1": 45179,
+            "node2": 15418038,
+            "type": 9,
+            "w": 22.0
+        },
+        {
+            "id": 491520949,
+            "node1": 45179,
+            "node2": 15418039,
+            "type": 9,
+            "w": 24.0
+        },
+        {
+            "id": 534791841,
+            "node1": 45179,
+            "node2": 15428332,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 534791852,
+            "node1": 45179,
+            "node2": 15428333,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 534791863,
+            "node1": 45179,
+            "node2": 15428334,
+            "type": 9,
+            "w": 18.0
+        },
+        {
+            "id": 600839356,
+            "node1": 45179,
+            "node2": 15428577,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 600849192,
+            "node1": 45179,
+            "node2": 15441112,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 474057625,
+            "node1": 45179,
+            "node2": 15441113,
+            "type": 9,
+            "w": 16.0
+        },
+        {
+            "id": 721315107,
+            "node1": 45179,
+            "node2": 15448457,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 486602364,
+            "node1": 45179,
+            "node2": 15466741,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 1155406430,
+            "node1": 45179,
+            "node2": 15499957,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 1084797128,
+            "node1": 45179,
+            "node2": 15527608,
+            "type": 9,
+            "w": 5.0
+        },
+        {
+            "id": 1055126254,
+            "node1": 45179,
+            "node2": 15787138,
+            "type": 9,
+            "w": 8.0
+        },
+        {
+            "id": 721315078,
+            "node1": 45179,
+            "node2": 16027030,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 561357339,
+            "node1": 45179,
+            "node2": 50646786,
+            "type": 9,
+            "w": 2.0
+        },
+        {
+            "id": 969326929,
+            "node1": 45179,
+            "node2": 50668257,
+            "type": 9,
+            "w": 7.0
+        },
+        {
+            "id": 736701908,
+            "node1": 45179,
+            "node2": 53536792,
+            "type": 9,
+            "w": 1.0
+        },
+        {
+            "id": 775516321,
+            "node1": 45179,
+            "node2": 94546371,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 775516378,
+            "node1": 45179,
+            "node2": 95628944,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 561357561,
+            "node1": 45179,
+            "node2": 173777766,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 933229583,
+            "node1": 45179,
+            "node2": 307459577,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 969324784,
+            "node1": 45179,
+            "node2": 307463884,
+            "type": 9,
+            "w": 7.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:02.900278",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "maison",
+        "#relations": 339,
+        "max_relation_weight": 667.0,
+        "#nodes": 340,
+        "duration": "0:00:00.097926"
+    }
+}

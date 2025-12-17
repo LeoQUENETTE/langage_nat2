@@ -1,0 +1,118 @@
+{
+    "nodes": [
+        {
+            "id": 72257,
+            "name": "base",
+            "type": 1,
+            "w": 6437
+        },
+        {
+            "id": 133393,
+            "name": "sculpture",
+            "type": 1,
+            "w": 3401
+        },
+        {
+            "id": 96256,
+            "name": "bois",
+            "type": 1,
+            "w": 11012
+        },
+        {
+            "id": 97739,
+            "name": "matériau",
+            "type": 1,
+            "w": 3285
+        },
+        {
+            "id": 29208,
+            "name": "matière",
+            "type": 1,
+            "w": 9389
+        },
+        {
+            "id": 141576,
+            "name": "marbre",
+            "type": 1,
+            "w": 1436
+        },
+        {
+            "id": 2867,
+            "name": "socle",
+            "type": 1,
+            "w": 390
+        }
+    ],
+    "relations": [
+        {
+            "id": 959373363,
+            "node1": 133393,
+            "node2": 2867,
+            "type": 9,
+            "w": 47.0
+        },
+        {
+            "id": 1707600,
+            "node1": 133393,
+            "node2": 29208,
+            "type": 9,
+            "w": 34.0
+        },
+        {
+            "id": 1008394391,
+            "node1": 133393,
+            "node2": 72257,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1155002319,
+            "node1": 133393,
+            "node2": 96256,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 959382091,
+            "node1": 133393,
+            "node2": 97739,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 1152670886,
+            "node1": 133393,
+            "node2": 141576,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:50.860782",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sculpture",
+        "#relations": 6,
+        "max_relation_weight": 47.0,
+        "#nodes": 7,
+        "duration": "0:00:00.005274"
+    }
+}

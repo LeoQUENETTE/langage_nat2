@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 70206,
+            "name": "cahier",
+            "type": 1,
+            "w": 1412
+        },
+        {
+            "id": 103389,
+            "name": "papier",
+            "type": 1,
+            "w": 7597
+        },
+        {
+            "id": 11123969,
+            "name": "être complètement bouché",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 11130866,
+            "name": "être complètement bouché>124484",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 14659086,
+            "node1": 103389,
+            "node2": 70206,
+            "type": 41,
+            "w": 34.0
+        },
+        {
+            "id": 283124840,
+            "node1": 103389,
+            "node2": 11123969,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 286849242,
+            "node1": 103389,
+            "node2": 11130866,
+            "type": 41,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:34.938285",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "papier",
+        "#relations": 3,
+        "max_relation_weight": 34.0,
+        "#nodes": 4,
+        "duration": "0:00:00.005253"
+    }
+}

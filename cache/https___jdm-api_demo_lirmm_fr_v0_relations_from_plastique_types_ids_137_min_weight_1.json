@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 85406,
+            "name": "plastique",
+            "type": 1,
+            "w": 3469
+        },
+        {
+            "id": 77286,
+            "name": "extrusion",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 42322,
+            "name": "moulage",
+            "type": 1,
+            "w": 112
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155363427,
+            "node1": 85406,
+            "node2": 42322,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1155363450,
+            "node1": 85406,
+            "node2": 77286,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:44.390645",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "plastique",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.003652"
+    }
+}

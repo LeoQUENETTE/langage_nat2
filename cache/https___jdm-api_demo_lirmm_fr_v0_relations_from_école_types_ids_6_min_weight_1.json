@@ -1,0 +1,300 @@
+{
+    "nodes": [
+        {
+            "id": 5961483,
+            "name": "institution éducative",
+            "type": 777,
+            "w": 27
+        },
+        {
+            "id": 165120,
+            "name": "établissement scolaire",
+            "type": 1,
+            "w": 675
+        },
+        {
+            "id": 214224,
+            "name": "bâtiment>55137",
+            "type": 1,
+            "w": 153
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 45109,
+            "name": "édifice",
+            "type": 1,
+            "w": 646
+        },
+        {
+            "id": 77864,
+            "name": "établissement",
+            "type": 1,
+            "w": 3668
+        },
+        {
+            "id": 15314736,
+            "name": "en:place of work",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 87855,
+            "name": "institution",
+            "type": 1,
+            "w": 5602
+        },
+        {
+            "id": 42109,
+            "name": "mouvement",
+            "type": 1,
+            "w": 16161
+        },
+        {
+            "id": 65524,
+            "name": "bâtiment",
+            "type": 1,
+            "w": 4892
+        },
+        {
+            "id": 86627,
+            "name": "organisation",
+            "type": 1,
+            "w": 11360
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 6887729,
+            "name": "en:worksite",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 91240,
+            "name": "école",
+            "type": 1,
+            "w": 16676
+        },
+        {
+            "id": 402731803,
+            "name": "établissement éducatif",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 443198681,
+            "name": "bâtiment éducatif",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 8843694,
+            "name": "en:workplace",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 212295218,
+            "name": "lieu d'apprentissage",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 128712,
+            "name": "lieu de travail",
+            "type": 1,
+            "w": 287
+        }
+    ],
+    "relations": [
+        {
+            "id": 83380177,
+            "node1": 91240,
+            "node2": 42109,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 1155916191,
+            "node1": 91240,
+            "node2": 45109,
+            "type": 6,
+            "w": 301.0
+        },
+        {
+            "id": 423291,
+            "node1": 91240,
+            "node2": 65524,
+            "type": 6,
+            "w": 162.0
+        },
+        {
+            "id": 98113974,
+            "node1": 91240,
+            "node2": 77864,
+            "type": 6,
+            "w": 91.0
+        },
+        {
+            "id": 693781005,
+            "node1": 91240,
+            "node2": 86627,
+            "type": 6,
+            "w": 500.01
+        },
+        {
+            "id": 270426162,
+            "node1": 91240,
+            "node2": 87855,
+            "type": 6,
+            "w": 906.05
+        },
+        {
+            "id": 907884822,
+            "node1": 91240,
+            "node2": 128712,
+            "type": 6,
+            "w": 164.0
+        },
+        {
+            "id": 629015,
+            "node1": 91240,
+            "node2": 135190,
+            "type": 6,
+            "w": 160.0
+        },
+        {
+            "id": 328342249,
+            "node1": 91240,
+            "node2": 157283,
+            "type": 6,
+            "w": 81.0
+        },
+        {
+            "id": 270426187,
+            "node1": 91240,
+            "node2": 165120,
+            "type": 6,
+            "w": 1000.0
+        },
+        {
+            "id": 14464725,
+            "node1": 91240,
+            "node2": 214224,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 775799181,
+            "node1": 91240,
+            "node2": 325138,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 1150486615,
+            "node1": 91240,
+            "node2": 5961483,
+            "type": 6,
+            "w": 566.34
+        },
+        {
+            "id": 907884825,
+            "node1": 91240,
+            "node2": 6887729,
+            "type": 6,
+            "w": 163.0
+        },
+        {
+            "id": 907884823,
+            "node1": 91240,
+            "node2": 8843694,
+            "type": 6,
+            "w": 163.0
+        },
+        {
+            "id": 357218753,
+            "node1": 91240,
+            "node2": 14094383,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 907884824,
+            "node1": 91240,
+            "node2": 15314736,
+            "type": 6,
+            "w": 163.0
+        },
+        {
+            "id": 765196370,
+            "node1": 91240,
+            "node2": 212295218,
+            "type": 6,
+            "w": 165.0
+        },
+        {
+            "id": 1147900202,
+            "node1": 91240,
+            "node2": 402731803,
+            "type": 6,
+            "w": 164.0
+        },
+        {
+            "id": 1155916464,
+            "node1": 91240,
+            "node2": 443198681,
+            "type": 6,
+            "w": 277.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:07.441246",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "école",
+        "#relations": 20,
+        "max_relation_weight": 1000.0,
+        "#nodes": 21,
+        "duration": "0:00:00.070928"
+    }
+}

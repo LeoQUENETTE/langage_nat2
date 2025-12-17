@@ -1,0 +1,170 @@
+{
+    "nodes": [
+        {
+            "id": 5517385,
+            "name": "construction légère",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14094383,
+            "name": "partie de l'espace",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 325138,
+            "name": "endroit>135190",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 157283,
+            "name": "lieu>134218",
+            "type": 1,
+            "w": 354
+        },
+        {
+            "id": 5425,
+            "name": "machine",
+            "type": 1,
+            "w": 7846
+        },
+        {
+            "id": 134218,
+            "name": "endroit",
+            "type": 1,
+            "w": 6934
+        },
+        {
+            "id": 135936,
+            "name": "dispositif",
+            "type": 1,
+            "w": 5280
+        },
+        {
+            "id": 55137,
+            "name": "construction",
+            "type": 1,
+            "w": 7788
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 12927
+        },
+        {
+            "id": 10733308,
+            "name": "structure architecturale",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 52423,
+            "name": "abri",
+            "type": 1,
+            "w": 1931
+        }
+    ],
+    "relations": [
+        {
+            "id": 1127192015,
+            "node1": 52423,
+            "node2": 5425,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 108360653,
+            "node1": 52423,
+            "node2": 55137,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 1127186727,
+            "node1": 52423,
+            "node2": 134218,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 27919692,
+            "node1": 52423,
+            "node2": 135190,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 1127192013,
+            "node1": 52423,
+            "node2": 135936,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 27919693,
+            "node1": 52423,
+            "node2": 157283,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 775797480,
+            "node1": 52423,
+            "node2": 325138,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 108404895,
+            "node1": 52423,
+            "node2": 5517385,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 535029460,
+            "node1": 52423,
+            "node2": 10733308,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 357218823,
+            "node1": 52423,
+            "node2": 14094383,
+            "type": 6,
+            "w": 29.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:41:53.025399",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "abri",
+        "#relations": 10,
+        "max_relation_weight": 85.0,
+        "#nodes": 11,
+        "duration": "0:00:00.017425"
+    }
+}

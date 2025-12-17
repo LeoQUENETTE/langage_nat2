@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 104728,
+            "name": "relations",
+            "type": 1,
+            "w": 8667
+        },
+        {
+            "id": 28291,
+            "name": "voisin",
+            "type": 1,
+            "w": 5341
+        },
+        {
+            "id": 122769,
+            "name": "entraide",
+            "type": 1,
+            "w": 1576
+        },
+        {
+            "id": 56745,
+            "name": "tapage",
+            "type": 1,
+            "w": 203
+        }
+    ],
+    "relations": [
+        {
+            "id": 770221573,
+            "node1": 28291,
+            "node2": 56745,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1156352617,
+            "node1": 28291,
+            "node2": 104728,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1156352641,
+            "node1": 28291,
+            "node2": 122769,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:19:57.935742",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voisin",
+        "#relations": 3,
+        "max_relation_weight": 31.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003847"
+    }
+}

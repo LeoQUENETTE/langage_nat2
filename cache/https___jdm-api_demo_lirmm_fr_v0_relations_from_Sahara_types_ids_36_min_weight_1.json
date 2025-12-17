@@ -1,0 +1,274 @@
+{
+    "nodes": [
+        {
+            "id": 317327,
+            "name": "_POLIT_6FN",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317326,
+            "name": "_POLIT_5UMP",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 1900773,
+            "name": "_INFO-SEM-PLACE-ABSTRACT",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 217817,
+            "name": "_INFO-POLYSEMIC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 162759,
+            "name": "_INFO-SEM-PLACE",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 2585997,
+            "name": "_INFO-CNRTL-NO",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223172,
+            "name": "_POL-NEG",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 223173,
+            "name": "_POL-POS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 241794,
+            "name": "_POL-NEUTRE",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254878,
+            "name": "_POL-NEG_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254876,
+            "name": "_POL-POS_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 254877,
+            "name": "_POL-NEUTRE_PC",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 276096,
+            "name": "_INFO-WIKI-YES",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317329,
+            "name": "_POLIT_7NOPOL",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317325,
+            "name": "_POLIT_4MD",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 317324,
+            "name": "_POLIT_3PS",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 264749,
+            "name": "_INFO-SEM-NAMED-ENTITY",
+            "type": 36,
+            "w": 50
+        },
+        {
+            "id": 458628,
+            "name": "_INFO-SEM-PLACE-GEO",
+            "type": 36,
+            "w": 504
+        },
+        {
+            "id": 90911,
+            "name": "Sahara",
+            "type": 1,
+            "w": 1714
+        }
+    ],
+    "relations": [
+        {
+            "id": 667038,
+            "node1": 90911,
+            "node2": 162759,
+            "type": 36,
+            "w": 47.0
+        },
+        {
+            "id": 533533306,
+            "node1": 90911,
+            "node2": 217817,
+            "type": 36,
+            "w": 35.0
+        },
+        {
+            "id": 26459664,
+            "node1": 90911,
+            "node2": 223172,
+            "type": 36,
+            "w": 42.0
+        },
+        {
+            "id": 9135217,
+            "node1": 90911,
+            "node2": 223173,
+            "type": 36,
+            "w": 381.0
+        },
+        {
+            "id": 9211767,
+            "node1": 90911,
+            "node2": 241794,
+            "type": 36,
+            "w": 95.0
+        },
+        {
+            "id": 9157999,
+            "node1": 90911,
+            "node2": 254876,
+            "type": 36,
+            "w": 74.0
+        },
+        {
+            "id": 9252672,
+            "node1": 90911,
+            "node2": 254877,
+            "type": 36,
+            "w": 18.0
+        },
+        {
+            "id": 26749783,
+            "node1": 90911,
+            "node2": 254878,
+            "type": 36,
+            "w": 8.0
+        },
+        {
+            "id": 60134424,
+            "node1": 90911,
+            "node2": 264749,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 1167279504,
+            "node1": 90911,
+            "node2": 276096,
+            "type": 36,
+            "w": 25.0
+        },
+        {
+            "id": 505136699,
+            "node1": 90911,
+            "node2": 317324,
+            "type": 36,
+            "w": 15.0
+        },
+        {
+            "id": 505136698,
+            "node1": 90911,
+            "node2": 317325,
+            "type": 36,
+            "w": 5.0
+        },
+        {
+            "id": 505136700,
+            "node1": 90911,
+            "node2": 317326,
+            "type": 36,
+            "w": 21.0
+        },
+        {
+            "id": 28115723,
+            "node1": 90911,
+            "node2": 317327,
+            "type": 36,
+            "w": 16.0
+        },
+        {
+            "id": 9243934,
+            "node1": 90911,
+            "node2": 317329,
+            "type": 36,
+            "w": 61.0
+        },
+        {
+            "id": 29396130,
+            "node1": 90911,
+            "node2": 458628,
+            "type": 36,
+            "w": 40.0
+        },
+        {
+            "id": 220446238,
+            "node1": 90911,
+            "node2": 1900773,
+            "type": 36,
+            "w": 26.0
+        },
+        {
+            "id": 55153905,
+            "node1": 90911,
+            "node2": 2585997,
+            "type": 36,
+            "w": 58.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            36
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:37.506487",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "Sahara",
+        "#relations": 18,
+        "max_relation_weight": 381.0,
+        "#nodes": 19,
+        "duration": "0:00:00.009366"
+    }
+}

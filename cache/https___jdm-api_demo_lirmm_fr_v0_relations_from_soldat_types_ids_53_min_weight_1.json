@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 102633,
+            "name": "soldat",
+            "type": 1,
+            "w": 6034
+        },
+        {
+            "id": 46324,
+            "name": "stratégie",
+            "type": 1,
+            "w": 30267
+        },
+        {
+            "id": 116395,
+            "name": "rapport",
+            "type": 1,
+            "w": 14960
+        },
+        {
+            "id": 63471,
+            "name": "protection",
+            "type": 1,
+            "w": 15223
+        },
+        {
+            "id": 32912,
+            "name": "assaut",
+            "type": 1,
+            "w": 599
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131440300,
+            "node1": 102633,
+            "node2": 32912,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1148935280,
+            "node1": 102633,
+            "node2": 46324,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 1158175575,
+            "node1": 102633,
+            "node2": 63471,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 1148753530,
+            "node1": 102633,
+            "node2": 116395,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:36.130427",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soldat",
+        "#relations": 4,
+        "max_relation_weight": 31.0,
+        "#nodes": 5,
+        "duration": "0:00:00.006507"
+    }
+}

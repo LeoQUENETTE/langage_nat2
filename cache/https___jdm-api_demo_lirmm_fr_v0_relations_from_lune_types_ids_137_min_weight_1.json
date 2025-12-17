@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 229499,
+            "name": "éclipse solaire",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 219071862,
+            "name": "transformation en loup-garou",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 141367,
+            "name": "lune",
+            "type": 1,
+            "w": 5359
+        },
+        {
+            "id": 99418,
+            "name": "marée",
+            "type": 1,
+            "w": 1608
+        }
+    ],
+    "relations": [
+        {
+            "id": 775109406,
+            "node1": 141367,
+            "node2": 99418,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 775109407,
+            "node1": 141367,
+            "node2": 229499,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 948448604,
+            "node1": 141367,
+            "node2": 219071862,
+            "type": 137,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:08.247776",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "lune",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004129"
+    }
+}

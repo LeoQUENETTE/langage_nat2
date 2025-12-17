@@ -1,0 +1,131 @@
+{
+    "nodes": [
+        {
+            "id": 151702,
+            "name": "barrière de corail",
+            "type": 1,
+            "w": 89
+        },
+        {
+            "id": 229403,
+            "name": "récif corallien",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 144463,
+            "name": "corail",
+            "type": 1,
+            "w": 371
+        },
+        {
+            "id": 65625,
+            "name": "récif",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 15103827,
+            "name": "en:coral reef",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 112315,
+            "name": "atoll",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 108481665,
+            "name": "Récif corallien",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 251013,
+            "name": "récif de corail",
+            "type": 1,
+            "w": 15
+        }
+    ],
+    "relations": [
+        {
+            "id": 780083947,
+            "node1": 144463,
+            "node2": 65625,
+            "type": 53,
+            "w": 63.0
+        },
+        {
+            "id": 780084108,
+            "node1": 144463,
+            "node2": 112315,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 479422535,
+            "node1": 144463,
+            "node2": 151702,
+            "type": 53,
+            "w": 29.0
+        },
+        {
+            "id": 479422292,
+            "node1": 144463,
+            "node2": 229403,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 376990583,
+            "node1": 144463,
+            "node2": 251013,
+            "type": 53,
+            "w": 26.0
+        },
+        {
+            "id": 479422062,
+            "node1": 144463,
+            "node2": 15103827,
+            "type": 53,
+            "w": 30.0
+        },
+        {
+            "id": 594831376,
+            "node1": 144463,
+            "node2": 108481665,
+            "type": 53,
+            "w": 35.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:43:56.675165",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "corail",
+        "#relations": 7,
+        "max_relation_weight": 63.0,
+        "#nodes": 8,
+        "duration": "0:00:00.002603"
+    }
+}

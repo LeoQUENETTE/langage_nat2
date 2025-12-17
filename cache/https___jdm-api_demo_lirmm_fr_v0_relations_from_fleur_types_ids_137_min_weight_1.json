@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 28985,
+            "name": "fleur",
+            "type": 1,
+            "w": 9477
+        },
+        {
+            "id": 88491,
+            "name": "reproduction",
+            "type": 1,
+            "w": 5430
+        },
+        {
+            "id": 12796,
+            "name": "parfumeur",
+            "type": 1,
+            "w": 160
+        }
+    ],
+    "relations": [
+        {
+            "id": 1032938090,
+            "node1": 28985,
+            "node2": 12796,
+            "type": 137,
+            "w": 26.0
+        },
+        {
+            "id": 1158198943,
+            "node1": 28985,
+            "node2": 88491,
+            "type": 137,
+            "w": 26.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:11:24.796394",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fleur",
+        "#relations": 2,
+        "max_relation_weight": 26.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004962"
+    }
+}

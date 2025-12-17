@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 231938,
+            "name": "résine de cannabis",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 154898,
+            "name": "fibres",
+            "type": 1,
+            "w": 2389
+        },
+        {
+            "id": 15043188,
+            "name": "en:cannabis resin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 76392,
+            "name": "chanvre",
+            "type": 1,
+            "w": 206
+        }
+    ],
+    "relations": [
+        {
+            "id": 795607447,
+            "node1": 76392,
+            "node2": 154898,
+            "type": 53,
+            "w": 28.0
+        },
+        {
+            "id": 376989985,
+            "node1": 76392,
+            "node2": 231938,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 479421887,
+            "node1": 76392,
+            "node2": 15043188,
+            "type": 53,
+            "w": 28.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:09.339651",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "chanvre",
+        "#relations": 3,
+        "max_relation_weight": 31.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003169"
+    }
+}

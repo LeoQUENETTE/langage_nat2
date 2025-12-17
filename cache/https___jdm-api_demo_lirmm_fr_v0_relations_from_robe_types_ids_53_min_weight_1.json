@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 110160,
+            "name": "robe",
+            "type": 1,
+            "w": 3024
+        },
+        {
+            "id": 140565,
+            "name": "style",
+            "type": 1,
+            "w": 7772
+        },
+        {
+            "id": 399229,
+            "name": "sensations",
+            "type": 1,
+            "w": 405
+        }
+    ],
+    "relations": [
+        {
+            "id": 1155778019,
+            "node1": 110160,
+            "node2": 140565,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155778043,
+            "node1": 110160,
+            "node2": 399229,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:38.260745",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "robe",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.009036"
+    }
+}

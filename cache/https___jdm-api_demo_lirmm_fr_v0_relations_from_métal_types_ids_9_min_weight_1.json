@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 251418727,
+            "name": "guitares distordues",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 252283208,
+            "name": "rythmes rapides",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15198227,
+            "name": "ion métallique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 135765,
+            "name": "alliage",
+            "type": 1,
+            "w": 349
+        },
+        {
+            "id": 35712,
+            "name": "atome",
+            "type": 1,
+            "w": 2598
+        },
+        {
+            "id": 68659,
+            "name": "cristal",
+            "type": 1,
+            "w": 2298
+        },
+        {
+            "id": 134927,
+            "name": "métal",
+            "type": 1,
+            "w": 4540
+        },
+        {
+            "id": 248411,
+            "name": "atome>43504",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 6957788,
+            "name": "en:electron",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 120791,
+            "name": "électron",
+            "type": 1,
+            "w": 754
+        },
+        {
+            "id": 117662,
+            "name": "molécule",
+            "type": 1,
+            "w": 3915
+        },
+        {
+            "id": 214457,
+            "name": "fer>166591",
+            "type": 1,
+            "w": 72
+        }
+    ],
+    "relations": [
+        {
+            "id": 183403,
+            "node1": 134927,
+            "node2": 35712,
+            "type": 9,
+            "w": 94.0
+        },
+        {
+            "id": 1150414070,
+            "node1": 134927,
+            "node2": 68659,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 198430,
+            "node1": 134927,
+            "node2": 117662,
+            "type": 9,
+            "w": 52.0
+        },
+        {
+            "id": 3181338,
+            "node1": 134927,
+            "node2": 120791,
+            "type": 9,
+            "w": 26.0
+        },
+        {
+            "id": 1150414071,
+            "node1": 134927,
+            "node2": 135765,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 10533129,
+            "node1": 134927,
+            "node2": 214457,
+            "type": 9,
+            "w": 9.0
+        },
+        {
+            "id": 2487902,
+            "node1": 134927,
+            "node2": 248411,
+            "type": 9,
+            "w": 35.0
+        },
+        {
+            "id": 211678067,
+            "node1": 134927,
+            "node2": 6957788,
+            "type": 9,
+            "w": 3.0
+        },
+        {
+            "id": 1150414072,
+            "node1": 134927,
+            "node2": 15198227,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1007975081,
+            "node1": 134927,
+            "node2": 251418727,
+            "type": 9,
+            "w": 25.0
+        },
+        {
+            "id": 1007975082,
+            "node1": 134927,
+            "node2": 252283208,
+            "type": 9,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:39:07.580085",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "métal",
+        "#relations": 11,
+        "max_relation_weight": 94.0,
+        "#nodes": 12,
+        "duration": "0:00:00.005636"
+    }
+}

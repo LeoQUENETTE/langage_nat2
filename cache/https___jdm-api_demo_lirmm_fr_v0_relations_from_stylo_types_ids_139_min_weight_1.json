@@ -1,0 +1,144 @@
+{
+    "nodes": [
+        {
+            "id": 3848,
+            "name": "avant-projet",
+            "type": 1,
+            "w": 67
+        },
+        {
+            "id": 15530574,
+            "name": "en:pre-draft",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15530575,
+            "name": "en:pre-project",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15349826,
+            "name": "en:overwriting",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15530576,
+            "name": "en:draft outline agreement",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 684153,
+            "name": "coucher>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2791
+        },
+        {
+            "id": 54234,
+            "name": "écriture",
+            "type": 1,
+            "w": 6263
+        },
+        {
+            "id": 140729,
+            "name": "courant d'air",
+            "type": 1,
+            "w": 290
+        }
+    ],
+    "relations": [
+        {
+            "id": 775104830,
+            "node1": 15509,
+            "node2": 3848,
+            "type": 139,
+            "w": 25.0
+        },
+        {
+            "id": 1046576737,
+            "node1": 15509,
+            "node2": 54234,
+            "type": 139,
+            "w": 20.0
+        },
+        {
+            "id": 775105115,
+            "node1": 15509,
+            "node2": 140729,
+            "type": 139,
+            "w": 25.0
+        },
+        {
+            "id": 775106604,
+            "node1": 15509,
+            "node2": 684153,
+            "type": 139,
+            "w": 25.0
+        },
+        {
+            "id": 775104760,
+            "node1": 15509,
+            "node2": 15349826,
+            "type": 139,
+            "w": 25.0
+        },
+        {
+            "id": 775106058,
+            "node1": 15509,
+            "node2": 15530574,
+            "type": 139,
+            "w": 25.0
+        },
+        {
+            "id": 775106048,
+            "node1": 15509,
+            "node2": 15530575,
+            "type": 139,
+            "w": 25.0
+        },
+        {
+            "id": 775106038,
+            "node1": 15509,
+            "node2": 15530576,
+            "type": 139,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            139
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:43:03.661501",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "stylo",
+        "#relations": 8,
+        "max_relation_weight": 25.0,
+        "#nodes": 9,
+        "duration": "0:00:00.006591"
+    }
+}

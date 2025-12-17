@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 101886,
+            "name": "cloche",
+            "type": 1,
+            "w": 556
+        },
+        {
+            "id": 81506,
+            "name": "appel",
+            "type": 1,
+            "w": 7798
+        },
+        {
+            "id": 51528,
+            "name": "son",
+            "type": 1,
+            "w": 370173
+        }
+    ],
+    "relations": [
+        {
+            "id": 1180141060,
+            "node1": 101886,
+            "node2": 51528,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1180141082,
+            "node1": 101886,
+            "node2": 81506,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:43.925884",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cloche",
+        "#relations": 2,
+        "max_relation_weight": 27.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004715"
+    }
+}

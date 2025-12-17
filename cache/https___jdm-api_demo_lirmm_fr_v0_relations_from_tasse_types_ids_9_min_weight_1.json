@@ -1,0 +1,183 @@
+{
+    "nodes": [
+        {
+            "id": 213407,
+            "name": "anse>117787",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 34898,
+            "name": "pied",
+            "type": 1,
+            "w": 21488
+        },
+        {
+            "id": 72257,
+            "name": "base",
+            "type": 1,
+            "w": 6437
+        },
+        {
+            "id": 119272,
+            "name": "fond",
+            "type": 1,
+            "w": 10406
+        },
+        {
+            "id": 63985,
+            "name": "bord",
+            "type": 1,
+            "w": 6847
+        },
+        {
+            "id": 74846,
+            "name": "corps",
+            "type": 1,
+            "w": 16299
+        },
+        {
+            "id": 63250,
+            "name": "rebord",
+            "type": 1,
+            "w": 87
+        },
+        {
+            "id": 144244,
+            "name": "anse",
+            "type": 1,
+            "w": 154
+        },
+        {
+            "id": 229419,
+            "name": "eau bouillante",
+            "type": 1,
+            "w": 204
+        },
+        {
+            "id": 146144,
+            "name": "tasse",
+            "type": 1,
+            "w": 1179
+        },
+        {
+            "id": 89523,
+            "name": "couvercle",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 15299221,
+            "name": "en:boiling water",
+            "type": 1,
+            "w": 4
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131445319,
+            "node1": 146144,
+            "node2": 34898,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1131445320,
+            "node1": 146144,
+            "node2": 63250,
+            "type": 9,
+            "w": 29.0
+        },
+        {
+            "id": 1035086677,
+            "node1": 146144,
+            "node2": 63985,
+            "type": 9,
+            "w": 30.0
+        },
+        {
+            "id": 1151272167,
+            "node1": 146144,
+            "node2": 72257,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1143234947,
+            "node1": 146144,
+            "node2": 74846,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1151562690,
+            "node1": 146144,
+            "node2": 89523,
+            "type": 9,
+            "w": 27.0
+        },
+        {
+            "id": 1774324,
+            "node1": 146144,
+            "node2": 119272,
+            "type": 9,
+            "w": 40.0
+        },
+        {
+            "id": 1774323,
+            "node1": 146144,
+            "node2": 144244,
+            "type": 9,
+            "w": 99.0
+        },
+        {
+            "id": 1774325,
+            "node1": 146144,
+            "node2": 213407,
+            "type": 9,
+            "w": 55.0
+        },
+        {
+            "id": 19041601,
+            "node1": 146144,
+            "node2": 229419,
+            "type": 9,
+            "w": 28.0
+        },
+        {
+            "id": 484249809,
+            "node1": 146144,
+            "node2": 15299221,
+            "type": 9,
+            "w": 30.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            9
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:04.510229",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tasse",
+        "#relations": 11,
+        "max_relation_weight": 99.0,
+        "#nodes": 12,
+        "duration": "0:00:00.005361"
+    }
+}

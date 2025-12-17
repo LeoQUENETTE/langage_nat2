@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 84432,
+            "name": "long",
+            "type": 1,
+            "w": 13456
+        },
+        {
+            "id": 143529,
+            "name": "voyage",
+            "type": 1,
+            "w": 11094
+        },
+        {
+            "id": 28453,
+            "name": "bonheur",
+            "type": 1,
+            "w": 16374
+        },
+        {
+            "id": 675785,
+            "name": "long>171870",
+            "type": 1,
+            "w": 25
+        }
+    ],
+    "relations": [
+        {
+            "id": 13098811,
+            "node1": 143529,
+            "node2": 28453,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 11343944,
+            "node1": 143529,
+            "node2": 84432,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 721190170,
+            "node1": 143529,
+            "node2": 675785,
+            "type": 28,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:36:13.054651",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "voyage",
+        "#relations": 3,
+        "max_relation_weight": 41.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004013"
+    }
+}

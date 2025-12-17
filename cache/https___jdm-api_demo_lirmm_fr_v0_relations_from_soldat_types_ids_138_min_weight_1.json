@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 48936,
+            "name": "entraînement",
+            "type": 1,
+            "w": 2381
+        },
+        {
+            "id": 10953,
+            "name": "réhabilitation",
+            "type": 1,
+            "w": 2524
+        },
+        {
+            "id": 11122,
+            "name": "désarmement",
+            "type": 1,
+            "w": 425
+        },
+        {
+            "id": 102633,
+            "name": "soldat",
+            "type": 1,
+            "w": 6034
+        },
+        {
+            "id": 61147,
+            "name": "blessure",
+            "type": 1,
+            "w": 3491
+        }
+    ],
+    "relations": [
+        {
+            "id": 1158175580,
+            "node1": 102633,
+            "node2": 10953,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1157406773,
+            "node1": 102633,
+            "node2": 11122,
+            "type": 138,
+            "w": 25.0
+        },
+        {
+            "id": 1157406768,
+            "node1": 102633,
+            "node2": 48936,
+            "type": 138,
+            "w": 26.0
+        },
+        {
+            "id": 1158175579,
+            "node1": 102633,
+            "node2": 61147,
+            "type": 138,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            138
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:34:38.245270",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "soldat",
+        "#relations": 4,
+        "max_relation_weight": 26.0,
+        "#nodes": 5,
+        "duration": "0:00:00.005005"
+    }
+}

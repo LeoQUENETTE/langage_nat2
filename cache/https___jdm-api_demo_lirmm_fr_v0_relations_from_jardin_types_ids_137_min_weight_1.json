@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 139575,
+            "name": "jardin",
+            "type": 1,
+            "w": 8724
+        },
+        {
+            "id": 26940,
+            "name": "floraison",
+            "type": 1,
+            "w": 2114
+        },
+        {
+            "id": 34832,
+            "name": "embellissement",
+            "type": 1,
+            "w": 115
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152638956,
+            "node1": 139575,
+            "node2": 26940,
+            "type": 137,
+            "w": 25.0
+        },
+        {
+            "id": 1154162854,
+            "node1": 139575,
+            "node2": 34832,
+            "type": 137,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            137
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:22:43.253247",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jardin",
+        "#relations": 2,
+        "max_relation_weight": 25.0,
+        "#nodes": 3,
+        "duration": "0:00:00.004565"
+    }
+}

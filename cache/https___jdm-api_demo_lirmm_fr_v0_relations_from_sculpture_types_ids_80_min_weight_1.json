@@ -1,0 +1,66 @@
+{
+    "nodes": [
+        {
+            "id": 2614801,
+            "name": "burin>30843",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 133393,
+            "name": "sculpture",
+            "type": 1,
+            "w": 3401
+        },
+        {
+            "id": 4616,
+            "name": "burin",
+            "type": 1,
+            "w": 136
+        }
+    ],
+    "relations": [
+        {
+            "id": 1181102574,
+            "node1": 133393,
+            "node2": 4616,
+            "type": 80,
+            "w": 40.0
+        },
+        {
+            "id": 1181102581,
+            "node1": 133393,
+            "node2": 2614801,
+            "type": 80,
+            "w": 40.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            80
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:52.564147",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sculpture",
+        "#relations": 2,
+        "max_relation_weight": 40.0,
+        "#nodes": 3,
+        "duration": "0:00:00.584598"
+    }
+}

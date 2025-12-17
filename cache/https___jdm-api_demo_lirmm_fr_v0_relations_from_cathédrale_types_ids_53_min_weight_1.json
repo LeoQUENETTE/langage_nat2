@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 259698,
+            "name": "prières",
+            "type": 1,
+            "w": 211
+        },
+        {
+            "id": 70527,
+            "name": "musique",
+            "type": 1,
+            "w": 22839
+        },
+        {
+            "id": 191881,
+            "name": "cérémonies",
+            "type": 1,
+            "w": 1556
+        },
+        {
+            "id": 2180,
+            "name": "cathédrale",
+            "type": 1,
+            "w": 3351
+        }
+    ],
+    "relations": [
+        {
+            "id": 1152601845,
+            "node1": 2180,
+            "node2": 70527,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152601828,
+            "node1": 2180,
+            "node2": 191881,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1152601859,
+            "node1": 2180,
+            "node2": 259698,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T22:29:40.586422",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "cathédrale",
+        "#relations": 3,
+        "max_relation_weight": 25.0,
+        "#nodes": 4,
+        "duration": "0:00:00.003925"
+    }
+}

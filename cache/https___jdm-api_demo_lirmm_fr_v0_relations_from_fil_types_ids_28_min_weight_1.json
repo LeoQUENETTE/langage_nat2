@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "id": 2090,
+            "name": "funambule",
+            "type": 1,
+            "w": 135
+        },
+        {
+            "id": 125506,
+            "name": "électricité",
+            "type": 1,
+            "w": 5311
+        },
+        {
+            "id": 128782,
+            "name": "fil",
+            "type": 1,
+            "w": 5593
+        },
+        {
+            "id": 14040621,
+            "name": "funambule>73457",
+            "type": 1,
+            "w": 2
+        }
+    ],
+    "relations": [
+        {
+            "id": 354633254,
+            "node1": 128782,
+            "node2": 2090,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 11342643,
+            "node1": 128782,
+            "node2": 125506,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 355011372,
+            "node1": 128782,
+            "node2": 14040621,
+            "type": 28,
+            "w": 15.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:44:38.420986",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "fil",
+        "#relations": 3,
+        "max_relation_weight": 38.0,
+        "#nodes": 4,
+        "duration": "0:00:00.004993"
+    }
+}

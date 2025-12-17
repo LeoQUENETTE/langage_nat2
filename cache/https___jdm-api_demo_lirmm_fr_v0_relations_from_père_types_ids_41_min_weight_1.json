@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 463138239,
+            "name": "éducation réussie",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 142124,
+            "name": "garçon",
+            "type": 1,
+            "w": 6988
+        },
+        {
+            "id": 102812,
+            "name": "père",
+            "type": 1,
+            "w": 32980
+        },
+        {
+            "id": 146333,
+            "name": "fils",
+            "type": 1,
+            "w": 11150
+        },
+        {
+            "id": 253273,
+            "name": "lien familial",
+            "type": 1,
+            "w": 103
+        }
+    ],
+    "relations": [
+        {
+            "id": 14658055,
+            "node1": 102812,
+            "node2": 142124,
+            "type": 41,
+            "w": 31.0
+        },
+        {
+            "id": 14659061,
+            "node1": 102812,
+            "node2": 146333,
+            "type": 41,
+            "w": 26.0
+        },
+        {
+            "id": 1152113035,
+            "node1": 102812,
+            "node2": 253273,
+            "type": 41,
+            "w": 25.0
+        },
+        {
+            "id": 1152113034,
+            "node1": 102812,
+            "node2": 463138239,
+            "type": 41,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            41
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T19:01:31.227430",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "père",
+        "#relations": 4,
+        "max_relation_weight": 31.0,
+        "#nodes": 5,
+        "duration": "0:00:00.009758"
+    }
+}

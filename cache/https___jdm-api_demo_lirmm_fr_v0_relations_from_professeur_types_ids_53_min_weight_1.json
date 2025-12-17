@@ -1,0 +1,105 @@
+{
+    "nodes": [
+        {
+            "id": 60866,
+            "name": "cours",
+            "type": 1,
+            "w": 14782
+        },
+        {
+            "id": 147086,
+            "name": "compétences",
+            "type": 1,
+            "w": 6938
+        },
+        {
+            "id": 145580,
+            "name": "programme",
+            "type": 1,
+            "w": 9100
+        },
+        {
+            "id": 27268,
+            "name": "examen",
+            "type": 1,
+            "w": 4284
+        },
+        {
+            "id": 34025,
+            "name": "savoir",
+            "type": 1,
+            "w": 55066
+        },
+        {
+            "id": 36568,
+            "name": "professeur",
+            "type": 1,
+            "w": 8475
+        }
+    ],
+    "relations": [
+        {
+            "id": 1131440287,
+            "node1": 36568,
+            "node2": 27268,
+            "type": 53,
+            "w": 27.0
+        },
+        {
+            "id": 1131440510,
+            "node1": 36568,
+            "node2": 34025,
+            "type": 53,
+            "w": 31.0
+        },
+        {
+            "id": 898974689,
+            "node1": 36568,
+            "node2": 60866,
+            "type": 53,
+            "w": 51.0
+        },
+        {
+            "id": 1131440444,
+            "node1": 36568,
+            "node2": 145580,
+            "type": 53,
+            "w": 25.0
+        },
+        {
+            "id": 1155612536,
+            "node1": 36568,
+            "node2": 147086,
+            "type": 53,
+            "w": 25.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            53
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:33:01.519585",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "professeur",
+        "#relations": 5,
+        "max_relation_weight": 51.0,
+        "#nodes": 6,
+        "duration": "0:00:00.004545"
+    }
+}

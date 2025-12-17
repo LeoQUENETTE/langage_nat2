@@ -1,0 +1,6735 @@
+{
+    "nodes": [
+        {
+            "id": 164114,
+            "name": "carte de visite",
+            "type": 1,
+            "w": 201
+        },
+        {
+            "id": 263640,
+            "name": "miroir de poche",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 282675,
+            "name": "stylo-bic",
+            "type": 777,
+            "w": 50
+        },
+        {
+            "id": 165295,
+            "name": "katana",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 120500,
+            "name": "bonbon",
+            "type": 1,
+            "w": 2246
+        },
+        {
+            "id": 14947017,
+            "name": "en:sunglasses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14966798,
+            "name": "en:piece of clothing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 251723,
+            "name": "arme>237",
+            "type": 1,
+            "w": 101
+        },
+        {
+            "id": 15209570,
+            "name": "en:sweets",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9731,
+            "name": "fringues",
+            "type": 1,
+            "w": 218
+        },
+        {
+            "id": 2948444,
+            "name": "Cocktail Molotov",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 253583,
+            "name": "briquet jetable",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 251489,
+            "name": "aiguilles à tricoter",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 14938209,
+            "name": "en:zip",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 179502,
+            "name": "tenue de ville",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 151517,
+            "name": "bonbons",
+            "type": 1,
+            "w": 281
+        },
+        {
+            "id": 149534,
+            "name": "papiers",
+            "type": 1,
+            "w": 634
+        },
+        {
+            "id": 16102482,
+            "name": "en:panty liner",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15233449,
+            "name": "en:change purse",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15346609,
+            "name": "en:identity paper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15390428,
+            "name": "en:car key",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15450619,
+            "name": "en:large kitchen knife",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16833702,
+            "name": "en:oral contraceptive substances",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216981,
+            "name": "produit de maquillage",
+            "type": 1,
+            "w": 63
+        },
+        {
+            "id": 14939093,
+            "name": "en:fraise Tagada",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 67589,
+            "name": "billet",
+            "type": 1,
+            "w": 3812
+        },
+        {
+            "id": 14966796,
+            "name": "en:clothes",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 13090,
+            "name": "préservatif",
+            "type": 1,
+            "w": 648
+        },
+        {
+            "id": 15258536,
+            "name": "en:check book",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102404888,
+            "name": "Lunettes de soleil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 73003,
+            "name": "billes",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 25599,
+            "name": "serviette",
+            "type": 1,
+            "w": 1020
+        },
+        {
+            "id": 217636,
+            "name": "carnet>70206",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 14944043,
+            "name": "en:instinctive",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156782860,
+            "name": "Clé en main",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15223647,
+            "name": "en:vaginal contraceptive",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216028,
+            "name": "pied>216019>152101",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 132542,
+            "name": "arme blanche",
+            "type": 1,
+            "w": 481
+        },
+        {
+            "id": 57565,
+            "name": "crayon",
+            "type": 1,
+            "w": 2241
+        },
+        {
+            "id": 58832,
+            "name": "clope",
+            "type": 1,
+            "w": 501
+        },
+        {
+            "id": 14925775,
+            "name": "en:pair of knickers",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925780,
+            "name": "en:pants",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925777,
+            "name": "en:pair of pants",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16102481,
+            "name": "en:pantyliner",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17429429,
+            "name": "en:sunglass",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 84822,
+            "name": "calepin",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 83512,
+            "name": "marihuana",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 34157,
+            "name": "chocolat",
+            "type": 1,
+            "w": 4353
+        },
+        {
+            "id": 55249,
+            "name": "parfum",
+            "type": 1,
+            "w": 2518
+        },
+        {
+            "id": 15418047,
+            "name": "en:key chain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5725707,
+            "name": "Plug and Play",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 15226631,
+            "name": "en:the clothing industry",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 24372,
+            "name": "riz",
+            "type": 1,
+            "w": 2521
+        },
+        {
+            "id": 16912,
+            "name": "bijou",
+            "type": 1,
+            "w": 1420
+        },
+        {
+            "id": 15253717,
+            "name": "en:identification card",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 159074,
+            "name": "lunettes de soleil",
+            "type": 1,
+            "w": 128
+        },
+        {
+            "id": 139906,
+            "name": "poche",
+            "type": 1,
+            "w": 3536
+        },
+        {
+            "id": 16776324,
+            "name": "en:carambar",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14962722,
+            "name": "en:fountain pen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2547856,
+            "name": "flashlight",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 15417973,
+            "name": "clé sur porte",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 183655,
+            "name": "petite culotte",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15298136,
+            "name": "crayon à mine de plomb",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16166022,
+            "name": "bonbons croustillants à la banane",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 67093,
+            "name": "collier",
+            "type": 1,
+            "w": 1194
+        },
+        {
+            "id": 152113,
+            "name": "carte d'identité",
+            "type": 1,
+            "w": 373
+        },
+        {
+            "id": 139942,
+            "name": "botte",
+            "type": 1,
+            "w": 690
+        },
+        {
+            "id": 89140,
+            "name": "aspirine",
+            "type": 1,
+            "w": 445
+        },
+        {
+            "id": 15223653,
+            "name": "lettre française",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 14923840,
+            "name": "en:ballpoint pen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 132716,
+            "name": "baignoire",
+            "type": 1,
+            "w": 1085
+        },
+        {
+            "id": 15078369,
+            "name": "en:automatic weapon",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92080,
+            "name": "vêtements",
+            "type": 1,
+            "w": 3385
+        },
+        {
+            "id": 92965614,
+            "name": "Vêtement",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15274783,
+            "name": "en:balls",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 95569,
+            "name": "valseuses",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 14942092,
+            "name": "en:horse racing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15070192,
+            "name": "en:hanky",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15225738,
+            "name": "en:pocket handkerchief",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15458260,
+            "name": "en:paper handkerchief",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15458261,
+            "name": "en:Kleenex",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15108277,
+            "name": "en:lead pencil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134696,
+            "name": "carnet",
+            "type": 1,
+            "w": 463
+        },
+        {
+            "id": 202962,
+            "name": "lettres de créance",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15437790,
+            "name": "en:pocket hankie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15424044,
+            "name": "en:ponies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 265976029,
+            "name": "Spontanée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 162240,
+            "name": "patates",
+            "type": 1,
+            "w": 177
+        },
+        {
+            "id": 14928631,
+            "name": "en:turnkey",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 153517,
+            "name": "rouge à lèvres",
+            "type": 1,
+            "w": 337
+        },
+        {
+            "id": 17538461,
+            "name": "::>66:110925>24:17538456",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17538462,
+            "name": "::>66:17538461>15:40635",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 15316424,
+            "name": "en:sod all",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 232406,
+            "name": "culotte>51741",
+            "type": 1,
+            "w": 112
+        },
+        {
+            "id": 251442,
+            "name": "veste de cheval",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 235805,
+            "name": "reflex numérique",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 15197235,
+            "name": "en:Hermès square silk scarf",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 231476,
+            "name": "clé de voiture",
+            "type": 1,
+            "w": 59
+        },
+        {
+            "id": 251546784,
+            "name": "Commande à distance",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 167822,
+            "name": "fute",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 14939094,
+            "name": "en:Tagada strawberry",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 105800,
+            "name": "abats",
+            "type": 1,
+            "w": 138
+        },
+        {
+            "id": 450456411,
+            "name": "::>66:32720>24:450456406",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 684906,
+            "name": "roman>171870",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 153438,
+            "name": "clés",
+            "type": 1,
+            "w": 3415
+        },
+        {
+            "id": 348545,
+            "name": "du premier jet",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 27884,
+            "name": "condom",
+            "type": 1,
+            "w": 182
+        },
+        {
+            "id": 145948,
+            "name": "arme",
+            "type": 1,
+            "w": 6519
+        },
+        {
+            "id": 104460,
+            "name": "chevaux",
+            "type": 1,
+            "w": 2907
+        },
+        {
+            "id": 14964735,
+            "name": "en:postage stamp",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 131196,
+            "name": "carte",
+            "type": 1,
+            "w": 7935
+        },
+        {
+            "id": 107466129,
+            "name": "Arme d'épaule",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14941364,
+            "name": "en:garment",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 2507764,
+            "name": "anti-sèche",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15399454,
+            "name": "en:goolies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15371446,
+            "name": "en:zipping shut",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 104063643,
+            "name": "Cocktail molotov",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 189981,
+            "name": "ingrédient de cuisine",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 2433418,
+            "name": "Mary Jane",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 33377,
+            "name": "matériel",
+            "type": 1,
+            "w": 5551
+        },
+        {
+            "id": 95159,
+            "name": "provisions",
+            "type": 1,
+            "w": 95
+        },
+        {
+            "id": 137475,
+            "name": "fusil d'assaut",
+            "type": 1,
+            "w": 117
+        },
+        {
+            "id": 47597,
+            "name": "alcool",
+            "type": 1,
+            "w": 5936
+        },
+        {
+            "id": 100705,
+            "name": "renoncement",
+            "type": 1,
+            "w": 390
+        },
+        {
+            "id": 144916,
+            "name": "argent",
+            "type": 1,
+            "w": 18218
+        },
+        {
+            "id": 5531,
+            "name": "patate",
+            "type": 1,
+            "w": 517
+        },
+        {
+            "id": 37370,
+            "name": "dague",
+            "type": 1,
+            "w": 144
+        },
+        {
+            "id": 218298,
+            "name": "roman>38710",
+            "type": 1,
+            "w": 1120
+        },
+        {
+            "id": 240762,
+            "name": "monnaie>28851",
+            "type": 1,
+            "w": 53
+        },
+        {
+            "id": 15317840,
+            "name": "en:sunspecs",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 158591,
+            "name": "pommes de terre",
+            "type": 1,
+            "w": 578
+        },
+        {
+            "id": 420201,
+            "name": "pelotes",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 124987,
+            "name": "ordures",
+            "type": 1,
+            "w": 414
+        },
+        {
+            "id": 240237,
+            "name": "permis B",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 601498,
+            "name": "blé>171869",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 427697,
+            "name": "Réflexe",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 14938596,
+            "name": "en:flashlight",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15071382,
+            "name": "en:pocketbook",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15415189,
+            "name": "en:bottle of water",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 81934,
+            "name": "main",
+            "type": 1,
+            "w": 40197
+        },
+        {
+            "id": 15317839,
+            "name": "en:sun glasses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15311122,
+            "name": "que quick",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 150126,
+            "name": "références",
+            "type": 1,
+            "w": 3725
+        },
+        {
+            "id": 403220,
+            "name": "instinctive",
+            "type": 1,
+            "w": 81
+        },
+        {
+            "id": 131240,
+            "name": "lire",
+            "type": 1,
+            "w": 9779
+        },
+        {
+            "id": 6857870,
+            "name": "en:tissue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 28722,
+            "name": "cachette",
+            "type": 1,
+            "w": 505
+        },
+        {
+            "id": 120949,
+            "name": "vêtement",
+            "type": 1,
+            "w": 5699
+        },
+        {
+            "id": 88286,
+            "name": "violon",
+            "type": 1,
+            "w": 2908
+        },
+        {
+            "id": 241300,
+            "name": "prêt à l'emploi",
+            "type": 1,
+            "w": 23
+        },
+        {
+            "id": 34504,
+            "name": "persévérance",
+            "type": 1,
+            "w": 1885
+        },
+        {
+            "id": 52116,
+            "name": "franc",
+            "type": 1,
+            "w": 8892
+        },
+        {
+            "id": 156800520,
+            "name": "Aliment industriel",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2476931,
+            "name": "calpin",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 261105,
+            "name": "travail de bureau",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 16324909,
+            "name": "en:ID documents",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15417974,
+            "name": "clef sur porte",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15528521,
+            "name": "prête à l'usage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 301270755,
+            "name": "Plug and play",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 153732,
+            "name": "poubelles",
+            "type": 1,
+            "w": 167
+        },
+        {
+            "id": 246124,
+            "name": "doliprane",
+            "type": 1,
+            "w": 140
+        },
+        {
+            "id": 150,
+            "name": "chat",
+            "type": 1,
+            "w": 7223
+        },
+        {
+            "id": 15395770,
+            "name": "en:petrol bomb",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 18283,
+            "name": "céréale",
+            "type": 1,
+            "w": 721
+        },
+        {
+            "id": 163220259,
+            "name": "Courses de chevaux",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 142787,
+            "name": "livre",
+            "type": 1,
+            "w": 18439
+        },
+        {
+            "id": 153195,
+            "name": "stylo-bille",
+            "type": 1,
+            "w": 190
+        },
+        {
+            "id": 182428,
+            "name": "fermeture Éclair",
+            "type": 1,
+            "w": 15
+        },
+        {
+            "id": 34085,
+            "name": "courses",
+            "type": 1,
+            "w": 2801
+        },
+        {
+            "id": 16856620,
+            "name": "en:vaginal condom",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 34112,
+            "name": "faux pli",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 31750,
+            "name": "culotte",
+            "type": 1,
+            "w": 505
+        },
+        {
+            "id": 104703993,
+            "name": "Ingrédient de cuisine",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 157885,
+            "name": "bouteille d'eau",
+            "type": 1,
+            "w": 171
+        },
+        {
+            "id": 110014,
+            "name": "reflex",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 14966797,
+            "name": "en:item of clothing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 151579,
+            "name": "sucreries",
+            "type": 1,
+            "w": 195
+        },
+        {
+            "id": 17524195,
+            "name": "::>66:17524189>15:40635",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 30678,
+            "name": "briquet",
+            "type": 1,
+            "w": 855
+        },
+        {
+            "id": 156473,
+            "name": "crayon à papier",
+            "type": 1,
+            "w": 188
+        },
+        {
+            "id": 114637,
+            "name": "aliment",
+            "type": 1,
+            "w": 2446
+        },
+        {
+            "id": 213329,
+            "name": "clé>83048",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 216424,
+            "name": "clé>30843",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 101918,
+            "name": "vernis",
+            "type": 1,
+            "w": 336
+        },
+        {
+            "id": 1859,
+            "name": "cocktail Molotov",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 15509,
+            "name": "stylo",
+            "type": 1,
+            "w": 2782
+        },
+        {
+            "id": 15528522,
+            "name": "prête à l'emploi",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 15549231,
+            "name": "prêt à l'usage",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15648067,
+            "name": "en:Plug and Play",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216186,
+            "name": "bouteille>89628",
+            "type": 1,
+            "w": 130
+        },
+        {
+            "id": 138574372,
+            "name": "Arme automatique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 415915,
+            "name": "tampons",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 140417,
+            "name": "journal intime",
+            "type": 1,
+            "w": 304
+        },
+        {
+            "id": 121564069,
+            "name": "Billet de banque",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 112192,
+            "name": "cadavre",
+            "type": 1,
+            "w": 1003
+        },
+        {
+            "id": 81070,
+            "name": "AK-47",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 134670,
+            "name": "fourchette",
+            "type": 1,
+            "w": 1732
+        },
+        {
+            "id": 181095,
+            "name": "bijoux de famille",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 48825,
+            "name": "sac à main",
+            "type": 1,
+            "w": 483
+        },
+        {
+            "id": 16072158,
+            "name": "Arme à feu",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 3305364,
+            "name": "commande à distance",
+            "type": 777,
+            "w": 9
+        },
+        {
+            "id": 14924944,
+            "name": "en:shop",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 180655422,
+            "name": "Cocktail Molotov>16574693",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 1962872,
+            "name": "pomme de terre>130731",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 58561,
+            "name": "affaires",
+            "type": 1,
+            "w": 5329
+        },
+        {
+            "id": 32658242,
+            "name": "en:deskwork",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32658243,
+            "name": "en:desk work",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15428492,
+            "name": "en:groceries",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14453152,
+            "name": "carte nationale d'identité",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 153704,
+            "name": "stylo bille",
+            "type": 1,
+            "w": 140
+        },
+        {
+            "id": 214806,
+            "name": "botte>75377",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 62597,
+            "name": "portefeuille",
+            "type": 1,
+            "w": 821
+        },
+        {
+            "id": 80449,
+            "name": "déchets",
+            "type": 1,
+            "w": 4668
+        },
+        {
+            "id": 8834041,
+            "name": "en:marihuana",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 103389,
+            "name": "papier",
+            "type": 1,
+            "w": 7590
+        },
+        {
+            "id": 7054237,
+            "name": "en:supplies",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 117787,
+            "name": "poignée",
+            "type": 1,
+            "w": 1240
+        },
+        {
+            "id": 40635,
+            "name": "sac",
+            "type": 1,
+            "w": 4072
+        },
+        {
+            "id": 131617,
+            "name": "en-cas",
+            "type": 1,
+            "w": 129
+        },
+        {
+            "id": 14573417,
+            "name": "::>66:116477>24:14573415",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 107298,
+            "name": "instinctif",
+            "type": 1,
+            "w": 107
+        },
+        {
+            "id": 145817,
+            "name": "bourse",
+            "type": 1,
+            "w": 2927
+        },
+        {
+            "id": 139303,
+            "name": "drogue",
+            "type": 1,
+            "w": 2968
+        },
+        {
+            "id": 237,
+            "name": "objet",
+            "type": 1,
+            "w": 9528
+        },
+        {
+            "id": 132300,
+            "name": "maquillage",
+            "type": 1,
+            "w": 1043
+        },
+        {
+            "id": 15054679,
+            "name": "en:shooting iron",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14935854,
+            "name": "en:pull",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 67448,
+            "name": "pull",
+            "type": 1,
+            "w": 1264
+        },
+        {
+            "id": 104223485,
+            "name": "Tenue de ville",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13341099,
+            "name": "en:sweater",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 62788,
+            "name": "miroir",
+            "type": 1,
+            "w": 2738
+        },
+        {
+            "id": 32721,
+            "name": "capote anglaise",
+            "type": 1,
+            "w": 72
+        },
+        {
+            "id": 14938208,
+            "name": "en:zip fastener",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15400523,
+            "name": "en:day wear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15225739,
+            "name": "mouchoir de papier",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 152864,
+            "name": "pullover",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 15463517,
+            "name": "en:snot rag",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 229861,
+            "name": "smartphone",
+            "type": 1,
+            "w": 1232
+        },
+        {
+            "id": 17524189,
+            "name": "::>66:225916>24:17524187",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 90104,
+            "name": "burnes",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 14926179,
+            "name": "en:French letter",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 94890583,
+            "name": "Carte d'identité",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 127629,
+            "name": "farine",
+            "type": 1,
+            "w": 2628
+        },
+        {
+            "id": 15137438,
+            "name": "en:key ring",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 213833,
+            "name": "cadavre>122864",
+            "type": 1,
+            "w": 136
+        },
+        {
+            "id": 15078370,
+            "name": "en:automatic gun",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15258537,
+            "name": "en:cheque book",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 314193,
+            "name": "fraise Tagada",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15361652,
+            "name": "en:equestrianism",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7776827,
+            "name": "en:panties",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925776,
+            "name": "en:pair of panties",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15395767,
+            "name": "cocktail molotov",
+            "type": 1,
+            "w": 29
+        },
+        {
+            "id": 14930563,
+            "name": "en:bollocks",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 118414,
+            "name": "poubelle",
+            "type": 1,
+            "w": 871
+        },
+        {
+            "id": 15401016,
+            "name": "ensemble de ville",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 187279,
+            "name": "roubignoles",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 14962724,
+            "name": "en:felt-tip pen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15437789,
+            "name": "en:pocket hanky",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 154389,
+            "name": "timbre poste",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 251239,
+            "name": "liste d'ingrédients",
+            "type": 1,
+            "w": 11
+        },
+        {
+            "id": 236847,
+            "name": "protège-slip",
+            "type": 1,
+            "w": 55
+        },
+        {
+            "id": 257698,
+            "name": "crayon gris",
+            "type": 1,
+            "w": 48
+        },
+        {
+            "id": 15417314,
+            "name": "en:drawing pencil",
+            "type": 1,
+            "w": 27
+        },
+        {
+            "id": 15417315,
+            "name": "en:wood pencil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15083991,
+            "name": "en:variety meat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15076727,
+            "name": "en:provisions",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 163883,
+            "name": "serviette de plage",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 15046121,
+            "name": "en:Japanese plum",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15268675,
+            "name": "clés en main",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 15399772,
+            "name": "clef en main",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14926259,
+            "name": "en:caramel candy",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16707,
+            "name": "bank-note",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15042420,
+            "name": "en:bank bill",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7606258,
+            "name": "en:portable",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15198131,
+            "name": "PC portable",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 15212131,
+            "name": "en:wearable computer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15212132,
+            "name": "en:handled computer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7437651,
+            "name": "en:laptop computer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15390427,
+            "name": "clef de voiture",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32071,
+            "name": "blé",
+            "type": 1,
+            "w": 2829
+        },
+        {
+            "id": 14923962,
+            "name": "en:banknote",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15210860,
+            "name": "en:bankbill",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2571049,
+            "name": "banknote",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15042421,
+            "name": "en:bank note",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 12536,
+            "name": "macache",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 15060359,
+            "name": "en:zilch",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14938207,
+            "name": "en:slide fastener",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15058237,
+            "name": "en:stone fruit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15225750,
+            "name": "en:nasal wipe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 25996,
+            "name": "monnaie",
+            "type": 1,
+            "w": 6773
+        },
+        {
+            "id": 228009,
+            "name": "mouchoir de poche",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 148027,
+            "name": "équipements",
+            "type": 1,
+            "w": 3220
+        },
+        {
+            "id": 6904872,
+            "name": "en:spontaneous",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 138416,
+            "name": "papiers d'identité",
+            "type": 1,
+            "w": 85
+        },
+        {
+            "id": 154128,
+            "name": "tablette de chocolat",
+            "type": 1,
+            "w": 308
+        },
+        {
+            "id": 15223648,
+            "name": "en:female condom",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2328172,
+            "name": "postage stamp",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 152137,
+            "name": "fraise tagada",
+            "type": 1,
+            "w": 79
+        },
+        {
+            "id": 14938992,
+            "name": "en:handkerchief",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14964778,
+            "name": "en:hankie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 229702,
+            "name": "petite laine",
+            "type": 1,
+            "w": 134
+        },
+        {
+            "id": 13451305,
+            "name": "en:shawl",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9967213,
+            "name": "Livre de poche",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 214230,
+            "name": "fermeture à glissière",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 8467325,
+            "name": "en:zipper",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15318046,
+            "name": "en:pull-over",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 228602,
+            "name": "aliment industriel",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 73206,
+            "name": "fermeture éclair",
+            "type": 1,
+            "w": 140
+        },
+        {
+            "id": 3762435,
+            "name": "ingrédient de recette de cuisine",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 16151730,
+            "name": "en:id card",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14926452,
+            "name": "en:ID card",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14926453,
+            "name": "en:identity card",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 181349,
+            "name": "carte de paiement",
+            "type": 1,
+            "w": 78
+        },
+        {
+            "id": 138546,
+            "name": "écritures",
+            "type": 1,
+            "w": 526
+        },
+        {
+            "id": 153813,
+            "name": "lampe de poche",
+            "type": 1,
+            "w": 167
+        },
+        {
+            "id": 7329923,
+            "name": "en:shopping",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 18625,
+            "name": "porte-clés",
+            "type": 1,
+            "w": 160
+        },
+        {
+            "id": 27480,
+            "name": "godemiché",
+            "type": 1,
+            "w": 126
+        },
+        {
+            "id": 44078,
+            "name": "drupe",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 62396,
+            "name": "tire-jus",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 63443,
+            "name": "lampe-torche",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 69230,
+            "name": "porte-clef",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 81229,
+            "name": "tromblon",
+            "type": 1,
+            "w": 65
+        },
+        {
+            "id": 106278,
+            "name": "coutelas",
+            "type": 1,
+            "w": 252
+        },
+        {
+            "id": 1845118,
+            "name": "spontané, ée",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 123131,
+            "name": "courses de chevaux",
+            "type": 1,
+            "w": 74
+        },
+        {
+            "id": 137999,
+            "name": "marie-jeanne",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 152835,
+            "name": "carambar",
+            "type": 1,
+            "w": 180
+        },
+        {
+            "id": 153140,
+            "name": "gode",
+            "type": 1,
+            "w": 150
+        },
+        {
+            "id": 153149,
+            "name": "pièce d'identité",
+            "type": 1,
+            "w": 100
+        },
+        {
+            "id": 15233731,
+            "name": "preuve d'identité",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 158836,
+            "name": "mouchoir en papier",
+            "type": 1,
+            "w": 294
+        },
+        {
+            "id": 176423,
+            "name": "laptop",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 189989,
+            "name": "fruit à noyau",
+            "type": 1,
+            "w": 35
+        },
+        {
+            "id": 197280,
+            "name": "carnet de chèques",
+            "type": 1,
+            "w": 145
+        },
+        {
+            "id": 14927679,
+            "name": "en:checkbook",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14927680,
+            "name": "en:chequebook",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 206504,
+            "name": "provisions de bouche",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 218603,
+            "name": "violon>91594",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 224162,
+            "name": "épreuve>56865",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 14927285,
+            "name": "en:pullover sweater",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 115075,
+            "name": "approvisionnement",
+            "type": 1,
+            "w": 1834
+        },
+        {
+            "id": 236665,
+            "name": "parfum>76169",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 240695,
+            "name": "crayon>76169",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 7327917,
+            "name": "en:documents",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 153506,
+            "name": "livre de poche",
+            "type": 1,
+            "w": 114
+        },
+        {
+            "id": 7332088,
+            "name": "en:paperwork",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13200808,
+            "name": "papers",
+            "type": 1,
+            "w": 37
+        },
+        {
+            "id": 15093826,
+            "name": "en:ID",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420726,
+            "name": "en:proof of identity",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15420727,
+            "name": "en:proof of ID",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 248409,
+            "name": "Carambar",
+            "type": 666,
+            "w": 50
+        },
+        {
+            "id": 248740,
+            "name": "contraceptifs oraux",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 250807,
+            "name": "carré Hermès",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 62726,
+            "name": "plume",
+            "type": 1,
+            "w": 2929
+        },
+        {
+            "id": 244875,
+            "name": "documents",
+            "type": 1,
+            "w": 4074
+        },
+        {
+            "id": 257401,
+            "name": "spray buccal",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 259382,
+            "name": "fruit à pépin",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 260212,
+            "name": "plug and play",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 262265,
+            "name": "Livre de Poche",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 15572900,
+            "name": "en:business wear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15398335,
+            "name": "en:town suit",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9755,
+            "name": "maillot de bain",
+            "type": 1,
+            "w": 315
+        },
+        {
+            "id": 93966,
+            "name": "maillot",
+            "type": 1,
+            "w": 1633
+        },
+        {
+            "id": 318862,
+            "name": "crayon de bois",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 70606,
+            "name": "chemise",
+            "type": 1,
+            "w": 2184
+        },
+        {
+            "id": 146017,
+            "name": "peigne",
+            "type": 1,
+            "w": 525
+        },
+        {
+            "id": 152101,
+            "name": "appareil photo",
+            "type": 1,
+            "w": 392
+        },
+        {
+            "id": 148203,
+            "name": "fournitures",
+            "type": 1,
+            "w": 392
+        },
+        {
+            "id": 10458859,
+            "name": "Pièce d'identité",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 125723,
+            "name": "paperasserie",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 6910749,
+            "name": "en:marijuana",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10122,
+            "name": "jupe",
+            "type": 1,
+            "w": 1058
+        },
+        {
+            "id": 1781255,
+            "name": "clé en main",
+            "type": 1,
+            "w": 43
+        },
+        {
+            "id": 14957137,
+            "name": "en:pullover",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17585860,
+            "name": "pull>120949",
+            "type": 1,
+            "w": 18
+        },
+        {
+            "id": 15233310,
+            "name": "en:fire-arm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14939431,
+            "name": "en:assault rifle",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2528717,
+            "name": "portemonnaie",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 32610,
+            "name": "couteau",
+            "type": 1,
+            "w": 4346
+        },
+        {
+            "id": 217853,
+            "name": "arme automatique",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 3181819,
+            "name": "Provisions",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 13260,
+            "name": "sel",
+            "type": 1,
+            "w": 3119
+        },
+        {
+            "id": 15419731,
+            "name": "en:clothing item",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 5990937,
+            "name": "pants",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 92353,
+            "name": "lentilles",
+            "type": 1,
+            "w": 392
+        },
+        {
+            "id": 39149,
+            "name": "cuir",
+            "type": 1,
+            "w": 1856
+        },
+        {
+            "id": 135209,
+            "name": "sweater",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 154092,
+            "name": "pull over",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 138930,
+            "name": "tampon",
+            "type": 1,
+            "w": 317
+        },
+        {
+            "id": 6913002,
+            "name": "en:condom",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 63012,
+            "name": "blague",
+            "type": 1,
+            "w": 1197
+        },
+        {
+            "id": 7010627,
+            "name": "en:clothing",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 132757,
+            "name": "pomme de terre",
+            "type": 1,
+            "w": 1503
+        },
+        {
+            "id": 2359,
+            "name": "antisèche",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 8055025,
+            "name": "en:offal",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 10881,
+            "name": "bouton",
+            "type": 1,
+            "w": 1349
+        },
+        {
+            "id": 8525350,
+            "name": "en:smartphone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 9000876,
+            "name": "en:nothing at all",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 117423,
+            "name": "bouteille",
+            "type": 1,
+            "w": 2887
+        },
+        {
+            "id": 237609,
+            "name": "préservatif féminin",
+            "type": 1,
+            "w": 23
+        },
+        {
+            "id": 12659,
+            "name": "roustons",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 80503,
+            "name": "chéquier",
+            "type": 1,
+            "w": 292
+        },
+        {
+            "id": 14079779,
+            "name": "en:pencil",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 39788,
+            "name": "marijuana",
+            "type": 1,
+            "w": 251
+        },
+        {
+            "id": 247827,
+            "name": "téléphone>106265",
+            "type": 1,
+            "w": 115
+        },
+        {
+            "id": 14446692,
+            "name": "Queue de cerise",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 156067,
+            "name": "préservatifs",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 14723776,
+            "name": "absolument rien",
+            "type": 1,
+            "w": 34
+        },
+        {
+            "id": 14916744,
+            "name": "en:giblets",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 92777941,
+            "name": "Ordinateur portable",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 2463,
+            "name": "ordinateur portable",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 310179,
+            "name": "téléphone intelligent",
+            "type": 777,
+            "w": 70
+        },
+        {
+            "id": 14934211,
+            "name": "en:drupe",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14952160,
+            "name": "en:laptop",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14952161,
+            "name": "en:luggable",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14952162,
+            "name": "en:notebook computer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14954670,
+            "name": "en:papers",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14954669,
+            "name": "en:identity document",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14955299,
+            "name": "en:plug and play",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14955952,
+            "name": "en:keychain",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14960244,
+            "name": "en:stylus",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15048447,
+            "name": "en:credentials",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15066794,
+            "name": "en:softback",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15067440,
+            "name": "en:driving license",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15082687,
+            "name": "en:portable computer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15204749,
+            "name": "en:fountainpen",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15208226,
+            "name": "en:driving licenses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15225755,
+            "name": "en:paper tissue",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15253711,
+            "name": "en:national ID card",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15258228,
+            "name": "en:race meeting",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15277214,
+            "name": "en:French rubber",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15285704,
+            "name": "en:smart phone",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15297670,
+            "name": "en:impulsive person",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15330840,
+            "name": "en:keytag",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15342907,
+            "name": "en:hand-held-computer",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15346602,
+            "name": "en:a form of identification",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15364769,
+            "name": "en:races",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15380975,
+            "name": "en:horse races",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15380974,
+            "name": "courses de galop",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15399770,
+            "name": "en:key in hand",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15413830,
+            "name": "en:elegant casual wear",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414778,
+            "name": "en:ready for use",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414779,
+            "name": "en:ready to use",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414780,
+            "name": "en:ready to roll",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414781,
+            "name": "en:all ready to roll",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15414782,
+            "name": "clefs en main",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15422405,
+            "name": "en:cherry stalk",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15422406,
+            "name": "en:sweet FA",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 15424043,
+            "name": "en:horses",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14428071,
+            "name": "Fraise Tagada",
+            "type": 777,
+            "w": 28
+        },
+        {
+            "id": 16324908,
+            "name": "en:ID papers",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 16746360,
+            "name": "en:food supplies",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 17458729,
+            "name": "::>66:14573417>15:40635",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17458727,
+            "name": "::>66:17458726>15:40635",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17458726,
+            "name": "::>66:116477>24:16358227",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17458735,
+            "name": "::>66:17458734>15:40635",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17458738,
+            "name": "::>66:61490>24:17458736",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17458739,
+            "name": "::>66:17458738>15:40635",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17458734,
+            "name": "::>66:61490>24:14573415",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 17524198,
+            "name": "::>66:116477>24:17524187",
+            "type": 8,
+            "w": 10
+        },
+        {
+            "id": 33473306,
+            "name": "en:crib sheet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 33636874,
+            "name": "en:organ meat",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 34872300,
+            "name": "en:identity documents",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 64210,
+            "name": "vivres",
+            "type": 1,
+            "w": 152
+        },
+        {
+            "id": 51196308,
+            "name": "en:Plug-and-Play",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 51196309,
+            "name": "en:plug-and-play",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 51196310,
+            "name": "à exécution automatique",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 56619846,
+            "name": "en:postal stamp",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 238547,
+            "name": "franc>25996",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 155684,
+            "name": "billet de banque",
+            "type": 1,
+            "w": 220
+        },
+        {
+            "id": 99520599,
+            "name": "Appareil photo",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 102404935,
+            "name": "Fermeture à glissière",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 107902423,
+            "name": "Téléphone intelligent",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 156857353,
+            "name": "Fermeture Éclair",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 72493,
+            "name": "timbre-poste",
+            "type": 1,
+            "w": 129
+        },
+        {
+            "id": 29118,
+            "name": "tablette",
+            "type": 1,
+            "w": 771
+        },
+        {
+            "id": 163546,
+            "name": "cigarettes",
+            "type": 1,
+            "w": 211
+        },
+        {
+            "id": 94975,
+            "name": "portable",
+            "type": 1,
+            "w": 2080
+        },
+        {
+            "id": 113087,
+            "name": "semence",
+            "type": 1,
+            "w": 397
+        },
+        {
+            "id": 104108,
+            "name": "chaussette",
+            "type": 1,
+            "w": 687
+        },
+        {
+            "id": 417520,
+            "name": "clopes",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 50346,
+            "name": "hippisme",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 1448611,
+            "name": "bonbon>171870",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 7420611,
+            "name": "en:firearm",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 69646,
+            "name": "révolver",
+            "type": 1,
+            "w": 239
+        },
+        {
+            "id": 7770335,
+            "name": "en:revolver",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 115865,
+            "name": "trou",
+            "type": 1,
+            "w": 4651
+        },
+        {
+            "id": 257758,
+            "name": "objet de luxe",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 225944,
+            "name": "lire>25996",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 164790,
+            "name": "biscuits",
+            "type": 1,
+            "w": 130
+        },
+        {
+            "id": 239308,
+            "name": "crayon de papier",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 329397,
+            "name": "crayon à mine",
+            "type": 1,
+            "w": 51
+        },
+        {
+            "id": 82252,
+            "name": "pull-over",
+            "type": 1,
+            "w": 212
+        },
+        {
+            "id": 225445,
+            "name": "Stabilo",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 140770,
+            "name": "laine",
+            "type": 1,
+            "w": 2205
+        },
+        {
+            "id": 240697,
+            "name": "crayon>4898719",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 17663,
+            "name": "porte-monnaie",
+            "type": 1,
+            "w": 518
+        },
+        {
+            "id": 14955962,
+            "name": "en:wallet",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14925797,
+            "name": "en:pocket book",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 14724702,
+            "name": "lentilles>85014",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 165421,
+            "name": "queue de cerise",
+            "type": 1,
+            "w": 57
+        },
+        {
+            "id": 217154,
+            "name": "monnaie>103345",
+            "type": 1,
+            "w": 39
+        },
+        {
+            "id": 144102,
+            "name": "téléphone",
+            "type": 1,
+            "w": 6260
+        },
+        {
+            "id": 105884,
+            "name": "arme à feu",
+            "type": 1,
+            "w": 587
+        },
+        {
+            "id": 144950,
+            "name": "revolver",
+            "type": 1,
+            "w": 617
+        },
+        {
+            "id": 78725,
+            "name": "parties",
+            "type": 1,
+            "w": 5072
+        },
+        {
+            "id": 15387880,
+            "name": "en:digital reflex",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 134712,
+            "name": "boussole",
+            "type": 1,
+            "w": 551
+        },
+        {
+            "id": 133034,
+            "name": "mouchoir",
+            "type": 1,
+            "w": 577
+        },
+        {
+            "id": 99520620,
+            "name": "Mouchoir",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 216024,
+            "name": "pied>216019",
+            "type": 1,
+            "w": 54
+        },
+        {
+            "id": 265389,
+            "name": "spontanée",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 260635,
+            "name": "arme d'épaule",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 14549171,
+            "name": "Fusil d'assaut",
+            "type": 777,
+            "w": 25
+        },
+        {
+            "id": 231675,
+            "name": "M&M's",
+            "type": 666,
+            "w": 57
+        }
+    ],
+    "relations": [
+        {
+            "id": 217913744,
+            "node1": 40635,
+            "node2": 150,
+            "type": 28,
+            "w": 64.0
+        },
+        {
+            "id": 11345162,
+            "node1": 40635,
+            "node2": 237,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 563131334,
+            "node1": 40635,
+            "node2": 1859,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11335587,
+            "node1": 40635,
+            "node2": 2359,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 211404170,
+            "node1": 40635,
+            "node2": 2463,
+            "type": 28,
+            "w": 65.0
+        },
+        {
+            "id": 11336441,
+            "node1": 40635,
+            "node2": 5531,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 964965717,
+            "node1": 40635,
+            "node2": 9731,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 622165174,
+            "node1": 40635,
+            "node2": 9755,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 11316326,
+            "node1": 40635,
+            "node2": 10122,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 765140327,
+            "node1": 40635,
+            "node2": 10881,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 926898071,
+            "node1": 40635,
+            "node2": 12536,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 1037318143,
+            "node1": 40635,
+            "node2": 12659,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 2234811,
+            "node1": 40635,
+            "node2": 13090,
+            "type": 28,
+            "w": 88.0
+        },
+        {
+            "id": 11343322,
+            "node1": 40635,
+            "node2": 13260,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 383704,
+            "node1": 40635,
+            "node2": 15509,
+            "type": 28,
+            "w": 99.0
+        },
+        {
+            "id": 1047801423,
+            "node1": 40635,
+            "node2": 16707,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 12328322,
+            "node1": 40635,
+            "node2": 16912,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 265166,
+            "node1": 40635,
+            "node2": 17663,
+            "type": 28,
+            "w": 118.0
+        },
+        {
+            "id": 11345243,
+            "node1": 40635,
+            "node2": 18283,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 361373271,
+            "node1": 40635,
+            "node2": 18625,
+            "type": 28,
+            "w": 52.0
+        },
+        {
+            "id": 1042485591,
+            "node1": 40635,
+            "node2": 24372,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 622165178,
+            "node1": 40635,
+            "node2": 25599,
+            "type": 28,
+            "w": 59.0
+        },
+        {
+            "id": 11347446,
+            "node1": 40635,
+            "node2": 25996,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 622165180,
+            "node1": 40635,
+            "node2": 27480,
+            "type": 28,
+            "w": 71.0
+        },
+        {
+            "id": 11347263,
+            "node1": 40635,
+            "node2": 27884,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 24249829,
+            "node1": 40635,
+            "node2": 28722,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 620139854,
+            "node1": 40635,
+            "node2": 29118,
+            "type": 28,
+            "w": 56.0
+        },
+        {
+            "id": 11345088,
+            "node1": 40635,
+            "node2": 30678,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104938251,
+            "node1": 40635,
+            "node2": 31750,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11348967,
+            "node1": 40635,
+            "node2": 32071,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11338728,
+            "node1": 40635,
+            "node2": 32610,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 515245971,
+            "node1": 40635,
+            "node2": 32721,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 96740312,
+            "node1": 40635,
+            "node2": 33377,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 2123474,
+            "node1": 40635,
+            "node2": 34085,
+            "type": 28,
+            "w": 100.0
+        },
+        {
+            "id": 470993729,
+            "node1": 40635,
+            "node2": 34112,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 636572379,
+            "node1": 40635,
+            "node2": 34157,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 640061697,
+            "node1": 40635,
+            "node2": 34504,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 11327036,
+            "node1": 40635,
+            "node2": 37370,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11346357,
+            "node1": 40635,
+            "node2": 39149,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 620139853,
+            "node1": 40635,
+            "node2": 39788,
+            "type": 28,
+            "w": 53.0
+        },
+        {
+            "id": 578607831,
+            "node1": 40635,
+            "node2": 44078,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 640062375,
+            "node1": 40635,
+            "node2": 47597,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 964966023,
+            "node1": 40635,
+            "node2": 48825,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 738365488,
+            "node1": 40635,
+            "node2": 50346,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104941997,
+            "node1": 40635,
+            "node2": 52116,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 640061702,
+            "node1": 40635,
+            "node2": 55249,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 11339120,
+            "node1": 40635,
+            "node2": 57565,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 96740313,
+            "node1": 40635,
+            "node2": 58561,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 11335232,
+            "node1": 40635,
+            "node2": 58832,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 515247577,
+            "node1": 40635,
+            "node2": 62396,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 357113,
+            "node1": 40635,
+            "node2": 62597,
+            "type": 28,
+            "w": 149.0
+        },
+        {
+            "id": 1037318449,
+            "node1": 40635,
+            "node2": 62726,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 217913715,
+            "node1": 40635,
+            "node2": 62788,
+            "type": 28,
+            "w": 52.0
+        },
+        {
+            "id": 580558138,
+            "node1": 40635,
+            "node2": 63012,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11309808,
+            "node1": 40635,
+            "node2": 63443,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 96740311,
+            "node1": 40635,
+            "node2": 64210,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 34381113,
+            "node1": 40635,
+            "node2": 67093,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 11345355,
+            "node1": 40635,
+            "node2": 67448,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11347148,
+            "node1": 40635,
+            "node2": 67589,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 537453141,
+            "node1": 40635,
+            "node2": 69230,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 13559789,
+            "node1": 40635,
+            "node2": 69646,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 1137750422,
+            "node1": 40635,
+            "node2": 70606,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 926897826,
+            "node1": 40635,
+            "node2": 72493,
+            "type": 28,
+            "w": 20.0
+        },
+        {
+            "id": 96740310,
+            "node1": 40635,
+            "node2": 73003,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 96740301,
+            "node1": 40635,
+            "node2": 73206,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 1037318095,
+            "node1": 40635,
+            "node2": 78725,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 639732478,
+            "node1": 40635,
+            "node2": 80449,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 265167,
+            "node1": 40635,
+            "node2": 80503,
+            "type": 28,
+            "w": 79.0
+        },
+        {
+            "id": 11326342,
+            "node1": 40635,
+            "node2": 81070,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11315964,
+            "node1": 40635,
+            "node2": 81229,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 622165175,
+            "node1": 40635,
+            "node2": 81934,
+            "type": 28,
+            "w": 61.0
+        },
+        {
+            "id": 13559197,
+            "node1": 40635,
+            "node2": 82252,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1037317410,
+            "node1": 40635,
+            "node2": 83512,
+            "type": 28,
+            "w": 12.0
+        },
+        {
+            "id": 11335218,
+            "node1": 40635,
+            "node2": 84822,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104939012,
+            "node1": 40635,
+            "node2": 88286,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104924626,
+            "node1": 40635,
+            "node2": 89140,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 470964607,
+            "node1": 40635,
+            "node2": 90104,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 1047801470,
+            "node1": 40635,
+            "node2": 92080,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 635064837,
+            "node1": 40635,
+            "node2": 92353,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 639732480,
+            "node1": 40635,
+            "node2": 93966,
+            "type": 28,
+            "w": 61.0
+        },
+        {
+            "id": 2234810,
+            "node1": 40635,
+            "node2": 94975,
+            "type": 28,
+            "w": 100.0
+        },
+        {
+            "id": 288419440,
+            "node1": 40635,
+            "node2": 95159,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 880068774,
+            "node1": 40635,
+            "node2": 95569,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 639732481,
+            "node1": 40635,
+            "node2": 100705,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 636572381,
+            "node1": 40635,
+            "node2": 101918,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 2457964,
+            "node1": 40635,
+            "node2": 103389,
+            "type": 28,
+            "w": 80.0
+        },
+        {
+            "id": 11325674,
+            "node1": 40635,
+            "node2": 104108,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 561136197,
+            "node1": 40635,
+            "node2": 104460,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 474007353,
+            "node1": 40635,
+            "node2": 105800,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11326855,
+            "node1": 40635,
+            "node2": 105884,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11314391,
+            "node1": 40635,
+            "node2": 106278,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 496808302,
+            "node1": 40635,
+            "node2": 107298,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 96740299,
+            "node1": 40635,
+            "node2": 110014,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 96740314,
+            "node1": 40635,
+            "node2": 112192,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 766153762,
+            "node1": 40635,
+            "node2": 113087,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11343325,
+            "node1": 40635,
+            "node2": 114637,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 909237743,
+            "node1": 40635,
+            "node2": 115075,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 11348382,
+            "node1": 40635,
+            "node2": 115865,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104940666,
+            "node1": 40635,
+            "node2": 117423,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11346576,
+            "node1": 40635,
+            "node2": 117787,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 217913743,
+            "node1": 40635,
+            "node2": 118414,
+            "type": 28,
+            "w": 52.0
+        },
+        {
+            "id": 11343324,
+            "node1": 40635,
+            "node2": 120500,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 2123475,
+            "node1": 40635,
+            "node2": 120949,
+            "type": 28,
+            "w": 98.0
+        },
+        {
+            "id": 585211605,
+            "node1": 40635,
+            "node2": 123131,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 96740316,
+            "node1": 40635,
+            "node2": 124987,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 880077980,
+            "node1": 40635,
+            "node2": 125723,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 11347328,
+            "node1": 40635,
+            "node2": 127629,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 2457963,
+            "node1": 40635,
+            "node2": 131196,
+            "type": 28,
+            "w": 101.0
+        },
+        {
+            "id": 104940955,
+            "node1": 40635,
+            "node2": 131240,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 217913732,
+            "node1": 40635,
+            "node2": 131617,
+            "type": 28,
+            "w": 52.0
+        },
+        {
+            "id": 2123476,
+            "node1": 40635,
+            "node2": 132300,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 11326665,
+            "node1": 40635,
+            "node2": 132542,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 375713524,
+            "node1": 40635,
+            "node2": 132716,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 314699461,
+            "node1": 40635,
+            "node2": 132757,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 272892,
+            "node1": 40635,
+            "node2": 133034,
+            "type": 28,
+            "w": 120.0
+        },
+        {
+            "id": 96740287,
+            "node1": 40635,
+            "node2": 134670,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 11339047,
+            "node1": 40635,
+            "node2": 134696,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11344378,
+            "node1": 40635,
+            "node2": 134712,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 585212401,
+            "node1": 40635,
+            "node2": 135209,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11326859,
+            "node1": 40635,
+            "node2": 137475,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 765139476,
+            "node1": 40635,
+            "node2": 137999,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 525323192,
+            "node1": 40635,
+            "node2": 138416,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 1054577975,
+            "node1": 40635,
+            "node2": 138546,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 217913740,
+            "node1": 40635,
+            "node2": 138930,
+            "type": 28,
+            "w": 62.0
+        },
+        {
+            "id": 1037318759,
+            "node1": 40635,
+            "node2": 139303,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 11343882,
+            "node1": 40635,
+            "node2": 139906,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 104941956,
+            "node1": 40635,
+            "node2": 139942,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 640061701,
+            "node1": 40635,
+            "node2": 140417,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 602934477,
+            "node1": 40635,
+            "node2": 140770,
+            "type": 28,
+            "w": 6.0
+        },
+        {
+            "id": 11316051,
+            "node1": 40635,
+            "node2": 142787,
+            "type": 28,
+            "w": 62.0
+        },
+        {
+            "id": 11345255,
+            "node1": 40635,
+            "node2": 144102,
+            "type": 28,
+            "w": 50.0
+        },
+        {
+            "id": 357112,
+            "node1": 40635,
+            "node2": 144916,
+            "type": 28,
+            "w": 139.0
+        },
+        {
+            "id": 11326635,
+            "node1": 40635,
+            "node2": 144950,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11346809,
+            "node1": 40635,
+            "node2": 145817,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11344182,
+            "node1": 40635,
+            "node2": 145948,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1040748907,
+            "node1": 40635,
+            "node2": 146017,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 617033295,
+            "node1": 40635,
+            "node2": 148027,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 617033293,
+            "node1": 40635,
+            "node2": 148203,
+            "type": 28,
+            "w": 23.0
+        },
+        {
+            "id": 272893,
+            "node1": 40635,
+            "node2": 149534,
+            "type": 28,
+            "w": 80.0
+        },
+        {
+            "id": 1054569889,
+            "node1": 40635,
+            "node2": 150126,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 375127483,
+            "node1": 40635,
+            "node2": 151517,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 1054570343,
+            "node1": 40635,
+            "node2": 151579,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 620139852,
+            "node1": 40635,
+            "node2": 152101,
+            "type": 28,
+            "w": 66.0
+        },
+        {
+            "id": 1597970,
+            "node1": 40635,
+            "node2": 152113,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 11328409,
+            "node1": 40635,
+            "node2": 152137,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11310796,
+            "node1": 40635,
+            "node2": 152835,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11315878,
+            "node1": 40635,
+            "node2": 152864,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 361373272,
+            "node1": 40635,
+            "node2": 153140,
+            "type": 28,
+            "w": 52.0
+        },
+        {
+            "id": 470960823,
+            "node1": 40635,
+            "node2": 153149,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 964965871,
+            "node1": 40635,
+            "node2": 153195,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1620790,
+            "node1": 40635,
+            "node2": 153438,
+            "type": 28,
+            "w": 89.0
+        },
+        {
+            "id": 561135606,
+            "node1": 40635,
+            "node2": 153506,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 622165176,
+            "node1": 40635,
+            "node2": 153517,
+            "type": 28,
+            "w": 55.0
+        },
+        {
+            "id": 964965065,
+            "node1": 40635,
+            "node2": 153704,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 640062376,
+            "node1": 40635,
+            "node2": 153732,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 620139855,
+            "node1": 40635,
+            "node2": 153813,
+            "type": 28,
+            "w": 54.0
+        },
+        {
+            "id": 13673862,
+            "node1": 40635,
+            "node2": 154092,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 361373273,
+            "node1": 40635,
+            "node2": 154128,
+            "type": 28,
+            "w": 52.0
+        },
+        {
+            "id": 1037317382,
+            "node1": 40635,
+            "node2": 154389,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 96740318,
+            "node1": 40635,
+            "node2": 155684,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 640061698,
+            "node1": 40635,
+            "node2": 156067,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 11312520,
+            "node1": 40635,
+            "node2": 156473,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11334639,
+            "node1": 40635,
+            "node2": 157885,
+            "type": 28,
+            "w": 59.0
+        },
+        {
+            "id": 375966642,
+            "node1": 40635,
+            "node2": 158591,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 515248858,
+            "node1": 40635,
+            "node2": 158836,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 11332169,
+            "node1": 40635,
+            "node2": 159074,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 671623860,
+            "node1": 40635,
+            "node2": 162240,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 622165179,
+            "node1": 40635,
+            "node2": 163546,
+            "type": 28,
+            "w": 61.0
+        },
+        {
+            "id": 640061700,
+            "node1": 40635,
+            "node2": 163883,
+            "type": 28,
+            "w": 61.0
+        },
+        {
+            "id": 361373274,
+            "node1": 40635,
+            "node2": 164114,
+            "type": 28,
+            "w": 62.0
+        },
+        {
+            "id": 636572377,
+            "node1": 40635,
+            "node2": 164790,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 11326429,
+            "node1": 40635,
+            "node2": 165295,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 470994008,
+            "node1": 40635,
+            "node2": 165421,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 964965237,
+            "node1": 40635,
+            "node2": 167822,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 531534504,
+            "node1": 40635,
+            "node2": 176423,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11316384,
+            "node1": 40635,
+            "node2": 179502,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1037318111,
+            "node1": 40635,
+            "node2": 181095,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 217913737,
+            "node1": 40635,
+            "node2": 181349,
+            "type": 28,
+            "w": 52.0
+        },
+        {
+            "id": 96740298,
+            "node1": 40635,
+            "node2": 182428,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11336409,
+            "node1": 40635,
+            "node2": 183655,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 1037318127,
+            "node1": 40635,
+            "node2": 187279,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 11327886,
+            "node1": 40635,
+            "node2": 189981,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11327234,
+            "node1": 40635,
+            "node2": 189989,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 964965055,
+            "node1": 40635,
+            "node2": 197280,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 765139205,
+            "node1": 40635,
+            "node2": 202962,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 579955586,
+            "node1": 40635,
+            "node2": 206504,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 640062379,
+            "node1": 40635,
+            "node2": 213329,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 96740315,
+            "node1": 40635,
+            "node2": 213833,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 470994057,
+            "node1": 40635,
+            "node2": 214230,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 11327436,
+            "node1": 40635,
+            "node2": 214806,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 104941362,
+            "node1": 40635,
+            "node2": 216024,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 27691965,
+            "node1": 40635,
+            "node2": 216028,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 11328236,
+            "node1": 40635,
+            "node2": 216186,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11337107,
+            "node1": 40635,
+            "node2": 216424,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11311070,
+            "node1": 40635,
+            "node2": 216981,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11336838,
+            "node1": 40635,
+            "node2": 217154,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 639732479,
+            "node1": 40635,
+            "node2": 217636,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 11326761,
+            "node1": 40635,
+            "node2": 217853,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 636572378,
+            "node1": 40635,
+            "node2": 218298,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 15757001,
+            "node1": 40635,
+            "node2": 218603,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 622165177,
+            "node1": 40635,
+            "node2": 224162,
+            "type": 28,
+            "w": 57.0
+        },
+        {
+            "id": 11315592,
+            "node1": 40635,
+            "node2": 225445,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 29417573,
+            "node1": 40635,
+            "node2": 225944,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 515246900,
+            "node1": 40635,
+            "node2": 228009,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11311389,
+            "node1": 40635,
+            "node2": 228602,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 470973015,
+            "node1": 40635,
+            "node2": 229702,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 15089986,
+            "node1": 40635,
+            "node2": 229861,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11333303,
+            "node1": 40635,
+            "node2": 231476,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11327045,
+            "node1": 40635,
+            "node2": 231675,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11310575,
+            "node1": 40635,
+            "node2": 232406,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 601999714,
+            "node1": 40635,
+            "node2": 235805,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 640061699,
+            "node1": 40635,
+            "node2": 236665,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 11333426,
+            "node1": 40635,
+            "node2": 236847,
+            "type": 28,
+            "w": 59.0
+        },
+        {
+            "id": 11335974,
+            "node1": 40635,
+            "node2": 237609,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 27056982,
+            "node1": 40635,
+            "node2": 238547,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 11312511,
+            "node1": 40635,
+            "node2": 239308,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11334325,
+            "node1": 40635,
+            "node2": 240237,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 11311245,
+            "node1": 40635,
+            "node2": 240695,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11311313,
+            "node1": 40635,
+            "node2": 240697,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11334684,
+            "node1": 40635,
+            "node2": 240762,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 470979860,
+            "node1": 40635,
+            "node2": 241300,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 617338614,
+            "node1": 40635,
+            "node2": 244875,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 104924627,
+            "node1": 40635,
+            "node2": 246124,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 11331671,
+            "node1": 40635,
+            "node2": 247827,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11310819,
+            "node1": 40635,
+            "node2": 248409,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11330158,
+            "node1": 40635,
+            "node2": 248740,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11329107,
+            "node1": 40635,
+            "node2": 250807,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 11327721,
+            "node1": 40635,
+            "node2": 251239,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11325624,
+            "node1": 40635,
+            "node2": 251442,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11325505,
+            "node1": 40635,
+            "node2": 251489,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11327869,
+            "node1": 40635,
+            "node2": 251723,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11308742,
+            "node1": 40635,
+            "node2": 253583,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 11329882,
+            "node1": 40635,
+            "node2": 257401,
+            "type": 28,
+            "w": 39.0
+        },
+        {
+            "id": 470957990,
+            "node1": 40635,
+            "node2": 257698,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 11315814,
+            "node1": 40635,
+            "node2": 257758,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 487253519,
+            "node1": 40635,
+            "node2": 259382,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 738362786,
+            "node1": 40635,
+            "node2": 260212,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 14098905,
+            "node1": 40635,
+            "node2": 260635,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 824742984,
+            "node1": 40635,
+            "node2": 261105,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 1054566933,
+            "node1": 40635,
+            "node2": 262265,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 636572376,
+            "node1": 40635,
+            "node2": 263640,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 1054573198,
+            "node1": 40635,
+            "node2": 265389,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 15790571,
+            "node1": 40635,
+            "node2": 282675,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 1054574217,
+            "node1": 40635,
+            "node2": 310179,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 375718170,
+            "node1": 40635,
+            "node2": 314193,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470957986,
+            "node1": 40635,
+            "node2": 318862,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 492104437,
+            "node1": 40635,
+            "node2": 329397,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 521817560,
+            "node1": 40635,
+            "node2": 348545,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 617034888,
+            "node1": 40635,
+            "node2": 403220,
+            "type": 28,
+            "w": 23.0
+        },
+        {
+            "id": 636572380,
+            "node1": 40635,
+            "node2": 415915,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 640062378,
+            "node1": 40635,
+            "node2": 417520,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 594577457,
+            "node1": 40635,
+            "node2": 420201,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 474007357,
+            "node1": 40635,
+            "node2": 427697,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 605759246,
+            "node1": 40635,
+            "node2": 601498,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 765145966,
+            "node1": 40635,
+            "node2": 684906,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 721190370,
+            "node1": 40635,
+            "node2": 1448611,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 492104181,
+            "node1": 40635,
+            "node2": 1781255,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 474007356,
+            "node1": 40635,
+            "node2": 1845118,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 615053194,
+            "node1": 40635,
+            "node2": 1962872,
+            "type": 28,
+            "w": 23.0
+        },
+        {
+            "id": 617035359,
+            "node1": 40635,
+            "node2": 2328172,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 738342585,
+            "node1": 40635,
+            "node2": 2433418,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 68503707,
+            "node1": 40635,
+            "node2": 2476931,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 104937018,
+            "node1": 40635,
+            "node2": 2507764,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 104919460,
+            "node1": 40635,
+            "node2": 2528717,
+            "type": 28,
+            "w": 16.0
+        },
+        {
+            "id": 738366595,
+            "node1": 40635,
+            "node2": 2547856,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 617034278,
+            "node1": 40635,
+            "node2": 2571049,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 605755848,
+            "node1": 40635,
+            "node2": 2948444,
+            "type": 28,
+            "w": 7.0
+        },
+        {
+            "id": 484021728,
+            "node1": 40635,
+            "node2": 3181819,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 640062377,
+            "node1": 40635,
+            "node2": 3305364,
+            "type": 28,
+            "w": 51.0
+        },
+        {
+            "id": 568565875,
+            "node1": 40635,
+            "node2": 3762435,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 824741573,
+            "node1": 40635,
+            "node2": 5725707,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 738357484,
+            "node1": 40635,
+            "node2": 5990937,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 515246709,
+            "node1": 40635,
+            "node2": 6857870,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 521817562,
+            "node1": 40635,
+            "node2": 6904872,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 721197117,
+            "node1": 40635,
+            "node2": 6910749,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 289246743,
+            "node1": 40635,
+            "node2": 6913002,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 738358007,
+            "node1": 40635,
+            "node2": 7010627,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 483265051,
+            "node1": 40635,
+            "node2": 7054237,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470957955,
+            "node1": 40635,
+            "node2": 7327917,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 515243694,
+            "node1": 40635,
+            "node2": 7329923,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 470957973,
+            "node1": 40635,
+            "node2": 7332088,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 380295609,
+            "node1": 40635,
+            "node2": 7420611,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 521129540,
+            "node1": 40635,
+            "node2": 7437651,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1054566227,
+            "node1": 40635,
+            "node2": 7606258,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 375976036,
+            "node1": 40635,
+            "node2": 7770335,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 926894401,
+            "node1": 40635,
+            "node2": 7776827,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 474007352,
+            "node1": 40635,
+            "node2": 8055025,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 515238141,
+            "node1": 40635,
+            "node2": 8467325,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 289284367,
+            "node1": 40635,
+            "node2": 8525350,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1070070637,
+            "node1": 40635,
+            "node2": 8834041,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 926898036,
+            "node1": 40635,
+            "node2": 9000876,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 765138872,
+            "node1": 40635,
+            "node2": 9967213,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 473356424,
+            "node1": 40635,
+            "node2": 10458859,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 617035170,
+            "node1": 40635,
+            "node2": 13200808,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 515240631,
+            "node1": 40635,
+            "node2": 13341099,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470971322,
+            "node1": 40635,
+            "node2": 13451305,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 515238035,
+            "node1": 40635,
+            "node2": 14079779,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 375718713,
+            "node1": 40635,
+            "node2": 14428071,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470973055,
+            "node1": 40635,
+            "node2": 14446692,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470970124,
+            "node1": 40635,
+            "node2": 14453152,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470970480,
+            "node1": 40635,
+            "node2": 14549171,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 476836032,
+            "node1": 40635,
+            "node2": 14573417,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 1054575557,
+            "node1": 40635,
+            "node2": 14723776,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 375712720,
+            "node1": 40635,
+            "node2": 14724702,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 824739083,
+            "node1": 40635,
+            "node2": 14916744,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 738359986,
+            "node1": 40635,
+            "node2": 14923840,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 474007354,
+            "node1": 40635,
+            "node2": 14923962,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515243688,
+            "node1": 40635,
+            "node2": 14924944,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 926894523,
+            "node1": 40635,
+            "node2": 14925775,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 926894470,
+            "node1": 40635,
+            "node2": 14925776,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 926894496,
+            "node1": 40635,
+            "node2": 14925777,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 926894441,
+            "node1": 40635,
+            "node2": 14925780,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 470960242,
+            "node1": 40635,
+            "node2": 14925797,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 515251808,
+            "node1": 40635,
+            "node2": 14926179,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 1054561948,
+            "node1": 40635,
+            "node2": 14926259,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 470970054,
+            "node1": 40635,
+            "node2": 14926452,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470970057,
+            "node1": 40635,
+            "node2": 14926453,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 738361654,
+            "node1": 40635,
+            "node2": 14927285,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 926894773,
+            "node1": 40635,
+            "node2": 14927679,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 926894777,
+            "node1": 40635,
+            "node2": 14927680,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 492104727,
+            "node1": 40635,
+            "node2": 14928631,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515239187,
+            "node1": 40635,
+            "node2": 14930563,
+            "type": 28,
+            "w": 42.0
+        },
+        {
+            "id": 470961346,
+            "node1": 40635,
+            "node2": 14934211,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 391926196,
+            "node1": 40635,
+            "node2": 14935854,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 578604727,
+            "node1": 40635,
+            "node2": 14938207,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 470972460,
+            "node1": 40635,
+            "node2": 14938208,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515238109,
+            "node1": 40635,
+            "node2": 14938209,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 1054574607,
+            "node1": 40635,
+            "node2": 14938596,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 483263812,
+            "node1": 40635,
+            "node2": 14938992,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 617034780,
+            "node1": 40635,
+            "node2": 14939093,
+            "type": 28,
+            "w": 15.0
+        },
+        {
+            "id": 738366457,
+            "node1": 40635,
+            "node2": 14939094,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 515235284,
+            "node1": 40635,
+            "node2": 14939431,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515239678,
+            "node1": 40635,
+            "node2": 14941364,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 483265637,
+            "node1": 40635,
+            "node2": 14942092,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 521817561,
+            "node1": 40635,
+            "node2": 14944043,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470996132,
+            "node1": 40635,
+            "node2": 14947017,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 521129532,
+            "node1": 40635,
+            "node2": 14952160,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 738364109,
+            "node1": 40635,
+            "node2": 14952161,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 1054566182,
+            "node1": 40635,
+            "node2": 14952162,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 738363238,
+            "node1": 40635,
+            "node2": 14954669,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 470957948,
+            "node1": 40635,
+            "node2": 14954670,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 1054565566,
+            "node1": 40635,
+            "node2": 14955299,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054576268,
+            "node1": 40635,
+            "node2": 14955952,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 470960245,
+            "node1": 40635,
+            "node2": 14955962,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470962162,
+            "node1": 40635,
+            "node2": 14957137,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 594577981,
+            "node1": 40635,
+            "node2": 14960244,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 738359936,
+            "node1": 40635,
+            "node2": 14962722,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 738359998,
+            "node1": 40635,
+            "node2": 14962724,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 594577824,
+            "node1": 40635,
+            "node2": 14964735,
+            "type": 28,
+            "w": 9.0
+        },
+        {
+            "id": 515246760,
+            "node1": 40635,
+            "node2": 14964778,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 738358002,
+            "node1": 40635,
+            "node2": 14966796,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 515239300,
+            "node1": 40635,
+            "node2": 14966797,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 738358046,
+            "node1": 40635,
+            "node2": 14966798,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 1042402870,
+            "node1": 40635,
+            "node2": 15042420,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 909237742,
+            "node1": 40635,
+            "node2": 15042421,
+            "type": 28,
+            "w": 10.0
+        },
+        {
+            "id": 776473158,
+            "node1": 40635,
+            "node2": 15046121,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 579955837,
+            "node1": 40635,
+            "node2": 15048447,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 1054571905,
+            "node1": 40635,
+            "node2": 15054679,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 470961323,
+            "node1": 40635,
+            "node2": 15058237,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470994037,
+            "node1": 40635,
+            "node2": 15060359,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 738354009,
+            "node1": 40635,
+            "node2": 15066794,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 470962674,
+            "node1": 40635,
+            "node2": 15067440,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 515246747,
+            "node1": 40635,
+            "node2": 15070192,
+            "type": 28,
+            "w": 43.0
+        },
+        {
+            "id": 738341739,
+            "node1": 40635,
+            "node2": 15071382,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 483265055,
+            "node1": 40635,
+            "node2": 15076727,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 470965287,
+            "node1": 40635,
+            "node2": 15078369,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 547215847,
+            "node1": 40635,
+            "node2": 15078370,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 1054566191,
+            "node1": 40635,
+            "node2": 15082687,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 474007351,
+            "node1": 40635,
+            "node2": 15083991,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 470957963,
+            "node1": 40635,
+            "node2": 15093826,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470957978,
+            "node1": 40635,
+            "node2": 15108277,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 492104724,
+            "node1": 40635,
+            "node2": 15137438,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 515252130,
+            "node1": 40635,
+            "node2": 15197235,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 824744226,
+            "node1": 40635,
+            "node2": 15198131,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 515246252,
+            "node1": 40635,
+            "node2": 15204749,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 470962695,
+            "node1": 40635,
+            "node2": 15208226,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 484021732,
+            "node1": 40635,
+            "node2": 15209570,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 474007355,
+            "node1": 40635,
+            "node2": 15210860,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1054566200,
+            "node1": 40635,
+            "node2": 15212131,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054566209,
+            "node1": 40635,
+            "node2": 15212132,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 532951769,
+            "node1": 40635,
+            "node2": 15223647,
+            "type": 28,
+            "w": 40.0
+        },
+        {
+            "id": 532951781,
+            "node1": 40635,
+            "node2": 15223648,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 515252332,
+            "node1": 40635,
+            "node2": 15223653,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470995996,
+            "node1": 40635,
+            "node2": 15225738,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 594577858,
+            "node1": 40635,
+            "node2": 15225739,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 1054571697,
+            "node1": 40635,
+            "node2": 15225750,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054571745,
+            "node1": 40635,
+            "node2": 15225755,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 738345871,
+            "node1": 40635,
+            "node2": 15226631,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1054571916,
+            "node1": 40635,
+            "node2": 15233310,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 620581327,
+            "node1": 40635,
+            "node2": 15233449,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 515249140,
+            "node1": 40635,
+            "node2": 15233731,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 635065040,
+            "node1": 40635,
+            "node2": 15253711,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 738356711,
+            "node1": 40635,
+            "node2": 15253717,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 578604306,
+            "node1": 40635,
+            "node2": 15258228,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 1054572816,
+            "node1": 40635,
+            "node2": 15258536,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054572822,
+            "node1": 40635,
+            "node2": 15258537,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 492104182,
+            "node1": 40635,
+            "node2": 15268675,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 470964488,
+            "node1": 40635,
+            "node2": 15274783,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 1054573626,
+            "node1": 40635,
+            "node2": 15277214,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 765140233,
+            "node1": 40635,
+            "node2": 15285704,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 765138565,
+            "node1": 40635,
+            "node2": 15297670,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 470976039,
+            "node1": 40635,
+            "node2": 15298136,
+            "type": 28,
+            "w": 36.0
+        },
+        {
+            "id": 1054575518,
+            "node1": 40635,
+            "node2": 15311122,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 561136298,
+            "node1": 40635,
+            "node2": 15316424,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1054575958,
+            "node1": 40635,
+            "node2": 15317839,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 1054575972,
+            "node1": 40635,
+            "node2": 15317840,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 738355690,
+            "node1": 40635,
+            "node2": 15318046,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1054576269,
+            "node1": 40635,
+            "node2": 15330840,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 1054566218,
+            "node1": 40635,
+            "node2": 15342907,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054565123,
+            "node1": 40635,
+            "node2": 15346602,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054576680,
+            "node1": 40635,
+            "node2": 15346609,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 1137627654,
+            "node1": 40635,
+            "node2": 15361652,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 515243692,
+            "node1": 40635,
+            "node2": 15364769,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 738352608,
+            "node1": 40635,
+            "node2": 15371446,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 525324250,
+            "node1": 40635,
+            "node2": 15380974,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 515243690,
+            "node1": 40635,
+            "node2": 15380975,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 537441773,
+            "node1": 40635,
+            "node2": 15387880,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 515251714,
+            "node1": 40635,
+            "node2": 15390427,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 515242001,
+            "node1": 40635,
+            "node2": 15390428,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 619174272,
+            "node1": 40635,
+            "node2": 15395767,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 978238991,
+            "node1": 40635,
+            "node2": 15395770,
+            "type": 28,
+            "w": 13.0
+        },
+        {
+            "id": 470963353,
+            "node1": 40635,
+            "node2": 15398335,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 978238981,
+            "node1": 40635,
+            "node2": 15399454,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 518739393,
+            "node1": 40635,
+            "node2": 15399770,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 492104183,
+            "node1": 40635,
+            "node2": 15399772,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 738345840,
+            "node1": 40635,
+            "node2": 15400523,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 470963357,
+            "node1": 40635,
+            "node2": 15401016,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 483265300,
+            "node1": 40635,
+            "node2": 15413830,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 492104184,
+            "node1": 40635,
+            "node2": 15414778,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 492104186,
+            "node1": 40635,
+            "node2": 15414779,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 492104185,
+            "node1": 40635,
+            "node2": 15414780,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 492104187,
+            "node1": 40635,
+            "node2": 15414781,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 492104188,
+            "node1": 40635,
+            "node2": 15414782,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 483265015,
+            "node1": 40635,
+            "node2": 15415189,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 470957983,
+            "node1": 40635,
+            "node2": 15417314,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 470957994,
+            "node1": 40635,
+            "node2": 15417315,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 492104722,
+            "node1": 40635,
+            "node2": 15417973,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 492104723,
+            "node1": 40635,
+            "node2": 15417974,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 492104726,
+            "node1": 40635,
+            "node2": 15418047,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 515239242,
+            "node1": 40635,
+            "node2": 15419731,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 521130165,
+            "node1": 40635,
+            "node2": 15420726,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 521130180,
+            "node1": 40635,
+            "node2": 15420727,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 561136241,
+            "node1": 40635,
+            "node2": 15422405,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 561136263,
+            "node1": 40635,
+            "node2": 15422406,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515243686,
+            "node1": 40635,
+            "node2": 15424043,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 549077192,
+            "node1": 40635,
+            "node2": 15424044,
+            "type": 28,
+            "w": 41.0
+        },
+        {
+            "id": 765139075,
+            "node1": 40635,
+            "node2": 15428492,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 594577851,
+            "node1": 40635,
+            "node2": 15437789,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 594577827,
+            "node1": 40635,
+            "node2": 15437790,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 824739070,
+            "node1": 40635,
+            "node2": 15450619,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 515246721,
+            "node1": 40635,
+            "node2": 15458260,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 515246734,
+            "node1": 40635,
+            "node2": 15458261,
+            "type": 28,
+            "w": 38.0
+        },
+        {
+            "id": 515247588,
+            "node1": 40635,
+            "node2": 15463517,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 470980143,
+            "node1": 40635,
+            "node2": 15528521,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470978598,
+            "node1": 40635,
+            "node2": 15528522,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 470980144,
+            "node1": 40635,
+            "node2": 15549231,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 738345837,
+            "node1": 40635,
+            "node2": 15572900,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 470979740,
+            "node1": 40635,
+            "node2": 15648067,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 515253709,
+            "node1": 40635,
+            "node2": 16072158,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 483265613,
+            "node1": 40635,
+            "node2": 16102481,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 483265625,
+            "node1": 40635,
+            "node2": 16102482,
+            "type": 28,
+            "w": 31.0
+        },
+        {
+            "id": 738373824,
+            "node1": 40635,
+            "node2": 16151730,
+            "type": 28,
+            "w": 14.0
+        },
+        {
+            "id": 521817563,
+            "node1": 40635,
+            "node2": 16166022,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 765901164,
+            "node1": 40635,
+            "node2": 16324908,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 765901178,
+            "node1": 40635,
+            "node2": 16324909,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 1054562158,
+            "node1": 40635,
+            "node2": 16746360,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1054562001,
+            "node1": 40635,
+            "node2": 16776324,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 765151640,
+            "node1": 40635,
+            "node2": 16833702,
+            "type": 28,
+            "w": 8.0
+        },
+        {
+            "id": 470985116,
+            "node1": 40635,
+            "node2": 16856620,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 484021718,
+            "node1": 40635,
+            "node2": 17429429,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 476835988,
+            "node1": 40635,
+            "node2": 17458726,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 477730812,
+            "node1": 40635,
+            "node2": 17458727,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 477730815,
+            "node1": 40635,
+            "node2": 17458729,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 476836128,
+            "node1": 40635,
+            "node2": 17458734,
+            "type": 28,
+            "w": 27.0
+        },
+        {
+            "id": 477730810,
+            "node1": 40635,
+            "node2": 17458735,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 476836230,
+            "node1": 40635,
+            "node2": 17458738,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 477730811,
+            "node1": 40635,
+            "node2": 17458739,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 478126256,
+            "node1": 40635,
+            "node2": 17524189,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 478819451,
+            "node1": 40635,
+            "node2": 17524195,
+            "type": 28,
+            "w": 32.0
+        },
+        {
+            "id": 538802164,
+            "node1": 40635,
+            "node2": 17524198,
+            "type": 28,
+            "w": 26.0
+        },
+        {
+            "id": 478255786,
+            "node1": 40635,
+            "node2": 17538461,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 478819540,
+            "node1": 40635,
+            "node2": 17538462,
+            "type": 28,
+            "w": 35.0
+        },
+        {
+            "id": 483264350,
+            "node1": 40635,
+            "node2": 17585860,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 824743018,
+            "node1": 40635,
+            "node2": 32658242,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 824743052,
+            "node1": 40635,
+            "node2": 32658243,
+            "type": 28,
+            "w": 21.0
+        },
+        {
+            "id": 926894269,
+            "node1": 40635,
+            "node2": 33473306,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 926897126,
+            "node1": 40635,
+            "node2": 33636874,
+            "type": 28,
+            "w": 17.0
+        },
+        {
+            "id": 765901184,
+            "node1": 40635,
+            "node2": 34872300,
+            "type": 28,
+            "w": 19.0
+        },
+        {
+            "id": 738341413,
+            "node1": 40635,
+            "node2": 51196308,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 738341414,
+            "node1": 40635,
+            "node2": 51196309,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 738341415,
+            "node1": 40635,
+            "node2": 51196310,
+            "type": 28,
+            "w": 18.0
+        },
+        {
+            "id": 738374350,
+            "node1": 40635,
+            "node2": 56619846,
+            "type": 28,
+            "w": 5.0
+        },
+        {
+            "id": 977741546,
+            "node1": 40635,
+            "node2": 92777941,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1137750452,
+            "node1": 40635,
+            "node2": 92965614,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 977742442,
+            "node1": 40635,
+            "node2": 94890583,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1066402266,
+            "node1": 40635,
+            "node2": 99520599,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 1124416385,
+            "node1": 40635,
+            "node2": 99520620,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 534651290,
+            "node1": 40635,
+            "node2": 102404888,
+            "type": 28,
+            "w": 34.0
+        },
+        {
+            "id": 534651271,
+            "node1": 40635,
+            "node2": 102404935,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 721179593,
+            "node1": 40635,
+            "node2": 104063643,
+            "type": 28,
+            "w": 25.0
+        },
+        {
+            "id": 534651675,
+            "node1": 40635,
+            "node2": 104223485,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 534651555,
+            "node1": 40635,
+            "node2": 104703993,
+            "type": 28,
+            "w": 29.0
+        },
+        {
+            "id": 534652647,
+            "node1": 40635,
+            "node2": 107466129,
+            "type": 28,
+            "w": 37.0
+        },
+        {
+            "id": 1066401187,
+            "node1": 40635,
+            "node2": 107902423,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 1066400841,
+            "node1": 40635,
+            "node2": 121564069,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 547214746,
+            "node1": 40635,
+            "node2": 138574372,
+            "type": 28,
+            "w": 30.0
+        },
+        {
+            "id": 1127465662,
+            "node1": 40635,
+            "node2": 156782860,
+            "type": 28,
+            "w": 3.0
+        },
+        {
+            "id": 1124415987,
+            "node1": 40635,
+            "node2": 156800520,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 738372150,
+            "node1": 40635,
+            "node2": 156857353,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 1066400151,
+            "node1": 40635,
+            "node2": 163220259,
+            "type": 28,
+            "w": 1.0
+        },
+        {
+            "id": 563347747,
+            "node1": 40635,
+            "node2": 180655422,
+            "type": 28,
+            "w": 28.0
+        },
+        {
+            "id": 1124414672,
+            "node1": 40635,
+            "node2": 251546784,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1058086166,
+            "node1": 40635,
+            "node2": 265976029,
+            "type": 28,
+            "w": 2.0
+        },
+        {
+            "id": 977748274,
+            "node1": 40635,
+            "node2": 301270755,
+            "type": 28,
+            "w": 4.0
+        },
+        {
+            "id": 1139687448,
+            "node1": 40635,
+            "node2": 450456411,
+            "type": 28,
+            "w": 31.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            28
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-14T17:20:05.540936",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "sac",
+        "#relations": 515,
+        "max_relation_weight": 149.0,
+        "#nodes": 516,
+        "duration": "0:00:00.131596"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "nodes": [
+        {
+            "id": 408177916,
+            "name": "figurine de jade",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 408177967,
+            "name": "figurine en jade",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 276673153,
+            "name": "amulette protectrice",
+            "type": 1,
+            "w": 25
+        },
+        {
+            "id": 146041,
+            "name": "jade",
+            "type": 1,
+            "w": 71
+        },
+        {
+            "id": 213765,
+            "name": "vase>89628",
+            "type": 1,
+            "w": 87
+        }
+    ],
+    "relations": [
+        {
+            "id": 376053243,
+            "node1": 146041,
+            "node2": 213765,
+            "type": 51,
+            "w": 35.0
+        },
+        {
+            "id": 1069040398,
+            "node1": 146041,
+            "node2": 276673153,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1076582865,
+            "node1": 146041,
+            "node2": 408177916,
+            "type": 51,
+            "w": 20.0
+        },
+        {
+            "id": 1076582951,
+            "node1": 146041,
+            "node2": 408177967,
+            "type": 51,
+            "w": 20.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            51
+        ],
+        "not_types_ids": null,
+        "min_weight": 1,
+        "max_weight": null,
+        "start": "2025-12-16T20:42:46.970847",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "jade",
+        "#relations": 4,
+        "max_relation_weight": 35.0,
+        "#nodes": 5,
+        "duration": "0:00:00.003893"
+    }
+}
