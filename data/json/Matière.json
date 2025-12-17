@@ -1,0 +1,2367 @@
+[
+    {
+        "n1": "cuillère",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "bague",
+        "det": "d'",
+        "n2": "or"
+    },
+    {
+        "n1": "statue",
+        "det": "de",
+        "n2": "marbre"
+    },
+    {
+        "n1": "manteau",
+        "det": "de",
+        "n2": "laine"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "plastique"
+    },
+    {
+        "n1": "bracelet",
+        "det": "de",
+        "n2": "cuivre"
+    },
+    {
+        "n1": "robe",
+        "det": "de",
+        "n2": "soie"
+    },
+    {
+        "n1": "carnet",
+        "det": "de",
+        "n2": "papier"
+    },
+    {
+        "n1": "corde",
+        "det": "de",
+        "n2": "chanvre"
+    },
+    {
+        "n1": "flûte",
+        "det": "de",
+        "n2": "bambou"
+    },
+    {
+        "n1": "anneau",
+        "det": "d'",
+        "n2": "argent"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "porcelaine"
+    },
+    {
+        "n1": "tabouret",
+        "det": "d'",
+        "n2": "acier"
+    },
+    {
+        "n1": "écharpe",
+        "det": "de",
+        "n2": "cachemire"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "céramique"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "montre",
+        "det": "de",
+        "n2": "titane"
+    },
+    {
+        "n1": "brique",
+        "det": "d'",
+        "n2": "argile"
+    },
+    {
+        "n1": "chaussure",
+        "det": "de",
+        "n2": "cuir"
+    },
+    {
+        "n1": "nappe",
+        "det": "de",
+        "n2": "lin"
+    },
+    {
+        "n1": "carafe",
+        "det": "de",
+        "n2": "cristal"
+    },
+    {
+        "n1": "peigne",
+        "det": "d'",
+        "n2": "ébène"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "plâtre"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "chemise",
+        "det": "de",
+        "n2": "coton"
+    },
+    {
+        "n1": "sac",
+        "det": "de",
+        "n2": "jute"
+    },
+    {
+        "n1": "flèche",
+        "det": "d'",
+        "n2": "os"
+    },
+    {
+        "n1": "bijou",
+        "det": "de",
+        "n2": "platine"
+    },
+    {
+        "n1": "collier",
+        "det": "d'",
+        "n2": "ambre"
+    },
+    {
+        "n1": "raquette",
+        "det": "d'",
+        "n2": "aluminium"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "mohair"
+    },
+    {
+        "n1": "tablier",
+        "det": "de",
+        "n2": "denim"
+    },
+    {
+        "n1": "plaque",
+        "det": "de",
+        "n2": "bronze"
+    },
+    {
+        "n1": "épée",
+        "det": "d'",
+        "n2": "acier"
+    },
+    {
+        "n1": "tapisserie",
+        "det": "de",
+        "n2": "laine"
+    },
+    {
+        "n1": "rideau",
+        "det": "de",
+        "n2": "velours"
+    },
+    {
+        "n1": "boîte",
+        "det": "d'",
+        "n2": "acajou"
+    },
+    {
+        "n1": "bol",
+        "det": "de",
+        "n2": "terre cuite"
+    },
+    {
+        "n1": "porte-monnaie",
+        "det": "de",
+        "n2": "cuir"
+    },
+    {
+        "n1": "médaille",
+        "det": "de",
+        "n2": "nickel"
+    },
+    {
+        "n1": "figurine",
+        "det": "de",
+        "n2": "résine"
+    },
+    {
+        "n1": "pot",
+        "det": "de",
+        "n2": "grès"
+    },
+    {
+        "n1": "bouteille",
+        "det": "d'",
+        "n2": "aluminium"
+    },
+    {
+        "n1": "plateau",
+        "det": "de",
+        "n2": "bambou"
+    },
+    {
+        "n1": "chapeau",
+        "det": "de",
+        "n2": "paille"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "titane"
+    },
+    {
+        "n1": "montre",
+        "det": "d'",
+        "n2": "or rose"
+    },
+    {
+        "n1": "boîte",
+        "det": "d'",
+        "n2": "acier inoxydable"
+    },
+    {
+        "n1": "statuette",
+        "det": "d'",
+        "n2": "ivoire"
+    },
+    {
+        "n1": "cloche",
+        "det": "de",
+        "n2": "cuivre"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "teck"
+    },
+    {
+        "n1": "horloge",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "pince",
+        "det": "d'",
+        "n2": "acier // aussi caractérisation"
+    },
+    {
+        "n1": "coquille",
+        "det": "de",
+        "n2": "nacre"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "rotin"
+    },
+    {
+        "n1": "pipe",
+        "det": "de",
+        "n2": "bruyère"
+    },
+    {
+        "n1": "miroir",
+        "det": "d'",
+        "n2": "argent"
+    },
+    {
+        "n1": "perle",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "pot",
+        "det": "de",
+        "n2": "zinc"
+    },
+    {
+        "n1": "lampe",
+        "det": "d'",
+        "n2": "opaline"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "palissandre"
+    },
+    {
+        "n1": "pendentif",
+        "det": "de",
+        "n2": "jade"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "bronze"
+    },
+    {
+        "n1": "plateau",
+        "det": "de",
+        "n2": "froamge"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "faïence"
+    },
+    {
+        "n1": "cuillère",
+        "det": "d'",
+        "n2": "argent"
+    },
+    {
+        "n1": "bouteille",
+        "det": "de",
+        "n2": "verre soufflé"
+    },
+    {
+        "n1": "cadre",
+        "det": "de",
+        "n2": "teck"
+    },
+    {
+        "n1": "échelle",
+        "det": "de",
+        "n2": "bambou"
+    },
+    {
+        "n1": "cloche",
+        "det": "de",
+        "n2": "bronze"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "poterie"
+    },
+    {
+        "n1": "couverture",
+        "det": "d'",
+        "n2": "alpaga"
+    },
+    {
+        "n1": "pull",
+        "det": "de",
+        "n2": "laine"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "chêne"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "pin"
+    },
+    {
+        "n1": "sculpture",
+        "det": "de",
+        "n2": "granit"
+    },
+    {
+        "n1": "statuette",
+        "det": "d'",
+        "n2": "onyx"
+    },
+    {
+        "n1": "cape",
+        "det": "de",
+        "n2": "velours"
+    },
+    {
+        "n1": "plateau",
+        "det": "de",
+        "n2": "charcuterie"
+    },
+    {
+        "n1": "salade",
+        "det": "de",
+        "n2": "maïs"
+    },
+    {
+        "n1": "chaussure",
+        "det": "de",
+        "n2": "suède"
+    },
+    {
+        "n1": "trousse",
+        "det": "de",
+        "n2": "cuir"
+    },
+    {
+        "n1": "carafe",
+        "det": "de",
+        "n2": "acier"
+    },
+    {
+        "n1": "steak",
+        "det": "de",
+        "n2": "porc"
+    },
+    {
+        "n1": "collier",
+        "det": "de",
+        "n2": "perles"
+    },
+    {
+        "n1": "plateau",
+        "det": "d'",
+        "n2": "acier"
+    },
+    {
+        "n1": "tortilla",
+        "det": "de",
+        "n2": "blé complet"
+    },
+    {
+        "n1": "chapeau",
+        "det": "de",
+        "n2": "feutre"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "granite"
+    },
+    {
+        "n1": "boule",
+        "det": "de",
+        "n2": "glace"
+    },
+    {
+        "n1": "bague",
+        "det": "d'",
+        "n2": "émeraude"
+    },
+    {
+        "n1": "bracelet",
+        "det": "d'",
+        "n2": "argent"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "céramique"
+    },
+    {
+        "n1": "bol",
+        "det": "de",
+        "n2": "porcelaine"
+    },
+    {
+        "n1": "étagère",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "tabouret",
+        "det": "de",
+        "n2": "rotin"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "laiton"
+    },
+    {
+        "n1": "flûte",
+        "det": "de",
+        "n2": "roseau"
+    },
+    {
+        "n1": "horloge",
+        "det": "de",
+        "n2": "noyer"
+    },
+    {
+        "n1": "boîte",
+        "det": "d'",
+        "n2": "acier galvanisé"
+    },
+    {
+        "n1": "pendentif",
+        "det": "de",
+        "n2": "cristal"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "marbre blanc"
+    },
+    {
+        "n1": "bol",
+        "det": "de",
+        "n2": "raisn"
+    },
+    {
+        "n1": "sac",
+        "det": "de",
+        "n2": "nylon"
+    },
+    {
+        "n1": "jupe",
+        "det": "de",
+        "n2": "tulle"
+    },
+    {
+        "n1": "raquette",
+        "det": "de",
+        "n2": "bois composite"
+    },
+    {
+        "n1": "plateau",
+        "det": "d'",
+        "n2": "ardoise"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "titane noir"
+    },
+    {
+        "n1": "statuette",
+        "det": "d'",
+        "n2": "aluminium"
+    },
+    {
+        "n1": "panier",
+        "det": "d'",
+        "n2": "osier"
+    },
+    {
+        "n1": "montre",
+        "det": "de",
+        "n2": "céramique"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "béton"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "pâte de verre"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "flanelle"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "bakélite"
+    },
+    {
+        "n1": "raquette",
+        "det": "de",
+        "n2": "graphite"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "polycarbonate"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "resin"
+    },
+    {
+        "n1": "bol",
+        "det": "de",
+        "n2": "bambou tressé"
+    },
+    {
+        "n1": "nappe",
+        "det": "de",
+        "n2": "polyester"
+    },
+    {
+        "n1": "coque",
+        "det": "de",
+        "n2": "silicone"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "nickel"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "chêne massif"
+    },
+    {
+        "n1": "cadre",
+        "det": "de",
+        "n2": "plexiglas"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "grès émaillé"
+    },
+    {
+        "n1": "flûte",
+        "det": "de",
+        "n2": "verre soufflé"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "terre vernissée"
+    },
+    {
+        "n1": "ceinture",
+        "det": "de",
+        "n2": "polyuréthane"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "resine époxy"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "cuivre martelé"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "métal galvanisé"
+    },
+    {
+        "n1": "brosse",
+        "det": "de",
+        "n2": "soie de porc"
+    },
+    {
+        "n1": "écharpe",
+        "det": "de",
+        "n2": "mohair et soie"
+    },
+    {
+        "n1": "jupe",
+        "det": "de",
+        "n2": "velours côtelé"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "acier inoxydable"
+    },
+    {
+        "n1": "statuette",
+        "det": "d'",
+        "n2": "albâtre"
+    },
+    {
+        "n1": "tabouret",
+        "det": "de",
+        "n2": "acier peint"
+    },
+    {
+        "n1": "flûte",
+        "det": "de",
+        "n2": "bois de rose"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "pin massif"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "pierre reconstituée"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "béton ciré"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "carton rigide"
+    },
+    {
+        "n1": "collier",
+        "det": "de",
+        "n2": "corail"
+    },
+    {
+        "n1": "raquette",
+        "det": "de",
+        "n2": "kevlar"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "métal peint"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "marbre blanc"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "saphir"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "mélamine"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "bambou stratifié"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "alpaga et laine"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "titane"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "cristal taillé"
+    },
+    {
+        "n1": "ceinture",
+        "det": "de",
+        "n2": "corde"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "pierre bleue"
+    },
+    {
+        "n1": "statuette",
+        "det": "d'",
+        "n2": "onyx noir"
+    },
+    {
+        "n1": "jupe",
+        "det": "d'",
+        "n2": "organza"
+    },
+    {
+        "n1": "montre",
+        "det": "de",
+        "n2": "platine"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "teck verni"
+    },
+    {
+        "n1": "lampe",
+        "det": "d'",
+        "n2": "aluminium brossé"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "métal inoxydable"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "laque chinoise"
+    },
+    {
+        "n1": "collier",
+        "det": "de",
+        "n2": "cristal swarovski"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "faïence fine"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "céramique peinte"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "cachemire et soie"
+    },
+    {
+        "n1": "flûte",
+        "det": "d'",
+        "n2": "ivoire"
+    },
+    {
+        "n1": "bague",
+        "det": "d'",
+        "n2": "émeraude sertie"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "laiton poli"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "palissandre"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "zamak"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "béton ciré et bois"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "pierre calcaire"
+    },
+    {
+        "n1": "jupe",
+        "det": "de",
+        "n2": "crêpe de chine"
+    },
+    {
+        "n1": "raquette",
+        "det": "d'",
+        "n2": "aluminium anodisé"
+    },
+    {
+        "n1": "lampe",
+        "det": "d'",
+        "n2": "acrylique"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "terre cuite vernissée"
+    },
+    {
+        "n1": "montre",
+        "det": "de",
+        "n2": "céramique noire"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "laine mérinos"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "marbre noir"
+    },
+    {
+        "n1": "boîte",
+        "det": "d'",
+        "n2": "acajou verni"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "granit rose"
+    },
+    {
+        "n1": "flûte",
+        "det": "de",
+        "n2": "bambou naturel"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "rotin tressé"
+    },
+    {
+        "n1": "lampe",
+        "det": "d'",
+        "n2": "opaline bleue"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "porcelaine de limoges"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "rubis"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "chêne clair"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "polypropylène"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "résine colorée"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "alpaga gris"
+    },
+    {
+        "n1": "flûte",
+        "det": "de",
+        "n2": "verre soufflé artisanal"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "fer forgé"
+    },
+    {
+        "n1": "chaise",
+        "det": "d'",
+        "n2": "acajou massif"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "céramique émaillée"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "noyer"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "acier peint"
+    },
+    {
+        "n1": "raquette",
+        "det": "de",
+        "n2": "bois lamellé"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "marbre veiné"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "topaze"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "cachemire gris"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "cuivre patiné"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "bambou massif"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "grès blanc"
+    },
+    {
+        "n1": "sirop",
+        "det": "de",
+        "n2": "fraise"
+    },
+    {
+        "n1": "",
+        "det": "des",
+        "n2": "cérales de blé"
+    },
+    {
+        "n1": "farine",
+        "det": "de",
+        "n2": "pois chiches"
+    },
+    {
+        "n1": "tapis",
+        "det": "de",
+        "n2": "corde"
+    },
+    {
+        "n1": "rôti",
+        "det": "de",
+        "n2": "porc"
+    },
+    {
+        "n1": "magret",
+        "det": "de",
+        "n2": "canard"
+    },
+    {
+        "n1": "boule",
+        "det": "de",
+        "n2": "graines"
+    },
+    {
+        "n1": "bac",
+        "det": "de",
+        "n2": "glace"
+    },
+    {
+        "n1": "main",
+        "det": "de",
+        "n2": "fer // aussi caractérisation ?"
+    },
+    {
+        "n1": "fromage",
+        "det": "de",
+        "n2": "chèvre"
+    },
+    {
+        "n1": "crémeux",
+        "det": "de",
+        "n2": "brebis"
+    },
+    {
+        "n1": "bûche",
+        "det": "de",
+        "n2": "chèvre"
+    },
+    {
+        "n1": "dépot",
+        "det": "de",
+        "n2": "calcaire"
+    },
+    {
+        "n1": "verre",
+        "det": "de",
+        "n2": "cristal"
+    },
+    {
+        "n1": "table",
+        "det": "de",
+        "n2": "marbre"
+    },
+    {
+        "n1": "un",
+        "det": "collier",
+        "n2": "d’or"
+    },
+    {
+        "n1": "une",
+        "det": "bague",
+        "n2": "d’argent"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "porcelaine"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "coton"
+    },
+    {
+        "n1": "pont",
+        "det": "de",
+        "n2": "pierre"
+    },
+    {
+        "n1": "maison",
+        "det": "de",
+        "n2": "briques"
+    },
+    {
+        "n1": "bol",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "plancher",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "assiette",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "mur",
+        "det": "de",
+        "n2": "béton"
+    },
+    {
+        "n1": "banc",
+        "det": "de",
+        "n2": "pierre"
+    },
+    {
+        "n1": "cadre",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "statue",
+        "det": "de",
+        "n2": "bronze"
+    },
+    {
+        "n1": "portail",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "chemise",
+        "det": "de",
+        "n2": "lin"
+    },
+    {
+        "n1": "nappe",
+        "det": "de",
+        "n2": "tissu"
+    },
+    {
+        "n1": "sac",
+        "det": "de",
+        "n2": "cuir"
+    },
+    {
+        "n1": "lampe",
+        "det": "de",
+        "n2": "cuivre"
+    },
+    {
+        "n1": "miroir",
+        "det": "de",
+        "n2": "glace"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "carton"
+    },
+    {
+        "n1": "tonneau",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "guitare",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "canapé",
+        "det": "de",
+        "n2": "cuir"
+    },
+    {
+        "n1": "écharpe",
+        "det": "de",
+        "n2": "laine"
+    },
+    {
+        "n1": "pull",
+        "det": "de",
+        "n2": "coton"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "platine"
+    },
+    {
+        "n1": "une",
+        "det": "couronne",
+        "n2": "d’or"
+    },
+    {
+        "n1": "un",
+        "det": "bracelet",
+        "n2": "d’argent"
+    },
+    {
+        "n1": "sabre",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "clé",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "médaille",
+        "det": "de",
+        "n2": "bronze"
+    },
+    {
+        "n1": "four",
+        "det": "de",
+        "n2": "pierre"
+    },
+    {
+        "n1": "pot",
+        "det": "de",
+        "n2": "céramique"
+    },
+    {
+        "n1": "jarre",
+        "det": "de",
+        "n2": "terre"
+    },
+    {
+        "n1": "abri",
+        "det": "de",
+        "n2": "paille"
+    },
+    {
+        "n1": "tapis",
+        "det": "de",
+        "n2": "laine"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "laine"
+    },
+    {
+        "n1": "bateau",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "hache",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "un",
+        "det": "clou",
+        "n2": "d’acier"
+    },
+    {
+        "n1": "armure",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "casque",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "diamant"
+    },
+    {
+        "n1": "bijou",
+        "det": "de",
+        "n2": "jade"
+    },
+    {
+        "n1": "sculpture",
+        "det": "de",
+        "n2": "pierre"
+    },
+    {
+        "n1": "carrelage",
+        "det": "de",
+        "n2": "céramique"
+    },
+    {
+        "n1": "coupe",
+        "det": "de",
+        "n2": "cristal"
+    },
+    {
+        "n1": "moule",
+        "det": "de",
+        "n2": "plâtre"
+    },
+    {
+        "n1": "brique",
+        "det": "de",
+        "n2": "terre"
+    },
+    {
+        "n1": "objet",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "jarre",
+        "det": "de",
+        "n2": "grès"
+    },
+    {
+        "n1": "cadre",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "lit",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "porte",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "toit",
+        "det": "de",
+        "n2": "tuiles"
+    },
+    {
+        "n1": "clôture",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "chandelier",
+        "det": "de",
+        "n2": "cuivre"
+    },
+    {
+        "n1": "une",
+        "det": "épée",
+        "n2": "d’acier"
+    },
+    {
+        "n1": "bouton",
+        "det": "de",
+        "n2": "nacre"
+    },
+    {
+        "n1": "une",
+        "det": "broche",
+        "n2": "d’or"
+    },
+    {
+        "n1": "baril",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "tasse",
+        "det": "de",
+        "n2": "porcelaine"
+    },
+    {
+        "n1": "fourreau",
+        "det": "de",
+        "n2": "cuir"
+    },
+    {
+        "n1": "temple",
+        "det": "de",
+        "n2": "pierre"
+    },
+    {
+        "n1": "carrosse",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "roue",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "outil",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "cage",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "coffre",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "fontaine",
+        "det": "de",
+        "n2": "pierre"
+    },
+    {
+        "n1": "cadre",
+        "det": "de",
+        "n2": "plastique"
+    },
+    {
+        "n1": "bouteille",
+        "det": "de",
+        "n2": "plastique"
+    },
+    {
+        "n1": "sac",
+        "det": "de",
+        "n2": "papier"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "fil",
+        "det": "de",
+        "n2": "cuivre"
+    },
+    {
+        "n1": "bouclier",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "épingle",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "banc",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "barque",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "arc",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "flèche",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "couronne",
+        "det": "de",
+        "n2": "fleurs"
+    },
+    {
+        "n1": "un",
+        "det": "panier",
+        "n2": "d’osier"
+    },
+    {
+        "n1": "boîte",
+        "det": "de",
+        "n2": "carton en bois"
+    },
+    {
+        "n1": "fontaine",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "collier",
+        "det": "de",
+        "n2": "platine"
+    },
+    {
+        "n1": "bouteille",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "fil",
+        "det": "d'",
+        "n2": "or"
+    },
+    {
+        "n1": "épingle à cheveux",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "seau",
+        "det": "de",
+        "n2": "plastique"
+    },
+    {
+        "n1": "théière",
+        "det": "de",
+        "n2": "fonte"
+    },
+    {
+        "n1": "manuscrit",
+        "det": "de",
+        "n2": "parchemin"
+    },
+    {
+        "n1": "amulette",
+        "det": "d'",
+        "n2": "ivoire"
+    },
+    {
+        "n1": "toiture",
+        "det": "de",
+        "n2": "chaume"
+    },
+    {
+        "n1": "poêle",
+        "det": "de",
+        "n2": "téflon"
+    },
+    {
+        "n1": "tapis",
+        "det": "de",
+        "n2": "sisal"
+    },
+    {
+        "n1": "bague",
+        "det": "de",
+        "n2": "tungstène"
+    },
+    {
+        "n1": "gratte-ciel",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "corde",
+        "det": "de",
+        "n2": "nylon"
+    },
+    {
+        "n1": "bijou",
+        "det": "de",
+        "n2": "pierre précieuse"
+    },
+    {
+        "n1": "planche",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "couteau",
+        "det": "de",
+        "n2": "céramique"
+    },
+    {
+        "n1": "pergola",
+        "det": "de",
+        "n2": "bambou"
+    },
+    {
+        "n1": "isolant",
+        "det": "de",
+        "n2": "laine"
+    },
+    {
+        "n1": "réservoir",
+        "det": "de",
+        "n2": "carbone"
+    },
+    {
+        "n1": "prothèse",
+        "det": "de",
+        "n2": "titane"
+    },
+    {
+        "n1": "poutre",
+        "det": "d'",
+        "n2": "acier"
+    },
+    {
+        "n1": "jouet",
+        "det": "de",
+        "n2": "peluche"
+    },
+    {
+        "n1": "cheminée",
+        "det": "de",
+        "n2": "brique"
+    },
+    {
+        "n1": "stylo",
+        "det": "de",
+        "n2": "résine"
+    },
+    {
+        "n1": "échelle",
+        "det": "de",
+        "n2": "corde"
+    },
+    {
+        "n1": "toit",
+        "det": "de",
+        "n2": "tôle"
+    },
+    {
+        "n1": "poignée",
+        "det": "de",
+        "n2": "corne"
+    },
+    {
+        "n1": "tableau",
+        "det": "d'",
+        "n2": "ardoise"
+    },
+    {
+        "n1": "récipient",
+        "det": "de",
+        "n2": "granit"
+    },
+    {
+        "n1": "sifflet",
+        "det": "de",
+        "n2": "métal"
+    },
+    {
+        "n1": "niche",
+        "det": "de",
+        "n2": "bois plastifié"
+    },
+    {
+        "n1": "revêtement",
+        "det": "de",
+        "n2": "liège"
+    },
+    {
+        "n1": "perle",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "conduit",
+        "det": "de",
+        "n2": "pvc"
+    },
+    {
+        "n1": "montre",
+        "det": "de",
+        "n2": "silicone"
+    },
+    {
+        "n1": "ornement",
+        "det": "de",
+        "n2": "coquillage"
+    },
+    {
+        "n1": "serre",
+        "det": "de",
+        "n2": "polycarbonate"
+    },
+    {
+        "n1": "cendrier",
+        "det": "de",
+        "n2": "lave"
+    },
+    {
+        "n1": "corde",
+        "det": "de",
+        "n2": "fibre"
+    },
+    {
+        "n1": "meuble",
+        "det": "de",
+        "n2": "rotin"
+    },
+    {
+        "n1": "vis",
+        "det": "de",
+        "n2": "laiton"
+    },
+    {
+        "n1": "boule",
+        "det": "d'",
+        "n2": "acier"
+    },
+    {
+        "n1": "talon",
+        "det": "de",
+        "n2": "caoutchouc"
+    },
+    {
+        "n1": "lentille",
+        "det": "de",
+        "n2": "polycarbonate"
+    },
+    {
+        "n1": "clôture",
+        "det": "de",
+        "n2": "bois composite"
+    },
+    {
+        "n1": "chaîne",
+        "det": "de",
+        "n2": "platine"
+    },
+    {
+        "n1": "radeau",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "pointe",
+        "det": "de",
+        "n2": "diamant"
+    },
+    {
+        "n1": "gouttière",
+        "det": "de",
+        "n2": "zinc"
+    },
+    {
+        "n1": "éponge",
+        "det": "de",
+        "n2": "cellulose"
+    },
+    {
+        "n1": "sceau",
+        "det": "de",
+        "n2": "cire"
+    },
+    {
+        "n1": "sculpture",
+        "det": "de",
+        "n2": "glace"
+    },
+    {
+        "n1": "coque",
+        "det": "d'",
+        "n2": "acier"
+    },
+    {
+        "n1": "filtre",
+        "det": "de",
+        "n2": "papier"
+    },
+    {
+        "n1": "médaille",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "poignée",
+        "det": "de",
+        "n2": "cristal"
+    },
+    {
+        "n1": "isolant",
+        "det": "de",
+        "n2": "polystyrène"
+    },
+    {
+        "n1": "manche",
+        "det": "de",
+        "n2": "caoutchouc"
+    },
+    {
+        "n1": "bâche",
+        "det": "de",
+        "n2": "toile"
+    },
+    {
+        "n1": "brosse",
+        "det": "de",
+        "n2": "poils naturels"
+    },
+    {
+        "n1": "canalisation",
+        "det": "de",
+        "n2": "cuivre"
+    },
+    {
+        "n1": "balle",
+        "det": "de",
+        "n2": "surlyn"
+    },
+    {
+        "n1": "étagère",
+        "det": "d'",
+        "n2": "acier"
+    },
+    {
+        "n1": "statuette",
+        "det": "de",
+        "n2": "cire"
+    },
+    {
+        "n1": "ligne",
+        "det": "de",
+        "n2": "pêche de fluorocarbone"
+    },
+    {
+        "n1": "un",
+        "det": "revêtementde",
+        "n2": "vinyle"
+    },
+    {
+        "n1": "couvercle",
+        "det": "de",
+        "n2": "verre trempé"
+    },
+    {
+        "n1": "charpente",
+        "det": "de",
+        "n2": "chêne"
+    },
+    {
+        "n1": "implant",
+        "det": "de",
+        "n2": "silicone"
+    },
+    {
+        "n1": "corde",
+        "det": "de",
+        "n2": "kevlar"
+    },
+    {
+        "n1": "tableau",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "bougie",
+        "det": "de",
+        "n2": "stéarine"
+    },
+    {
+        "n1": "écran",
+        "det": "de",
+        "n2": "soie"
+    },
+    {
+        "n1": "pointe",
+        "det": "de",
+        "n2": "tungstène"
+    },
+    {
+        "n1": "réchaud",
+        "det": "d'",
+        "n2": "argent"
+    },
+    {
+        "n1": "plateau",
+        "det": "de",
+        "n2": "teck"
+    },
+    {
+        "n1": "prothèse",
+        "det": "de",
+        "n2": "cobalt-chrome"
+    },
+    {
+        "n1": "tuyau",
+        "det": "de",
+        "n2": "polyéthylène"
+    },
+    {
+        "n1": "latte",
+        "det": "de",
+        "n2": "store en aluminium"
+    },
+    {
+        "n1": "semelle",
+        "det": "de",
+        "n2": "crêpe"
+    },
+    {
+        "n1": "moule",
+        "det": "de",
+        "n2": "silicone"
+    },
+    {
+        "n1": "balustrade",
+        "det": "de",
+        "n2": "fer forgé"
+    },
+    {
+        "n1": "récipient",
+        "det": "d'",
+        "n2": "étain"
+    },
+    {
+        "n1": "lame",
+        "det": "de",
+        "n2": "céramique"
+    },
+    {
+        "n1": "revêtement",
+        "det": "de",
+        "n2": "pierre reconstituée"
+    },
+    {
+        "n1": "manche",
+        "det": "de",
+        "n2": "micarta"
+    },
+    {
+        "n1": "boule",
+        "det": "de",
+        "n2": "cristal"
+    },
+    {
+        "n1": "corde",
+        "det": "de",
+        "n2": "polypropylène"
+    },
+    {
+        "n1": "serrure",
+        "det": "de",
+        "n2": "bronze"
+    },
+    {
+        "n1": "récipient",
+        "det": "d'",
+        "n2": "acier inoxydable"
+    },
+    {
+        "n1": "cloison",
+        "det": "de",
+        "n2": "plâtre"
+    },
+    {
+        "n1": "bijou",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "veste",
+        "det": "de",
+        "n2": "cuir"
+    },
+    {
+        "n1": "chaise",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "chemise",
+        "det": "de",
+        "n2": "soie"
+    },
+    {
+        "n1": "voile",
+        "det": "de",
+        "n2": "coton"
+    },
+    {
+        "n1": "outil",
+        "det": "de",
+        "n2": "fer"
+    },
+    {
+        "n1": "médaille",
+        "det": "de",
+        "n2": "cuivre"
+    },
+    {
+        "n1": "toit",
+        "det": "de",
+        "n2": "chaume"
+    },
+    {
+        "n1": "rouleau",
+        "det": "de",
+        "n2": "papier"
+    },
+    {
+        "n1": "bottes",
+        "det": "de",
+        "n2": "caoutchouc"
+    },
+    {
+        "n1": "banc",
+        "det": "de",
+        "n2": "granit"
+    },
+    {
+        "n1": "plafond",
+        "det": "de",
+        "n2": "stuc"
+    },
+    {
+        "n1": "pantalon",
+        "det": "de",
+        "n2": "jean"
+    },
+    {
+        "n1": "mur",
+        "det": "de",
+        "n2": "torchis"
+    },
+    {
+        "n1": "mosaïque",
+        "det": "de",
+        "n2": "tesselles"
+    },
+    {
+        "n1": "toile",
+        "det": "de",
+        "n2": "jute"
+    },
+    {
+        "n1": "seau",
+        "det": "de",
+        "n2": "zinc"
+    },
+    {
+        "n1": "plaque",
+        "det": "de",
+        "n2": "titane"
+    },
+    {
+        "n1": "gants",
+        "det": "de",
+        "n2": "latex"
+    },
+    {
+        "n1": "couverture",
+        "det": "de",
+        "n2": "polyester"
+    },
+    {
+        "n1": "cruche",
+        "det": "de",
+        "n2": "terre cuite"
+    },
+    {
+        "n1": "vitrail",
+        "det": "de",
+        "n2": "verre coloré"
+    },
+    {
+        "n1": "pneu",
+        "det": "de",
+        "n2": "caoutchouc"
+    },
+    {
+        "n1": "coffret",
+        "det": "de",
+        "n2": "nacre"
+    },
+    {
+        "n1": "parapluie",
+        "det": "de",
+        "n2": "nylon"
+    },
+    {
+        "n1": "masque",
+        "det": "de",
+        "n2": "plâtre"
+    },
+    {
+        "n1": "voiture",
+        "det": "de",
+        "n2": "fibre de carbone"
+    },
+    {
+        "n1": "bâton",
+        "det": "de",
+        "n2": "bambou"
+    },
+    {
+        "n1": "manteau",
+        "det": "de",
+        "n2": "fourrure"
+    },
+    {
+        "n1": "tiroir",
+        "det": "de",
+        "n2": "mélamine"
+    },
+    {
+        "n1": "parquet",
+        "det": "de",
+        "n2": "chêne"
+    },
+    {
+        "n1": "briquet",
+        "det": "de",
+        "n2": "bakélite"
+    },
+    {
+        "n1": "bouteille",
+        "det": "de",
+        "n2": "grès"
+    },
+    {
+        "n1": "selle",
+        "det": "de",
+        "n2": "cuir synthétique"
+    },
+    {
+        "n1": "pneu",
+        "det": "de",
+        "n2": "silicone"
+    },
+    {
+        "n1": "ballon",
+        "det": "de",
+        "n2": "caoutchouc naturel"
+    },
+    {
+        "n1": "perles",
+        "det": "de",
+        "n2": "corail"
+    },
+    {
+        "n1": "plastron",
+        "det": "de",
+        "n2": "bronze doré"
+    },
+    {
+        "n1": "caisse",
+        "det": "de",
+        "n2": "bois flotté"
+    },
+    {
+        "n1": "cabane",
+        "det": "de",
+        "n2": "rondins"
+    },
+    {
+        "n1": "tissu",
+        "det": "de",
+        "n2": "viscose"
+    },
+    {
+        "n1": "tente",
+        "det": "de",
+        "n2": "toile"
+    },
+    {
+        "n1": "panneau",
+        "det": "de",
+        "n2": "pvc"
+    },
+    {
+        "n1": "chaudron",
+        "det": "de",
+        "n2": "fonte"
+    },
+    {
+        "n1": "plafond",
+        "det": "de",
+        "n2": "béton"
+    },
+    {
+        "n1": "vase",
+        "det": "de",
+        "n2": "jade"
+    },
+    {
+        "n1": "pagne",
+        "det": "de",
+        "n2": "raphia"
+    },
+    {
+        "n1": "tapis",
+        "det": "de",
+        "n2": "coco"
+    },
+    {
+        "n1": "lit",
+        "det": "de",
+        "n2": "rotin"
+    },
+    {
+        "n1": "rideau",
+        "det": "de",
+        "n2": "mousseline"
+    },
+    {
+        "n1": "foulard",
+        "det": "de",
+        "n2": "taffetas"
+    },
+    {
+        "n1": "robe",
+        "det": "de",
+        "n2": "dentelle"
+    },
+    {
+        "n1": "outil",
+        "det": "de",
+        "n2": "tungstène"
+    },
+    {
+        "n1": "pelle",
+        "det": "de",
+        "n2": "titane"
+    },
+    {
+        "n1": "plastron",
+        "det": "de",
+        "n2": "kevlar"
+    },
+    {
+        "n1": "sac",
+        "det": "de",
+        "n2": "toile cirée"
+    },
+    {
+        "n1": "bouclier",
+        "det": "de",
+        "n2": "cuir bouilli"
+    },
+    {
+        "n1": "vitrail",
+        "det": "de",
+        "n2": "quartz coloré"
+    },
+    {
+        "n1": "bougie",
+        "det": "de",
+        "n2": "cire"
+    },
+    {
+        "n1": "plancher",
+        "det": "de",
+        "n2": "liège"
+    },
+    {
+        "n1": "moulin",
+        "det": "de",
+        "n2": "pierre ponce"
+    },
+    {
+        "n1": "coussin",
+        "det": "de",
+        "n2": "plume d’oie"
+    },
+    {
+        "n1": "voilier",
+        "det": "de",
+        "n2": "fibre de verre"
+    },
+    {
+        "n1": "anneau",
+        "det": "de",
+        "n2": "tungstène"
+    },
+    {
+        "n1": "filet",
+        "det": "de",
+        "n2": "nylon tressé"
+    },
+    {
+        "n1": "mur",
+        "det": "de",
+        "n2": "pisé"
+    },
+    {
+        "n1": "poterie",
+        "det": "de",
+        "n2": "faïence"
+    },
+    {
+        "n1": "tapis",
+        "det": "de",
+        "n2": "laine vierge"
+    },
+    {
+        "n1": "harpe",
+        "det": "de",
+        "n2": "bois d’ébène"
+    },
+    {
+        "n1": "sculpture",
+        "det": "de",
+        "n2": "marbre"
+    },
+    {
+        "n1": "gravure",
+        "det": "de",
+        "n2": "bois"
+    },
+    {
+        "n1": "tapisserie",
+        "det": "de",
+        "n2": "soie"
+    },
+    {
+        "n1": "sculpture",
+        "det": "de",
+        "n2": "bronze"
+    },
+    {
+        "n1": "fenêtre",
+        "det": "de",
+        "n2": "verre"
+    },
+    {
+        "n1": "plage",
+        "det": "de",
+        "n2": "sable"
+    }
+]

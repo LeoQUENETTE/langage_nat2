@@ -1,0 +1,2846 @@
+[
+    {
+      "phrases": "La sagesse du vieillard",
+      "n1": "sagesse",
+      "n2": "vieillard",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La beauté du paysage",
+      "n1": "beauté",
+      "n2": "paysage",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'intelligence de l'enfant",
+      "n1": "intelligence",
+      "n2": "enfant",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La gentillesse de la voisine",
+      "n1": "gentillesse",
+      "n2": "voisine",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fraîcheur de la brise",
+      "n1": "fraîcheur",
+      "n2": "brise",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La richesse du businessman",
+      "n1": "richesse",
+      "n2": "businessman",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La chaleur du soleil",
+      "n1": "chaleur",
+      "n2": "soleil",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La profondeur de l'océan",
+      "n1": "profondeur",
+      "n2": "océan",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fragilité de la porcelaine",
+      "n1": "fragilité",
+      "n2": "porcelaine",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'élégance de la danseuse",
+      "n1": "élégance",
+      "n2": "danseuse",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La rapidité du guépard",
+      "n1": "rapidité",
+      "n2": "guépard",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La douceur du miel",
+      "n1": "douceur",
+      "n2": "miel",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La force du lion",
+      "n1": "force",
+      "n2": "lion",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La complexité du problème",
+      "n1": "complexité",
+      "n2": "problème",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La simplicité de la solution",
+      "n1": "simplicité",
+      "n2": "solution",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La pureté de l'eau",
+      "n1": "pureté",
+      "n2": "eau",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'humidité de l'air",
+      "n1": "humidité",
+      "n2": "air",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sécheresse du désert",
+      "n1": "sécheresse",
+      "n2": "désert",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fraîcheur de la nuit",
+      "n1": "fraîcheur",
+      "n2": "nuit",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La noirceur du charbon",
+      "n1": "noirceur",
+      "n2": "charbon",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La blancheur de la neige",
+      "n1": "blancheur",
+      "n2": "neige",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La rondeur de la lune",
+      "n1": "rondeur",
+      "n2": "lune",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La légèreté de la plume",
+      "n1": "légèreté",
+      "n2": "plume",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La lourdeur du métal",
+      "n1": "lourdeur",
+      "n2": "métal",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La transparence du verre",
+      "n1": "transparence",
+      "n2": "verre",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'opacité du mur",
+      "n1": "opacité",
+      "n2": "mur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La brillance du diamant",
+      "n1": "brillance",
+      "n2": "diamant",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La matité de la surface",
+      "n1": "matité",
+      "n2": "surface",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La souplesse du gymnaste",
+      "n1": "souplesse",
+      "n2": "gymnaste",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La rigidité de la règle",
+      "n1": "rigidité",
+      "n2": "règle",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La flexibilité du caoutchouc",
+      "n1": "flexibilité",
+      "n2": "caoutchouc",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La stabilité de l'édifice",
+      "n1": "stabilité",
+      "n2": "édifice",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'instabilité de l'équilibre",
+      "n1": "instabilité",
+      "n2": "équilibre",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sécurité du quartier",
+      "n1": "sécurité",
+      "n2": "quartier",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le danger de la route",
+      "n1": "danger",
+      "n2": "route",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sûreté du coffre",
+      "n1": "sûreté",
+      "n2": "coffre",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fiabilité de l'ami",
+      "n1": "fiabilité",
+      "n2": "ami",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'incertitude de l'avenir",
+      "n1": "incertitude",
+      "n2": "avenir",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La certitude de la réponse",
+      "n1": "certitude",
+      "n2": "réponse",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La clarté de l'explication",
+      "n1": "clarté",
+      "n2": "explication",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'obscurité de la cave",
+      "n1": "obscurité",
+      "n2": "cave",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La luminosité de la pièce",
+      "n1": "luminosité",
+      "n2": "pièce",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'obscurité de la forêt",
+      "n1": "obscurité",
+      "n2": "forêt",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La netteté de l'image",
+      "n1": "netteté",
+      "n2": "image",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le flou de la photo",
+      "n1": "flou",
+      "n2": "photo",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La précision du tir",
+      "n1": "précision",
+      "n2": "tir",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'imprécision de la mesure",
+      "n1": "imprécision",
+      "n2": "mesure",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'exactitude du calcul",
+      "n1": "exactitude",
+      "n2": "calcul",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'erreur de l'étudiant",
+      "n1": "erreur",
+      "n2": "étudiant",
+      "types": ["A"]
+    },
+    {
+      "phrases": "La justesse du raisonnement",
+      "n1": "justesse",
+      "n2": "raisonnement",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fausseté de l'accusation",
+      "n1": "fausseté",
+      "n2": "accusation",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La véracité du témoignage",
+      "n1": "véracité",
+      "n2": "témoignage",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'authenticité du document",
+      "n1": "authenticité",
+      "n2": "document",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La falsification du passeport",
+      "n1": "falsification",
+      "n2": "passeport",
+      "types": ["Pa"]
+    },
+    {
+      "phrases": "L'originalité de l'idée",
+      "n1": "originalité",
+      "n2": "idée",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La banalité de la situation",
+      "n1": "banalité",
+      "n2": "situation",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La nouveauté du produit",
+      "n1": "nouveauté",
+      "n2": "produit",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'ancienneté de la tradition",
+      "n1": "ancienneté",
+      "n2": "tradition",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La modernité de l'appartement",
+      "n1": "modernité",
+      "n2": "appartement",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'archaïsme de la loi",
+      "n1": "archaïsme",
+      "n2": "loi",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'actualité du sujet",
+      "n1": "actualité",
+      "n2": "sujet",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La péremption du médicament",
+      "n1": "péremption",
+      "n2": "médicament",
+      "types": ["Co"]
+    },
+    {
+      "phrases": "La fraîcheur des produits",
+      "n1": "fraîcheur",
+      "n2": "produits",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'acidité du citron",
+      "n1": "acidité",
+      "n2": "citron",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'amertume du café",
+      "n1": "amertume",
+      "n2": "café",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La salinité de l'eau de mer",
+      "n1": "salinité",
+      "n2": "eau de mer",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sucrosité du bonbon",
+      "n1": "sucrosité",
+      "n2": "bonbon",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'épaisseur du mur",
+      "n1": "épaisseur",
+      "n2": "mur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La minceur de la feuille",
+      "n1": "minceur",
+      "n2": "feuille",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La largeur de la rivière",
+      "n1": "largeur",
+      "n2": "rivière",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'étroitesse du passage",
+      "n1": "étroitesse",
+      "n2": "passage",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La hauteur de l'arbre",
+      "n1": "hauteur",
+      "n2": "arbre",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La petitesse de l'insecte",
+      "n1": "petitesse",
+      "n2": "insecte",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La grandeur de l'empire",
+      "n1": "grandeur",
+      "n2": "empire",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'immensité de l'univers",
+      "n1": "immensité",
+      "n2": "univers",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'exiguïté du studio",
+      "n1": "exiguïté",
+      "n2": "studio",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La spaciosité de la maison",
+      "n1": "spaciosité",
+      "n2": "maison",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le confort du fauteuil",
+      "n1": "confort",
+      "n2": "fauteuil",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'inconfort de la chaise",
+      "n1": "inconfort",
+      "n2": "chaise",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le luxe de l'hôtel",
+      "n1": "luxe",
+      "n2": "hôtel",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La simplicité du mode de vie",
+      "n1": "simplicité",
+      "n2": "mode de vie",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La pauvreté du quartier",
+      "n1": "pauvreté",
+      "n2": "quartier",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La prospérité de la région",
+      "n1": "prospérité",
+      "n2": "région",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La misère du peuple",
+      "n1": "misère",
+      "n2": "peuple",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'opulence du roi",
+      "n1": "opulence",
+      "n2": "roi",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'austérité du régime",
+      "n1": "austérité",
+      "n2": "régime",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La générosité du donateur",
+      "n1": "générosité",
+      "n2": "donateur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'avarice de l'homme",
+      "n1": "avarice",
+      "n2": "homme",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'égoïsme de l'individu",
+      "n1": "égoïsme",
+      "n2": "individu",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'altruisme du bénévole",
+      "n1": "altruisme",
+      "n2": "bénévole",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La cruauté du tyran",
+      "n1": "cruauté",
+      "n2": "tyran",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La bonté de la mère",
+      "n1": "bonté",
+      "n2": "mère",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La méchanceté du voisin",
+      "n1": "méchanceté",
+      "n2": "voisin",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La gentillesse de l'enfant",
+      "n1": "gentillesse",
+      "n2": "enfant",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La malveillance du regard",
+      "n1": "malveillance",
+      "n2": "regard",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La bienveillance du patron",
+      "n1": "bienveillance",
+      "n2": "patron",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'hostilité de la foule",
+      "n1": "hostilité",
+      "n2": "foule",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'amitié du collègue",
+      "n1": "amitié",
+      "n2": "collègue",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'inimitié des rivaux",
+      "n1": "inimitié",
+      "n2": "rivaux",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sympathie de la réceptionniste",
+      "n1": "sympathie",
+      "n2": "réceptionniste",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'antipathie du voisin",
+      "n1": "antipathie",
+      "n2": "voisin",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La cordialité de l'accueil",
+      "n1": "cordialité",
+      "n2": "accueil",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La froideur de la réponse",
+      "n1": "froideur",
+      "n2": "réponse",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La chaleur de l'accueil",
+      "n1": "chaleur",
+      "n2": "accueil",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sincérité des paroles",
+      "n1": "sincérité",
+      "n2": "paroles",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'hypocrisie du politicien",
+      "n1": "hypocrisie",
+      "n2": "politicien",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La franchise de l'ami",
+      "n1": "franchise",
+      "n2": "ami",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La duplicité du menteur",
+      "n1": "duplicité",
+      "n2": "menteur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La loyauté du chien",
+      "n1": "loyauté",
+      "n2": "chien",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La trahison de l'ami",
+      "n1": "trahison",
+      "n2": "ami",
+      "types": ["A"]
+    },
+    {
+      "phrases": "La fidélité du conjoint",
+      "n1": "fidélité",
+      "n2": "conjoint",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'infidélité du partenaire",
+      "n1": "infidélité",
+      "n2": "partenaire",
+      "types": ["Ca","A"]
+    },
+    {
+      "phrases": "La constance de l'effort",
+      "n1": "constance",
+      "n2": "effort",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'inconstance de l'humeur",
+      "n1": "inconstance",
+      "n2": "humeur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La persévérance de l'étudiant",
+      "n1": "persévérance",
+      "n2": "étudiant",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'abandon du projet",
+      "n1": "abandon",
+      "n2": "projet",
+      "types": ["Pa"]
+    },
+    {
+      "phrases": "La détermination de l'athlète",
+      "n1": "détermination",
+      "n2": "athlète",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'indécision de la cliente",
+      "n1": "indécision",
+      "n2": "cliente",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La résolution du problème",
+      "n1": "résolution",
+      "n2": "problème",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'hésitation du candidat",
+      "n1": "hésitation",
+      "n2": "candidat",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le courage du soldat",
+      "n1": "courage",
+      "n2": "soldat",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La lâcheté du traître",
+      "n1": "lâcheté",
+      "n2": "traître",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La bravoure du héros",
+      "n1": "bravoure",
+      "n2": "héros",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La peur de l'enfant",
+      "n1": "peur",
+      "n2": "enfant",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'audace de l'aventurier",
+      "n1": "audace",
+      "n2": "aventurier",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La témérité du conducteur",
+      "n1": "témérité",
+      "n2": "conducteur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La prudence du médecin",
+      "n1": "prudence",
+      "n2": "médecin",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'imprudence du jeune",
+      "n1": "imprudence",
+      "n2": "jeune",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La vigilance du gardien",
+      "n1": "vigilance",
+      "n2": "gardien",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La négligence de l'employé",
+      "n1": "négligence",
+      "n2": "employé",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'attention de la mère",
+      "n1": "attention",
+      "n2": "mère",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'inattention de l'élève",
+      "n1": "inattention",
+      "n2": "élève",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La concentration du joueur",
+      "n1": "concentration",
+      "n2": "joueur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La distraction de l'étudiant",
+      "n1": "distraction",
+      "n2": "étudiant",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La mémoire de l'ordinateur",
+      "n1": "mémoire",
+      "n2": "ordinateur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'oubli de la promesse",
+      "n1": "oubli",
+      "n2": "promesse",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le souvenir de l'enfance",
+      "n1": "souvenir",
+      "n2": "enfance",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'amnésie du patient",
+      "n1": "amnésie",
+      "n2": "patient",
+      "types": ["Ca","Co"]
+    },
+    {
+      "phrases": "La réminiscence du passé",
+      "n1": "réminiscence",
+      "n2": "passé",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La nostalgie du pays",
+      "n1": "nostalgie",
+      "n2": "pays",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La mélancolie de l'automne",
+      "n1": "mélancolie",
+      "n2": "automne",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La tristesse de la fin",
+      "n1": "tristesse",
+      "n2": "fin",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La joie de la victoire",
+      "n1": "joie",
+      "n2": "victoire",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le bonheur du couple",
+      "n1": "bonheur",
+      "n2": "couple",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le malheur de la famille",
+      "n1": "malheur",
+      "n2": "famille",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La gaieté de la fête",
+      "n1": "gaieté",
+      "n2": "fête",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La morosité de l'hiver",
+      "n1": "morosité",
+      "n2": "hiver",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'enthousiasme des supporters",
+      "n1": "enthousiasme",
+      "n2": "supporters",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'apathie de la population",
+      "n1": "apathie",
+      "n2": "population",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La passion de l'artiste",
+      "n1": "passion",
+      "n2": "artiste",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'indifférence du public",
+      "n1": "indifférence",
+      "n2": "public",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'émotion du spectateur",
+      "n1": "émotion",
+      "n2": "spectateur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La froideur du juge",
+      "n1": "froideur",
+      "n2": "juge",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sensibilité du poète",
+      "n1": "sensibilité",
+      "n2": "poète",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'insensibilité du bourreau",
+      "n1": "insensibilité",
+      "n2": "bourreau",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'empathie du thérapeute",
+      "n1": "empathie",
+      "n2": "thérapeute",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La compassion de l'infirmière",
+      "n1": "compassion",
+      "n2": "infirmière",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La dureté du chef",
+      "n1": "dureté",
+      "n2": "chef",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La tendresse de la mère",
+      "n1": "tendresse",
+      "n2": "mère",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sévérité du père",
+      "n1": "sévérité",
+      "n2": "père",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La douceur de la voix",
+      "n1": "douceur",
+      "n2": "voix",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La rudesse du ton",
+      "n1": "rudesse",
+      "n2": "ton",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'agressivité du chien",
+      "n1": "agressivité",
+      "n2": "chien",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La pacificité de la communauté",
+      "n1": "pacificité",
+      "n2": "communauté",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La violence de la tempête",
+      "n1": "violence",
+      "n2": "tempête",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La tranquillité du lac",
+      "n1": "tranquillité",
+      "n2": "lac",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le calme de la nuit",
+      "n1": "calme",
+      "n2": "nuit",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'agitation de la ville",
+      "n1": "agitation",
+      "n2": "ville",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le bruit de la rue",
+      "n1": "bruit",
+      "n2": "rue",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le silence du désert",
+      "n1": "silence",
+      "n2": "désert",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sonorité de la musique",
+      "n1": "sonorité",
+      "n2": "musique",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'harmonie des couleurs",
+      "n1": "harmonie",
+      "n2": "couleurs",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La dissonance des notes",
+      "n1": "dissonance",
+      "n2": "notes",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le rythme de la danse",
+      "n1": "rythme",
+      "n2": "danse",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La cadence du travail",
+      "n1": "cadence",
+      "n2": "travail",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La lenteur de la progression",
+      "n1": "lenteur",
+      "n2": "progression",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La vitesse de la voiture",
+      "n1": "vitesse",
+      "n2": "voiture",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'accélération du moteur",
+      "n1": "accélération",
+      "n2": "moteur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le freinage du véhicule",
+      "n1": "freinage",
+      "n2": "véhicule",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'immobilité de la statue",
+      "n1": "immobilité",
+      "n2": "statue",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le mouvement de la foule",
+      "n1": "mouvement",
+      "n2": "foule",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La stase du sang",
+      "n1": "stase",
+      "n2": "sang",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La circulation de l'air",
+      "n1": "circulation",
+      "n2": "air",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le flux de la rivière",
+      "n1": "flux",
+      "n2": "rivière",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le reflux de la marée",
+      "n1": "reflux",
+      "n2": "marée",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'écoulement du temps",
+      "n1": "écoulement",
+      "n2": "temps",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La durée du film",
+      "n1": "durée",
+      "n2": "film",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La brièveté de la vie",
+      "n1": "brièveté",
+      "n2": "vie",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La longévité de l'arbre",
+      "n1": "longévité",
+      "n2": "arbre",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'éphémérité de la fleur",
+      "n1": "éphémérité",
+      "n2": "fleur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La permanence de la loi",
+      "n1": "permanence",
+      "n2": "loi",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La temporalité de l'existence",
+      "n1": "temporalité",
+      "n2": "existence",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'éternité de l'âme",
+      "n1": "éternité",
+      "n2": "âme",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'instant du présent",
+      "n1": "instant",
+      "n2": "présent",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fugacité du moment",
+      "n1": "fugacité",
+      "n2": "moment",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La persistance de l'odeur",
+      "n1": "persistance",
+      "n2": "odeur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'évanescence du parfum",
+      "n1": "évanescence",
+      "n2": "parfum",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La stabilité de l'équilibre",
+      "n1": "stabilité",
+      "n2": "équilibre",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'instabilité de la structure",
+      "n1": "instabilité",
+      "n2": "structure",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La solidité du bâtiment",
+      "n1": "solidité",
+      "n2": "bâtiment",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fragilité du verre",
+      "n1": "fragilité",
+      "n2": "verre",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La résistance du matériau",
+      "n1": "résistance",
+      "n2": "matériau",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La faiblesse de l'argument",
+      "n1": "faiblesse",
+      "n2": "argument",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La puissance du moteur",
+      "n1": "puissance",
+      "n2": "moteur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'impuissance du patient",
+      "n1": "impuissance",
+      "n2": "patient",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'efficacité du traitement",
+      "n1": "efficacité",
+      "n2": "traitement",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'inefficacité de la méthode",
+      "n1": "inefficacité",
+      "n2": "méthode",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le rendement de l'usine",
+      "n1": "rendement",
+      "n2": "usine",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La productivité de l'équipe",
+      "n1": "productivité",
+      "n2": "équipe",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'oisiveté du rentier",
+      "n1": "oisiveté",
+      "n2": "rentier",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'activité de la fourmi",
+      "n1": "activité",
+      "n2": "fourmi",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La paresse de l'étudiant",
+      "n1": "paresse",
+      "n2": "étudiant",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le dynamisme de l'entreprise",
+      "n1": "dynamisme",
+      "n2": "entreprise",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'énergie de la jeunesse",
+      "n1": "énergie",
+      "n2": "jeunesse",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fatigue du travailleur",
+      "n1": "fatigue",
+      "n2": "travailleur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'épuisement des ressources",
+      "n1": "épuisement",
+      "n2": "ressources",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La vitalité de la plante",
+      "n1": "vitalité",
+      "n2": "plante",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La léthargie de l'hiver",
+      "n1": "léthargie",
+      "n2": "hiver",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "Le sommeil du bébé",
+      "n1": "sommeil",
+      "n2": "bébé",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'insomnie du patient",
+      "n1": "insomnie",
+      "n2": "patient",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La vigilance du garde",
+      "n1": "vigilance",
+      "n2": "garde",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La somnolence de l'étudiant",
+      "n1": "somnolence",
+      "n2": "étudiant",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La rêverie de l'adolescent",
+      "n1": "rêverie",
+      "n2": "adolescent",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La lucidité du penseur",
+      "n1": "lucidité",
+      "n2": "penseur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La confusion des idées",
+      "n1": "confusion",
+      "n2": "idées",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La clarté de l'esprit",
+      "n1": "clarté",
+      "n2": "esprit",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'obscurité de la pensée",
+      "n1": "obscurité",
+      "n2": "pensée",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La profondeur de la réflexion",
+      "n1": "profondeur",
+      "n2": "réflexion",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La superficialité du discours",
+      "n1": "superficialité",
+      "n2": "discours",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La complexité du système",
+      "n1": "complexité",
+      "n2": "système",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La simplicité de l'approche",
+      "n1": "simplicité",
+      "n2": "approche",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'abstraction du concept",
+      "n1": "abstraction",
+      "n2": "concept",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La concrétude de l'exemple",
+      "n1": "concrétude",
+      "n2": "exemple",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La généralité de la règle",
+      "n1": "généralité",
+      "n2": "règle",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La spécificité du cas",
+      "n1": "spécificité",
+      "n2": "cas",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'universalité du principe",
+      "n1": "universalité",
+      "n2": "principe",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La particularité de la situation",
+      "n1": "particularité",
+      "n2": "situation",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La normalité de la condition",
+      "n1": "normalité",
+      "n2": "condition",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'anormalité du comportement",
+      "n1": "anormalité",
+      "n2": "comportement",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La régularité du rythme",
+      "n1": "régularité",
+      "n2": "rythme",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'irrégularité du pouls",
+      "n1": "irrégularité",
+      "n2": "pouls",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fréquence des visites",
+      "n1": "fréquence",
+      "n2": "visites",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La rareté de l'espèce",
+      "n1": "rareté",
+      "n2": "espèce",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'abondance de la récolte",
+      "n1": "abondance",
+      "n2": "récolte",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La pénurie de l'eau",
+      "n1": "pénurie",
+      "n2": "eau",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La surabondance des biens",
+      "n1": "surabondance",
+      "n2": "biens",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'excès de zèle",
+      "n1": "excès",
+      "n2": "zèle",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La modération du sage",
+      "n1": "modération",
+      "n2": "sage",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'exagération du conte",
+      "n1": "exagération",
+      "n2": "conte",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La sobriété de l'architecture",
+      "n1": "sobriété",
+      "n2": "architecture",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'extravagance du costume",
+      "n1": "extravagance",
+      "n2": "costume",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La discrétion de la couleur",
+      "n1": "discrétion",
+      "n2": "couleur",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'ostentation de la richesse",
+      "n1": "ostentation",
+      "n2": "richesse",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La modestie de la tenue",
+      "n1": "modestie",
+      "n2": "tenue",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'arrogance du leader",
+      "n1": "arrogance",
+      "n2": "leader",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'humilité du saint",
+      "n1": "humilité",
+      "n2": "saint",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La fierté du peuple",
+      "n1": "fierté",
+      "n2": "peuple",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "L'orgueil du roi",
+      "n1": "orgueil",
+      "n2": "roi",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La vanité de l'actrice",
+      "n1": "vanité",
+      "n2": "actrice",
+      "types": ["Ca"]
+    },
+    {
+      "phrases": "La simplicité du mode de vie",
+      "n1": "simplicité",
+      "n2": "mode de vie",
+      "types": ["Ca"]
+    },
+    {
+      "phrase": "la sagesse du vieillard",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la joie de l'enfant",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur des flammes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur du miel",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la froideur de l'hiver",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la légèreté des plumes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté de l'aube",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force du rocher",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la tendresse des mots",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la mélodie du vent",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur de la nuit",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité des étincelles",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la pureté de l'eau",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lourdeur du silence",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fragilité des fleurs",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lueur des étoiles",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté de la montagne",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lenteur du temps",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur du soleil",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fraîcheur de l'ombre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la beauté des songes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vigueur du chêne",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la sagesse des anciens",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la violence de l'orage",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la quiétude du soir",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la passion des amants",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la patience du sage",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la clarté des sources",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la noirceur des abysses",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la brillance du diamant",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur de la brise",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur des océans",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité des couleurs",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la légèreté du souffle",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la transparence du verre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la dureté du métal",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la blancheur de la neige",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la délicatesse des pétales",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la rapidité de l'éclair",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fraîcheur du matin",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur des souvenirs",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force des racines",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la noblesse du cœur",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la tristesse des adieux",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la splendeur du ciel",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la constance des astres",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la densité de la brume",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fragilité du cristal",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la solitude du désert",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur des souvenirs",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la brûlure du feu",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté des forêts",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur des pensées",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la vastitude des plaines",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fierté du lion",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la grâce de l'oiseau",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur de l'océan",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la beauté des aurores",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la violence des flots",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la constance du fleuve",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté de l'esprit",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la chaleur de l'amitié",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la noirceur de la nuit",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la subtilité des nuances",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière du jour",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lourdeur des pierres",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la simplicité des gestes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la cruauté du temps",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vérité des mots",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douleur de l'absence",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur du ciel",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la rapidité du vent",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur des caresses",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lenteur des saisons",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la beauté du crépuscule",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur du regard",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la force du torrent",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur de l'enfance",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la sagesse de la nature",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la puissance du tonnerre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur des bras",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur de l'âme",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la fragilité des instants",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la splendeur des couchers",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté des étoiles",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière de l'espérance",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la froideur de la pierre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur des montagnes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la délicatesse du parfum",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la mélancolie du soir",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité du feuillage",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force des vagues",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur du foyer",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la tendresse des regards",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur des songes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté du phénix",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fragilité des illusions",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur du soir",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur de l'univers",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière des bougies",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la sérénité du lac",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vigueur du printemps",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la blancheur des nuages",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur du désert",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la pureté du cristal",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté des montagnes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la brillance des étoiles",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force du tonnerre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur des rivières",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur des horizons",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité des chants",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur des vallées",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière des phares",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté des falaises",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la légèreté du nuage",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la tendresse des sourires",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur des mains",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lourdeur des chaînes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fraîcheur des sources",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la beauté du marbre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force du tigre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la subtilité des ombres",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la splendeur des palais",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la rapidité du galop",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur du sable",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté du cristal",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur des racines",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la noblesse des gestes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la dureté des rochers",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fragilité des rêves",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur des cathédrales",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité des éclats",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la sérénité des plaines",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la puissance des volcans",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière du phare",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la froideur de la nuit",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la délicatesse des étoffes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la rapidité du courant",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur des cités",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur de la terre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la splendeur du temple",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté des cascades",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur du gouffre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur des larmes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la tendresse des âmes",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la noirceur des tempêtes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté des éclairs",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité du regard",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la subtilité des saveurs",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la beauté de la rosée",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur des déserts",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière des aurores",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fraîcheur de la rosée",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force des sommets",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la mélodie des cloches",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la pureté de l'air",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la froideur de la pluie",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lourdeur du fardeau",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté des visions",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté des cathédrales",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur du désert",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la tendresse des instants",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la splendeur du jardin",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la légèreté des songes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité du torrent",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force des orages",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière du matin",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté de la pensée",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la douceur des instants",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur des âmes",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la majesté des pins",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la beauté des lacs",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force des cyclones",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fraîcheur des vents",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur du chêne",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la splendeur des arcs",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur du foyer",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité des rêves",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la subtilité du parfum",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la rapidité de l'ombre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la puissance du torrent",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la beauté du lys",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté des statues",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière du crépuscule",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la tendresse des voix",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la froideur du brouillard",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur de la mer",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité des ruisseaux",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté des chants",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la délicatesse du toucher",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la splendeur de l'océan",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur des forêts",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur des cœurs",
+      "catégorie": [
+          "Possession(P)"
+      ]
+  },
+  {
+      "phrase": "la lumière des lampes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la sérénité des montagnes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la beauté des pierres",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la rapidité de l'aigle",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté du cygne",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la tendresse du sourire",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la profondeur de l'ombre",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la fraîcheur des collines",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la clarté des flammes",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur du monde",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force du dragon",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la splendeur des mers",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la douceur des étoiles",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la vivacité du feu",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la subtilité du geste",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la lumière des torches",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la chaleur du sable",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la majesté des temples",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la force des torrents",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la grandeur de la nature",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  },
+  {
+      "phrase": "la délicatesse des mains",
+      "catégorie": [
+          "Caractérisation(Ca)"
+      ]
+  }
+  ]

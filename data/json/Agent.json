@@ -1,0 +1,1182 @@
+[
+    {
+        "n1": "travail",
+        "det": "de",
+        "n2": "l’ouvrier"
+    },
+    {
+        "n1": "cours",
+        "det": "du",
+        "n2": "professeur"
+    },
+    {
+        "n1": "lecture",
+        "det": "de",
+        "n2": "l’étudiant"
+    },
+    {
+        "n1": "chant",
+        "det": "du",
+        "n2": "chanteur"
+    },
+    {
+        "n1": "cuisine",
+        "det": "du",
+        "n2": "cuisinier"
+    },
+    {
+        "n1": "écriture",
+        "det": "de",
+        "n2": "l’écrivain"
+    },
+    {
+        "n1": "peinture",
+        "det": "de",
+        "n2": "l’artiste"
+    },
+    {
+        "n1": "performance",
+        "det": "de",
+        "n2": "l’acteur"
+    },
+    {
+        "n1": "soins",
+        "det": "de",
+        "n2": "l’infirmier"
+    },
+    {
+        "n1": "analyse",
+        "det": "du",
+        "n2": "chercheur"
+    },
+    {
+        "n1": "discours",
+        "det": "du",
+        "n2": "politicien"
+    },
+    {
+        "n1": "entraînement",
+        "det": "du",
+        "n2": "sportif"
+    },
+    {
+        "n1": "réflexion",
+        "det": "du",
+        "n2": "philosophe"
+    },
+    {
+        "n1": "production",
+        "det": "de",
+        "n2": "l’ingénieur"
+    },
+    {
+        "n1": "composition",
+        "det": "du",
+        "n2": "musicien"
+    },
+    {
+        "n1": "direction",
+        "det": "du",
+        "n2": "réalisateur"
+    },
+    {
+        "n1": "réparation",
+        "det": "du",
+        "n2": "mécanicien"
+    },
+    {
+        "n1": "création",
+        "det": "du",
+        "n2": "designer"
+    },
+    {
+        "n1": "enseignement",
+        "det": "du",
+        "n2": "professeur"
+    },
+    {
+        "n1": "présentation",
+        "det": "du",
+        "n2": "conférencier"
+    },
+    {
+        "n1": "formation",
+        "det": "de",
+        "n2": "l’entraîneur"
+    },
+    {
+        "n1": "observation",
+        "det": "du",
+        "n2": "scientifique"
+    },
+    {
+        "n1": "fabrication",
+        "det": "de",
+        "n2": "l’artisan"
+    },
+    {
+        "n1": "organisation",
+        "det": "du",
+        "n2": "manager"
+    },
+    {
+        "n1": "conception",
+        "det": "de",
+        "n2": "l’architecte"
+    },
+    {
+        "n1": "exécution",
+        "det": "du",
+        "n2": "danseur"
+    },
+    {
+        "n1": "révision",
+        "det": "de",
+        "n2": "l’étudiant"
+    },
+    {
+        "n1": "rédaction",
+        "det": "du",
+        "n2": "journaliste"
+    },
+    {
+        "n1": "lecture",
+        "det": "du",
+        "n2": "bibliothécaire"
+    },
+    {
+        "n1": "expérimentation",
+        "det": "du",
+        "n2": "chimiste"
+    },
+    {
+        "n1": "construction",
+        "det": "de",
+        "n2": "l’ouvrier"
+    },
+    {
+        "n1": "simulation",
+        "det": "de",
+        "n2": "l’ingénieur"
+    },
+    {
+        "n1": "interprétation",
+        "det": "de",
+        "n2": "l’acteur"
+    },
+    {
+        "n1": "animation",
+        "det": "du",
+        "n2": "professeur"
+    },
+    {
+        "n1": "production",
+        "det": "du",
+        "n2": "réalisateur"
+    },
+    {
+        "n1": "correction",
+        "det": "du",
+        "n2": "correcteur"
+    },
+    {
+        "n1": "évaluation",
+        "det": "de",
+        "n2": "l’inspecteur"
+    },
+    {
+        "n1": "réflexion",
+        "det": "du",
+        "n2": "penseur"
+    },
+    {
+        "n1": "création",
+        "det": "du",
+        "n2": "sculpteur"
+    },
+    {
+        "n1": "performance",
+        "det": "du",
+        "n2": "musicien"
+    },
+    {
+        "n1": "chant",
+        "det": "de la",
+        "n2": "chorale"
+    },
+    {
+        "n1": "gestion",
+        "det": "du",
+        "n2": "dirigeant"
+    },
+    {
+        "n1": "illustration",
+        "det": "du",
+        "n2": "dessinateur"
+    },
+    {
+        "n1": "direction",
+        "det": "du",
+        "n2": "chef d’orchestre"
+    },
+    {
+        "n1": "enregistrement",
+        "det": "du",
+        "n2": "chanteur"
+    },
+    {
+        "n1": "lecture",
+        "det": "de",
+        "n2": "l’élève"
+    },
+    {
+        "n1": "cuisine",
+        "det": "du",
+        "n2": "chef"
+    },
+    {
+        "n1": "réparation",
+        "det": "du",
+        "n2": "technicien"
+    },
+    {
+        "n1": "composition",
+        "det": "de",
+        "n2": "l’artiste"
+    },
+    {
+        "n1": "rédaction",
+        "det": "de",
+        "n2": "l’auteur"
+    },
+    {
+        "n1": "exécution",
+        "det": "de",
+        "n2": "l’athlète"
+    },
+    {
+        "n1": "fabrication",
+        "det": "du",
+        "n2": "forgeron"
+    },
+    {
+        "n1": "observation",
+        "det": "du",
+        "n2": "chercheur"
+    },
+    {
+        "n1": "organisation",
+        "det": "du",
+        "n2": "secrétaire"
+    },
+    {
+        "n1": "conception",
+        "det": "de",
+        "n2": "l’ingénieur"
+    },
+    {
+        "n1": "écriture",
+        "det": "du",
+        "n2": "poète"
+    },
+    {
+        "n1": "analyse",
+        "det": "du",
+        "n2": "scientifique"
+    },
+    {
+        "n1": "simulation",
+        "det": "du",
+        "n2": "chimiste"
+    },
+    {
+        "n1": "discours",
+        "det": "du",
+        "n2": "président"
+    },
+    {
+        "n1": "poème",
+        "det": "du",
+        "n2": "poète"
+    },
+    {
+        "n1": "décision",
+        "det": "du",
+        "n2": "juge"
+    },
+    {
+        "n1": "tableau",
+        "det": "du",
+        "n2": "peintre"
+    },
+    {
+        "n1": "roman",
+        "det": "de",
+        "n2": "l’écrivain"
+    },
+    {
+        "n1": "chanson",
+        "det": "du",
+        "n2": "chanteur"
+    },
+    {
+        "n1": "invention",
+        "det": "de",
+        "n2": "l’ingénieur"
+    },
+    {
+        "n1": "spectacle",
+        "det": "de",
+        "n2": "l’acteur"
+    },
+    {
+        "n1": "livre",
+        "det": "du",
+        "n2": "professeur"
+    },
+    {
+        "n1": "intervention",
+        "det": "du",
+        "n2": "médecin"
+    },
+    {
+        "n1": "découverte",
+        "det": "du",
+        "n2": "chercheur"
+    },
+    {
+        "n1": "performance",
+        "det": "de",
+        "n2": "l’athlète"
+    },
+    {
+        "n1": "chant",
+        "det": "du",
+        "n2": "oiseau"
+    },
+    {
+        "n1": "aboiement",
+        "det": "du",
+        "n2": "chien"
+    },
+    {
+        "n1": "rugissement",
+        "det": "du",
+        "n2": "lion"
+    },
+    {
+        "n1": "danse",
+        "det": "de la",
+        "n2": "ballerine"
+    },
+    {
+        "n1": "écriture",
+        "det": "de",
+        "n2": "l’auteur"
+    },
+    {
+        "n1": "traduction",
+        "det": "de",
+        "n2": "l’interprète"
+    },
+    {
+        "n1": "conseil",
+        "det": "du",
+        "n2": "coach"
+    },
+    {
+        "n1": "gestion",
+        "det": "du",
+        "n2": "directeur"
+    },
+    {
+        "n1": "surveillance",
+        "det": "du",
+        "n2": "gardien"
+    },
+    {
+        "n1": "enquête",
+        "det": "du",
+        "n2": "détective"
+    },
+    {
+        "n1": "analyse",
+        "det": "du",
+        "n2": "critique"
+    },
+    {
+        "n1": "observation",
+        "det": "de",
+        "n2": "l’astronome"
+    },
+    {
+        "n1": "expérience",
+        "det": "du",
+        "n2": "scientifique"
+    },
+    {
+        "n1": "culture",
+        "det": "du",
+        "n2": "paysan"
+    },
+    {
+        "n1": "pêche",
+        "det": "du",
+        "n2": "pêcheur"
+    },
+    {
+        "n1": "construction",
+        "det": "du",
+        "n2": "maçon"
+    },
+    {
+        "n1": "nettoyage",
+        "det": "de la",
+        "n2": "femme de ménage"
+    },
+    {
+        "n1": "cuisson",
+        "det": "du",
+        "n2": "chef"
+    },
+    {
+        "n1": "service",
+        "det": "du",
+        "n2": "serveur"
+    },
+    {
+        "n1": "vente",
+        "det": "du",
+        "n2": "vendeur"
+    },
+    {
+        "n1": "achat",
+        "det": "de",
+        "n2": "l’acheteur"
+    },
+    {
+        "n1": "don",
+        "det": "du",
+        "n2": "donateur"
+    },
+    {
+        "n1": "promesse",
+        "det": "du",
+        "n2": "politicien"
+    },
+    {
+        "n1": "menace",
+        "det": "du",
+        "n2": "criminel"
+    },
+    {
+        "n1": "attaque",
+        "det": "de",
+        "n2": "l’ennemi"
+    },
+    {
+        "n1": "défense",
+        "det": "de",
+        "n2": "l’avocat"
+    },
+    {
+        "n1": "sauvetage",
+        "det": "du",
+        "n2": "sauveteur"
+    },
+    {
+        "n1": "enseignement",
+        "det": "du",
+        "n2": "maître"
+    },
+    {
+        "n1": "éducation",
+        "det": "des",
+        "n2": "parents"
+    },
+    {
+        "n1": "guidance",
+        "det": "du",
+        "n2": "mentor"
+    },
+    {
+        "n1": "leadership",
+        "det": "du",
+        "n2": "leader"
+    },
+    {
+        "n1": "innovation",
+        "det": "de",
+        "n2": "l’entrepreneur"
+    },
+    {
+        "n1": "création",
+        "det": "du",
+        "n2": "créateur"
+    },
+    {
+        "n1": "production",
+        "det": "du",
+        "n2": "producteur"
+    },
+    {
+        "n1": "réalisation",
+        "det": "du",
+        "n2": "réalisateur"
+    },
+    {
+        "n1": "organisation",
+        "det": "de",
+        "n2": "l’organisateur"
+    },
+    {
+        "n1": "coordination",
+        "det": "du",
+        "n2": "coordinateur"
+    },
+    {
+        "n1": "supervision",
+        "det": "du",
+        "n2": "superviseur"
+    },
+    {
+        "n1": "évaluation",
+        "det": "de",
+        "n2": "l’évaluateur"
+    },
+    {
+        "n1": "investigation",
+        "det": "du",
+        "n2": "détective"
+    },
+    {
+        "n1": "exploration",
+        "det": "du",
+        "n2": "aventurier"
+    },
+    {
+        "n1": "conquête",
+        "det": "du",
+        "n2": "chef"
+    },
+    {
+        "n1": "colonisation",
+        "det": "de",
+        "n2": "l'empire"
+    },
+    {
+        "n1": "découverte",
+        "det": "du",
+        "n2": "navigateur"
+    },
+    {
+        "n1": "circumnavigation",
+        "det": "du",
+        "n2": "marin"
+    },
+    {
+        "n1": "ascension",
+        "det": "de",
+        "n2": "l'alpiniste"
+    },
+    {
+        "n1": "plongée",
+        "det": "du",
+        "n2": "subaquatique"
+    },
+    {
+        "n1": "saut",
+        "det": "du",
+        "n2": "parachutiste"
+    },
+    {
+        "n1": "vol",
+        "det": "de",
+        "n2": "l'aviateur"
+    },
+    {
+        "n1": "navigation",
+        "det": "du",
+        "n2": "pilote"
+    },
+    {
+        "n1": "conduite",
+        "det": "du",
+        "n2": "chauffeur"
+    },
+    {
+        "n1": "pilotage",
+        "det": "de",
+        "n2": "l'expert"
+    },
+    {
+        "n1": "manoeuvre",
+        "det": "du",
+        "n2": "conducteur"
+    },
+    {
+        "n1": "opération",
+        "det": "du",
+        "n2": "chirurgien"
+    },
+    {
+        "n1": "diagnostic",
+        "det": "du",
+        "n2": "médecin"
+    },
+    {
+        "n1": "pronostic",
+        "det": "du",
+        "n2": "spécialiste"
+    },
+    {
+        "n1": "prescription",
+        "det": "du",
+        "n2": "docteur"
+    },
+    {
+        "n1": "traitement",
+        "det": "du",
+        "n2": "thérapeute"
+    },
+    {
+        "n1": "rééducation",
+        "det": "du",
+        "n2": "kiné"
+    },
+    {
+        "n1": "massage",
+        "det": "du",
+        "n2": "masseur"
+    },
+    {
+        "n1": "relaxation",
+        "det": "du",
+        "n2": "sophrologue"
+    },
+    {
+        "n1": "méditation",
+        "det": "du",
+        "n2": "guru"
+    },
+    {
+        "n1": "prière",
+        "det": "du",
+        "n2": "croyant"
+    },
+    {
+        "n1": "prédication",
+        "det": "du",
+        "n2": "prêtre"
+    },
+    {
+        "n1": "sermon",
+        "det": "du",
+        "n2": "pasteur"
+    },
+    {
+        "n1": "éducation",
+        "det": "du",
+        "n2": "parent"
+    },
+    {
+        "n1": "instruction",
+        "det": "du",
+        "n2": "professeur"
+    },
+    {
+        "n1": "formation",
+        "det": "du",
+        "n2": "formateur"
+    },
+    {
+        "n1": "entraînement",
+        "det": "du",
+        "n2": "coach"
+    },
+    {
+        "n1": "coaching",
+        "det": "du",
+        "n2": "mentor"
+    },
+    {
+        "n1": "tutorat",
+        "det": "du",
+        "n2": "tuteur"
+    },
+    {
+        "n1": "guidance",
+        "det": "du",
+        "n2": "guide"
+    },
+    {
+        "n1": "conseil",
+        "det": "du",
+        "n2": "consultant"
+    },
+    {
+        "n1": "consultation",
+        "det": "de",
+        "n2": "l'expert"
+    },
+    {
+        "n1": "expertise",
+        "det": "du",
+        "n2": "spécialiste"
+    },
+    {
+        "n1": "audit",
+        "det": "de",
+        "n2": "l'auditeur"
+    },
+    {
+        "n1": "contrôle",
+        "det": "du",
+        "n2": "contrôleur"
+    },
+    {
+        "n1": "inspection",
+        "det": "de",
+        "n2": "l'inspecteur"
+    },
+    {
+        "n1": "monitoring",
+        "det": "du",
+        "n2": "technicien"
+    },
+    {
+        "n1": "management",
+        "det": "du",
+        "n2": "manager"
+    },
+    {
+        "n1": "direction",
+        "det": "du",
+        "n2": "directeur"
+    },
+    {
+        "n1": "administration",
+        "det": "de",
+        "n2": "l'administrateur"
+    },
+    {
+        "n1": "gouvernance",
+        "det": "du",
+        "n2": "gouverneur"
+    },
+    {
+        "n1": "régulation",
+        "det": "du",
+        "n2": "régulateur"
+    },
+    {
+        "n1": "orchestration",
+        "det": "du",
+        "n2": "chef"
+    },
+    {
+        "n1": "construction",
+        "det": "de",
+        "n2": "l’architecte"
+    },
+    {
+        "n1": "discours",
+        "det": "de",
+        "n2": "l’orateur"
+    },
+    {
+        "n1": "travail",
+        "det": "du",
+        "n2": "menuisier"
+    },
+    {
+        "n1": "démonstration",
+        "det": "du",
+        "n2": "professeur"
+    },
+    {
+        "n1": "lettre",
+        "det": "de",
+        "n2": "l’auteur"
+    },
+    {
+        "n1": "discours",
+        "det": "du",
+        "n2": "ministre"
+    },
+    {
+        "n1": "performance",
+        "det": "du",
+        "n2": "danseur"
+    },
+    {
+        "n1": "plan",
+        "det": "du",
+        "n2": "stratège"
+    },
+    {
+        "n1": "repas",
+        "det": "du",
+        "n2": "chef"
+    },
+    {
+        "n1": "cours",
+        "det": "du",
+        "n2": "maître"
+    },
+    {
+        "n1": "traduction",
+        "det": "du",
+        "n2": "linguiste"
+    },
+    {
+        "n1": "design",
+        "det": "du",
+        "n2": "créateur"
+    },
+    {
+        "n1": "phrase",
+        "det": "du",
+        "n2": "poète"
+    },
+    {
+        "n1": "discours",
+        "det": "du",
+        "n2": "maire"
+    },
+    {
+        "n1": "prière",
+        "det": "du",
+        "n2": "moine"
+    },
+    {
+        "n1": "roman",
+        "det": "du",
+        "n2": "poète"
+    },
+    {
+        "n1": "recette",
+        "det": "du",
+        "n2": "cuisinier"
+    },
+    {
+        "n1": "article",
+        "det": "du",
+        "n2": "journaliste"
+    },
+    {
+        "n1": "rapport",
+        "det": "du",
+        "n2": "chercheur"
+    },
+    {
+        "n1": "ordre",
+        "det": "du",
+        "n2": "commandant"
+    },
+    {
+        "n1": "geste",
+        "det": "de",
+        "n2": "l’artiste"
+    },
+    {
+        "n1": "invention",
+        "det": "de",
+        "n2": "l’homme"
+    },
+    {
+        "n1": "photo",
+        "det": "du",
+        "n2": "photographe"
+    },
+    {
+        "n1": "plan",
+        "det": "du",
+        "n2": "directeur"
+    },
+    {
+        "n1": "idée",
+        "det": "du",
+        "n2": "philosophe"
+    },
+    {
+        "n1": "discours",
+        "det": "du",
+        "n2": "conférencier"
+    },
+    {
+        "n1": "projet",
+        "det": "de",
+        "n2": "l’entrepreneur"
+    },
+    {
+        "n1": "danse",
+        "det": "du",
+        "n2": "chorégraphe"
+    },
+    {
+        "n1": "phrase",
+        "det": "du",
+        "n2": "romancier"
+    },
+    {
+        "n1": "tableau",
+        "det": "du",
+        "n2": "dessinateur"
+    },
+    {
+        "n1": "sculpture",
+        "det": "du",
+        "n2": "sculpteur"
+    },
+    {
+        "n1": "réforme",
+        "det": "du",
+        "n2": "gouvernement"
+    },
+    {
+        "n1": "parole",
+        "det": "du",
+        "n2": "prophète"
+    },
+    {
+        "n1": "note",
+        "det": "du",
+        "n2": "compositeur"
+    },
+    {
+        "n1": "projet",
+        "det": "du",
+        "n2": "ministre"
+    },
+    {
+        "n1": "discours",
+        "det": "du",
+        "n2": "roi"
+    },
+    {
+        "n1": "sermon",
+        "det": "du",
+        "n2": "prêtre"
+    },
+    {
+        "n1": "forage",
+        "det": "du",
+        "n2": "géologue"
+    },
+    {
+        "n1": "excavation",
+        "det": "du",
+        "n2": "terrassier"
+    },
+    {
+        "n1": "montage",
+        "det": "du",
+        "n2": "monteur"
+    },
+    {
+        "n1": "mixage",
+        "det": "du",
+        "n2": "dj"
+    },
+    {
+        "n1": "sampling",
+        "det": "du",
+        "n2": "producteur"
+    },
+    {
+        "n1": "codage",
+        "det": "du",
+        "n2": "programmeur"
+    },
+    {
+        "n1": "débogage",
+        "det": "du",
+        "n2": "développeur"
+    },
+    {
+        "n1": "modélisation",
+        "det": "du",
+        "n2": "data scientist"
+    },
+    {
+        "n1": "minage",
+        "det": "du",
+        "n2": "cryptominer"
+    },
+    {
+        "n1": "scraping",
+        "det": "du",
+        "n2": "data analyst"
+    },
+    {
+        "n1": "référencement",
+        "det": "du",
+        "n2": "seo"
+    },
+    {
+        "n1": "teasing",
+        "det": "du",
+        "n2": "marketeur"
+    },
+    {
+        "n1": "branding",
+        "det": "du",
+        "n2": "brand manager"
+    },
+    {
+        "n1": "merchandising",
+        "det": "du",
+        "n2": "retailer"
+    },
+    {
+        "n1": "dropshipping",
+        "det": "du",
+        "n2": "commerçant"
+    },
+    {
+        "n1": "crowdfunding",
+        "det": "du",
+        "n2": "porteur de projet"
+    },
+    {
+        "n1": "leasing",
+        "det": "du",
+        "n2": "loueur"
+    },
+    {
+        "n1": "trading",
+        "det": "du",
+        "n2": "trader"
+    },
+    {
+        "n1": "arbitrage",
+        "det": "de",
+        "n2": "l'arbitre"
+    },
+    {
+        "n1": "courtage",
+        "det": "du",
+        "n2": "courtier"
+    },
+    {
+        "n1": "médiation",
+        "det": "du",
+        "n2": "médiateur"
+    },
+    {
+        "n1": "conciliation",
+        "det": "du",
+        "n2": "conciliateur"
+    },
+    {
+        "n1": "négociation",
+        "det": "du",
+        "n2": "négociateur"
+    },
+    {
+        "n1": "apiculture",
+        "det": "de",
+        "n2": "l'apiculteur"
+    },
+    {
+        "n1": "sylviculture",
+        "det": "du",
+        "n2": "forestier"
+    },
+    {
+        "n1": "arboriculture",
+        "det": "de",
+        "n2": "l'arboriculteur"
+    },
+    {
+        "n1": "viticulture",
+        "det": "du",
+        "n2": "vigneron"
+    },
+    {
+        "n1": "œnologie",
+        "det": "de",
+        "n2": "l'œnologue"
+    },
+    {
+        "n1": "sommellerie",
+        "det": "du",
+        "n2": "sommelier"
+    },
+    {
+        "n1": "torréfaction",
+        "det": "du",
+        "n2": "torréfacteur"
+    },
+    {
+        "n1": "marinage",
+        "det": "du",
+        "n2": "cuisinier"
+    },
+    {
+        "n1": "séchage",
+        "det": "du",
+        "n2": "sécheur"
+    },
+    {
+        "n1": "distillation",
+        "det": "du",
+        "n2": "distillateur"
+    },
+    {
+        "n1": "fermentation",
+        "det": "du",
+        "n2": "brasseur"
+    },
+    {
+        "n1": "brassage",
+        "det": "du",
+        "n2": "brasseur"
+    },
+    {
+        "n1": "greffage",
+        "det": "du",
+        "n2": "greffeur"
+    },
+    {
+        "n1": "taille",
+        "det": "du",
+        "n2": "sculpteur sur pierre"
+    },
+    {
+        "n1": "panification",
+        "det": "du",
+        "n2": "boulanger"
+    },
+    {
+        "n1": "coaching sportif",
+        "det": "de",
+        "n2": "l'entraîneur"
+    },
+    {
+        "n1": "interview",
+        "det": "de",
+        "n2": "l'interviewer"
+    },
+    {
+        "n1": "cadrage",
+        "det": "du",
+        "n2": "cadreur"
+    },
+    {
+        "n1": "direction",
+        "det": "d'",
+        "n2": "acteurs"
+    },
+    {
+        "n1": "maçonnerie",
+        "det": "du",
+        "n2": "maçon"
+    },
+    {
+        "n1": "storytelling",
+        "det": "de",
+        "n2": "l’auteur"
+    }
+]
