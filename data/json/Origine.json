@@ -1,0 +1,2407 @@
+[
+    {
+        "n1": "Vins",
+        "n2": "vignoble",
+        "det": 1
+    },
+    {
+        "n1": "Saucisson",
+        "n2": "Ardèche",
+        "det": 0
+    },
+    {
+        "n1": "Fromages",
+        "n2": "ferme",
+        "det": 1
+    },
+    {
+        "n1": "Vin",
+        "n2": "France",
+        "det": 0
+    },
+    {
+        "n1": "Café",
+        "n2": "Brésil",
+        "det": 1
+    },
+    {
+        "n1": "Thé",
+        "n2": "Chine",
+        "det": 0
+    },
+    {
+        "n1": "Fromage",
+        "n2": "Jura",
+        "det": 1
+    },
+    {
+        "n1": "Chocolat",
+        "n2": "Belgique",
+        "det": 0
+    },
+    {
+        "n1": "Huile",
+        "n2": "olive de Provence",
+        "det": 0
+    },
+    {
+        "n1": "Cognac",
+        "n2": "Charente",
+        "det": 0
+    },
+    {
+        "n1": "Champagne",
+        "n2": "Reims",
+        "det": 0
+    },
+    {
+        "n1": "Miel",
+        "n2": "Québec",
+        "det": 1
+    },
+    {
+        "n1": "fruits",
+        "n2": "mer",
+        "det": 0
+    },
+    {
+        "n1": "Bière",
+        "n2": "Belgique",
+        "det": 0
+    },
+    {
+        "n1": "Riz",
+        "n2": "Japon",
+        "det": 1
+    },
+    {
+        "n1": "Café",
+        "n2": "Colombie",
+        "det": 0
+    },
+    {
+        "n1": "Fraise",
+        "n2": "Maroc",
+        "det": 1
+    },
+    {
+        "n1": "Ananas",
+        "n2": "Costa Rica",
+        "det": 1
+    },
+    {
+        "n1": "Olive",
+        "n2": "Kalamata",
+        "det": 0
+    },
+    {
+        "n1": "Fromage",
+        "n2": "Normandie",
+        "det": 0
+    },
+    {
+        "n1": "Vins",
+        "n2": "Bourgogne",
+        "det": 0
+    },
+    {
+        "n1": "Cidre",
+        "n2": "Normandie",
+        "det": 0
+    },
+    {
+        "n1": "Poulet",
+        "n2": "Bresse",
+        "det": 0
+    },
+    {
+        "n1": "Huîtres",
+        "n2": "Normandie",
+        "det": 0
+    },
+    {
+        "n1": "Café",
+        "n2": "quartier // aussi lieu",
+        "det": 0
+    },
+    {
+        "n1": "Saumon",
+        "n2": "Norvège",
+        "det": 0
+    },
+    {
+        "n1": "Fromage",
+        "n2": "Savoie",
+        "det": 0
+    },
+    {
+        "n1": "Thé",
+        "n2": "Darjeeling",
+        "det": 0
+    },
+    {
+        "n1": "Vin",
+        "n2": "Bordeaux",
+        "det": 0
+    },
+    {
+        "n1": "Miel",
+        "n2": "MontBlanc",
+        "det": 1
+    },
+    {
+        "n1": "Chocolat",
+        "n2": "Suisse",
+        "det": 0
+    },
+    {
+        "n1": "Huile",
+        "n2": "argan du Maroc",
+        "det": 0
+    },
+    {
+        "n1": "Vins",
+        "n2": "Champagne",
+        "det": 0
+    },
+    {
+        "n1": "Comédie musicale",
+        "n2": "Broadway // aussi lieu",
+        "det": 0
+    },
+    {
+        "n1": "Boulangerie",
+        "n2": "campagne // aussi lieu",
+        "det": 0
+    },
+    {
+        "n1": "Fromage",
+        "n2": "chèvre du Poitou",
+        "det": 0
+    },
+    {
+        "n1": "Vin",
+        "n2": "Languedoc",
+        "det": 1
+    },
+    {
+        "n1": "Café",
+        "n2": "Guatemala",
+        "det": 1
+    },
+    {
+        "n1": "Rhum",
+        "n2": "Martinique",
+        "det": 0
+    },
+    {
+        "n1": "Poivre",
+        "n2": "Madagascar",
+        "det": 0
+    },
+    {
+        "n1": "Safran",
+        "n2": "Iran",
+        "det": 0
+    },
+    {
+        "n1": "Huile",
+        "n2": "noix du Périgord",
+        "det": 0
+    },
+    {
+        "n1": "Vin",
+        "n2": "Toscane",
+        "det": 0
+    },
+    {
+        "n1": "Café",
+        "n2": "Éthiopie",
+        "det": 0
+    },
+    {
+        "n1": "Thé",
+        "n2": "Ceylan",
+        "det": 0
+    },
+    {
+        "n1": "Vins",
+        "n2": "Beaujolais",
+        "det": 1
+    },
+    {
+        "n1": "Miel",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "Chocolat",
+        "n2": "Pérou",
+        "det": 1
+    },
+    {
+        "n1": "Fromage",
+        "n2": "chèvre",
+        "det": 0
+    },
+    {
+        "n1": "Huile",
+        "n2": "olive de Sicile",
+        "det": 0
+    },
+    {
+        "n1": "Vin",
+        "n2": "Rioja",
+        "det": 0
+    },
+    {
+        "n1": "Café",
+        "n2": "Honduras",
+        "det": 1
+    },
+    {
+        "n1": "Fromage",
+        "n2": "Roquefort",
+        "det": 0
+    },
+    {
+        "n1": "Thé",
+        "n2": "Japon",
+        "det": 1
+    },
+    {
+        "n1": "Vin",
+        "n2": "Médoc",
+        "det": 1
+    },
+    {
+        "n1": "Café",
+        "n2": "Vietnam",
+        "det": 1
+    },
+    {
+        "n1": "Fromage",
+        "n2": "Brie",
+        "det": 0
+    },
+    {
+        "n1": "Huile",
+        "n2": "olive de Crète",
+        "det": 0
+    },
+    {
+        "n1": "Vins",
+        "n2": "Loire",
+        "det": 0
+    },
+    {
+        "n1": "Vin",
+        "n2": "Bourgogne",
+        "det": 0
+    },
+    {
+        "n1": "Café",
+        "n2": "Nicaragua",
+        "det": 1
+    },
+    {
+        "n1": "Thé",
+        "n2": "Assam",
+        "det": 0
+    },
+    {
+        "n1": "Fromage",
+        "n2": "Munster",
+        "det": 0
+    },
+    {
+        "n1": "Voiture",
+        "n2": "France",
+        "det": 0
+    },
+    {
+        "n1": "Mode",
+        "n2": "Milan",
+        "det": 0
+    },
+    {
+        "n1": "Bijou",
+        "n2": "Italie",
+        "det": 0
+    },
+    {
+        "n1": "Montre",
+        "n2": "Suisse",
+        "det": 0
+    },
+    {
+        "n1": "Parfum",
+        "n2": "Grasse",
+        "det": 0
+    },
+    {
+        "n1": "Horloge",
+        "n2": "Allemagne",
+        "det": 0
+    },
+    {
+        "n1": "Avion",
+        "n2": "ÉtatsUnis",
+        "det": 2
+    },
+    {
+        "n1": "Film",
+        "n2": "Hollywood",
+        "det": 0
+    },
+    {
+        "n1": "Musique",
+        "n2": "Nashville",
+        "det": 0
+    },
+    {
+        "n1": "Peinture",
+        "n2": "Espagne",
+        "det": 0
+    },
+    {
+        "n1": "Sculpture",
+        "n2": "Belgique",
+        "det": 0
+    },
+    {
+        "n1": "Vêtement",
+        "n2": "Londres",
+        "det": 0
+    },
+    {
+        "n1": "Architecture",
+        "n2": "Rome",
+        "det": 0
+    },
+    {
+        "n1": "Bateau",
+        "n2": "Norvège",
+        "det": 0
+    },
+    {
+        "n1": "Vélo",
+        "n2": "PaysBas",
+        "det": 2
+    },
+    {
+        "n1": "Art",
+        "n2": "Russie",
+        "det": 0
+    },
+    {
+        "n1": "École",
+        "n2": "Chicago",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "Édimbourg",
+        "det": 0
+    },
+    {
+        "n1": "Photographie",
+        "n2": "Japon",
+        "det": 1
+    },
+    {
+        "n1": "Théâtre",
+        "n2": "Londres",
+        "det": 0
+    },
+    {
+        "n1": "Chanson",
+        "n2": "Suède",
+        "det": 0
+    },
+    {
+        "n1": "Danse",
+        "n2": "Argentine",
+        "det": 0
+    },
+    {
+        "n1": "Livre",
+        "n2": "Angleterre",
+        "det": 0
+    },
+    {
+        "n1": "Poème",
+        "n2": "France",
+        "det": 0
+    },
+    {
+        "n1": "Opéra",
+        "n2": "Vienne",
+        "det": 0
+    },
+    {
+        "n1": "Instrument",
+        "n2": "musique d'Allemagne",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "Cannes",
+        "det": 0
+    },
+    {
+        "n1": "Montre",
+        "n2": "Genève",
+        "det": 0
+    },
+    {
+        "n1": "Mode",
+        "n2": "Paris",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "Bollywood",
+        "det": 0
+    },
+    {
+        "n1": "Sculpture",
+        "n2": "Florence",
+        "det": 0
+    },
+    {
+        "n1": "Architecture",
+        "n2": "Barcelone",
+        "det": 0
+    },
+    {
+        "n1": "Bateau",
+        "n2": "Venise",
+        "det": 0
+    },
+    {
+        "n1": "Art",
+        "n2": "Berlin",
+        "det": 0
+    },
+    {
+        "n1": "Vélo",
+        "n2": "Copenhague",
+        "det": 0
+    },
+    {
+        "n1": "Horloge",
+        "n2": "Prague",
+        "det": 0
+    },
+    {
+        "n1": "Avion",
+        "n2": "Seattle",
+        "det": 0
+    },
+    {
+        "n1": "Photographie",
+        "n2": "New York",
+        "det": 0
+    },
+    {
+        "n1": "Musique",
+        "n2": "NouvelleOrléans",
+        "det": 0
+    },
+    {
+        "n1": "Peinture",
+        "n2": "Madrid",
+        "det": 0
+    },
+    {
+        "n1": "Danse",
+        "n2": "Rio",
+        "det": 0
+    },
+    {
+        "n1": "Opéra",
+        "n2": "Sydney",
+        "det": 0
+    },
+    {
+        "n1": "Théâtre",
+        "n2": "Moscou",
+        "det": 0
+    },
+    {
+        "n1": "Chanson",
+        "n2": "Reykjavik",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "Salzbourg",
+        "det": 0
+    },
+    {
+        "n1": "Livre",
+        "n2": "Londres",
+        "det": 0
+    },
+    {
+        "n1": "Poème",
+        "n2": "Montréal",
+        "det": 0
+    },
+    {
+        "n1": "Instrument",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "Los Angeles",
+        "det": 0
+    },
+    {
+        "n1": "Sculpture",
+        "n2": "Bruxelles",
+        "det": 0
+    },
+    {
+        "n1": "Architecture",
+        "n2": "Tokyo",
+        "det": 0
+    },
+    {
+        "n1": "Avion",
+        "n2": "Paris",
+        "det": 0
+    },
+    {
+        "n1": "Bateau",
+        "n2": "Hambourg",
+        "det": 0
+    },
+    {
+        "n1": "Art",
+        "n2": "Florence",
+        "det": 0
+    },
+    {
+        "n1": "Vélo",
+        "n2": "Amsterdam",
+        "det": 0
+    },
+    {
+        "n1": "Horloge",
+        "n2": "Genève",
+        "det": 0
+    },
+    {
+        "n1": "Parfum",
+        "n2": "Paris",
+        "det": 0
+    },
+    {
+        "n1": "Montre",
+        "n2": "Bâle",
+        "det": 0
+    },
+    {
+        "n1": "Théâtre",
+        "n2": "Chicago",
+        "det": 0
+    },
+    {
+        "n1": "Chanson",
+        "n2": "Berlin",
+        "det": 0
+    },
+    {
+        "n1": "Danse",
+        "n2": "Mexico",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "Toronto",
+        "det": 0
+    },
+    {
+        "n1": "Photographie",
+        "n2": "Stockholm",
+        "det": 0
+    },
+    {
+        "n1": "Opéra",
+        "n2": "Paris",
+        "det": 0
+    },
+    {
+        "n1": "Livre",
+        "n2": "Dublin",
+        "det": 0
+    },
+    {
+        "n1": "Poème",
+        "n2": "Prague",
+        "det": 0
+    },
+    {
+        "n1": "Mode",
+        "n2": "Londres",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "New York",
+        "det": 0
+    },
+    {
+        "n1": "Sculpture",
+        "n2": "Rome",
+        "det": 0
+    },
+    {
+        "n1": "Architecture",
+        "n2": "Berlin",
+        "det": 0
+    },
+    {
+        "n1": "Art",
+        "n2": "Madrid",
+        "det": 0
+    },
+    {
+        "n1": "Horloge",
+        "n2": "Munich",
+        "det": 0
+    },
+    {
+        "n1": "Photographie",
+        "n2": "Tokyo",
+        "det": 0
+    },
+    {
+        "n1": "Peinture",
+        "n2": "Florence",
+        "det": 0
+    },
+    {
+        "n1": "Danse",
+        "n2": "Buenos Aires",
+        "det": 0
+    },
+    {
+        "n1": "Opéra",
+        "n2": "Milan",
+        "det": 0
+    },
+    {
+        "n1": "Théâtre",
+        "n2": "Sydney",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "Salzburg",
+        "det": 0
+    },
+    {
+        "n1": "Livre",
+        "n2": "Paris",
+        "det": 0
+    },
+    {
+        "n1": "Poème",
+        "n2": "Rome",
+        "det": 0
+    },
+    {
+        "n1": "Mode",
+        "n2": "Tokyo",
+        "det": 0
+    },
+    {
+        "n1": "Sculpture",
+        "n2": "Paris",
+        "det": 0
+    },
+    {
+        "n1": "Architecture",
+        "n2": "Vienne",
+        "det": 0
+    },
+    {
+        "n1": "Bateau",
+        "n2": "Amsterdam",
+        "det": 0
+    },
+    {
+        "n1": "Art",
+        "n2": "Bruxelles",
+        "det": 0
+    },
+    {
+        "n1": "Vélo",
+        "n2": "Milan",
+        "det": 0
+    },
+    {
+        "n1": "Horloge",
+        "n2": "Zurich",
+        "det": 0
+    },
+    {
+        "n1": "Avion",
+        "n2": "Los Angeles",
+        "det": 0
+    },
+    {
+        "n1": "Photographie",
+        "n2": "Berlin",
+        "det": 0
+    },
+    {
+        "n1": "Opéra",
+        "n2": "Londres",
+        "det": 0
+    },
+    {
+        "n1": "Théâtre",
+        "n2": "Prague",
+        "det": 0
+    },
+    {
+        "n1": "Chanson",
+        "n2": "Stockholm",
+        "det": 0
+    },
+    {
+        "n1": "Poème",
+        "n2": "Paris",
+        "det": 0
+    },
+    {
+        "n1": "Pizzeria",
+        "n2": "Italie // aussi lieu",
+        "det": 0
+    },
+    {
+        "n1": "vin",
+        "n2": "Bordeaux",
+        "det": 0
+    },
+    {
+        "n1": "café",
+        "n2": "Brésil",
+        "det": 1
+    },
+    {
+        "n1": "fromage",
+        "n2": "Hollande",
+        "det": 0
+    },
+    {
+        "n1": "soie",
+        "n2": "Chine",
+        "det": 0
+    },
+    {
+        "n1": "tapis",
+        "n2": "Perse",
+        "det": 0
+    },
+    {
+        "n1": "parfum",
+        "n2": "Grasse",
+        "det": 0
+    },
+    {
+        "n1": "huile",
+        "n2": "olive",
+        "det": 0
+    },
+    {
+        "n1": "thé",
+        "n2": "Japon",
+        "det": 1
+    },
+    {
+        "n1": "datte",
+        "n2": "Maroc",
+        "det": 1
+    },
+    {
+        "n1": "bière",
+        "n2": "Allemagne",
+        "det": 0
+    },
+    {
+        "n1": "bière",
+        "n2": "Munich",
+        "det": 0
+    },
+    {
+        "n1": "whisky",
+        "n2": "Écosse",
+        "det": 0
+    },
+    {
+        "n1": "dattes",
+        "n2": "Tunisie",
+        "det": 0
+    },
+    {
+        "n1": "thé",
+        "n2": "Sri Lanka",
+        "det": 1
+    },
+    {
+        "n1": "tapis",
+        "n2": "Orient",
+        "det": 0
+    },
+    {
+        "n1": "pomme",
+        "n2": "Limousin",
+        "det": 1
+    },
+    {
+        "n1": "champagne",
+        "n2": "Reims",
+        "det": 0
+    },
+    {
+        "n1": "tabac",
+        "n2": "Virginie",
+        "det": 0
+    },
+    {
+        "n1": "poivre",
+        "n2": "Madagascar",
+        "det": 0
+    },
+    {
+        "n1": "safran",
+        "n2": "Iran",
+        "det": 0
+    },
+    {
+        "n1": "fromage",
+        "n2": "Roquefort",
+        "det": 0
+    },
+    {
+        "n1": "miel",
+        "n2": "Lavande",
+        "det": 0
+    },
+    {
+        "n1": "vin",
+        "n2": "Bourgogne",
+        "det": 0
+    },
+    {
+        "n1": "vin",
+        "n2": "Beaujolais",
+        "det": 1
+    },
+    {
+        "n1": "vin",
+        "n2": "Loire",
+        "det": 0
+    },
+    {
+        "n1": "rhum",
+        "n2": "Martinique",
+        "det": 1
+    },
+    {
+        "n1": "rhum",
+        "n2": "Réunion",
+        "det": 1
+    },
+    {
+        "n1": "fromages",
+        "n2": "Auvergne",
+        "det": 0
+    },
+    {
+        "n1": "lentilles",
+        "n2": "Puy",
+        "det": 1
+    },
+    {
+        "n1": "huîtres",
+        "n2": "Cancale",
+        "det": 0
+    },
+    {
+        "n1": "sardines",
+        "n2": "Bretagne",
+        "det": 0
+    },
+    {
+        "n1": "biscuits",
+        "n2": "Reims",
+        "det": 0
+    },
+    {
+        "n1": "champagne",
+        "n2": "Épernay",
+        "det": 0
+    },
+    {
+        "n1": "cognac",
+        "n2": "Charente",
+        "det": 0
+    },
+    {
+        "n1": "armagnac",
+        "n2": "Gascogne",
+        "det": 0
+    },
+    {
+        "n1": "cidre",
+        "n2": "Normandie",
+        "det": 0
+    },
+    {
+        "n1": "calvados",
+        "n2": "Pays d'Auge",
+        "det": 1
+    },
+    {
+        "n1": "pruneaux",
+        "n2": "Agen",
+        "det": 0
+    },
+    {
+        "n1": "cerises",
+        "n2": "Montmorency",
+        "det": 0
+    },
+    {
+        "n1": "fraises",
+        "n2": "Plougastel",
+        "det": 0
+    },
+    {
+        "n1": "figues",
+        "n2": "Solliès",
+        "det": 0
+    },
+    {
+        "n1": "melons",
+        "n2": "Cavaillon",
+        "det": 0
+    },
+    {
+        "n1": "pommes",
+        "n2": "Savoie",
+        "det": 0
+    },
+    {
+        "n1": "vin",
+        "n2": "France",
+        "det": 0
+    },
+    {
+        "n1": "fromage",
+        "n2": "Suisse",
+        "det": 0
+    },
+    {
+        "n1": "thé",
+        "n2": "Chine",
+        "det": 0
+    },
+    {
+        "n1": "vodka",
+        "n2": "Russie",
+        "det": 0
+    },
+    {
+        "n1": "champagne",
+        "n2": "Champagne",
+        "det": 0
+    },
+    {
+        "n1": "danseuse",
+        "n2": "Espagne",
+        "det": 0
+    },
+    {
+        "n1": "voiture",
+        "n2": "Allemagne",
+        "det": 0
+    },
+    {
+        "n1": "porcelaine",
+        "n2": "Limoges",
+        "det": 0
+    },
+    {
+        "n1": "jambon",
+        "n2": "Bayonne",
+        "det": 0
+    },
+    {
+        "n1": "saucisson",
+        "n2": "Auvergne",
+        "det": 0
+    },
+    {
+        "n1": "huile",
+        "n2": "Italie",
+        "det": 0
+    },
+    {
+        "n1": "mangue",
+        "n2": "Inde",
+        "det": 0
+    },
+    {
+        "n1": "banane",
+        "n2": "Guadeloupe",
+        "det": 0
+    },
+    {
+        "n1": "ananas",
+        "n2": "Côte Ivoire",
+        "det": 0
+    },
+    {
+        "n1": "cacao",
+        "n2": "Ghana",
+        "det": 1
+    },
+    {
+        "n1": "riz",
+        "n2": "Thaïlande",
+        "det": 0
+    },
+    {
+        "n1": "soie",
+        "n2": "Japon",
+        "det": 1
+    },
+    {
+        "n1": "diamant",
+        "n2": "Afrique",
+        "det": 0
+    },
+    {
+        "n1": "pétrole",
+        "n2": "Arabie",
+        "det": 0
+    },
+    {
+        "n1": "marbre",
+        "n2": "Carrare",
+        "det": 0
+    },
+    {
+        "n1": "laine",
+        "n2": "Australie",
+        "det": 0
+    },
+    {
+        "n1": "caviar",
+        "n2": "Russie",
+        "det": 0
+    },
+    {
+        "n1": "cognac",
+        "n2": "Cognac",
+        "det": 0
+    },
+    {
+        "n1": "bière",
+        "n2": "Belgique",
+        "det": 0
+    },
+    {
+        "n1": "footballeur",
+        "n2": "Brésil",
+        "det": 1
+    },
+    {
+        "n1": "écrivain",
+        "n2": "Russie",
+        "det": 0
+    },
+    {
+        "n1": "peintre",
+        "n2": "Italie",
+        "det": 0
+    },
+    {
+        "n1": "philosophe",
+        "n2": "Grèce",
+        "det": 0
+    },
+    {
+        "n1": "danse",
+        "n2": "Tahiti",
+        "det": 0
+    },
+    {
+        "n1": "musique",
+        "n2": "Congo",
+        "det": 1
+    },
+    {
+        "n1": "instrument",
+        "n2": "Inde",
+        "det": 0
+    },
+    {
+        "n1": "plat",
+        "n2": "Maroc",
+        "det": 1
+    },
+    {
+        "n1": "spécialité",
+        "n2": "Lyon",
+        "det": 0
+    },
+    {
+        "n1": "recette",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "tradition",
+        "n2": "Bretagne",
+        "det": 0
+    },
+    {
+        "n1": "costume",
+        "n2": "Venise",
+        "det": 0
+    },
+    {
+        "n1": "masque",
+        "n2": "Venise",
+        "det": 0
+    },
+    {
+        "n1": "sculpture",
+        "n2": "Benin",
+        "det": 1
+    },
+    {
+        "n1": "artisanat",
+        "n2": "Mali",
+        "det": 1
+    },
+    {
+        "n1": "tissu",
+        "n2": "Ghana",
+        "det": 1
+    },
+    {
+        "n1": "céramique",
+        "n2": "Mexique",
+        "det": 1
+    },
+    {
+        "n1": "poterie",
+        "n2": "Niger",
+        "det": 1
+    },
+    {
+        "n1": "bijou",
+        "n2": "Turquie",
+        "det": 0
+    },
+    {
+        "n1": "tapis",
+        "n2": "Pakistan",
+        "det": 1
+    },
+    {
+        "n1": "épice",
+        "n2": "Inde",
+        "det": 0
+    },
+    {
+        "n1": "café",
+        "n2": "Colombie",
+        "det": 0
+    },
+    {
+        "n1": "ognac",
+        "n2": "France",
+        "det": 0
+    },
+    {
+        "n1": "calvados",
+        "n2": "Normandie",
+        "det": 0
+    },
+    {
+        "n1": "pastis",
+        "n2": "Marseille",
+        "det": 0
+    },
+    {
+        "n1": "ricard",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "muscat",
+        "n2": "Rivesaltes",
+        "det": 0
+    },
+    {
+        "n1": "banyuls",
+        "n2": "Roussillon",
+        "det": 1
+    },
+    {
+        "n1": "porto",
+        "n2": "Portugal",
+        "det": 1
+    },
+    {
+        "n1": "madère",
+        "n2": "Madère",
+        "det": 0
+    },
+    {
+        "n1": "sherry",
+        "n2": "Espagne",
+        "det": 0
+    },
+    {
+        "n1": "marsala",
+        "n2": "Sicile",
+        "det": 0
+    },
+    {
+        "n1": "ouzo",
+        "n2": "Grèce",
+        "det": 0
+    },
+    {
+        "n1": "raki",
+        "n2": "Turquie",
+        "det": 0
+    },
+    {
+        "n1": "saké",
+        "n2": "Japon",
+        "det": 1
+    },
+    {
+        "n1": "soju",
+        "n2": "Corée",
+        "det": 0
+    },
+    {
+        "n1": "baijiu",
+        "n2": "Chine",
+        "det": 0
+    },
+    {
+        "n1": "vodka",
+        "n2": "Pologne",
+        "det": 0
+    },
+    {
+        "n1": "gin",
+        "n2": "Angleterre",
+        "det": 0
+    },
+    {
+        "n1": "rhum",
+        "n2": "Martinique",
+        "det": 0
+    },
+    {
+        "n1": "tequila",
+        "n2": "Mexique",
+        "det": 1
+    },
+    {
+        "n1": "cachaça",
+        "n2": "Brésil",
+        "det": 1
+    },
+    {
+        "n1": "pisco",
+        "n2": "Pérou",
+        "det": 1
+    },
+    {
+        "n1": "absinthe",
+        "n2": "Suisse",
+        "det": 0
+    },
+    {
+        "n1": "chartreuse",
+        "n2": "Grande",
+        "det": 1
+    },
+    {
+        "n1": "benedictine",
+        "n2": "Fécamp",
+        "det": 0
+    },
+    {
+        "n1": "cointreau",
+        "n2": "Angers",
+        "det": 0
+    },
+    {
+        "n1": "grand marnier",
+        "n2": "Neauphle",
+        "det": 0
+    },
+    {
+        "n1": "drambuie",
+        "n2": "Écosse",
+        "det": 0
+    },
+    {
+        "n1": "irish cream",
+        "n2": "Irlande",
+        "det": 0
+    },
+    {
+        "n1": "amaretto",
+        "n2": "Italie",
+        "det": 0
+    },
+    {
+        "n1": "frangelico",
+        "n2": "Piémont",
+        "det": 1
+    },
+    {
+        "n1": "limoncello",
+        "n2": "Capri",
+        "det": 0
+    },
+    {
+        "n1": "maraschino",
+        "n2": "Zara",
+        "det": 0
+    },
+    {
+        "n1": "kümmel",
+        "n2": "Allemagne",
+        "det": 0
+    },
+    {
+        "n1": "aquavit",
+        "n2": "Scandinavie",
+        "det": 0
+    },
+    {
+        "n1": "arrak",
+        "n2": "Indonésie",
+        "det": 0
+    },
+    {
+        "n1": "arak",
+        "n2": "Liban",
+        "det": 1
+    },
+    {
+        "n1": "mastika",
+        "n2": "Grèce",
+        "det": 0
+    },
+    {
+        "n1": "zivania",
+        "n2": "Chypre",
+        "det": 0
+    },
+    {
+        "n1": "tsipouro",
+        "n2": "Grèce",
+        "det": 0
+    },
+    {
+        "n1": "slivovitz",
+        "n2": "Serbie",
+        "det": 0
+    },
+    {
+        "n1": "palinka",
+        "n2": "Hongrie",
+        "det": 0
+    },
+    {
+        "n1": "tuica",
+        "n2": "Roumanie",
+        "det": 0
+    },
+    {
+        "n1": "horilka",
+        "n2": "Ukraine",
+        "det": 0
+    },
+    {
+        "n1": "samogon",
+        "n2": "Biélorussie",
+        "det": 0
+    },
+    {
+        "n1": "chacha",
+        "n2": "Géorgie",
+        "det": 0
+    },
+    {
+        "n1": "boukha",
+        "n2": "Tunisie",
+        "det": 0
+    },
+    {
+        "n1": "mahia",
+        "n2": "Maroc",
+        "det": 1
+    },
+    {
+        "n1": "lagmi",
+        "n2": "Tunisie",
+        "det": 0
+    },
+    {
+        "n1": "cigare",
+        "n2": "Cuba",
+        "det": 0
+    },
+    {
+        "n1": "sirop",
+        "n2": "érable du Canada",
+        "det": 0
+    },
+    {
+        "n1": "Du saumon",
+        "n2": "Norvège",
+        "det": 0
+    },
+    {
+        "n1": "Du jambon",
+        "n2": "Parme",
+        "det": 0
+    },
+    {
+        "n1": "Du fromage",
+        "n2": "Parmigiano Reggiano",
+        "det": 0
+    },
+    {
+        "n1": "couteau",
+        "n2": "Laguiole",
+        "det": 0
+    },
+    {
+        "n1": "montre",
+        "n2": "Suisse",
+        "det": 0
+    },
+    {
+        "n1": "Du chocolat",
+        "n2": "Belgique",
+        "det": 0
+    },
+    {
+        "n1": "bouillabaisse",
+        "n2": "Marseille",
+        "det": 0
+    },
+    {
+        "n1": "cassoulet",
+        "n2": "Toulouse",
+        "det": 0
+    },
+    {
+        "n1": "quiche",
+        "n2": "Lorraine",
+        "det": 0
+    },
+    {
+        "n1": "Du foie gras",
+        "n2": "SudOuest",
+        "det": 1
+    },
+    {
+        "n1": "andouille",
+        "n2": "Vire",
+        "det": 0
+    },
+    {
+        "n1": "Du roquefort",
+        "n2": "Aveyron",
+        "det": 1
+    },
+    {
+        "n1": "Du munster",
+        "n2": "Alsace",
+        "det": 0
+    },
+    {
+        "n1": "tarte Tatin",
+        "n2": "Sologne",
+        "det": 0
+    },
+    {
+        "n1": "Du crottin",
+        "n2": "Chavignol",
+        "det": 0
+    },
+    {
+        "n1": "fourme",
+        "n2": "Ambert",
+        "det": 0
+    },
+    {
+        "n1": "Du saintnectaire",
+        "n2": "Auvergne",
+        "det": 0
+    },
+    {
+        "n1": "Du bleu",
+        "n2": "Causses",
+        "det": 2
+    },
+    {
+        "n1": "Du comté",
+        "n2": "Jura",
+        "det": 1
+    },
+    {
+        "n1": "Du morbier",
+        "n2": "HautDoubs",
+        "det": 1
+    },
+    {
+        "n1": "Du reblochon",
+        "n2": "Savoie",
+        "det": 0
+    },
+    {
+        "n1": "De la tomme",
+        "n2": "Pyrénées",
+        "det": 2
+    },
+    {
+        "n1": "Du brocciu",
+        "n2": "Corse",
+        "det": 0
+    },
+    {
+        "n1": "charcuterie",
+        "n2": "Ardenne",
+        "det": 0
+    },
+    {
+        "n1": "Du boudin",
+        "n2": "Mortagne",
+        "det": 0
+    },
+    {
+        "n1": "andouillette",
+        "n2": "Troyes",
+        "det": 0
+    },
+    {
+        "n1": "pâté",
+        "n2": "campagne du Périgord",
+        "det": 0
+    },
+    {
+        "n1": "rillettes",
+        "n2": "Mans",
+        "det": 1
+    },
+    {
+        "n1": "galette",
+        "n2": "PontAven",
+        "det": 0
+    },
+    {
+        "n1": "kouignamann",
+        "n2": "Douarnenez",
+        "det": 0
+    },
+    {
+        "n1": "pain",
+        "n2": "Dijon",
+        "det": 0
+    },
+    {
+        "n1": "nougat",
+        "n2": "Montélimar",
+        "det": 0
+    },
+    {
+        "n1": "calissons",
+        "n2": "Aix",
+        "det": 0
+    },
+    {
+        "n1": "berlingot",
+        "n2": "Carpentras",
+        "det": 0
+    },
+    {
+        "n1": "praline",
+        "n2": "Montargis",
+        "det": 0
+    },
+    {
+        "n1": "Du miel",
+        "n2": "Vosges",
+        "det": 2
+    },
+    {
+        "n1": "châtaigne",
+        "n2": "Ardèche",
+        "det": 0
+    },
+    {
+        "n1": "noix",
+        "n2": "Grenoble",
+        "det": 0
+    },
+    {
+        "n1": "amande",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "olive",
+        "n2": "Nice",
+        "det": 0
+    },
+    {
+        "n1": "artichaut",
+        "n2": "Bretagne",
+        "det": 0
+    },
+    {
+        "n1": "haricot",
+        "n2": "Soissons",
+        "det": 0
+    },
+    {
+        "n1": "pomme",
+        "n2": "Noirmoutier",
+        "det": 0
+    },
+    {
+        "n1": "oignon",
+        "n2": "Roscoff",
+        "det": 0
+    },
+    {
+        "n1": "carotte",
+        "n2": "Créances",
+        "det": 0
+    },
+    {
+        "n1": "melon",
+        "n2": "Quercy",
+        "det": 1
+    },
+    {
+        "n1": "fraise",
+        "n2": "Carpentras",
+        "det": 0
+    },
+    {
+        "n1": "raisin",
+        "n2": "Chasselas",
+        "det": 0
+    },
+    {
+        "n1": "choucroute",
+        "n2": "Alsace",
+        "det": 0
+    },
+    {
+        "n1": "tapenade",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "anchois",
+        "n2": "Collioure",
+        "det": 0
+    },
+    {
+        "n1": "brandade",
+        "n2": "Nîmes",
+        "det": 0
+    },
+    {
+        "n1": "aligot",
+        "n2": "Aubrac",
+        "det": 1
+    },
+    {
+        "n1": "truffade",
+        "n2": "Cantal",
+        "det": 1
+    },
+    {
+        "n1": "garbure",
+        "n2": "Béarn",
+        "det": 1
+    },
+    {
+        "n1": "poule au pot",
+        "n2": "Gascogne",
+        "det": 0
+    },
+    {
+        "n1": "coq au vin",
+        "n2": "Bourgogne",
+        "det": 0
+    },
+    {
+        "n1": "bougnette",
+        "n2": "Rouergue",
+        "det": 1
+    },
+    {
+        "n1": "fouace",
+        "n2": "Angoumois",
+        "det": 0
+    },
+    {
+        "n1": "craquelin",
+        "n2": "SaintMalo",
+        "det": 0
+    },
+    {
+        "n1": "galette",
+        "n2": "Bretagne",
+        "det": 0
+    },
+    {
+        "n1": "tourtière",
+        "n2": "Limousin",
+        "det": 1
+    },
+    {
+        "n1": "flamusse",
+        "n2": "Bresse",
+        "det": 0
+    },
+    {
+        "n1": "tarte au sucre",
+        "n2": "Nord",
+        "det": 1
+    },
+    {
+        "n1": "gâche",
+        "n2": "Vendée",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux pommes",
+        "n2": "Normandie",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux mirabelles",
+        "n2": "Lorraine",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux quetsches",
+        "n2": "Alsace",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux myrtilles",
+        "n2": "Vosges",
+        "det": 2
+    },
+    {
+        "n1": "tarte aux noix",
+        "n2": "Périgord",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux pruneaux",
+        "n2": "Agen",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux figues",
+        "n2": "Solliès",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux fraises",
+        "n2": "Plougastel",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux cerises",
+        "n2": "Montmorency",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux abricots",
+        "n2": "Vallée du Rhône",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux pêches",
+        "n2": "Drôme",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux nectarines",
+        "n2": "Crau",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux brugnons",
+        "n2": "Roussillon",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux reinesclaudes",
+        "n2": "Languedoc",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux poires",
+        "n2": "Oise",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux coings",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux rhubarbes",
+        "n2": "Loire",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux airelles",
+        "n2": "Ardennes",
+        "det": 2
+    },
+    {
+        "n1": "tarte aux framboises",
+        "n2": "Lyonnais",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux mûres",
+        "n2": "Cévennes",
+        "det": 2
+    },
+    {
+        "n1": "tarte aux cassis",
+        "n2": "Bourgogne",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux groseilles",
+        "n2": "Touraine",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux marrons",
+        "n2": "Ardèche",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux châtaignes",
+        "n2": "Cévennes",
+        "det": 2
+    },
+    {
+        "n1": "tarte aux noisettes",
+        "n2": "Piémont",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux amandes",
+        "n2": "Méditerranée",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux pignons",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "tarte aux dattes",
+        "n2": "Maghreb",
+        "det": 1
+    },
+    {
+        "n1": "tarte aux bananes",
+        "n2": "Antilles",
+        "det": 2
+    },
+    {
+        "n1": "tarte aux ananas",
+        "n2": "Guadeloupe",
+        "det": 0
+    },
+    {
+        "n1": "fromage",
+        "n2": "chèvre",
+        "det": 0
+    },
+    {
+        "n1": "parfum",
+        "n2": "rose",
+        "det": 0
+    },
+    {
+        "n1": "riz",
+        "n2": "Camargue",
+        "det": 0
+    },
+    {
+        "n1": "légende",
+        "n2": "Alsace",
+        "det": 0
+    },
+    {
+        "n1": "chant",
+        "n2": "Balkans",
+        "det": 2
+    },
+    {
+        "n1": "accent",
+        "n2": "Sud",
+        "det": 1
+    },
+    {
+        "n1": "architecture",
+        "n2": "Venise",
+        "det": 0
+    },
+    {
+        "n1": "Porcelaine",
+        "n2": "chine",
+        "det": 0
+    },
+    {
+        "n1": "Jazz",
+        "n2": "new orleans",
+        "det": 0
+    },
+    {
+        "n1": "fromage",
+        "n2": "Normandie",
+        "det": 0
+    },
+    {
+        "n1": "huile",
+        "n2": "olive de Provence",
+        "det": 0
+    },
+    {
+        "n1": "épices",
+        "n2": "Indes",
+        "det": 2
+    },
+    {
+        "n1": "soie",
+        "n2": "Lyon",
+        "det": 0
+    },
+    {
+        "n1": "chocolat",
+        "n2": "Belgique",
+        "det": 0
+    },
+    {
+        "n1": "tapas",
+        "n2": "Espagne",
+        "det": 0
+    },
+    {
+        "n1": "safran",
+        "n2": "Maroc",
+        "det": 1
+    },
+    {
+        "n1": "pâtes",
+        "n2": "Italie",
+        "det": 0
+    },
+    {
+        "n1": "tulipes",
+        "n2": "Hollande",
+        "det": 0
+    },
+    {
+        "n1": "coton",
+        "n2": "Égypte",
+        "det": 0
+    },
+    {
+        "n1": "jade",
+        "n2": "Birmanie",
+        "det": 0
+    },
+    {
+        "n1": "diamants",
+        "n2": "Afrique",
+        "det": 0
+    },
+    {
+        "n1": "miel",
+        "n2": "Savoie",
+        "det": 0
+    },
+    {
+        "n1": "risotto",
+        "n2": "Milan",
+        "det": 0
+    },
+    {
+        "n1": "vin",
+        "n2": "Toscane",
+        "det": 0
+    },
+    {
+        "n1": "beurre",
+        "n2": "Bretagne",
+        "det": 0
+    },
+    {
+        "n1": "café",
+        "n2": "Éthiopie",
+        "det": 0
+    },
+    {
+        "n1": "agneau",
+        "n2": "Quercy",
+        "det": 1
+    },
+    {
+        "n1": "marbre",
+        "n2": "Vermont",
+        "det": 1
+    },
+    {
+        "n1": "saumon",
+        "n2": "Islande",
+        "det": 0
+    },
+    {
+        "n1": "granite",
+        "n2": "Portugal",
+        "det": 1
+    },
+    {
+        "n1": "cuir",
+        "n2": "Cordoue",
+        "det": 0
+    },
+    {
+        "n1": "muscade",
+        "n2": "Antilles",
+        "det": 2
+    },
+    {
+        "n1": "agrumes",
+        "n2": "Sicile",
+        "det": 0
+    },
+    {
+        "n1": "thon",
+        "n2": "Maldives",
+        "det": 2
+    },
+    {
+        "n1": "vanille",
+        "n2": "Madagascar",
+        "det": 0
+    },
+    {
+        "n1": "émeraudes",
+        "n2": "Colombie",
+        "det": 0
+    },
+    {
+        "n1": "porc",
+        "n2": "Bretagne",
+        "det": 0
+    },
+    {
+        "n1": "moutarde",
+        "n2": "Dijon",
+        "det": 0
+    },
+    {
+        "n1": "agave",
+        "n2": "Mexique",
+        "det": 1
+    },
+    {
+        "n1": "kiwi",
+        "n2": "NouvelleZélande",
+        "det": 0
+    },
+    {
+        "n1": "thon",
+        "n2": "Tahiti",
+        "det": 0
+    },
+    {
+        "n1": "lavande",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "châtaignes",
+        "n2": "Ardèche",
+        "det": 0
+    },
+    {
+        "n1": "bananes",
+        "n2": "Canaries",
+        "det": 2
+    },
+    {
+        "n1": "épinards",
+        "n2": "Hollande",
+        "det": 0
+    },
+    {
+        "n1": "mangues",
+        "n2": "Inde",
+        "det": 0
+    },
+    {
+        "n1": "cerf",
+        "n2": "Canada",
+        "det": 1
+    },
+    {
+        "n1": "truffes",
+        "n2": "Périgord",
+        "det": 1
+    },
+    {
+        "n1": "kiwis",
+        "n2": "Corse",
+        "det": 0
+    },
+    {
+        "n1": "citron",
+        "n2": "Menton",
+        "det": 0
+    },
+    {
+        "n1": "asperges",
+        "n2": "Landes",
+        "det": 2
+    },
+    {
+        "n1": "grenade",
+        "n2": "Iran",
+        "det": 0
+    },
+    {
+        "n1": "cerises",
+        "n2": "Burlat",
+        "det": 0
+    },
+    {
+        "n1": "melon",
+        "n2": "Cavaillon",
+        "det": 0
+    },
+    {
+        "n1": "pommes",
+        "n2": "Normandie",
+        "det": 0
+    },
+    {
+        "n1": "abricots",
+        "n2": "Provence",
+        "det": 0
+    },
+    {
+        "n1": "figues",
+        "n2": "Turquie",
+        "det": 0
+    },
+    {
+        "n1": "raisins",
+        "n2": "Champagne",
+        "det": 0
+    },
+    {
+        "n1": "oignons",
+        "n2": "Roscoff",
+        "det": 0
+    },
+    {
+        "n1": "cerises",
+        "n2": "Bigarreau",
+        "det": 0
+    },
+    {
+        "n1": "champignons",
+        "n2": "bois",
+        "det": 2
+    },
+    {
+        "n1": "pommes",
+        "n2": "terre",
+        "det": 0
+    },
+    {
+        "n1": "carottes",
+        "n2": "Guérande",
+        "det": 0
+    },
+    {
+        "n1": "myrtilles",
+        "n2": "Vosges",
+        "det": 2
+    },
+    {
+        "n1": "framboises",
+        "n2": "Ardèche",
+        "det": 0
+    },
+    {
+        "n1": "foie gras",
+        "n2": "Périgord",
+        "det": 1
+    },
+    {
+        "n1": "céramique",
+        "n2": "Portugal",
+        "det": 1
+    },
+    {
+        "n1": "vin",
+        "n2": "Chili",
+        "det": 1
+    },
+    {
+        "n1": "fromage",
+        "n2": "Camembert",
+        "det": 0
+    },
+    {
+        "n1": "thé",
+        "n2": "Taïwan",
+        "det": 0
+    },
+    {
+        "n1": "chocolat",
+        "n2": "Suisse",
+        "det": 0
+    },
+    {
+        "n1": "fromage",
+        "n2": "Savoie",
+        "det": 0
+    },
+    {
+        "n1": "porcelaine",
+        "n2": "Chine",
+        "det": 0
+    },
+    {
+        "n1": "papier",
+        "n2": "Japon",
+        "det": 1
+    },
+    {
+        "n1": "verre",
+        "n2": "Murano",
+        "det": 0
+    },
+    {
+        "n1": "cuir",
+        "n2": "Italie",
+        "det": 0
+    },
+    {
+        "n1": "roche",
+        "n2": "Inde",
+        "det": 0
+    },
+    {
+        "n1": "papier",
+        "n2": "Indonésie",
+        "det": 0
+    },
+    {
+        "n1": "safran",
+        "n2": "Espagne",
+        "det": 0
+    },
+    {
+        "n1": "thé",
+        "n2": "Inde",
+        "det": 0
+    },
+    {
+        "n1": "café",
+        "n2": "Vietnam",
+        "det": 1
+    },
+    {
+        "n1": "riz",
+        "n2": "Indonésie",
+        "det": 0
+    },
+    {
+        "n1": "chocolat",
+        "n2": "Équateur",
+        "det": 0
+    },
+    {
+        "n1": "fromage",
+        "n2": "Gruyère",
+        "det": 0
+    },
+    {
+        "n1": "porcelaine",
+        "n2": "Thaïlande",
+        "det": 0
+    },
+    {
+        "n1": "soie",
+        "n2": "Inde",
+        "det": 0
+    },
+    {
+        "n1": "piment",
+        "n2": "Espelette",
+        "det": 0
+    },
+    {
+        "n1": "huile",
+        "n2": "argan du Maroc",
+        "det": 0
+    },
+    {
+        "n1": "saumon",
+        "n2": "Norvège",
+        "det": 0
+    },
+    {
+        "n1": "spiruline",
+        "n2": "Tchad",
+        "det": 1
+    }
+]

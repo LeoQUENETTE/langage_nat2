@@ -1,0 +1,2292 @@
+[
+    {
+        "n1": "Restaurant",
+        "n2": "sushis",
+        "det": 0
+    },
+    {
+        "n1": "Vendeur",
+        "n2": "pizzas",
+        "det": 0
+    },
+    {
+        "n1": "Bar",
+        "n2": "vin",
+        "det": 0
+    },
+    {
+        "n1": "Salon",
+        "n2": "thé",
+        "det": 0
+    },
+    {
+        "n1": "Stand",
+        "n2": "crêpes",
+        "det": 0
+    },
+    {
+        "n1": "Brasserie",
+        "n2": "bord",
+        "det": 0
+    },
+    {
+        "n1": "Foodtruck",
+        "n2": "burgers",
+        "det": 0
+    },
+    {
+        "n1": "Restaurant",
+        "n2": "fruits",
+        "det": 0
+    },
+    {
+        "n1": "Épicerie",
+        "n2": "produits locaux",
+        "det": 0
+    },
+    {
+        "n1": "Marché",
+        "n2": "producteurs",
+        "det": 0
+    },
+    {
+        "n1": "Cave",
+        "n2": "fromages",
+        "det": 0
+    },
+    {
+        "n1": "Restaurant",
+        "n2": "tapas",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "horreur",
+        "det": 0
+    },
+    {
+        "n1": "Comédie",
+        "n2": "amour",
+        "det": 0
+    },
+    {
+        "n1": "Drame",
+        "n2": "guerre",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "sciencefiction",
+        "det": 0
+    },
+    {
+        "n1": "Dessin animé",
+        "n2": "aventure",
+        "det": 0
+    },
+    {
+        "n1": "Documentaire",
+        "n2": "exploration",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "action",
+        "det": 0
+    },
+    {
+        "n1": "Saga",
+        "n2": "superhéros",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "espionnage",
+        "det": 0
+    },
+    {
+        "n1": "Thriller",
+        "n2": "psychologie",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "animation japonaise",
+        "det": 0
+    },
+    {
+        "n1": "Roman",
+        "n2": "amour",
+        "det": 0
+    },
+    {
+        "n1": "Poème",
+        "n2": "guerre \\\\ aussi despiction",
+        "det": 0
+    },
+    {
+        "n1": "Pièce",
+        "n2": "théâtre tragique",
+        "det": 0
+    },
+    {
+        "n1": "Conte",
+        "n2": "hiver",
+        "det": 0
+    },
+    {
+        "n1": "Fable",
+        "n2": "animaux",
+        "det": 0
+    },
+    {
+        "n1": "Essai",
+        "n2": "philosophie",
+        "det": 0
+    },
+    {
+        "n1": "Recueil",
+        "n2": "nouvelles fantastiques",
+        "det": 0
+    },
+    {
+        "n1": "Livre",
+        "n2": "cuisine",
+        "det": 0
+    },
+    {
+        "n1": "Biographie",
+        "n2": "artiste",
+        "det": 0
+    },
+    {
+        "n1": "Manuel",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "Traité",
+        "n2": "médecine",
+        "det": 0
+    },
+    {
+        "n1": "Guide",
+        "n2": "randonnée",
+        "det": 0
+    },
+    {
+        "n1": "Article",
+        "n2": "mode",
+        "det": 0
+    },
+    {
+        "n1": "Chronique",
+        "n2": "politiques",
+        "det": 0
+    },
+    {
+        "n1": "Discours",
+        "n2": "paix",
+        "det": 0
+    },
+    {
+        "n1": "Chanson",
+        "n2": "amour",
+        "det": 0
+    },
+    {
+        "n1": "Concert",
+        "n2": "rock",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "jazz",
+        "det": 0
+    },
+    {
+        "n1": "Album",
+        "n2": "rap",
+        "det": 0
+    },
+    {
+        "n1": "Symphonie",
+        "n2": "classique",
+        "det": 0
+    },
+    {
+        "n1": "Spectacle",
+        "n2": "cirque",
+        "det": 0
+    },
+    {
+        "n1": "Show",
+        "n2": "magie",
+        "det": 0
+    },
+    {
+        "n1": "Récital",
+        "n2": "piano",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "électro",
+        "det": 0
+    },
+    {
+        "n1": "Chorale",
+        "n2": "église",
+        "det": 0
+    },
+    {
+        "n1": "Exposition",
+        "n2": "peinture",
+        "det": 0
+    },
+    {
+        "n1": "Musée",
+        "n2": "histoire naturelle",
+        "det": 0
+    },
+    {
+        "n1": "Galerie",
+        "n2": "art contemporain",
+        "det": 0
+    },
+    {
+        "n1": "Reportage",
+        "n2": "guerre // aussi despiction",
+        "det": 0
+    },
+    {
+        "n1": "Journal",
+        "n2": "actualités // aussi despiction",
+        "det": 0
+    },
+    {
+        "n1": "Podcast",
+        "n2": "voyage // aussi despiction",
+        "det": 0
+    },
+    {
+        "n1": "Émission",
+        "n2": "cuisine",
+        "det": 0
+    },
+    {
+        "n1": "Chaîne",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "télévision",
+        "det": 0
+    },
+    {
+        "n1": "Revue",
+        "n2": "scientifiques",
+        "det": 0
+    },
+    {
+        "n1": "Radio",
+        "n2": "musique classique",
+        "det": 0
+    },
+    {
+        "n1": "Site",
+        "n2": "photographie",
+        "det": 0
+    },
+    {
+        "n1": "Conférence",
+        "n2": "philosophie",
+        "det": 0
+    },
+    {
+        "n1": "Plateforme",
+        "n2": "streaming",
+        "det": 0
+    },
+    {
+        "n1": "Concours",
+        "n2": "danse",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "stratégie",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "cartes",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "aventure",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "société médiéval",
+        "det": 0
+    },
+    {
+        "n1": "Jeu vidéo",
+        "n2": "simulation",
+        "det": 0
+    },
+    {
+        "n1": "Tournoi",
+        "n2": "échecs",
+        "det": 0
+    },
+    {
+        "n1": "Compétition",
+        "n2": "natation",
+        "det": 0
+    },
+    {
+        "n1": "Atelier",
+        "n2": "poterie",
+        "det": 0
+    },
+    {
+        "n1": "Club",
+        "n2": "lecture",
+        "det": 0
+    },
+    {
+        "n1": "Cours",
+        "n2": "peinture",
+        "det": 0
+    },
+    {
+        "n1": "Musée",
+        "n2": "sciences",
+        "det": 0
+    },
+    {
+        "n1": "Parc",
+        "n2": "attractions",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "cinéma",
+        "det": 0
+    },
+    {
+        "n1": "Salon",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "Exposition",
+        "n2": "photos",
+        "det": 0
+    },
+    {
+        "n1": "Centre",
+        "n2": "art",
+        "det": 0
+    },
+    {
+        "n1": "Théâtre",
+        "n2": "improvisation",
+        "det": 0
+    },
+    {
+        "n1": "Convention",
+        "n2": "jeux",
+        "det": 0
+    },
+    {
+        "n1": "Fête",
+        "n2": "musique",
+        "det": 1
+    },
+    {
+        "n1": "Émission",
+        "n2": "débats",
+        "det": 0
+    },
+    {
+        "n1": "Article",
+        "n2": "presse",
+        "det": 0
+    },
+    {
+        "n1": "Publicité",
+        "n2": "parfum",
+        "det": 0
+    },
+    {
+        "n1": "Blog",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "Discussion",
+        "n2": "philosophie",
+        "det": 0
+    },
+    {
+        "n1": "Boulangerie",
+        "n2": "quartier",
+        "det": 0
+    },
+    {
+        "n1": "Café",
+        "n2": "lecture",
+        "det": 0
+    },
+    {
+        "n1": "Salon",
+        "n2": "café",
+        "det": 0
+    },
+    {
+        "n1": "Stand",
+        "n2": "hotdogs",
+        "det": 0
+    },
+    {
+        "n1": "Brasserie",
+        "n2": "port",
+        "det": 1
+    },
+    {
+        "n1": "Foodtruck",
+        "n2": "pizzas",
+        "det": 0
+    },
+    {
+        "n1": "Épicerie",
+        "n2": "spécialités",
+        "det": 0
+    },
+    {
+        "n1": "Marché",
+        "n2": "Noël",
+        "det": 0
+    },
+    {
+        "n1": "Cave",
+        "n2": "vins // matière",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "comédie",
+        "det": 0
+    },
+    {
+        "n1": "Documentaire",
+        "n2": "histoire",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "animation",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "romance",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "aventure",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "guerre",
+        "det": 0
+    },
+    {
+        "n1": "Recueil",
+        "n2": "poèmes",
+        "det": 0
+    },
+    {
+        "n1": "Conte",
+        "n2": "sirènes",
+        "det": 0
+    },
+    {
+        "n1": "Essai",
+        "n2": "histoire",
+        "det": 0
+    },
+    {
+        "n1": "Livre",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "Biographie",
+        "n2": "politique",
+        "det": 0
+    },
+    {
+        "n1": "Manuel",
+        "n2": "école",
+        "det": 0
+    },
+    {
+        "n1": "Article",
+        "n2": "scientifique",
+        "det": 0
+    },
+    {
+        "n1": "Chanson",
+        "n2": "rock",
+        "det": 0
+    },
+    {
+        "n1": "Opéra",
+        "n2": "Verdi",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "blues",
+        "det": 0
+    },
+    {
+        "n1": "Album",
+        "n2": "jazz",
+        "det": 0
+    },
+    {
+        "n1": "Spectacle",
+        "n2": "danse",
+        "det": 0
+    },
+    {
+        "n1": "Concert",
+        "n2": "musique électronique",
+        "det": 0
+    },
+    {
+        "n1": "Récital",
+        "n2": "violon",
+        "det": 0
+    },
+    {
+        "n1": "Cabaret",
+        "n2": "chanson",
+        "det": 0
+    },
+    {
+        "n1": "Musée",
+        "n2": "art moderne",
+        "det": 0
+    },
+    {
+        "n1": "Galerie",
+        "n2": "exposition",
+        "det": 0
+    },
+    {
+        "n1": "Revue",
+        "n2": "culture",
+        "det": 0
+    },
+    {
+        "n1": "Radio",
+        "n2": "jazz",
+        "det": 0
+    },
+    {
+        "n1": "Conférence",
+        "n2": "science",
+        "det": 0
+    },
+    {
+        "n1": "Plateforme",
+        "n2": "podcasts",
+        "det": 0
+    },
+    {
+        "n1": "Concours",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "rôle",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "plateau",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "simulation",
+        "det": 0
+    },
+    {
+        "n1": "Tournoi",
+        "n2": "football",
+        "det": 0
+    },
+    {
+        "n1": "Compétition",
+        "n2": "escalade",
+        "det": 0
+    },
+    {
+        "n1": "Atelier",
+        "n2": "arts plastiques",
+        "det": 0
+    },
+    {
+        "n1": "Club",
+        "n2": "écriture",
+        "det": 0
+    },
+    {
+        "n1": "Cours",
+        "n2": "dessin",
+        "det": 0
+    },
+    {
+        "n1": "Musée",
+        "n2": "patrimoine",
+        "det": 1
+    },
+    {
+        "n1": "Festival",
+        "n2": "théâtre",
+        "det": 0
+    },
+    {
+        "n1": "Salon",
+        "n2": "artisanat",
+        "det": 0
+    },
+    {
+        "n1": "Exposition",
+        "n2": "art contemporain",
+        "det": 0
+    },
+    {
+        "n1": "Convention",
+        "n2": "sciencefiction",
+        "det": 0
+    },
+    {
+        "n1": "Article",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "Publicité",
+        "n2": "mode",
+        "det": 0
+    },
+    {
+        "n1": "Discussion",
+        "n2": "science",
+        "det": 0
+    },
+    {
+        "n1": "Restaurant",
+        "n2": "burgers",
+        "det": 0
+    },
+    {
+        "n1": "Boutique",
+        "n2": "bio",
+        "det": 0
+    },
+    {
+        "n1": "Salon",
+        "n2": "thé japonais",
+        "det": 0
+    },
+    {
+        "n1": "Stand",
+        "n2": "crêpes bretonnes",
+        "det": 0
+    },
+    {
+        "n1": "Foodtruck",
+        "n2": "crêpes",
+        "det": 0
+    },
+    {
+        "n1": "Épicerie",
+        "n2": "produits du terroir",
+        "det": 0
+    },
+    {
+        "n1": "Marché",
+        "n2": "producteurs locaux",
+        "det": 0
+    },
+    {
+        "n1": "Cave",
+        "n2": "bières",
+        "det": 0
+    },
+    {
+        "n1": "Restaurant",
+        "n2": "cuisine italienne",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "thriller",
+        "det": 0
+    },
+    {
+        "n1": "Courtmétrage",
+        "n2": "animation",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "aventure américain",
+        "det": 0
+    },
+    {
+        "n1": "Film",
+        "n2": "sciencefiction japonais",
+        "det": 0
+    },
+    {
+        "n1": "Roman",
+        "n2": "aventure",
+        "det": 0
+    },
+    {
+        "n1": "Recueil",
+        "n2": "nouvelles policières",
+        "det": 0
+    },
+    {
+        "n1": "Conte",
+        "n2": "Noël",
+        "det": 0
+    },
+    {
+        "n1": "Livre",
+        "n2": "histoire",
+        "det": 0
+    },
+    {
+        "n1": "Biographie",
+        "n2": "écrivain",
+        "det": 0
+    },
+    {
+        "n1": "Manuel",
+        "n2": "mathématiques",
+        "det": 0
+    },
+    {
+        "n1": "Article",
+        "n2": "actualité",
+        "det": 0
+    },
+    {
+        "n1": "Concert",
+        "n2": "musique classique",
+        "det": 0
+    },
+    {
+        "n1": "Festival",
+        "n2": "musique électronique",
+        "det": 0
+    },
+    {
+        "n1": "Album",
+        "n2": "hiphop",
+        "det": 0
+    },
+    {
+        "n1": "Spectacle",
+        "n2": "théâtre",
+        "det": 0
+    },
+    {
+        "n1": "Concert",
+        "n2": "jazz",
+        "det": 0
+    },
+    {
+        "n1": "Récital",
+        "n2": "guitare",
+        "det": 0
+    },
+    {
+        "n1": "Cabaret",
+        "n2": "danse",
+        "det": 0
+    },
+    {
+        "n1": "Exposition",
+        "n2": "sculpture",
+        "det": 0
+    },
+    {
+        "n1": "Musée",
+        "n2": "archéologie",
+        "det": 0
+    },
+    {
+        "n1": "Galerie",
+        "n2": "peinture",
+        "det": 0
+    },
+    {
+        "n1": "Chaîne",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "Radio",
+        "n2": "rock",
+        "det": 0
+    },
+    {
+        "n1": "Concours",
+        "n2": "écriture",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "stratégie médiéval",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "plateau familial",
+        "det": 0
+    },
+    {
+        "n1": "Jeu",
+        "n2": "rôle fantastique",
+        "det": 0
+    },
+    {
+        "n1": "Tournoi",
+        "n2": "tennis",
+        "det": 0
+    },
+    {
+        "n1": "Compétition",
+        "n2": "natation synchronisée",
+        "det": 0
+    },
+    {
+        "n1": "Atelier",
+        "n2": "céramique",
+        "det": 0
+    },
+    {
+        "n1": "Club",
+        "n2": "théâtre",
+        "det": 0
+    },
+    {
+        "n1": "Cours",
+        "n2": "chant",
+        "det": 0
+    },
+    {
+        "n1": "Salon",
+        "n2": "automobile",
+        "det": 1
+    },
+    {
+        "n1": "Exposition",
+        "n2": "arts décoratifs",
+        "det": 0
+    },
+    {
+        "n1": "Centre",
+        "n2": "innovation",
+        "det": 0
+    },
+    {
+        "n1": "Convention",
+        "n2": "mangas",
+        "det": 0
+    },
+    {
+        "n1": "Publicité",
+        "n2": "technologie",
+        "det": 0
+    },
+    {
+        "n1": "Blog",
+        "n2": "cuisine",
+        "det": 0
+    },
+    {
+        "n1": "film",
+        "n2": "horreur",
+        "det": 0
+    },
+    {
+        "n1": "restaurant",
+        "n2": "sushis",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "histoire",
+        "det": 0
+    },
+    {
+        "n1": "discours",
+        "n2": "politique",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "mathématiques",
+        "det": 0
+    },
+    {
+        "n1": "conférence",
+        "n2": "philosophie",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "journalisme",
+        "det": 0
+    },
+    {
+        "n1": "émission",
+        "n2": "cuisine",
+        "det": 0
+    },
+    {
+        "n1": "peinture",
+        "n2": "guerre",
+        "det": 0
+    },
+    {
+        "n1": "chanson",
+        "n2": "amour",
+        "det": 0
+    },
+    {
+        "n1": "exposition",
+        "n2": "peinture",
+        "det": 0
+    },
+    {
+        "n1": "débat",
+        "n2": "société",
+        "det": 0
+    },
+    {
+        "n1": "magazine",
+        "n2": "mode",
+        "det": 0
+    },
+    {
+        "n1": "pièce",
+        "n2": "théâtre",
+        "det": 0
+    },
+    {
+        "n1": "album",
+        "n2": "photos",
+        "det": 0
+    },
+    {
+        "n1": "blog",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "forum",
+        "n2": "discussion",
+        "det": 0
+    },
+    {
+        "n1": "congrès",
+        "n2": "médecine",
+        "det": 0
+    },
+    {
+        "n1": "colloque",
+        "n2": "linguistique",
+        "det": 0
+    },
+    {
+        "n1": "séminaire",
+        "n2": "management",
+        "det": 0
+    },
+    {
+        "n1": "atelier",
+        "n2": "écriture",
+        "det": 0
+    },
+    {
+        "n1": "spectacle",
+        "n2": "magie",
+        "det": 0
+    },
+    {
+        "n1": "concert",
+        "n2": "jazz",
+        "det": 0
+    },
+    {
+        "n1": "opéra",
+        "n2": "Mozart",
+        "det": 0
+    },
+    {
+        "n1": "musée",
+        "n2": "science",
+        "det": 1
+    },
+    {
+        "n1": "parc",
+        "n2": "attractions",
+        "det": 0
+    },
+    {
+        "n1": "jeu",
+        "n2": "stratégie",
+        "det": 0
+    },
+    {
+        "n1": "puzzle",
+        "n2": "paysage",
+        "det": 0
+    },
+    {
+        "n1": "podcast",
+        "n2": "politique",
+        "det": 0
+    },
+    {
+        "n1": "chaîne",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "festival",
+        "n2": "cinéma",
+        "det": 0
+    },
+    {
+        "n1": "concours",
+        "n2": "poésie",
+        "det": 0
+    },
+    {
+        "n1": "prix",
+        "n2": "littérature",
+        "det": 0
+    },
+    {
+        "n1": "thèse",
+        "n2": "doctorat",
+        "det": 0
+    },
+    {
+        "n1": "mémoire",
+        "n2": "recherche",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "grammaire",
+        "det": 0
+    },
+    {
+        "n1": "carte",
+        "n2": "monde",
+        "det": 1
+    },
+    {
+        "n1": "plan",
+        "n2": "ville",
+        "det": 0
+    },
+    {
+        "n1": "dessin",
+        "n2": "architecture",
+        "det": 0
+    },
+    {
+        "n1": "peinture",
+        "n2": "nature morte",
+        "det": 0
+    },
+    {
+        "n1": "sculpture",
+        "n2": "personnage",
+        "det": 0
+    },
+    {
+        "n1": "gravure",
+        "n2": "paysage",
+        "det": 0
+    },
+    {
+        "n1": "photo",
+        "n2": "portrait",
+        "det": 0
+    },
+    {
+        "n1": "affiche",
+        "n2": "film",
+        "det": 0
+    },
+    {
+        "n1": "bande dessiner",
+        "n2": "aventure",
+        "det": 0
+    },
+    {
+        "n1": "manga",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "roman",
+        "n2": "sciencefiction",
+        "det": 0
+    },
+    {
+        "n1": "magazine",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "journal",
+        "n2": "finance",
+        "det": 0
+    },
+    {
+        "n1": "revue",
+        "n2": "presse",
+        "det": 0
+    },
+    {
+        "n1": "bulletin",
+        "n2": "météo",
+        "det": 1
+    },
+    {
+        "n1": "catalogue",
+        "n2": "vente",
+        "det": 0
+    },
+    {
+        "n1": "prospectus",
+        "n2": "information",
+        "det": 0
+    },
+    {
+        "n1": "traité",
+        "n2": "paix",
+        "det": 0
+    },
+    {
+        "n1": "protocole",
+        "n2": "accord",
+        "det": 0
+    },
+    {
+        "n1": "règlement",
+        "n2": "intérieur",
+        "det": 0
+    },
+    {
+        "n1": "code",
+        "n2": "route",
+        "det": 1
+    },
+    {
+        "n1": "loi",
+        "n2": "finances",
+        "det": 0
+    },
+    {
+        "n1": "décret",
+        "n2": "application",
+        "det": 0
+    },
+    {
+        "n1": "note",
+        "n2": "service",
+        "det": 0
+    },
+    {
+        "n1": "emploi",
+        "n2": "temps",
+        "det": 1
+    },
+    {
+        "n1": "planning",
+        "n2": "travail",
+        "det": 0
+    },
+    {
+        "n1": "grille",
+        "n2": "programmes",
+        "det": 2
+    },
+    {
+        "n1": "menu",
+        "n2": "dégustation",
+        "det": 0
+    },
+    {
+        "n1": "carte",
+        "n2": "vins",
+        "det": 2
+    },
+    {
+        "n1": "liste",
+        "n2": "ingrédients",
+        "det": 2
+    },
+    {
+        "n1": "notice",
+        "n2": "utilisation",
+        "det": 0
+    },
+    {
+        "n1": "mode",
+        "n2": "emploi",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "instructions",
+        "det": 0
+    },
+    {
+        "n1": "séminaire",
+        "n2": "formation",
+        "det": 0
+    },
+    {
+        "n1": "atelier",
+        "n2": "perfectionnement",
+        "det": 0
+    },
+    {
+        "n1": "stage",
+        "n2": "immersion",
+        "det": 0
+    },
+    {
+        "n1": "session",
+        "n2": "rattrapage",
+        "det": 0
+    },
+    {
+        "n1": "cycle",
+        "n2": "conférences",
+        "det": 0
+    },
+    {
+        "n1": "série",
+        "n2": "cours",
+        "det": 0
+    },
+    {
+        "n1": "programme",
+        "n2": "recherche",
+        "det": 0
+    },
+    {
+        "n1": "projet",
+        "n2": "développement",
+        "det": 0
+    },
+    {
+        "n1": "plan",
+        "n2": "carrière",
+        "det": 0
+    },
+    {
+        "n1": "stratégie",
+        "n2": "communication",
+        "det": 0
+    },
+    {
+        "n1": "discussion",
+        "n2": "politique",
+        "det": 0
+    },
+    {
+        "n1": "débat",
+        "n2": "idées",
+        "det": 0
+    },
+    {
+        "n1": "émission",
+        "n2": "football",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "biologie",
+        "det": 0
+    },
+    {
+        "n1": "exposé",
+        "n2": "géographie",
+        "det": 0
+    },
+    {
+        "n1": "spectacle",
+        "n2": "danse",
+        "det": 0
+    },
+    {
+        "n1": "poème",
+        "n2": "amour",
+        "det": 0
+    },
+    {
+        "n1": "discours",
+        "n2": "motivation",
+        "det": 0
+    },
+    {
+        "n1": "documentaire",
+        "n2": "nature",
+        "det": 0
+    },
+    {
+        "n1": "série",
+        "n2": "sciencefiction",
+        "det": 0
+    },
+    {
+        "n1": "chanson",
+        "n2": "amitié",
+        "det": 0
+    },
+    {
+        "n1": "reportage",
+        "n2": "guerre",
+        "det": 0
+    },
+    {
+        "n1": "podcast",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "étude",
+        "n2": "marché",
+        "det": 0
+    },
+    {
+        "n1": "essai",
+        "n2": "philosophie",
+        "det": 0
+    },
+    {
+        "n1": "roman",
+        "n2": "fantasy",
+        "det": 0
+    },
+    {
+        "n1": "tutoriel",
+        "n2": "couture",
+        "det": 0
+    },
+    {
+        "n1": "leçon",
+        "n2": "piano",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "économie",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "projet",
+        "n2": "recherche",
+        "det": 0
+    },
+    {
+        "n1": "discussion",
+        "n2": "film",
+        "det": 0
+    },
+    {
+        "n1": "chronique",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "dossier",
+        "n2": "presse",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "cuisine",
+        "det": 0
+    },
+    {
+        "n1": "vidéo",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "programme",
+        "n2": "mathématiques",
+        "det": 0
+    },
+    {
+        "n1": "chapitre",
+        "n2": "roman",
+        "det": 0
+    },
+    {
+        "n1": "exposé",
+        "n2": "chimie",
+        "det": 0
+    },
+    {
+        "n1": "séminaire",
+        "n2": "histoire",
+        "det": 0
+    },
+    {
+        "n1": "note",
+        "n2": "cours",
+        "det": 0
+    },
+    {
+        "n1": "recueil",
+        "n2": "poèmes",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "survie",
+        "det": 0
+    },
+    {
+        "n1": "résumé",
+        "n2": "lecture",
+        "det": 0
+    },
+    {
+        "n1": "reportage",
+        "n2": "télévision",
+        "det": 0
+    },
+    {
+        "n1": "test",
+        "n2": "produit",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "cuisine",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "philosophie",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "botanique",
+        "det": 0
+    },
+    {
+        "n1": "plan",
+        "n2": "thèse",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "linguistique",
+        "det": 0
+    },
+    {
+        "n1": "tutoriel",
+        "n2": "informatique",
+        "det": 0
+    },
+    {
+        "n1": "enchaînement",
+        "n2": "gymnastique",
+        "det": 0
+    },
+    {
+        "n1": "jeu",
+        "n2": "société",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "soir",
+        "det": 1
+    },
+    {
+        "n1": "club",
+        "n2": "lecture",
+        "det": 0
+    },
+    {
+        "n1": "salle",
+        "n2": "attente",
+        "det": 0
+    },
+    {
+        "n1": "groupe",
+        "n2": "soutien",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "développement personnel",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "simulation",
+        "n2": "vol",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "méditation",
+        "det": 0
+    },
+    {
+        "n1": "cahier",
+        "n2": "doléances",
+        "det": 0
+    },
+    {
+        "n1": "journal",
+        "n2": "bord",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "or",
+        "det": 0
+    },
+    {
+        "n1": "bilan",
+        "n2": "compétences",
+        "det": 0
+    },
+    {
+        "n1": "audit",
+        "n2": "sécurité",
+        "det": 0
+    },
+    {
+        "n1": "enquête",
+        "n2": "satisfaction",
+        "det": 0
+    },
+    {
+        "n1": "sondage",
+        "n2": "opinion",
+        "det": 0
+    },
+    {
+        "n1": "plan",
+        "n2": "communication",
+        "det": 0
+    },
+    {
+        "n1": "procédure",
+        "n2": "urgence",
+        "det": 0
+    },
+    {
+        "n1": "scénario",
+        "n2": "usage",
+        "det": 0
+    },
+    {
+        "n1": "parcours",
+        "n2": "utilisateur",
+        "det": 0
+    },
+    {
+        "n1": "interface",
+        "n2": "programmation",
+        "det": 0
+    },
+    {
+        "n1": "framework",
+        "n2": "développement",
+        "det": 0
+    },
+    {
+        "n1": "kit",
+        "n2": "démarrage",
+        "det": 0
+    },
+    {
+        "n1": "tutoriel",
+        "n2": "montage",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "installation",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "dépannage",
+        "det": 0
+    },
+    {
+        "n1": "étude",
+        "n2": "impact environnemental",
+        "det": 0
+    },
+    {
+        "n1": "rapport",
+        "n2": "développement durable",
+        "det": 0
+    },
+    {
+        "n1": "plan",
+        "n2": "mobilité",
+        "det": 0
+    },
+    {
+        "n1": "cahier",
+        "n2": "charges",
+        "det": 2
+    },
+    {
+        "n1": "appel",
+        "n2": "offres",
+        "det": 0
+    },
+    {
+        "n1": "contrat",
+        "n2": "service",
+        "det": 0
+    },
+    {
+        "n1": "convention",
+        "n2": "stage",
+        "det": 0
+    },
+    {
+        "n1": "règlement",
+        "n2": "copropriété",
+        "det": 0
+    },
+    {
+        "n1": "plan",
+        "n2": "épargne entreprise",
+        "det": 0
+    },
+    {
+        "n1": "mémoire",
+        "n2": "master",
+        "det": 0
+    },
+    {
+        "n1": "rapport",
+        "n2": "stage",
+        "det": 0
+    },
+    {
+        "n1": "live streaming",
+        "n2": "jeu vidéo",
+        "det": 0
+    },
+    {
+        "n1": "vlog",
+        "n2": "quotidien",
+        "det": 0
+    },
+    {
+        "n1": "replay",
+        "n2": "événement",
+        "det": 0
+    },
+    {
+        "n1": "algorithme",
+        "n2": "recommandation",
+        "det": 0
+    },
+    {
+        "n1": "template",
+        "n2": "présentation",
+        "det": 0
+    },
+    {
+        "n1": "expérience",
+        "n2": "réalité virtuelle",
+        "det": 0
+    },
+    {
+        "n1": "générateur",
+        "n2": "contenu",
+        "det": 0
+    },
+    {
+        "n1": "base",
+        "n2": "connaissances",
+        "det": 0
+    },
+    {
+        "n1": "groupe",
+        "n2": "discussion privé",
+        "det": 0
+    },
+    {
+        "n1": "critique",
+        "n2": "art",
+        "det": 0
+    },
+    {
+        "n1": "revue",
+        "n2": "produit technologique",
+        "det": 0
+    },
+    {
+        "n1": "comparateur",
+        "n2": "services",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "achat",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "vulgarisation scientifique",
+        "det": 0
+    },
+    {
+        "n1": "frise chronologique",
+        "n2": "Moyen Age",
+        "det": 1
+    },
+    {
+        "n1": "arbre",
+        "n2": "décision",
+        "det": 0
+    },
+    {
+        "n1": "script",
+        "n2": "automatisation",
+        "det": 0
+    },
+    {
+        "n1": "scénario",
+        "n2": "test logiciel",
+        "det": 0
+    },
+    {
+        "n1": "cas",
+        "n2": "test",
+        "det": 0
+    },
+    {
+        "n1": "plan",
+        "n2": "formation",
+        "det": 0
+    },
+    {
+        "n1": "module",
+        "n2": "elearning",
+        "det": 0
+    },
+    {
+        "n1": "quiz",
+        "n2": "culture générale",
+        "det": 0
+    },
+    {
+        "n1": "code",
+        "n2": "déontologie",
+        "det": 0
+    },
+    {
+        "n1": "pacte",
+        "n2": "équipe",
+        "det": 0
+    },
+    {
+        "n1": "vision",
+        "n2": "entreprise",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "recettes familiales",
+        "det": 0
+    },
+    {
+        "n1": "carnet",
+        "n2": "croquis",
+        "det": 0
+    },
+    {
+        "n1": "clés",
+        "n2": "appartement",
+        "det": 1
+    },
+    {
+        "n1": "Trousse",
+        "n2": "secours",
+        "det": 0
+    },
+    {
+        "n1": "Article",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "émission",
+        "n2": "télévision",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "musée",
+        "n2": "art moderne",
+        "det": 0
+    },
+    {
+        "n1": "festival",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "conférence",
+        "n2": "presse",
+        "det": 0
+    },
+    {
+        "n1": "histoire",
+        "n2": "amour",
+        "det": 0
+    },
+    {
+        "n1": "exposition",
+        "n2": "photographie",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "français",
+        "det": 0
+    },
+    {
+        "n1": "blog",
+        "n2": "technologie",
+        "det": 0
+    },
+    {
+        "n1": "site",
+        "n2": "commerce",
+        "det": 0
+    },
+    {
+        "n1": "film",
+        "n2": "comédie",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "physique",
+        "det": 0
+    },
+    {
+        "n1": "magazine",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "émission",
+        "n2": "radio",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "politique",
+        "det": 0
+    },
+    {
+        "n1": "restaurant",
+        "n2": "cuisine italienne",
+        "det": 0
+    },
+    {
+        "n1": "musée",
+        "n2": "histoire naturelle",
+        "det": 0
+    },
+    {
+        "n1": "conférence",
+        "n2": "sciences",
+        "det": 0
+    },
+    {
+        "n1": "débat",
+        "n2": "politique",
+        "det": 0
+    },
+    {
+        "n1": "histoire",
+        "n2": "guerre",
+        "det": 0
+    },
+    {
+        "n1": "roman",
+        "n2": "aventure",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "mathématiques",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "gastronomie",
+        "det": 0
+    },
+    {
+        "n1": "blog",
+        "n2": "mode",
+        "det": 0
+    },
+    {
+        "n1": "forum",
+        "n2": "technologie",
+        "det": 0
+    },
+    {
+        "n1": "site",
+        "n2": "éducation",
+        "det": 0
+    },
+    {
+        "n1": "film",
+        "n2": "drame",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "poésie",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "chimie",
+        "det": 0
+    },
+    {
+        "n1": "émission",
+        "n2": "culture",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "santé",
+        "det": 0
+    },
+    {
+        "n1": "restaurant",
+        "n2": "gastronomie française",
+        "det": 0
+    },
+    {
+        "n1": "musée",
+        "n2": "sciences",
+        "det": 0
+    },
+    {
+        "n1": "festival",
+        "n2": "théâtre",
+        "det": 0
+    },
+    {
+        "n1": "conférence",
+        "n2": "environnement",
+        "det": 1
+    },
+    {
+        "n1": "débat",
+        "n2": "économie",
+        "det": 0
+    },
+    {
+        "n1": "histoire",
+        "n2": "littérature",
+        "det": 1
+    },
+    {
+        "n1": "roman",
+        "n2": "fantaisie",
+        "det": 0
+    },
+    {
+        "n1": "documentaire",
+        "n2": "immersion",
+        "det": 0
+    },
+    {
+        "n1": "exposition",
+        "n2": "architecture",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "anglais",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "tourisme",
+        "det": 0
+    },
+    {
+        "n1": "blog",
+        "n2": "photographie",
+        "det": 0
+    },
+    {
+        "n1": "forum",
+        "n2": "politique",
+        "det": 0
+    },
+    {
+        "n1": "site",
+        "n2": "actualités",
+        "det": 0
+    },
+    {
+        "n1": "film",
+        "n2": "aventure",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "science",
+        "det": 0
+    },
+    {
+        "n1": "magazine",
+        "n2": "art",
+        "det": 0
+    },
+    {
+        "n1": "émission",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "culture",
+        "det": 0
+    },
+    {
+        "n1": "restaurant",
+        "n2": "cuisine chinoise",
+        "det": 0
+    },
+    {
+        "n1": "musée",
+        "n2": "cinéma",
+        "det": 1
+    },
+    {
+        "n1": "festival",
+        "n2": "pop",
+        "det": 0
+    },
+    {
+        "n1": "fête",
+        "n2": "chocolat",
+        "det": 1
+    },
+    {
+        "n1": "histoire",
+        "n2": "musique",
+        "det": 1
+    },
+    {
+        "n1": "roman",
+        "n2": "philosophie",
+        "det": 0
+    },
+    {
+        "n1": "documentaire",
+        "n2": "art contemporain",
+        "det": 0
+    },
+    {
+        "n1": "exposition",
+        "n2": "sculpture",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "géographie",
+        "det": 0
+    },
+    {
+        "n1": "blog",
+        "n2": "chats",
+        "det": 0
+    },
+    {
+        "n1": "forum",
+        "n2": "éducation",
+        "det": 0
+    },
+    {
+        "n1": "site",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "film",
+        "n2": "Noël",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "apprentissage",
+        "det": 0
+    },
+    {
+        "n1": "cours",
+        "n2": "littérature",
+        "det": 0
+    },
+    {
+        "n1": "magazine",
+        "n2": "supermarché",
+        "det": 0
+    },
+    {
+        "n1": "émission",
+        "n2": "information",
+        "det": 0
+    },
+    {
+        "n1": "article",
+        "n2": "recherche",
+        "det": 0
+    },
+    {
+        "n1": "restaurant",
+        "n2": "tapas",
+        "det": 0
+    },
+    {
+        "n1": "musée",
+        "n2": "ethnographie",
+        "det": 0
+    },
+    {
+        "n1": "festival",
+        "n2": "danse",
+        "det": 0
+    },
+    {
+        "n1": "fête",
+        "n2": "connaissance",
+        "det": 1
+    },
+    {
+        "n1": "débat",
+        "n2": "sociologie",
+        "det": 0
+    },
+    {
+        "n1": "histoire",
+        "n2": "planète",
+        "det": 1
+    },
+    {
+        "n1": "roman",
+        "n2": "mystère",
+        "det": 0
+    },
+    {
+        "n1": "documentaire",
+        "n2": "science fiction",
+        "det": 0
+    },
+    {
+        "n1": "exposition",
+        "n2": "mode",
+        "det": 0
+    },
+    {
+        "n1": "manuel",
+        "n2": "physique",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "utilisation",
+        "det": 0
+    },
+    {
+        "n1": "blog",
+        "n2": "bricolage",
+        "det": 0
+    },
+    {
+        "n1": "forum",
+        "n2": "voyage",
+        "det": 0
+    },
+    {
+        "n1": "site",
+        "n2": "vente en ligne",
+        "det": 0
+    }
+]

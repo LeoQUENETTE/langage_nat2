@@ -1,0 +1,140 @@
+| Code | Nom de la relation             | Définition                                                                                | Relation JDM          |
+| ---- | ------------------------------ | ----------------------------------------------------------------------------------------- | --------------------- |
+| CO   | **Conséquence**                | A est directement responsable de B (A cause B).                                           | `r_has_causatif`      |
+| Ca   | **Caractérisation**            | A est une propriété qui décrit ou qualifie B. A est un adjectif ou attribut de B.         | `r_has_property-1`    |
+| M    | **Matière / Composition**      | B est la matière ou la substance qui compose A.                                           | `r_objet>matiere`     |
+| O    | **Origine**                    | B décrit l’origine de A (géographique ou autre).                                          | `r_lieu>origine`      |
+| T    | **Topic / Thème**              | B est le thème principal ou le sujet de A.                                                | `r_topic`             |
+| D    | **Dépiction / Représentation** | A représente ou décrit B, souvent sous forme d’image, description ou métaphore.           | `r_depic`             |
+| H    | **Holonymie / Partie-Tout**    | A est un composant ou une partie de B.                                                    | `r_holo`              |
+| L    | **Lieu / Localisation**        | B donne une origine géographique ou une localisation claire de A.                         | `r_lieu`              |
+| A    | **Agent**                      | A est réalisé par B, et B est un être vivant qui agit (l’auteur de l’action).             | `r_processus_agent`   |
+| Pa   | **Patient**                    | A est réalisé sur B, et B n’est pas un être vivant (objet de l’action).                   | `r_processus_patient` |
+| I    | **Instrument**                 | A est nécessaire à la réalisation de B ; B peut être une action ou un effet impliquant A. | `r_processus>instr-1` |
+| Po   | **Possession**                 | A est un objet possédé par B, et B est un être vivant.                                    | `r_own-1`             |
+| Q    | **Quantification**             | A représente une quantité ou une unité de B.                                              | `r_quantificateur`    |
+| LS   | **Lien social**                | A et B sont des êtres vivants liés par une relation sociale.                              | `r_social_tie`        |
+| AC   | **Auteur / Créateur**          | A est une création (objet ou œuvre) produite par B, un être vivant.                       | `r_product_of`        |
+
+
+RÈGLES SÉMANTIQUES D'ANNOTATION
+
+CO - Conséquence
+Critère principal : A est un effet, résultat ou état directement provoqué par B
+Tests : "A est causé par B", "B entraîne A", "B provoque A"
+Exemple type : "la fatigue du travail" (travail → fatigue)
+
+Ca - Caractérisation
+Critère principal : A est qualifié, décrit ou spécifié par B
+Tests : "A qui est B", "A de type B", "A caractérisé par B"
+Indices pour B : adjectif, qualité, attribut, catégorie descriptive
+Exemple type : "le genre d'enfant" (genre caractérisé par enfant)
+
+M - Matière/Composition
+Critère principal : B est la substance ou matériau qui constitue A
+Tests : "A en B", "A fait de B", "A composé de B"
+Indices pour B : matériaux (bois, métal, tissu), substances, éléments constitutifs
+Exemple type : "une statue de bronze" (statue en bronze)
+
+O - Origine
+Critère principal : B indique la provenance géographique ou source d'A
+Tests : "A venant de B", "A originaire de B", "A issu de B"
+Indices pour B : noms de lieux, régions, pays, sources abstraites
+Exemple type : "le fromage de Savoie" (fromage venant de Savoie)
+
+T - Topic/Thème
+Critère principal : B est le thème de A
+Tests : "A parle de B", "A concerne B", "A traite de B"
+Indices pour B : concepts abstraits, domaines de connaissance, sujets
+Exemple type : "un livre de philosophie" (livre sur la philosophie)
+
+D - Dépiction/Représentation
+Critère principal : A représente visuellement ou décrit B
+Tests : "A montre B", "A représente B", "A est une image de B"
+Indices pour A : œuvres visuelles, descriptions, représentations
+Exemple type : "la photo d'un paysage" (photo montrant un paysage)
+
+H - Holonymie/Partie-Tout
+Critère principal : A est une partie ou composant de B
+Tests : "A fait partie de B", "B contient A", "A est un élément de B"
+Indices : relation physique partie/ensemble, composant/système
+Exemple type : "le toit de la maison" (toit partie de la maison)
+
+L - Lieu/Localisation
+Critère principal : B est l'endroit où se trouve A
+Tests : "A se trouve à B", "A est situé dans B", "A localisé à B"
+Indices pour B : lieux concrets, localisations géographiques
+Exemple type : "les rues de Paris" (rues situées à Paris)
+
+A - Agent
+Critère principal : B est un être vivant qui réalise intentionnellement A
+Tests : "B fait A", "B réalise A", "A est effectué par B"
+Indices pour B : personnes, animaux, êtres animés agissants
+Exemple type : "la décision du président" (président prend la décision)
+
+Pa - Patient
+Critère principal : B est un objet inanimé qui subit l'action A
+Tests : "A s'applique à B", "B subit A", "A affecte B"
+Indices pour B : objets, choses, entités non-vivantes subissant une action
+Exemple type : "la destruction du pont" (pont subit la destruction)
+
+I - Instrument
+Critère principal : B est l'outil utilisé pour réaliser A
+Tests : "A avec B", "A au moyen de B", "A utilisant B"
+Indices pour B : outils, instruments, moyens techniques
+Exemple type : "la coupe avec des ciseaux" (ciseaux instrument de coupe)
+
+Po - Possession
+Critère principal : B (être vivant) possède A
+Tests : "B a A", "A appartient à B", "A est à B"
+Indices pour B : personnes, propriétaires, possesseurs animés
+Exemple type : "la voiture de Paul" (voiture appartenant à Paul)
+
+Q - Quantification
+Critère principal : A exprime une quantité ou unité de mesure de B
+Tests : "A de B" où A est une mesure, "quantité de B"
+Indices pour A : nombres, unités de mesure, quantificateurs
+Exemple type : "un kilo de pommes" (kilo mesure de pommes)
+
+LS - Lien social
+Critère principal : A et B sont des êtres vivants liés par une relation sociale
+Tests : "A est le B de...", relation familiale/professionnelle
+Indices : rôles sociaux, relations familiales, positions hiérarchiques
+Exemple type : "la mère de l'enfant" (relation familiale)
+
+AC - Auteur/Créateur
+Critère principal : B est le créateur, auteur ou producteur de A
+Tests : "A est créé par B", "B est l'auteur de A", "œuvre de B"
+Indices pour A : œuvres, créations, productions artistiques/intellectuelles
+Indices pour B : artistes, écrivains, créateurs, inventeurs
+Exemple type : "la musique de Mozart" (musique composée par Mozart)
+
+ORDRE DE PRIORITÉ DES RÈGLES
+
+    Q (si A est une unité de mesure) → priorité absolue
+
+    LS (si A et B sont des personnes avec lien social)
+
+    O/L (si B est un nom de lieu)
+
+    M (si B est un matériau)
+
+    I (si B est un outil/instrument)
+
+    H (si A est clairement une partie de B)
+
+    A (si B est animateur et A est une action)
+
+    Pa (si B est inanimé et subit l'action A)
+
+    AC (si B est créateur et A est œuvre)
+
+    Po (si B possède clairement A)
+
+    Ca (si B qualifie A)
+
+    CO (si A est conséquence de B)
+
+    D (si A représente B)
+
+    T (par défaut si relation thématique)

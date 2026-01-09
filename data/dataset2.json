@@ -1,0 +1,65 @@
+[
+    {
+        "phrases": "la voiture du voisin",
+        "n1": "voiture",
+        "n2": "voisin",
+        "det": 1,
+        "types": [
+            "Possession : r_own-1"
+        ]
+    },
+    {
+        "phrases": "le chien du fermier",
+        "n1": "chien",
+        "n2": "fermier",
+        "det": 1,
+        "types": [
+            "Possession : r_own-1"
+        ]
+    },
+    {
+        "phrases": "la maison du docteur",
+        "n1": "maison",
+        "n2": "docteur",
+        "det": 1,
+        "types": [
+            "Possession : r_own-1"
+        ]
+    },
+    {
+        "phrases": "le sac de l’étudiant",
+        "n1": "sac",
+        "n2": "étudiant",
+        "det": 1,
+        "types": [
+            "Possession : r_own-1"
+        ]
+    },
+    {
+        "phrases": "la robe de la mariée",
+        "n1": "robe",
+        "n2": "mariée",
+        "det": 1,
+        "types": [
+            "Possession : r_own-1"
+        ]
+    },
+    {
+        "phrases": "le stylo du directeur",
+        "n1": "stylo",
+        "n2": "directeur",
+        "det": 1,
+        "types": [
+            "Possession : r_own-1"
+        ]
+    },
+    {
+        "phrases": "le jardin du château",
+        "n1": "jardin",
+        "n2": "château",
+        "det": 1,
+        "types": [
+            "Possession : r_own-1"
+        ]
+    }
+]

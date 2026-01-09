@@ -1,0 +1,3052 @@
+[
+    {
+        "n1": "voiture",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "chien",
+        "n2": "fermier",
+        "det": 1
+    },
+    {
+        "n1": "maison",
+        "n2": "docteur",
+        "det": 1
+    },
+    {
+        "n1": "sac",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "robe",
+        "n2": "mariée",
+        "det": 1
+    },
+    {
+        "n1": "stylo",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "jardin",
+        "n2": "château",
+        "det": 1
+    },
+    {
+        "n1": "photo",
+        "n2": "mariage",
+        "det": 1
+    },
+    {
+        "n1": "chapeau",
+        "n2": "garçon",
+        "det": 1
+    },
+    {
+        "n1": "montre",
+        "n2": "père",
+        "det": 0
+    },
+    {
+        "n1": "jouet",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "vélo",
+        "n2": "frère",
+        "det": 0
+    },
+    {
+        "n1": "bague",
+        "n2": "ma mère",
+        "det": 0
+    },
+    {
+        "n1": "cahier",
+        "n2": "élève",
+        "det": 1
+    },
+    {
+        "n1": "table",
+        "n2": "salon",
+        "det": 1
+    },
+    {
+        "n1": "manteau",
+        "n2": "hiver",
+        "det": 0
+    },
+    {
+        "n1": "chanson",
+        "n2": "chanteur",
+        "det": 1
+    },
+    {
+        "n1": "film",
+        "n2": "réalisateur",
+        "det": 1
+    },
+    {
+        "n1": "balcon",
+        "n2": "voisin",
+        "det": 0
+    },
+    {
+        "n1": "pain",
+        "n2": "boulanger",
+        "det": 1
+    },
+    {
+        "n1": "livre",
+        "n2": "auteur",
+        "det": 1
+    },
+    {
+        "n1": "guitare",
+        "n2": "musicien",
+        "det": 1
+    },
+    {
+        "n1": "tableau",
+        "n2": "Van Gogh",
+        "det": 0
+    },
+    {
+        "n1": "chambre",
+        "n2": "hôtel",
+        "det": 0
+    },
+    {
+        "n1": "discours",
+        "n2": "président",
+        "det": 1
+    },
+    {
+        "n1": "fenêtre",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "travail",
+        "n2": "ingénieur",
+        "det": 1
+    },
+    {
+        "n1": "cuisine",
+        "n2": "restaurant",
+        "det": 1
+    },
+    {
+        "n1": "parfum",
+        "n2": "fleur",
+        "det": 1
+    },
+    {
+        "n1": "lumière",
+        "n2": "soleil",
+        "det": 1
+    },
+    {
+        "n1": "pleures",
+        "n2": "bébé",
+        "det": 1
+    },
+    {
+        "n1": "décision",
+        "n2": "juge",
+        "det": 1
+    },
+    {
+        "n1": "champ",
+        "n2": "paysan",
+        "det": 1
+    },
+    {
+        "n1": "voix",
+        "n2": "actrice",
+        "det": 1
+    },
+    {
+        "n1": "projet",
+        "n2": "chef",
+        "det": 1
+    },
+    {
+        "n1": "valise",
+        "n2": "voyageur",
+        "det": 1
+    },
+    {
+        "n1": "fête",
+        "n2": "village",
+        "det": 1
+    },
+    {
+        "n1": "bureau",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "classe",
+        "n2": "école",
+        "det": 1
+    },
+    {
+        "n1": "roman",
+        "n2": "poète",
+        "det": 1
+    },
+    {
+        "n1": "voiture",
+        "n2": "ami",
+        "det": 0
+    },
+    {
+        "n1": "rires",
+        "n2": "enfants",
+        "det": 2
+    },
+    {
+        "n1": "chambre",
+        "n2": "roi",
+        "det": 1
+    },
+    {
+        "n1": "lettre",
+        "n2": "facteur",
+        "det": 1
+    },
+    {
+        "n1": "pont",
+        "n2": "ville",
+        "det": 1
+    },
+    {
+        "n1": "rue",
+        "n2": "marché",
+        "det": 1
+    },
+    {
+        "n1": "journal",
+        "n2": "matin",
+        "det": 1
+    },
+    {
+        "n1": "radio",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "message",
+        "n2": "client",
+        "det": 1
+    },
+    {
+        "n1": "sac",
+        "n2": "soldat",
+        "det": 1
+    },
+    {
+        "n1": "casquette",
+        "n2": "joueur",
+        "det": 1
+    },
+    {
+        "n1": "piano",
+        "n2": "compositeur",
+        "det": 1
+    },
+    {
+        "n1": "sable",
+        "n2": "plage",
+        "det": 1
+    },
+    {
+        "n1": "voix",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "livre",
+        "n2": "bibliothécaire",
+        "det": 1
+    },
+    {
+        "n1": "feu",
+        "n2": "cheminée",
+        "det": 1
+    },
+    {
+        "n1": "travail",
+        "n2": "chercheur",
+        "det": 1
+    },
+    {
+        "n1": "clé",
+        "n2": "coffre",
+        "det": 1
+    },
+    {
+        "n1": "jardin",
+        "n2": "école",
+        "det": 1
+    },
+    {
+        "n1": "mémoire",
+        "n2": "ordinateur",
+        "det": 1
+    },
+    {
+        "n1": "nom",
+        "n2": "gagnant",
+        "det": 1
+    },
+    {
+        "n1": "single",
+        "n2": "album",
+        "det": 1
+    },
+    {
+        "n1": "mot",
+        "n2": "dictionnaire",
+        "det": 1
+    },
+    {
+        "n1": "couleur",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "parfum",
+        "n2": "savon",
+        "det": 1
+    },
+    {
+        "n1": "forme",
+        "n2": "lune",
+        "det": 1
+    },
+    {
+        "n1": "voyage",
+        "n2": "marin",
+        "det": 1
+    },
+    {
+        "n1": "carte",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "costume",
+        "n2": "marié",
+        "det": 1
+    },
+    {
+        "n1": "mission",
+        "n2": "soldat",
+        "det": 1
+    },
+    {
+        "n1": "train",
+        "n2": "soir",
+        "det": 1
+    },
+    {
+        "n1": "station",
+        "n2": "métro",
+        "det": 0
+    },
+    {
+        "n1": "stylo",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "porte",
+        "n2": "garage",
+        "det": 1
+    },
+    {
+        "n1": "toit",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "page",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "cour",
+        "n2": "école",
+        "det": 1
+    },
+    {
+        "n1": "dessin",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "verre",
+        "n2": "bar",
+        "det": 1
+    },
+    {
+        "n1": "caméra",
+        "n2": "photographe",
+        "det": 1
+    },
+    {
+        "n1": "nez rouge",
+        "n2": "clown",
+        "det": 1
+    },
+    {
+        "n1": "prière",
+        "n2": "moine",
+        "det": 1
+    },
+    {
+        "n1": "but",
+        "n2": "joueur",
+        "det": 1
+    },
+    {
+        "n1": "note",
+        "n2": "musicien",
+        "det": 1
+    },
+    {
+        "n1": "langue",
+        "n2": "pays",
+        "det": 1
+    },
+    {
+        "n1": "clé",
+        "n2": "porte",
+        "det": 1
+    },
+    {
+        "n1": "film",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "manteau",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "devoirs",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "pain",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "maison",
+        "n2": "maire",
+        "det": 1
+    },
+    {
+        "n1": "passeport",
+        "n2": "touriste",
+        "det": 1
+    },
+    {
+        "n1": "ordinateur",
+        "n2": "développeur",
+        "det": 1
+    },
+    {
+        "n1": "pinceau",
+        "n2": "peintre",
+        "det": 1
+    },
+    {
+        "n1": "scalpel",
+        "n2": "chirurgien",
+        "det": 1
+    },
+    {
+        "n1": "micro",
+        "n2": "chanteuse",
+        "det": 1
+    },
+    {
+        "n1": "gant",
+        "n2": "jardinier",
+        "det": 1
+    },
+    {
+        "n1": "marteau",
+        "n2": "forgeron",
+        "det": 1
+    },
+    {
+        "n1": "violon",
+        "n2": "virtuose",
+        "det": 1
+    },
+    {
+        "n1": "couronne",
+        "n2": "reine",
+        "det": 1
+    },
+    {
+        "n1": "sceptre",
+        "n2": "souverain",
+        "det": 1
+    },
+    {
+        "n1": "pistolet",
+        "n2": "détective",
+        "det": 1
+    },
+    {
+        "n1": "mallette",
+        "n2": "agent",
+        "det": 1
+    },
+    {
+        "n1": "carnet",
+        "n2": "journaliste",
+        "det": 1
+    },
+    {
+        "n1": "théière",
+        "n2": "ma grandmère",
+        "det": 0
+    },
+    {
+        "n1": "collier",
+        "n2": "ma tante",
+        "det": 0
+    },
+    {
+        "n1": "doudou",
+        "n2": "bébé",
+        "det": 1
+    },
+    {
+        "n1": "ballon",
+        "n2": "footballeur",
+        "det": 1
+    },
+    {
+        "n1": "raquette",
+        "n2": "tennisman",
+        "det": 1
+    },
+    {
+        "n1": "canne",
+        "n2": "vieil homme",
+        "det": 1
+    },
+    {
+        "n1": "café",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "cravate",
+        "n2": "collègue",
+        "det": 0
+    },
+    {
+        "n1": "sac à main",
+        "n2": "ma sœur",
+        "det": 0
+    },
+    {
+        "n1": "lunettes",
+        "n2": "grandpère",
+        "det": 1
+    },
+    {
+        "n1": "téléphone",
+        "n2": "consultant",
+        "det": 1
+    },
+    {
+        "n1": "cahier",
+        "n2": "inspecteur",
+        "det": 1
+    },
+    {
+        "n1": "trousse",
+        "n2": "écolier",
+        "det": 1
+    },
+    {
+        "n1": "cartable",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "jouet",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "niche",
+        "n2": "chien",
+        "det": 1
+    },
+    {
+        "n1": "ruche",
+        "n2": "apiculteur",
+        "det": 1
+    },
+    {
+        "n1": "tracteur",
+        "n2": "agriculteur",
+        "det": 1
+    },
+    {
+        "n1": "camionnette",
+        "n2": "plombier",
+        "det": 1
+    },
+    {
+        "n1": "uniforme",
+        "n2": "policier",
+        "det": 1
+    },
+    {
+        "n1": "képi",
+        "n2": "gendarme",
+        "det": 1
+    },
+    {
+        "n1": "toge",
+        "n2": "magistrat",
+        "det": 1
+    },
+    {
+        "n1": "parachute",
+        "n2": "parachutiste",
+        "det": 1
+    },
+    {
+        "n1": "sac",
+        "n2": "couchage du randonneur",
+        "det": 0
+    },
+    {
+        "n1": "palmes",
+        "n2": "plongeur",
+        "det": 1
+    },
+    {
+        "n1": "skis",
+        "n2": "champion",
+        "det": 1
+    },
+    {
+        "n1": "guitare",
+        "n2": "rockeur",
+        "det": 1
+    },
+    {
+        "n1": "batterie",
+        "n2": "batteur",
+        "det": 1
+    },
+    {
+        "n1": "micro",
+        "n2": "rappeur",
+        "det": 1
+    },
+    {
+        "n1": "costume",
+        "n2": "scène",
+        "det": 0
+    },
+    {
+        "n1": "scénario",
+        "n2": "comédien",
+        "det": 1
+    },
+    {
+        "n1": "collection",
+        "n2": "philatéliste",
+        "det": 1
+    },
+    {
+        "n1": "album",
+        "n2": "collectionneur",
+        "det": 1
+    },
+    {
+        "n1": "pot",
+        "n2": "confiture",
+        "det": 0
+    },
+    {
+        "n1": "fauteuil",
+        "n2": "patron",
+        "det": 1
+    },
+    {
+        "n1": "écran",
+        "n2": "analyste",
+        "det": 1
+    },
+    {
+        "n1": "stéthoscope",
+        "n2": "docteure",
+        "det": 1
+    },
+    {
+        "n1": "thermomètre",
+        "n2": "infirmière",
+        "det": 1
+    },
+    {
+        "n1": "blouse",
+        "n2": "laborantin",
+        "det": 1
+    },
+    {
+        "n1": "éprouvette",
+        "n2": "chimiste",
+        "det": 1
+    },
+    {
+        "n1": "télescope",
+        "n2": "astronome",
+        "det": 1
+    },
+    {
+        "n1": "carte",
+        "n2": "géographe",
+        "det": 1
+    },
+    {
+        "n1": "compas",
+        "n2": "navigateur",
+        "det": 1
+    },
+    {
+        "n1": "gouvernail",
+        "n2": "barreur",
+        "det": 1
+    },
+    {
+        "n1": "filet",
+        "n2": "pêcheur",
+        "det": 1
+    },
+    {
+        "n1": "canne à pêche",
+        "n2": "oncle",
+        "det": 0
+    },
+    {
+        "n1": "fusil",
+        "n2": "chasseur",
+        "det": 1
+    },
+    {
+        "n1": "piège",
+        "n2": "trappeur",
+        "det": 1
+    },
+    {
+        "n1": "tanière",
+        "n2": "renard",
+        "det": 1
+    },
+    {
+        "n1": "nid",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "plume",
+        "n2": "écrivain",
+        "det": 1
+    },
+    {
+        "n1": "encrier",
+        "n2": "calligraphe",
+        "det": 1
+    },
+    {
+        "n1": "carnet",
+        "n2": "dessinateur",
+        "det": 1
+    },
+    {
+        "n1": "établi",
+        "n2": "menuisier",
+        "det": 1
+    },
+    {
+        "n1": "scie",
+        "n2": "bûcheron",
+        "det": 1
+    },
+    {
+        "n1": "mètre",
+        "n2": "tailleur",
+        "det": 1
+    },
+    {
+        "n1": "machine à coudre",
+        "n2": "couturière",
+        "det": 1
+    },
+    {
+        "n1": "rouleau à pâtisserie",
+        "n2": "boulangère",
+        "det": 1
+    },
+    {
+        "n1": "couteau",
+        "n2": "chef",
+        "det": 1
+    },
+    {
+        "n1": "casserole",
+        "n2": "père",
+        "det": 0
+    },
+    {
+        "n1": "tasse préférée",
+        "n2": "ma mère",
+        "det": 0
+    },
+    {
+        "n1": "peigne",
+        "n2": "coiffeur",
+        "det": 1
+    },
+    {
+        "n1": "sèchecheveux",
+        "n2": "styliste",
+        "det": 1
+    },
+    {
+        "n1": "blouse",
+        "n2": "esthéticienne",
+        "det": 1
+    },
+    {
+        "n1": "brosse à dents",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "rasoir",
+        "n2": "frère",
+        "det": 0
+    },
+    {
+        "n1": "rouge à lèvres",
+        "n2": "ma sœur",
+        "det": 0
+    },
+    {
+        "n1": "portefeuille",
+        "n2": "ami",
+        "det": 0
+    },
+    {
+        "n1": "contrat",
+        "n2": "avocat",
+        "det": 1
+    },
+    {
+        "n1": "procédure",
+        "n2": "greffier",
+        "det": 1
+    },
+    {
+        "n1": "casque",
+        "n2": "motard",
+        "det": 1
+    },
+    {
+        "n1": "gants",
+        "n2": "pilote",
+        "det": 1
+    },
+    {
+        "n1": "combinaison",
+        "n2": "coureur",
+        "det": 1
+    },
+    {
+        "n1": "maillot",
+        "n2": "cycliste",
+        "det": 1
+    },
+    {
+        "n1": "chaussures",
+        "n2": "danseuse",
+        "det": 1
+    },
+    {
+        "n1": "tutu",
+        "n2": "ballerine",
+        "det": 1
+    },
+    {
+        "n1": "micro",
+        "n2": "conférencier",
+        "det": 1
+    },
+    {
+        "n1": "diaporama",
+        "n2": "formateur",
+        "det": 1
+    },
+    {
+        "n1": "tableau blanc",
+        "n2": "enseignant",
+        "det": 1
+    },
+    {
+        "n1": "craie",
+        "n2": "professeurLe fusil",
+        "det": 1
+    },
+    {
+        "n1": "voiture",
+        "n2": "médecin",
+        "det": 1
+    },
+    {
+        "n1": "sac",
+        "n2": "étudiante",
+        "det": 1
+    },
+    {
+        "n1": "maison",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "chien",
+        "n2": "famille",
+        "det": 1
+    },
+    {
+        "n1": "jardin",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "téléphone",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "bicyclette",
+        "n2": "garçon",
+        "det": 1
+    },
+    {
+        "n1": "livre",
+        "n2": "élève",
+        "det": 1
+    },
+    {
+        "n1": "robe",
+        "n2": "femme",
+        "det": 1
+    },
+    {
+        "n1": "manteau",
+        "n2": "homme",
+        "det": 1
+    },
+    {
+        "n1": "cravate",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "ordinateur",
+        "n2": "ingénieur",
+        "det": 1
+    },
+    {
+        "n1": "stéthoscope",
+        "n2": "docteur",
+        "det": 1
+    },
+    {
+        "n1": "trousse",
+        "n2": "infirmière",
+        "det": 1
+    },
+    {
+        "n1": "casque",
+        "n2": "pompier",
+        "det": 1
+    },
+    {
+        "n1": "sceptre",
+        "n2": "roi",
+        "det": 1
+    },
+    {
+        "n1": "baguette",
+        "n2": "fée",
+        "det": 1
+    },
+    {
+        "n1": "épée",
+        "n2": "chevalier",
+        "det": 1
+    },
+    {
+        "n1": "bouclier",
+        "n2": "guerrier",
+        "det": 1
+    },
+    {
+        "n1": "flûte",
+        "n2": "musicien",
+        "det": 1
+    },
+    {
+        "n1": "pinceau",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "palette",
+        "n2": "peintre",
+        "det": 1
+    },
+    {
+        "n1": "appareil",
+        "n2": "photographe",
+        "det": 1
+    },
+    {
+        "n1": "marteau",
+        "n2": "menuisier",
+        "det": 1
+    },
+    {
+        "n1": "tracteur",
+        "n2": "fermier",
+        "det": 1
+    },
+    {
+        "n1": "faux",
+        "n2": "paysan",
+        "det": 1
+    },
+    {
+        "n1": "couteau",
+        "n2": "cuisinier",
+        "det": 1
+    },
+    {
+        "n1": "casserole",
+        "n2": "cuisinière",
+        "det": 1
+    },
+    {
+        "n1": "planche",
+        "n2": "surfeur",
+        "det": 1
+    },
+    {
+        "n1": "vélo",
+        "n2": "cycliste",
+        "det": 1
+    },
+    {
+        "n1": "micro",
+        "n2": "chanteur",
+        "det": 1
+    },
+    {
+        "n1": "piano",
+        "n2": "virtuose",
+        "det": 1
+    },
+    {
+        "n1": "violon",
+        "n2": "soliste",
+        "det": 1
+    },
+    {
+        "n1": "cahier",
+        "n2": "écolier",
+        "det": 1
+    },
+    {
+        "n1": "lunettes",
+        "n2": "grandmère",
+        "det": 1
+    },
+    {
+        "n1": "canne",
+        "n2": "vieillard",
+        "det": 1
+    },
+    {
+        "n1": "déambulateur",
+        "n2": "patient",
+        "det": 1
+    },
+    {
+        "n1": "béquille",
+        "n2": "blessé",
+        "det": 1
+    },
+    {
+        "n1": "fauteuil",
+        "n2": "invalide",
+        "det": 1
+    },
+    {
+        "n1": "prothèse",
+        "n2": "amputé",
+        "det": 1
+    },
+    {
+        "n1": "collier",
+        "n2": "chienne",
+        "det": 1
+    },
+    {
+        "n1": "laisse",
+        "n2": "chien",
+        "det": 1
+    },
+    {
+        "n1": "panier",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "cage",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "aquarium",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "terrier",
+        "n2": "lapin",
+        "det": 1
+    },
+    {
+        "n1": "écurie",
+        "n2": "cheval",
+        "det": 1
+    },
+    {
+        "n1": "selle",
+        "n2": "cavalier",
+        "det": 1
+    },
+    {
+        "n1": "rênes",
+        "n2": "jockey",
+        "det": 1
+    },
+    {
+        "n1": "ruche",
+        "n2": "abeille",
+        "det": 1
+    },
+    {
+        "n1": "fourmilière",
+        "n2": "fourmi",
+        "det": 1
+    },
+    {
+        "n1": "terrier",
+        "n2": "renard",
+        "det": 1
+    },
+    {
+        "n1": "tanière",
+        "n2": "lion",
+        "det": 1
+    },
+    {
+        "n1": "repaire",
+        "n2": "tigre",
+        "det": 1
+    },
+    {
+        "n1": "grotte",
+        "n2": "ours",
+        "det": 1
+    },
+    {
+        "n1": "nid",
+        "n2": "aigle",
+        "det": 1
+    },
+    {
+        "n1": "coquille",
+        "n2": "escargot",
+        "det": 1
+    },
+    {
+        "n1": "carapace",
+        "n2": "tortue",
+        "det": 1
+    },
+    {
+        "n1": "plumes",
+        "n2": "perroquet",
+        "det": 1
+    },
+    {
+        "n1": "écailles",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "fourrure",
+        "n2": "renard",
+        "det": 1
+    },
+    {
+        "n1": "crinière",
+        "n2": "lion",
+        "det": 1
+    },
+    {
+        "n1": "bois",
+        "n2": "cerf",
+        "det": 1
+    },
+    {
+        "n1": "défenses",
+        "n2": "éléphant",
+        "det": 1
+    },
+    {
+        "n1": "trompe",
+        "n2": "éléphant",
+        "det": 1
+    },
+    {
+        "n1": "ailes",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "bec",
+        "n2": "canard",
+        "det": 1
+    },
+    {
+        "n1": "pattes",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "sabots",
+        "n2": "cheval",
+        "det": 1
+    },
+    {
+        "n1": "griffes",
+        "n2": "tigre",
+        "det": 1
+    },
+    {
+        "n1": "serres",
+        "n2": "aigle",
+        "det": 1
+    },
+    {
+        "n1": "antennes",
+        "n2": "insecte",
+        "det": 1
+    },
+    {
+        "n1": "ailes",
+        "n2": "papillon",
+        "det": 1
+    },
+    {
+        "n1": "dard",
+        "n2": "abeille",
+        "det": 1
+    },
+    {
+        "n1": "tentacules",
+        "n2": "pieuvre",
+        "det": 1
+    },
+    {
+        "n1": "nageoires",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "branchies",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "élytres",
+        "n2": "scarabée",
+        "det": 1
+    },
+    {
+        "n1": "venin",
+        "n2": "serpent",
+        "det": 1
+    },
+    {
+        "n1": "poison",
+        "n2": "scorpion",
+        "det": 1
+    },
+    {
+        "n1": "lait",
+        "n2": "vache",
+        "det": 1
+    },
+    {
+        "n1": "laine",
+        "n2": "mouton",
+        "det": 1
+    },
+    {
+        "n1": "miel",
+        "n2": "abeille",
+        "det": 1
+    },
+    {
+        "n1": "soie",
+        "n2": "ver à soie",
+        "det": 1
+    },
+    {
+        "n1": "œufs",
+        "n2": "poule",
+        "det": 1
+    },
+    {
+        "n1": "viande",
+        "n2": "bœuf",
+        "det": 1
+    },
+    {
+        "n1": "cuir",
+        "n2": "veau",
+        "det": 1
+    },
+    {
+        "n1": "plumes",
+        "n2": "oie",
+        "det": 1
+    },
+    {
+        "n1": "duvet",
+        "n2": "canard",
+        "det": 1
+    },
+    {
+        "n1": "corne",
+        "n2": "bœuf",
+        "det": 1
+    },
+    {
+        "n1": "sabots",
+        "n2": "porc",
+        "det": 1
+    },
+    {
+        "n1": "os",
+        "n2": "squelette",
+        "det": 1
+    },
+    {
+        "n1": "dents",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "cheveux",
+        "n2": "femme",
+        "det": 1
+    },
+    {
+        "n1": "barbe",
+        "n2": "homme",
+        "det": 1
+    },
+    {
+        "n1": "ongles",
+        "n2": "main",
+        "det": 1
+    },
+    {
+        "n1": "peau",
+        "n2": "visage",
+        "det": 1
+    },
+    {
+        "n1": "yeux",
+        "n2": "bébé",
+        "det": 1
+    },
+    {
+        "n1": "oreilles",
+        "n2": "chien",
+        "det": 1
+    },
+    {
+        "n1": "nez",
+        "n2": "clown",
+        "det": 1
+    },
+    {
+        "n1": "bouche",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "lèvres",
+        "n2": "femme",
+        "det": 1
+    },
+    {
+        "n1": "langue",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "dents",
+        "n2": "lion",
+        "det": 1
+    },
+    {
+        "n1": "griffes",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "cornes",
+        "n2": "taureau",
+        "det": 1
+    },
+    {
+        "n1": "ailes",
+        "n2": "ange",
+        "det": 1
+    },
+    {
+        "n1": "queue",
+        "n2": "renard",
+        "det": 1
+    },
+    {
+        "n1": "nageoires",
+        "n2": "dauphin",
+        "det": 1
+    },
+    {
+        "n1": "éventail",
+        "n2": "dame",
+        "det": 1
+    },
+    {
+        "n1": "parasol",
+        "n2": "plage",
+        "det": 1
+    },
+    {
+        "n1": "chapeau",
+        "n2": "paille",
+        "det": 0
+    },
+    {
+        "n1": "gants",
+        "n2": "skieur",
+        "det": 1
+    },
+    {
+        "n1": "écharpe",
+        "n2": "hiver",
+        "det": 1
+    },
+    {
+        "n1": "bottes",
+        "n2": "cavalier",
+        "det": 1
+    },
+    {
+        "n1": "chaussures",
+        "n2": "ballet",
+        "det": 0
+    },
+    {
+        "n1": "collier",
+        "n2": "perles",
+        "det": 0
+    },
+    {
+        "n1": "bague",
+        "n2": "fiançailles",
+        "det": 0
+    },
+    {
+        "n1": "boucles",
+        "n2": "oreilles",
+        "det": 0
+    },
+    {
+        "n1": "ceinture",
+        "n2": "pantalon",
+        "det": 1
+    },
+    {
+        "n1": "boutons",
+        "n2": "chemise",
+        "det": 1
+    },
+    {
+        "n1": "lacets",
+        "n2": "chaussures",
+        "det": 2
+    },
+    {
+        "n1": "cravate",
+        "n2": "businessman",
+        "det": 1
+    },
+    {
+        "n1": "foulard",
+        "n2": "soie",
+        "det": 0
+    },
+    {
+        "n1": "béret",
+        "n2": "peintre",
+        "det": 1
+    },
+    {
+        "n1": "casquette",
+        "n2": "baseball",
+        "det": 1
+    },
+    {
+        "n1": "bonnet",
+        "n2": "laine",
+        "det": 0
+    },
+    {
+        "n1": "lunettes",
+        "n2": "soleil",
+        "det": 0
+    },
+    {
+        "n1": "clés",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "trousseau",
+        "n2": "clés",
+        "det": 0
+    },
+    {
+        "n1": "carnet",
+        "n2": "adresses",
+        "det": 0
+    },
+    {
+        "n1": "agenda",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "calendrier",
+        "n2": "bureau",
+        "det": 0
+    },
+    {
+        "n1": "stylo",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "crayon",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "gomme",
+        "n2": "écolier",
+        "det": 1
+    },
+    {
+        "n1": "règle",
+        "n2": "architecte",
+        "det": 1
+    },
+    {
+        "n1": "compas",
+        "n2": "géomètre",
+        "det": 1
+    },
+    {
+        "n1": "rapporteur",
+        "n2": "angles",
+        "det": 0
+    },
+    {
+        "n1": "ciseaux",
+        "n2": "coiffeur",
+        "det": 1
+    },
+    {
+        "n1": "peigne",
+        "n2": "toilette",
+        "det": 1
+    },
+    {
+        "n1": "aiguilles",
+        "n2": "couturière",
+        "det": 1
+    },
+    {
+        "n1": "boutons",
+        "n2": "veste",
+        "det": 1
+    },
+    {
+        "n1": "épingles",
+        "n2": "nourrice",
+        "det": 1
+    },
+    {
+        "n1": "ruban",
+        "n2": "robe",
+        "det": 1
+    },
+    {
+        "n1": "dentelle",
+        "n2": "voile",
+        "det": 1
+    },
+    {
+        "n1": "perles",
+        "n2": "collier",
+        "det": 1
+    },
+    {
+        "n1": "paillettes",
+        "n2": "robe",
+        "det": 1
+    },
+    {
+        "n1": "sequins",
+        "n2": "costume",
+        "det": 1
+    },
+    {
+        "n1": "strass",
+        "n2": "couronne",
+        "det": 1
+    },
+    {
+        "n1": "bijoux",
+        "n2": "reine",
+        "det": 1
+    },
+    {
+        "n1": "diadème",
+        "n2": "princesse",
+        "det": 1
+    },
+    {
+        "n1": "sceptre",
+        "n2": "monarque",
+        "det": 1
+    },
+    {
+        "n1": "couronne",
+        "n2": "roi",
+        "det": 1
+    },
+    {
+        "n1": "trône",
+        "n2": "souverain",
+        "det": 1
+    },
+    {
+        "n1": "palais",
+        "n2": "empereur",
+        "det": 1
+    },
+    {
+        "n1": "château",
+        "n2": "seigneur",
+        "det": 1
+    },
+    {
+        "n1": "demeure",
+        "n2": "maître",
+        "det": 1
+    },
+    {
+        "n1": "villa",
+        "n2": "riche",
+        "det": 1
+    },
+    {
+        "n1": "manoir",
+        "n2": "noble",
+        "det": 1
+    },
+    {
+        "n1": "domaine",
+        "n2": "propriétaire",
+        "det": 1
+    },
+    {
+        "n1": "ferme",
+        "n2": "paysan",
+        "det": 1
+    },
+    {
+        "n1": "grange",
+        "n2": "fermier",
+        "det": 1
+    },
+    {
+        "n1": "étable",
+        "n2": "vaches",
+        "det": 2
+    },
+    {
+        "n1": "porcherie",
+        "n2": "porc",
+        "det": 1
+    },
+    {
+        "n1": "poulailler",
+        "n2": "poules",
+        "det": 2
+    },
+    {
+        "n1": "clapier",
+        "n2": "lapin",
+        "det": 1
+    },
+    {
+        "n1": "terrarium",
+        "n2": "reptile",
+        "det": 1
+    },
+    {
+        "n1": "volière",
+        "n2": "oiseaux",
+        "det": 2
+    },
+    {
+        "n1": "vivier",
+        "n2": "poissons",
+        "det": 2
+    },
+    {
+        "n1": "mare",
+        "n2": "canards",
+        "det": 2
+    },
+    {
+        "n1": "étang",
+        "n2": "cygnes",
+        "det": 2
+    },
+    {
+        "n1": "bassin",
+        "n2": "carpes",
+        "det": 2
+    },
+    {
+        "n1": "ruisseau",
+        "n2": "moulin",
+        "det": 1
+    },
+    {
+        "n1": "rivière",
+        "n2": "pêcheur",
+        "det": 1
+    },
+    {
+        "n1": "lac",
+        "n2": "bateaux",
+        "det": 2
+    },
+    {
+        "n1": "mer",
+        "n2": "marins",
+        "det": 2
+    },
+    {
+        "n1": "océan",
+        "n2": "baleines",
+        "det": 2
+    },
+    {
+        "n1": "golfe",
+        "n2": "dauphins",
+        "det": 2
+    },
+    {
+        "n1": "baie",
+        "n2": "voiliers",
+        "det": 2
+    },
+    {
+        "n1": "port",
+        "n2": "navires",
+        "det": 2
+    },
+    {
+        "n1": "quai",
+        "n2": "pêcheurs",
+        "det": 2
+    },
+    {
+        "n1": "jetée",
+        "n2": "promeneurs",
+        "det": 2
+    },
+    {
+        "n1": "plage",
+        "n2": "vacanciers",
+        "det": 2
+    },
+    {
+        "n1": "sable",
+        "n2": "enfants",
+        "det": 2
+    },
+    {
+        "n1": "vagues",
+        "n2": "surf",
+        "det": 1
+    },
+    {
+        "n1": "brise",
+        "n2": "mer",
+        "det": 1
+    },
+    {
+        "n1": "tempête",
+        "n2": "capitaine",
+        "det": 1
+    },
+    {
+        "n1": "ouragan",
+        "n2": "tropiques",
+        "det": 2
+    },
+    {
+        "n1": "typhon",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "mousson",
+        "n2": "Asie",
+        "det": 1
+    },
+    {
+        "n1": "nuages",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "pluie",
+        "n2": "automne",
+        "det": 1
+    },
+    {
+        "n1": "neige",
+        "n2": "hiver",
+        "det": 1
+    },
+    {
+        "n1": "grêle",
+        "n2": "orage",
+        "det": 1
+    },
+    {
+        "n1": "givre",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "rosée",
+        "n2": "matin",
+        "det": 1
+    },
+    {
+        "n1": "brouillard",
+        "n2": "vallée",
+        "det": 1
+    },
+    {
+        "n1": "brume",
+        "n2": "mer",
+        "det": 1
+    },
+    {
+        "n1": "soleil",
+        "n2": "été",
+        "det": 1
+    },
+    {
+        "n1": "lune",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "étoiles",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "planète",
+        "n2": "singes",
+        "det": 2
+    },
+    {
+        "n1": "galaxie",
+        "n2": "étoiles",
+        "det": 2
+    },
+    {
+        "n1": "univers",
+        "n2": "galaxies",
+        "det": 2
+    },
+    {
+        "n1": "cosmos",
+        "n2": "astres",
+        "det": 2
+    },
+    {
+        "n1": "espace",
+        "n2": "astronautes",
+        "det": 2
+    },
+    {
+        "n1": "satellite",
+        "n2": "Terre",
+        "det": 1
+    },
+    {
+        "n1": "comète",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "astéroïde",
+        "n2": "ceinture",
+        "det": 1
+    },
+    {
+        "n1": "météorite",
+        "n2": "espace",
+        "det": 1
+    },
+    {
+        "n1": "vaisseau",
+        "n2": "aliens",
+        "det": 2
+    },
+    {
+        "n1": "OVNI",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "missile",
+        "n2": "armée",
+        "det": 1
+    },
+    {
+        "n1": "bombe",
+        "n2": "terroriste",
+        "det": 1
+    },
+    {
+        "n1": "explosif",
+        "n2": "démineur",
+        "det": 1
+    },
+    {
+        "n1": "dynamite",
+        "n2": "mineur",
+        "det": 1
+    },
+    {
+        "n1": "cartouche",
+        "n2": "fusil",
+        "det": 1
+    },
+    {
+        "n1": "balle",
+        "n2": "pistolet",
+        "det": 1
+    },
+    {
+        "n1": "plomb",
+        "n2": "chasse",
+        "det": 1
+    },
+    {
+        "n1": "flèches",
+        "n2": "archer",
+        "det": 1
+    },
+    {
+        "n1": "arc",
+        "n2": "chasseur",
+        "det": 1
+    },
+    {
+        "n1": "corde",
+        "n2": "arc",
+        "det": 1
+    },
+    {
+        "n1": "cible",
+        "n2": "tireur",
+        "det": 1
+    },
+    {
+        "n1": "hameçon",
+        "n2": "ligne",
+        "det": 1
+    },
+    {
+        "n1": "moulinet",
+        "n2": "pêcheur",
+        "det": 1
+    },
+    {
+        "n1": "appât",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "ver",
+        "n2": "terre",
+        "det": 0
+    },
+    {
+        "n1": "asticot",
+        "n2": "appât",
+        "det": 1
+    },
+    {
+        "n1": "sauterelle",
+        "n2": "appât",
+        "det": 1
+    },
+    {
+        "n1": "criquet",
+        "n2": "appât",
+        "det": 1
+    },
+    {
+        "n1": "mouche",
+        "n2": "pêche",
+        "det": 1
+    },
+    {
+        "n1": "leurre",
+        "n2": "pêcheur",
+        "det": 1
+    },
+    {
+        "n1": "cuiller",
+        "n2": "pêcheur",
+        "det": 1
+    },
+    {
+        "n1": "poisson",
+        "n2": "pêcheur",
+        "det": 1
+    },
+    {
+        "n1": "prise",
+        "n2": "jour",
+        "det": 1
+    },
+    {
+        "n1": "capture",
+        "n2": "chasseur",
+        "det": 1
+    },
+    {
+        "n1": "gibier",
+        "n2": "forestier",
+        "det": 1
+    },
+    {
+        "n1": "cerf",
+        "n2": "chasseur",
+        "det": 1
+    },
+    {
+        "n1": "sanglier",
+        "n2": "bois",
+        "det": 2
+    },
+    {
+        "n1": "lièvre",
+        "n2": "champs",
+        "det": 2
+    },
+    {
+        "n1": "lapin",
+        "n2": "garenne",
+        "det": 0
+    },
+    {
+        "n1": "faisan",
+        "n2": "chasse",
+        "det": 1
+    },
+    {
+        "n1": "perdrix",
+        "n2": "blés",
+        "det": 2
+    },
+    {
+        "n1": "caille",
+        "n2": "champs",
+        "det": 2
+    },
+    {
+        "n1": "oie",
+        "n2": "marais",
+        "det": 2
+    },
+    {
+        "n1": "cygne",
+        "n2": "lac",
+        "det": 1
+    },
+    {
+        "n1": "cigogne",
+        "n2": "clocher",
+        "det": 1
+    },
+    {
+        "n1": "héron",
+        "n2": "marais",
+        "det": 2
+    },
+    {
+        "n1": "aigle",
+        "n2": "montagnes",
+        "det": 2
+    },
+    {
+        "n1": "faucon",
+        "n2": "roi",
+        "det": 1
+    },
+    {
+        "n1": "vautour",
+        "n2": "montagnes",
+        "det": 2
+    },
+    {
+        "n1": "corbeau",
+        "n2": "champs",
+        "det": 2
+    },
+    {
+        "n1": "pie",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "geai",
+        "n2": "chênes",
+        "det": 2
+    },
+    {
+        "n1": "mésange",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "rougegorge",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "moineau",
+        "n2": "Paris",
+        "det": 0
+    },
+    {
+        "n1": "pinson",
+        "n2": "arbres",
+        "det": 2
+    },
+    {
+        "n1": "merle",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "étourneau",
+        "n2": "champs",
+        "det": 2
+    },
+    {
+        "n1": "hirondelle",
+        "n2": "printemps",
+        "det": 1
+    },
+    {
+        "n1": "martinet",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "chauvesouris",
+        "n2": "grotte",
+        "det": 1
+    },
+    {
+        "n1": "papillon",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "libellule",
+        "n2": "étang",
+        "det": 1
+    },
+    {
+        "n1": "abeille",
+        "n2": "ruche",
+        "det": 1
+    },
+    {
+        "n1": "guêpe",
+        "n2": "nid",
+        "det": 1
+    },
+    {
+        "n1": "fourmi",
+        "n2": "colonie",
+        "det": 1
+    },
+    {
+        "n1": "chenille",
+        "n2": "papillon",
+        "det": 1
+    },
+    {
+        "n1": "lombric",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "scarabée",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "coccinelle",
+        "n2": "rose",
+        "det": 1
+    },
+    {
+        "n1": "grillon",
+        "n2": "foyer",
+        "det": 1
+    },
+    {
+        "n1": "sauterelle",
+        "n2": "blés",
+        "det": 2
+    },
+    {
+        "n1": "criquet",
+        "n2": "désert",
+        "det": 1
+    },
+    {
+        "n1": "phalène",
+        "n2": "soir",
+        "det": 1
+    },
+    {
+        "n1": "sphinx",
+        "n2": "tabac",
+        "det": 1
+    },
+    {
+        "n1": "bombyx",
+        "n2": "mûrier",
+        "det": 1
+    },
+    {
+        "n1": "teigne",
+        "n2": "vêtement",
+        "det": 1
+    },
+    {
+        "n1": "termite",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "blatte",
+        "n2": "cuisine",
+        "det": 1
+    },
+    {
+        "n1": "cafard",
+        "n2": "appartement",
+        "det": 1
+    },
+    {
+        "n1": "punaise",
+        "n2": "lit",
+        "det": 1
+    },
+    {
+        "n1": "moustique",
+        "n2": "été",
+        "det": 1
+    },
+    {
+        "n1": "mouche",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "taon",
+        "n2": "étable",
+        "det": 1
+    },
+    {
+        "n1": "araignée",
+        "n2": "cave",
+        "det": 1
+    },
+    {
+        "n1": "scorpion",
+        "n2": "désert",
+        "det": 1
+    },
+    {
+        "n1": "tique",
+        "n2": "chien",
+        "det": 1
+    },
+    {
+        "n1": "puce",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "pou",
+        "n2": "école",
+        "det": 1
+    },
+    {
+        "n1": "morpion",
+        "n2": "piscine",
+        "det": 1
+    },
+    {
+        "n1": "acarien",
+        "n2": "poussière",
+        "det": 1
+    },
+    {
+        "n1": "limace",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "escargot",
+        "n2": "haie",
+        "det": 1
+    },
+    {
+        "n1": "sangsue",
+        "n2": "mare",
+        "det": 1
+    },
+    {
+        "n1": "étoile",
+        "n2": "mer",
+        "det": 0
+    },
+    {
+        "n1": "oursin",
+        "n2": "roche",
+        "det": 1
+    },
+    {
+        "n1": "corail",
+        "n2": "mer",
+        "det": 1
+    },
+    {
+        "n1": "anémone",
+        "n2": "mer",
+        "det": 0
+    },
+    {
+        "n1": "méduse",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "calmar",
+        "n2": "profondeurs",
+        "det": 2
+    },
+    {
+        "n1": "pieuvre",
+        "n2": "grotte",
+        "det": 1
+    },
+    {
+        "n1": "seiche",
+        "n2": "côte",
+        "det": 1
+    },
+    {
+        "n1": "nautile",
+        "n2": "mers",
+        "det": 2
+    },
+    {
+        "n1": "huître",
+        "n2": "bassin",
+        "det": 1
+    },
+    {
+        "n1": "moule",
+        "n2": "baie",
+        "det": 1
+    },
+    {
+        "n1": "palourde",
+        "n2": "sable",
+        "det": 1
+    },
+    {
+        "n1": "bigorneau",
+        "n2": "rocher",
+        "det": 1
+    },
+    {
+        "n1": "bulot",
+        "n2": "mer",
+        "det": 1
+    },
+    {
+        "n1": "ormeau",
+        "n2": "côte",
+        "det": 1
+    },
+    {
+        "n1": "poulpe",
+        "n2": "Méditerranée",
+        "det": 1
+    },
+    {
+        "n1": "homard",
+        "n2": "Atlantique",
+        "det": 1
+    },
+    {
+        "n1": "langouste",
+        "n2": "Caraïbes",
+        "det": 2
+    },
+    {
+        "n1": "crabe",
+        "n2": "plage",
+        "det": 1
+    },
+    {
+        "n1": "crevette",
+        "n2": "mer",
+        "det": 1
+    },
+    {
+        "n1": "écrevisse",
+        "n2": "rivière",
+        "det": 1
+    },
+    {
+        "n1": "langoustine",
+        "n2": "golfe",
+        "det": 1
+    },
+    {
+        "n1": "cloporte",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "gendarme",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "hanneton",
+        "n2": "printemps",
+        "det": 1
+    },
+    {
+        "n1": "carabe",
+        "n2": "jardins",
+        "det": 2
+    },
+    {
+        "n1": "chrysomèle",
+        "n2": "peuplier",
+        "det": 1
+    },
+    {
+        "n1": "doryphore",
+        "n2": "pomme de terre",
+        "det": 1
+    },
+    {
+        "n1": "courtilière",
+        "n2": "potager",
+        "det": 1
+    },
+    {
+        "n1": "forficule",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "tipule",
+        "n2": "gazon",
+        "det": 1
+    },
+    {
+        "n1": "syrphe",
+        "n2": "fleurs",
+        "det": 2
+    },
+    {
+        "n1": "ascalaphe",
+        "n2": "sud",
+        "det": 1
+    },
+    {
+        "n1": "panorpe",
+        "n2": "bois",
+        "det": 2
+    },
+    {
+        "n1": "stratiome",
+        "n2": "marais",
+        "det": 1
+    },
+    {
+        "n1": "agrion",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "caloptéryx",
+        "n2": "ruisseau",
+        "det": 1
+    },
+    {
+        "n1": "demoiselle",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "leste",
+        "n2": "bois",
+        "det": 2
+    },
+    {
+        "n1": "aeschne",
+        "n2": "marais",
+        "det": 2
+    },
+    {
+        "n1": "gomphe",
+        "n2": "fleuve",
+        "det": 1
+    },
+    {
+        "n1": "cordulégastre",
+        "n2": "rivières",
+        "det": 2
+    },
+    {
+        "n1": "leucorrhine",
+        "n2": "tourbières",
+        "det": 2
+    },
+    {
+        "n1": "sympétrum",
+        "n2": "sud",
+        "det": 1
+    },
+    {
+        "n1": "voiture",
+        "n2": "Jean",
+        "det": 0
+    },
+    {
+        "n1": "maison",
+        "n2": "mes parents",
+        "det": 0
+    },
+    {
+        "n1": "stylo",
+        "n2": "Marie",
+        "det": 0
+    },
+    {
+        "n1": "ordinateur",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "livre",
+        "n2": "Paul",
+        "det": 0
+    },
+    {
+        "n1": "montre",
+        "n2": "ma sœur",
+        "det": 0
+    },
+    {
+        "n1": "téléphone",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "vélo",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "lunettes",
+        "n2": "grandmère",
+        "det": 0
+    },
+    {
+        "n1": "appartement",
+        "n2": "propriétaire",
+        "det": 1
+    },
+    {
+        "n1": "collection",
+        "n2": "musée",
+        "det": 1
+    },
+    {
+        "n1": "archives",
+        "n2": "mairie",
+        "det": 1
+    },
+    {
+        "n1": "dossier",
+        "n2": "avocat",
+        "det": 1
+    },
+    {
+        "n1": "carte",
+        "n2": "crédit",
+        "det": 0
+    },
+    {
+        "n1": "chaise",
+        "n2": "Monsieur Dupont",
+        "det": 0
+    },
+    {
+        "n1": "lampe",
+        "n2": "ami",
+        "det": 0
+    },
+    {
+        "n1": "voiture",
+        "n2": "mes parents",
+        "det": 0
+    },
+    {
+        "n1": "bureau",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "jardin",
+        "n2": "voisine",
+        "det": 1
+    },
+    {
+        "n1": "appartement",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "livre",
+        "n2": "ma cousine",
+        "det": 0
+    },
+    {
+        "n1": "montre",
+        "n2": "oncle",
+        "det": 1
+    },
+    {
+        "n1": "ordinateur",
+        "n2": "collègue",
+        "det": 1
+    },
+    {
+        "n1": "sac",
+        "n2": "secrétaire",
+        "det": 1
+    },
+    {
+        "n1": "téléphone",
+        "n2": "directrice",
+        "det": 1
+    },
+    {
+        "n1": "chaussures",
+        "n2": "cousin",
+        "det": 0
+    },
+    {
+        "n1": "robe",
+        "n2": "ma tante",
+        "det": 0
+    },
+    {
+        "n1": "chien",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "chat",
+        "n2": "amie",
+        "det": 1
+    },
+    {
+        "n1": "table",
+        "n2": "salle de réunion",
+        "det": 1
+    },
+    {
+        "n1": "livre",
+        "n2": "bibliothèque",
+        "det": 1
+    },
+    {
+        "n1": "vélo",
+        "n2": "école",
+        "det": 1
+    },
+    {
+        "n1": "ordinateur",
+        "n2": "laboratoire",
+        "det": 1
+    },
+    {
+        "n1": "montre",
+        "n2": "employé",
+        "det": 1
+    },
+    {
+        "n1": "lampe",
+        "n2": "chambre",
+        "det": 1
+    },
+    {
+        "n1": "cahier",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "bureau",
+        "n2": "avocat",
+        "det": 1
+    },
+    {
+        "n1": "maison",
+        "n2": "mes grandsparents",
+        "det": 0
+    },
+    {
+        "n1": "tableau",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "sac",
+        "n2": "adolescente",
+        "det": 1
+    },
+    {
+        "n1": "téléphone",
+        "n2": "cousin",
+        "det": 0
+    },
+    {
+        "n1": "ordinateur",
+        "n2": "frère",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "chien",
+        "n2": "voisine",
+        "det": 1
+    },
+    {
+        "n1": "chat",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "montre",
+        "n2": "oncle",
+        "det": 0
+    },
+    {
+        "n1": "robe",
+        "n2": "ma sœur",
+        "det": 0
+    },
+    {
+        "n1": "bureau",
+        "n2": "directrice",
+        "det": 1
+    },
+    {
+        "n1": "lunettes",
+        "n2": "ma cousine",
+        "det": 0
+    },
+    {
+        "n1": "sac",
+        "n2": "frère",
+        "det": 0
+    },
+    {
+        "n1": "chaussures",
+        "n2": "étudiante",
+        "det": 1
+    },
+    {
+        "n1": "téléphone",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "ordinateur",
+        "n2": "employé",
+        "det": 1
+    },
+    {
+        "n1": "voiture",
+        "n2": "voisine",
+        "det": 1
+    },
+    {
+        "n1": "chien",
+        "n2": "cousin",
+        "det": 0
+    },
+    {
+        "n1": "chat",
+        "n2": "frère",
+        "det": 0
+    },
+    {
+        "n1": "montre",
+        "n2": "amie",
+        "det": 1
+    },
+    {
+        "n1": "robe",
+        "n2": "tante",
+        "det": 1
+    },
+    {
+        "n1": "bureau",
+        "n2": "secrétaire",
+        "det": 1
+    },
+    {
+        "n1": "appartement",
+        "n2": "mes parents",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "voisine",
+        "det": 1
+    },
+    {
+        "n1": "ordinateur",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "montre",
+        "n2": "ami",
+        "det": 0
+    },
+    {
+        "n1": "lampe",
+        "n2": "appartement",
+        "det": 1
+    },
+    {
+        "n1": "chaise",
+        "n2": "bureau",
+        "det": 1
+    },
+    {
+        "n1": "téléphone",
+        "n2": "secrétaire",
+        "det": 1
+    },
+    {
+        "n1": "sac",
+        "n2": "directrice",
+        "det": 1
+    },
+    {
+        "n1": "bureau",
+        "n2": "oncle",
+        "det": 0
+    },
+    {
+        "n1": "livre",
+        "n2": "cousin",
+        "det": 0
+    },
+    {
+        "n1": "chat",
+        "n2": "ma cousine",
+        "det": 0
+    },
+    {
+        "n1": "chien",
+        "n2": "frère",
+        "det": 0
+    },
+    {
+        "n1": "voiture",
+        "n2": "amie",
+        "det": 1
+    },
+    {
+        "n1": "tableau",
+        "n2": "galerie",
+        "det": 1
+    },
+    {
+        "n1": "appartement",
+        "n2": "famille",
+        "det": 1
+    },
+    {
+        "n1": "sac",
+        "n2": "cousin",
+        "det": 0
+    },
+    {
+        "n1": "montre",
+        "n2": "grandmère",
+        "det": 1
+    },
+    {
+        "n1": "livre",
+        "n2": "musée",
+        "det": 1
+    },
+    {
+        "n1": "chaise",
+        "n2": "salle",
+        "det": 1
+    },
+    {
+        "n1": "téléphone",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "voiture",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "bureau",
+        "n2": "frère",
+        "det": 0
+    },
+    {
+        "n1": "chat",
+        "n2": "famille",
+        "det": 1
+    },
+    {
+        "n1": "livre",
+        "n2": "ma sœur",
+        "det": 0
+    },
+    {
+        "n1": "appartement",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "montre",
+        "n2": "cousin",
+        "det": 0
+    }
+]

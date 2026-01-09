@@ -1,0 +1,2547 @@
+[
+    {
+        "n1": "Dégâts",
+        "n2": "tempête",
+        "det": 1
+    },
+    {
+        "n1": "Inondation",
+        "n2": "pluie",
+        "det": 1
+    },
+    {
+        "n1": "Érosion",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "Coupure",
+        "n2": "électricité de l'orage",
+        "det": 0
+    },
+    {
+        "n1": "Brèches",
+        "n2": "séisme",
+        "det": 1
+    },
+    {
+        "n1": "Incendie",
+        "n2": "foudre",
+        "det": 1
+    },
+    {
+        "n1": "Effondrement",
+        "n2": "pont",
+        "det": 1
+    },
+    {
+        "n1": "Glissement",
+        "n2": "terrain",
+        "det": 0
+    },
+    {
+        "n1": "Crue",
+        "n2": "fleuve de la tempête",
+        "det": 1
+    },
+    {
+        "n1": "Sécheresse",
+        "n2": "réchauffement climatique",
+        "det": 1
+    },
+    {
+        "n1": "Fonte",
+        "n2": "glaces du réchauffement",
+        "det": 2
+    },
+    {
+        "n1": "Éboulement",
+        "n2": "montagne",
+        "det": 1
+    },
+    {
+        "n1": "Débordement",
+        "n2": "fleuve de la fonte des neiges",
+        "det": 1
+    },
+    {
+        "n1": "Chute",
+        "n2": "arbre du vent",
+        "det": 0
+    },
+    {
+        "n1": "Fissure",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "Retard",
+        "n2": "train de la neige",
+        "det": 1
+    },
+    {
+        "n1": "Annulation",
+        "n2": "vol",
+        "det": 1
+    },
+    {
+        "n1": "Inondation",
+        "n2": "soussol de la pluie",
+        "det": 1
+    },
+    {
+        "n1": "Rupture",
+        "n2": "conduite du gel",
+        "det": 1
+    },
+    {
+        "n1": "Casse",
+        "n2": "tuyau",
+        "det": 1
+    },
+    {
+        "n1": "Effondrement",
+        "n2": "toit de la neige",
+        "det": 1
+    },
+    {
+        "n1": "Pollution",
+        "n2": "mer du naufrage",
+        "det": 1
+    },
+    {
+        "n1": "Disparition",
+        "n2": "espèces du braconnage",
+        "det": 2
+    },
+    {
+        "n1": "Apparition",
+        "n2": "érosion du sol",
+        "det": 1
+    },
+    {
+        "n1": "Invasion",
+        "n2": "insectes du déséquilibre écologique",
+        "det": 2
+    },
+    {
+        "n1": "Propagation",
+        "n2": "feu de la sécheresse",
+        "det": 1
+    },
+    {
+        "n1": "Tempête",
+        "n2": "changement climatique",
+        "det": 1
+    },
+    {
+        "n1": "Ouragan",
+        "n2": "réchauffement océanique",
+        "det": 1
+    },
+    {
+        "n1": "Embouteillage",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "Panne",
+        "n2": "moteur de la surchauffe",
+        "det": 1
+    },
+    {
+        "n1": "Explosion",
+        "n2": "gaz de la fuite",
+        "det": 1
+    },
+    {
+        "n1": "Incendie",
+        "n2": "moteur de l'huile",
+        "det": 1
+    },
+    {
+        "n1": "Bris",
+        "n2": "vitre du choc",
+        "det": 0
+    },
+    {
+        "n1": "Panne",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "Crash",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "Coupure",
+        "n2": "câble",
+        "det": 1
+    },
+    {
+        "n1": "Interruption",
+        "n2": "service",
+        "det": 1
+    },
+    {
+        "n1": "Retard",
+        "n2": "livraison du trafic",
+        "det": 0
+    },
+    {
+        "n1": "Suppression",
+        "n2": "vol",
+        "det": 1
+    },
+    {
+        "n1": "Explosion",
+        "n2": "réacteur de la surtension",
+        "det": 1
+    },
+    {
+        "n1": "Perte",
+        "n2": "données du virus",
+        "det": 0
+    },
+    {
+        "n1": "Erreur",
+        "n2": "calcul",
+        "det": 1
+    },
+    {
+        "n1": "Coupure",
+        "n2": "internet du serveur",
+        "det": 0
+    },
+    {
+        "n1": "Surcharge",
+        "n2": "réseau de la demande",
+        "det": 1
+    },
+    {
+        "n1": "Accident",
+        "n2": "conducteur de la fatigue",
+        "det": 1
+    },
+    {
+        "n1": "Chute",
+        "n2": "cycliste de la pluie",
+        "det": 1
+    },
+    {
+        "n1": "Fracture",
+        "n2": "bras de la chute",
+        "det": 1
+    },
+    {
+        "n1": "Douleur",
+        "n2": "dos",
+        "det": 1
+    },
+    {
+        "n1": "Fuite",
+        "n2": "eau de la canalisation",
+        "det": 0
+    },
+    {
+        "n1": "Tache",
+        "n2": "vin du renversement",
+        "det": 0
+    },
+    {
+        "n1": "Dommage",
+        "n2": "matériel de l'humidité",
+        "det": 1
+    },
+    {
+        "n1": "Coupure",
+        "n2": "bois de la scie",
+        "det": 1
+    },
+    {
+        "n1": "Fièvre",
+        "n2": "infection",
+        "det": 1
+    },
+    {
+        "n1": "Rhume",
+        "n2": "froid",
+        "det": 1
+    },
+    {
+        "n1": "Toux",
+        "n2": "rhume",
+        "det": 1
+    },
+    {
+        "n1": "Allergie",
+        "n2": "pollen",
+        "det": 1
+    },
+    {
+        "n1": "Malaise",
+        "n2": "surmenage",
+        "det": 1
+    },
+    {
+        "n1": "Fatigue",
+        "n2": "manque de sommeil",
+        "det": 1
+    },
+    {
+        "n1": "Stress",
+        "n2": "travail",
+        "det": 1
+    },
+    {
+        "n1": "Douleur",
+        "n2": "vaccin",
+        "det": 1
+    },
+    {
+        "n1": "Frisson",
+        "n2": "fièvre",
+        "det": 1
+    },
+    {
+        "n1": "Nausée",
+        "n2": "fatigue",
+        "det": 1
+    },
+    {
+        "n1": "Tremblement",
+        "n2": "froid",
+        "det": 1
+    },
+    {
+        "n1": "Larme",
+        "n2": "tristesse",
+        "det": 1
+    },
+    {
+        "n1": "Sourire",
+        "n2": "joie",
+        "det": 1
+    },
+    {
+        "n1": "Cri",
+        "n2": "peur",
+        "det": 1
+    },
+    {
+        "n1": "Rougissement",
+        "n2": "honte",
+        "det": 1
+    },
+    {
+        "n1": "Rire",
+        "n2": "blague",
+        "det": 1
+    },
+    {
+        "n1": "Silence",
+        "n2": "surprise",
+        "det": 1
+    },
+    {
+        "n1": "Hésitation",
+        "n2": "peur",
+        "det": 1
+    },
+    {
+        "n1": "Regret",
+        "n2": "faute",
+        "det": 1
+    },
+    {
+        "n1": "Tristesse",
+        "n2": "séparation",
+        "det": 1
+    },
+    {
+        "n1": "Colère",
+        "n2": "injustice",
+        "det": 1
+    },
+    {
+        "n1": "Déception",
+        "n2": "trahison",
+        "det": 1
+    },
+    {
+        "n1": "Soulagement",
+        "n2": "victoire",
+        "det": 1
+    },
+    {
+        "n1": "Peur",
+        "n2": "danger",
+        "det": 1
+    },
+    {
+        "n1": "Satisfaction",
+        "n2": "succès",
+        "det": 1
+    },
+    {
+        "n1": "Crise économique",
+        "n2": "récession",
+        "det": 1
+    },
+    {
+        "n1": "Hausse",
+        "n2": "prix de l'inflation",
+        "det": 2
+    },
+    {
+        "n1": "Chômage",
+        "n2": "crise",
+        "det": 1
+    },
+    {
+        "n1": "Fermeture",
+        "n2": "magasin de la faillite",
+        "det": 1
+    },
+    {
+        "n1": "Retard",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "Baisse",
+        "n2": "ventes de la concurrence",
+        "det": 2
+    },
+    {
+        "n1": "Hausse",
+        "n2": "impôts du déficit",
+        "det": 2
+    },
+    {
+        "n1": "Inflation",
+        "n2": "manque d'offre",
+        "det": 1
+    },
+    {
+        "n1": "Grève",
+        "n2": "mécontentement",
+        "det": 1
+    },
+    {
+        "n1": "Chômage",
+        "n2": "licenciement",
+        "det": 1
+    },
+    {
+        "n1": "Diminution",
+        "n2": "ventes de la concurrence",
+        "det": 2
+    },
+    {
+        "n1": "Ralentissement",
+        "n2": "production",
+        "det": 1
+    },
+    {
+        "n1": "Fermeture",
+        "n2": "école de la neige",
+        "det": 1
+    },
+    {
+        "n1": "Perturbation",
+        "n2": "trafic",
+        "det": 1
+    },
+    {
+        "n1": "dégâts",
+        "n2": "tempête",
+        "det": 1
+    },
+    {
+        "n1": "retards",
+        "n2": "circulation",
+        "det": 1
+    },
+    {
+        "n1": "panne",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "inondation",
+        "n2": "rivière",
+        "det": 1
+    },
+    {
+        "n1": "coupure",
+        "n2": "électricité",
+        "det": 0
+    },
+    {
+        "n1": "blessure",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "ruines",
+        "n2": "guerre",
+        "det": 0
+    },
+    {
+        "n1": "incendie",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "érosion",
+        "n2": "roche",
+        "det": 1
+    },
+    {
+        "n1": "déformation",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "dégâts",
+        "n2": "ouragan",
+        "det": 1
+    },
+    {
+        "n1": "fatigue",
+        "n2": "travail",
+        "det": 1
+    },
+    {
+        "n1": "usure",
+        "n2": "temps",
+        "det": 1
+    },
+    {
+        "n1": "panne",
+        "n2": "électricité",
+        "det": 0
+    },
+    {
+        "n1": "blessure",
+        "n2": "guerre",
+        "det": 0
+    },
+    {
+        "n1": "pollution",
+        "n2": "industrie",
+        "det": 1
+    },
+    {
+        "n1": "famine",
+        "n2": "sécheresse",
+        "det": 1
+    },
+    {
+        "n1": "stress",
+        "n2": "examens",
+        "det": 2
+    },
+    {
+        "n1": "accident",
+        "n2": "route",
+        "det": 1
+    },
+    {
+        "n1": "cicatrice",
+        "n2": "opération",
+        "det": 1
+    },
+    {
+        "n1": "conflit",
+        "n2": "intérêts",
+        "det": 0
+    },
+    {
+        "n1": "corrosion",
+        "n2": "sel",
+        "det": 1
+    },
+    {
+        "n1": "crise",
+        "n2": "nerfs",
+        "det": 0
+    },
+    {
+        "n1": "dégradation",
+        "n2": "environnement",
+        "det": 1
+    },
+    {
+        "n1": "conséquence",
+        "n2": "pauvreté",
+        "det": 1
+    },
+    {
+        "n1": "déprime",
+        "n2": "isolement",
+        "det": 1
+    },
+    {
+        "n1": "dérèglement",
+        "n2": "climatique",
+        "det": 1
+    },
+    {
+        "n1": "dérives",
+        "n2": "idéologique",
+        "det": 1
+    },
+    {
+        "n1": "désertification",
+        "n2": "climat",
+        "det": 1
+    },
+    {
+        "n1": "échec",
+        "n2": "stratégie",
+        "det": 1
+    },
+    {
+        "n1": "effondrement",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "erreur",
+        "n2": "calcul",
+        "det": 0
+    },
+    {
+        "n1": "faillite",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "perte",
+        "n2": "mémoire",
+        "det": 0
+    },
+    {
+        "n1": "rouille",
+        "n2": "porte",
+        "det": 1
+    },
+    {
+        "n1": "traumatisme",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "usure",
+        "n2": "pneus",
+        "det": 2
+    },
+    {
+        "n1": "usure",
+        "n2": "escaliers",
+        "det": 2
+    },
+    {
+        "n1": "fissure",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "éboulement",
+        "n2": "falaise",
+        "det": 1
+    },
+    {
+        "n1": "affaissement",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "corrosion",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "ternissement",
+        "n2": "argent",
+        "det": 1
+    },
+    {
+        "n1": "pâlissement",
+        "n2": "tissu",
+        "det": 1
+    },
+    {
+        "n1": "affadissement",
+        "n2": "goût",
+        "det": 1
+    },
+    {
+        "n1": "affaiblissement",
+        "n2": "signal",
+        "det": 1
+    },
+    {
+        "n1": "ralentissement",
+        "n2": "croissance",
+        "det": 1
+    },
+    {
+        "n1": "augmentation",
+        "n2": "pression",
+        "det": 1
+    },
+    {
+        "n1": "diminution",
+        "n2": "ressources",
+        "det": 2
+    },
+    {
+        "n1": "épaississement",
+        "n2": "couche",
+        "det": 1
+    },
+    {
+        "n1": "amincissement",
+        "n2": "cheveux",
+        "det": 2
+    },
+    {
+        "n1": "durcissement",
+        "n2": "artères",
+        "det": 2
+    },
+    {
+        "n1": "ramollissement",
+        "n2": "beurre",
+        "det": 1
+    },
+    {
+        "n1": "liquefaction",
+        "n2": "glace",
+        "det": 1
+    },
+    {
+        "n1": "solidification",
+        "n2": "lave",
+        "det": 1
+    },
+    {
+        "n1": "évaporation",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "condensation",
+        "n2": "vapeur",
+        "det": 1
+    },
+    {
+        "n1": "oxydation",
+        "n2": "fer",
+        "det": 1
+    },
+    {
+        "n1": "fermentation",
+        "n2": "jus",
+        "det": 1
+    },
+    {
+        "n1": "putréfaction",
+        "n2": "viande",
+        "det": 1
+    },
+    {
+        "n1": "moisissure",
+        "n2": "pain",
+        "det": 1
+    },
+    {
+        "n1": "germination",
+        "n2": "graine",
+        "det": 1
+    },
+    {
+        "n1": "floraison",
+        "n2": "plant",
+        "det": 1
+    },
+    {
+        "n1": "fanaison",
+        "n2": "fleurs",
+        "det": 2
+    },
+    {
+        "n1": "pourriture",
+        "n2": "fruit",
+        "det": 1
+    },
+    {
+        "n1": "dessèchement",
+        "n2": "terre",
+        "det": 1
+    },
+    {
+        "n1": "engorgement",
+        "n2": "canalisations",
+        "det": 2
+    },
+    {
+        "n1": "obstruction",
+        "n2": "artères",
+        "det": 2
+    },
+    {
+        "n1": "congestion",
+        "n2": "trafic",
+        "det": 1
+    },
+    {
+        "n1": "saturation",
+        "n2": "marché",
+        "det": 1
+    },
+    {
+        "n1": "inflation",
+        "n2": "prix",
+        "det": 2
+    },
+    {
+        "n1": "dévaluation",
+        "n2": "monnaie",
+        "det": 1
+    },
+    {
+        "n1": "appauvrissement",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "enrichissement",
+        "n2": "expérience",
+        "det": 1
+    },
+    {
+        "n1": "approfondissement",
+        "n2": "connaissances",
+        "det": 2
+    },
+    {
+        "n1": "élargissement",
+        "n2": "horizons",
+        "det": 2
+    },
+    {
+        "n1": "rétrécissement",
+        "n2": "possibilités",
+        "det": 2
+    },
+    {
+        "n1": "complexification",
+        "n2": "problème",
+        "det": 1
+    },
+    {
+        "n1": "simplification",
+        "n2": "processus",
+        "det": 1
+    },
+    {
+        "n1": "accélération",
+        "n2": "mouvement",
+        "det": 1
+    },
+    {
+        "n1": "décélération",
+        "n2": "vitesse",
+        "det": 1
+    },
+    {
+        "n1": "stabilisation",
+        "n2": "situation",
+        "det": 1
+    },
+    {
+        "n1": "déstabilisation",
+        "n2": "équilibre",
+        "det": 1
+    },
+    {
+        "n1": "normalisation",
+        "n2": "relations",
+        "det": 2
+    },
+    {
+        "n1": "rupture",
+        "n2": "communications",
+        "det": 2
+    },
+    {
+        "n1": "interruption",
+        "n2": "service",
+        "det": 1
+    },
+    {
+        "n1": "cessation",
+        "n2": "hostilités",
+        "det": 2
+    },
+    {
+        "n1": "fumée",
+        "n2": "incendie",
+        "det": 1
+    },
+    {
+        "n1": "peur",
+        "n2": "bruit",
+        "det": 1
+    },
+    {
+        "n1": "douleur",
+        "n2": "blessure",
+        "det": 1
+    },
+    {
+        "n1": "éclats",
+        "n2": "explosion",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "séparation",
+        "det": 1
+    },
+    {
+        "n1": "chute",
+        "n2": "pluie",
+        "det": 1
+    },
+    {
+        "n1": "effondrement",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "perte",
+        "n2": "signal",
+        "det": 1
+    },
+    {
+        "n1": "effroi",
+        "n2": "tonnerre",
+        "det": 1
+    },
+    {
+        "n1": "ralentissement",
+        "n2": "trafic",
+        "det": 1
+    },
+    {
+        "n1": "obscurité",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "tremblement",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "ruine",
+        "n2": "guerre",
+        "det": 1
+    },
+    {
+        "n1": "brillance",
+        "n2": "polissage",
+        "det": 1
+    },
+    {
+        "n1": "ride",
+        "n2": "vieillissement",
+        "det": 1
+    },
+    {
+        "n1": "effacement",
+        "n2": "temps",
+        "det": 1
+    },
+    {
+        "n1": "cassure",
+        "n2": "choc",
+        "det": 1
+    },
+    {
+        "n1": "fracture",
+        "n2": "tremblement",
+        "det": 1
+    },
+    {
+        "n1": "pollution",
+        "n2": "usine",
+        "det": 1
+    },
+    {
+        "n1": "bruit",
+        "n2": "tonnerre",
+        "det": 1
+    },
+    {
+        "n1": "éclat",
+        "n2": "lumière",
+        "det": 1
+    },
+    {
+        "n1": "corrosion",
+        "n2": "eau salée",
+        "det": 1
+    },
+    {
+        "n1": "brûlure",
+        "n2": "soleil",
+        "det": 1
+    },
+    {
+        "n1": "sécheresse",
+        "n2": "chaleur",
+        "det": 1
+    },
+    {
+        "n1": "effritement",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "rouille",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "fissure",
+        "n2": "gel",
+        "det": 1
+    },
+    {
+        "n1": "effroi",
+        "n2": "cri",
+        "det": 1
+    },
+    {
+        "n1": "disparition",
+        "n2": "lumière",
+        "det": 1
+    },
+    {
+        "n1": "effacement",
+        "n2": "trace",
+        "det": 1
+    },
+    {
+        "n1": "écume",
+        "n2": "vague",
+        "det": 1
+    },
+    {
+        "n1": "chute",
+        "n2": "rocher",
+        "det": 1
+    },
+    {
+        "n1": "blessure",
+        "n2": "combat",
+        "det": 1
+    },
+    {
+        "n1": "explosion",
+        "n2": "gaz",
+        "det": 1
+    },
+    {
+        "n1": "éblouissement",
+        "n2": "flash",
+        "det": 1
+    },
+    {
+        "n1": "sifflement",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "effondrement",
+        "n2": "plafond",
+        "det": 1
+    },
+    {
+        "n1": "douleur",
+        "n2": "choc",
+        "det": 1
+    },
+    {
+        "n1": "froid",
+        "n2": "matin",
+        "det": 1
+    },
+    {
+        "n1": "moiteur",
+        "n2": "été",
+        "det": 1
+    },
+    {
+        "n1": "tremblement",
+        "n2": "terre",
+        "det": 1
+    },
+    {
+        "n1": "destruction",
+        "n2": "feu",
+        "det": 1
+    },
+    {
+        "n1": "effroi",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "épuisement",
+        "n2": "randonnée",
+        "det": 1
+    },
+    {
+        "n1": "congestion",
+        "n2": "nez",
+        "det": 1
+    },
+    {
+        "n1": "insomnie",
+        "n2": "café",
+        "det": 1
+    },
+    {
+        "n1": "oubli",
+        "n2": "distraction",
+        "det": 1
+    },
+    {
+        "n1": "méfiance",
+        "n2": "mensonge",
+        "det": 1
+    },
+    {
+        "n1": "dépendance",
+        "n2": "drogue",
+        "det": 1
+    },
+    {
+        "n1": "isolement",
+        "n2": "timidité",
+        "det": 1
+    },
+    {
+        "n1": "créativité",
+        "n2": "contrainte",
+        "det": 1
+    },
+    {
+        "n1": "innovation",
+        "n2": "nécessité",
+        "det": 1
+    },
+    {
+        "n1": "rouille",
+        "n2": "humidité",
+        "det": 1
+    },
+    {
+        "n1": "carie",
+        "n2": "sucre",
+        "det": 1
+    },
+    {
+        "n1": "nausée",
+        "n2": "mal de mer",
+        "det": 1
+    },
+    {
+        "n1": "vertige",
+        "n2": "hauteur",
+        "det": 1
+    },
+    {
+        "n1": "claustrophobie",
+        "n2": "enceinte",
+        "det": 1
+    },
+    {
+        "n1": "agoraphobie",
+        "n2": "espace",
+        "det": 1
+    },
+    {
+        "n1": "céphalée",
+        "n2": "déshydratation",
+        "det": 1
+    },
+    {
+        "n1": "courbature",
+        "n2": "effort",
+        "det": 1
+    },
+    {
+        "n1": "ampoule",
+        "n2": "friction",
+        "det": 1
+    },
+    {
+        "n1": "cicatrice",
+        "n2": "brûlure",
+        "det": 1
+    },
+    {
+        "n1": "bleu",
+        "n2": "choc",
+        "det": 1
+    },
+    {
+        "n1": "entorse",
+        "n2": "torsion",
+        "det": 1
+    },
+    {
+        "n1": "fracture",
+        "n2": "impact",
+        "det": 1
+    },
+    {
+        "n1": "commotion",
+        "n2": "traumatisme",
+        "det": 1
+    },
+    {
+        "n1": "immunité",
+        "n2": "vaccination",
+        "det": 1
+    },
+    {
+        "n1": "allergie",
+        "n2": "pollen",
+        "det": 1
+    },
+    {
+        "n1": "asthme",
+        "n2": "poussière",
+        "det": 1
+    },
+    {
+        "n1": "eczéma",
+        "n2": "stress",
+        "det": 1
+    },
+    {
+        "n1": "psoriasis",
+        "n2": "anxiété",
+        "det": 1
+    },
+    {
+        "n1": "vieillissement",
+        "n2": "soleil",
+        "det": 1
+    },
+    {
+        "n1": "ride",
+        "n2": "expression",
+        "det": 1
+    },
+    {
+        "n1": "cheveu blanc",
+        "n2": "âge",
+        "det": 1
+    },
+    {
+        "n1": "cataracte",
+        "n2": "temps",
+        "det": 1
+    },
+    {
+        "n1": "surdité",
+        "n2": "bruit",
+        "det": 1
+    },
+    {
+        "n1": "cécité",
+        "n2": "lumière",
+        "det": 1
+    },
+    {
+        "n1": "paralysie",
+        "n2": "lésion",
+        "det": 1
+    },
+    {
+        "n1": "spasmophilie",
+        "n2": "tétanie",
+        "det": 1
+    },
+    {
+        "n1": "tache",
+        "n2": "rouille",
+        "det": 1
+    },
+    {
+        "n1": "dégât",
+        "n2": "eaux",
+        "det": 2
+    },
+    {
+        "n1": "infiltration",
+        "n2": "fissure",
+        "det": 1
+    },
+    {
+        "n1": "efflorescence",
+        "n2": "salpêtre",
+        "det": 1
+    },
+    {
+        "n1": "gondolement",
+        "n2": "parquet",
+        "det": 1
+    },
+    {
+        "n1": "voilement",
+        "n2": "table",
+        "det": 1
+    },
+    {
+        "n1": "affaissement",
+        "n2": "fondation",
+        "det": 1
+    },
+    {
+        "n1": "électrocution",
+        "n2": "courtcircuit",
+        "det": 1
+    },
+    {
+        "n1": "incendie",
+        "n2": "électrique",
+        "det": 1
+    },
+    {
+        "n1": "explosion",
+        "n2": "surpression",
+        "det": 1
+    },
+    {
+        "n1": "fuite",
+        "n2": "corrosion",
+        "det": 1
+    },
+    {
+        "n1": "panne",
+        "n2": "surchauffe",
+        "det": 1
+    },
+    {
+        "n1": "bug",
+        "n2": "erreur",
+        "det": 1
+    },
+    {
+        "n1": "crash",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "perte",
+        "n2": "données",
+        "det": 0
+    },
+    {
+        "n1": "ralentissement",
+        "n2": "processeur",
+        "det": 1
+    },
+    {
+        "n1": "surcharge",
+        "n2": "serveur",
+        "det": 1
+    },
+    {
+        "n1": "saturation",
+        "n2": "mémoire",
+        "det": 1
+    },
+    {
+        "n1": "batterie faible",
+        "n2": "utilisation",
+        "det": 1
+    },
+    {
+        "n1": "éblouissement",
+        "n2": "phare",
+        "det": 1
+    },
+    {
+        "n1": "éclat",
+        "n2": "diamant",
+        "det": 1
+    },
+    {
+        "n1": "réverbération",
+        "n2": "soleil",
+        "det": 1
+    },
+    {
+        "n1": "ombre",
+        "n2": "corps",
+        "det": 1
+    },
+    {
+        "n1": "écho",
+        "n2": "vallée",
+        "det": 1
+    },
+    {
+        "n1": "résonance",
+        "n2": "salle",
+        "det": 1
+    },
+    {
+        "n1": "vibration",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "bourdonnement",
+        "n2": "abeille",
+        "det": 1
+    },
+    {
+        "n1": "grésillement",
+        "n2": "friture",
+        "det": 1
+    },
+    {
+        "n1": "crépitement",
+        "n2": "feu",
+        "det": 1
+    },
+    {
+        "n1": "grincement",
+        "n2": "porte",
+        "det": 1
+    },
+    {
+        "n1": "cliquetis",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "frisson",
+        "n2": "froid",
+        "det": 1
+    },
+    {
+        "n1": "transpiration",
+        "n2": "chaleur",
+        "det": 1
+    },
+    {
+        "n1": "chair",
+        "n2": "poule",
+        "det": 0
+    },
+    {
+        "n1": "hoquet",
+        "n2": "indigestion",
+        "det": 1
+    },
+    {
+        "n1": "éternuement",
+        "n2": "poivre",
+        "det": 1
+    },
+    {
+        "n1": "baillement",
+        "n2": "fatigue",
+        "det": 1
+    },
+    {
+        "n1": "larmoiement",
+        "n2": "oignon",
+        "det": 1
+    },
+    {
+        "n1": "saignement",
+        "n2": "nez de la sécheresse",
+        "det": 1
+    },
+    {
+        "n1": "enrouement",
+        "n2": "cri",
+        "det": 1
+    },
+    {
+        "n1": "aphonie",
+        "n2": "forçage",
+        "det": 1
+    },
+    {
+        "n1": "crampe",
+        "n2": "froid",
+        "det": 1
+    },
+    {
+        "n1": "engourdissement",
+        "n2": "posture",
+        "det": 1
+    },
+    {
+        "n1": "fourmis",
+        "n2": "compression",
+        "det": 1
+    },
+    {
+        "n1": "tendinite",
+        "n2": "mouvement",
+        "det": 1
+    },
+    {
+        "n1": "lombalgie",
+        "n2": "port",
+        "det": 1
+    },
+    {
+        "n1": "sciatique",
+        "n2": "hernie",
+        "det": 1
+    },
+    {
+        "n1": "migraine",
+        "n2": "lumière",
+        "det": 1
+    },
+    {
+        "n1": "dépression",
+        "n2": "échec",
+        "det": 1
+    },
+    {
+        "n1": "anxiété",
+        "n2": "incertitude",
+        "det": 1
+    },
+    {
+        "n1": "angoisse",
+        "n2": "nouvelle",
+        "det": 1
+    },
+    {
+        "n1": "phobie",
+        "n2": "araignée",
+        "det": 1
+    },
+    {
+        "n1": "TOC",
+        "n2": "obsession",
+        "det": 1
+    },
+    {
+        "n1": "burnout",
+        "n2": "travail",
+        "det": 1
+    },
+    {
+        "n1": "nostalgie",
+        "n2": "souvenir",
+        "det": 1
+    },
+    {
+        "n1": "jalousie",
+        "n2": "insécurité",
+        "det": 1
+    },
+    {
+        "n1": "colère",
+        "n2": "injustice",
+        "det": 1
+    },
+    {
+        "n1": "frustration",
+        "n2": "obstacle",
+        "det": 1
+    },
+    {
+        "n1": "Joie",
+        "n2": "noel",
+        "det": 0
+    },
+    {
+        "n1": "Dégâts",
+        "n2": "guerre",
+        "det": 1
+    },
+    {
+        "n1": "Fatigue",
+        "n2": "travail",
+        "det": 1
+    },
+    {
+        "n1": "Inondations",
+        "n2": "pluie",
+        "det": 1
+    },
+    {
+        "n1": "Crise",
+        "n2": "pandémie",
+        "det": 1
+    },
+    {
+        "n1": "Ruines",
+        "n2": "guerre",
+        "det": 1
+    },
+    {
+        "n1": "Blessures",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "Joie",
+        "n2": "victoire",
+        "det": 1
+    },
+    {
+        "n1": "Blessures",
+        "n2": "combat",
+        "det": 1
+    },
+    {
+        "n1": "Dégâts",
+        "n2": "incendie",
+        "det": 1
+    },
+    {
+        "n1": "Retards",
+        "n2": "trafic",
+        "det": 1
+    },
+    {
+        "n1": "Retards",
+        "n2": "circulation",
+        "det": 1
+    },
+    {
+        "n1": "Pollution",
+        "n2": "usine",
+        "det": 1
+    },
+    {
+        "n1": "Pertes",
+        "n2": "tempête",
+        "det": 1
+    },
+    {
+        "n1": "Crise",
+        "n2": "subprimes",
+        "det": 2
+    },
+    {
+        "n1": "Blessures",
+        "n2": "explosion",
+        "det": 1
+    },
+    {
+        "n1": "Inondations",
+        "n2": "fleuve",
+        "det": 1
+    },
+    {
+        "n1": "Dégâts",
+        "n2": "tremblement de terre",
+        "det": 1
+    },
+    {
+        "n1": "Blessures",
+        "n2": "choc",
+        "det": 1
+    },
+    {
+        "n1": "Inondations",
+        "n2": "mousson",
+        "det": 1
+    },
+    {
+        "n1": "Fermeture",
+        "n2": "confinement",
+        "det": 1
+    },
+    {
+        "n1": "Perturbations",
+        "n2": "grève",
+        "det": 1
+    },
+    {
+        "n1": "Dégâts",
+        "n2": "cyclone",
+        "det": 1
+    },
+    {
+        "n1": "Blessures",
+        "n2": "chute",
+        "det": 1
+    },
+    {
+        "n1": "Inondations",
+        "n2": "pluies",
+        "det": 2
+    },
+    {
+        "n1": "Crise",
+        "n2": "sécheresse",
+        "det": 1
+    },
+    {
+        "n1": "Coupures",
+        "n2": "électricité de l'orage",
+        "det": 0
+    },
+    {
+        "n1": "Nausées",
+        "n2": "traitement",
+        "det": 1
+    },
+    {
+        "n1": "Fatigue",
+        "n2": "maladie",
+        "det": 1
+    },
+    {
+        "n1": "Douleurs",
+        "n2": "opération",
+        "det": 1
+    },
+    {
+        "n1": "Tremblements",
+        "n2": "fièvre",
+        "det": 1
+    },
+    {
+        "n1": "Séquelles",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "Vomissements",
+        "n2": "grippe",
+        "det": 1
+    },
+    {
+        "n1": "Insomnie",
+        "n2": "stress",
+        "det": 1
+    },
+    {
+        "n1": "Courbatures",
+        "n2": "effort",
+        "det": 1
+    },
+    {
+        "n1": "Allergies",
+        "n2": "pollen",
+        "det": 1
+    },
+    {
+        "n1": "Brûlures",
+        "n2": "soleil",
+        "det": 1
+    },
+    {
+        "n1": "Maux",
+        "n2": "tête",
+        "det": 0
+    },
+    {
+        "n1": "Inflammations",
+        "n2": "blessure",
+        "det": 1
+    },
+    {
+        "n1": "Éruptions",
+        "n2": "varicelle",
+        "det": 1
+    },
+    {
+        "n1": "Cicatrices",
+        "n2": "chirurgie",
+        "det": 1
+    },
+    {
+        "n1": "Vertiges",
+        "n2": "fièvre",
+        "det": 1
+    },
+    {
+        "n1": "Essoufflement",
+        "n2": "toux",
+        "det": 1
+    },
+    {
+        "n1": "Fièvre",
+        "n2": "inflammation",
+        "det": 1
+    },
+    {
+        "n1": "Taches",
+        "n2": "rougeole",
+        "det": 1
+    },
+    {
+        "n1": "Douleurs",
+        "n2": "articulations de l'arthrite",
+        "det": 2
+    },
+    {
+        "n1": "Nausées",
+        "n2": "chimiothérapie",
+        "det": 1
+    },
+    {
+        "n1": "Plaies",
+        "n2": "chute",
+        "det": 1
+    },
+    {
+        "n1": "Tremblements",
+        "n2": "sevrage",
+        "det": 1
+    },
+    {
+        "n1": "Essoufflement",
+        "n2": "asthme",
+        "det": 1
+    },
+    {
+        "n1": "Gonflement",
+        "n2": "piqûre",
+        "det": 1
+    },
+    {
+        "n1": "Perte",
+        "n2": "appétit de la maladie",
+        "det": 0
+    },
+    {
+        "n1": "Cicatrices",
+        "n2": "opération",
+        "det": 1
+    },
+    {
+        "n1": "Infections",
+        "n2": "plaie",
+        "det": 1
+    },
+    {
+        "n1": "Maux",
+        "n2": "ventre",
+        "det": 0
+    },
+    {
+        "n1": "Toux",
+        "n2": "bronchite",
+        "det": 1
+    },
+    {
+        "n1": "Frissons",
+        "n2": "fièvre",
+        "det": 1
+    },
+    {
+        "n1": "Douleurs",
+        "n2": "dos de la fatigue",
+        "det": 1
+    },
+    {
+        "n1": "Déshydratation",
+        "n2": "diarrhée",
+        "det": 1
+    },
+    {
+        "n1": "Rougeurs",
+        "n2": "peau du soleil",
+        "det": 1
+    },
+    {
+        "n1": "Amaigrissement",
+        "n2": "maladie",
+        "det": 1
+    },
+    {
+        "n1": "Insomnie",
+        "n2": "anxiété",
+        "det": 1
+    },
+    {
+        "n1": "Douleurs",
+        "n2": "endométriose",
+        "det": 1
+    },
+    {
+        "n1": "Sécheresse",
+        "n2": "canicule",
+        "det": 1
+    },
+    {
+        "n1": "Érosion",
+        "n2": "sols de la déforestation",
+        "det": 2
+    },
+    {
+        "n1": "Incendies",
+        "n2": "forêt",
+        "det": 0
+    },
+    {
+        "n1": "Tempêtes",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "Crues",
+        "n2": "rivières",
+        "det": 2
+    },
+    {
+        "n1": "Pollution",
+        "n2": "air des usines",
+        "det": 1
+    },
+    {
+        "n1": "Montée",
+        "n2": "eaux du réchauffement climatique",
+        "det": 2
+    },
+    {
+        "n1": "Chômage",
+        "n2": "récession",
+        "det": 1
+    },
+    {
+        "n1": "Pertes financières",
+        "n2": "fraude",
+        "det": 1
+    },
+    {
+        "n1": "Émeutes",
+        "n2": "pauvreté",
+        "det": 1
+    },
+    {
+        "n1": "Exode",
+        "n2": "guerre",
+        "det": 1
+    },
+    {
+        "n1": "Tensions",
+        "n2": "conflit",
+        "det": 1
+    },
+    {
+        "n1": "Fermetures",
+        "n2": "usines de la délocalisation",
+        "det": 0
+    },
+    {
+        "n1": "Protestations",
+        "n2": "hausse des prix",
+        "det": 1
+    },
+    {
+        "n1": "Violence",
+        "n2": "inégalités",
+        "det": 2
+    },
+    {
+        "n1": "Solidarité",
+        "n2": "crise",
+        "det": 1
+    },
+    {
+        "n1": "Pertes",
+        "n2": "données du piratage",
+        "det": 0
+    },
+    {
+        "n1": "Fuites",
+        "n2": "informations de la cyberattaque",
+        "det": 0
+    },
+    {
+        "n1": "Interruption",
+        "n2": "panne d'électricité",
+        "det": 1
+    },
+    {
+        "n1": "Défaillances",
+        "n2": "mise à jour",
+        "det": 1
+    },
+    {
+        "n1": "Corruption",
+        "n2": "virus",
+        "det": 1
+    },
+    {
+        "n1": "Stress",
+        "n2": "étudiants",
+        "det": 2
+    },
+    {
+        "n1": "Fatigue",
+        "n2": "surmenage",
+        "det": 1
+    },
+    {
+        "n1": "Solitude",
+        "n2": "confinement",
+        "det": 1
+    },
+    {
+        "n1": "Tensions",
+        "n2": "surpeuplement",
+        "det": 1
+    },
+    {
+        "n1": "Retards",
+        "n2": "grève",
+        "det": 1
+    },
+    {
+        "n1": "Dégâts",
+        "n2": "verglas",
+        "det": 1
+    },
+    {
+        "n1": "Bouchons",
+        "n2": "trafic",
+        "det": 1
+    },
+    {
+        "n1": "Accidents",
+        "n2": "pluie",
+        "det": 1
+    },
+    {
+        "n1": "Perturbations",
+        "n2": "brouillard",
+        "det": 1
+    },
+    {
+        "n1": "Déviations",
+        "n2": "travaux",
+        "det": 2
+    },
+    {
+        "n1": "Saignements",
+        "n2": "blessure",
+        "det": 1
+    },
+    {
+        "n1": "retard",
+        "n2": "train",
+        "det": 1
+    },
+    {
+        "n1": "blessures",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "effets",
+        "n2": "pollution",
+        "det": 1
+    },
+    {
+        "n1": "traces",
+        "n2": "incendie",
+        "det": 1
+    },
+    {
+        "n1": "séquelles",
+        "n2": "maladie",
+        "det": 1
+    },
+    {
+        "n1": "conséquences",
+        "n2": "crise",
+        "det": 1
+    },
+    {
+        "n1": "résultats",
+        "n2": "enquête",
+        "det": 1
+    },
+    {
+        "n1": "fruits",
+        "n2": "travail",
+        "det": 1
+    },
+    {
+        "n1": "bénéfices",
+        "n2": "investissement",
+        "det": 1
+    },
+    {
+        "n1": "ravages",
+        "n2": "guerre",
+        "det": 1
+    },
+    {
+        "n1": "victimes",
+        "n2": "épidémie",
+        "det": 1
+    },
+    {
+        "n1": "impacts",
+        "n2": "réchauffement",
+        "det": 1
+    },
+    {
+        "n1": "répercussions",
+        "n2": "décision",
+        "det": 1
+    },
+    {
+        "n1": "dommages",
+        "n2": "inondation",
+        "det": 1
+    },
+    {
+        "n1": "échec",
+        "n2": "négociation",
+        "det": 1
+    },
+    {
+        "n1": "succès",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "ruines",
+        "n2": "tremblement",
+        "det": 1
+    },
+    {
+        "n1": "pertes",
+        "n2": "bataille",
+        "det": 1
+    },
+    {
+        "n1": "gains",
+        "n2": "fusion",
+        "det": 1
+    },
+    {
+        "n1": "retard",
+        "n2": "avion",
+        "det": 1
+    },
+    {
+        "n1": "blessures",
+        "n2": "accident de voiture",
+        "det": 1
+    },
+    {
+        "n1": "effets",
+        "n2": "changement climatique",
+        "det": 1
+    },
+    {
+        "n1": "traces",
+        "n2": "explosion",
+        "det": 1
+    },
+    {
+        "n1": "séquelles",
+        "n2": "incendie",
+        "det": 1
+    },
+    {
+        "n1": "conséquences",
+        "n2": "tremblement de terre",
+        "det": 1
+    },
+    {
+        "n1": "résultats",
+        "n2": "test",
+        "det": 1
+    },
+    {
+        "n1": "fruits",
+        "n2": "effort",
+        "det": 1
+    },
+    {
+        "n1": "ravages",
+        "n2": "épidémie",
+        "det": 1
+    },
+    {
+        "n1": "victimes",
+        "n2": "guerre",
+        "det": 1
+    },
+    {
+        "n1": "impacts",
+        "n2": "tempête",
+        "det": 1
+    },
+    {
+        "n1": "répercussions",
+        "n2": "changement",
+        "det": 1
+    },
+    {
+        "n1": "dommages",
+        "n2": "catastrophe",
+        "det": 1
+    },
+    {
+        "n1": "échec",
+        "n2": "opération",
+        "det": 1
+    },
+    {
+        "n1": "succès",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "ruines",
+        "n2": "séisme",
+        "det": 1
+    },
+    {
+        "n1": "pertes",
+        "n2": "armée",
+        "det": 1
+    },
+    {
+        "n1": "gains",
+        "n2": "secteur",
+        "det": 1
+    },
+    {
+        "n1": "dégâts",
+        "n2": "averse",
+        "det": 1
+    },
+    {
+        "n1": "retard",
+        "n2": "métro",
+        "det": 1
+    },
+    {
+        "n1": "blessures",
+        "n2": "chute",
+        "det": 1
+    },
+    {
+        "n1": "effets",
+        "n2": "sécheresse",
+        "det": 1
+    },
+    {
+        "n1": "traces",
+        "n2": "déraillement",
+        "det": 1
+    },
+    {
+        "n1": "séquelles",
+        "n2": "accident médical",
+        "det": 1
+    },
+    {
+        "n1": "conséquences",
+        "n2": "conflit",
+        "det": 1
+    },
+    {
+        "n1": "résultats",
+        "n2": "expérience",
+        "det": 1
+    },
+    {
+        "n1": "fruits",
+        "n2": "recherche",
+        "det": 1
+    },
+    {
+        "n1": "bénéfices",
+        "n2": "vente",
+        "det": 1
+    },
+    {
+        "n1": "ravages",
+        "n2": "feu",
+        "det": 1
+    },
+    {
+        "n1": "victimes",
+        "n2": "tremblement",
+        "det": 1
+    },
+    {
+        "n1": "impacts",
+        "n2": "séisme",
+        "det": 1
+    },
+    {
+        "n1": "répercussions",
+        "n2": "erreur",
+        "det": 1
+    },
+    {
+        "n1": "dommages",
+        "n2": "cyclone",
+        "det": 1
+    },
+    {
+        "n1": "échec",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "succès",
+        "n2": "lancement",
+        "det": 1
+    },
+    {
+        "n1": "ruines",
+        "n2": "édifice",
+        "det": 1
+    },
+    {
+        "n1": "pertes",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "gains",
+        "n2": "commerce",
+        "det": 1
+    },
+    {
+        "n1": "dégâts",
+        "n2": "avalanche",
+        "det": 1
+    },
+    {
+        "n1": "retard",
+        "n2": "bateau",
+        "det": 1
+    },
+    {
+        "n1": "blessures",
+        "n2": "joueur",
+        "det": 1
+    },
+    {
+        "n1": "effets",
+        "n2": "virus",
+        "det": 1
+    },
+    {
+        "n1": "traces",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "séquelles",
+        "n2": "tempête",
+        "det": 1
+    },
+    {
+        "n1": "conséquences",
+        "n2": "tremblement",
+        "det": 1
+    },
+    {
+        "n1": "résultats",
+        "n2": "match",
+        "det": 1
+    },
+    {
+        "n1": "fruits",
+        "n2": "économie",
+        "det": 1
+    },
+    {
+        "n1": "bénéfices",
+        "n2": "contrat",
+        "det": 1
+    },
+    {
+        "n1": "ravages",
+        "n2": "tsunami",
+        "det": 1
+    },
+    {
+        "n1": "victimes",
+        "n2": "explosion",
+        "det": 1
+    },
+    {
+        "n1": "impacts",
+        "n2": "déraillement",
+        "det": 1
+    },
+    {
+        "n1": "répercussions",
+        "n2": "grève",
+        "det": 1
+    },
+    {
+        "n1": "dommages",
+        "n2": "incident",
+        "det": 1
+    },
+    {
+        "n1": "succès",
+        "n2": "événement",
+        "det": 1
+    },
+    {
+        "n1": "ruines",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "pertes",
+        "n2": "marché",
+        "det": 1
+    },
+    {
+        "n1": "gains",
+        "n2": "pari",
+        "det": 1
+    },
+    {
+        "n1": "dégâts",
+        "n2": "orage",
+        "det": 1
+    },
+    {
+        "n1": "retard",
+        "n2": "bus",
+        "det": 1
+    },
+    {
+        "n1": "blessures",
+        "n2": "accident domestique",
+        "det": 1
+    },
+    {
+        "n1": "effets",
+        "n2": "catastrophe",
+        "det": 1
+    },
+    {
+        "n1": "traces",
+        "n2": "vandalisme",
+        "det": 1
+    },
+    {
+        "n1": "conséquences",
+        "n2": "tempête",
+        "det": 1
+    },
+    {
+        "n1": "résultats",
+        "n2": "vote",
+        "det": 1
+    },
+    {
+        "n1": "fruits",
+        "n2": "investissement",
+        "det": 1
+    },
+    {
+        "n1": "bénéfices",
+        "n2": "fusion",
+        "det": 1
+    },
+    {
+        "n1": "ravages",
+        "n2": "accident",
+        "det": 1
+    },
+    {
+        "n1": "victimes",
+        "n2": "séisme",
+        "det": 1
+    },
+    {
+        "n1": "impacts",
+        "n2": "cyclone",
+        "det": 1
+    },
+    {
+        "n1": "répercussions",
+        "n2": "retard",
+        "det": 1
+    },
+    {
+        "n1": "dommages",
+        "n2": "feu",
+        "det": 1
+    },
+    {
+        "n1": "échec",
+        "n2": "expérience",
+        "det": 1
+    },
+    {
+        "n1": "succès",
+        "n2": "tournoi",
+        "det": 1
+    },
+    {
+        "n1": "ruines",
+        "n2": "ville",
+        "det": 1
+    },
+    {
+        "n1": "pertes",
+        "n2": "conflit",
+        "det": 1
+    },
+    {
+        "n1": "gains",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "dégâts",
+        "n2": "tremblement",
+        "det": 1
+    },
+    {
+        "n1": "retard",
+        "n2": "chantier",
+        "det": 1
+    },
+    {
+        "n1": "blessures",
+        "n2": "accident de chantier",
+        "det": 1
+    },
+    {
+        "n1": "effets",
+        "n2": "pollution industrielle",
+        "det": 1
+    }
+]

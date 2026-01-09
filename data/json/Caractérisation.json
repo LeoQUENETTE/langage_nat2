@@ -1,0 +1,4532 @@
+[
+    {
+        "n1": "sagesse",
+        "n2": "vieillard",
+        "det": 1
+    },
+    {
+        "n1": "bonté",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "méchanceté",
+        "n2": "tyran",
+        "det": 1
+    },
+    {
+        "n1": "prudence",
+        "n2": "conducteur",
+        "det": 1
+    },
+    {
+        "n1": "générosité",
+        "n2": "donateur",
+        "det": 1
+    },
+    {
+        "n1": "politesse",
+        "n2": "élève",
+        "det": 1
+    },
+    {
+        "n1": "curiosité",
+        "n2": "chercheur",
+        "det": 1
+    },
+    {
+        "n1": "intelligence",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "beauté",
+        "n2": "fleur",
+        "det": 1
+    },
+    {
+        "n1": "laideur",
+        "n2": "monstre",
+        "det": 1
+    },
+    {
+        "n1": "blancheur",
+        "n2": "neige",
+        "det": 1
+    },
+    {
+        "n1": "dureté",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "souplesse",
+        "n2": "corps",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "soleil",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "joie",
+        "n2": "mère",
+        "det": 1
+    },
+    {
+        "n1": "peur",
+        "n2": "soldat",
+        "det": 1
+    },
+    {
+        "n1": "colère",
+        "n2": "roi",
+        "det": 1
+    },
+    {
+        "n1": "jalousie",
+        "n2": "mari",
+        "det": 1
+    },
+    {
+        "n1": "noblesse",
+        "n2": "duc",
+        "det": 1
+    },
+    {
+        "n1": "richesse",
+        "n2": "marchand",
+        "det": 1
+    },
+    {
+        "n1": "pauvreté",
+        "n2": "mendiant",
+        "det": 1
+    },
+    {
+        "n1": "célébrité",
+        "n2": "acteur",
+        "det": 1
+    },
+    {
+        "n1": "modestie",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "lenteur",
+        "n2": "pas",
+        "det": 1
+    },
+    {
+        "n1": "rapidité",
+        "n2": "train",
+        "det": 1
+    },
+    {
+        "n1": "discrétion",
+        "n2": "témoin",
+        "det": 1
+    },
+    {
+        "n1": "violence",
+        "n2": "tempête",
+        "det": 1
+    },
+    {
+        "n1": "constance",
+        "n2": "ami",
+        "det": 1
+    },
+    {
+        "n1": "pâleur",
+        "n2": "aube",
+        "det": 1
+    },
+    {
+        "n1": "ferveur",
+        "n2": "croyant",
+        "det": 1
+    },
+    {
+        "n1": "fierté",
+        "n2": "lion",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "soir",
+        "det": 1
+    },
+    {
+        "n1": "lenteur",
+        "n2": "fleuve",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "regard",
+        "det": 1
+    },
+    {
+        "n1": "mélancolie",
+        "n2": "poète",
+        "det": 1
+    },
+    {
+        "n1": "rudesse",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "chêne",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "rose",
+        "det": 1
+    },
+    {
+        "n1": "vanité",
+        "n2": "hommes",
+        "det": 2
+    },
+    {
+        "n1": "pureté",
+        "n2": "âme",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "silence",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "destin",
+        "det": 1
+    },
+    {
+        "n1": "constance",
+        "n2": "cœur",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "esprit",
+        "det": 1
+    },
+    {
+        "n1": "lucidité",
+        "n2": "penseur",
+        "det": 1
+    },
+    {
+        "n1": "solitude",
+        "n2": "sage",
+        "det": 1
+    },
+    {
+        "n1": "patience",
+        "n2": "temps",
+        "det": 1
+    },
+    {
+        "n1": "ombre",
+        "n2": "mémoire",
+        "det": 1
+    },
+    {
+        "n1": "clémence",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "matin",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "regard",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "lenteur",
+        "n2": "temps",
+        "det": 1
+    },
+    {
+        "n1": "pureté",
+        "n2": "neige",
+        "det": 1
+    },
+    {
+        "n1": "sagesse",
+        "n2": "silence",
+        "det": 1
+    },
+    {
+        "n1": "tendresse",
+        "n2": "geste",
+        "det": 1
+    },
+    {
+        "n1": "transparence",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "violence",
+        "n2": "cri",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "cœur",
+        "det": 1
+    },
+    {
+        "n1": "lourdeur",
+        "n2": "sommeil",
+        "det": 1
+    },
+    {
+        "n1": "froideur",
+        "n2": "pierre",
+        "det": 1
+    },
+    {
+        "n1": "lumière",
+        "n2": "souvenir",
+        "det": 1
+    },
+    {
+        "n1": "beauté",
+        "n2": "geste",
+        "det": 1
+    },
+    {
+        "n1": "justesse",
+        "n2": "parole",
+        "det": 1
+    },
+    {
+        "n1": "noirceur",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "vivacité",
+        "n2": "esprit",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "sacrifice",
+        "det": 1
+    },
+    {
+        "n1": "finesse",
+        "n2": "esprit",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "regard",
+        "det": 1
+    },
+    {
+        "n1": "noblesse",
+        "n2": "geste",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "pluie",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "souvenir",
+        "det": 1
+    },
+    {
+        "n1": "pureté",
+        "n2": "son",
+        "det": 1
+    },
+    {
+        "n1": "limpidité",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "rudesse",
+        "n2": "travail",
+        "det": 1
+    },
+    {
+        "n1": "gravité",
+        "n2": "silence",
+        "det": 1
+    },
+    {
+        "n1": "splendeur",
+        "n2": "monde",
+        "det": 1
+    },
+    {
+        "n1": "ferveur",
+        "n2": "peuple",
+        "det": 1
+    },
+    {
+        "n1": "solidité",
+        "n2": "pont",
+        "det": 1
+    },
+    {
+        "n1": "résistance",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "verre",
+        "det": 1
+    },
+    {
+        "n1": "dureté",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "propreté",
+        "n2": "cuisine",
+        "det": 1
+    },
+    {
+        "n1": "saleté",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "écran",
+        "det": 1
+    },
+    {
+        "n1": "luminosité",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "légèreté",
+        "n2": "tissu",
+        "det": 1
+    },
+    {
+        "n1": "vitesse",
+        "n2": "machine",
+        "det": 1
+    },
+    {
+        "n1": "ponctualité",
+        "n2": "employé",
+        "det": 1
+    },
+    {
+        "n1": "politesse",
+        "n2": "client",
+        "det": 1
+    },
+    {
+        "n1": "discrétion",
+        "n2": "secrétaire",
+        "det": 1
+    },
+    {
+        "n1": "patience",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "rigueur",
+        "n2": "juge",
+        "det": 1
+    },
+    {
+        "n1": "maladresse",
+        "n2": "apprenti",
+        "det": 1
+    },
+    {
+        "n1": "compétence",
+        "n2": "médecin",
+        "det": 1
+    },
+    {
+        "n1": "franchise",
+        "n2": "collègue",
+        "det": 1
+    },
+    {
+        "n1": "fidélité",
+        "n2": "partenaire",
+        "det": 1
+    },
+    {
+        "n1": "responsabilité",
+        "n2": "chef",
+        "det": 1
+    },
+    {
+        "n1": "logique",
+        "n2": "raisonnement",
+        "det": 1
+    },
+    {
+        "n1": "cohérence",
+        "n2": "discours",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "explication",
+        "det": 1
+    },
+    {
+        "n1": "pertinence",
+        "n2": "remarque",
+        "det": 1
+    },
+    {
+        "n1": "justesse",
+        "n2": "analyse",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "réflexion",
+        "det": 1
+    },
+    {
+        "n1": "précision",
+        "n2": "langage",
+        "det": 1
+    },
+    {
+        "n1": "neutralité",
+        "n2": "ton",
+        "det": 1
+    },
+    {
+        "n1": "rigueur",
+        "n2": "méthode",
+        "det": 1
+    },
+    {
+        "n1": "constance",
+        "n2": "effort",
+        "det": 1
+    },
+    {
+        "n1": "fiabilité",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "précision",
+        "n2": "mesure",
+        "det": 1
+    },
+    {
+        "n1": "rapidité",
+        "n2": "calcul",
+        "det": 1
+    },
+    {
+        "n1": "stabilité",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "complexité",
+        "n2": "réseau",
+        "det": 1
+    },
+    {
+        "n1": "puissance",
+        "n2": "ordinateur",
+        "det": 1
+    },
+    {
+        "n1": "résistance",
+        "n2": "matériau",
+        "det": 1
+    },
+    {
+        "n1": "sensibilité",
+        "n2": "capteur",
+        "det": 1
+    },
+    {
+        "n1": "solidité",
+        "n2": "structure",
+        "det": 1
+    },
+    {
+        "n1": "durabilité",
+        "n2": "produit",
+        "det": 1
+    },
+    {
+        "n1": "conductivité",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "flexibilité",
+        "n2": "câble",
+        "det": 1
+    },
+    {
+        "n1": "viscosité",
+        "n2": "liquide",
+        "det": 1
+    },
+    {
+        "n1": "pureté",
+        "n2": "gaz",
+        "det": 1
+    },
+    {
+        "n1": "netteté",
+        "n2": "image",
+        "det": 1
+    },
+    {
+        "n1": "productivité",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "rentabilité",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "compétitivité",
+        "n2": "marché",
+        "det": 1
+    },
+    {
+        "n1": "stabilité",
+        "n2": "emploi",
+        "det": 1
+    },
+    {
+        "n1": "rigueur",
+        "n2": "contrôle",
+        "det": 1
+    },
+    {
+        "n1": "qualité",
+        "n2": "service",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "rapport",
+        "det": 1
+    },
+    {
+        "n1": "pertinence",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "fiabilité",
+        "n2": "partenaire",
+        "det": 1
+    },
+    {
+        "n1": "transparence",
+        "n2": "gestion",
+        "det": 1
+    },
+    {
+        "n1": "croissance",
+        "n2": "secteur",
+        "det": 1
+    },
+    {
+        "n1": "baisse",
+        "n2": "coûts",
+        "det": 2
+    },
+    {
+        "n1": "hausse",
+        "n2": "prix",
+        "det": 2
+    },
+    {
+        "n1": "sécurité",
+        "n2": "données",
+        "det": 2
+    },
+    {
+        "n1": "conformité",
+        "n2": "dossier",
+        "det": 1
+    },
+    {
+        "n1": "régularité",
+        "n2": "paiement",
+        "det": 1
+    },
+    {
+        "n1": "validité",
+        "n2": "contrat",
+        "det": 1
+    },
+    {
+        "n1": "précision",
+        "n2": "budget",
+        "det": 1
+    },
+    {
+        "n1": "légalité",
+        "n2": "procédure",
+        "det": 1
+    },
+    {
+        "n1": "stabilité",
+        "n2": "monnaie",
+        "det": 1
+    },
+    {
+        "n1": "fatigue",
+        "n2": "ouvrier",
+        "det": 1
+    },
+    {
+        "n1": "nervosité",
+        "n2": "conducteur",
+        "det": 1
+    },
+    {
+        "n1": "maladresse",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "timidité",
+        "n2": "élève",
+        "det": 1
+    },
+    {
+        "n1": "curiosité",
+        "n2": "visiteur",
+        "det": 1
+    },
+    {
+        "n1": "ponctualité",
+        "n2": "facteur",
+        "det": 1
+    },
+    {
+        "n1": "lenteur",
+        "n2": "serveur",
+        "det": 1
+    },
+    {
+        "n1": "discrétion",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "gentillesse",
+        "n2": "vendeuse",
+        "det": 1
+    },
+    {
+        "n1": "colère",
+        "n2": "client",
+        "det": 1
+    },
+    {
+        "n1": "prudence",
+        "n2": "stratège",
+        "det": 1
+    },
+    {
+        "n1": "confiance",
+        "n2": "chef",
+        "det": 1
+    },
+    {
+        "n1": "patience",
+        "n2": "mère",
+        "det": 1
+    },
+    {
+        "n1": "fierté",
+        "n2": "gagnant",
+        "det": 1
+    },
+    {
+        "n1": "peur",
+        "n2": "échec",
+        "det": 1
+    },
+    {
+        "n1": "lucidité",
+        "n2": "témoin",
+        "det": 1
+    },
+    {
+        "n1": "naïveté",
+        "n2": "débutant",
+        "det": 1
+    },
+    {
+        "n1": "volonté",
+        "n2": "sportif",
+        "det": 1
+    },
+    {
+        "n1": "modestie",
+        "n2": "savant",
+        "det": 1
+    },
+    {
+        "n1": "persévérance",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "solidarité",
+        "n2": "groupe",
+        "det": 1
+    },
+    {
+        "n1": "tolérance",
+        "n2": "citoyen",
+        "det": 1
+    },
+    {
+        "n1": "méfiance",
+        "n2": "public",
+        "det": 1
+    },
+    {
+        "n1": "complicité",
+        "n2": "couple",
+        "det": 1
+    },
+    {
+        "n1": "rivalité",
+        "n2": "frères",
+        "det": 2
+    },
+    {
+        "n1": "confiance",
+        "n2": "amis",
+        "det": 2
+    },
+    {
+        "n1": "jalousie",
+        "n2": "collègue",
+        "det": 1
+    },
+    {
+        "n1": "coopération",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "bienveillance",
+        "n2": "supérieur",
+        "det": 1
+    },
+    {
+        "n1": "justice",
+        "n2": "médiateur",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "raisonnement",
+        "det": 1
+    },
+    {
+        "n1": "logique",
+        "n2": "argument",
+        "det": 1
+    },
+    {
+        "n1": "justesse",
+        "n2": "décision",
+        "det": 1
+    },
+    {
+        "n1": "rapidité",
+        "n2": "réaction",
+        "det": 1
+    },
+    {
+        "n1": "pertinence",
+        "n2": "question",
+        "det": 1
+    },
+    {
+        "n1": "rigueur",
+        "n2": "raisonnement",
+        "det": 1
+    },
+    {
+        "n1": "précision",
+        "n2": "vocabulaire",
+        "det": 1
+    },
+    {
+        "n1": "fatigue",
+        "n2": "voyageur",
+        "det": 1
+    },
+    {
+        "n1": "colère",
+        "n2": "employé",
+        "det": 1
+    },
+    {
+        "n1": "rapidité",
+        "n2": "serveur",
+        "det": 1
+    },
+    {
+        "n1": "gentillesse",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "concentration",
+        "n2": "élève",
+        "det": 1
+    },
+    {
+        "n1": "politesse",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "curiosité",
+        "n2": "touriste",
+        "det": 1
+    },
+    {
+        "n1": "prudence",
+        "n2": "cycliste",
+        "det": 1
+    },
+    {
+        "n1": "persévérance",
+        "n2": "athlète",
+        "det": 1
+    },
+    {
+        "n1": "distraction",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "fierté",
+        "n2": "parent",
+        "det": 1
+    },
+    {
+        "n1": "patience",
+        "n2": "médecin",
+        "det": 1
+    },
+    {
+        "n1": "confiance",
+        "n2": "client",
+        "det": 1
+    },
+    {
+        "n1": "timidité",
+        "n2": "stagiaire",
+        "det": 1
+    },
+    {
+        "n1": "sournoiserie",
+        "n2": "politicien",
+        "det": 1
+    },
+    {
+        "n1": "générosité",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "violence",
+        "n2": "crime",
+        "det": 1
+    },
+    {
+        "n1": "lenteur",
+        "n2": "service",
+        "det": 1
+    },
+    {
+        "n1": "politesse",
+        "n2": "serveur",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "poème",
+        "det": 1
+    },
+    {
+        "n1": "cruauté",
+        "n2": "tyran",
+        "det": 1
+    },
+    {
+        "n1": "maladresse",
+        "n2": "savant",
+        "det": 1
+    },
+    {
+        "n1": "sournoiserie",
+        "n2": "héros",
+        "det": 1
+    },
+    {
+        "n1": "sournoiserie",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "maladresse",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "générosité",
+        "n2": "donatrice",
+        "det": 1
+    },
+    {
+        "n1": "intelligence",
+        "n2": "élève",
+        "det": 1
+    },
+    {
+        "n1": "patience",
+        "n2": "jardinier",
+        "det": 1
+    },
+    {
+        "n1": "arrogance",
+        "n2": "dirigeant",
+        "det": 1
+    },
+    {
+        "n1": "gentillesse",
+        "n2": "voisine",
+        "det": 1
+    },
+    {
+        "n1": "naïveté",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "brutalité",
+        "n2": "criminel",
+        "det": 1
+    },
+    {
+        "n1": "élégance",
+        "n2": "danseuse",
+        "det": 1
+    },
+    {
+        "n1": "avarice",
+        "n2": "avare",
+        "det": 1
+    },
+    {
+        "n1": "lâcheté",
+        "n2": "traître",
+        "det": 1
+    },
+    {
+        "n1": "persévérance",
+        "n2": "chercheur",
+        "det": 1
+    },
+    {
+        "n1": "témérité",
+        "n2": "aventurier",
+        "det": 1
+    },
+    {
+        "n1": "modestie",
+        "n2": "champion",
+        "det": 1
+    },
+    {
+        "n1": "curiosité",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "jalousie",
+        "n2": "rival",
+        "det": 1
+    },
+    {
+        "n1": "franchise",
+        "n2": "témoin",
+        "det": 1
+    },
+    {
+        "n1": "hypocrisie",
+        "n2": "menteur",
+        "det": 1
+    },
+    {
+        "n1": "audace",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "fin",
+        "det": 1
+    },
+    {
+        "n1": "joie",
+        "n2": "victoire",
+        "det": 1
+    },
+    {
+        "n1": "peur",
+        "n2": "inconnu",
+        "det": 1
+    },
+    {
+        "n1": "colère",
+        "n2": "public",
+        "det": 1
+    },
+    {
+        "n1": "calme",
+        "n2": "sage",
+        "det": 1
+    },
+    {
+        "n1": "folie",
+        "n2": "génie",
+        "det": 1
+    },
+    {
+        "n1": "violence",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "miel",
+        "det": 1
+    },
+    {
+        "n1": "amertume",
+        "n2": "défaite",
+        "det": 1
+    },
+    {
+        "n1": "froideur",
+        "n2": "accueil",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "amitié",
+        "det": 1
+    },
+    {
+        "n1": "légèreté",
+        "n2": "plume",
+        "det": 1
+    },
+    {
+        "n1": "lourdeur",
+        "n2": "tâche",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "pensée",
+        "det": 1
+    },
+    {
+        "n1": "superficialité",
+        "n2": "discours",
+        "det": 1
+    },
+    {
+        "n1": "complexité",
+        "n2": "problème",
+        "det": 1
+    },
+    {
+        "n1": "simplicité",
+        "n2": "solution",
+        "det": 1
+    },
+    {
+        "n1": "obscurité",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "luminosité",
+        "n2": "écran",
+        "det": 1
+    },
+    {
+        "n1": "opacité",
+        "n2": "verre",
+        "det": 1
+    },
+    {
+        "n1": "solidité",
+        "n2": "roc",
+        "det": 1
+    },
+    {
+        "n1": "souplesse",
+        "n2": "gymnaste",
+        "det": 1
+    },
+    {
+        "n1": "rigidité",
+        "n2": "règle",
+        "det": 1
+    },
+    {
+        "n1": "pureté",
+        "n2": "air",
+        "det": 1
+    },
+    {
+        "n1": "saleté",
+        "n2": "rue",
+        "det": 1
+    },
+    {
+        "n1": "bassesse",
+        "n2": "acte",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "âme",
+        "det": 0
+    },
+    {
+        "n1": "petitesse",
+        "n2": "esprit",
+        "det": 0
+    },
+    {
+        "n1": "superficialité",
+        "n2": "apparences",
+        "det": 2
+    },
+    {
+        "n1": "authenticité",
+        "n2": "sentiment",
+        "det": 1
+    },
+    {
+        "n1": "artificialité",
+        "n2": "sourire",
+        "det": 1
+    },
+    {
+        "n1": "spontanéité",
+        "n2": "réaction",
+        "det": 1
+    },
+    {
+        "n1": "calcul",
+        "n2": "réponse",
+        "det": 1
+    },
+    {
+        "n1": "naturel",
+        "n2": "démarche",
+        "det": 1
+    },
+    {
+        "n1": "affectation",
+        "n2": "manières",
+        "det": 2
+    },
+    {
+        "n1": "discrétion",
+        "n2": "serviteur",
+        "det": 1
+    },
+    {
+        "n1": "ostentation",
+        "n2": "parvenu",
+        "det": 1
+    },
+    {
+        "n1": "retenue",
+        "n2": "jeune fille",
+        "det": 1
+    },
+    {
+        "n1": "effronterie",
+        "n2": "garnement",
+        "det": 1
+    },
+    {
+        "n1": "délicatesse",
+        "n2": "porcelainier",
+        "det": 1
+    },
+    {
+        "n1": "précision",
+        "n2": "horloger",
+        "det": 1
+    },
+    {
+        "n1": "approximation",
+        "n2": "amateur",
+        "det": 1
+    },
+    {
+        "n1": "rigueur",
+        "n2": "scientifique",
+        "det": 1
+    },
+    {
+        "n1": "laxisme",
+        "n2": "éducateur",
+        "det": 1
+    },
+    {
+        "n1": "raideur",
+        "n2": "débutant",
+        "det": 1
+    },
+    {
+        "n1": "agilité",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "lourdeur",
+        "n2": "ours",
+        "det": 1
+    },
+    {
+        "n1": "vivacité",
+        "n2": "écureuil",
+        "det": 1
+    },
+    {
+        "n1": "lenteur",
+        "n2": "tortue",
+        "det": 1
+    },
+    {
+        "n1": "régularité",
+        "n2": "métronome",
+        "det": 1
+    },
+    {
+        "n1": "irrégularité",
+        "n2": "pouls",
+        "det": 1
+    },
+    {
+        "n1": "inconstance",
+        "n2": "amant",
+        "det": 1
+    },
+    {
+        "n1": "fiabilité",
+        "n2": "outil",
+        "det": 1
+    },
+    {
+        "n1": "défaillance",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "robustesse",
+        "n2": "matériau",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "structure",
+        "det": 1
+    },
+    {
+        "n1": "turbidité",
+        "n2": "liquide",
+        "det": 1
+    },
+    {
+        "n1": "limpidité",
+        "n2": "style",
+        "det": 1
+    },
+    {
+        "n1": "obscurité",
+        "n2": "prose",
+        "det": 1
+    },
+    {
+        "n1": "harmonie",
+        "n2": "couleurs",
+        "det": 2
+    },
+    {
+        "n1": "dissonance",
+        "n2": "sons",
+        "det": 2
+    },
+    {
+        "n1": "mélodie",
+        "n2": "voix",
+        "det": 1
+    },
+    {
+        "n1": "cacophonie",
+        "n2": "bruits",
+        "det": 2
+    },
+    {
+        "n1": "âpreté",
+        "n2": "vin",
+        "det": 1
+    },
+    {
+        "n1": "fadeur",
+        "n2": "soupe",
+        "det": 1
+    },
+    {
+        "n1": "sapidité",
+        "n2": "plat",
+        "det": 1
+    },
+    {
+        "n1": "fluidité",
+        "n2": "mouvement",
+        "det": 1
+    },
+    {
+        "n1": "saccade",
+        "n2": "geste",
+        "det": 1
+    },
+    {
+        "n1": "froideur",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "vivacité",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "tendresse",
+        "n2": "mère",
+        "det": 1
+    },
+    {
+        "n1": "puissance",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "bonté",
+        "n2": "cœur",
+        "det": 1
+    },
+    {
+        "n1": "fermeté",
+        "n2": "main",
+        "det": 1
+    },
+    {
+        "n1": "pureté",
+        "n2": "cristal",
+        "det": 1
+    },
+    {
+        "n1": "malice",
+        "n2": "renard",
+        "det": 1
+    },
+    {
+        "n1": "rapidité",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "intensité",
+        "n2": "regard",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "silence",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "foyer",
+        "det": 1
+    },
+    {
+        "n1": "verdeur",
+        "n2": "printemps",
+        "det": 1
+    },
+    {
+        "n1": "éclat",
+        "n2": "diamant",
+        "det": 1
+    },
+    {
+        "n1": "sagesse",
+        "n2": "moine",
+        "det": 1
+    },
+    {
+        "n1": "intensité",
+        "n2": "lumière",
+        "det": 1
+    },
+    {
+        "n1": "éclat",
+        "n2": "sourire",
+        "det": 1
+    },
+    {
+        "n1": "finesse",
+        "n2": "trait",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "son",
+        "det": 1
+    },
+    {
+        "n1": "amertume",
+        "n2": "café",
+        "det": 1
+    },
+    {
+        "n1": "courage",
+        "n2": "soldat",
+        "det": 1
+    },
+    {
+        "n1": "rudesse",
+        "n2": "climat",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "fleuve",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "pureté",
+        "n2": "chant",
+        "det": 1
+    },
+    {
+        "n1": "richesse",
+        "n2": "langage",
+        "det": 1
+    },
+    {
+        "n1": "beauté",
+        "n2": "coucher",
+        "det": 1
+    },
+    {
+        "n1": "vivacité",
+        "n2": "flamme",
+        "det": 1
+    },
+    {
+        "n1": "intensité",
+        "n2": "parfum",
+        "det": 1
+    },
+    {
+        "n1": "froideur",
+        "n2": "regard",
+        "det": 1
+    },
+    {
+        "n1": "immensité",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "acidité",
+        "n2": "citron",
+        "det": 1
+    },
+    {
+        "n1": "sécheresse",
+        "n2": "désert",
+        "det": 1
+    },
+    {
+        "n1": "humidité",
+        "n2": "forêt",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "ombre",
+        "det": 1
+    },
+    {
+        "n1": "austérité",
+        "n2": "monastère",
+        "det": 1
+    },
+    {
+        "n1": "luxuriance",
+        "n2": "jungle",
+        "det": 1
+    },
+    {
+        "n1": "sévérité",
+        "n2": "juge",
+        "det": 1
+    },
+    {
+        "n1": "bienveillance",
+        "n2": "maître",
+        "det": 1
+    },
+    {
+        "n1": "toxicité",
+        "n2": "champignon",
+        "det": 1
+    },
+    {
+        "n1": "fertilité",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "stérilité",
+        "n2": "terre",
+        "det": 1
+    },
+    {
+        "n1": "volatilité",
+        "n2": "essence",
+        "det": 1
+    },
+    {
+        "n1": "viscosité",
+        "n2": "huile",
+        "det": 1
+    },
+    {
+        "n1": "porosité",
+        "n2": "pierre ponce",
+        "det": 1
+    },
+    {
+        "n1": "malléabilité",
+        "n2": "argile",
+        "det": 1
+    },
+    {
+        "n1": "ductilité",
+        "n2": "or",
+        "det": 1
+    },
+    {
+        "n1": "dureté",
+        "n2": "diamant",
+        "det": 1
+    },
+    {
+        "n1": "flexibilité",
+        "n2": "roseau",
+        "det": 1
+    },
+    {
+        "n1": "résilience",
+        "n2": "survivant",
+        "det": 1
+    },
+    {
+        "n1": "versatilité",
+        "n2": "acteur",
+        "det": 1
+    },
+    {
+        "n1": "crédulité",
+        "n2": "naïf",
+        "det": 1
+    },
+    {
+        "n1": "méfiance",
+        "n2": "paranoïaque",
+        "det": 1
+    },
+    {
+        "n1": "témérité",
+        "n2": "cascadeur",
+        "det": 1
+    },
+    {
+        "n1": "prudence",
+        "n2": "banquier",
+        "det": 1
+    },
+    {
+        "n1": "opiniâtreté",
+        "n2": "mule",
+        "det": 1
+    },
+    {
+        "n1": "docilité",
+        "n2": "agneau",
+        "det": 1
+    },
+    {
+        "n1": "férocité",
+        "n2": "tigre",
+        "det": 1
+    },
+    {
+        "n1": "placidité",
+        "n2": "vache",
+        "det": 1
+    },
+    {
+        "n1": "turbulence",
+        "n2": "torrent",
+        "det": 1
+    },
+    {
+        "n1": "quiétude",
+        "n2": "lac",
+        "det": 1
+    },
+    {
+        "n1": "âpreté",
+        "n2": "critique",
+        "det": 1
+    },
+    {
+        "n1": "bienveillance",
+        "n2": "regard",
+        "det": 1
+    },
+    {
+        "n1": "vacuité",
+        "n2": "discours",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "abîme",
+        "det": 1
+    },
+    {
+        "n1": "futilité",
+        "n2": "effort",
+        "det": 1
+    },
+    {
+        "n1": "efficacité",
+        "n2": "méthode",
+        "det": 1
+    },
+    {
+        "n1": "vanité",
+        "n2": "mannequin",
+        "det": 1
+    },
+    {
+        "n1": "humilité",
+        "n2": "saint",
+        "det": 1
+    },
+    {
+        "n1": "éloquence",
+        "n2": "orateur",
+        "det": 1
+    },
+    {
+        "n1": "laconisme",
+        "n2": "taciturne",
+        "det": 1
+    },
+    {
+        "n1": "loquacité",
+        "n2": "bavard",
+        "det": 1
+    },
+    {
+        "n1": "taciturnité",
+        "n2": "silencieux",
+        "det": 1
+    },
+    {
+        "n1": "transience",
+        "n2": "mode",
+        "det": 1
+    },
+    {
+        "n1": "pérennité",
+        "n2": "tradition",
+        "det": 1
+    },
+    {
+        "n1": "modernité",
+        "n2": "architecture",
+        "det": 1
+    },
+    {
+        "n1": "vétusté",
+        "n2": "équipement",
+        "det": 1
+    },
+    {
+        "n1": "nouveauté",
+        "n2": "produit",
+        "det": 1
+    },
+    {
+        "n1": "ancienneté",
+        "n2": "objet",
+        "det": 1
+    },
+    {
+        "n1": "rareté",
+        "n2": "ressource",
+        "det": 1
+    },
+    {
+        "n1": "abondance",
+        "n2": "récolte",
+        "det": 1
+    },
+    {
+        "n1": "pénurie",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "opulence",
+        "n2": "palais",
+        "det": 1
+    },
+    {
+        "n1": "précarité",
+        "n2": "situation",
+        "det": 1
+    },
+    {
+        "n1": "stabilité",
+        "n2": "édifice",
+        "det": 1
+    },
+    {
+        "n1": "volatilité",
+        "n2": "marchés",
+        "det": 2
+    },
+    {
+        "n1": "linéarité",
+        "n2": "récit",
+        "det": 1
+    },
+    {
+        "n1": "circularité",
+        "n2": "argument",
+        "det": 1
+    },
+    {
+        "n1": "complexité",
+        "n2": "équation",
+        "det": 1
+    },
+    {
+        "n1": "évidence",
+        "n2": "solution",
+        "det": 1
+    },
+    {
+        "n1": "ambiguïté",
+        "n2": "réponse",
+        "det": 1
+    },
+    {
+        "n1": "limpidité",
+        "n2": "explication",
+        "det": 1
+    },
+    {
+        "n1": "hermétisme",
+        "n2": "texte",
+        "det": 1
+    },
+    {
+        "n1": "accessibilité",
+        "n2": "logiciel",
+        "det": 1
+    },
+    {
+        "n1": "illisibilité",
+        "n2": "écriture",
+        "det": 1
+    },
+    {
+        "n1": "lisibilité",
+        "n2": "police",
+        "det": 1
+    },
+    {
+        "n1": "sonorité",
+        "n2": "langue",
+        "det": 1
+    },
+    {
+        "n1": "rugosité",
+        "n2": "surface",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "soie",
+        "det": 1
+    },
+    {
+        "n1": "asymétrie",
+        "n2": "composition",
+        "det": 1
+    },
+    {
+        "n1": "symétrie",
+        "n2": "visage",
+        "det": 1
+    },
+    {
+        "n1": "équilibre",
+        "n2": "structure",
+        "det": 1
+    },
+    {
+        "n1": "sérénité",
+        "n2": "paysage",
+        "det": 1
+    },
+    {
+        "n1": "chaos",
+        "n2": "foule",
+        "det": 1
+    },
+    {
+        "n1": "ordre",
+        "n2": "caserne",
+        "det": 1
+    },
+    {
+        "n1": "désordre",
+        "n2": "chambre",
+        "det": 1
+    },
+    {
+        "n1": "propreté",
+        "n2": "hôpital",
+        "det": 1
+    },
+    {
+        "n1": "salissure",
+        "n2": "atelier",
+        "det": 1
+    },
+    {
+        "n1": "brillance",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "matité",
+        "n2": "couleur",
+        "det": 1
+    },
+    {
+        "n1": "saturation",
+        "n2": "teinte",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "tons",
+        "det": 2
+    },
+    {
+        "n1": "froideur",
+        "n2": "couleurs",
+        "det": 2
+    },
+    {
+        "n1": "pénombre",
+        "n2": "cathédrale",
+        "det": 1
+    },
+    {
+        "n1": "obscurité",
+        "n2": "cave",
+        "det": 1
+    },
+    {
+        "n1": "transparence",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "nébulosité",
+        "n2": "journée",
+        "det": 1
+    },
+    {
+        "n1": "encombrement",
+        "n2": "lieu",
+        "det": 1
+    },
+    {
+        "n1": "spaciosité",
+        "n2": "hall",
+        "det": 1
+    },
+    {
+        "n1": "exiguïté",
+        "n2": "studio",
+        "det": 1
+    },
+    {
+        "n1": "convivialité",
+        "n2": "ambiance",
+        "det": 1
+    },
+    {
+        "n1": "hostilité",
+        "n2": "terrain",
+        "det": 1
+    },
+    {
+        "n1": "familiarité",
+        "n2": "lieu",
+        "det": 1
+    },
+    {
+        "n1": "étrangeté",
+        "n2": "coutume",
+        "det": 1
+    },
+    {
+        "n1": "banalité",
+        "n2": "remarque",
+        "det": 1
+    },
+    {
+        "n1": "originalité",
+        "n2": "idée",
+        "det": 1
+    },
+    {
+        "n1": "beauté",
+        "n2": "paysage",
+        "det": 1
+    },
+    {
+        "n1": "intelligence",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "brise",
+        "det": 1
+    },
+    {
+        "n1": "richesse",
+        "n2": "businessman",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "porcelaine",
+        "det": 1
+    },
+    {
+        "n1": "rapidité",
+        "n2": "guépard",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "lion",
+        "det": 1
+    },
+    {
+        "n1": "pureté",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "humidité",
+        "n2": "air",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "noirceur",
+        "n2": "charbon",
+        "det": 1
+    },
+    {
+        "n1": "rondeur",
+        "n2": "lune",
+        "det": 1
+    },
+    {
+        "n1": "lourdeur",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "transparence",
+        "n2": "verre",
+        "det": 1
+    },
+    {
+        "n1": "opacité",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "brillance",
+        "n2": "diamant",
+        "det": 1
+    },
+    {
+        "n1": "matité",
+        "n2": "surface",
+        "det": 1
+    },
+    {
+        "n1": "flexibilité",
+        "n2": "caoutchouc",
+        "det": 1
+    },
+    {
+        "n1": "instabilité",
+        "n2": "équilibre",
+        "det": 1
+    },
+    {
+        "n1": "sécurité",
+        "n2": "quartier",
+        "det": 1
+    },
+    {
+        "n1": "danger",
+        "n2": "route",
+        "det": 1
+    },
+    {
+        "n1": "sûreté",
+        "n2": "coffre",
+        "det": 1
+    },
+    {
+        "n1": "fiabilité",
+        "n2": "ami",
+        "det": 1
+    },
+    {
+        "n1": "incertitude",
+        "n2": "avenir",
+        "det": 1
+    },
+    {
+        "n1": "certitude",
+        "n2": "réponse",
+        "det": 1
+    },
+    {
+        "n1": "obscurité",
+        "n2": "forêt",
+        "det": 1
+    },
+    {
+        "n1": "flou",
+        "n2": "photo",
+        "det": 1
+    },
+    {
+        "n1": "précision",
+        "n2": "tir",
+        "det": 1
+    },
+    {
+        "n1": "imprécision",
+        "n2": "mesure",
+        "det": 1
+    },
+    {
+        "n1": "exactitude",
+        "n2": "calcul",
+        "det": 1
+    },
+    {
+        "n1": "erreur",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "justesse",
+        "n2": "raisonnement",
+        "det": 1
+    },
+    {
+        "n1": "fausseté",
+        "n2": "accusation",
+        "det": 1
+    },
+    {
+        "n1": "véracité",
+        "n2": "témoignage",
+        "det": 1
+    },
+    {
+        "n1": "authenticité",
+        "n2": "document",
+        "det": 1
+    },
+    {
+        "n1": "falsification",
+        "n2": "passeport",
+        "det": 1
+    },
+    {
+        "n1": "banalité",
+        "n2": "situation",
+        "det": 1
+    },
+    {
+        "n1": "ancienneté",
+        "n2": "tradition",
+        "det": 1
+    },
+    {
+        "n1": "modernité",
+        "n2": "appartement",
+        "det": 1
+    },
+    {
+        "n1": "archaïsme",
+        "n2": "loi",
+        "det": 1
+    },
+    {
+        "n1": "actualité",
+        "n2": "sujet",
+        "det": 1
+    },
+    {
+        "n1": "péremption",
+        "n2": "médicament",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "produits",
+        "det": 2
+    },
+    {
+        "n1": "salinité",
+        "n2": "eau de mer",
+        "det": 1
+    },
+    {
+        "n1": "sucrosité",
+        "n2": "bonbon",
+        "det": 1
+    },
+    {
+        "n1": "épaisseur",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "minceur",
+        "n2": "feuille",
+        "det": 1
+    },
+    {
+        "n1": "largeur",
+        "n2": "rivière",
+        "det": 1
+    },
+    {
+        "n1": "étroitesse",
+        "n2": "passage",
+        "det": 1
+    },
+    {
+        "n1": "hauteur",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "petitesse",
+        "n2": "insecte",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "empire",
+        "det": 1
+    },
+    {
+        "n1": "immensité",
+        "n2": "univers",
+        "det": 1
+    },
+    {
+        "n1": "spaciosité",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "confort",
+        "n2": "fauteuil",
+        "det": 1
+    },
+    {
+        "n1": "inconfort",
+        "n2": "chaise",
+        "det": 1
+    },
+    {
+        "n1": "luxe",
+        "n2": "hôtel",
+        "det": 1
+    },
+    {
+        "n1": "simplicité",
+        "n2": "mode de vie",
+        "det": 1
+    },
+    {
+        "n1": "pauvreté",
+        "n2": "quartier",
+        "det": 1
+    },
+    {
+        "n1": "prospérité",
+        "n2": "région",
+        "det": 1
+    },
+    {
+        "n1": "misère",
+        "n2": "peuple",
+        "det": 1
+    },
+    {
+        "n1": "opulence",
+        "n2": "roi",
+        "det": 1
+    },
+    {
+        "n1": "austérité",
+        "n2": "régime",
+        "det": 1
+    },
+    {
+        "n1": "avarice",
+        "n2": "homme",
+        "det": 1
+    },
+    {
+        "n1": "égoïsme",
+        "n2": "individu",
+        "det": 1
+    },
+    {
+        "n1": "altruisme",
+        "n2": "bénévole",
+        "det": 1
+    },
+    {
+        "n1": "bonté",
+        "n2": "mère",
+        "det": 1
+    },
+    {
+        "n1": "méchanceté",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "gentillesse",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "malveillance",
+        "n2": "regard",
+        "det": 1
+    },
+    {
+        "n1": "bienveillance",
+        "n2": "patron",
+        "det": 1
+    },
+    {
+        "n1": "hostilité",
+        "n2": "foule",
+        "det": 1
+    },
+    {
+        "n1": "amitié",
+        "n2": "collègue",
+        "det": 1
+    },
+    {
+        "n1": "inimitié",
+        "n2": "rivaux",
+        "det": 2
+    },
+    {
+        "n1": "sympathie",
+        "n2": "réceptionniste",
+        "det": 1
+    },
+    {
+        "n1": "antipathie",
+        "n2": "voisin",
+        "det": 1
+    },
+    {
+        "n1": "cordialité",
+        "n2": "accueil",
+        "det": 1
+    },
+    {
+        "n1": "froideur",
+        "n2": "réponse",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "accueil",
+        "det": 1
+    },
+    {
+        "n1": "sincérité",
+        "n2": "paroles",
+        "det": 2
+    },
+    {
+        "n1": "hypocrisie",
+        "n2": "politicien",
+        "det": 1
+    },
+    {
+        "n1": "franchise",
+        "n2": "ami",
+        "det": 1
+    },
+    {
+        "n1": "duplicité",
+        "n2": "menteur",
+        "det": 1
+    },
+    {
+        "n1": "loyauté",
+        "n2": "chien",
+        "det": 1
+    },
+    {
+        "n1": "trahison",
+        "n2": "ami",
+        "det": 1
+    },
+    {
+        "n1": "fidélité",
+        "n2": "conjoint",
+        "det": 1
+    },
+    {
+        "n1": "infidélité",
+        "n2": "partenaire",
+        "det": 1
+    },
+    {
+        "n1": "inconstance",
+        "n2": "humeur",
+        "det": 1
+    },
+    {
+        "n1": "abandon",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "détermination",
+        "n2": "athlète",
+        "det": 1
+    },
+    {
+        "n1": "indécision",
+        "n2": "cliente",
+        "det": 1
+    },
+    {
+        "n1": "résolution",
+        "n2": "problème",
+        "det": 1
+    },
+    {
+        "n1": "hésitation",
+        "n2": "candidat",
+        "det": 1
+    },
+    {
+        "n1": "bravoure",
+        "n2": "héros",
+        "det": 1
+    },
+    {
+        "n1": "peur",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "audace",
+        "n2": "aventurier",
+        "det": 1
+    },
+    {
+        "n1": "témérité",
+        "n2": "conducteur",
+        "det": 1
+    },
+    {
+        "n1": "prudence",
+        "n2": "médecin",
+        "det": 1
+    },
+    {
+        "n1": "imprudence",
+        "n2": "jeune",
+        "det": 1
+    },
+    {
+        "n1": "vigilance",
+        "n2": "gardien",
+        "det": 1
+    },
+    {
+        "n1": "négligence",
+        "n2": "employé",
+        "det": 1
+    },
+    {
+        "n1": "attention",
+        "n2": "mère",
+        "det": 1
+    },
+    {
+        "n1": "inattention",
+        "n2": "élève",
+        "det": 1
+    },
+    {
+        "n1": "concentration",
+        "n2": "joueur",
+        "det": 1
+    },
+    {
+        "n1": "mémoire",
+        "n2": "ordinateur",
+        "det": 1
+    },
+    {
+        "n1": "oubli",
+        "n2": "promesse",
+        "det": 1
+    },
+    {
+        "n1": "souvenir",
+        "n2": "enfance",
+        "det": 1
+    },
+    {
+        "n1": "amnésie",
+        "n2": "patient",
+        "det": 1
+    },
+    {
+        "n1": "réminiscence",
+        "n2": "passé",
+        "det": 1
+    },
+    {
+        "n1": "nostalgie",
+        "n2": "pays",
+        "det": 1
+    },
+    {
+        "n1": "mélancolie",
+        "n2": "automne",
+        "det": 1
+    },
+    {
+        "n1": "bonheur",
+        "n2": "couple",
+        "det": 1
+    },
+    {
+        "n1": "malheur",
+        "n2": "famille",
+        "det": 1
+    },
+    {
+        "n1": "gaieté",
+        "n2": "fête",
+        "det": 1
+    },
+    {
+        "n1": "morosité",
+        "n2": "hiver",
+        "det": 1
+    },
+    {
+        "n1": "enthousiasme",
+        "n2": "supporters",
+        "det": 2
+    },
+    {
+        "n1": "apathie",
+        "n2": "population",
+        "det": 1
+    },
+    {
+        "n1": "passion",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "indifférence",
+        "n2": "public",
+        "det": 1
+    },
+    {
+        "n1": "émotion",
+        "n2": "spectateur",
+        "det": 1
+    },
+    {
+        "n1": "froideur",
+        "n2": "juge",
+        "det": 1
+    },
+    {
+        "n1": "sensibilité",
+        "n2": "poète",
+        "det": 1
+    },
+    {
+        "n1": "insensibilité",
+        "n2": "bourreau",
+        "det": 1
+    },
+    {
+        "n1": "empathie",
+        "n2": "thérapeute",
+        "det": 1
+    },
+    {
+        "n1": "compassion",
+        "n2": "infirmière",
+        "det": 1
+    },
+    {
+        "n1": "dureté",
+        "n2": "chef",
+        "det": 1
+    },
+    {
+        "n1": "sévérité",
+        "n2": "père",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "voix",
+        "det": 1
+    },
+    {
+        "n1": "rudesse",
+        "n2": "ton",
+        "det": 1
+    },
+    {
+        "n1": "agressivité",
+        "n2": "chien",
+        "det": 1
+    },
+    {
+        "n1": "pacificité",
+        "n2": "communauté",
+        "det": 1
+    },
+    {
+        "n1": "tranquillité",
+        "n2": "lac",
+        "det": 1
+    },
+    {
+        "n1": "calme",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "agitation",
+        "n2": "ville",
+        "det": 1
+    },
+    {
+        "n1": "bruit",
+        "n2": "rue",
+        "det": 1
+    },
+    {
+        "n1": "silence",
+        "n2": "désert",
+        "det": 1
+    },
+    {
+        "n1": "sonorité",
+        "n2": "musique",
+        "det": 1
+    },
+    {
+        "n1": "dissonance",
+        "n2": "notes",
+        "det": 2
+    },
+    {
+        "n1": "rythme",
+        "n2": "danse",
+        "det": 1
+    },
+    {
+        "n1": "cadence",
+        "n2": "travail",
+        "det": 1
+    },
+    {
+        "n1": "lenteur",
+        "n2": "progression",
+        "det": 1
+    },
+    {
+        "n1": "vitesse",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "accélération",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "freinage",
+        "n2": "véhicule",
+        "det": 1
+    },
+    {
+        "n1": "immobilité",
+        "n2": "statue",
+        "det": 1
+    },
+    {
+        "n1": "mouvement",
+        "n2": "foule",
+        "det": 1
+    },
+    {
+        "n1": "stase",
+        "n2": "sang",
+        "det": 1
+    },
+    {
+        "n1": "circulation",
+        "n2": "air",
+        "det": 1
+    },
+    {
+        "n1": "flux",
+        "n2": "rivière",
+        "det": 1
+    },
+    {
+        "n1": "reflux",
+        "n2": "marée",
+        "det": 1
+    },
+    {
+        "n1": "écoulement",
+        "n2": "temps",
+        "det": 1
+    },
+    {
+        "n1": "durée",
+        "n2": "film",
+        "det": 1
+    },
+    {
+        "n1": "brièveté",
+        "n2": "vie",
+        "det": 1
+    },
+    {
+        "n1": "longévité",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "éphémérité",
+        "n2": "fleur",
+        "det": 1
+    },
+    {
+        "n1": "permanence",
+        "n2": "loi",
+        "det": 1
+    },
+    {
+        "n1": "temporalité",
+        "n2": "existence",
+        "det": 1
+    },
+    {
+        "n1": "éternité",
+        "n2": "âme",
+        "det": 1
+    },
+    {
+        "n1": "instant",
+        "n2": "présent",
+        "det": 1
+    },
+    {
+        "n1": "fugacité",
+        "n2": "moment",
+        "det": 1
+    },
+    {
+        "n1": "persistance",
+        "n2": "odeur",
+        "det": 1
+    },
+    {
+        "n1": "évanescence",
+        "n2": "parfum",
+        "det": 1
+    },
+    {
+        "n1": "stabilité",
+        "n2": "équilibre",
+        "det": 1
+    },
+    {
+        "n1": "instabilité",
+        "n2": "structure",
+        "det": 1
+    },
+    {
+        "n1": "solidité",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "faiblesse",
+        "n2": "argument",
+        "det": 1
+    },
+    {
+        "n1": "impuissance",
+        "n2": "patient",
+        "det": 1
+    },
+    {
+        "n1": "efficacité",
+        "n2": "traitement",
+        "det": 1
+    },
+    {
+        "n1": "inefficacité",
+        "n2": "méthode",
+        "det": 1
+    },
+    {
+        "n1": "rendement",
+        "n2": "usine",
+        "det": 1
+    },
+    {
+        "n1": "oisiveté",
+        "n2": "rentier",
+        "det": 1
+    },
+    {
+        "n1": "activité",
+        "n2": "fourmi",
+        "det": 1
+    },
+    {
+        "n1": "paresse",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "dynamisme",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "énergie",
+        "n2": "jeunesse",
+        "det": 1
+    },
+    {
+        "n1": "fatigue",
+        "n2": "travailleur",
+        "det": 1
+    },
+    {
+        "n1": "épuisement",
+        "n2": "ressources",
+        "det": 2
+    },
+    {
+        "n1": "vitalité",
+        "n2": "plante",
+        "det": 1
+    },
+    {
+        "n1": "léthargie",
+        "n2": "hiver",
+        "det": 1
+    },
+    {
+        "n1": "sommeil",
+        "n2": "bébé",
+        "det": 1
+    },
+    {
+        "n1": "insomnie",
+        "n2": "patient",
+        "det": 1
+    },
+    {
+        "n1": "vigilance",
+        "n2": "garde",
+        "det": 1
+    },
+    {
+        "n1": "somnolence",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "rêverie",
+        "n2": "adolescent",
+        "det": 1
+    },
+    {
+        "n1": "confusion",
+        "n2": "idées",
+        "det": 2
+    },
+    {
+        "n1": "clarté",
+        "n2": "esprit",
+        "det": 1
+    },
+    {
+        "n1": "obscurité",
+        "n2": "pensée",
+        "det": 1
+    },
+    {
+        "n1": "complexité",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "simplicité",
+        "n2": "approche",
+        "det": 1
+    },
+    {
+        "n1": "abstraction",
+        "n2": "concept",
+        "det": 1
+    },
+    {
+        "n1": "concrétude",
+        "n2": "exemple",
+        "det": 1
+    },
+    {
+        "n1": "généralité",
+        "n2": "règle",
+        "det": 1
+    },
+    {
+        "n1": "spécificité",
+        "n2": "cas",
+        "det": 1
+    },
+    {
+        "n1": "universalité",
+        "n2": "principe",
+        "det": 1
+    },
+    {
+        "n1": "particularité",
+        "n2": "situation",
+        "det": 1
+    },
+    {
+        "n1": "normalité",
+        "n2": "condition",
+        "det": 1
+    },
+    {
+        "n1": "anormalité",
+        "n2": "comportement",
+        "det": 1
+    },
+    {
+        "n1": "régularité",
+        "n2": "rythme",
+        "det": 1
+    },
+    {
+        "n1": "fréquence",
+        "n2": "visites",
+        "det": 2
+    },
+    {
+        "n1": "rareté",
+        "n2": "espèce",
+        "det": 1
+    },
+    {
+        "n1": "surabondance",
+        "n2": "biens",
+        "det": 2
+    },
+    {
+        "n1": "excès",
+        "n2": "zèle",
+        "det": 0
+    },
+    {
+        "n1": "modération",
+        "n2": "sage",
+        "det": 1
+    },
+    {
+        "n1": "exagération",
+        "n2": "conte",
+        "det": 1
+    },
+    {
+        "n1": "sobriété",
+        "n2": "architecture",
+        "det": 1
+    },
+    {
+        "n1": "extravagance",
+        "n2": "costume",
+        "det": 1
+    },
+    {
+        "n1": "discrétion",
+        "n2": "couleur",
+        "det": 1
+    },
+    {
+        "n1": "ostentation",
+        "n2": "richesse",
+        "det": 1
+    },
+    {
+        "n1": "modestie",
+        "n2": "tenue",
+        "det": 1
+    },
+    {
+        "n1": "arrogance",
+        "n2": "leader",
+        "det": 1
+    },
+    {
+        "n1": "fierté",
+        "n2": "peuple",
+        "det": 1
+    },
+    {
+        "n1": "orgueil",
+        "n2": "roi",
+        "det": 1
+    },
+    {
+        "n1": "vanité",
+        "n2": "actrice",
+        "det": 1
+    },
+    {
+        "n1": "joie",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "flammes",
+        "det": 2
+    },
+    {
+        "n1": "froideur",
+        "n2": "hiver",
+        "det": 1
+    },
+    {
+        "n1": "légèreté",
+        "n2": "plumes",
+        "det": 2
+    },
+    {
+        "n1": "clarté",
+        "n2": "aube",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "rocher",
+        "det": 1
+    },
+    {
+        "n1": "tendresse",
+        "n2": "mots",
+        "det": 2
+    },
+    {
+        "n1": "mélodie",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "vivacité",
+        "n2": "étincelles",
+        "det": 2
+    },
+    {
+        "n1": "lourdeur",
+        "n2": "silence",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "fleurs",
+        "det": 2
+    },
+    {
+        "n1": "lueur",
+        "n2": "étoiles",
+        "det": 2
+    },
+    {
+        "n1": "majesté",
+        "n2": "montagne",
+        "det": 1
+    },
+    {
+        "n1": "beauté",
+        "n2": "songes",
+        "det": 2
+    },
+    {
+        "n1": "vigueur",
+        "n2": "chêne",
+        "det": 1
+    },
+    {
+        "n1": "sagesse",
+        "n2": "anciens",
+        "det": 2
+    },
+    {
+        "n1": "violence",
+        "n2": "orage",
+        "det": 1
+    },
+    {
+        "n1": "quiétude",
+        "n2": "soir",
+        "det": 1
+    },
+    {
+        "n1": "passion",
+        "n2": "amants",
+        "det": 2
+    },
+    {
+        "n1": "patience",
+        "n2": "sage",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "sources",
+        "det": 2
+    },
+    {
+        "n1": "noirceur",
+        "n2": "abysses",
+        "det": 2
+    },
+    {
+        "n1": "douceur",
+        "n2": "brise",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "océans",
+        "det": 2
+    },
+    {
+        "n1": "vivacité",
+        "n2": "couleurs",
+        "det": 2
+    },
+    {
+        "n1": "légèreté",
+        "n2": "souffle",
+        "det": 1
+    },
+    {
+        "n1": "délicatesse",
+        "n2": "pétales",
+        "det": 2
+    },
+    {
+        "n1": "rapidité",
+        "n2": "éclair",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "souvenirs",
+        "det": 2
+    },
+    {
+        "n1": "force",
+        "n2": "racines",
+        "det": 2
+    },
+    {
+        "n1": "noblesse",
+        "n2": "cœur",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "adieux",
+        "det": 2
+    },
+    {
+        "n1": "splendeur",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "constance",
+        "n2": "astres",
+        "det": 2
+    },
+    {
+        "n1": "densité",
+        "n2": "brume",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "cristal",
+        "det": 1
+    },
+    {
+        "n1": "solitude",
+        "n2": "désert",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "souvenirs",
+        "det": 2
+    },
+    {
+        "n1": "brûlure",
+        "n2": "feu",
+        "det": 1
+    },
+    {
+        "n1": "majesté",
+        "n2": "forêts",
+        "det": 2
+    },
+    {
+        "n1": "profondeur",
+        "n2": "pensées",
+        "det": 2
+    },
+    {
+        "n1": "vastitude",
+        "n2": "plaines",
+        "det": 2
+    },
+    {
+        "n1": "grâce",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "beauté",
+        "n2": "aurores",
+        "det": 2
+    },
+    {
+        "n1": "violence",
+        "n2": "flots",
+        "det": 2
+    },
+    {
+        "n1": "constance",
+        "n2": "fleuve",
+        "det": 1
+    },
+    {
+        "n1": "subtilité",
+        "n2": "nuances",
+        "det": 2
+    },
+    {
+        "n1": "lumière",
+        "n2": "jour",
+        "det": 1
+    },
+    {
+        "n1": "lourdeur",
+        "n2": "pierres",
+        "det": 2
+    },
+    {
+        "n1": "simplicité",
+        "n2": "gestes",
+        "det": 2
+    },
+    {
+        "n1": "cruauté",
+        "n2": "temps",
+        "det": 1
+    },
+    {
+        "n1": "vérité",
+        "n2": "mots",
+        "det": 2
+    },
+    {
+        "n1": "douleur",
+        "n2": "absence",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "caresses",
+        "det": 2
+    },
+    {
+        "n1": "lenteur",
+        "n2": "saisons",
+        "det": 2
+    },
+    {
+        "n1": "beauté",
+        "n2": "crépuscule",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "torrent",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "enfance",
+        "det": 1
+    },
+    {
+        "n1": "sagesse",
+        "n2": "nature",
+        "det": 1
+    },
+    {
+        "n1": "puissance",
+        "n2": "tonnerre",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "bras",
+        "det": 2
+    },
+    {
+        "n1": "grandeur",
+        "n2": "âme",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "instants",
+        "det": 2
+    },
+    {
+        "n1": "splendeur",
+        "n2": "couchers",
+        "det": 2
+    },
+    {
+        "n1": "clarté",
+        "n2": "étoiles",
+        "det": 2
+    },
+    {
+        "n1": "lumière",
+        "n2": "espérance",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "montagnes",
+        "det": 2
+    },
+    {
+        "n1": "délicatesse",
+        "n2": "parfum",
+        "det": 1
+    },
+    {
+        "n1": "mélancolie",
+        "n2": "soir",
+        "det": 1
+    },
+    {
+        "n1": "vivacité",
+        "n2": "feuillage",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "vagues",
+        "det": 2
+    },
+    {
+        "n1": "tendresse",
+        "n2": "regards",
+        "det": 2
+    },
+    {
+        "n1": "profondeur",
+        "n2": "songes",
+        "det": 2
+    },
+    {
+        "n1": "majesté",
+        "n2": "phénix",
+        "det": 1
+    },
+    {
+        "n1": "fragilité",
+        "n2": "illusions",
+        "det": 2
+    },
+    {
+        "n1": "grandeur",
+        "n2": "univers",
+        "det": 1
+    },
+    {
+        "n1": "lumière",
+        "n2": "bougies",
+        "det": 2
+    },
+    {
+        "n1": "sérénité",
+        "n2": "lac",
+        "det": 1
+    },
+    {
+        "n1": "vigueur",
+        "n2": "printemps",
+        "det": 1
+    },
+    {
+        "n1": "blancheur",
+        "n2": "nuages",
+        "det": 2
+    },
+    {
+        "n1": "chaleur",
+        "n2": "désert",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "montagnes",
+        "det": 2
+    },
+    {
+        "n1": "brillance",
+        "n2": "étoiles",
+        "det": 2
+    },
+    {
+        "n1": "force",
+        "n2": "tonnerre",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "rivières",
+        "det": 2
+    },
+    {
+        "n1": "grandeur",
+        "n2": "horizons",
+        "det": 2
+    },
+    {
+        "n1": "vivacité",
+        "n2": "chants",
+        "det": 2
+    },
+    {
+        "n1": "profondeur",
+        "n2": "vallées",
+        "det": 2
+    },
+    {
+        "n1": "lumière",
+        "n2": "phares",
+        "det": 2
+    },
+    {
+        "n1": "majesté",
+        "n2": "falaises",
+        "det": 2
+    },
+    {
+        "n1": "légèreté",
+        "n2": "nuage",
+        "det": 1
+    },
+    {
+        "n1": "tendresse",
+        "n2": "sourires",
+        "det": 2
+    },
+    {
+        "n1": "chaleur",
+        "n2": "mains",
+        "det": 2
+    },
+    {
+        "n1": "lourdeur",
+        "n2": "chaînes",
+        "det": 2
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "sources",
+        "det": 2
+    },
+    {
+        "n1": "beauté",
+        "n2": "marbre",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "tigre",
+        "det": 1
+    },
+    {
+        "n1": "subtilité",
+        "n2": "ombres",
+        "det": 2
+    },
+    {
+        "n1": "splendeur",
+        "n2": "palais",
+        "det": 2
+    },
+    {
+        "n1": "rapidité",
+        "n2": "galop",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "sable",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "cristal",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "racines",
+        "det": 2
+    },
+    {
+        "n1": "noblesse",
+        "n2": "gestes",
+        "det": 2
+    },
+    {
+        "n1": "dureté",
+        "n2": "rochers",
+        "det": 2
+    },
+    {
+        "n1": "fragilité",
+        "n2": "rêves",
+        "det": 2
+    },
+    {
+        "n1": "grandeur",
+        "n2": "cathédrales",
+        "det": 2
+    },
+    {
+        "n1": "vivacité",
+        "n2": "éclats",
+        "det": 2
+    },
+    {
+        "n1": "sérénité",
+        "n2": "plaines",
+        "det": 2
+    },
+    {
+        "n1": "puissance",
+        "n2": "volcans",
+        "det": 2
+    },
+    {
+        "n1": "lumière",
+        "n2": "phare",
+        "det": 1
+    },
+    {
+        "n1": "froideur",
+        "n2": "nuit",
+        "det": 1
+    },
+    {
+        "n1": "délicatesse",
+        "n2": "étoffes",
+        "det": 2
+    },
+    {
+        "n1": "rapidité",
+        "n2": "courant",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "cités",
+        "det": 2
+    },
+    {
+        "n1": "chaleur",
+        "n2": "terre",
+        "det": 1
+    },
+    {
+        "n1": "splendeur",
+        "n2": "temple",
+        "det": 1
+    },
+    {
+        "n1": "majesté",
+        "n2": "cascades",
+        "det": 2
+    },
+    {
+        "n1": "profondeur",
+        "n2": "gouffre",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "larmes",
+        "det": 2
+    },
+    {
+        "n1": "tendresse",
+        "n2": "âmes",
+        "det": 2
+    },
+    {
+        "n1": "noirceur",
+        "n2": "tempêtes",
+        "det": 2
+    },
+    {
+        "n1": "clarté",
+        "n2": "éclairs",
+        "det": 2
+    },
+    {
+        "n1": "vivacité",
+        "n2": "regard",
+        "det": 1
+    },
+    {
+        "n1": "subtilité",
+        "n2": "saveurs",
+        "det": 2
+    },
+    {
+        "n1": "beauté",
+        "n2": "rosée",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "déserts",
+        "det": 2
+    },
+    {
+        "n1": "lumière",
+        "n2": "aurores",
+        "det": 2
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "rosée",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "sommets",
+        "det": 2
+    },
+    {
+        "n1": "mélodie",
+        "n2": "cloches",
+        "det": 2
+    },
+    {
+        "n1": "froideur",
+        "n2": "pluie",
+        "det": 1
+    },
+    {
+        "n1": "lourdeur",
+        "n2": "fardeau",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "visions",
+        "det": 2
+    },
+    {
+        "n1": "majesté",
+        "n2": "cathédrales",
+        "det": 2
+    },
+    {
+        "n1": "grandeur",
+        "n2": "désert",
+        "det": 1
+    },
+    {
+        "n1": "tendresse",
+        "n2": "instants",
+        "det": 2
+    },
+    {
+        "n1": "splendeur",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "légèreté",
+        "n2": "songes",
+        "det": 2
+    },
+    {
+        "n1": "vivacité",
+        "n2": "torrent",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "orages",
+        "det": 2
+    },
+    {
+        "n1": "lumière",
+        "n2": "matin",
+        "det": 1
+    },
+    {
+        "n1": "clarté",
+        "n2": "pensée",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "instants",
+        "det": 2
+    },
+    {
+        "n1": "profondeur",
+        "n2": "âmes",
+        "det": 2
+    },
+    {
+        "n1": "majesté",
+        "n2": "pins",
+        "det": 2
+    },
+    {
+        "n1": "beauté",
+        "n2": "lacs",
+        "det": 2
+    },
+    {
+        "n1": "force",
+        "n2": "cyclones",
+        "det": 2
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "vents",
+        "det": 2
+    },
+    {
+        "n1": "splendeur",
+        "n2": "arcs",
+        "det": 2
+    },
+    {
+        "n1": "vivacité",
+        "n2": "rêves",
+        "det": 2
+    },
+    {
+        "n1": "subtilité",
+        "n2": "parfum",
+        "det": 1
+    },
+    {
+        "n1": "rapidité",
+        "n2": "ombre",
+        "det": 1
+    },
+    {
+        "n1": "puissance",
+        "n2": "torrent",
+        "det": 1
+    },
+    {
+        "n1": "beauté",
+        "n2": "lys",
+        "det": 1
+    },
+    {
+        "n1": "majesté",
+        "n2": "statues",
+        "det": 2
+    },
+    {
+        "n1": "lumière",
+        "n2": "crépuscule",
+        "det": 1
+    },
+    {
+        "n1": "tendresse",
+        "n2": "voix",
+        "det": 2
+    },
+    {
+        "n1": "froideur",
+        "n2": "brouillard",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "mer",
+        "det": 1
+    },
+    {
+        "n1": "vivacité",
+        "n2": "ruisseaux",
+        "det": 2
+    },
+    {
+        "n1": "clarté",
+        "n2": "chants",
+        "det": 2
+    },
+    {
+        "n1": "délicatesse",
+        "n2": "toucher",
+        "det": 1
+    },
+    {
+        "n1": "splendeur",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "grandeur",
+        "n2": "forêts",
+        "det": 2
+    },
+    {
+        "n1": "chaleur",
+        "n2": "cœurs",
+        "det": 2
+    },
+    {
+        "n1": "lumière",
+        "n2": "lampes",
+        "det": 2
+    },
+    {
+        "n1": "sérénité",
+        "n2": "montagnes",
+        "det": 2
+    },
+    {
+        "n1": "beauté",
+        "n2": "pierres",
+        "det": 2
+    },
+    {
+        "n1": "rapidité",
+        "n2": "aigle",
+        "det": 1
+    },
+    {
+        "n1": "majesté",
+        "n2": "cygne",
+        "det": 1
+    },
+    {
+        "n1": "tendresse",
+        "n2": "sourire",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "ombre",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "collines",
+        "det": 2
+    },
+    {
+        "n1": "clarté",
+        "n2": "flammes",
+        "det": 2
+    },
+    {
+        "n1": "grandeur",
+        "n2": "monde",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "dragon",
+        "det": 1
+    },
+    {
+        "n1": "splendeur",
+        "n2": "mers",
+        "det": 2
+    },
+    {
+        "n1": "douceur",
+        "n2": "étoiles",
+        "det": 2
+    },
+    {
+        "n1": "vivacité",
+        "n2": "feu",
+        "det": 1
+    },
+    {
+        "n1": "subtilité",
+        "n2": "geste",
+        "det": 1
+    },
+    {
+        "n1": "lumière",
+        "n2": "torches",
+        "det": 2
+    },
+    {
+        "n1": "chaleur",
+        "n2": "sable",
+        "det": 1
+    },
+    {
+        "n1": "majesté",
+        "n2": "temples",
+        "det": 2
+    },
+    {
+        "n1": "force",
+        "n2": "torrents",
+        "det": 2
+    },
+    {
+        "n1": "grandeur",
+        "n2": "nature",
+        "det": 1
+    },
+    {
+        "n1": "délicatesse",
+        "n2": "mains",
+        "det": 2
+    },
+    {
+        "n1": "force",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "été",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "séparation",
+        "det": 1
+    },
+    {
+        "n1": "joie",
+        "n2": "retrouvailles",
+        "det": 2
+    },
+    {
+        "n1": "importance",
+        "n2": "décision",
+        "det": 1
+    },
+    {
+        "n1": "urgence",
+        "n2": "situation",
+        "det": 1
+    },
+    {
+        "n1": "rareté",
+        "n2": "diamant",
+        "det": 1
+    },
+    {
+        "n1": "valeur",
+        "n2": "or",
+        "det": 1
+    },
+    {
+        "n1": "hauteur",
+        "n2": "montagne",
+        "det": 1
+    },
+    {
+        "n1": "vitesse",
+        "n2": "train",
+        "det": 1
+    },
+    {
+        "n1": "couleur",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "température",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "densité",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "luminosité",
+        "n2": "soleil",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "lac",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "rivière",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "velours",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "air",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "feu",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "perte",
+        "det": 1
+    },
+    {
+        "n1": "joie",
+        "n2": "succès",
+        "det": 1
+    },
+    {
+        "n1": "complexité",
+        "n2": "mécanisme",
+        "det": 1
+    },
+    {
+        "n1": "simplicité",
+        "n2": "explication",
+        "det": 1
+    },
+    {
+        "n1": "importance",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "urgence",
+        "n2": "appel",
+        "det": 1
+    },
+    {
+        "n1": "rareté",
+        "n2": "cristal",
+        "det": 1
+    },
+    {
+        "n1": "valeur",
+        "n2": "peinture",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "forêt",
+        "det": 1
+    },
+    {
+        "n1": "hauteur",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "vitesse",
+        "n2": "avion",
+        "det": 1
+    },
+    {
+        "n1": "couleur",
+        "n2": "fleur",
+        "det": 1
+    },
+    {
+        "n1": "température",
+        "n2": "air",
+        "det": 1
+    },
+    {
+        "n1": "densité",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "luminosité",
+        "n2": "lune",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "puits",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "courant",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "coton",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "journée",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "chagrin",
+        "det": 1
+    },
+    {
+        "n1": "souplesse",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "simplicité",
+        "n2": "procédé",
+        "det": 1
+    },
+    {
+        "n1": "importance",
+        "n2": "mission",
+        "det": 1
+    },
+    {
+        "n1": "urgence",
+        "n2": "secours",
+        "det": 1
+    },
+    {
+        "n1": "rareté",
+        "n2": "fossile",
+        "det": 1
+    },
+    {
+        "n1": "valeur",
+        "n2": "bijou",
+        "det": 1
+    },
+    {
+        "n1": "vitesse",
+        "n2": "vent",
+        "det": 1
+    },
+    {
+        "n1": "couleur",
+        "n2": "drapeau",
+        "det": 1
+    },
+    {
+        "n1": "température",
+        "n2": "four",
+        "det": 1
+    },
+    {
+        "n1": "densité",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "luminosité",
+        "n2": "étoile",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "canyon",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "orage",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "deuil",
+        "det": 1
+    },
+    {
+        "n1": "complexité",
+        "n2": "puzzle",
+        "det": 1
+    },
+    {
+        "n1": "simplicité",
+        "n2": "dessin",
+        "det": 1
+    },
+    {
+        "n1": "importance",
+        "n2": "document",
+        "det": 1
+    },
+    {
+        "n1": "urgence",
+        "n2": "tâche",
+        "det": 1
+    },
+    {
+        "n1": "rareté",
+        "n2": "perle",
+        "det": 1
+    },
+    {
+        "n1": "valeur",
+        "n2": "monnaie",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "grotte",
+        "det": 1
+    },
+    {
+        "n1": "hauteur",
+        "n2": "falaise",
+        "det": 1
+    },
+    {
+        "n1": "vitesse",
+        "n2": "cheval",
+        "det": 1
+    },
+    {
+        "n1": "couleur",
+        "n2": "ciel nocturne",
+        "det": 1
+    },
+    {
+        "n1": "température",
+        "n2": "liquide",
+        "det": 1
+    },
+    {
+        "n1": "densité",
+        "n2": "béton",
+        "det": 1
+    },
+    {
+        "n1": "luminosité",
+        "n2": "phare",
+        "det": 1
+    },
+    {
+        "n1": "force",
+        "n2": "choc",
+        "det": 1
+    },
+    {
+        "n1": "douceur",
+        "n2": "laine",
+        "det": 1
+    },
+    {
+        "n1": "fraîcheur",
+        "n2": "lac",
+        "det": 1
+    },
+    {
+        "n1": "chaleur",
+        "n2": "brasero",
+        "det": 1
+    },
+    {
+        "n1": "tristesse",
+        "n2": "exil",
+        "det": 1
+    },
+    {
+        "n1": "joie",
+        "n2": "Noël",
+        "det": 0
+    },
+    {
+        "n1": "complexité",
+        "n2": "énigme",
+        "det": 1
+    },
+    {
+        "n1": "simplicité",
+        "n2": "instruction",
+        "det": 1
+    },
+    {
+        "n1": "importance",
+        "n2": "rôle",
+        "det": 1
+    },
+    {
+        "n1": "urgence",
+        "n2": "intervention",
+        "det": 1
+    },
+    {
+        "n1": "rareté",
+        "n2": "roche",
+        "det": 1
+    },
+    {
+        "n1": "valeur",
+        "n2": "antiquité",
+        "det": 1
+    },
+    {
+        "n1": "profondeur",
+        "n2": "fjord",
+        "det": 1
+    },
+    {
+        "n1": "vitesse",
+        "n2": "courant",
+        "det": 1
+    },
+    {
+        "n1": "couleur",
+        "n2": "vêtement",
+        "det": 1
+    },
+    {
+        "n1": "température",
+        "n2": "air ambiant",
+        "det": 1
+    },
+    {
+        "n1": "densité",
+        "n2": "sable",
+        "det": 1
+    }
+]

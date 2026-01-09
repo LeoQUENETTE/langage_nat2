@@ -1,0 +1,2557 @@
+[
+    {
+        "n1": "Écailles",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "Coque",
+        "n2": "bateau",
+        "det": 1
+    },
+    {
+        "n1": "Poils",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "Ailes",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "Pattes",
+        "n2": "chien",
+        "det": 1
+    },
+    {
+        "n1": "Feuilles",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "Graines",
+        "n2": "plante",
+        "det": 1
+    },
+    {
+        "n1": "Fruits",
+        "n2": "pommier",
+        "det": 1
+    },
+    {
+        "n1": "Peau",
+        "n2": "serpent",
+        "det": 1
+    },
+    {
+        "n1": "Écorce",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "Branches",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "Tronc",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "Fleurs",
+        "n2": "rosier",
+        "det": 1
+    },
+    {
+        "n1": "Grains",
+        "n2": "blé // aussi matière",
+        "det": 0
+    },
+    {
+        "n1": "Racines",
+        "n2": "plante",
+        "det": 1
+    },
+    {
+        "n1": "Os",
+        "n2": "squelette",
+        "det": 1
+    },
+    {
+        "n1": "Dents",
+        "n2": "lion",
+        "det": 1
+    },
+    {
+        "n1": "Plumes",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "Étoiles",
+        "n2": "galaxie",
+        "det": 1
+    },
+    {
+        "n1": "Roches",
+        "n2": "montagne",
+        "det": 1
+    },
+    {
+        "n1": "Vagues",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "Sable",
+        "n2": "plage",
+        "det": 1
+    },
+    {
+        "n1": "Nuages",
+        "n2": "ciel",
+        "det": 1
+    },
+    {
+        "n1": "Rayons",
+        "n2": "soleil",
+        "det": 1
+    },
+    {
+        "n1": "Cristaux",
+        "n2": "glace",
+        "det": 1
+    },
+    {
+        "n1": "Gouttes",
+        "n2": "pluie",
+        "det": 0
+    },
+    {
+        "n1": "Chansons",
+        "n2": "album",
+        "det": 1
+    },
+    {
+        "n1": "Pages",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "Chapitre",
+        "n2": "roman",
+        "det": 1
+    },
+    {
+        "n1": "Vers",
+        "n2": "poésie",
+        "det": 1
+    },
+    {
+        "n1": "Mots",
+        "n2": "phrase",
+        "det": 1
+    },
+    {
+        "n1": "Notes",
+        "n2": "musique",
+        "det": 1
+    },
+    {
+        "n1": "Cordes",
+        "n2": "guitare",
+        "det": 1
+    },
+    {
+        "n1": "Touches",
+        "n2": "piano",
+        "det": 1
+    },
+    {
+        "n1": "Clés",
+        "n2": "serrure // aussi Instrument",
+        "det": 1
+    },
+    {
+        "n1": "Boutons",
+        "n2": "manteau",
+        "det": 1
+    },
+    {
+        "n1": "Maillons",
+        "n2": "chaîne",
+        "det": 1
+    },
+    {
+        "n1": "Perles",
+        "n2": "collier",
+        "det": 1
+    },
+    {
+        "n1": "Pommes",
+        "n2": "panier",
+        "det": 1
+    },
+    {
+        "n1": "Tranches",
+        "n2": "pain",
+        "det": 1
+    },
+    {
+        "n1": "Morceaux",
+        "n2": "gâteau",
+        "det": 1
+    },
+    {
+        "n1": "Couleurs",
+        "n2": "drapeau",
+        "det": 1
+    },
+    {
+        "n1": "Rayures",
+        "n2": "tigre",
+        "det": 1
+    },
+    {
+        "n1": "Taches",
+        "n2": "léopard",
+        "det": 1
+    },
+    {
+        "n1": "Branches",
+        "n2": "buisson",
+        "det": 1
+    },
+    {
+        "n1": "Branches",
+        "n2": "sapin",
+        "det": 1
+    },
+    {
+        "n1": "Feuilles",
+        "n2": "vigne",
+        "det": 1
+    },
+    {
+        "n1": "Graines",
+        "n2": "melon",
+        "det": 1
+    },
+    {
+        "n1": "Nids",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "Piques",
+        "n2": "porcépic",
+        "det": 1
+    },
+    {
+        "n1": "Aiguilles",
+        "n2": "cactus",
+        "det": 1
+    },
+    {
+        "n1": "Cornes",
+        "n2": "cerf",
+        "det": 1
+    },
+    {
+        "n1": "Dents",
+        "n2": "scie",
+        "det": 1
+    },
+    {
+        "n1": "Voiles",
+        "n2": "bateau",
+        "det": 1
+    },
+    {
+        "n1": "Mâts",
+        "n2": "navire",
+        "det": 1
+    },
+    {
+        "n1": "Rames",
+        "n2": "canoë",
+        "det": 1
+    },
+    {
+        "n1": "Roues",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "Portes",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "Fenêtres",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "Chemins",
+        "n2": "forêt",
+        "det": 1
+    },
+    {
+        "n1": "Rivages",
+        "n2": "rivière",
+        "det": 1
+    },
+    {
+        "n1": "Crêtes",
+        "n2": "montagne",
+        "det": 1
+    },
+    {
+        "n1": "Pentes",
+        "n2": "colline",
+        "det": 1
+    },
+    {
+        "n1": "Plages",
+        "n2": "lac",
+        "det": 1
+    },
+    {
+        "n1": "Îles",
+        "n2": "archipel",
+        "det": 1
+    },
+    {
+        "n1": "Fleurs",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "Herbes",
+        "n2": "pré",
+        "det": 1
+    },
+    {
+        "n1": "Troncs",
+        "n2": "palmiers",
+        "det": 2
+    },
+    {
+        "n1": "Écorces",
+        "n2": "arbres",
+        "det": 2
+    },
+    {
+        "n1": "Racines",
+        "n2": "plantes",
+        "det": 2
+    },
+    {
+        "n1": "Grains",
+        "n2": "café",
+        "det": 0
+    },
+    {
+        "n1": "Glands",
+        "n2": "chêne",
+        "det": 1
+    },
+    {
+        "n1": "Fleurs",
+        "n2": "cerisier",
+        "det": 1
+    },
+    {
+        "n1": "Feuilles",
+        "n2": "platane",
+        "det": 1
+    },
+    {
+        "n1": "Ailes",
+        "n2": "papillon",
+        "det": 1
+    },
+    {
+        "n1": "Plumes",
+        "n2": "paon",
+        "det": 1
+    },
+    {
+        "n1": "Dents",
+        "n2": "mâchoire",
+        "det": 1
+    },
+    {
+        "n1": "Os",
+        "n2": "bras",
+        "det": 1
+    },
+    {
+        "n1": "Clavicules",
+        "n2": "épaule",
+        "det": 1
+    },
+    {
+        "n1": "Vertèbres",
+        "n2": "colonne",
+        "det": 1
+    },
+    {
+        "n1": "Articulations",
+        "n2": "corps",
+        "det": 1
+    },
+    {
+        "n1": "Muscles",
+        "n2": "bras",
+        "det": 1
+    },
+    {
+        "n1": "Nerfs",
+        "n2": "cerveau",
+        "det": 1
+    },
+    {
+        "n1": "Vaisseaux",
+        "n2": "cœur",
+        "det": 1
+    },
+    {
+        "n1": "Poumons",
+        "n2": "homme",
+        "det": 1
+    },
+    {
+        "n1": "Sang",
+        "n2": "corps",
+        "det": 1
+    },
+    {
+        "n1": "Cellules",
+        "n2": "tissu",
+        "det": 1
+    },
+    {
+        "n1": "Chapitres",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "Paragraphe",
+        "n2": "texte",
+        "det": 1
+    },
+    {
+        "n1": "Notes",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "Cordes",
+        "n2": "violon",
+        "det": 1
+    },
+    {
+        "n1": "Boutons",
+        "n2": "chemise",
+        "det": 1
+    },
+    {
+        "n1": "Perles",
+        "n2": "collier",
+        "det": 0
+    },
+    {
+        "n1": "Tranches",
+        "n2": "gâteau",
+        "det": 1
+    },
+    {
+        "n1": "Morceaux",
+        "n2": "chocolat",
+        "det": 1
+    },
+    {
+        "n1": "Couleurs",
+        "n2": "tableau",
+        "det": 1
+    },
+    {
+        "n1": "Rayures",
+        "n2": "drapeau",
+        "det": 1
+    },
+    {
+        "n1": "Piquants",
+        "n2": "hérisson",
+        "det": 1
+    },
+    {
+        "n1": "Épines",
+        "n2": "roseau",
+        "det": 1
+    },
+    {
+        "n1": "Cornes",
+        "n2": "bélier",
+        "det": 1
+    },
+    {
+        "n1": "Voiles",
+        "n2": "voilier",
+        "det": 1
+    },
+    {
+        "n1": "Mâts",
+        "n2": "bateau",
+        "det": 1
+    },
+    {
+        "n1": "Rames",
+        "n2": "bateau",
+        "det": 1
+    },
+    {
+        "n1": "Roues",
+        "n2": "vélo",
+        "det": 0
+    },
+    {
+        "n1": "Portes",
+        "n2": "garage",
+        "det": 1
+    },
+    {
+        "n1": "Fenêtres",
+        "n2": "grenier",
+        "det": 1
+    },
+    {
+        "n1": "Chemins",
+        "n2": "campagne",
+        "det": 0
+    },
+    {
+        "n1": "Rivages",
+        "n2": "mer",
+        "det": 0
+    },
+    {
+        "n1": "Crêtes",
+        "n2": "collines",
+        "det": 2
+    },
+    {
+        "n1": "Pentes",
+        "n2": "montagne",
+        "det": 1
+    },
+    {
+        "n1": "Plages",
+        "n2": "sable",
+        "det": 0
+    },
+    {
+        "n1": "Îles",
+        "n2": "océan \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Fleurs",
+        "n2": "prairie \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Herbes",
+        "n2": "jardin \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Troncs",
+        "n2": "séquoia",
+        "det": 1
+    },
+    {
+        "n1": "Écorces",
+        "n2": "bouleau",
+        "det": 1
+    },
+    {
+        "n1": "Racines",
+        "n2": "chêne",
+        "det": 1
+    },
+    {
+        "n1": "Grains",
+        "n2": "riz",
+        "det": 0
+    },
+    {
+        "n1": "Feuilles",
+        "n2": "chêne",
+        "det": 1
+    },
+    {
+        "n1": "Poils",
+        "n2": "chien",
+        "det": 1
+    },
+    {
+        "n1": "Griffes",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "Ailes",
+        "n2": "mouche",
+        "det": 1
+    },
+    {
+        "n1": "Plumes",
+        "n2": "corbeau",
+        "det": 1
+    },
+    {
+        "n1": "Doigts",
+        "n2": "main",
+        "det": 1
+    },
+    {
+        "n1": "Orteil",
+        "n2": "pied",
+        "det": 1
+    },
+    {
+        "n1": "Épines",
+        "n2": "hérisson",
+        "det": 1
+    },
+    {
+        "n1": "Fruits",
+        "n2": "oranger",
+        "det": 1
+    },
+    {
+        "n1": "Branches",
+        "n2": "saule",
+        "det": 1
+    },
+    {
+        "n1": "Racines",
+        "n2": "érable",
+        "det": 1
+    },
+    {
+        "n1": "Troncs",
+        "n2": "peupliers",
+        "det": 2
+    },
+    {
+        "n1": "Fleurs",
+        "n2": "lilas",
+        "det": 1
+    },
+    {
+        "n1": "Grains",
+        "n2": "maïs // aussi composition",
+        "det": 0
+    },
+    {
+        "n1": "Pépins",
+        "n2": "pomme",
+        "det": 1
+    },
+    {
+        "n1": "Morceaux",
+        "n2": "chocolat // aussi composition",
+        "det": 0
+    },
+    {
+        "n1": "Tranches",
+        "n2": "pain",
+        "det": 0
+    },
+    {
+        "n1": "Pommes",
+        "n2": "terre du panier",
+        "det": 0
+    },
+    {
+        "n1": "Notes",
+        "n2": "partition",
+        "det": 1
+    },
+    {
+        "n1": "Cordes",
+        "n2": "harpe",
+        "det": 1
+    },
+    {
+        "n1": "Touches",
+        "n2": "orgue",
+        "det": 1
+    },
+    {
+        "n1": "Clés",
+        "n2": "piano",
+        "det": 1
+    },
+    {
+        "n1": "Boutons",
+        "n2": "veste",
+        "det": 1
+    },
+    {
+        "n1": "Rayures",
+        "n2": "zèbre",
+        "det": 1
+    },
+    {
+        "n1": "Taches",
+        "n2": "jaguar",
+        "det": 1
+    },
+    {
+        "n1": "Écailles",
+        "n2": "serpent",
+        "det": 1
+    },
+    {
+        "n1": "Aiguilles",
+        "n2": "pin",
+        "det": 1
+    },
+    {
+        "n1": "Piques",
+        "n2": "cactus",
+        "det": 1
+    },
+    {
+        "n1": "Rames",
+        "n2": "canot",
+        "det": 1
+    },
+    {
+        "n1": "Roues",
+        "n2": "bicyclette",
+        "det": 1
+    },
+    {
+        "n1": "Portes",
+        "n2": "grange",
+        "det": 1
+    },
+    {
+        "n1": "Chemins",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "Rivages",
+        "n2": "lac \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Crêtes",
+        "n2": "montagne \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Pentes",
+        "n2": "colline \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Plages",
+        "n2": "littoral \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Îles",
+        "n2": "archipel \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Fleurs",
+        "n2": "jardin \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Herbes",
+        "n2": "prairie \\\\ aussi origine",
+        "det": 1
+    },
+    {
+        "n1": "Grains",
+        "n2": "café \\\\ aussi matière",
+        "det": 0
+    },
+    {
+        "n1": "Paragraphes",
+        "n2": "texte",
+        "det": 1
+    },
+    {
+        "n1": "Morceaux",
+        "n2": "chocolat \\\\ aussi matière",
+        "det": 1
+    },
+    {
+        "n1": "Îles",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "Fleurs",
+        "n2": "prairie",
+        "det": 1
+    },
+    {
+        "n1": "Herbes",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "main",
+        "n2": "ma mère",
+        "det": 0
+    },
+    {
+        "n1": "bras",
+        "n2": "père",
+        "det": 0
+    },
+    {
+        "n1": "pieds",
+        "n2": "chaise",
+        "det": 1
+    },
+    {
+        "n1": "coussin",
+        "n2": "canapé",
+        "det": 1
+    },
+    {
+        "n1": "dents",
+        "n2": "requin",
+        "det": 1
+    },
+    {
+        "n1": "branche",
+        "n2": "arbre.",
+        "det": 1
+    },
+    {
+        "n1": "racine",
+        "n2": "plante.",
+        "det": 1
+    },
+    {
+        "n1": "pétale",
+        "n2": "fleur.",
+        "det": 1
+    },
+    {
+        "n1": "aile",
+        "n2": "oiseau.",
+        "det": 1
+    },
+    {
+        "n1": "nageoire",
+        "n2": "poisson.",
+        "det": 1
+    },
+    {
+        "n1": "abdomen",
+        "n2": "abeille.",
+        "det": 1
+    },
+    {
+        "n1": "coquille",
+        "n2": "escargot.",
+        "det": 1
+    },
+    {
+        "n1": "vague",
+        "n2": "océan.",
+        "det": 1
+    },
+    {
+        "n1": "sable",
+        "n2": "plage.",
+        "det": 1
+    },
+    {
+        "n1": "sommet",
+        "n2": "montagne.",
+        "det": 1
+    },
+    {
+        "n1": "tronc",
+        "n2": "éléphant.",
+        "det": 1
+    },
+    {
+        "n1": "crinière",
+        "n2": "lion.",
+        "det": 1
+    },
+    {
+        "n1": "feuille",
+        "n2": "arbre.",
+        "det": 1
+    },
+    {
+        "n1": "écorce",
+        "n2": "pin.",
+        "det": 1
+    },
+    {
+        "n1": "ruisseau",
+        "n2": "forêt.",
+        "det": 1
+    },
+    {
+        "n1": "doigt",
+        "n2": "main.",
+        "det": 1
+    },
+    {
+        "n1": "orteil",
+        "n2": "pied.",
+        "det": 1
+    },
+    {
+        "n1": "pupille",
+        "n2": "œil.",
+        "det": 1
+    },
+    {
+        "n1": "fémur",
+        "n2": "jambe.",
+        "det": 1
+    },
+    {
+        "n1": "lobe",
+        "n2": "oreille.",
+        "det": 1
+    },
+    {
+        "n1": "ventricule",
+        "n2": "cœur.",
+        "det": 1
+    },
+    {
+        "n1": "émail",
+        "n2": "dent.",
+        "det": 1
+    },
+    {
+        "n1": "rétine",
+        "n2": "œil.",
+        "det": 1
+    },
+    {
+        "n1": "mollet",
+        "n2": "jambe.",
+        "det": 1
+    },
+    {
+        "n1": "ongle",
+        "n2": "doigt.",
+        "det": 1
+    },
+    {
+        "n1": "avantbras",
+        "n2": "bras.",
+        "det": 1
+    },
+    {
+        "n1": "cornée",
+        "n2": "œil.",
+        "det": 1
+    },
+    {
+        "n1": "rotule",
+        "n2": "genou.",
+        "det": 1
+    },
+    {
+        "n1": "aorte",
+        "n2": "cœur.",
+        "det": 1
+    },
+    {
+        "n1": "iris",
+        "n2": "œil.",
+        "det": 1
+    },
+    {
+        "n1": "coque",
+        "n2": "bateau",
+        "det": 1
+    },
+    {
+        "n1": "écaille",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "roue",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "aile",
+        "n2": "avion",
+        "det": 1
+    },
+    {
+        "n1": "page",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "chapitre",
+        "n2": "roman",
+        "det": 1
+    },
+    {
+        "n1": "scène",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "acte",
+        "n2": "tragédie",
+        "det": 1
+    },
+    {
+        "n1": "membre",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "département",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "région",
+        "n2": "pays",
+        "det": 1
+    },
+    {
+        "n1": "province",
+        "n2": "État",
+        "det": 1
+    },
+    {
+        "n1": "quartier",
+        "n2": "ville",
+        "det": 1
+    },
+    {
+        "n1": "rue",
+        "n2": "village",
+        "det": 1
+    },
+    {
+        "n1": "place",
+        "n2": "cité",
+        "det": 1
+    },
+    {
+        "n1": "toit",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "fenêtre",
+        "n2": "immeuble",
+        "det": 1
+    },
+    {
+        "n1": "porte",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "clé",
+        "n2": "mystère",
+        "det": 1
+    },
+    {
+        "n1": "pièce",
+        "n2": "puzzle",
+        "det": 1
+    },
+    {
+        "n1": "élément",
+        "n2": "ensemble",
+        "det": 1
+    },
+    {
+        "n1": "partie",
+        "n2": "corps",
+        "det": 1
+    },
+    {
+        "n1": "organe",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "cellule",
+        "n2": "organisme",
+        "det": 1
+    },
+    {
+        "n1": "atome",
+        "n2": "molécule",
+        "det": 1
+    },
+    {
+        "n1": "planète",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "étoile",
+        "n2": "galaxie",
+        "det": 1
+    },
+    {
+        "n1": "satellite",
+        "n2": "planète",
+        "det": 1
+    },
+    {
+        "n1": "lune",
+        "n2": "Terre",
+        "det": 1
+    },
+    {
+        "n1": "anneau",
+        "n2": "Saturne",
+        "det": 0
+    },
+    {
+        "n1": "cratère",
+        "n2": "Lune",
+        "det": 1
+    },
+    {
+        "n1": "continent",
+        "n2": "monde",
+        "det": 1
+    },
+    {
+        "n1": "île",
+        "n2": "archipel",
+        "det": 1
+    },
+    {
+        "n1": "péninsule",
+        "n2": "continent",
+        "det": 1
+    },
+    {
+        "n1": "cap",
+        "n2": "côte",
+        "det": 1
+    },
+    {
+        "n1": "baie",
+        "n2": "océan",
+        "det": 1
+    },
+    {
+        "n1": "golfe",
+        "n2": "mer",
+        "det": 1
+    },
+    {
+        "n1": "delta",
+        "n2": "fleuve",
+        "det": 1
+    },
+    {
+        "n1": "affluent",
+        "n2": "rivière",
+        "det": 1
+    },
+    {
+        "n1": "source",
+        "n2": "rivière",
+        "det": 1
+    },
+    {
+        "n1": "glacier",
+        "n2": "montagne",
+        "det": 1
+    },
+    {
+        "n1": "sommet",
+        "n2": "chaîne",
+        "det": 1
+    },
+    {
+        "n1": "vallée",
+        "n2": "région",
+        "det": 1
+    },
+    {
+        "n1": "forêt",
+        "n2": "zone",
+        "det": 1
+    },
+    {
+        "n1": "clairière",
+        "n2": "forêt",
+        "det": 1
+    },
+    {
+        "n1": "buisson",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "racine",
+        "n2": "plante",
+        "det": 1
+    },
+    {
+        "n1": "feuille",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "molécule",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "atome",
+        "n2": "hydrogène",
+        "det": 0
+    },
+    {
+        "n1": "noyau",
+        "n2": "atome",
+        "det": 1
+    },
+    {
+        "n1": "électron",
+        "n2": "nuage",
+        "det": 1
+    },
+    {
+        "n1": "proton",
+        "n2": "noyau",
+        "det": 1
+    },
+    {
+        "n1": "neutron",
+        "n2": "atome",
+        "det": 1
+    },
+    {
+        "n1": "quark",
+        "n2": "particule",
+        "det": 0
+    },
+    {
+        "n1": "chromosome",
+        "n2": "cellule",
+        "det": 1
+    },
+    {
+        "n1": "gène",
+        "n2": "chromosome",
+        "det": 1
+    },
+    {
+        "n1": "ADN",
+        "n2": "génome",
+        "det": 1
+    },
+    {
+        "n1": "ARN",
+        "n2": "noyau",
+        "det": 1
+    },
+    {
+        "n1": "protéine",
+        "n2": "cytoplasme",
+        "det": 1
+    },
+    {
+        "n1": "enzyme",
+        "n2": "réaction",
+        "det": 1
+    },
+    {
+        "n1": "hormone",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "neurotransmetteur",
+        "n2": "cerveau",
+        "det": 1
+    },
+    {
+        "n1": "neurone",
+        "n2": "réseau",
+        "det": 1
+    },
+    {
+        "n1": "synapse",
+        "n2": "connexion",
+        "det": 0
+    },
+    {
+        "n1": "axone",
+        "n2": "neurone",
+        "det": 1
+    },
+    {
+        "n1": "dendrite",
+        "n2": "réception",
+        "det": 0
+    },
+    {
+        "n1": "lobe",
+        "n2": "cerveau",
+        "det": 1
+    },
+    {
+        "n1": "méninge",
+        "n2": "protection",
+        "det": 0
+    },
+    {
+        "n1": "vertèbre",
+        "n2": "colonne",
+        "det": 1
+    },
+    {
+        "n1": "côte",
+        "n2": "cage",
+        "det": 1
+    },
+    {
+        "n1": "sternum",
+        "n2": "thorax",
+        "det": 1
+    },
+    {
+        "n1": "clavicule",
+        "n2": "épaule",
+        "det": 1
+    },
+    {
+        "n1": "omoplate",
+        "n2": "dos",
+        "det": 1
+    },
+    {
+        "n1": "bassin",
+        "n2": "squelette",
+        "det": 1
+    },
+    {
+        "n1": "fémur",
+        "n2": "cuisse",
+        "det": 1
+    },
+    {
+        "n1": "tibia",
+        "n2": "jambe",
+        "det": 1
+    },
+    {
+        "n1": "péroné",
+        "n2": "jambe",
+        "det": 1
+    },
+    {
+        "n1": "rotule",
+        "n2": "genou",
+        "det": 1
+    },
+    {
+        "n1": "cheville",
+        "n2": "pied",
+        "det": 1
+    },
+    {
+        "n1": "talon",
+        "n2": "jambe",
+        "det": 1
+    },
+    {
+        "n1": "orteil",
+        "n2": "pied",
+        "det": 1
+    },
+    {
+        "n1": "phalange",
+        "n2": "doigt",
+        "det": 1
+    },
+    {
+        "n1": "métacarpe",
+        "n2": "main",
+        "det": 1
+    },
+    {
+        "n1": "carpe",
+        "n2": "poignet",
+        "det": 1
+    },
+    {
+        "n1": "radius",
+        "n2": "avantbras",
+        "det": 1
+    },
+    {
+        "n1": "cubitus",
+        "n2": "bras",
+        "det": 1
+    },
+    {
+        "n1": "humérus",
+        "n2": "bras",
+        "det": 1
+    },
+    {
+        "n1": "sacrum",
+        "n2": "bassin",
+        "det": 1
+    },
+    {
+        "n1": "coccyx",
+        "n2": "colonne",
+        "det": 1
+    },
+    {
+        "n1": "maxillaire",
+        "n2": "face",
+        "det": 1
+    },
+    {
+        "n1": "dent",
+        "n2": "requin",
+        "det": 1
+    },
+    {
+        "n1": "doigt",
+        "n2": "main",
+        "det": 1
+    },
+    {
+        "n1": "pierre",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "étage",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "touche",
+        "n2": "clavier",
+        "det": 1
+    },
+    {
+        "n1": "bouton",
+        "n2": "manteau",
+        "det": 1
+    },
+    {
+        "n1": "marche",
+        "n2": "escalier",
+        "det": 1
+    },
+    {
+        "n1": "vitre",
+        "n2": "fenêtre",
+        "det": 1
+    },
+    {
+        "n1": "pétale",
+        "n2": "rose",
+        "det": 1
+    },
+    {
+        "n1": "vis",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "fil",
+        "n2": "tissu",
+        "det": 1
+    },
+    {
+        "n1": "planche",
+        "n2": "parquet",
+        "det": 1
+    },
+    {
+        "n1": "corde",
+        "n2": "guitare",
+        "det": 1
+    },
+    {
+        "n1": "poil",
+        "n2": "chat",
+        "det": 1
+    },
+    {
+        "n1": "boulon",
+        "n2": "pont",
+        "det": 1
+    },
+    {
+        "n1": "case",
+        "n2": "tableau",
+        "det": 1
+    },
+    {
+        "n1": "pixel",
+        "n2": "écran",
+        "det": 1
+    },
+    {
+        "n1": "graine",
+        "n2": "fruit",
+        "det": 1
+    },
+    {
+        "n1": "os",
+        "n2": "squelette",
+        "det": 1
+    },
+    {
+        "n1": "nerf",
+        "n2": "bras",
+        "det": 1
+    },
+    {
+        "n1": "cellule",
+        "n2": "corps",
+        "det": 1
+    },
+    {
+        "n1": "note",
+        "n2": "mélodie",
+        "det": 1
+    },
+    {
+        "n1": "barre",
+        "n2": "code",
+        "det": 1
+    },
+    {
+        "n1": "touche",
+        "n2": "piano",
+        "det": 1
+    },
+    {
+        "n1": "rayon",
+        "n2": "roue",
+        "det": 1
+    },
+    {
+        "n1": "boulon",
+        "n2": "machine",
+        "det": 1
+    },
+    {
+        "n1": "page",
+        "n2": "cahier",
+        "det": 1
+    },
+    {
+        "n1": "vers",
+        "n2": "poème",
+        "det": 1
+    },
+    {
+        "n1": "feuille",
+        "n2": "cahier",
+        "det": 1
+    },
+    {
+        "n1": "rangée",
+        "n2": "théâtre",
+        "det": 1
+    },
+    {
+        "n1": "élément",
+        "n2": "décor",
+        "det": 1
+    },
+    {
+        "n1": "pierre",
+        "n2": "route",
+        "det": 1
+    },
+    {
+        "n1": "touche",
+        "n2": "téléphone",
+        "det": 1
+    },
+    {
+        "n1": "vis",
+        "n2": "meuble",
+        "det": 1
+    },
+    {
+        "n1": "dent",
+        "n2": "clé",
+        "det": 1
+    },
+    {
+        "n1": "rayon",
+        "n2": "lumière",
+        "det": 0
+    },
+    {
+        "n1": "tige",
+        "n2": "fleur",
+        "det": 1
+    },
+    {
+        "n1": "feuille",
+        "n2": "vigne",
+        "det": 0
+    },
+    {
+        "n1": "panneau",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "corde",
+        "n2": "violon",
+        "det": 1
+    },
+    {
+        "n1": "alvéole",
+        "n2": "ruche",
+        "det": 1
+    },
+    {
+        "n1": "flèche",
+        "n2": "cathédrale.",
+        "det": 1
+    },
+    {
+        "n1": "clocher",
+        "n2": "église.",
+        "det": 1
+    },
+    {
+        "n1": "colonne",
+        "n2": "temple.",
+        "det": 1
+    },
+    {
+        "n1": "dôme",
+        "n2": "palais.",
+        "det": 1
+    },
+    {
+        "n1": "charpente",
+        "n2": "grange.",
+        "det": 1
+    },
+    {
+        "n1": "fondation",
+        "n2": "édifice.",
+        "det": 1
+    },
+    {
+        "n1": "poutre",
+        "n2": "plafond.",
+        "det": 1
+    },
+    {
+        "n1": "linteau",
+        "n2": "porte.",
+        "det": 1
+    },
+    {
+        "n1": "girouette",
+        "n2": "toit.",
+        "det": 1
+    },
+    {
+        "n1": "gardecorps",
+        "n2": "balcon.",
+        "det": 1
+    },
+    {
+        "n1": "processeur",
+        "n2": "ordinateur.",
+        "det": 1
+    },
+    {
+        "n1": "disque dur",
+        "n2": "serveur.",
+        "det": 1
+    },
+    {
+        "n1": "carte mère",
+        "n2": "tour.",
+        "det": 1
+    },
+    {
+        "n1": "puce",
+        "n2": "smartphone.",
+        "det": 1
+    },
+    {
+        "n1": "capteur",
+        "n2": "appareil photo.",
+        "det": 1
+    },
+    {
+        "n1": "écran tactile",
+        "n2": "tablette.",
+        "det": 1
+    },
+    {
+        "n1": "circuit imprimé",
+        "n2": "contrôleur.",
+        "det": 1
+    },
+    {
+        "n1": "transitor",
+        "n2": "microprocesseur.",
+        "det": 1
+    },
+    {
+        "n1": "batterie",
+        "n2": "véhicule électrique.",
+        "det": 1
+    },
+    {
+        "n1": "firmware",
+        "n2": "imprimante.",
+        "det": 1
+    },
+    {
+        "n1": "alvéole",
+        "n2": "poumon.",
+        "det": 1
+    },
+    {
+        "n1": "néphron",
+        "n2": "rein.",
+        "det": 1
+    },
+    {
+        "n1": "villosité",
+        "n2": "intestin.",
+        "det": 1
+    },
+    {
+        "n1": "follicule",
+        "n2": "cheveu.",
+        "det": 1
+    },
+    {
+        "n1": "mélanocyte",
+        "n2": "peau.",
+        "det": 1
+    },
+    {
+        "n1": "plaque motrice",
+        "n2": "muscle.",
+        "det": 1
+    },
+    {
+        "n1": "canalicule",
+        "n2": "os.",
+        "det": 1
+    },
+    {
+        "n1": "valvule",
+        "n2": "veine.",
+        "det": 1
+    },
+    {
+        "n1": "corps cellulaire",
+        "n2": "neurone.",
+        "det": 1
+    },
+    {
+        "n1": "noyau basal",
+        "n2": "cerveau.",
+        "det": 1
+    },
+    {
+        "n1": "banlieue",
+        "n2": "métropole.",
+        "det": 1
+    },
+    {
+        "n1": "agglomération",
+        "n2": "villecentre.",
+        "det": 1
+    },
+    {
+        "n1": "mégalopole",
+        "n2": "pays.",
+        "det": 1
+    },
+    {
+        "n1": "échangeur",
+        "n2": "autoroute.",
+        "det": 1
+    },
+    {
+        "n1": "rondpoint",
+        "n2": "route.",
+        "det": 1
+    },
+    {
+        "n1": "jetée",
+        "n2": "port.",
+        "det": 1
+    },
+    {
+        "n1": "phare",
+        "n2": "côte.",
+        "det": 1
+    },
+    {
+        "n1": "oasis",
+        "n2": "désert.",
+        "det": 1
+    },
+    {
+        "n1": "confluent",
+        "n2": "fleuve.",
+        "det": 1
+    },
+    {
+        "n1": "estuaire",
+        "n2": "rivière.",
+        "det": 1
+    },
+    {
+        "n1": "filiale",
+        "n2": "groupe.",
+        "det": 1
+    },
+    {
+        "n1": "chapitre",
+        "n2": "association.",
+        "det": 1
+    },
+    {
+        "n1": "section",
+        "n2": "parti politique.",
+        "det": 1
+    },
+    {
+        "n1": "commission",
+        "n2": "parlement.",
+        "det": 1
+    },
+    {
+        "n1": "diocèse",
+        "n2": "Église.",
+        "det": 1
+    },
+    {
+        "n1": "commune",
+        "n2": "région.",
+        "det": 1
+    },
+    {
+        "n1": "circonscription",
+        "n2": "État.",
+        "det": 1
+    },
+    {
+        "n1": "tribunal",
+        "n2": "juridiction.",
+        "det": 1
+    },
+    {
+        "n1": "caserne",
+        "n2": "brigade.",
+        "det": 1
+    },
+    {
+        "n1": "mouvement",
+        "n2": "symphonie.",
+        "det": 1
+    },
+    {
+        "n1": "couplet",
+        "n2": "chanson.",
+        "det": 1
+    },
+    {
+        "n1": "refrain",
+        "n2": "tube.",
+        "det": 1
+    },
+    {
+        "n1": "solo",
+        "n2": "concert.",
+        "det": 1
+    },
+    {
+        "n1": "décor",
+        "n2": "film.",
+        "det": 1
+    },
+    {
+        "n1": "planséquence",
+        "n2": "scène.",
+        "det": 1
+    },
+    {
+        "n1": "montage",
+        "n2": "film.",
+        "det": 1
+    },
+    {
+        "n1": "touche",
+        "n2": "tableau.",
+        "det": 1
+    },
+    {
+        "n1": "chapitre",
+        "n2": "série.",
+        "det": 1
+    },
+    {
+        "n1": "phonème",
+        "n2": "mot.",
+        "det": 1
+    },
+    {
+        "n1": "morphème",
+        "n2": "lexème.",
+        "det": 1
+    },
+    {
+        "n1": "syntagme",
+        "n2": "phrase.",
+        "det": 1
+    },
+    {
+        "n1": "proposition",
+        "n2": "phrase complexe.",
+        "det": 1
+    },
+    {
+        "n1": "paragraphe",
+        "n2": "texte.",
+        "det": 1
+    },
+    {
+        "n1": "ponctuation",
+        "n2": "phrase.",
+        "det": 1
+    },
+    {
+        "n1": "préfixe",
+        "n2": "mot dérivé.",
+        "det": 1
+    },
+    {
+        "n1": "suffixe",
+        "n2": "formation.",
+        "det": 1
+    },
+    {
+        "n1": "racine",
+        "n2": "mot.",
+        "det": 1
+    },
+    {
+        "n1": "désinence",
+        "n2": "mot fléchi.",
+        "det": 1
+    },
+    {
+        "n1": "germe",
+        "n2": "grain",
+        "det": 1
+    },
+    {
+        "n1": "amande",
+        "n2": "noix.",
+        "det": 1
+    },
+    {
+        "n1": "chapelure",
+        "n2": "pain.",
+        "det": 1
+    },
+    {
+        "n1": "croûton",
+        "n2": "soupe.",
+        "det": 1
+    },
+    {
+        "n1": "noyau",
+        "n2": "olive.",
+        "det": 1
+    },
+    {
+        "n1": "pépin",
+        "n2": "pomme.",
+        "det": 1
+    },
+    {
+        "n1": "mie",
+        "n2": "pain.",
+        "det": 1
+    },
+    {
+        "n1": "glaçage",
+        "n2": "gâteau.",
+        "det": 1
+    },
+    {
+        "n1": "grain",
+        "n2": "grenade.",
+        "det": 1
+    },
+    {
+        "n1": "ion",
+        "n2": "solution.",
+        "det": 1
+    },
+    {
+        "n1": "photon",
+        "n2": "lumière.",
+        "det": 1
+    },
+    {
+        "n1": "isotope",
+        "n2": "élément.",
+        "det": 1
+    },
+    {
+        "n1": "orbite",
+        "n2": "électron.",
+        "det": 1
+    },
+    {
+        "n1": "neutron",
+        "n2": "noyau atomique.",
+        "det": 1
+    },
+    {
+        "n1": "couche électronique",
+        "n2": "atome.",
+        "det": 1
+    },
+    {
+        "n1": "polymère",
+        "n2": "matière plastique.",
+        "det": 1
+    },
+    {
+        "n1": "cristal",
+        "n2": "minéral.",
+        "det": 1
+    },
+    {
+        "n1": "molécule",
+        "n2": "polymère.",
+        "det": 1
+    },
+    {
+        "n1": "maillon",
+        "n2": "chaîne.",
+        "det": 1
+    },
+    {
+        "n1": "ressort",
+        "n2": "mécanisme.",
+        "det": 1
+    },
+    {
+        "n1": "pignon",
+        "n2": "engrenage.",
+        "det": 1
+    },
+    {
+        "n1": "fil",
+        "n2": "ampoule.",
+        "det": 1
+    },
+    {
+        "n1": "tambour",
+        "n2": "machine à laver.",
+        "det": 1
+    },
+    {
+        "n1": "agenda",
+        "n2": "logiciel.",
+        "det": 1
+    },
+    {
+        "n1": "logiciel",
+        "n2": "suite bureautique.",
+        "det": 1
+    },
+    {
+        "n1": "lacet",
+        "n2": "chaussure.",
+        "det": 1
+    },
+    {
+        "n1": "capuchon",
+        "n2": "stylo.",
+        "det": 1
+    },
+    {
+        "n1": "manche",
+        "n2": "couteau",
+        "det": 1
+    },
+    {
+        "n1": "écran",
+        "n2": "ordinateur",
+        "det": 1
+    },
+    {
+        "n1": "moteur",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "branche",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "roue",
+        "n2": "vélo",
+        "det": 1
+    },
+    {
+        "n1": "lame",
+        "n2": "épée",
+        "det": 1
+    },
+    {
+        "n1": "voile",
+        "n2": "navire",
+        "det": 1
+    },
+    {
+        "n1": "porte",
+        "n2": "armoire",
+        "det": 1
+    },
+    {
+        "n1": "poignée",
+        "n2": "tiroir",
+        "det": 1
+    },
+    {
+        "n1": "pédale",
+        "n2": "vélo",
+        "det": 1
+    },
+    {
+        "n1": "volant",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "chapitre",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "scène",
+        "n2": "film",
+        "det": 1
+    },
+    {
+        "n1": "fenêtre",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "batterie",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "carte mère",
+        "n2": "ordinateur",
+        "det": 1
+    },
+    {
+        "n1": "couvercle",
+        "n2": "boîte",
+        "det": 1
+    },
+    {
+        "n1": "antenne",
+        "n2": "télévision",
+        "det": 1
+    },
+    {
+        "n1": "miroir",
+        "n2": "salle de bain",
+        "det": 1
+    },
+    {
+        "n1": "bouton",
+        "n2": "télécommande",
+        "det": 1
+    },
+    {
+        "n1": "clavier",
+        "n2": "ordinateur",
+        "det": 1
+    },
+    {
+        "n1": "écran",
+        "n2": "smartphone",
+        "det": 1
+    },
+    {
+        "n1": "hautparleur",
+        "n2": "radio",
+        "det": 1
+    },
+    {
+        "n1": "planète",
+        "n2": "système solaire",
+        "det": 1
+    },
+    {
+        "n1": "fleur",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "grappe",
+        "n2": "raisin",
+        "det": 0
+    },
+    {
+        "n1": "branche",
+        "n2": "arbuste",
+        "det": 1
+    },
+    {
+        "n1": "bulbe",
+        "n2": "oignon",
+        "det": 1
+    },
+    {
+        "n1": "graine",
+        "n2": "fleur",
+        "det": 1
+    },
+    {
+        "n1": "fruit",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "écorce",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "branche",
+        "n2": "vigne",
+        "det": 1
+    },
+    {
+        "n1": "clé",
+        "n2": "piano",
+        "det": 1
+    },
+    {
+        "n1": "frette",
+        "n2": "guitare",
+        "det": 1
+    },
+    {
+        "n1": "goudron",
+        "n2": "route",
+        "det": 1
+    },
+    {
+        "n1": "semelle",
+        "n2": "chaussure",
+        "det": 1
+    },
+    {
+        "n1": "lame",
+        "n2": "scie",
+        "det": 1
+    },
+    {
+        "n1": "poche",
+        "n2": "pantalon",
+        "det": 1
+    },
+    {
+        "n1": "cadre",
+        "n2": "tableau",
+        "det": 1
+    },
+    {
+        "n1": "poignée",
+        "n2": "porte",
+        "det": 1
+    },
+    {
+        "n1": "colonne",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "cheminée",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "colonne",
+        "n2": "alambic",
+        "det": 1
+    },
+    {
+        "n1": "roue",
+        "n2": "tracteur",
+        "det": 1
+    },
+    {
+        "n1": "antenne",
+        "n2": "satellite",
+        "det": 1
+    },
+    {
+        "n1": "batterie",
+        "n2": "téléphone",
+        "det": 1
+    },
+    {
+        "n1": "écran",
+        "n2": "télévision",
+        "det": 1
+    },
+    {
+        "n1": "ampoule",
+        "n2": "lampe",
+        "det": 1
+    },
+    {
+        "n1": "pied",
+        "n2": "chaise",
+        "det": 1
+    },
+    {
+        "n1": "bras",
+        "n2": "fauteuil",
+        "det": 1
+    },
+    {
+        "n1": "sangle",
+        "n2": "sac",
+        "det": 1
+    },
+    {
+        "n1": "couvercle",
+        "n2": "casserole",
+        "det": 1
+    },
+    {
+        "n1": "anse",
+        "n2": "tasse",
+        "det": 1
+    },
+    {
+        "n1": "lentille",
+        "n2": "microscope",
+        "det": 1
+    },
+    {
+        "n1": "objectif",
+        "n2": "appareil photo",
+        "det": 1
+    },
+    {
+        "n1": "diaphragme",
+        "n2": "appareil photo",
+        "det": 1
+    },
+    {
+        "n1": "batterie",
+        "n2": "montre",
+        "det": 1
+    },
+    {
+        "n1": "cadran",
+        "n2": "montre",
+        "det": 1
+    },
+    {
+        "n1": "bracelet",
+        "n2": "montre",
+        "det": 1
+    },
+    {
+        "n1": "aiguille",
+        "n2": "montre",
+        "det": 1
+    },
+    {
+        "n1": "main",
+        "n2": "Gabrielle",
+        "det": 0
+    },
+    {
+        "n1": "yeux",
+        "n2": "Paul",
+        "det": 0
+    },
+    {
+        "n1": "bouche",
+        "n2": "Sophie",
+        "det": 0
+    },
+    {
+        "n1": "oreilles",
+        "n2": "Thomas",
+        "det": 0
+    },
+    {
+        "n1": "cheveux",
+        "n2": "Laura",
+        "det": 0
+    },
+    {
+        "n1": "transistor",
+        "n2": "processeur",
+        "det": 1
+    },
+    {
+        "n1": "circuit",
+        "n2": "processeur",
+        "det": 1
+    },
+    {
+        "n1": "proton",
+        "n2": "atome",
+        "det": 1
+    },
+    {
+        "n1": "electron",
+        "n2": "atome",
+        "det": 1
+    },
+    {
+        "n1": "manche",
+        "n2": "tshirt",
+        "det": 1
+    },
+    {
+        "n1": "colonne",
+        "n2": "temple",
+        "det": 1
+    },
+    {
+        "n1": "pignon",
+        "n2": "vélo",
+        "det": 1
+    },
+    {
+        "n1": "dent",
+        "n2": "scie",
+        "det": 1
+    },
+    {
+        "n1": "pédale",
+        "n2": "piano",
+        "det": 1
+    },
+    {
+        "n1": "peau",
+        "n2": "orange",
+        "det": 1
+    },
+    {
+        "n1": "chair",
+        "n2": "tomate",
+        "det": 1
+    },
+    {
+        "n1": "pupille",
+        "n2": "œil",
+        "det": 1
+    },
+    {
+        "n1": "iris",
+        "n2": "œil",
+        "det": 1
+    },
+    {
+        "n1": "cornée",
+        "n2": "œil",
+        "det": 1
+    },
+    {
+        "n1": "cristallin",
+        "n2": "œil",
+        "det": 1
+    },
+    {
+        "n1": "sabot",
+        "n2": "vache",
+        "det": 1
+    },
+    {
+        "n1": "plume",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "aile",
+        "n2": "oiseau",
+        "det": 1
+    },
+    {
+        "n1": "griffe",
+        "n2": "lion",
+        "det": 1
+    },
+    {
+        "n1": "branchie",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "bois",
+        "n2": "cerf",
+        "det": 0
+    }
+]

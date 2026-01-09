@@ -1,0 +1,1587 @@
+[
+    {
+        "n1": "Avocat",
+        "n2": "femme battue",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "groupe",
+        "det": 1
+    },
+    {
+        "n1": "Directeur",
+        "n2": "entreprise",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "association",
+        "det": 0
+    },
+    {
+        "n1": "Entraîneur",
+        "n2": "équipe",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "élève",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "patient",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "tribunal",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "navire",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "parti",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "projet",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "gouvernement",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "équipe de football",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "unité",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "programme",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "organisation",
+        "det": 0
+    },
+    {
+        "n1": "Coordinateur",
+        "n2": "événement",
+        "det": 0
+    },
+    {
+        "n1": "Inspecteur",
+        "n2": "école",
+        "det": 0
+    },
+    {
+        "n1": "Gestionnaire",
+        "n2": "budget",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "école",
+        "det": 0
+    },
+    {
+        "n1": "Représentant",
+        "n2": "entreprise",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "conseil",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "brigade",
+        "det": 0
+    },
+    {
+        "n1": "Formateur",
+        "n2": "équipe",
+        "det": 0
+    },
+    {
+        "n1": "Superviseur",
+        "n2": "chantier",
+        "det": 0
+    },
+    {
+        "n1": "Rédacteur",
+        "n2": "journal",
+        "det": 0
+    },
+    {
+        "n1": "Maître",
+        "n2": "maison",
+        "det": 0
+    },
+    {
+        "n1": "Ambassadeur",
+        "n2": "pays",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "équipe sportive",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "communication",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "filiale",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "fondation",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "institution",
+        "det": 0
+    },
+    {
+        "n1": "Coach",
+        "n2": "équipe",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "atelier",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "délégation",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "cour",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "clinique",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "service",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "département",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "comité",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "bataillon",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "association",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "société",
+        "det": 0
+    },
+    {
+        "n1": "Coordinateur",
+        "n2": "projet",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "compagnie",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "équipe",
+        "det": 0
+    },
+    {
+        "n1": "Gestionnaire",
+        "n2": "portefeuille",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "classe",
+        "det": 0
+    },
+    {
+        "n1": "Entraîneur",
+        "n2": "athlète",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "programme",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "mission",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "émission",
+        "det": 0
+    },
+    {
+        "n1": "Représentant",
+        "n2": "organisation",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "groupe",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "entreprise",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "navire marchand",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "escadron",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "syndicat",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "clinique privée",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "juridiction",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "service public",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "agence",
+        "det": 0
+    },
+    {
+        "n1": "Entraîneur",
+        "n2": "équipe nationale",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "maire",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "émission de radio",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "enquête",
+        "det": 0
+    },
+    {
+        "n1": "Coordinateur",
+        "n2": "opération",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "initiative",
+        "det": 0
+    },
+    {
+        "n1": "Gestionnaire",
+        "n2": "fonds",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "université",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "bateau de croisière",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "compagnie aérienne",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "organisation internationale",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "vaisseau",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "département technique",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "comité local",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "orchestre",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "programme culturel",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "société civile",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "projet humanitaire",
+        "det": 0
+    },
+    {
+        "n1": "Coordonnateur",
+        "n2": "mission",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "régiment",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "instance",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "hôpital",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "clinique",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "jury",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "unité",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "groupe de travail",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "atelier pédagogique",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "école",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "formation",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "étudiant",
+        "det": 0
+    },
+    {
+        "n1": "Gestionnaire",
+        "n2": "compte",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "section",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "centre",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "équipe de basket",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "ministre",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "émission télévisée",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "événement",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "collège",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "équipe de projet",
+        "det": 0
+    },
+    {
+        "n1": "Entraîneur",
+        "n2": "sportif professionnel",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "entreprise publique",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "association locale",
+        "det": 0
+    },
+    {
+        "n1": "Coordonnateur",
+        "n2": "programme",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "escadre",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "groupe politique",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "équipe sportive",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "tribunal régional",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "festival",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "dossier",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "délégation officielle",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "institut",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "fédération",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "corps",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "mission sociale",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "groupe",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "entreprise",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "navire de guerre",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "école primaire",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "séance",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "brigade de pompiers",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "commission",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "groupe de recherche",
+        "det": 0
+    },
+    {
+        "n1": "Coordonnateur",
+        "n2": "chantier",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "organisation caritative",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "équipe médicale",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "étude",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "société",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "équipe de rugby",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "groupe",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "département",
+        "det": 0
+    },
+    {
+        "n1": "Entraîneur",
+        "n2": "équipe de volley",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "cellule",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "unité militaire",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "club",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "classe de collège",
+        "det": 0
+    },
+    {
+        "n1": "Gestionnaire",
+        "n2": "service",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "programme éducatif",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "association sportive",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "mission diplomatique",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "comité",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "groupe de jeunes",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "patrouille",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "dirigeant",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "équipe",
+        "det": 0
+    },
+    {
+        "n1": "Coordonnateur",
+        "n2": "opération humanitaire",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "maison de retraite",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "chambre",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "fondation",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "syndicat",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "brigade",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "agence",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "projet social",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "groupe de travail",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "institution",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "équipe de recherche",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "escouade",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "cours",
+        "det": 0
+    },
+    {
+        "n1": "Gestionnaire",
+        "n2": "centre",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "département de recherche",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "comité exécutif",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "flottille",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "mission scientifique",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "délégation commerciale",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "club",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "cabinet",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "mission éducative",
+        "det": 0
+    },
+    {
+        "n1": "Coordonnateur",
+        "n2": "équipe",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "unité de secours",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "juridiction spécialisée",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "unité médicale",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "programme culturel",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "organisation politique",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "unité de production",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "groupe étudiant",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "session pédagogique",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "association culturelle",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "coordination",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "atelier",
+        "det": 0
+    },
+    {
+        "n1": "Gestionnaire",
+        "n2": "projet technique",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "unité de police",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "école secondaire",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "section militaire",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "comité de direction",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "événement",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "programme",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "collège scientifique",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "équipe de projet humanitaire",
+        "det": 0
+    },
+    {
+        "n1": "Entraîneur",
+        "n2": "club sportif",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "société privée",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "conseil municipal",
+        "det": 0
+    },
+    {
+        "n1": "Coordonnateur",
+        "n2": "programme de formation",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "escadre aérienne",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "groupe de bénévoles",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "instance judiciaire",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "émission culturelle",
+        "det": 0
+    },
+    {
+        "n1": "Chargé",
+        "n2": "projet",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "délégation internationale",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "institution scientifique",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "fédération sportive",
+        "det": 0
+    },
+    {
+        "n1": "Commandant",
+        "n2": "régiment",
+        "det": 0
+    },
+    {
+        "n1": "Responsable",
+        "n2": "cellule stratégique",
+        "det": 0
+    },
+    {
+        "n1": "Professeur",
+        "n2": "module universitaire",
+        "det": 0
+    },
+    {
+        "n1": "Gestionnaire",
+        "n2": "portefeuille client",
+        "det": 0
+    },
+    {
+        "n1": "Conseiller",
+        "n2": "dirigeant politique",
+        "det": 0
+    },
+    {
+        "n1": "Capitaine",
+        "n2": "bateau de sauvetage",
+        "det": 0
+    },
+    {
+        "n1": "Directeur",
+        "n2": "école technique",
+        "det": 0
+    },
+    {
+        "n1": "Animateur",
+        "n2": "activité ludique",
+        "det": 0
+    },
+    {
+        "n1": "Chef",
+        "n2": "brigade de sécurité",
+        "det": 0
+    },
+    {
+        "n1": "Secrétaire",
+        "n2": "commission municipale",
+        "det": 0
+    },
+    {
+        "n1": "Leader",
+        "n2": "groupe artistique",
+        "det": 0
+    },
+    {
+        "n1": "Coordonnateur",
+        "n2": "opération logistique",
+        "det": 0
+    },
+    {
+        "n1": "Président",
+        "n2": "association humanitaire",
+        "det": 0
+    },
+    {
+        "n1": "Médecin",
+        "n2": "unité de soins",
+        "det": 0
+    },
+    {
+        "n1": "Juge",
+        "n2": "cour administrative",
+        "det": 0
+    },
+    {
+        "n1": "avocat",
+        "n2": "défense",
+        "det": 1
+    },
+    {
+        "n1": "médecin",
+        "n2": "famille",
+        "det": 0
+    },
+    {
+        "n1": "chef",
+        "n2": "groupe",
+        "det": 1
+    },
+    {
+        "n1": "président",
+        "n2": "association",
+        "det": 1
+    },
+    {
+        "n1": "directeur",
+        "n2": "école",
+        "det": 1
+    },
+    {
+        "n1": "entraîneur",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "professeur",
+        "n2": "étudiants",
+        "det": 2
+    },
+    {
+        "n1": "tuteur",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "conseiller",
+        "n2": "ministre",
+        "det": 1
+    },
+    {
+        "n1": "secrétaire",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "ami",
+        "n2": "Pierre",
+        "det": 0
+    },
+    {
+        "n1": "collègue",
+        "n2": "Marie",
+        "det": 0
+    },
+    {
+        "n1": "voisin",
+        "n2": "quartier",
+        "det": 1
+    },
+    {
+        "n1": "employé",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "représentant",
+        "n2": "salariés",
+        "det": 2
+    },
+    {
+        "n1": "capitaine",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "délégué",
+        "n2": "classe",
+        "det": 0
+    },
+    {
+        "n1": "maire",
+        "n2": "ville",
+        "det": 1
+    },
+    {
+        "n1": "gardien",
+        "n2": "immeuble",
+        "det": 1
+    },
+    {
+        "n1": "chef",
+        "n2": "tribu",
+        "det": 1
+    },
+    {
+        "n1": "entraîneur",
+        "n2": "joueur",
+        "det": 1
+    },
+    {
+        "n1": "mentor",
+        "n2": "apprenti",
+        "det": 1
+    },
+    {
+        "n1": "professeur",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "intervenant",
+        "n2": "association",
+        "det": 1
+    },
+    {
+        "n1": "trésorier",
+        "n2": "association",
+        "det": 1
+    },
+    {
+        "n1": "viceprésident",
+        "n2": "association",
+        "det": 1
+    },
+    {
+        "n1": "secrétaire",
+        "n2": "maire",
+        "det": 1
+    },
+    {
+        "n1": "conseiller",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "responsable",
+        "n2": "service",
+        "det": 1
+    },
+    {
+        "n1": "mère",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "adjoint",
+        "n2": "maire",
+        "det": 1
+    },
+    {
+        "n1": "père",
+        "n2": "famille",
+        "det": 1
+    },
+    {
+        "n1": "ami",
+        "n2": "enfance",
+        "det": 0
+    },
+    {
+        "n1": "camarade",
+        "n2": "travail",
+        "det": 0
+    },
+    {
+        "n1": "coach",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "porteparole",
+        "n2": "gouvernement",
+        "det": 1
+    },
+    {
+        "n1": "coach",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "chef",
+        "n2": "projet",
+        "det": 0
+    },
+    {
+        "n1": "partenaire",
+        "n2": "affaires",
+        "det": 0
+    },
+    {
+        "n1": "mentor",
+        "n2": "artiste",
+        "det": 1
+    },
+    {
+        "n1": "mentor",
+        "n2": "étudiant",
+        "det": 1
+    },
+    {
+        "n1": "protecteur",
+        "n2": "peuple",
+        "det": 1
+    },
+    {
+        "n1": "gardien",
+        "n2": "musée",
+        "det": 1
+    },
+    {
+        "n1": "conseiller",
+        "n2": "roi",
+        "det": 1
+    },
+    {
+        "n1": "assistant",
+        "n2": "maire",
+        "det": 1
+    },
+    {
+        "n1": "assistant",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "assistant",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "avocat",
+        "n2": "client",
+        "det": 1
+    },
+    {
+        "n1": "ami",
+        "n2": "famille",
+        "det": 1
+    },
+    {
+        "n1": "chef",
+        "n2": "police",
+        "det": 1
+    },
+    {
+        "n1": "conseiller",
+        "n2": "président",
+        "det": 1
+    },
+    {
+        "n1": "camarade",
+        "n2": "classe",
+        "det": 0
+    },
+    {
+        "n1": "collaborateur",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "partenaire",
+        "n2": "danse",
+        "det": 0
+    },
+    {
+        "n1": "ministre",
+        "n2": "culture",
+        "det": 1
+    },
+    {
+        "n1": "directeur",
+        "n2": "opérations",
+        "det": 2
+    },
+    {
+        "n1": "directeur",
+        "n2": "ressources humaines",
+        "det": 2
+    },
+    {
+        "n1": "chef",
+        "n2": "sécurité",
+        "det": 1
+    },
+    {
+        "n1": "coordinateur",
+        "n2": "événement",
+        "det": 1
+    },
+    {
+        "n1": "coordinateur",
+        "n2": "projet",
+        "det": 0
+    },
+    {
+        "n1": "gestionnaire",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "partenaire",
+        "n2": "projet",
+        "det": 0
+    },
+    {
+        "n1": "trésorier",
+        "n2": "entreprise",
+        "det": 0
+    },
+    {
+        "n1": "inspecteur",
+        "n2": "finances",
+        "det": 2
+    },
+    {
+        "n1": "général",
+        "n2": "armée",
+        "det": 1
+    },
+    {
+        "n1": "brigadier",
+        "n2": "police",
+        "det": 0
+    },
+    {
+        "n1": "ambassadeur",
+        "n2": "ÉtatsUnis",
+        "det": 2
+    },
+    {
+        "n1": "membre",
+        "n2": "comité",
+        "det": 1
+    },
+    {
+        "n1": "directeur",
+        "n2": "festival",
+        "det": 1
+    },
+    {
+        "n1": "professeur",
+        "n2": "sport",
+        "det": 0
+    },
+    {
+        "n1": "entraîneur",
+        "n2": "basketball",
+        "det": 0
+    },
+    {
+        "n1": "manageur",
+        "n2": "écrivain",
+        "det": 1
+    },
+    {
+        "n1": "ambassadeur",
+        "n2": "France",
+        "det": 0
+    },
+    {
+        "n1": "diplomate",
+        "n2": "carrière",
+        "det": 0
+    },
+    {
+        "n1": "consultant",
+        "n2": "manageur",
+        "det": 1
+    },
+    {
+        "n1": "portedrapeau",
+        "n2": "club",
+        "det": 1
+    },
+    {
+        "n1": "rédacteur",
+        "n2": "journal",
+        "det": 1
+    },
+    {
+        "n1": "journaliste",
+        "n2": "télévision",
+        "det": 0
+    },
+    {
+        "n1": "éditeur",
+        "n2": "magazine",
+        "det": 1
+    },
+    {
+        "n1": "acteur",
+        "n2": "troupe",
+        "det": 1
+    },
+    {
+        "n1": "chanteur",
+        "n2": "groupe",
+        "det": 1
+    },
+    {
+        "n1": "danseur",
+        "n2": "compagnie",
+        "det": 1
+    },
+    {
+        "n1": "chorégraphe",
+        "n2": "clip",
+        "det": 1
+    },
+    {
+        "n1": "metteur en scène",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "scénariste",
+        "n2": "film",
+        "det": 1
+    },
+    {
+        "n1": "producteur",
+        "n2": "série",
+        "det": 1
+    },
+    {
+        "n1": "réalisateur",
+        "n2": "documentaire",
+        "det": 1
+    },
+    {
+        "n1": "client",
+        "n2": "avocat",
+        "det": 1
+    },
+    {
+        "n1": "patient",
+        "n2": "médecin",
+        "det": 1
+    },
+    {
+        "n1": "élève",
+        "n2": "professeur",
+        "det": 1
+    },
+    {
+        "n1": "employé",
+        "n2": "directeur",
+        "det": 1
+    },
+    {
+        "n1": "membre",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "citoyen",
+        "n2": "pays",
+        "det": 1
+    },
+    {
+        "n1": "professeur",
+        "n2": "danse",
+        "det": 0
+    },
+    {
+        "n1": "entraîneur",
+        "n2": "football",
+        "det": 0
+    },
+    {
+        "n1": "mentor",
+        "n2": "athlète",
+        "det": 1
+    },
+    {
+        "n1": "mentor",
+        "n2": "équipe",
+        "det": 1
+    },
+    {
+        "n1": "cuisinier",
+        "n2": "restaurant",
+        "det": 1
+    },
+    {
+        "n1": "serveur",
+        "n2": "café",
+        "det": 1
+    },
+    {
+        "n1": "tuteur",
+        "n2": "étudiant",
+        "det": 1
+    }
+]

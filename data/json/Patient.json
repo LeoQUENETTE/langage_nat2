@@ -1,0 +1,2472 @@
+[
+    {
+        "n1": "travail",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "ouverture",
+        "n2": "porte",
+        "det": 1
+    },
+    {
+        "n1": "cuisson",
+        "n2": "pain",
+        "det": 1
+    },
+    {
+        "n1": "réparation",
+        "n2": "route",
+        "det": 1
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "construction",
+        "n2": "pont",
+        "det": 1
+    },
+    {
+        "n1": "peinture",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "culture",
+        "n2": "blé",
+        "det": 1
+    },
+    {
+        "n1": "cuisson",
+        "n2": "gâteau",
+        "det": 1
+    },
+    {
+        "n1": "traduction",
+        "n2": "texte",
+        "det": 1
+    },
+    {
+        "n1": "fermeture",
+        "n2": "magasin",
+        "det": 1
+    },
+    {
+        "n1": "destruction",
+        "n2": "ville",
+        "det": 1
+    },
+    {
+        "n1": "construction",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "réparation",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "vitre",
+        "det": 1
+    },
+    {
+        "n1": "lavage",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "coupe",
+        "n2": "gazon",
+        "det": 1
+    },
+    {
+        "n1": "taille",
+        "n2": "haie",
+        "det": 1
+    },
+    {
+        "n1": "arrosage",
+        "n2": "plantes",
+        "det": 2
+    },
+    {
+        "n1": "sculpture",
+        "n2": "pierre",
+        "det": 1
+    },
+    {
+        "n1": "gravure",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "impression",
+        "n2": "document",
+        "det": 1
+    },
+    {
+        "n1": "numérisation",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "enregistrement",
+        "n2": "chanson",
+        "det": 1
+    },
+    {
+        "n1": "diffusion",
+        "n2": "émission",
+        "det": 1
+    },
+    {
+        "n1": "publication",
+        "n2": "article",
+        "det": 1
+    },
+    {
+        "n1": "édition",
+        "n2": "texte",
+        "det": 1
+    },
+    {
+        "n1": "traduction",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "adaptation",
+        "n2": "roman",
+        "det": 1
+    },
+    {
+        "n1": "interprétation",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "analyse",
+        "n2": "sang",
+        "det": 1
+    },
+    {
+        "n1": "examen",
+        "n2": "patient",
+        "det": 1
+    },
+    {
+        "n1": "opération",
+        "n2": "cœur",
+        "det": 1
+    },
+    {
+        "n1": "vaccination",
+        "n2": "enfants",
+        "det": 2
+    },
+    {
+        "n1": "éducation",
+        "n2": "élèves",
+        "det": 2
+    },
+    {
+        "n1": "formation",
+        "n2": "employés",
+        "det": 2
+    },
+    {
+        "n1": "entraînement",
+        "n2": "sportifs",
+        "det": 2
+    },
+    {
+        "n1": "évaluation",
+        "n2": "performances",
+        "det": 2
+    },
+    {
+        "n1": "contrôle",
+        "n2": "produits",
+        "det": 2
+    },
+    {
+        "n1": "inspection",
+        "n2": "lieux",
+        "det": 2
+    },
+    {
+        "n1": "vérification",
+        "n2": "comptes",
+        "det": 2
+    },
+    {
+        "n1": "audit",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "enquête",
+        "n2": "police",
+        "det": 0
+    },
+    {
+        "n1": "arrestation",
+        "n2": "suspect",
+        "det": 1
+    },
+    {
+        "n1": "jugement",
+        "n2": "accusé",
+        "det": 1
+    },
+    {
+        "n1": "condamnation",
+        "n2": "criminel",
+        "det": 1
+    },
+    {
+        "n1": "libération",
+        "n2": "prisonnier",
+        "det": 1
+    },
+    {
+        "n1": "sauvetage",
+        "n2": "victimes",
+        "det": 2
+    },
+    {
+        "n1": "évacuation",
+        "n2": "blessés",
+        "det": 2
+    },
+    {
+        "n1": "hospitalisation",
+        "n2": "malade",
+        "det": 1
+    },
+    {
+        "n1": "guérison",
+        "n2": "patient",
+        "det": 1
+    },
+    {
+        "n1": "rétablissement",
+        "n2": "économie",
+        "det": 1
+    },
+    {
+        "n1": "développement",
+        "n2": "pays",
+        "det": 1
+    },
+    {
+        "n1": "modernisation",
+        "n2": "industrie",
+        "det": 1
+    },
+    {
+        "n1": "réforme",
+        "n2": "éducation",
+        "det": 1
+    },
+    {
+        "n1": "transformation",
+        "n2": "société",
+        "det": 1
+    },
+    {
+        "n1": "contrôle",
+        "n2": "comptes",
+        "det": 2
+    },
+    {
+        "n1": "vérification",
+        "n2": "documents",
+        "det": 2
+    },
+    {
+        "n1": "examen",
+        "n2": "preuves",
+        "det": 2
+    },
+    {
+        "n1": "analyse",
+        "n2": "données",
+        "det": 2
+    },
+    {
+        "n1": "traitement",
+        "n2": "information",
+        "det": 1
+    },
+    {
+        "n1": "stockage",
+        "n2": "fichiers",
+        "det": 2
+    },
+    {
+        "n1": "archivage",
+        "n2": "dossiers",
+        "det": 2
+    },
+    {
+        "n1": "classement",
+        "n2": "documents",
+        "det": 2
+    },
+    {
+        "n1": "tri",
+        "n2": "courrier",
+        "det": 1
+    },
+    {
+        "n1": "distribution",
+        "n2": "colis",
+        "det": 2
+    },
+    {
+        "n1": "livraison",
+        "n2": "marchandises",
+        "det": 2
+    },
+    {
+        "n1": "transport",
+        "n2": "produits",
+        "det": 2
+    },
+    {
+        "n1": "acheminement",
+        "n2": "biens",
+        "det": 2
+    },
+    {
+        "n1": "transfert",
+        "n2": "fonds",
+        "det": 2
+    },
+    {
+        "n1": "virement",
+        "n2": "argent",
+        "det": 0
+    },
+    {
+        "n1": "paiement",
+        "n2": "factures",
+        "det": 2
+    },
+    {
+        "n1": "règlement",
+        "n2": "dettes",
+        "det": 2
+    },
+    {
+        "n1": "remboursement",
+        "n2": "prêt",
+        "det": 1
+    },
+    {
+        "n1": "amortissement",
+        "n2": "emprunt",
+        "det": 1
+    },
+    {
+        "n1": "refinancement",
+        "n2": "dette",
+        "det": 1
+    },
+    {
+        "n1": "restructuration",
+        "n2": "entreprise",
+        "det": 1
+    },
+    {
+        "n1": "réorganisation",
+        "n2": "service",
+        "det": 1
+    },
+    {
+        "n1": "modernisation",
+        "n2": "outil",
+        "det": 1
+    },
+    {
+        "n1": "informatisation",
+        "n2": "processus",
+        "det": 1
+    },
+    {
+        "n1": "digitalisation",
+        "n2": "archives",
+        "det": 2
+    },
+    {
+        "n1": "numérisation",
+        "n2": "documents",
+        "det": 2
+    },
+    {
+        "n1": "dématérialisation",
+        "n2": "procédures",
+        "det": 2
+    },
+    {
+        "n1": "automatisation",
+        "n2": "production",
+        "det": 1
+    },
+    {
+        "n1": "robotisation",
+        "n2": "usine",
+        "det": 1
+    },
+    {
+        "n1": "mécanisation",
+        "n2": "agriculture",
+        "det": 1
+    },
+    {
+        "n1": "motorisation",
+        "n2": "transport",
+        "det": 1
+    },
+    {
+        "n1": "électrification",
+        "n2": "région",
+        "det": 1
+    },
+    {
+        "n1": "adduction",
+        "n2": "eau potable",
+        "det": 0
+    },
+    {
+        "n1": "épuration",
+        "n2": "eaux",
+        "det": 2
+    },
+    {
+        "n1": "traitement",
+        "n2": "déchets",
+        "det": 2
+    },
+    {
+        "n1": "recyclage",
+        "n2": "matériaux",
+        "det": 2
+    },
+    {
+        "n1": "compostage",
+        "n2": "déchets",
+        "det": 2
+    },
+    {
+        "n1": "incinération",
+        "n2": "ordures",
+        "det": 2
+    },
+    {
+        "n1": "enfouissement",
+        "n2": "déchets",
+        "det": 2
+    },
+    {
+        "n1": "stockage",
+        "n2": "produits",
+        "det": 2
+    },
+    {
+        "n1": "conservation",
+        "n2": "aliments",
+        "det": 2
+    },
+    {
+        "n1": "réfrigération",
+        "n2": "produits",
+        "det": 2
+    },
+    {
+        "n1": "congélation",
+        "n2": "denrées",
+        "det": 2
+    },
+    {
+        "n1": "lyophilisation",
+        "n2": "aliments",
+        "det": 2
+    },
+    {
+        "n1": "stérilisation",
+        "n2": "matériel",
+        "det": 1
+    },
+    {
+        "n1": "pasteurisation",
+        "n2": "lait",
+        "det": 1
+    },
+    {
+        "n1": "arrosage",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "déplacement",
+        "n2": "meuble",
+        "det": 1
+    },
+    {
+        "n1": "démolition",
+        "n2": "pont",
+        "det": 1
+    },
+    {
+        "n1": "rédaction",
+        "n2": "rapport",
+        "det": 1
+    },
+    {
+        "n1": "observation",
+        "n2": "étoile",
+        "det": 1
+    },
+    {
+        "n1": "écoute",
+        "n2": "chanson",
+        "det": 1
+    },
+    {
+        "n1": "examen",
+        "n2": "élève",
+        "det": 1
+    },
+    {
+        "n1": "lavage",
+        "n2": "vitres",
+        "det": 2
+    },
+    {
+        "n1": "tonte",
+        "n2": "gazon",
+        "det": 1
+    },
+    {
+        "n1": "couture",
+        "n2": "robe",
+        "det": 1
+    },
+    {
+        "n1": "entretien",
+        "n2": "voiture",
+        "det": 1
+    },
+    {
+        "n1": "restauration",
+        "n2": "tableau",
+        "det": 1
+    },
+    {
+        "n1": "étude",
+        "n2": "phénomène",
+        "det": 1
+    },
+    {
+        "n1": "construction",
+        "n2": "route",
+        "det": 1
+    },
+    {
+        "n1": "décoration",
+        "n2": "salle",
+        "det": 1
+    },
+    {
+        "n1": "réparation",
+        "n2": "toit",
+        "det": 1
+    },
+    {
+        "n1": "peinture",
+        "n2": "plafond",
+        "det": 1
+    },
+    {
+        "n1": "déneigement",
+        "n2": "route",
+        "det": 1
+    },
+    {
+        "n1": "éclairage",
+        "n2": "monument",
+        "det": 1
+    },
+    {
+        "n1": "inspection",
+        "n2": "navire",
+        "det": 1
+    },
+    {
+        "n1": "démontage",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "plage",
+        "det": 1
+    },
+    {
+        "n1": "collecte",
+        "n2": "ordures",
+        "det": 2
+    },
+    {
+        "n1": "enlèvement",
+        "n2": "débris",
+        "det": 2
+    },
+    {
+        "n1": "lecture",
+        "n2": "courrier",
+        "det": 1
+    },
+    {
+        "n1": "enregistrement",
+        "n2": "son",
+        "det": 1
+    },
+    {
+        "n1": "reproduction",
+        "n2": "dessin",
+        "det": 1
+    },
+    {
+        "n1": "polissage",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "fabrication",
+        "n2": "meuble",
+        "det": 1
+    },
+    {
+        "n1": "ajustement",
+        "n2": "collier",
+        "det": 1
+    },
+    {
+        "n1": "scellement",
+        "n2": "porte",
+        "det": 1
+    },
+    {
+        "n1": "test",
+        "n2": "produit",
+        "det": 1
+    },
+    {
+        "n1": "installation",
+        "n2": "logiciel",
+        "det": 1
+    },
+    {
+        "n1": "distribution",
+        "n2": "courrier",
+        "det": 1
+    },
+    {
+        "n1": "expédition",
+        "n2": "colis",
+        "det": 1
+    },
+    {
+        "n1": "perçage",
+        "n2": "tôle",
+        "det": 1
+    },
+    {
+        "n1": "forage",
+        "n2": "puits",
+        "det": 1
+    },
+    {
+        "n1": "sablage",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "ponçage",
+        "n2": "parquet",
+        "det": 1
+    },
+    {
+        "n1": "limage",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "fraisage",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "tournage",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "pliage",
+        "n2": "papier",
+        "det": 1
+    },
+    {
+        "n1": "découpage",
+        "n2": "tissu",
+        "det": 1
+    },
+    {
+        "n1": "soudage",
+        "n2": "pièces",
+        "det": 2
+    },
+    {
+        "n1": "collage",
+        "n2": "matériaux",
+        "det": 2
+    },
+    {
+        "n1": "vissage",
+        "n2": "plaque",
+        "det": 1
+    },
+    {
+        "n1": "clouage",
+        "n2": "planche",
+        "det": 1
+    },
+    {
+        "n1": "brochage",
+        "n2": "document",
+        "det": 1
+    },
+    {
+        "n1": "agrafage",
+        "n2": "feuilles",
+        "det": 2
+    },
+    {
+        "n1": "scellage",
+        "n2": "enveloppe",
+        "det": 1
+    },
+    {
+        "n1": "emballage",
+        "n2": "cadeau",
+        "det": 1
+    },
+    {
+        "n1": "cerclage",
+        "n2": "tonneau",
+        "det": 1
+    },
+    {
+        "n1": "sertissage",
+        "n2": "pierre",
+        "det": 1
+    },
+    {
+        "n1": "tressage",
+        "n2": "cheveux",
+        "det": 2
+    },
+    {
+        "n1": "tissage",
+        "n2": "laine",
+        "det": 1
+    },
+    {
+        "n1": "tricotage",
+        "n2": "pull",
+        "det": 1
+    },
+    {
+        "n1": "broderie",
+        "n2": "motif",
+        "det": 1
+    },
+    {
+        "n1": "teinture",
+        "n2": "tissu",
+        "det": 1
+    },
+    {
+        "n1": "blanchiment",
+        "n2": "coton",
+        "det": 1
+    },
+    {
+        "n1": "tannage",
+        "n2": "cuir",
+        "det": 1
+    },
+    {
+        "n1": "salage",
+        "n2": "viande",
+        "det": 1
+    },
+    {
+        "n1": "fumage",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "marinage",
+        "n2": "légumes",
+        "det": 2
+    },
+    {
+        "n1": "séchage",
+        "n2": "herbes",
+        "det": 2
+    },
+    {
+        "n1": "fermentation",
+        "n2": "jus",
+        "det": 1
+    },
+    {
+        "n1": "distillation",
+        "n2": "alcool",
+        "det": 1
+    },
+    {
+        "n1": "brassage",
+        "n2": "bière",
+        "det": 1
+    },
+    {
+        "n1": "pressage",
+        "n2": "olives",
+        "det": 2
+    },
+    {
+        "n1": "moulage",
+        "n2": "plastique",
+        "det": 1
+    },
+    {
+        "n1": "coulage",
+        "n2": "béton",
+        "det": 1
+    },
+    {
+        "n1": "soufflage",
+        "n2": "verre",
+        "det": 1
+    },
+    {
+        "n1": "formage",
+        "n2": "pâte",
+        "det": 1
+    },
+    {
+        "n1": "plâtrage",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "carrelage",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "parquetage",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "isolation",
+        "n2": "combles",
+        "det": 2
+    },
+    {
+        "n1": "étanchéification",
+        "n2": "toiture",
+        "det": 1
+    },
+    {
+        "n1": "calfeutrage",
+        "n2": "fenêtres",
+        "det": 2
+    },
+    {
+        "n1": "délignement",
+        "n2": "roues",
+        "det": 2
+    },
+    {
+        "n1": "équilibrage",
+        "n2": "pneus",
+        "det": 2
+    },
+    {
+        "n1": "gonflement",
+        "n2": "ballon",
+        "det": 1
+    },
+    {
+        "n1": "dégonflement",
+        "n2": "pneu",
+        "det": 1
+    },
+    {
+        "n1": "chargement",
+        "n2": "camion",
+        "det": 1
+    },
+    {
+        "n1": "déchargement",
+        "n2": "marchandise",
+        "det": 1
+    },
+    {
+        "n1": "empilage",
+        "n2": "cartons",
+        "det": 2
+    },
+    {
+        "n1": "gerbage",
+        "n2": "palettes",
+        "det": 2
+    },
+    {
+        "n1": "démontage",
+        "n2": "étagère",
+        "det": 1
+    },
+    {
+        "n1": "remontage",
+        "n2": "meuble",
+        "det": 1
+    },
+    {
+        "n1": "réassemblage",
+        "n2": "puzzle",
+        "det": 1
+    },
+    {
+        "n1": "mélange",
+        "n2": "couleurs",
+        "det": 2
+    },
+    {
+        "n1": "dilution",
+        "n2": "produit",
+        "det": 1
+    },
+    {
+        "n1": "filtration",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "décantation",
+        "n2": "vin",
+        "det": 1
+    },
+    {
+        "n1": "centrifugation",
+        "n2": "sang",
+        "det": 1
+    },
+    {
+        "n1": "homogénéisation",
+        "n2": "lait",
+        "det": 1
+    },
+    {
+        "n1": "aération",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "humidification",
+        "n2": "air",
+        "det": 1
+    },
+    {
+        "n1": "déshumidification",
+        "n2": "cave",
+        "det": 1
+    },
+    {
+        "n1": "chauffage",
+        "n2": "maison",
+        "det": 1
+    },
+    {
+        "n1": "refroidissement",
+        "n2": "processeur",
+        "det": 1
+    },
+    {
+        "n1": "congélation",
+        "n2": "légumes",
+        "det": 2
+    },
+    {
+        "n1": "décongélation",
+        "n2": "poulet",
+        "det": 1
+    },
+    {
+        "n1": "programmation",
+        "n2": "logiciel",
+        "det": 1
+    },
+    {
+        "n1": "codage",
+        "n2": "application",
+        "det": 1
+    },
+    {
+        "n1": "cryptage",
+        "n2": "données",
+        "det": 2
+    },
+    {
+        "n1": "décryptage",
+        "n2": "message",
+        "det": 1
+    },
+    {
+        "n1": "compression",
+        "n2": "fichier",
+        "det": 1
+    },
+    {
+        "n1": "décompression",
+        "n2": "archive",
+        "det": 1
+    },
+    {
+        "n1": "formatage",
+        "n2": "disque dur",
+        "det": 1
+    },
+    {
+        "n1": "défragmentation",
+        "n2": "SSD",
+        "det": 1
+    },
+    {
+        "n1": "sauvegarde",
+        "n2": "données",
+        "det": 2
+    },
+    {
+        "n1": "restauration",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "mise à jour",
+        "n2": "firmware",
+        "det": 1
+    },
+    {
+        "n1": "installation",
+        "n2": "application",
+        "det": 1
+    },
+    {
+        "n1": "désinstallation",
+        "n2": "programme",
+        "det": 1
+    },
+    {
+        "n1": "paramétrage",
+        "n2": "appareil",
+        "det": 1
+    },
+    {
+        "n1": "étalonnage",
+        "n2": "capteur",
+        "det": 1
+    },
+    {
+        "n1": "réglage",
+        "n2": "machine",
+        "det": 1
+    },
+    {
+        "n1": "affûtage",
+        "n2": "couteau",
+        "det": 1
+    },
+    {
+        "n1": "aiguisage",
+        "n2": "crayon",
+        "det": 1
+    },
+    {
+        "n1": "remplissage",
+        "n2": "réservoir",
+        "det": 1
+    },
+    {
+        "n1": "vidange",
+        "n2": "huile",
+        "det": 1
+    },
+    {
+        "n1": "graissage",
+        "n2": "engrenages",
+        "det": 2
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "filtre",
+        "det": 1
+    },
+    {
+        "n1": "remplacement",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "ajustement",
+        "n2": "sangle",
+        "det": 1
+    },
+    {
+        "n1": "calibration",
+        "n2": "balance",
+        "det": 1
+    },
+    {
+        "n1": "pesage",
+        "n2": "ingrédients",
+        "det": 2
+    },
+    {
+        "n1": "mesurage",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "arpentage",
+        "n2": "terrain",
+        "det": 1
+    },
+    {
+        "n1": "bornage",
+        "n2": "propriété",
+        "det": 1
+    },
+    {
+        "n1": "clôturage",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "élagage",
+        "n2": "arbre",
+        "det": 1
+    },
+    {
+        "n1": "ébranchage",
+        "n2": "sapin",
+        "det": 1
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "coupe",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "lecture",
+        "n2": "livre",
+        "det": 1
+    },
+    {
+        "n1": "écriture",
+        "n2": "texte",
+        "det": 1
+    },
+    {
+        "n1": "traduction",
+        "n2": "document",
+        "det": 1
+    },
+    {
+        "n1": "transformation",
+        "n2": "matière",
+        "det": 1
+    },
+    {
+        "n1": "démolition",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "entretien",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "examen",
+        "n2": "dossier",
+        "det": 1
+    },
+    {
+        "n1": "correction",
+        "n2": "texte",
+        "det": 1
+    },
+    {
+        "n1": "validation",
+        "n2": "projet",
+        "det": 1
+    },
+    {
+        "n1": "assemblage",
+        "n2": "machine",
+        "det": 1
+    },
+    {
+        "n1": "calibrage",
+        "n2": "instrument",
+        "det": 1
+    },
+    {
+        "n1": "réglage",
+        "n2": "appareil",
+        "det": 1
+    },
+    {
+        "n1": "test",
+        "n2": "prototype",
+        "det": 1
+    },
+    {
+        "n1": "désinfection",
+        "n2": "surface",
+        "det": 1
+    },
+    {
+        "n1": "réfrigération",
+        "n2": "aliments",
+        "det": 2
+    },
+    {
+        "n1": "congélation",
+        "n2": "viande",
+        "det": 1
+    },
+    {
+        "n1": "traitement",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "filtration",
+        "n2": "liquide",
+        "det": 1
+    },
+    {
+        "n1": "mélange",
+        "n2": "ingrédients",
+        "det": 2
+    },
+    {
+        "n1": "pétrissage",
+        "n2": "pâte",
+        "det": 1
+    },
+    {
+        "n1": "fusion",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "assemblage",
+        "n2": "pièces",
+        "det": 2
+    },
+    {
+        "n1": "tri",
+        "n2": "déchets",
+        "det": 2
+    },
+    {
+        "n1": "compactage",
+        "n2": "cartons",
+        "det": 2
+    },
+    {
+        "n1": "emballage",
+        "n2": "produit",
+        "det": 1
+    },
+    {
+        "n1": "stockage",
+        "n2": "marchandises",
+        "det": 2
+    },
+    {
+        "n1": "transport",
+        "n2": "colis",
+        "det": 2
+    },
+    {
+        "n1": "acheminement",
+        "n2": "courrier",
+        "det": 1
+    },
+    {
+        "n1": "déchargement",
+        "n2": "caisses",
+        "det": 2
+    },
+    {
+        "n1": "ventilation",
+        "n2": "pièce",
+        "det": 1
+    },
+    {
+        "n1": "aération",
+        "n2": "local",
+        "det": 1
+    },
+    {
+        "n1": "assainissement",
+        "n2": "eau",
+        "det": 1
+    },
+    {
+        "n1": "oxygénation",
+        "n2": "bassin",
+        "det": 1
+    },
+    {
+        "n1": "réparation",
+        "n2": "clôture",
+        "det": 1
+    },
+    {
+        "n1": "pose",
+        "n2": "carrelage",
+        "det": 1
+    },
+    {
+        "n1": "décapage",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "brossage",
+        "n2": "tapis",
+        "det": 1
+    },
+    {
+        "n1": "rinçage",
+        "n2": "linge",
+        "det": 1
+    },
+    {
+        "n1": "pliage",
+        "n2": "vêtements",
+        "det": 2
+    },
+    {
+        "n1": "repassage",
+        "n2": "chemises",
+        "det": 2
+    },
+    {
+        "n1": "relecture",
+        "n2": "document",
+        "det": 1
+    },
+    {
+        "n1": "impression",
+        "n2": "dossier",
+        "det": 1
+    },
+    {
+        "n1": "gravure",
+        "n2": "disque",
+        "det": 1
+    },
+    {
+        "n1": "numérisation",
+        "n2": "fichier",
+        "det": 1
+    },
+    {
+        "n1": "cryptage",
+        "n2": "message",
+        "det": 1
+    },
+    {
+        "n1": "compression",
+        "n2": "archive",
+        "det": 1
+    },
+    {
+        "n1": "amplification",
+        "n2": "signal",
+        "det": 1
+    },
+    {
+        "n1": "duplication",
+        "n2": "support",
+        "det": 1
+    },
+    {
+        "n1": "activation",
+        "n2": "système",
+        "det": 1
+    },
+    {
+        "n1": "désactivation",
+        "n2": "alarmes",
+        "det": 2
+    },
+    {
+        "n1": "vidange",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "lubrification",
+        "n2": "pièces",
+        "det": 2
+    },
+    {
+        "n1": "refroidissement",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "étanchéification",
+        "n2": "toit",
+        "det": 1
+    },
+    {
+        "n1": "isolation",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "renforcement",
+        "n2": "structure",
+        "det": 1
+    },
+    {
+        "n1": "lissage",
+        "n2": "béton",
+        "det": 1
+    },
+    {
+        "n1": "colmatage",
+        "n2": "fissure",
+        "det": 1
+    },
+    {
+        "n1": "remplacement",
+        "n2": "vitre",
+        "det": 1
+    },
+    {
+        "n1": "réparation",
+        "n2": "serrure",
+        "det": 1
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "vitres",
+        "det": 2
+    },
+    {
+        "n1": "déneigement",
+        "n2": "trottoir",
+        "det": 1
+    },
+    {
+        "n1": "ramassage",
+        "n2": "feuilles",
+        "det": 2
+    },
+    {
+        "n1": "tonte",
+        "n2": "pelouse",
+        "det": 1
+    },
+    {
+        "n1": "fertilisation",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "enrichissement",
+        "n2": "terreau",
+        "det": 1
+    },
+    {
+        "n1": "désherbage",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "ensemencement",
+        "n2": "champ",
+        "det": 1
+    },
+    {
+        "n1": "irrigation",
+        "n2": "champ",
+        "det": 1
+    },
+    {
+        "n1": "épandage",
+        "n2": "engrais",
+        "det": 1
+    },
+    {
+        "n1": "protection",
+        "n2": "cultures",
+        "det": 2
+    },
+    {
+        "n1": "tri",
+        "n2": "semences",
+        "det": 2
+    },
+    {
+        "n1": "moisson",
+        "n2": "blé",
+        "det": 1
+    },
+    {
+        "n1": "broyage",
+        "n2": "grain",
+        "det": 1
+    },
+    {
+        "n1": "pulvérisation",
+        "n2": "produit",
+        "det": 1
+    },
+    {
+        "n1": "détection",
+        "n2": "fuite",
+        "det": 1
+    },
+    {
+        "n1": "localisation",
+        "n2": "problème",
+        "det": 1
+    },
+    {
+        "n1": "résolution",
+        "n2": "bug",
+        "det": 1
+    },
+    {
+        "n1": "sciage",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "polissage",
+        "n2": "marbre",
+        "det": 1
+    },
+    {
+        "n1": "taillage",
+        "n2": "pierre",
+        "det": 1
+    },
+    {
+        "n1": "coupage",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "façonnage",
+        "n2": "cuir",
+        "det": 1
+    },
+    {
+        "n1": "tissage",
+        "n2": "coton",
+        "det": 1
+    },
+    {
+        "n1": "martelage",
+        "n2": "fer",
+        "det": 1
+    },
+    {
+        "n1": "moulage",
+        "n2": "plâtre",
+        "det": 1
+    },
+    {
+        "n1": "vernissage",
+        "n2": "meuble",
+        "det": 1
+    },
+    {
+        "n1": "gravure",
+        "n2": "verre",
+        "det": 1
+    },
+    {
+        "n1": "découpe",
+        "n2": "tissu",
+        "det": 1
+    },
+    {
+        "n1": "assemblage",
+        "n2": "planches",
+        "det": 2
+    },
+    {
+        "n1": "sculpture",
+        "n2": "bois",
+        "det": 1
+    },
+    {
+        "n1": "rivetage",
+        "n2": "pièces",
+        "det": 2
+    },
+    {
+        "n1": "ponçage",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "collage",
+        "n2": "papier",
+        "det": 1
+    },
+    {
+        "n1": "filetage",
+        "n2": "vis",
+        "det": 1
+    },
+    {
+        "n1": "soudure",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "fermeture",
+        "n2": "portail",
+        "det": 1
+    },
+    {
+        "n1": "réparation",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "vidange",
+        "n2": "cuve",
+        "det": 1
+    },
+    {
+        "n1": "entretien",
+        "n2": "machine",
+        "det": 1
+    },
+    {
+        "n1": "séchage",
+        "n2": "linge",
+        "det": 1
+    },
+    {
+        "n1": "repassage",
+        "n2": "chemise",
+        "det": 1
+    },
+    {
+        "n1": "démontage",
+        "n2": "pneu",
+        "det": 1
+    },
+    {
+        "n1": "vidage",
+        "n2": "seau",
+        "det": 1
+    },
+    {
+        "n1": "changement",
+        "n2": "filtre",
+        "det": 1
+    },
+    {
+        "n1": "détartrage",
+        "n2": "bouilloire",
+        "det": 1
+    },
+    {
+        "n1": "remontage",
+        "n2": "montre",
+        "det": 1
+    },
+    {
+        "n1": "vissage",
+        "n2": "couvercle",
+        "det": 1
+    },
+    {
+        "n1": "dévissage",
+        "n2": "roue",
+        "det": 1
+    },
+    {
+        "n1": "réglage",
+        "n2": "dispositif",
+        "det": 1
+    },
+    {
+        "n1": "friture",
+        "n2": "poisson",
+        "det": 1
+    },
+    {
+        "n1": "coupe",
+        "n2": "légumes",
+        "det": 2
+    },
+    {
+        "n1": "battage",
+        "n2": "œufs",
+        "det": 2
+    },
+    {
+        "n1": "cuisson",
+        "n2": "riz",
+        "det": 1
+    },
+    {
+        "n1": "stérilisation",
+        "n2": "bocaux",
+        "det": 2
+    },
+    {
+        "n1": "assaisonnement",
+        "n2": "salade",
+        "det": 1
+    },
+    {
+        "n1": "préparation",
+        "n2": "repas",
+        "det": 1
+    },
+    {
+        "n1": "découpe",
+        "n2": "rôti",
+        "det": 1
+    },
+    {
+        "n1": "hachage",
+        "n2": "viande",
+        "det": 1
+    },
+    {
+        "n1": "fonte",
+        "n2": "beurre",
+        "det": 1
+    },
+    {
+        "n1": "glaçage",
+        "n2": "dessert",
+        "det": 1
+    },
+    {
+        "n1": "torréfaction",
+        "n2": "café",
+        "det": 1
+    },
+    {
+        "n1": "salage",
+        "n2": "soupe",
+        "det": 1
+    },
+    {
+        "n1": "séchage",
+        "n2": "fruits",
+        "det": 2
+    },
+    {
+        "n1": "refroidissement",
+        "n2": "plat",
+        "det": 1
+    },
+    {
+        "n1": "conditionnement",
+        "n2": "aliments",
+        "det": 2
+    },
+    {
+        "n1": "installation",
+        "n2": "toit",
+        "det": 1
+    },
+    {
+        "n1": "construction",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "démolition",
+        "n2": "façade",
+        "det": 1
+    },
+    {
+        "n1": "creusement",
+        "n2": "fondations",
+        "det": 2
+    },
+    {
+        "n1": "bétonnage",
+        "n2": "dalle",
+        "det": 1
+    },
+    {
+        "n1": "peinture",
+        "n2": "murs",
+        "det": 2
+    },
+    {
+        "n1": "fixation",
+        "n2": "poutres",
+        "det": 2
+    },
+    {
+        "n1": "réparation",
+        "n2": "plafond",
+        "det": 1
+    },
+    {
+        "n1": "découpe",
+        "n2": "briques",
+        "det": 2
+    },
+    {
+        "n1": "isolation",
+        "n2": "grenier",
+        "det": 1
+    },
+    {
+        "n1": "perçage",
+        "n2": "mur",
+        "det": 1
+    },
+    {
+        "n1": "consolidation",
+        "n2": "plancher",
+        "det": 1
+    },
+    {
+        "n1": "réfection",
+        "n2": "toiture",
+        "det": 1
+    },
+    {
+        "n1": "montage",
+        "n2": "échafaudage",
+        "det": 1
+    },
+    {
+        "n1": "ajustement",
+        "n2": "fenêtres",
+        "det": 2
+    },
+    {
+        "n1": "pose",
+        "n2": "câbles",
+        "det": 2
+    },
+    {
+        "n1": "rénovation",
+        "n2": "bâtiment",
+        "det": 1
+    },
+    {
+        "n1": "calibrage",
+        "n2": "portes",
+        "det": 2
+    },
+    {
+        "n1": "taille",
+        "n2": "haies",
+        "det": 2
+    },
+    {
+        "n1": "récolte",
+        "n2": "blé",
+        "det": 1
+    },
+    {
+        "n1": "cueillette",
+        "n2": "fruits",
+        "det": 2
+    },
+    {
+        "n1": "labour",
+        "n2": "champ",
+        "det": 1
+    },
+    {
+        "n1": "semence",
+        "n2": "maïs",
+        "det": 1
+    },
+    {
+        "n1": "sarclage",
+        "n2": "jardin",
+        "det": 1
+    },
+    {
+        "n1": "pulvérisation",
+        "n2": "cultures",
+        "det": 2
+    },
+    {
+        "n1": "plantation",
+        "n2": "arbres",
+        "det": 2
+    },
+    {
+        "n1": "élagage",
+        "n2": "branches",
+        "det": 2
+    },
+    {
+        "n1": "coupe",
+        "n2": "foin",
+        "det": 1
+    },
+    {
+        "n1": "battage",
+        "n2": "céréales",
+        "det": 2
+    },
+    {
+        "n1": "tri",
+        "n2": "graines",
+        "det": 2
+    },
+    {
+        "n1": "fermentation",
+        "n2": "raisin",
+        "det": 1
+    },
+    {
+        "n1": "distillation",
+        "n2": "fleurs",
+        "det": 2
+    },
+    {
+        "n1": "stockage",
+        "n2": "grain",
+        "det": 1
+    },
+    {
+        "n1": "conservation",
+        "n2": "légumes",
+        "det": 2
+    },
+    {
+        "n1": "séchage",
+        "n2": "tabac",
+        "det": 1
+    },
+    {
+        "n1": "lavage",
+        "n2": "mains",
+        "det": 2
+    },
+    {
+        "n1": "désinfection",
+        "n2": "plaie",
+        "det": 1
+    },
+    {
+        "n1": "massage",
+        "n2": "dos",
+        "det": 1
+    },
+    {
+        "n1": "rasage",
+        "n2": "barbe",
+        "det": 1
+    },
+    {
+        "n1": "coupe",
+        "n2": "cheveux",
+        "det": 2
+    },
+    {
+        "n1": "soin",
+        "n2": "dents",
+        "det": 2
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "peau",
+        "det": 1
+    },
+    {
+        "n1": "perfusion",
+        "n2": "patient",
+        "det": 1
+    },
+    {
+        "n1": "vaccination",
+        "n2": "enfant",
+        "det": 1
+    },
+    {
+        "n1": "greffe",
+        "n2": "cœur",
+        "det": 1
+    },
+    {
+        "n1": "suture",
+        "n2": "blessure",
+        "det": 1
+    },
+    {
+        "n1": "radiographie",
+        "n2": "thorax",
+        "det": 1
+    },
+    {
+        "n1": "bandage",
+        "n2": "bras",
+        "det": 1
+    },
+    {
+        "n1": "pansement",
+        "n2": "coupure",
+        "det": 1
+    },
+    {
+        "n1": "séchage",
+        "n2": "larmes",
+        "det": 2
+    },
+    {
+        "n1": "traitement",
+        "n2": "fièvre",
+        "det": 1
+    },
+    {
+        "n1": "stérilisation",
+        "n2": "instruments",
+        "det": 2
+    },
+    {
+        "n1": "extraction",
+        "n2": "dent",
+        "det": 1
+    },
+    {
+        "n1": "lavage",
+        "n2": "corps",
+        "det": 1
+    },
+    {
+        "n1": "rééducation",
+        "n2": "genou",
+        "det": 1
+    },
+    {
+        "n1": "gonflage",
+        "n2": "pneus",
+        "det": 2
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "parebrise",
+        "det": 1
+    },
+    {
+        "n1": "peinture",
+        "n2": "carrosserie",
+        "det": 1
+    },
+    {
+        "n1": "réglage",
+        "n2": "freins",
+        "det": 2
+    },
+    {
+        "n1": "remplacement",
+        "n2": "courroie",
+        "det": 1
+    },
+    {
+        "n1": "graissage",
+        "n2": "rouages",
+        "det": 2
+    },
+    {
+        "n1": "recharge",
+        "n2": "batterie",
+        "det": 1
+    },
+    {
+        "n1": "changement",
+        "n2": "essuieglaces",
+        "det": 2
+    },
+    {
+        "n1": "vérification",
+        "n2": "niveaux",
+        "det": 2
+    },
+    {
+        "n1": "polissage",
+        "n2": "carrosserie",
+        "det": 1
+    },
+    {
+        "n1": "contrôle",
+        "n2": "freinage",
+        "det": 1
+    },
+    {
+        "n1": "démontage",
+        "n2": "carburateur",
+        "det": 1
+    },
+    {
+        "n1": "remise",
+        "n2": "capot",
+        "det": 1
+    },
+    {
+        "n1": "purge",
+        "n2": "circuit",
+        "det": 1
+    },
+    {
+        "n1": "entretien",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "lubrification",
+        "n2": "pistons",
+        "det": 2
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "injecteurs",
+        "det": 2
+    },
+    {
+        "n1": "remplacement",
+        "n2": "pneu",
+        "det": 1
+    },
+    {
+        "n1": "pliage",
+        "n2": "linge",
+        "det": 1
+    },
+    {
+        "n1": "rangement",
+        "n2": "affaires",
+        "det": 2
+    },
+    {
+        "n1": "allumage",
+        "n2": "lampe",
+        "det": 1
+    },
+    {
+        "n1": "extinction",
+        "n2": "feu",
+        "det": 1
+    },
+    {
+        "n1": "déplacement",
+        "n2": "chaise",
+        "det": 1
+    },
+    {
+        "n1": "fermeture",
+        "n2": "robinet",
+        "det": 1
+    },
+    {
+        "n1": "ouverture",
+        "n2": "tiroir",
+        "det": 1
+    },
+    {
+        "n1": "déballage",
+        "n2": "colis",
+        "det": 1
+    },
+    {
+        "n1": "réparation",
+        "n2": "jouet",
+        "det": 1
+    },
+    {
+        "n1": "rechargement",
+        "n2": "téléphone",
+        "det": 1
+    },
+    {
+        "n1": "perçage",
+        "n2": "métal",
+        "det": 1
+    },
+    {
+        "n1": "rivetage",
+        "n2": "plaques",
+        "det": 2
+    },
+    {
+        "n1": "calibrage",
+        "n2": "moule",
+        "det": 1
+    },
+    {
+        "n1": "découpage",
+        "n2": "carton",
+        "det": 1
+    },
+    {
+        "n1": "pliage",
+        "n2": "plastique",
+        "det": 1
+    },
+    {
+        "n1": "compression",
+        "n2": "ressort",
+        "det": 1
+    },
+    {
+        "n1": "séchage",
+        "n2": "ciment",
+        "det": 1
+    },
+    {
+        "n1": "vernissage",
+        "n2": "plancher",
+        "det": 1
+    },
+    {
+        "n1": "durcissement",
+        "n2": "béton",
+        "det": 1
+    },
+    {
+        "n1": "polissage",
+        "n2": "jantes",
+        "det": 2
+    },
+    {
+        "n1": "nettoyage",
+        "n2": "moteur",
+        "det": 1
+    },
+    {
+        "n1": "révision",
+        "n2": "véhicule",
+        "det": 1
+    },
+    {
+        "n1": "purge",
+        "n2": "radiateur",
+        "det": 1
+    },
+    {
+        "n1": "graissage",
+        "n2": "chaîne",
+        "det": 1
+    },
+    {
+        "n1": "changement",
+        "n2": "pneu",
+        "det": 1
+    },
+    {
+        "n1": "recharge",
+        "n2": "climatisation",
+        "det": 1
+    },
+    {
+        "n1": "restauration",
+        "n2": "châssis",
+        "det": 1
+    },
+    {
+        "n1": "contrôle",
+        "n2": "niveau d'huile",
+        "det": 1
+    },
+    {
+        "n1": "réglage",
+        "n2": "direction",
+        "det": 1
+    },
+    {
+        "n1": "désinfection",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "binage",
+        "n2": "cultures",
+        "det": 2
+    },
+    {
+        "n1": "fertilisation",
+        "n2": "terrain",
+        "det": 1
+    },
+    {
+        "n1": "désherbage",
+        "n2": "potager",
+        "det": 1
+    },
+    {
+        "n1": "aération",
+        "n2": "terre",
+        "det": 1
+    },
+    {
+        "n1": "drainage",
+        "n2": "marais",
+        "det": 1
+    },
+    {
+        "n1": "coupe",
+        "n2": "mauvaises herbes",
+        "det": 2
+    },
+    {
+        "n1": "stabilisation",
+        "n2": "sol",
+        "det": 1
+    },
+    {
+        "n1": "filtrage",
+        "n2": "jus",
+        "det": 1
+    },
+    {
+        "n1": "fermentation",
+        "n2": "bière",
+        "det": 1
+    },
+    {
+        "n1": "congélation",
+        "n2": "aliments",
+        "det": 2
+    },
+    {
+        "n1": "caramélisation",
+        "n2": "sucre",
+        "det": 1
+    },
+    {
+        "n1": "refroidissement",
+        "n2": "soupe",
+        "det": 1
+    },
+    {
+        "n1": "brassage",
+        "n2": "vin",
+        "det": 1
+    },
+    {
+        "n1": "découpage",
+        "n2": "gâteau",
+        "det": 1
+    },
+    {
+        "n1": "réduction",
+        "n2": "sauce",
+        "det": 1
+    },
+    {
+        "n1": "déshydratation",
+        "n2": "fruits",
+        "det": 2
+    },
+    {
+        "n1": "désinfection",
+        "n2": "instruments",
+        "det": 2
+    },
+    {
+        "n1": "suture",
+        "n2": "plaie",
+        "det": 1
+    },
+    {
+        "n1": "désintoxication",
+        "n2": "patient",
+        "det": 1
+    },
+    {
+        "n1": "immobilisation",
+        "n2": "bras",
+        "det": 1
+    },
+    {
+        "n1": "perfusion",
+        "n2": "malade",
+        "det": 1
+    },
+    {
+        "n1": "désinfection",
+        "n2": "matériel",
+        "det": 1
+    },
+    {
+        "n1": "transplantation",
+        "n2": "rein",
+        "det": 1
+    },
+    {
+        "n1": "cicatrisation",
+        "n2": "blessure",
+        "det": 1
+    },
+    {
+        "n1": "extraction",
+        "n2": "corps étranger",
+        "det": 1
+    },
+    {
+        "n1": "stérilisation",
+        "n2": "matériel chirurgical",
+        "det": 1
+    }
+]

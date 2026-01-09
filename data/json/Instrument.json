@@ -1,0 +1,1447 @@
+[
+    {
+        "n1": "clé",
+        "n2": "porte",
+        "det": 1
+    },
+    {
+        "n1": "marteau",
+        "n2": "menuisier",
+        "det": 1
+    },
+    {
+        "n1": "stylo",
+        "n2": "écriture",
+        "det": 1
+    },
+    {
+        "n1": "pinceau",
+        "n2": "peintre",
+        "det": 1
+    },
+    {
+        "n1": "épée",
+        "n2": "combat",
+        "det": 1
+    },
+    {
+        "n1": "outil",
+        "n2": "travail",
+        "det": 0
+    },
+    {
+        "n1": "arme",
+        "n2": "crime",
+        "det": 1
+    },
+    {
+        "n1": "moyen",
+        "n2": "transport",
+        "det": 0
+    },
+    {
+        "n1": "instrument",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "appareil",
+        "n2": "mesure",
+        "det": 0
+    },
+    {
+        "n1": "machine",
+        "n2": "production",
+        "det": 0
+    },
+    {
+        "n1": "logiciel",
+        "n2": "traitement",
+        "det": 0
+    },
+    {
+        "n1": "système",
+        "n2": "sécurité",
+        "det": 0
+    },
+    {
+        "n1": "dispositif",
+        "n2": "contrôle",
+        "det": 0
+    },
+    {
+        "n1": "équipement",
+        "n2": "protection",
+        "det": 0
+    },
+    {
+        "n1": "couteau",
+        "n2": "cuisine",
+        "det": 0
+    },
+    {
+        "n1": "aiguille",
+        "n2": "couture",
+        "det": 0
+    },
+    {
+        "n1": "brosse",
+        "n2": "nettoyage",
+        "det": 0
+    },
+    {
+        "n1": "scie",
+        "n2": "menuisier",
+        "det": 0
+    },
+    {
+        "n1": "balance",
+        "n2": "pesée",
+        "det": 0
+    },
+    {
+        "n1": "clé",
+        "n2": "cadenas",
+        "det": 1
+    },
+    {
+        "n1": "manivelle",
+        "n2": "treuil",
+        "det": 1
+    },
+    {
+        "n1": "levier",
+        "n2": "mécanisme",
+        "det": 1
+    },
+    {
+        "n1": "burin",
+        "n2": "sculpture",
+        "det": 0
+    },
+    {
+        "n1": "perceuse",
+        "n2": "perçage",
+        "det": 1
+    },
+    {
+        "n1": "tournevis",
+        "n2": "montage",
+        "det": 1
+    },
+    {
+        "n1": "clé anglaise",
+        "n2": "serrage",
+        "det": 1
+    },
+    {
+        "n1": "pince",
+        "n2": "bricolage",
+        "det": 1
+    },
+    {
+        "n1": "rabot",
+        "n2": "menuisier",
+        "det": 1
+    },
+    {
+        "n1": "soufflet",
+        "n2": "forge",
+        "det": 0
+    },
+    {
+        "n1": "chalumeau",
+        "n2": "soudure",
+        "det": 0
+    },
+    {
+        "n1": "four",
+        "n2": "cuisson",
+        "det": 0
+    },
+    {
+        "n1": "moulin",
+        "n2": "broyage",
+        "det": 0
+    },
+    {
+        "n1": "fouet",
+        "n2": "mélange",
+        "det": 1
+    },
+    {
+        "n1": "écumoire",
+        "n2": "cuisson",
+        "det": 0
+    },
+    {
+        "n1": "spatule",
+        "n2": "glaçage",
+        "det": 1
+    },
+    {
+        "n1": "louche",
+        "n2": "service",
+        "det": 1
+    },
+    {
+        "n1": "passoire",
+        "n2": "filtrage",
+        "det": 1
+    },
+    {
+        "n1": "tamis",
+        "n2": "tri",
+        "det": 1
+    },
+    {
+        "n1": "entonoir",
+        "n2": "remplissage",
+        "det": 1
+    },
+    {
+        "n1": "aiguille",
+        "n2": "tricot",
+        "det": 1
+    },
+    {
+        "n1": "fil",
+        "n2": "couture",
+        "det": 0
+    },
+    {
+        "n1": "dé à coudre",
+        "n2": "couture",
+        "det": 0
+    },
+    {
+        "n1": "métier à tisser",
+        "n2": "tissage",
+        "det": 1
+    },
+    {
+        "n1": "machine à coudre",
+        "n2": "couture",
+        "det": 0
+    },
+    {
+        "n1": "rasoir",
+        "n2": "rasage",
+        "det": 1
+    },
+    {
+        "n1": "brosse à dents",
+        "n2": "brossage",
+        "det": 0
+    },
+    {
+        "n1": "peigne",
+        "n2": "coiffage",
+        "det": 0
+    },
+    {
+        "n1": "ustensile",
+        "n2": "nettoyage",
+        "det": 0
+    },
+    {
+        "n1": "serpillière",
+        "n2": "lavage",
+        "det": 0
+    },
+    {
+        "n1": "seau",
+        "n2": "lavage",
+        "det": 0
+    },
+    {
+        "n1": "rouleau",
+        "n2": "peinture",
+        "det": 0
+    },
+    {
+        "n1": "vaporisateur",
+        "n2": "nettoyage",
+        "det": 0
+    },
+    {
+        "n1": "canon",
+        "n2": "arrosage",
+        "det": 0
+    },
+    {
+        "n1": "tuyau",
+        "n2": "arrosage",
+        "det": 0
+    },
+    {
+        "n1": "arrosoir",
+        "n2": "jardinage",
+        "det": 0
+    },
+    {
+        "n1": "râteau",
+        "n2": "jardinage",
+        "det": 1
+    },
+    {
+        "n1": "pelle",
+        "n2": "creusage",
+        "det": 1
+    },
+    {
+        "n1": "bêche",
+        "n2": "jardinage",
+        "det": 1
+    },
+    {
+        "n1": "houe",
+        "n2": "labour",
+        "det": 1
+    },
+    {
+        "n1": "tracteur",
+        "n2": "labour",
+        "det": 1
+    },
+    {
+        "n1": "sécateur",
+        "n2": "taille",
+        "det": 0
+    },
+    {
+        "n1": "tronçonneuse",
+        "n2": "coupe",
+        "det": 0
+    },
+    {
+        "n1": "faucheuse",
+        "n2": "récolte",
+        "det": 0
+    },
+    {
+        "n1": "hachoir",
+        "n2": "découpe",
+        "det": 0
+    },
+    {
+        "n1": "couteau",
+        "n2": "tranchage",
+        "det": 0
+    },
+    {
+        "n1": "laser",
+        "n2": "découpe",
+        "det": 0
+    },
+    {
+        "n1": "presse",
+        "n2": "pressage",
+        "det": 0
+    },
+    {
+        "n1": "malaxeur",
+        "n2": "mélange",
+        "det": 0
+    },
+    {
+        "n1": "batteur",
+        "n2": "fouettage",
+        "det": 0
+    },
+    {
+        "n1": "laminoir",
+        "n2": "laminage",
+        "det": 0
+    },
+    {
+        "n1": "centrifugeuse",
+        "n2": "séparation",
+        "det": 0
+    },
+    {
+        "n1": "éprouvette",
+        "n2": "test",
+        "det": 0
+    },
+    {
+        "n1": "microscope",
+        "n2": "analyse",
+        "det": 1
+    },
+    {
+        "n1": "télescope",
+        "n2": "observation",
+        "det": 1
+    },
+    {
+        "n1": "baromètre",
+        "n2": "mesure",
+        "det": 0
+    },
+    {
+        "n1": "manomètre",
+        "n2": "pression",
+        "det": 0
+    },
+    {
+        "n1": "thermomètre",
+        "n2": "mesure",
+        "det": 0
+    },
+    {
+        "n1": "hygromètre",
+        "n2": "humidité",
+        "det": 0
+    },
+    {
+        "n1": "compas",
+        "n2": "navigation",
+        "det": 0
+    },
+    {
+        "n1": "gouvernail",
+        "n2": "pilotage",
+        "det": 0
+    },
+    {
+        "n1": "rame",
+        "n2": "propulsion",
+        "det": 0
+    },
+    {
+        "n1": "antenne",
+        "n2": "communication",
+        "det": 0
+    },
+    {
+        "n1": "routeur",
+        "n2": "routage",
+        "det": 1
+    },
+    {
+        "n1": "modem",
+        "n2": "connexion",
+        "det": 0
+    },
+    {
+        "n1": "clavier",
+        "n2": "saisie",
+        "det": 0
+    },
+    {
+        "n1": "souris",
+        "n2": "navigation numérique",
+        "det": 0
+    },
+    {
+        "n1": "manette",
+        "n2": "contrôle",
+        "det": 0
+    },
+    {
+        "n1": "casque",
+        "n2": "écoute",
+        "det": 0
+    },
+    {
+        "n1": "microphone",
+        "n2": "capture",
+        "det": 0
+    },
+    {
+        "n1": "projecteur",
+        "n2": "projection",
+        "det": 0
+    },
+    {
+        "n1": "caméra",
+        "n2": "tournage",
+        "det": 0
+    },
+    {
+        "n1": "trépied",
+        "n2": "stabilisation",
+        "det": 0
+    },
+    {
+        "n1": "enregistreur",
+        "n2": "son",
+        "det": 0
+    },
+    {
+        "n1": "amplificateur",
+        "n2": "amplification",
+        "det": 0
+    },
+    {
+        "n1": "synthétiseur",
+        "n2": "bande sonore",
+        "det": 0
+    },
+    {
+        "n1": "violon",
+        "n2": "musique",
+        "det": 0
+    },
+    {
+        "n1": "batterie",
+        "n2": "rythme",
+        "det": 1
+    },
+    {
+        "n1": "trompette",
+        "n2": "morceau",
+        "det": 1
+    },
+    {
+        "n1": "accordéon",
+        "n2": "folklore",
+        "det": 1
+    },
+    {
+        "n1": "clé",
+        "n2": "ouverture",
+        "det": 0
+    },
+    {
+        "n1": "marteau",
+        "n2": "frappe",
+        "det": 0
+    },
+    {
+        "n1": "scie",
+        "n2": "coupe",
+        "det": 0
+    },
+    {
+        "n1": "tournevis",
+        "n2": "vissage",
+        "det": 0
+    },
+    {
+        "n1": "pince",
+        "n2": "serrage",
+        "det": 0
+    },
+    {
+        "n1": "burin",
+        "n2": "gravure",
+        "det": 0
+    },
+    {
+        "n1": "lime",
+        "n2": "ponçage",
+        "det": 0
+    },
+    {
+        "n1": "râpe",
+        "n2": "façonnage",
+        "det": 0
+    },
+    {
+        "n1": "perceuse",
+        "n2": "perçage",
+        "det": 0
+    },
+    {
+        "n1": "meule",
+        "n2": "découpe",
+        "det": 0
+    },
+    {
+        "n1": "pince",
+        "n2": "torsion",
+        "det": 0
+    },
+    {
+        "n1": "scie",
+        "n2": "tronçonnage",
+        "det": 0
+    },
+    {
+        "n1": "rabot",
+        "n2": "lissage",
+        "det": 0
+    },
+    {
+        "n1": "cutter",
+        "n2": "découpe",
+        "det": 0
+    },
+    {
+        "n1": "tige",
+        "n2": "guidage",
+        "det": 0
+    },
+    {
+        "n1": "visseuse",
+        "n2": "fixation",
+        "det": 0
+    },
+    {
+        "n1": "ponceuse",
+        "n2": "finition",
+        "det": 0
+    },
+    {
+        "n1": "cloueuse",
+        "n2": "fixation",
+        "det": 0
+    },
+    {
+        "n1": "marteau",
+        "n2": "démolition",
+        "det": 0
+    },
+    {
+        "n1": "clé",
+        "n2": "serrage",
+        "det": 0
+    },
+    {
+        "n1": "levier",
+        "n2": "commande",
+        "det": 0
+    },
+    {
+        "n1": "pédale",
+        "n2": "accélération",
+        "det": 0
+    },
+    {
+        "n1": "pédale",
+        "n2": "freinage",
+        "det": 0
+    },
+    {
+        "n1": "manette",
+        "n2": "direction",
+        "det": 0
+    },
+    {
+        "n1": "bouton",
+        "n2": "allumage",
+        "det": 0
+    },
+    {
+        "n1": "poignée",
+        "n2": "fermeture",
+        "det": 0
+    },
+    {
+        "n1": "gâche",
+        "n2": "verrouillage",
+        "det": 0
+    },
+    {
+        "n1": "ressort",
+        "n2": "rappel",
+        "det": 0
+    },
+    {
+        "n1": "câble",
+        "n2": "traction",
+        "det": 0
+    },
+    {
+        "n1": "piston",
+        "n2": "compression",
+        "det": 0
+    },
+    {
+        "n1": "valve",
+        "n2": "régulation",
+        "det": 0
+    },
+    {
+        "n1": "pompe",
+        "n2": "transfert",
+        "det": 0
+    },
+    {
+        "n1": "jauge",
+        "n2": "mesure",
+        "det": 0
+    },
+    {
+        "n1": "courroie",
+        "n2": "transmission",
+        "det": 0
+    },
+    {
+        "n1": "tige",
+        "n2": "verrouillage",
+        "det": 0
+    },
+    {
+        "n1": "molette",
+        "n2": "réglage",
+        "det": 0
+    },
+    {
+        "n1": "régulateur",
+        "n2": "pression",
+        "det": 0
+    },
+    {
+        "n1": "volant",
+        "n2": "manœuvre",
+        "det": 0
+    },
+    {
+        "n1": "came",
+        "n2": "rotation",
+        "det": 0
+    },
+    {
+        "n1": "couteau",
+        "n2": "découpe",
+        "det": 0
+    },
+    {
+        "n1": "cuillère",
+        "n2": "mélange",
+        "det": 0
+    },
+    {
+        "n1": "fourchette",
+        "n2": "service",
+        "det": 0
+    },
+    {
+        "n1": "fouet",
+        "n2": "battage",
+        "det": 0
+    },
+    {
+        "n1": "rouleau",
+        "n2": "aplatissement",
+        "det": 0
+    },
+    {
+        "n1": "spatule",
+        "n2": "retournement",
+        "det": 0
+    },
+    {
+        "n1": "râpe",
+        "n2": "hachage",
+        "det": 0
+    },
+    {
+        "n1": "hachoir",
+        "n2": "coupe",
+        "det": 0
+    },
+    {
+        "n1": "presseail",
+        "n2": "écrasement",
+        "det": 0
+    },
+    {
+        "n1": "passoire",
+        "n2": "filtrage",
+        "det": 0
+    },
+    {
+        "n1": "tamis",
+        "n2": "triage",
+        "det": 0
+    },
+    {
+        "n1": "mixeur",
+        "n2": "mélange",
+        "det": 0
+    },
+    {
+        "n1": "blender",
+        "n2": "mixage",
+        "det": 0
+    },
+    {
+        "n1": "louche",
+        "n2": "service",
+        "det": 0
+    },
+    {
+        "n1": "pince",
+        "n2": "retournement",
+        "det": 0
+    },
+    {
+        "n1": "casserole",
+        "n2": "cuisson",
+        "det": 0
+    },
+    {
+        "n1": "poêle",
+        "n2": "friture",
+        "det": 0
+    },
+    {
+        "n1": "cocotte",
+        "n2": "mijotage",
+        "det": 0
+    },
+    {
+        "n1": "marmite",
+        "n2": "bouillage",
+        "det": 0
+    },
+    {
+        "n1": "couvercle",
+        "n2": "protection",
+        "det": 0
+    },
+    {
+        "n1": "truelle",
+        "n2": "application",
+        "det": 0
+    },
+    {
+        "n1": "pelle",
+        "n2": "creusage",
+        "det": 0
+    },
+    {
+        "n1": "pioche",
+        "n2": "forage",
+        "det": 0
+    },
+    {
+        "n1": "brouette",
+        "n2": "transport",
+        "det": 0
+    },
+    {
+        "n1": "marteau",
+        "n2": "clouage",
+        "det": 0
+    },
+    {
+        "n1": "tournevis",
+        "n2": "fixation",
+        "det": 0
+    },
+    {
+        "n1": "perceuse",
+        "n2": "forage",
+        "det": 0
+    },
+    {
+        "n1": "burin",
+        "n2": "taille",
+        "det": 0
+    },
+    {
+        "n1": "niveau",
+        "n2": "alignement",
+        "det": 0
+    },
+    {
+        "n1": "règle",
+        "n2": "traçage",
+        "det": 0
+    },
+    {
+        "n1": "cordeau",
+        "n2": "marquage",
+        "det": 0
+    },
+    {
+        "n1": "taloche",
+        "n2": "lissage",
+        "det": 0
+    },
+    {
+        "n1": "spatule",
+        "n2": "enduisage",
+        "det": 0
+    },
+    {
+        "n1": "pistolet",
+        "n2": "pulvérisation",
+        "det": 0
+    },
+    {
+        "n1": "meuleuse",
+        "n2": "ponçage",
+        "det": 0
+    },
+    {
+        "n1": "foret",
+        "n2": "perçage",
+        "det": 0
+    },
+    {
+        "n1": "visseuse",
+        "n2": "montage",
+        "det": 0
+    },
+    {
+        "n1": "maillet",
+        "n2": "calage",
+        "det": 0
+    },
+    {
+        "n1": "compas",
+        "n2": "traçage",
+        "det": 0
+    },
+    {
+        "n1": "laser",
+        "n2": "alignement",
+        "det": 0
+    },
+    {
+        "n1": "pipette",
+        "n2": "dosage",
+        "det": 0
+    },
+    {
+        "n1": "seringue",
+        "n2": "injection",
+        "det": 0
+    },
+    {
+        "n1": "sonde",
+        "n2": "mesure",
+        "det": 0
+    },
+    {
+        "n1": "thermomètre",
+        "n2": "contrôle",
+        "det": 0
+    },
+    {
+        "n1": "burette",
+        "n2": "titrage",
+        "det": 0
+    },
+    {
+        "n1": "microscope",
+        "n2": "observation",
+        "det": 0
+    },
+    {
+        "n1": "loupe",
+        "n2": "examen",
+        "det": 0
+    },
+    {
+        "n1": "lame",
+        "n2": "coupe",
+        "det": 0
+    },
+    {
+        "n1": "scalpel",
+        "n2": "incision",
+        "det": 0
+    },
+    {
+        "n1": "pince",
+        "n2": "dissection",
+        "det": 0
+    },
+    {
+        "n1": "cuve",
+        "n2": "stérilisation",
+        "det": 0
+    },
+    {
+        "n1": "tube",
+        "n2": "analyse",
+        "det": 0
+    },
+    {
+        "n1": "bécher",
+        "n2": "mélange",
+        "det": 0
+    },
+    {
+        "n1": "flacon",
+        "n2": "stockage",
+        "det": 0
+    },
+    {
+        "n1": "fiole",
+        "n2": "dilution",
+        "det": 0
+    },
+    {
+        "n1": "capteur",
+        "n2": "détection",
+        "det": 0
+    },
+    {
+        "n1": "pompe",
+        "n2": "aspiration",
+        "det": 0
+    },
+    {
+        "n1": "sonde",
+        "n2": "exploration",
+        "det": 0
+    },
+    {
+        "n1": "caméra",
+        "n2": "enregistrement",
+        "det": 0
+    },
+    {
+        "n1": "râteau",
+        "n2": "ratissage",
+        "det": 0
+    },
+    {
+        "n1": "fourche",
+        "n2": "retournement",
+        "det": 0
+    },
+    {
+        "n1": "houe",
+        "n2": "binage",
+        "det": 0
+    },
+    {
+        "n1": "bêche",
+        "n2": "plantation",
+        "det": 0
+    },
+    {
+        "n1": "cisaille",
+        "n2": "coupe",
+        "det": 0
+    },
+    {
+        "n1": "tondeuse",
+        "n2": "fauchage",
+        "det": 0
+    },
+    {
+        "n1": "pulvérisateur",
+        "n2": "arrosage",
+        "det": 0
+    },
+    {
+        "n1": "tuyau",
+        "n2": "irrigation",
+        "det": 0
+    },
+    {
+        "n1": "balai",
+        "n2": "ramassage",
+        "det": 0
+    },
+    {
+        "n1": "scie",
+        "n2": "élagage",
+        "det": 0
+    },
+    {
+        "n1": "crochet",
+        "n2": "arrachage",
+        "det": 0
+    },
+    {
+        "n1": "filet",
+        "n2": "capture",
+        "det": 0
+    },
+    {
+        "n1": "corde",
+        "n2": "traction",
+        "det": 0
+    },
+    {
+        "n1": "pompe",
+        "n2": "arrosage",
+        "det": 0
+    },
+    {
+        "n1": "chariot",
+        "n2": "transport",
+        "det": 0
+    },
+    {
+        "n1": "râteau",
+        "n2": "ramassage",
+        "det": 0
+    },
+    {
+        "n1": "pelle",
+        "n2": "déneigement",
+        "det": 0
+    },
+    {
+        "n1": "pince",
+        "n2": "suture",
+        "det": 0
+    },
+    {
+        "n1": "pansement",
+        "n2": "protection",
+        "det": 0
+    },
+    {
+        "n1": "compresse",
+        "n2": "désinfection",
+        "det": 0
+    },
+    {
+        "n1": "pince",
+        "n2": "prélèvement",
+        "det": 0
+    },
+    {
+        "n1": "bistouri",
+        "n2": "chirurgie",
+        "det": 0
+    },
+    {
+        "n1": "canule",
+        "n2": "aspiration",
+        "det": 0
+    },
+    {
+        "n1": "cathéter",
+        "n2": "perfusion",
+        "det": 0
+    },
+    {
+        "n1": "pompe",
+        "n2": "infusion",
+        "det": 0
+    },
+    {
+        "n1": "stéthoscope",
+        "n2": "écoute",
+        "det": 0
+    },
+    {
+        "n1": "tensiomètre",
+        "n2": "mesure",
+        "det": 0
+    },
+    {
+        "n1": "défibrillateur",
+        "n2": "réanimation",
+        "det": 0
+    },
+    {
+        "n1": "lampe",
+        "n2": "examen",
+        "det": 0
+    },
+    {
+        "n1": "spray",
+        "n2": "désinfection",
+        "det": 0
+    },
+    {
+        "n1": "seringue",
+        "n2": "extraction",
+        "det": 0
+    },
+    {
+        "n1": "trocart",
+        "n2": "ponction",
+        "det": 0
+    },
+    {
+        "n1": "pince",
+        "n2": "extraction",
+        "det": 0
+    },
+    {
+        "n1": "câble",
+        "n2": "connexion",
+        "det": 0
+    },
+    {
+        "n1": "prise",
+        "n2": "alimentation",
+        "det": 0
+    },
+    {
+        "n1": "fusible",
+        "n2": "protection",
+        "det": 0
+    },
+    {
+        "n1": "interrupteur",
+        "n2": "allumage",
+        "det": 0
+    },
+    {
+        "n1": "disjoncteur",
+        "n2": "coupure",
+        "det": 0
+    },
+    {
+        "n1": "transformateur",
+        "n2": "conversion",
+        "det": 0
+    },
+    {
+        "n1": "batterie",
+        "n2": "recharge",
+        "det": 0
+    },
+    {
+        "n1": "chargeur",
+        "n2": "alimentation",
+        "det": 0
+    },
+    {
+        "n1": "régulateur",
+        "n2": "tension",
+        "det": 0
+    },
+    {
+        "n1": "diode",
+        "n2": "redressement",
+        "det": 0
+    },
+    {
+        "n1": "transistor",
+        "n2": "amplification",
+        "det": 0
+    },
+    {
+        "n1": "résistance",
+        "n2": "chauffage",
+        "det": 0
+    },
+    {
+        "n1": "convertisseur",
+        "n2": "courant",
+        "det": 0
+    },
+    {
+        "n1": "commutateur",
+        "n2": "transfert",
+        "det": 0
+    },
+    {
+        "n1": "carte",
+        "n2": "commande",
+        "det": 0
+    },
+    {
+        "n1": "puce",
+        "n2": "traitement",
+        "det": 0
+    },
+    {
+        "n1": "boîtier",
+        "n2": "protection",
+        "det": 0
+    },
+    {
+        "n1": "panneau",
+        "n2": "contrôle",
+        "det": 0
+    },
+    {
+        "n1": "câble",
+        "n2": "transmission",
+        "det": 0
+    },
+    {
+        "n1": "clé",
+        "n2": "compréhension",
+        "det": 0
+    },
+    {
+        "n1": "levier",
+        "n2": "changement",
+        "det": 0
+    },
+    {
+        "n1": "outil",
+        "n2": "analyse",
+        "det": 0
+    },
+    {
+        "n1": "support",
+        "n2": "apprentissage",
+        "det": 0
+    },
+    {
+        "n1": "base",
+        "n2": "réflexion",
+        "det": 0
+    },
+    {
+        "n1": "moyen",
+        "n2": "action",
+        "det": 0
+    },
+    {
+        "n1": "méthode",
+        "n2": "calcul",
+        "det": 0
+    },
+    {
+        "n1": "guide",
+        "n2": "décision",
+        "det": 0
+    },
+    {
+        "n1": "ressource",
+        "n2": "adaptation",
+        "det": 0
+    },
+    {
+        "n1": "stratégie",
+        "n2": "résolution",
+        "det": 0
+    },
+    {
+        "n1": "clé",
+        "n2": "interprétation",
+        "det": 0
+    },
+    {
+        "n1": "moteur",
+        "n2": "croissance",
+        "det": 0
+    },
+    {
+        "n1": "passerelle",
+        "n2": "communication",
+        "det": 0
+    },
+    {
+        "n1": "voie",
+        "n2": "expression",
+        "det": 0
+    },
+    {
+        "n1": "schéma",
+        "n2": "pensée",
+        "det": 0
+    },
+    {
+        "n1": "plan",
+        "n2": "exécution",
+        "det": 0
+    },
+    {
+        "n1": "outil",
+        "n2": "transformation",
+        "det": 0
+    },
+    {
+        "n1": "formule",
+        "n2": "calcul",
+        "det": 0
+    },
+    {
+        "n1": "carte",
+        "n2": "navigation",
+        "det": 0
+    },
+    {
+        "n1": "cadre",
+        "n2": "intervention",
+        "det": 0
+    },
+    {
+        "n1": "pinceau",
+        "n2": "peinture",
+        "det": 0
+    },
+    {
+        "n1": "brosse",
+        "n2": "finition",
+        "det": 0
+    },
+    {
+        "n1": "plume",
+        "n2": "écriture",
+        "det": 0
+    },
+    {
+        "n1": "crayon",
+        "n2": "dessin",
+        "det": 0
+    },
+    {
+        "n1": "gomme",
+        "n2": "effacement",
+        "det": 0
+    },
+    {
+        "n1": "règle",
+        "n2": "tracé",
+        "det": 0
+    },
+    {
+        "n1": "compas",
+        "n2": "dessin",
+        "det": 0
+    },
+    {
+        "n1": "palette",
+        "n2": "mélange",
+        "det": 0
+    },
+    {
+        "n1": "couteau",
+        "n2": "modelage",
+        "det": 0
+    },
+    {
+        "n1": "spatule",
+        "n2": "application",
+        "det": 0
+    },
+    {
+        "n1": "rouleau",
+        "n2": "impression",
+        "det": 0
+    },
+    {
+        "n1": "pochoir",
+        "n2": "décoration",
+        "det": 0
+    },
+    {
+        "n1": "craie",
+        "n2": "marquage",
+        "det": 0
+    },
+    {
+        "n1": "pinceau",
+        "n2": "retouche",
+        "det": 0
+    },
+    {
+        "n1": "plume",
+        "n2": "calligraphie",
+        "det": 0
+    },
+    {
+        "n1": "loupe",
+        "n2": "observation",
+        "det": 0
+    },
+    {
+        "n1": "ciseau",
+        "n2": "sculpture",
+        "det": 0
+    },
+    {
+        "n1": "marteau",
+        "n2": "modelage",
+        "det": 0
+    },
+    {
+        "n1": "pistolet",
+        "n2": "vernissage",
+        "det": 0
+    }
+]
