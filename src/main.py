@@ -23,12 +23,6 @@ RELATIONS_FILES_NAME = {"Agent":"70",           #r_processus>agent
 
 
 def train(filename : str): 
-    # Je crois que je peux pas réentrainer à partir d'un arbre déjà existant car les données json sur lesquel le premier arbre à été créer 
-    # sont aussi présentes dans les nouvelles données 
-    
-    # ancienne_racine = decode(train_dir+filename)
-    # print(ancienne_racine)
-    
     vecteurs = generateAllVectorsFromFile(str(DATA_DIR) + filename)
     racine : Noeud = constructionArbre(vecteurs)
     racine.encode(TRAIN_DIR+filename.replace(".json",""))
@@ -73,8 +67,8 @@ def prediction(phrase : str):
         print(f"{f} : {produitscalaire(vector, racine.valeur)}")
         
 if __name__ == "__main__":
-    prediction("vitesse du guépard") 
-    # train("Caractérisation.json")
+    # prediction("vitesse du guépard") 
+    train("Instrument.json")
     
     # files = [f for f in os.listdir(DATA_DIR) if os.path.isfile(os.path.join(DATA_DIR, f))]
     # for filename in files:

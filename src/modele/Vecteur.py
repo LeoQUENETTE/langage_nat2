@@ -1,7 +1,7 @@
 import api.api as api
 import json, os
 import math
-
+from concurrent.futures import ThreadPoolExecutor, as_completed
 R_ISA = "6"
 R_INFO_POT = "36"
 LIST_RELATIONS_ID_N1 = ["70", "54", "173", "42", "172", "10", "113", "15", "50", "171", "174", "142", "139", "76", "122"]
@@ -38,9 +38,18 @@ def generateVector(parsed_sentence :dict[str,str]) -> list[list[tuple[str,float]
     for noeud in [parsed_sentence["n1"], parsed_sentence["n2"]]:
         vecteur_noeud = []
         noeud = noeud.strip().lower()
-        all_r_isa = api.getRelationsFromNodeWithRelationID(noeud, R_ISA)
-        all_r_info_pot =  api.getRelationsFromNodeWithRelationID(noeud, R_INFO_POT)
         
+        relations = {}
+        with ThreadPoolExecutor(max_workers=2) as executor :
+            future_isa = executor.submit(
+                api.getRelationsFromNodeWithRelationID, noeud, R_ISA
+            )
+            future_info_pot = executor.submit(
+                api.getRelationsFromNodeWithRelationID, noeud, R_INFO_POT
+            )
+        
+        all_r_isa = future_isa.result()
+        all_r_info_pot = future_info_pot.result()
         if all_r_isa == "" or all_r_info_pot == "" or noeud == "":
             phrase.append(vecteur_noeud)
             break
@@ -78,9 +87,23 @@ def generateVector(parsed_sentence :dict[str,str]) -> list[list[tuple[str,float]
         #idem pour les 15 relations ; moyenne puis normalisation
         vecteur_temp = []
         w_max = 0
+        
+        with ThreadPoolExecutor(max_workers=len(LIST_RELATIONS_ID)) as executor:
+            futures = {
+                executor.submit(
+                    api.getRelationsFromNodeWithRelationID, noeud, r_id
+                ): r_id
+                for r_id in LIST_RELATIONS_ID
+            }
+            for future in as_completed(futures):
+                r_id = futures[future]
+                try:
+                    relations[int(r_id)] = future.result()
+                except Exception as e:
+                    print(f"Erreur pour la relation {r_id} : {e}")
         for r_id in LIST_RELATIONS_ID:
             somme = 0
-            rels_r_id = api.getRelationsFromNodeWithRelationID(noeud, r_id)["relations"]
+            rels_r_id = relations[int(r_id)]["relations"]
             if rels_r_id != "" and len(rels_r_id) > 0:
                 for r in rels_r_id:
                     poids = int(r["w"]) # calculer en fonction du log du nb de relation : 1 + log10(100) = 3
@@ -117,7 +140,8 @@ def generateAllVectorsFromFile(filename : str) -> list[list[list[tuple[str,float
         n = len(sentences)
         resultat = []
 
-        for i in range(n):
+        for i in range(1):
+            print("%.2f" % (i/n)+"%")
             phrase = generateVector(sentences[i])
             # end for noeud n1 + n2
             resultat.append(phrase)

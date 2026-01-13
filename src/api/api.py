@@ -2,7 +2,8 @@ import requests
 import json
 import re
 import os
-
+import time
+import threading
 
 JDM_URL = "https://jdm-api.demo.lirmm.fr/v0/"
 
@@ -10,6 +11,7 @@ JDM_URL = "https://jdm-api.demo.lirmm.fr/v0/"
 def get_search_result(url):
     filenameURL = re.sub(r'[^\w\-_]', '_', url)
     data = ""
+    start = time.time()
     if not os.path.exists(f"src/cache/{filenameURL}.json"):
         RequestData = requests.get(url)
         if RequestData.status_code == 200:
@@ -20,7 +22,6 @@ def get_search_result(url):
             print(f"Erreur [{RequestData.status_code}] : " + url.replace(JDM_URL, ""))
     else:
         try:
-            
             with open(f"src/cache/{filenameURL}.json", "r", encoding="utf-8") as file:
                 data = json.load(file)
         except:
