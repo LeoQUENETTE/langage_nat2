@@ -55,20 +55,41 @@ def parse_txt_to_json(phrase : str) -> dict:
 def prediction(phrase : str):
     parsed_phrase = parse_txt_to_json(phrase)
     
-    print(parsed_phrase["n1"],end=" ")
-    print(parsed_phrase["det"],end=" ")
-    print(parsed_phrase["n2"])
-    
     vector = generateVector(parsed_phrase)
     
     files = [f for f in os.listdir(TRAIN_DIR) if os.path.isfile(os.path.join(TRAIN_DIR, f))]
+    answers = {}
     for f in files:
         racine : Noeud = decode(TRAIN_DIR+f)
-        print(f"{f} : {produitscalaire(vector, racine.valeur)}")
+        val = produitscalaire(vector, racine.valeur)
+        answers[val] = f"{f} : {val}"
+
+    for _, v in dict(sorted(answers.items(), reverse=True)).items():
+        print(v)
         
 if __name__ == "__main__":
-    # prediction("vitesse du guépard") 
-    train("Instrument.json")
+    
+    phrase ="juge des enfants"
+    print(f"\nPhrase choisie : {phrase}\n")
+    prediction(phrase)
+    
+    
+    
+    # #train("Agent.json") 
+    # train("AuteurCréateur.json")
+    # #train("Caractérisation.json")
+    # train("Conséquence.json")
+    # train("Despiction.json")
+    # train("Holonymie.json")
+    # #train("Instrument.json")
+    # train("LienSocial.json")
+    # train("Lieu.json")
+    # train("Matière.json")
+    # train("Origine.json")
+    # train("Patient.json")
+    # train("Possession.json")
+    # train("Quantification.json")
+    # train("Topic.json")
     
     # files = [f for f in os.listdir(DATA_DIR) if os.path.isfile(os.path.join(DATA_DIR, f))]
     # for filename in files:
